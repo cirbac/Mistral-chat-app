@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consommer européen</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Consommer européen</h1>
+        <p id="meta-source" class="source"></p>
+      </div>
+      <div class="controls">
+        <label for="pref">Ma préférence d'achat</label>
+        <select id="pref"></select>
+        <span id="user" class="user"></span>
+        <button id="logout" type="button">Se déconnecter</button>
+      </div>
+    </header>
+
+    <div id="legende" class="legende"></div>
+
+    <section class="recherche">
+      <input id="search" type="search" placeholder="Tapez « voiture », « pneu », « café », « shampoing »…" autocomplete="off" />
+      <div id="secteur-chips" class="chips"></div>
+    </section>
+
+    <main class="contenu">
+      <section id="results" class="results"></section>
+      <aside id="detail" class="detail hidden"></aside>
+    </main>
+
+    <footer id="footer" class="footer"></footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
