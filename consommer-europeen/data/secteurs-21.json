@@ -18,10 +18,13 @@
     "statut": "rang1",
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Groupe familial. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/brioche-doree"
    },
    {
     "id": "restauration-et-livraison-de-repas-groupe-holder",
@@ -34,10 +37,13 @@
     "statut": "rang1",
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Groupe familial. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/paul"
    },
    {
     "id": "restauration-et-livraison-de-repas-restaurant-brands-international",
@@ -54,11 +60,13 @@
     "commentaire": "Siège à Toronto ; les directions de Burger King et de Popeyes restent à Miami [143] . 3G Capital (Brésil) détient environ 32 % selon [143] , chiffre non daté. Le propriétaire des restaurants français n'a pas été vérifié.",
     "sources": [
      143,
-     143
+     143,
+     210
     ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/burger-king"
    },
    {
     "id": "restauration-et-livraison-de-repas-doordash",
@@ -71,10 +79,13 @@
     "statut": "hors_zones",
     "sous_categorie": "Livraison de repas et anti-gaspillage",
     "commentaire": "DoorDash aurait racheté Deliveroo en 2025 selon mes informations. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/deliveroo-etats-unis"
    }
   ],
   "sous_categories": [

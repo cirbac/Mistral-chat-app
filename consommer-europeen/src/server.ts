@@ -22,6 +22,7 @@ interface Produit {
   origine_pieces: string | null;
   certifications: string[];
   note: string;
+  openfoodfacts?: string | null;
 }
 
 interface Groupe {
@@ -30,6 +31,7 @@ interface Groupe {
   marques: string[];
   aliases?: string[];
   siege: string;
+  openfoodfacts?: string | null;
   siege_pays: string;
   statut: string;
   commentaire: string;
@@ -292,15 +294,18 @@ app.get('/api/search', requireAuth, (req, res) => {
   for (const s of secteurs) {
     for (const g of s.groupes) {
       const item = withStatut(g, pref, s);
-      const hay = norm(
-        [g.groupe, ...g.marques, ...(g.aliases ?? []), s.nom, ...(s.keywords ?? []), ...(s.aliases ?? []), g.commentaire, g.siege, ...g.produits.map((p) => p.nom)].join(' '),
+      const hayContexte = norm(
+        [g.groupe, ...g.marques, ...(g.aliases ?? []), s.nom, ...(s.keywords ?? []), ...(s.aliases ?? []), g.commentaire, g.siege].join(' '),
       );
-      if (!hay.includes(q)) continue;
+      const hayProduits = g.produits.map((p) => norm([p.nom, p.note ?? ''].join(' ')));
+      const matchContexte = hayContexte.includes(q);
+      const matchProduit = hayProduits.some((h) => h.includes(q));
+      if (!matchContexte && !matchProduit) continue;
       if (item.recommande) {
         groupesMatch.push(item);
-        for (const p of g.produits) {
-          if (norm(p.nom).includes(q) || norm(p.note ?? '').includes(q)) {
-            produitsMatch.push({ produit: p, groupe: item, secteur: { id: s.id, num: s.num, nom: s.nom } });
+        for (let i = 0; i < g.produits.length; i++) {
+          if (matchContexte || hayProduits[i].includes(q)) {
+            produitsMatch.push({ produit: g.produits[i], groupe: item, secteur: { id: s.id, num: s.num, nom: s.nom } });
           }
         }
       } else {
@@ -335,7 +340,7 @@ app.get('/api/secteurs/:id', requireAuth, (req, res) => {
     sous_categories: s.sous_categories ?? [],
     keywords: s.keywords ?? [],
     pref,
-    groupes: pref === 'all' ? groupes : visibles,
+    groupes,
     masquees: pref === 'all' ? 0 : groupes.length - visibles.length,
   });
 });
