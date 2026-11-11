@@ -35,7 +35,7 @@ body {
   align-items: center;
   gap: 16px;
   padding: 12px 24px;
-  background: #11204c;
+  background: transparent;
   color: var(--cirba-blanc);
 }
 
@@ -67,7 +67,9 @@ body {
 .cats-nav-btn {
   border: none;
   background: none;
-  color: rgba(255, 255, 255, 0.92);
+  box-shadow: none;
+  text-shadow: none;
+  color: #ffffff;
   font-size: 1.05rem;
   font-weight: 600;
   cursor: pointer;
@@ -76,9 +78,7 @@ body {
 }
 
 .cats-nav-btn:hover {
-  color: #ffffff;
-  text-decoration: underline;
-  text-underline-offset: 4px;
+  opacity: 0.75;
 }
 
 .carousel-wrap {
@@ -144,7 +144,7 @@ body {
 .hero {
   background-color: #1e3a8a;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.45) 60%),
     url('assets/eu-stars-pixel.png'),
     url('assets/eu-flag-pixel.png');
   background-size: cover, auto 38%, cover;
