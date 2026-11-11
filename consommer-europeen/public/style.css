@@ -35,11 +35,12 @@ body {
   align-items: center;
   gap: 16px;
   padding: 12px 24px;
-  background: rgba(4, 4, 5, 0.55);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  background: transparent;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   color: var(--cirba-blanc);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .topbar-left {
@@ -61,7 +62,7 @@ body {
 .cats-nav {
   grid-column: 2;
   display: flex;
-  gap: 22px;
+  gap: 26px;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
@@ -70,8 +71,9 @@ body {
 .cats-nav-btn {
   border: none;
   background: none;
-  color: rgba(255, 255, 255, 0.85);
-  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 1.05rem;
+  font-weight: 600;
   cursor: pointer;
   padding: 4px 2px;
   white-space: nowrap;
@@ -464,6 +466,16 @@ button:hover {
 .lien-externe:hover {
   background: var(--cirba-noir);
   color: var(--cirba-blanc);
+}
+
+[data-theme='dark'] .lien-externe {
+  border-color: #4b5563;
+  color: #f2f2f2;
+}
+
+[data-theme='dark'] .lien-externe:hover {
+  background: #f2f2f2;
+  color: #111;
 }
 
 .detail {
