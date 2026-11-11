@@ -219,13 +219,15 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Multinationale alimentaire française, cotée au CAC 40 [151].",
     "sources": [
-     151
+     151,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/danone"
    },
    {
     "id": "alimentation-boissons-lactalis",
@@ -244,13 +246,15 @@
     "commentaire": "N°1 mondial des produits laitiers, groupe familial français [152][153].",
     "sources": [
      152,
-     153
+     153,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/lactalis"
    },
    {
     "id": "alimentation-boissons-avril",
@@ -266,13 +270,15 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Groupe agroalimentaire familial français (huiles, margarines).",
     "sources": [
-     153
+     153,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/avril"
    },
    {
     "id": "alimentation-boissons-teresos",
@@ -288,13 +294,15 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Coopérative sucrière française [154].",
     "sources": [
-     154
+     154,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/tereos"
    },
    {
     "id": "alimentation-boissons-ldc",
@@ -311,13 +319,15 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Champion français de la volaille, encore largement contrôlé par les familles fondatrices [153].",
     "sources": [
-     153
+     153,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/ldc"
    },
    {
     "id": "alimentation-boissons-coca-cola",
@@ -333,12 +343,15 @@
     "statut": "hors_zones",
     "sous_categorie": "Boissons",
     "commentaire": "Groupe américain. Hors de vos zones.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [
      "France (usines d'embouteillage)"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/coca-cola"
    },
    {
     "id": "alimentation-boissons-pepsico",
@@ -354,12 +367,15 @@
     "statut": "hors_zones",
     "sous_categorie": "Boissons",
     "commentaire": "Groupe américain. Hors de vos zones.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/pepsi"
    },
    {
     "id": "alimentation-boissons-suntory",
@@ -375,12 +391,15 @@
     "statut": "rang2",
     "sous_categorie": "Boissons",
     "commentaire": "Groupe japonais (Orangina Schweppes Europe).",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/suntory"
    },
    {
     "id": "alimentation-et-boissons-ferrero",
@@ -408,7 +427,8 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Groupe familial italien, n°1 mondial de la confiserie chocolatée (Nutella) [183].",
     "sources": [
-     183
+     183,
+     210
     ],
     "lieux_production": [
      "Italie",
@@ -426,9 +446,11 @@
       "assemblage": "France (Villeneuve-d'Ascq) et autres sites UE",
       "origine_pieces": null,
       "certifications": [],
-      "note": "Produit en France (site de Villeneuve-d'Ascq) et dans plusieurs usines européennes [183]."
+      "note": "Produit en France (site de Villeneuve-d'Ascq) et dans plusieurs usines européennes [183].",
+      "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620422003/nutella"
      }
-    ]
+    ],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/nutella"
    },
    {
     "id": "alimentation-boissons-mondelez",
@@ -456,7 +478,8 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Multinationale américaine (biscuits/chocolat) [193]. Hors de vos zones.",
     "sources": [
-     193
+     193,
+     210
     ],
     "lieux_production": [
      "France",
@@ -464,7 +487,8 @@
      "Suisse"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/oreo"
    },
    {
     "id": "alimentation-boissons-mars",
@@ -490,13 +514,15 @@
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Groupe familial américain [194]. Hors de vos zones.",
     "sources": [
-     194
+     194,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mars"
    },
    {
     "id": "alimentation-boissons-herta",
@@ -515,14 +541,16 @@
     "commentaire": "Marque française de charcuterie ; contrôle passé de Nestlé au groupe familial catalan Casa Tarradellas (60 % en 2019, 100 % en déc. 2025) [195][196]. Contrôle européen (Espagne).",
     "sources": [
      195,
-     196
+     196,
+     210
     ],
     "lieux_production": [
      "France",
      "Espagne"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/herta"
    }
   ]
  },
@@ -1518,13 +1546,15 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Boulangerie française historique [176].",
     "sources": [
-     176
+     176,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/paul"
    },
    {
     "id": "restauration-livraison-brioche-doree",
@@ -1538,13 +1568,15 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Chaîne française de restauration rapide (groupe Le Duff ? non — Brioche Dorée est indépendante, famille) — à vérifier.",
     "sources": [
-     176
+     176,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/brioche-doree"
    },
    {
     "id": "restauration-livraison-sodexo",
@@ -1560,13 +1592,15 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Groupe français de restauration collective, n°1 mondial [177].",
     "sources": [
-     177
+     177,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/sodexo"
    },
    {
     "id": "restauration-livraison-mcdonalds",
@@ -1585,7 +1619,8 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Chaîne américaine [186]. Produit phare : Big Mac (viande UE en France).",
     "sources": [
-     186
+     186,
+     210
     ],
     "lieux_production": [
      "France (fournisseurs UE)"
@@ -1598,9 +1633,11 @@
       "assemblage": "France (préparé en restaurant)",
       "origine_pieces": "Union européenne (viande)",
       "certifications": [],
-      "note": "Produit phare [186]."
+      "note": "Produit phare [186].",
+      "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000002603/big-mac-mcdonald-s"
      }
-    ]
+    ],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mcdonald-s"
    },
    {
     "id": "restauration-livraison-starbucks",
@@ -1619,7 +1656,8 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Chaîne américaine [187].",
     "sources": [
-     187
+     187,
+     210
     ],
     "lieux_production": [
      "France (cafés)"
@@ -1632,9 +1670,11 @@
       "assemblage": "France (préparé en magasin)",
       "origine_pieces": null,
       "certifications": [],
-      "note": "Produit phare [187]."
+      "note": "Produit phare [187].",
+      "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466995931/caffe-latte-starbucks"
      }
-    ]
+    ],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/starbucks"
    },
    {
     "id": "restauration-livraison-yum",
@@ -1656,13 +1696,15 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Groupe américain n°2 mondial du fast-food [207]. Hors de vos zones.",
     "sources": [
-     207
+     207,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/kfc"
    },
    {
     "id": "restauration-livraison-rbi",
@@ -1684,13 +1726,15 @@
     "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Holding canadienne ; 3G Capital (Brésil) détient ~26-32 % [208]. Rang 2 (Canada).",
     "sources": [
-     208
+     208,
+     210
     ],
     "lieux_production": [
      "France"
     ],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/burger-king"
    }
   ]
  },

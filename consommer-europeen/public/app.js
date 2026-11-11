@@ -226,30 +226,55 @@ async function showSecteur(id) {
 
   const titreMarques = document.createElement('h3');
   titreMarques.className = 'cat-sous-titre';
-  titreMarques.textContent = `Marques (${s.groupes.length} affichées${s.masquees > 0 ? `, ${s.masquees} masquée(s) par votre préférence` : ''})`;
   el.results.appendChild(titreMarques);
 
-  if (s.groupes.length === 0) {
-    const p = document.createElement('p');
-    p.className = 'vide';
-    p.textContent = 'Aucune marque dans cette catégorie avec cette préférence.';
-    el.results.appendChild(p);
-  }
   const liste = document.createElement('div');
   liste.className = 'results';
   for (const g of s.groupes) {
     const c = carteGroupe(g);
     c.dataset.sousCat = g.sous_categorie || '';
+    c.dataset.recommande = g.recommande ? '1' : '0';
     cards.push(c);
     liste.appendChild(c);
   }
   el.results.appendChild(liste);
 
+  function majTitre(sc) {
+    let aff = 0;
+    let masq = 0;
+    for (const c of cards) {
+      const match = !sc || c.dataset.sousCat === sc;
+      if (!match) continue;
+      if (c.dataset.recommande === '1') aff++;
+      else masq++;
+    }
+    titreMarques.textContent = `Marques (${aff} affichée${aff > 1 ? 's' : ''}${masq > 0 ? `, ${masq} masquée${masq > 1 ? 's' : ''} par votre préférence` : ''})`;
+    let vide = el.results.querySelector('.vide-filtre');
+    if (aff === 0) {
+      if (!vide) {
+        vide = document.createElement('p');
+        vide.className = 'vide vide-filtre';
+        el.results.appendChild(vide);
+      }
+      vide.textContent = masq > 0
+        ? `Aucune marque recommandée dans cette sélection avec votre préférence (${masq} affichée${masq > 1 ? 's' : ''} en grisée ci-dessous).`
+        : 'Aucune marque dans cette catégorie.';
+    } else if (vide) {
+      vide.remove();
+    }
+  }
+
   function filtrerSousCat(sc, chip) {
-    for (const c of cards) c.style.display = !sc || c.dataset.sousCat === sc ? '' : 'none';
+    for (const c of cards) {
+      const match = !sc || c.dataset.sousCat === sc;
+      c.style.display = match ? '' : 'none';
+      c.classList.toggle('carte-grisee', match && c.dataset.recommande !== '1');
+    }
     for (const b of el.results.querySelectorAll('.sous-cats .chip')) b.classList.remove('chip-active');
     if (chip) chip.classList.add('chip-active');
+    majTitre(sc);
   }
+  filtrerSousCat(null, el.results.querySelector('.sous-cats .chip'));
   window.scrollTo({ top: 0 });
 }
 
@@ -396,6 +421,16 @@ async function showGroupe(id) {
   ligneDtDd(dl, 'Marques', g.marques.join(', '));
   el.detail.appendChild(dl);
 
+  if (g.openfoodfacts) {
+    const a = document.createElement('a');
+    a.className = 'lien-externe';
+    a.href = g.openfoodfacts;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.textContent = 'Voir la marque sur Open Food Facts ↗';
+    el.detail.appendChild(a);
+  }
+
   if (g.commentaire) {
     const h = document.createElement('h3');
     h.textContent = 'Détention, contrôle et commentaires';
@@ -477,6 +512,16 @@ async function showProduit(id) {
   ligneDtDd(dl, 'Assemblage', p.assemblage ?? 'À vérifier sur la fiche produit / étiquette');
   ligneDtDd(dl, 'Origine des pièces', p.origine_pieces ?? 'Non précisée dans la grille');
   el.detail.appendChild(dl);
+
+  if (p.openfoodfacts) {
+    const a = document.createElement('a');
+    a.className = 'lien-externe';
+    a.href = p.openfoodfacts;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.textContent = 'Voir le produit sur Open Food Facts ↗';
+    el.detail.appendChild(a);
+  }
 
   if (p.certifications.length > 0) {
     const h = document.createElement('h3');

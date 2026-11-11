@@ -49,11 +49,11 @@ body {
 }
 
 .hero {
-  background-color: #06265f;
+  background-color: #1e3a8a;
   background-image:
-    linear-gradient(rgba(4, 4, 5, 0.42), rgba(4, 4, 5, 0.62)),
+    linear-gradient(rgba(4, 4, 5, 0.10), rgba(4, 4, 5, 0.32)),
     url('assets/eu-flag-pixel.png');
-  background-size: auto 150%;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   image-rendering: pixelated;
@@ -304,6 +304,28 @@ button:hover {
   color: #1a7f37;
   font-weight: 600;
   font-size: 0.75rem;
+}
+
+.carte-grisee {
+  opacity: 0.45;
+  filter: grayscale(0.7);
+}
+
+.lien-externe {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--cirba-anthracite);
+  color: var(--cirba-noir);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.lien-externe:hover {
+  background: var(--cirba-noir);
+  color: var(--cirba-blanc);
 }
 
 .detail {

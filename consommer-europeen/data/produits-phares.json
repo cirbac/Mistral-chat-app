@@ -158,7 +158,8 @@
    "assemblage": "France (Villeneuve-d'Ascq)",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620422003/nutella"
   }
  ],
  "alimentation-boissons-danone": [
@@ -168,7 +169,8 @@
    "assemblage": "France",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3033490744151/yaourt-nature-danone"
   }
  ],
  "alimentation-boissons-lactalis": [
@@ -178,7 +180,8 @@
    "assemblage": "France (Normandie)",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228022150023/camembert-president"
   }
  ],
  "alimentation-et-boissons-bonduelle": [
@@ -188,7 +191,8 @@
    "assemblage": "France",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3083680020763/mais-sans-sucres-ajoutes-bonduelle"
   }
  ],
  "alimentation-et-boissons-barilla": [
@@ -198,7 +202,8 @@
    "assemblage": "Italie",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8076809580847/penne-rigate-al-bronzo-pates-alimentaires-de-qualite-superieure-400g-barilla"
   }
  ],
  "alimentation-boissons-coca-cola": [
@@ -208,7 +213,8 @@
    "assemblage": "France (usines d'embouteillage)",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000439/coca-cola"
   }
  ],
  "hygiene-beaute-et-sante-l-oreal": [
@@ -398,7 +404,8 @@
    "assemblage": "France",
    "origine_pieces": null,
    "certifications": [],
-   "note": "Produit phare de la marque."
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/cgi/search.pl?search_terms=Ticket%20Restaurant&action=process"
   }
  ],
  "maison-bricolage-jardin-dyson": [

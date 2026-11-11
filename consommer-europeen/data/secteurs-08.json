@@ -19,10 +19,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/la-vache-qui-rit"
    },
    {
     "id": "alimentation-et-boissons-bonduelle",
@@ -36,10 +39,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/bonduelle"
    },
    {
     "id": "alimentation-et-boissons-fleury-michon",
@@ -52,10 +58,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/fleury-michon"
    },
    {
     "id": "alimentation-et-boissons-nestle",
@@ -71,10 +80,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/nescafe"
    },
    {
     "id": "alimentation-et-boissons-barilla",
@@ -88,10 +100,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/barilla"
    },
    {
     "id": "alimentation-et-boissons-unilever",
@@ -105,10 +120,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "Heineken Heineken, Pelforth, Desperados, Affligem Carlsberg Carlsberg, Kronenbourg, 1664",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/knorr"
    },
    {
     "id": "alimentation-et-boissons-pernod-ricard",
@@ -124,10 +142,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/ricard"
    },
    {
     "id": "alimentation-et-boissons-remy-cointreau",
@@ -141,10 +162,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/remy-martin"
    },
    {
     "id": "alimentation-et-boissons-lvmh-moet-hennessy",
@@ -159,10 +183,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/moet-chandon"
    },
    {
     "id": "alimentation-et-boissons-haribo",
@@ -175,10 +202,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/haribo"
    },
    {
     "id": "alimentation-et-boissons-savencia-valrhona",
@@ -191,10 +221,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Valrhona appartient à Savencia selon mes informations. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/valrhona"
    },
    {
     "id": "alimentation-et-boissons-andros",
@@ -208,10 +241,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/bonne-maman"
    },
    {
     "id": "alimentation-et-boissons-cemoi",
@@ -224,10 +260,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/cemoi"
    },
    {
     "id": "alimentation-et-boissons-ebro-foods",
@@ -241,10 +280,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Panzani appartient à Ebro Foods (Espagne) selon mes informations. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/panzani"
    },
    {
     "id": "alimentation-et-boissons-de-cecco",
@@ -257,10 +299,13 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/de-cecco"
    },
    {
     "id": "alimentation-et-boissons-ajinomoto",
@@ -273,10 +318,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/ajinomoto"
    },
    {
     "id": "alimentation-et-boissons-nissin-foods",
@@ -290,10 +338,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/nissin"
    },
    {
     "id": "alimentation-et-boissons-kikkoman",
@@ -306,10 +357,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/kikkoman"
    },
    {
     "id": "alimentation-et-boissons-nongshim",
@@ -323,10 +377,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/nongshim"
    },
    {
     "id": "alimentation-et-boissons-cj-cheiljedang",
@@ -340,10 +397,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/bibigo"
    },
    {
     "id": "alimentation-et-boissons-lotte",
@@ -356,10 +416,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/lotte-coree-du-sud-japon"
    },
    {
     "id": "alimentation-et-boissons-uni-president",
@@ -372,10 +435,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/uni-president-taiwan"
    },
    {
     "id": "alimentation-et-boissons-saputo",
@@ -388,10 +454,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Siège à Montréal selon mes informations. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/saputo"
    },
    {
     "id": "alimentation-et-boissons-mccain-foods",
@@ -404,10 +473,13 @@
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Siège à Florenceville-Bristol (Nouveau-Brunswick) selon mes informations. Groupe familial. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mccain"
    },
    {
     "id": "alimentation-et-boissons-diageo",
@@ -422,10 +494,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/guinness"
    },
    {
     "id": "alimentation-et-boissons-campari-group",
@@ -439,10 +514,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/campari"
    },
    {
     "id": "alimentation-et-boissons-lavazza",
@@ -455,10 +533,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/lavazza"
    },
    {
     "id": "alimentation-et-boissons-illy",
@@ -471,10 +552,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Groupe familial.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/illy"
    },
    {
     "id": "alimentation-et-boissons-massimo-zanetti-beverage",
@@ -487,10 +571,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/segafredo"
    },
    {
     "id": "alimentation-et-boissons-roxane",
@@ -503,10 +590,13 @@
     "statut": "rang1",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/cristaline"
    },
    {
     "id": "alimentation-et-boissons-suntory",
@@ -521,10 +611,13 @@
     "statut": "rang2",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Suntory contrôle Orangina Schweppes selon mes informations. Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/orangina"
    },
    {
     "id": "alimentation-et-boissons-asahi-group",
@@ -538,10 +631,13 @@
     "statut": "rang2",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Non revérifié.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/asahi"
    },
    {
     "id": "alimentation-et-boissons-kirin",
@@ -554,10 +650,13 @@
     "statut": "rang2",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/kirin"
    },
    {
     "id": "alimentation-et-boissons-keurig-dr-pepper-jde-peet-s",
@@ -577,11 +676,13 @@
     "sources": [
      144,
      145,
-     146
+     146,
+     210
     ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/l-or"
    },
    {
     "id": "alimentation-et-boissons-red-bull",
@@ -594,10 +695,13 @@
     "statut": "hors_zones",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "La famille Yoovidhya (Thaïlande) détient la majorité du capital selon mes informations. Non revérifié. Bacardi,",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/red-bull"
    },
    {
     "id": "alimentation-et-boissons-brown-forman",
@@ -611,10 +715,13 @@
     "statut": "hors_zones",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Hors de vos zones.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/bacardi"
    },
    {
     "id": "alimentation-et-boissons-monster-beverage",
@@ -627,10 +734,13 @@
     "statut": "hors_zones",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Hors de vos zones.",
-    "sources": [],
+    "sources": [
+     210
+    ],
     "lieux_production": [],
     "certifications": [],
-    "produits": []
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/monster-etats-unis"
    }
   ],
   "sous_categories": [
