@@ -41,15 +41,15 @@
  "statuts": [
   {
    "id": "rang1",
-   "label": "Rang 1",
+   "label": "France / UE",
    "couleur": "#1a7f37",
-   "description": "Capital et contrôle européens (Union européenne, Royaume-Uni, Suisse, Norvège). Le lieu de production peut varier selon le produit."
+   "description": "Capital et contrôle européens, France comprise (UE, Royaume-Uni, Suisse, Norvège). Le lieu de production peut varier selon le produit."
   },
   {
    "id": "rang2",
-   "label": "Rang 2",
+   "label": "Hautes démocraties",
    "couleur": "#0969da",
-   "description": "Capital et contrôle japonais, sud-coréens, taïwanais ou canadiens."
+   "description": "Capital et contrôle de hautes démocraties alliées : Japon, Corée du Sud, Taïwan, Canada."
   },
   {
    "id": "vigilance",
@@ -80,17 +80,17 @@
   {
    "id": "fr",
    "label": "Préférence France",
-   "description": "Groupes contrôlés en France (siège en France, statut Rang 1 ou Vigilance)."
+   "description": "Groupes contrôlés en France (siège en France, statut « France / UE » ou Vigilance)."
   },
   {
    "id": "ue",
    "label": "Préférence Union européenne",
-   "description": "Capital et contrôle européens : UE, Royaume-Uni, Suisse, Norvège (Rang 1 + Vigilance)."
+   "description": "Capital et contrôle européens : UE, Royaume-Uni, Suisse, Norvège (« France / UE » + Vigilance)."
   },
   {
    "id": "hautes_democraties",
    "label": "Hautes démocraties (annexe)",
-   "description": "Préférence UE + Japon, Corée du Sud, Taïwan, Canada (Rang 1 + Rang 2 + Vigilance)."
+   "description": "Préférence UE + Japon, Corée du Sud, Taïwan, Canada (« France / UE » + « Hautes démocraties » + Vigilance)."
   },
   {
    "id": "all",
