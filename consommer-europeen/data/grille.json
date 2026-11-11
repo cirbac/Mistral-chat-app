@@ -22,12 +22,13 @@
    "Huit nouveaux secteurs : banque et assurance, transport et mobilité, hôtellerie, jouets et jeux vidéo, maison et bricolage, montres et optique, médias et streaming, restauration et livraison."
   ],
   "import": {
-   "document": "consommer_europeen_grille_sectorielle_v4_2026_10_11.docx (Drive, converti depuis le PDF v4)",
+   "document": "consommer_europeen_grille_sectorielle_v4_2026_10_11.docx (Drive)",
    "date_import": "2026-11-11",
-   "groupes_importes": 427,
-   "sources_importes": 146,
-   "anomalies_parse": 17,
-   "parser": "tools/parse_docx.py"
+   "groupes_importes": 526,
+   "produits_importes": 5,
+   "anomalies_parse": 10,
+   "parser": "tools/parse_docx.py",
+   "note": "615 lignes annoncees dans le document ; 526 lignes-groupe propres extraites (le reste est dans les commentaires ou en anomaly), sous-categories taguees, produits extraits des commentaires"
   }
  },
  "methode": {

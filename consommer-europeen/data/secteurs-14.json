@@ -6,16 +6,13 @@
   "note": "",
   "groupes": [
    {
-    "id": "banque-assurance-et-epargne-groupe-bpce",
-    "groupe": "Groupe BPCE",
-    "marques": [
-     "Banque Populaire",
-     "Caisse d'Epargne",
-     "Natixis"
-    ],
+    "id": "banque-assurance-et-epargne-societe-generale",
+    "groupe": "Société Générale",
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -23,34 +20,41 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-credit-agricole",
-    "groupe": "Crédit Agricole",
-    "marques": [
-     "Crédit Agricole",
-     "LCL",
-     "Indosuez"
-    ],
+    "id": "banque-assurance-et-epargne-groupe-mutualiste",
+    "groupe": "Groupe mutualiste.",
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Groupe mutualiste. France Rang 1 Groupe coopératif.",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-societe-generale",
-    "groupe": "Société Générale",
-    "marques": [
-     "Société Générale",
-     "Boursorama",
-     "Crédit du Nord Crédit Mutuel",
-     "CIC"
-    ],
+    "id": "banque-assurance-et-epargne-groupe-cooperatif",
+    "groupe": "Groupe coopératif.",
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-credit-mutuel-alliance-federale",
+    "groupe": "Crédit Mutuel Alliance Fédérale",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
     "commentaire": "Groupe mutualiste.",
     "sources": [],
     "lieux_production": [],
@@ -60,12 +64,11 @@
    {
     "id": "banque-assurance-et-epargne-la-banque-postale",
     "groupe": "La Banque Postale",
-    "marques": [
-     "La Banque Postale"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
     "commentaire": "Filiale du groupe La Poste, à capitaux publics. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -75,14 +78,16 @@
    {
     "id": "banque-assurance-et-epargne-saxo-bank",
     "groupe": "Saxo Bank",
-    "marques": [
-     "Saxo"
-    ],
+    "marques": [],
     "siege": "Danemark",
     "siege_pays": "DK",
     "statut": "rang1",
-    "commentaire": "J. Safra Sarasin (Bâle, Suisse) a repris environ 71 % du capital, auparavant détenu notamment",
-    "sources": [],
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "J. Safra Sarasin (Bâle, Suisse) a repris environ 71 % du capital, auparavant détenu notamment par Geely Financials Denmark (Chine) et Mandatum [124] [125] . Le fondateur Kim Fournais conserve environ 28 %.",
+    "sources": [
+     124,
+     125
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []
@@ -90,12 +95,11 @@
    {
     "id": "banque-assurance-et-epargne-revolut",
     "groupe": "Revolut",
-    "marques": [
-     "Revolut"
-    ],
+    "marques": [],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
     "commentaire": "Siège à Londres. Répartition du capital non revérifiée.",
     "sources": [],
     "lieux_production": [],
@@ -105,30 +109,43 @@
    {
     "id": "banque-assurance-et-epargne-trade-republic",
     "groupe": "Trade Republic",
-    "marques": [
-     "Trade Republic"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Répartition du capital non revérifiée. flatexDEGIRO DEGIRO Allemagne Rang 1 Non revérifié.",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Répartition du capital non revérifiée.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-credit-mutuel-alliance-federale",
-    "groupe": "Crédit Mutuel Alliance Fédérale",
-    "marques": [
-     "par Geely Financials Denmark (Chine) et Mandatum [124] [125] . Le fondateur Kim Fournais conserve environ 28 %."
-    ],
+    "id": "banque-assurance-et-epargne-flatexdegiro",
+    "groupe": "flatexDEGIRO",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-qonto",
+    "groupe": "Qonto",
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "commentaire": "Tencent (Chine) est entré au capital lors du tour de janvier 2020 [128] et figure parmi les",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Tencent (Chine) est entré au capital lors du tour de janvier 2020 [128] et figure parmi les actionnaires présents à la série D [129] . Part du capital détenue : je ne sais pas.",
     "sources": [
-     128
+     128,
+     129
     ],
     "lieux_production": [],
     "certifications": [],
@@ -137,13 +154,12 @@
    {
     "id": "banque-assurance-et-epargne-n26",
     "groupe": "N26",
-    "marques": [
-     "N26"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "vigilance",
-    "commentaire": "Tencent (Chine) figure parmi les investisseurs de N26 selon [130] . Part du capital détenue : je",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Tencent (Chine) figure parmi les investisseurs de N26 selon [130] . Part du capital détenue : je ne sais pas.",
     "sources": [
      130
     ],
@@ -154,13 +170,12 @@
    {
     "id": "banque-assurance-et-epargne-lydia",
     "groupe": "Lydia",
-    "marques": [
-     "Lydia"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "commentaire": "Tencent (Chine) a pris part au tour de 40 millions d'euros de Lydia, selon [128] . Part du",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Tencent (Chine) a pris part au tour de 40 millions d'euros de Lydia, selon [128] . Part du capital détenue : je ne sais pas.",
     "sources": [
      128
     ],
@@ -169,32 +184,30 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-qonto",
-    "groupe": "Qonto",
-    "marques": [
-     "Qonto (comptes professionnels) ne sais pas. capital détenue : je ne sais pas. CCF",
-     "ex-HSBC France"
-    ],
+    "id": "banque-assurance-et-epargne-ccf-my-money-group",
+    "groupe": "CCF (My Money Group)",
+    "marques": [],
     "siege": "France (siège)",
     "siege_pays": "FR",
     "statut": "hors_zones",
-    "commentaire": "Cerberus (États-Unis) contrôle My Money Group et CCF, qui a repris le 1er janvier 2024 la",
-    "sources": [],
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Cerberus (États-Unis) contrôle My Money Group et CCF, qui a repris le 1er janvier 2024 la banque de détail d'HSBC en France [126] [127] .",
+    "sources": [
+     126,
+     127
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-ccf-my-money-group",
-    "groupe": "CCF (My Money Group)",
-    "marques": [
-     "Interactive Brokers",
-     "eToro",
-     "Coinbase États-Unis / Israël"
-    ],
+    "id": "banque-assurance-et-epargne-interactive-brokers-etoro-coinbase",
+    "groupe": "Interactive Brokers, eToro, Coinbase",
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
     "commentaire": "Hors de vos zones. Non revérifié pour eToro.",
     "sources": [],
     "lieux_production": [],
@@ -204,12 +217,11 @@
    {
     "id": "banque-assurance-et-epargne-allianz",
     "groupe": "Allianz",
-    "marques": [
-     "Allianz"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Assurance",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -219,12 +231,11 @@
    {
     "id": "banque-assurance-et-epargne-generali",
     "groupe": "Generali",
-    "marques": [
-     "Generali"
-    ],
+    "marques": [],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
+    "sous_categorie": "Assurance",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -234,14 +245,82 @@
    {
     "id": "banque-assurance-et-epargne-groupama",
     "groupe": "Groupama",
-    "marques": [
-     "Groupama",
-     "Gan"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Groupe mutualiste. MAIF MAIF France Rang 1 Mutuelle. Macif Macif France Rang 1 Mutuelle. Matmut Matmut France Rang 1 Mutuelle. Covéa MMA, GMF, MAAF France Rang 1 Groupe mutualiste.",
+    "sous_categorie": "Assurance",
+    "commentaire": "Groupe mutualiste.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-maif",
+    "groupe": "MAIF",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "Mutuelle.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-macif",
+    "groupe": "Macif",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "Mutuelle.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-matmut",
+    "groupe": "Matmut",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "Mutuelle.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-covea",
+    "groupe": "Covéa",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "Groupe mutualiste.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-zurich",
+    "groupe": "Zurich",
+    "marques": [],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -250,12 +329,11 @@
    {
     "id": "banque-assurance-et-epargne-swiss-life",
     "groupe": "Swiss Life",
-    "marques": [
-     "Swiss Life"
-    ],
+    "marques": [],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
+    "sous_categorie": "Assurance",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -265,12 +343,11 @@
    {
     "id": "banque-assurance-et-epargne-aviva",
     "groupe": "Aviva",
-    "marques": [
-     "Aviva"
-    ],
+    "marques": [],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
+    "sous_categorie": "Assurance",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -280,30 +357,12 @@
    {
     "id": "banque-assurance-et-epargne-alan",
     "groupe": "Alan",
-    "marques": [
-     "Alan"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Assurance",
     "commentaire": "Actionnariat non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-et-epargne-interactive-brokers-etoro-coinbase",
-    "groupe": "Interactive Brokers, eToro, Coinbase",
-    "marques": [
-     "Tokio Marine",
-     "Sompo",
-     "MS&AD"
-    ],
-    "siege": "Japon",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -312,13 +371,25 @@
    {
     "id": "banque-assurance-et-epargne-tokio-marine-sompo-ms-ad",
     "groupe": "Tokio Marine, Sompo, MS&AD",
-    "marques": [
-     "Samsung Life",
-     "Samsung Fire Corée du Sud"
-    ],
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Assurance",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-samsung-life-samsung-fire",
+    "groupe": "Samsung Life, Samsung Fire",
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Assurance",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -328,12 +399,11 @@
    {
     "id": "banque-assurance-et-epargne-ping-an",
     "groupe": "Ping An",
-    "marques": [
-     "Ping An"
-    ],
+    "marques": [],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
+    "sous_categorie": "Assurance",
     "commentaire": "Groupe chinois.",
     "sources": [],
     "lieux_production": [],
@@ -343,13 +413,11 @@
    {
     "id": "banque-assurance-et-epargne-amundi",
     "groupe": "Amundi",
-    "marques": [
-     "Amundi",
-     "Lyxor"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
     "commentaire": "Contrôlé par Crédit Agricole selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -359,27 +427,25 @@
    {
     "id": "banque-assurance-et-epargne-dws",
     "groupe": "DWS",
-    "marques": [
-     "Xtrackers"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Filiale cotée de Deutsche Bank selon mes informations. Non revérifié.",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
+    "commentaire": "Filiale cotée de Deutsche Bank selon mes informations. Non revérifié. BNP Paribas Asset Management UBS Asset Management",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-management",
-    "groupe": "Management",
-    "marques": [
-     "BNP Paribas Easy"
-    ],
+    "id": "banque-assurance-et-epargne-nomura-asset-management",
+    "groupe": "Nomura Asset Management",
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -387,14 +453,13 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-ubs-asset",
-    "groupe": "UBS Asset",
-    "marques": [
-     "UBS ETF"
-    ],
+    "id": "banque-assurance-et-epargne-ubs-etf",
+    "groupe": "UBS ETF",
+    "marques": [],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -402,14 +467,13 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-bnp-paribas-asset-management",
-    "groupe": "BNP Paribas Asset Management",
-    "marques": [
-     "Nomura"
-    ],
+    "id": "banque-assurance-et-epargne-nomura",
+    "groupe": "Nomura",
+    "marques": [],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
     "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -419,31 +483,12 @@
    {
     "id": "banque-assurance-et-epargne-mirae-asset",
     "groupe": "Mirae Asset",
-    "marques": [
-     "Mirae Asset",
-     "Global X Corée du Sud"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
-    "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-et-epargne-blackrock",
-    "groupe": "BlackRock,",
-    "marques": [
-     "iShares",
-     "Vanguard",
-     "SPDR États-Unis"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "commentaire": "Hors de vos zones.",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
+    "commentaire": "Non revérifié. BlackRock,",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -455,7 +500,22 @@
     "marques": [],
     "siege": "",
     "siege_pays": "??",
+    "statut": "hors_zones",
+    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-satoshilabs",
+    "groupe": "SatoshiLabs",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
     "statut": "rang1",
+    "sous_categorie": "Prestataires de services sur crypto-actifs",
     "commentaire": "Portefeuilles matériels. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -465,13 +525,12 @@
    {
     "id": "banque-assurance-et-epargne-binance",
     "groupe": "Binance",
-    "marques": [
-     "Binance Je ne sais pas"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "vigilance",
-    "commentaire": "Je ne sais pas où se situe le siège ni qui contrôle le capital. À vérifier dans le registre de l'AMF et",
+    "sous_categorie": "Prestataires de services sur crypto-actifs",
+    "commentaire": "Je ne sais pas où se situe le siège ni qui contrôle le capital. À vérifier dans le registre de l'AMF et auprès de l'entité concernée.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -480,13 +539,11 @@
    {
     "id": "banque-assurance-et-epargne-kraken-coinbase",
     "groupe": "Kraken, Coinbase",
-    "marques": [
-     "Kraken",
-     "Coinbase États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Prestataires de services sur crypto-actifs",
     "commentaire": "Hors de vos zones. Non revérifié pour Kraken.",
     "sources": [],
     "lieux_production": [],
@@ -495,7 +552,10 @@
    }
   ],
   "sous_categories": [
-   "Banques, banques en ligne et courtiers"
+   "Banques, banques en ligne et courtiers",
+   "Assurance",
+   "Gestion d'actifs et fonds indiciels (ETF)",
+   "Prestataires de services sur crypto-actifs"
   ],
   "keywords": [
    "banque",

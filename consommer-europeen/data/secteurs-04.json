@@ -1,0 +1,231 @@
+[
+ {
+  "num": "04",
+  "id": "electromenager",
+  "nom": "Électroménager",
+  "note": "",
+  "groupes": [
+   {
+    "id": "electromenager-bsh-groupe-bosch",
+    "groupe": "BSH (groupe Bosch)",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-miele",
+    "groupe": "Miele",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-liebherr",
+    "groupe": "Liebherr",
+    "marques": [],
+    "siege": "Suisse / Allemagne",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-electrolux",
+    "groupe": "Electrolux",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-smeg",
+    "groupe": "Smeg",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-amica",
+    "groupe": "Amica",
+    "marques": [],
+    "siege": "Pologne",
+    "siege_pays": "PL",
+    "statut": "rang1",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-lg-electronics",
+    "groupe": "LG Electronics",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-cafom",
+    "groupe": "Cafom",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Brandt France liquidé, aucune reprise industrielle retenue le 13 mars 2026, usines de Vendôme et Orléans fermées, marques reprises par le distributeur Cafom [7] . Production externalisée [8] : ce n'est plus du fabriqué en France.",
+    "sources": [
+     7,
+     8
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-beko-europe-arcelik",
+    "groupe": "Beko Europe (Arçelik)",
+    "marques": [],
+    "siege": "Turquie",
+    "siege_pays": "TR",
+    "statut": "hors_zones",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Arçelik est devenu seul propriétaire de Beko Europe [9] [11] . Usines en Italie, Pologne, Slovaquie et Roumanie [10] . Turquie hors de vos critères : à arbitrer.",
+    "sources": [
+     9,
+     11,
+     10
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-haier",
+    "groupe": "Haier",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Rachat de Candy Hoover par Haier [12] .",
+    "sources": [
+     12
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-hisense",
+    "groupe": "Hisense",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Rachat de Gorenje (et Asko) par Hisense [12] .",
+    "sources": [
+     12
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-groupe-seb",
+    "groupe": "Groupe SEB",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Petit électroménager",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-de-longhi",
+    "groupe": "De'Longhi",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Petit électroménager",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-panasonic",
+    "groupe": "Panasonic",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Petit électroménager",
+    "commentaire": "Hors téléviseurs (voir la section Téléviseurs). Versuni Philips (sous licence), Saeco, Gaggia",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Gros électroménager",
+   "Petit électroménager"
+  ],
+  "keywords": [
+   "électroménager",
+   "lave-linge",
+   "lave-vaisselle",
+   "réfrigérateur",
+   "congélateur",
+   "four",
+   "plaque de cuisson",
+   "gros électroménager"
+  ]
+ }
+]

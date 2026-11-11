@@ -8,12 +8,11 @@
    {
     "id": "voyage-et-plein-air-lvmh",
     "groupe": "LVMH",
-    "marques": [
-     "Rimowa"
-    ],
+    "marques": [],
     "siege": "Allemagne (origine)",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Valises et bagagerie",
     "commentaire": "LVMH a acquis 80 % du capital, le petit-fils du fondateur Dieter Morszeck conservant la direction [115] . Structure actuelle non revérifiée.",
     "sources": [
      115
@@ -25,13 +24,26 @@
    {
     "id": "voyage-et-plein-air-longchamp",
     "groupe": "Longchamp",
-    "marques": [
-     "Longchamp"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Valises et bagagerie",
     "commentaire": "Maison familiale.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-victorinox",
+    "groupe": "Victorinox",
+    "marques": [],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Valises et bagagerie",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -40,13 +52,12 @@
    {
     "id": "voyage-et-plein-air-delsey",
     "groupe": "Delsey",
-    "marques": [
-     "Delsey Paris"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "commentaire": "Passé en juillet 2018 sous le contrôle de fonds créanciers : Pemberton, Permira et Avenue Capital [116] , Avenue Capital ayant ensuite cédé ses parts à Pemberton [117] . Une base de données mentionne une cession le 1er septembre 2025 sans nommer l'acquéreur aujourd'hui.",
+    "sous_categorie": "Valises et bagagerie",
+    "commentaire": "Passé en juillet 2018 sous le contrôle de fonds créanciers : Pemberton, Permira et Avenue Capital [116] , Avenue Capital ayant ensuite cédé ses parts à Pemberton [117] . Une base de données mentionne une cession le 1er septembre 2025 sans nommer l'acquéreur aujourd'hui. Samsonite Group",
     "sources": [
      116,
      117
@@ -56,20 +67,14 @@
     "produits": []
    },
    {
-    "id": "voyage-et-plein-air-samsonite-group",
-    "groupe": "Samsonite Group",
-    "marques": [
-     "Samsonite",
-     "Tumi",
-     "American Tourister",
-     "Lipault",
-     "Gregory",
-     "High Sierra"
-    ],
+    "id": "voyage-et-plein-air-samsonite-tumi-american-tourister-lipault-gregory",
+    "groupe": "Samsonite, Tumi, American Tourister, Lipault, Gregory,",
+    "marques": [],
     "siege": "Luxembourg (siège légal)",
     "siege_pays": "LU",
     "statut": "hors_zones",
-    "commentaire": "Société de droit luxembourgeois [113] , cotée à Hong Kong, avec un siège opérationnel à Mansfield (Massachusetts) [112] . Marques du groupe, dont Lipault [114] . Répartition du capital non vérifiée. Sacs à dos et vêtements de montagne",
+    "sous_categorie": "Valises et bagagerie",
+    "commentaire": "Société de droit luxembourgeois [113] , cotée à Hong Kong, avec un siège opérationnel à Mansfield (Massachusetts) [112] . Marques du groupe, dont Lipault [114] . Répartition du capital non vérifiée.",
     "sources": [
      113,
      112,
@@ -82,16 +87,11 @@
    {
     "id": "voyage-et-plein-air-fenix-outdoor",
     "groupe": "Fenix Outdoor",
-    "marques": [
-     "Fjällräven",
-     "Hanwag",
-     "Tierra",
-     "Royal Robbins",
-     "Devold"
-    ],
+    "marques": [],
     "siege": "Suisse (siège), Suède",
     "siege_pays": "CH",
     "statut": "rang1",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Siège en Suisse, cotée à Stockholm [104] . Martin Nordin détient 15,4 % du capital et 52,9 % des voix au 30 décembre 2025 ; Bestseller United (Danemark) 10,0 % du capital [103] . Devold repris à 65 % [106] .",
     "sources": [
      104,
@@ -105,12 +105,11 @@
    {
     "id": "voyage-et-plein-air-schwan-stabilo",
     "groupe": "Schwan-Stabilo",
-    "marques": [
-     "Deuter"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Siège à Gersthofen, marque rachetée par le groupe Schwan-Stabilo ; fabrication confiée à des partenaires en Asie [109] .",
     "sources": [
      109
@@ -122,13 +121,26 @@
    {
     "id": "voyage-et-plein-air-vaude",
     "groupe": "Vaude",
-    "marques": [
-     "Vaude"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Entreprise familiale. Petzl Petzl France Rang 1 Entreprise familiale.",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
+    "commentaire": "Entreprise familiale.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-petzl",
+    "groupe": "Petzl",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
+    "commentaire": "Entreprise familiale.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -137,13 +149,11 @@
    {
     "id": "voyage-et-plein-air-millet-mountain-group",
     "groupe": "Millet Mountain Group",
-    "marques": [
-     "Millet",
-     "Lafuma Outdoor"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Vendu par Calida en février 2022 à Jean-Pierre Millet et Inspiring Sport Capital : retour à la famille fondatrice [110] .",
     "sources": [
      110
@@ -155,13 +165,11 @@
    {
     "id": "voyage-et-plein-air-decathlon",
     "groupe": "Decathlon",
-    "marques": [
-     "Quechua",
-     "Forclaz"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Groupe familial.",
     "sources": [],
     "lieux_production": [],
@@ -171,12 +179,11 @@
    {
     "id": "voyage-et-plein-air-k2-group",
     "groupe": "K2 Group",
-    "marques": [
-     "Eider Corée du Sud"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Eider, marque française de montagne, cédée par Calida au sud-coréen K2 [111] .",
     "sources": [
      111
@@ -188,12 +195,11 @@
    {
     "id": "voyage-et-plein-air-mammut",
     "groupe": "Mammut",
-    "marques": [
-     "Mammut"
-    ],
+    "marques": [],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "vigilance",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Cession par Jacobs Capital au fonds chinois CPE annoncée fin juillet 2026, sous réserve d'autorisations réglementaires [107] [108] .",
     "sources": [
      107,
@@ -206,12 +212,11 @@
    {
     "id": "voyage-et-plein-air-kontoor-brands",
     "groupe": "Kontoor Brands",
-    "marques": [
-     "Helly Hansen Norvège (marque)"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Cédée par Canadian Tire à Kontoor Brands (États-Unis, propriétaire de Wrangler et Lee), clôture le 2 juin 2025 [101] .",
     "sources": [
      101
@@ -223,12 +228,11 @@
    {
     "id": "voyage-et-plein-air-helen-of-troy",
     "groupe": "Helen of Troy",
-    "marques": [
-     "Osprey États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Vendue à Helen of Troy (El Paso, Texas) pour 414 millions de dollars [102] .",
     "sources": [
      102
@@ -240,14 +244,11 @@
    {
     "id": "voyage-et-plein-air-vf-columbia-patagonia",
     "groupe": "VF, Columbia, Patagonia",
-    "marques": [
-     "The North Face",
-     "Columbia",
-     "Patagonia États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -257,15 +258,11 @@
    {
     "id": "voyage-et-plein-air-amer-sports",
     "groupe": "Amer Sports",
-    "marques": [
-     "Salomon",
-     "Arc'teryx",
-     "Atomic",
-     "Wilson"
-    ],
+    "marques": [],
     "siege": "Finlande (origine)",
     "siege_pays": "FI",
     "statut": "a_ecarter",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Anta Sports (Chine) est le premier actionnaire d'Amer Sports [25] [26] .",
     "sources": [
      25,
@@ -278,13 +275,12 @@
    {
     "id": "voyage-et-plein-air-anta-sports",
     "groupe": "Anta Sports",
-    "marques": [
-     "Jack Wolfskin"
-    ],
+    "marques": [],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "commentaire": "Jack Wolfskin appartient à Anta [25] . Chaussures de randonnée",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
+    "commentaire": "Jack Wolfskin appartient à Anta [25] .",
     "sources": [
      25
     ],
@@ -295,12 +291,11 @@
    {
     "id": "voyage-et-plein-air-fenix-outdoor",
     "groupe": "Fenix Outdoor",
-    "marques": [
-     "Hanwag"
-    ],
+    "marques": [],
     "siege": "Allemagne (marque)",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Chaussures de randonnée",
     "commentaire": "Marque du groupe Fenix Outdoor [104] .",
     "sources": [
      104
@@ -312,13 +307,68 @@
    {
     "id": "voyage-et-plein-air-meindl",
     "groupe": "Meindl",
-    "marques": [
-     "Meindl"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Entreprise familiale. Scarpa Scarpa Italie Rang 1 La Sportiva La Sportiva Italie Rang 1 Asics Asics (trail) Japon Rang 2 Deckers Hoka États-Unis Hors zones Hors de vos zones.",
+    "sous_categorie": "Chaussures de randonnée",
+    "commentaire": "Entreprise familiale.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-scarpa",
+    "groupe": "Scarpa",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Chaussures de randonnée",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-la-sportiva",
+    "groupe": "La Sportiva",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Chaussures de randonnée",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-asics",
+    "groupe": "Asics",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Chaussures de randonnée",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-deckers",
+    "groupe": "Deckers",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "sous_categorie": "Chaussures de randonnée",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -327,13 +377,11 @@
    {
     "id": "voyage-et-plein-air-amer-sports",
     "groupe": "Amer Sports",
-    "marques": [
-     "Salomon Finlande (origine) Tentes",
-     "couchage et cuisine de camp"
-    ],
-    "siege": "",
-    "siege_pays": "??",
+    "marques": [],
+    "siege": "Finlande (origine)",
+    "siege_pays": "FI",
     "statut": "a_ecarter",
+    "sous_categorie": "Tentes, couchage et cuisine de camp",
     "commentaire": "Voir la ligne Amer Sports de la sous-catégorie précédente.",
     "sources": [],
     "lieux_production": [],
@@ -343,12 +391,11 @@
    {
     "id": "voyage-et-plein-air-silva-sweden",
     "groupe": "Silva Sweden",
-    "marques": [
-     "Primus Suède"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
+    "sous_categorie": "Tentes, couchage et cuisine de camp",
     "commentaire": "Primus a été cédée par Fenix Outdoor à Silva Sweden au quatrième trimestre 2022 [105] .",
     "sources": [
      105
@@ -360,13 +407,40 @@
    {
     "id": "voyage-et-plein-air-trangia",
     "groupe": "Trangia",
-    "marques": [
-     "Trangia Suède"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
-    "commentaire": "Non revérifié. Decathlon Quechua France Rang 1 Groupe familial. Newell Brands Coleman États-Unis Hors zones Hors de vos zones. Accessoires électroniques de voyage",
+    "sous_categorie": "Tentes, couchage et cuisine de camp",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-decathlon",
+    "groupe": "Decathlon",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Tentes, couchage et cuisine de camp",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-newell-brands",
+    "groupe": "Newell Brands",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "sous_categorie": "Tentes, couchage et cuisine de camp",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -375,12 +449,11 @@
    {
     "id": "voyage-et-plein-air-foxconn",
     "groupe": "Foxconn",
-    "marques": [
-     "Belkin Taïwan"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Accessoires électroniques de voyage",
     "commentaire": "Belkin appartient à Foxconn selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -390,13 +463,54 @@
    {
     "id": "voyage-et-plein-air-gopro",
     "groupe": "GoPro",
-    "marques": [
-     "GoPro États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
-    "commentaire": "Hors de vos zones. Anker Innovations Anker Chine À écarter Groupe chinois. DJI DJI Chine À écarter Groupe chinois. Arashi Vision Insta360 Chine À écarter Groupe chinois.",
+    "sous_categorie": "Accessoires électroniques de voyage",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-anker-innovations",
+    "groupe": "Anker Innovations",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Accessoires électroniques de voyage",
+    "commentaire": "Groupe chinois.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-dji",
+    "groupe": "DJI",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Accessoires électroniques de voyage",
+    "commentaire": "Groupe chinois.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-arashi-vision",
+    "groupe": "Arashi Vision",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Accessoires électroniques de voyage",
+    "commentaire": "Groupe chinois.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -404,7 +518,11 @@
    }
   ],
   "sous_categories": [
-   "Valises et bagagerie"
+   "Valises et bagagerie",
+   "Sacs à dos et vêtements de montagne",
+   "Chaussures de randonnée",
+   "Tentes, couchage et cuisine de camp",
+   "Accessoires électroniques de voyage"
   ],
   "keywords": [
    "voyage",

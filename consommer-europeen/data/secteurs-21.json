@@ -8,14 +8,11 @@
    {
     "id": "restauration-et-livraison-de-repas-groupe-le-duff",
     "groupe": "Groupe Le Duff",
-    "marques": [
-     "Brioche Dorée",
-     "Del Arte",
-     "Bridor"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Groupe familial. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -25,12 +22,11 @@
    {
     "id": "restauration-et-livraison-de-repas-groupe-holder",
     "groupe": "Groupe Holder",
-    "marques": [
-     "Paul"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Groupe familial. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -40,14 +36,11 @@
    {
     "id": "restauration-et-livraison-de-repas-restaurant-brands-international",
     "groupe": "Restaurant Brands International",
-    "marques": [
-     "Burger King",
-     "Tim Hortons",
-     "Popeyes"
-    ],
+    "marques": [],
     "siege": "Canada (siège)",
     "siege_pays": "CA",
     "statut": "rang2",
+    "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Siège à Toronto ; les directions de Burger King et de Popeyes restent à Miami [143] . 3G Capital (Brésil) détient environ 32 % selon [143] , chiffre non daté. Le propriétaire des restaurants français n'a pas été vérifié.",
     "sources": [
      143,
@@ -60,14 +53,11 @@
    {
     "id": "restauration-et-livraison-de-repas-mcdonald-s-yum-brands",
     "groupe": "McDonald's, Yum! Brands",
-    "marques": [
-     "McDonald's",
-     "KFC",
-     "Pizza Hut États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -77,15 +67,12 @@
    {
     "id": "restauration-et-livraison-de-repas-starbucks-subway-domino-s",
     "groupe": "Starbucks, Subway, Domino's",
-    "marques": [
-     "Starbucks",
-     "Subway",
-     "Domino's États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
-    "commentaire": "Hors de vos zones. Livraison de repas et anti-gaspillage",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -94,12 +81,11 @@
    {
     "id": "restauration-et-livraison-de-repas-doordash",
     "groupe": "DoorDash",
-    "marques": [
-     "Deliveroo États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Livraison de repas et anti-gaspillage",
     "commentaire": "DoorDash aurait racheté Deliveroo en 2025 selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -108,7 +94,8 @@
    }
   ],
   "sous_categories": [
-   "Restauration rapide et cafés"
+   "Restauration rapide et cafés",
+   "Livraison de repas et anti-gaspillage"
   ],
   "keywords": [
    "restaurant",

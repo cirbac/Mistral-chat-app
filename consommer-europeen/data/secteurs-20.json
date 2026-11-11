@@ -8,12 +8,11 @@
    {
     "id": "medias-streaming-et-culture-arte",
     "groupe": "Arte",
-    "marques": [
-     "Arte"
-    ],
+    "marques": [],
     "siege": "France / Allemagne",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
     "commentaire": "Chaîne publique franco-allemande.",
     "sources": [],
     "lieux_production": [],
@@ -23,13 +22,11 @@
    {
     "id": "medias-streaming-et-culture-groupe-tf1",
     "groupe": "Groupe TF1",
-    "marques": [
-     "TF1",
-     "TF1+"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
     "commentaire": "Groupe Bouygues selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -39,14 +36,26 @@
    {
     "id": "medias-streaming-et-culture-groupe-m6",
     "groupe": "Groupe M6",
-    "marques": [
-     "M6",
-     "6play"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Actionnariat non revérifié. Groupe Canal+ Canal+, myCanal France Rang 1 Actionnariat non revérifié.",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-groupe-canal",
+    "groupe": "Groupe Canal+",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Actionnariat non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -55,12 +64,11 @@
    {
     "id": "medias-streaming-et-culture-sony-crunchyroll",
     "groupe": "Sony (Crunchyroll)",
-    "marques": [
-     "Crunchyroll"
-    ],
+    "marques": [],
     "siege": "Japon (groupe)",
     "siege_pays": "JP",
     "statut": "rang2",
+    "sous_categorie": "Télévision et vidéo en ligne",
     "commentaire": "Crunchyroll appartient à Sony selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -70,12 +78,11 @@
    {
     "id": "medias-streaming-et-culture-netflix",
     "groupe": "Netflix",
-    "marques": [
-     "Netflix États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Télévision et vidéo en ligne",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -85,14 +92,11 @@
    {
     "id": "medias-streaming-et-culture-disney-amazon-apple",
     "groupe": "Disney, Amazon, Apple",
-    "marques": [
-     "Disney+",
-     "Prime Video",
-     "Apple TV+ États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Télévision et vidéo en ligne",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -102,14 +106,12 @@
    {
     "id": "medias-streaming-et-culture-paramount-warner-bros-discovery",
     "groupe": "Paramount, Warner Bros. Discovery",
-    "marques": [
-     "Paramount+",
-     "Max États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
-    "commentaire": "Hors de vos zones. Musique, livres audio et radio",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -118,14 +120,11 @@
    {
     "id": "medias-streaming-et-culture-apple-google-amazon",
     "groupe": "Apple, Google, Amazon",
-    "marques": [
-     "Apple Music",
-     "YouTube Music",
-     "Amazon Music États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Musique, livres audio et radio",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -135,13 +134,11 @@
    {
     "id": "medias-streaming-et-culture-tencent-music",
     "groupe": "Tencent Music",
-    "marques": [
-     "QQ Music",
-     "Kugou"
-    ],
+    "marques": [],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
+    "sous_categorie": "Musique, livres audio et radio",
     "commentaire": "Groupe chinois. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -150,7 +147,8 @@
    }
   ],
   "sous_categories": [
-   "Télévision et vidéo en ligne"
+   "Télévision et vidéo en ligne",
+   "Musique, livres audio et radio"
   ],
   "keywords": [
    "média",

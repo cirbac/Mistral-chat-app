@@ -8,14 +8,11 @@
    {
     "id": "transport-et-mobilite-air-france-klm",
     "groupe": "Air France-KLM",
-    "marques": [
-     "Air France",
-     "KLM",
-     "Transavia"
-    ],
+    "marques": [],
     "siege": "France / Pays-Bas",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "Après l'augmentation de capital de juin 2022 : État français 28,6 %, État néerlandais 9,3 %, China Eastern 4,7 %, Delta 2,9 % [131] . CMA CGM est entré au capital à cette occasion [132] . Répartition actuelle non revérifiée.",
     "sources": [
      131,
@@ -28,16 +25,11 @@
    {
     "id": "transport-et-mobilite-lufthansa-group",
     "groupe": "Lufthansa Group",
-    "marques": [
-     "Lufthansa",
-     "Swiss",
-     "Austrian",
-     "Brussels Airlines",
-     "Eurowings"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -47,15 +39,11 @@
    {
     "id": "transport-et-mobilite-iag",
     "groupe": "IAG",
-    "marques": [
-     "British Airways",
-     "Iberia",
-     "Vueling",
-     "Aer Lingus"
-    ],
+    "marques": [],
     "siege": "Espagne (siège légal)",
     "siege_pays": "ES",
     "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "Actionnariat non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -65,12 +53,11 @@
    {
     "id": "transport-et-mobilite-ryanair",
     "groupe": "Ryanair",
-    "marques": [
-     "Ryanair"
-    ],
+    "marques": [],
     "siege": "Irlande",
     "siege_pays": "IE",
     "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -80,12 +67,11 @@
    {
     "id": "transport-et-mobilite-easyjet",
     "groupe": "easyJet",
-    "marques": [
-     "easyJet"
-    ],
+    "marques": [],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -95,12 +81,11 @@
    {
     "id": "transport-et-mobilite-finnair",
     "groupe": "Finnair",
-    "marques": [
-     "Finnair"
-    ],
+    "marques": [],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "État finlandais actionnaire majoritaire selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -110,13 +95,40 @@
    {
     "id": "transport-et-mobilite-norwegian",
     "groupe": "Norwegian",
-    "marques": [
-     "Norwegian Norvège"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
-    "commentaire": "Non revérifié. Groupe Dubreuil Air Caraïbes, French bee France Rang 1 Groupe familial. Non revérifié. Volotea Volotea Espagne Rang 1 Non revérifié.",
+    "sous_categorie": "Compagnies aériennes européennes",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-groupe-dubreuil",
+    "groupe": "Groupe Dubreuil",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
+    "commentaire": "Groupe familial. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-volotea",
+    "groupe": "Volotea",
+    "marques": [],
+    "siege": "Espagne",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
+    "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -125,12 +137,11 @@
    {
     "id": "transport-et-mobilite-japan-airlines",
     "groupe": "Japan Airlines",
-    "marques": [
-     "JAL"
-    ],
+    "marques": [],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -140,12 +151,11 @@
    {
     "id": "transport-et-mobilite-korean-air",
     "groupe": "Korean Air",
-    "marques": [
-     "Korean Air Corée du Sud"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -155,12 +165,11 @@
    {
     "id": "transport-et-mobilite-eva-air",
     "groupe": "EVA Air",
-    "marques": [
-     "EVA Air Taïwan"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -170,12 +179,11 @@
    {
     "id": "transport-et-mobilite-china-airlines",
     "groupe": "China Airlines",
-    "marques": [
-     "China Airlines Taïwan"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "Compagnie taïwanaise. Ne pas confondre avec Air China.",
     "sources": [],
     "lieux_production": [],
@@ -185,12 +193,11 @@
    {
     "id": "transport-et-mobilite-air-canada",
     "groupe": "Air Canada",
-    "marques": [
-     "Air Canada"
-    ],
+    "marques": [],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
+    "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "Siège à Montréal selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -200,13 +207,12 @@
    {
     "id": "transport-et-mobilite-transat-a-t",
     "groupe": "Transat A.T.",
-    "marques": [
-     "Air Transat"
-    ],
+    "marques": [],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
-    "commentaire": "Non revérifié. Compagnies hors zones ou chinoises",
+    "sous_categorie": "Compagnies aériennes européennes",
+    "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -215,13 +221,11 @@
    {
     "id": "transport-et-mobilite-emirates-etihad",
     "groupe": "Emirates, Etihad",
-    "marques": [
-     "Emirates",
-     "Etihad Émirats arabes unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Compagnies hors zones ou chinoises",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -232,10 +236,25 @@
     "id": "transport-et-mobilite-qatar-airways",
     "groupe": "Qatar Airways",
     "marques": [],
-    "siege": "Qatar Airways Qatar",
+    "siege": "Qatar",
     "siege_pays": "QA",
     "statut": "hors_zones",
-    "commentaire": "Hors de vos zones. Turkish Airlines Turkish Airlines Turquie Hors zones Hors de vos zones.",
+    "sous_categorie": "Compagnies hors zones ou chinoises",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-turkish-airlines",
+    "groupe": "Turkish Airlines",
+    "marques": [],
+    "siege": "Turquie",
+    "siege_pays": "TR",
+    "statut": "hors_zones",
+    "sous_categorie": "Compagnies hors zones ou chinoises",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -244,14 +263,11 @@
    {
     "id": "transport-et-mobilite-delta-united-american",
     "groupe": "Delta, United, American",
-    "marques": [
-     "Delta",
-     "United",
-     "American Airlines États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Compagnies hors zones ou chinoises",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -261,12 +277,11 @@
    {
     "id": "transport-et-mobilite-singapore-airlines",
     "groupe": "Singapore Airlines",
-    "marques": [
-     "Singapore Airlines"
-    ],
+    "marques": [],
     "siege": "Singapour",
     "siege_pays": "SG",
     "statut": "hors_zones",
+    "sous_categorie": "Compagnies hors zones ou chinoises",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -276,15 +291,12 @@
    {
     "id": "transport-et-mobilite-air-china-china-eastern-china-southern",
     "groupe": "Air China, China Eastern, China Southern",
-    "marques": [
-     "Air China",
-     "China Eastern",
-     "China Southern"
-    ],
+    "marques": [],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "commentaire": "Groupes chinois. China Eastern est aussi actionnaire d'Air France-KLM (voir la ligne correspondante). Rail, autocar et location",
+    "sous_categorie": "Compagnies hors zones ou chinoises",
+    "commentaire": "Groupes chinois. China Eastern est aussi actionnaire d'Air France-KLM (voir la ligne correspondante).",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -293,12 +305,11 @@
    {
     "id": "transport-et-mobilite-eurostar",
     "groupe": "Eurostar",
-    "marques": [
-     "Eurostar"
-    ],
+    "marques": [],
     "siege": "France / Royaume-Uni",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
     "commentaire": "SNCF actionnaire majoritaire selon mes informations. Reste du capital : non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -308,13 +319,11 @@
    {
     "id": "transport-et-mobilite-flix",
     "groupe": "Flix",
-    "marques": [
-     "FlixBus",
-     "FlixTrain"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
     "commentaire": "Actionnariat non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -324,12 +333,11 @@
    {
     "id": "transport-et-mobilite-ada",
     "groupe": "Ada",
-    "marques": [
-     "Ada"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
     "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -339,12 +347,11 @@
    {
     "id": "transport-et-mobilite-dott",
     "groupe": "Dott",
-    "marques": [
-     "Dott"
-    ],
+    "marques": [],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
     "commentaire": "Trottinettes et vélos en libre-service. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -354,12 +361,11 @@
    {
     "id": "transport-et-mobilite-voi",
     "groupe": "Voi",
-    "marques": [
-     "Voi Suède"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
     "commentaire": "Trottinettes en libre-service. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -369,15 +375,12 @@
    {
     "id": "transport-et-mobilite-hertz-avis-budget-lime",
     "groupe": "Hertz, Avis Budget, Lime",
-    "marques": [
-     "Hertz",
-     "Avis",
-     "Lime États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
-    "commentaire": "Hors de vos zones. Cycles et mobilité douce",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -386,14 +389,11 @@
    {
     "id": "transport-et-mobilite-pon-holdings",
     "groupe": "Pon Holdings",
-    "marques": [
-     "Gazelle",
-     "Batavus",
-     "Cannondale"
-    ],
+    "marques": [],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
+    "sous_categorie": "Cycles et mobilité douce",
     "commentaire": "Cannondale, marque américaine d'origine, appartient à Pon selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -403,13 +403,54 @@
    {
     "id": "transport-et-mobilite-cube-bikes",
     "groupe": "Cube Bikes",
-    "marques": [
-     "Cube"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Non revérifié. Canyon Canyon Allemagne Rang 1 Actionnariat non revérifié. Riese & Müller Riese & Müller Allemagne Rang 1 Non revérifié. Brompton Brompton Royaume-Uni Rang 1 Non revérifié.",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-canyon",
+    "groupe": "Canyon",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-riese-muller",
+    "groupe": "Riese & Müller",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-brompton",
+    "groupe": "Brompton",
+    "marques": [],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -418,12 +459,11 @@
    {
     "id": "transport-et-mobilite-orbea",
     "groupe": "Orbea",
-    "marques": [
-     "Orbea"
-    ],
+    "marques": [],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
+    "sous_categorie": "Cycles et mobilité douce",
     "commentaire": "Coopérative Mondragon selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -433,13 +473,26 @@
    {
     "id": "transport-et-mobilite-moustache-bikes",
     "groupe": "Moustache Bikes",
-    "marques": [
-     "Moustache"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Non revérifié. Giant Giant,",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-giant",
+    "groupe": "Giant",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -448,12 +501,11 @@
    {
     "id": "transport-et-mobilite-merida",
     "groupe": "Merida",
-    "marques": [
-     "Merida Taïwan"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
+    "sous_categorie": "Cycles et mobilité douce",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -463,13 +515,26 @@
    {
     "id": "transport-et-mobilite-shimano",
     "groupe": "Shimano",
-    "marques": [
-     "Shimano"
-    ],
+    "marques": [],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
-    "commentaire": "Composants de vélos. Trek, Specialized Trek, Specialized États-Unis Hors zones Hors de vos zones.",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Composants de vélos.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-trek-specialized",
+    "groupe": "Trek, Specialized",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "sous_categorie": "Cycles et mobilité douce",
+    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -477,7 +542,10 @@
    }
   ],
   "sous_categories": [
-   "Compagnies aériennes européennes"
+   "Compagnies aériennes européennes",
+   "Compagnies hors zones ou chinoises",
+   "Rail, autocar et location",
+   "Cycles et mobilité douce"
   ],
   "keywords": [
    "transport",

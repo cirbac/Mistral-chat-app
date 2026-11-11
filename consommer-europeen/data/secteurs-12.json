@@ -8,14 +8,40 @@
    {
     "id": "distribution-et-paiement-les-mousquetaires",
     "groupe": "Les Mousquetaires",
-    "marques": [
-     "Intermarché",
-     "Netto"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Groupement d'indépendants. Coopérative U Super U, Hyper U, U Express France Rang 1 Coopérative.",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Groupement d'indépendants.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-et-paiement-cooperative-u",
+    "groupe": "Coopérative U",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Coopérative.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-et-paiement-auchan",
+    "groupe": "Auchan",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -24,12 +50,11 @@
    {
     "id": "distribution-et-paiement-schwarz-gruppe",
     "groupe": "Schwarz Gruppe",
-    "marques": [
-     "Lidl"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -39,13 +64,12 @@
    {
     "id": "distribution-et-paiement-aldi",
     "groupe": "Aldi",
-    "marques": [
-     "Aldi"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Équipement, maison et commerce en ligne",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -54,12 +78,11 @@
    {
     "id": "distribution-et-paiement-boulanger",
     "groupe": "Boulanger",
-    "marques": [
-     "Boulanger"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -69,12 +92,11 @@
    {
     "id": "distribution-et-paiement-adeo",
     "groupe": "Adeo",
-    "marques": [
-     "Leroy Merlin"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -84,12 +106,11 @@
    {
     "id": "distribution-et-paiement-ikea",
     "groupe": "Ikea",
-    "marques": [
-     "Ikea Suède / Pays-Bas"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -99,13 +120,40 @@
    {
     "id": "distribution-et-paiement-zalando",
     "groupe": "Zalando",
-    "marques": [
-     "Zalando"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Vinted Vinted Lituanie Rang 1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-et-paiement-vinted",
+    "groupe": "Vinted",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-et-paiement-back-market",
+    "groupe": "Back Market",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -114,13 +162,11 @@
    {
     "id": "distribution-et-paiement-ceconomy",
     "groupe": "Ceconomy",
-    "marques": [
-     "MediaMarkt",
-     "Saturn"
-    ],
+    "marques": [],
     "siege": "Allemagne (siège)",
     "siege_pays": "DE",
     "statut": "a_ecarter",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
     "commentaire": "JD.com (Chine) détient 59,8 % du capital [27] . Au 30 juin 2026, finalisation attendue au second semestre, examen de la Commission européenne en cours [28] .",
     "sources": [
      27,
@@ -133,12 +179,11 @@
    {
     "id": "distribution-et-paiement-amazon",
     "groupe": "Amazon",
-    "marques": [
-     "Amazon États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -148,29 +193,25 @@
    {
     "id": "distribution-et-paiement-temu-shein-aliexpress",
     "groupe": "Temu, Shein, AliExpress",
-    "marques": [
-     "Temu",
-     "Shein",
-     "AliExpress"
-    ],
+    "marques": [],
     "siege": "Origine chinoise",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "commentaire": "Plateformes d'origine chinoise. Moyens de paiement",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Plateformes d'origine chinoise.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "distribution-et-paiement-wero-epi",
-    "groupe": "Wero (EPI)",
-    "marques": [
-     "Wero Europe (consortium bancaire)"
-    ],
+    "id": "distribution-et-paiement-wero",
+    "groupe": "Wero",
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
+    "sous_categorie": "Moyens de paiement",
     "commentaire": "Premières transactions e-commerce BPCE en avril 2026 [30] . Paiement en ligne ouvert à tous les clients particuliers BNP Paribas depuis le 9 septembre 2026 ; Air France, Decathlon et Fnac Darty s'y préparent ; paiement en magasin attendu à partir de 2027 [29] .",
     "sources": [
      30,
@@ -183,12 +224,11 @@
    {
     "id": "distribution-et-paiement-cartes-bancaires-cb",
     "groupe": "Cartes Bancaires (CB)",
-    "marques": [
-     "CB"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Moyens de paiement",
     "commentaire": "Réseau interbancaire français.",
     "sources": [],
     "lieux_production": [],
@@ -198,15 +238,11 @@
    {
     "id": "distribution-et-paiement-visa-mastercard-paypal-apple-pay",
     "groupe": "Visa, Mastercard, PayPal, Apple Pay",
-    "marques": [
-     "Visa",
-     "Mastercard",
-     "PayPal",
-     "Apple Pay États-Unis"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Moyens de paiement",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -215,7 +251,9 @@
    }
   ],
   "sous_categories": [
-   "Grande distribution alimentaire"
+   "Grande distribution alimentaire",
+   "Équipement, maison et commerce en ligne",
+   "Moyens de paiement"
   ],
   "keywords": [
    "distribution",
