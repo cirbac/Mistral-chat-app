@@ -1,4 +1,11 @@
-const state = { meta: null, pref: 'ue', statuts: {} };
+const state = { meta: null, pref: 'ue', view: 'home', secteurId: null };
+
+const ICONES = {
+  '01': '🚗', '02': '🛵', '03': '🛞', '04': '🧊', '05': '📺',
+  '06': '💻', '07': '💿', '08': '🍽️', '09': '🧴', '10': '👕',
+  '11': '🎒', '12': '🛒', '13': '📡', '14': '🏦', '15': '🚆',
+  '16': '🏨', '17': '🎮', '18': '🏡', '19': '⌚', '20': '🎬', '21': '🍔',
+};
 
 const el = {
   pref: document.getElementById('pref'),
@@ -7,6 +14,7 @@ const el = {
   legende: document.getElementById('legende'),
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
+  home: document.getElementById('home'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
   footer: document.getElementById('footer'),
@@ -40,6 +48,13 @@ function esc(text) {
   return d.innerHTML;
 }
 
+function show(view) {
+  state.view = view;
+  el.home.classList.toggle('hidden', view !== 'home');
+  el.results.classList.toggle('hidden', view === 'home');
+  if (view === 'home') el.search.value = '';
+}
+
 function renderLegend() {
   el.legende.textContent = '';
   for (const st of state.meta.statuts) {
@@ -61,6 +76,39 @@ function renderPrefSelect() {
   }
 }
 
+function renderHome() {
+  show('home');
+  el.detail.classList.add('hidden');
+  el.results.textContent = '';
+  el.chips.textContent = '';
+  el.home.textContent = '';
+  const titre = document.createElement('h2');
+  titre.className = 'home-titre';
+  titre.textContent = 'Par quoi commencez-vous ?';
+  el.home.appendChild(titre);
+  const grid = document.createElement('div');
+  grid.className = 'home-grid';
+  for (const s of state.meta.secteurs) {
+    const card = document.createElement('button');
+    card.type = 'button';
+    card.className = 'cat-card';
+    const icone = document.createElement('span');
+    icone.className = 'cat-icone';
+    icone.textContent = ICONES[s.num] || '🛍️';
+    const corps = document.createElement('span');
+    corps.className = 'cat-corps';
+    const nom = document.createElement('strong');
+    nom.textContent = s.nom;
+    const count = document.createElement('small');
+    count.textContent = `${s.nbGroupes} marque${s.nbGroupes > 1 ? 's' : ''} référencée${s.nbGroupes > 1 ? 's' : ''}`;
+    corps.append(nom, count);
+    card.append(icone, corps);
+    card.addEventListener('click', () => showSecteur(s.id));
+    grid.appendChild(card);
+  }
+  el.home.appendChild(grid);
+}
+
 function carteGroupe(g) {
   const carte = document.createElement('div');
   carte.className = 'carte';
@@ -75,11 +123,6 @@ function carteGroupe(g) {
   const siege = document.createElement('span');
   siege.textContent = `Siège : ${g.siege}`;
   meta.appendChild(siege);
-  if (g.secteurNom) {
-    const sec = document.createElement('span');
-    sec.textContent = `Secteur : ${g.secteurNom}`;
-    meta.appendChild(sec);
-  }
   if (g.recommande) {
     const tag = document.createElement('span');
     tag.className = 'tag-recommande';
@@ -91,12 +134,73 @@ function carteGroupe(g) {
   return carte;
 }
 
+async function showSecteur(id) {
+  const s = await api(`/api/secteurs/${id}?pref=${state.pref}`);
+  state.secteurId = id;
+  show('sector');
+  el.detail.classList.add('hidden');
+  el.chips.textContent = '';
+  el.results.textContent = '';
+
+  const head = document.createElement('div');
+  head.className = 'cat-header';
+  const retour = document.createElement('button');
+  retour.className = 'retour';
+  retour.type = 'button';
+  retour.textContent = '← Toutes les catégories';
+  retour.addEventListener('click', renderHome);
+  const titre = document.createElement('h2');
+  titre.textContent = `${s.num} · ${s.nom}`;
+  head.append(retour, titre);
+  if (s.note) {
+    const note = document.createElement('p');
+    note.className = 'cat-note';
+    note.textContent = s.note;
+    head.appendChild(note);
+  }
+  el.results.appendChild(head);
+
+  if (s.sous_categories.length > 0) {
+    const sous = document.createElement('div');
+    sous.className = 'sous-cats';
+    const label = document.createElement('span');
+    label.className = 'sous-cats-label';
+    label.textContent = 'Sous-catégories :';
+    sous.appendChild(label);
+    for (const sc of s.sous_categories) {
+      const chip = document.createElement('span');
+      chip.className = 'chip chip-static';
+      chip.textContent = sc;
+      sous.appendChild(chip);
+    }
+    el.results.appendChild(sous);
+  }
+
+  const titreMarques = document.createElement('h3');
+  titreMarques.className = 'cat-sous-titre';
+  titreMarques.textContent = `Marques (${s.groupes.length} affichées${s.masquees > 0 ? `, ${s.masquees} masquée(s) par votre préférence` : ''})`;
+  el.results.appendChild(titreMarques);
+
+  if (s.groupes.length === 0) {
+    const p = document.createElement('p');
+    p.className = 'vide';
+    p.textContent = 'Aucune marque dans cette catégorie avec cette préférence.';
+    el.results.appendChild(p);
+  }
+  for (const g of s.groupes) el.results.appendChild(carteGroupe(g));
+  window.scrollTo({ top: 0 });
+}
+
 async function doSearch() {
   const q = el.search.value.trim();
   el.chips.textContent = '';
   el.results.textContent = '';
-  if (!q) return;
+  if (!q) {
+    renderHome();
+    return;
+  }
   const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+  show('results');
   for (const s of data.secteurs) {
     const chip = document.createElement('button');
     chip.className = 'chip';
@@ -105,6 +209,10 @@ async function doSearch() {
     chip.addEventListener('click', () => showSecteur(s.id));
     el.chips.appendChild(chip);
   }
+  const titre = document.createElement('h2');
+  titre.className = 'home-titre';
+  titre.textContent = `Résultats pour « ${q} »`;
+  el.results.appendChild(titre);
   if (data.groupes.length === 0) {
     const p = document.createElement('p');
     p.className = 'vide';
@@ -118,38 +226,6 @@ async function doSearch() {
     p.textContent = `${data.masquees} ligne(s) hors de votre périmètre masquée(s) — choisissez « Tout afficher » pour les voir.`;
     el.results.appendChild(p);
   }
-}
-
-async function showSecteur(id) {
-  const s = await api(`/api/secteurs/${id}?pref=${state.pref}`);
-  el.detail.classList.remove('hidden');
-  el.detail.innerHTML = '';
-  const h = document.createElement('h2');
-  h.textContent = `${s.num} · ${s.nom}`;
-  el.detail.appendChild(h);
-  if (s.note) {
-    const p = document.createElement('p');
-    p.textContent = s.note;
-    p.style.fontSize = '0.85rem';
-    el.detail.appendChild(p);
-  }
-  if (s.groupes.length === 0) {
-    const p = document.createElement('p');
-    p.className = 'vide';
-    p.textContent = 'Aucune ligne importée pour ce secteur pour le moment (voir README pour compléter les données).';
-    el.detail.appendChild(p);
-  }
-  for (const g of s.groupes) {
-    const card = carteGroupe(g);
-    el.detail.appendChild(card);
-  }
-  if (s.masquees > 0) {
-    const p = document.createElement('p');
-    p.className = 'vide';
-    p.textContent = `${s.masquees} ligne(s) masquée(s) par votre préférence.`;
-    el.detail.appendChild(p);
-  }
-  el.detail.scrollIntoView({ behavior: 'smooth' });
 }
 
 function ligneDtDd(dl, dtText, ddNode) {
@@ -220,7 +296,7 @@ async function showGroupe(id) {
     h.textContent = 'Détention, contrôle et commentaires';
     const p = document.createElement('p');
     p.style.fontSize = '0.9rem';
-    p.textContent = g.commentaire.replace(/\[(\d+)\]/g, '[$1]');
+    p.textContent = g.commentaire;
     el.detail.append(h, p);
   }
 
@@ -329,7 +405,8 @@ el.search.addEventListener('input', () => {
 
 el.pref.addEventListener('change', () => {
   state.pref = el.pref.value;
-  doSearch();
+  if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
+  else doSearch();
 });
 
 el.logout.addEventListener('click', async () => {
@@ -345,7 +422,6 @@ async function init() {
     return;
   }
   state.meta = await api('/api/meta');
-  state.statuts = Object.fromEntries(state.meta.statuts.map((s) => [s.id, s]));
   el.metaSource.textContent = `Source : ${state.meta.meta.source_document} — version ${state.meta.meta.version} du ${state.meta.meta.date}`;
   renderPrefSelect();
   renderLegend();
@@ -353,6 +429,7 @@ async function init() {
   if (stats) {
     el.footer.textContent = `Grille v${state.meta.meta.version} : ${stats.lignes} lignes · ${stats.secteurs} secteurs · ${stats.rang1} Rang 1 · ${stats.rang2} Rang 2 · ${stats.vigilance} Vigilance · ${stats.hors_zones} Hors zones · ${stats.a_ecarter} À écarter. ${state.meta.meta.disclaimer}`;
   }
+  renderHome();
 }
 
 init();

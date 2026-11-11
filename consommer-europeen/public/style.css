@@ -402,3 +402,103 @@ button:hover {
   font-size: 0.9rem;
   padding: 12px 4px;
 }
+
+.hidden {
+  display: none !important;
+}
+
+.home-titre {
+  margin: 8px 0 16px;
+  font-size: 1.15rem;
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+}
+
+.cat-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: left;
+  padding: 16px;
+  background: var(--cirba-blanc);
+  border: 1px solid var(--bordure);
+  border-left: 4px solid var(--cirba-anthracite);
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.cat-card:hover {
+  border-color: var(--cirba-noir);
+  border-left-color: var(--cirba-noir);
+  background: var(--cirba-gris-clair);
+}
+
+.cat-icone {
+  font-size: 1.7rem;
+  line-height: 1;
+}
+
+.cat-corps {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cat-corps strong {
+  font-size: 0.98rem;
+}
+
+.cat-corps small {
+  color: var(--texte-doux);
+  font-size: 0.78rem;
+}
+
+.cat-header {
+  margin-bottom: 14px;
+}
+
+.cat-header h2 {
+  margin: 8px 0 4px;
+  font-size: 1.25rem;
+}
+
+.cat-note {
+  margin: 0 0 6px;
+  font-size: 0.85rem;
+  color: var(--texte-doux);
+  max-width: 70ch;
+}
+
+.sous-cats {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.sous-cats-label {
+  font-size: 0.8rem;
+  color: var(--texte-doux);
+}
+
+.chip-static {
+  cursor: default;
+  background: var(--cirba-gris);
+}
+
+.chip-static:hover {
+  background: var(--cirba-gris);
+  border-color: var(--bordure);
+}
+
+.cat-sous-titre {
+  margin: 4px 0 10px;
+  font-size: 0.9rem;
+  color: var(--texte-doux);
+}
