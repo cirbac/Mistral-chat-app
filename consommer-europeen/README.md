@@ -4,7 +4,7 @@ Mini-app web pour acheter en connaissance de cause : **origine du capital, déte
 
 Les données viennent de la **grille sectorielle v4 du 11/10/2026** (`consommer_europeen_grille_sectorielle_v4_2026_10_11.pdf`, Google Drive du projet) :
 
-- 21 secteurs, 615 lignes, statuts **Rang 1** (capital européen : UE, UK, Suisse, Norvège), **Rang 2** (JP, KR, TW, CA), **Vigilance**, **Hors zones**, **À écarter** (contrôle chinois)
+- 21 secteurs, 615 lignes, statuts **France / UE** (capital européen : UE, UK, Suisse, Norvège, France comprise), **Hautes démocraties** (JP, KR, TW, CA), **Vigilance**, **Hors zones**, **À écarter** (contrôle chinois)
 - chaque groupe : marques, siège, statut, commentaire (détention / actionnaires), lieux de production, produits/modèles avec pays d'assemblage, sources numérotées
 
 ## Lancer en local
