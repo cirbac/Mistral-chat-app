@@ -18,11 +18,10 @@
       <div class="topbar-left">
         <img id="logo-home" class="logo" src="assets/logo-white.png" alt="Cirba Consult — accueil" title="Retour à l'accueil" />
       </div>
-      <div class="topbar-spacer"></div>
+      <nav id="cats-nav" class="cats-nav" aria-label="Catégories principales"></nav>
       <div class="controls">
         <button id="theme-btn" class="theme-btn" type="button" title="Mode jour / nuit" aria-label="Changer de thème">🌙</button>
       </div>
-      <nav id="cats-nav" class="cats-nav" aria-label="Catégories"></nav>
     </header>
 
     <div class="page">
@@ -46,7 +45,11 @@
     <main class="contenu">
       <section id="home" class="home">
         <h2 class="home-titre" id="phares-titre" hidden>Produits phares</h2>
-        <div id="phares-grid" class="home-grid" hidden></div>
+        <div class="carousel-wrap" id="phares-wrap" hidden>
+          <button id="phares-prev" class="carousel-arrow" type="button" aria-label="Précédent">‹</button>
+          <div id="phares-grid" class="carousel" hidden></div>
+          <button id="phares-next" class="carousel-arrow" type="button" aria-label="Suivant">›</button>
+        </div>
         <h2 class="home-titre">Explorez par catégorie</h2>
         <div id="home-grid" class="home-grid"></div>
         <h2 class="home-titre" id="nouveaux-titre" hidden>Nouveaux produits</h2>

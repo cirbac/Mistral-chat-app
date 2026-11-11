@@ -40,6 +40,9 @@ const el = {
   home: document.getElementById('home'),
   homeGrid: document.getElementById('home-grid'),
   catsNav: document.getElementById('cats-nav'),
+  pharesWrap: document.getElementById('phares-wrap'),
+  pharesPrev: document.getElementById('phares-prev'),
+  pharesNext: document.getElementById('phares-next'),
   pharesTitre: document.getElementById('phares-titre'),
   pharesGrid: document.getElementById('phares-grid'),
   nouveauxTitre: document.getElementById('nouveaux-titre'),
@@ -162,6 +165,7 @@ async function renderAccueil() {
   for (const r of a.phares) el.pharesGrid.appendChild(carteProduit(r));
   el.pharesTitre.hidden = a.phares.length === 0;
   el.pharesGrid.hidden = a.phares.length === 0;
+  el.pharesWrap.hidden = a.phares.length === 0;
   el.nouveauxGrid.textContent = '';
   for (const r of a.nouveaux) el.nouveauxGrid.appendChild(carteProduit(r));
   el.nouveauxTitre.hidden = a.nouveaux.length === 0;
@@ -176,7 +180,8 @@ function renderHome() {
   el.chips.textContent = '';
   el.homeGrid.textContent = '';
   el.catsNav.textContent = '';
-  for (const s of state.meta.secteurs) {
+  const MAIN_CATS = ['01', '04', '06', '08', '09', '10'];
+  for (const s of state.meta.secteurs.filter((x) => MAIN_CATS.includes(x.num))) {
     const navBtn = document.createElement('button');
     navBtn.type = 'button';
     navBtn.className = 'cats-nav-btn';
@@ -640,6 +645,9 @@ el.themeBtn.addEventListener('click', () => {
 });
 
 el.logoHome.addEventListener('click', () => renderHome());
+
+el.pharesPrev.addEventListener('click', () => el.pharesGrid.scrollBy({ left: -520, behavior: 'smooth' }));
+el.pharesNext.addEventListener('click', () => el.pharesGrid.scrollBy({ left: 520, behavior: 'smooth' }));
 
 function ouvrirAjout(q) {
   el.addQ.value = q;
