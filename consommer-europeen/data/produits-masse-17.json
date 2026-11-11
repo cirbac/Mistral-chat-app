@@ -1,0 +1,3917 @@
+{
+ "distribution-paiement-carrefour": [
+  {
+   "id": "distribution-paiement-carrefour-3560070845408",
+   "nom": "Yaourt nature au lait entier",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070845408"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071455279",
+   "nom": "Biscuits avoine chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 130 g (3 x 43,3 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071455279"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071411220",
+   "nom": "Yaourt grec",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071411220"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070393619",
+   "nom": "Riz Basmati",
+   "assemblage": "GEOVITA SRL",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070393619"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071197124",
+   "nom": "Foie de morue",
+   "assemblage": "Islande",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 121 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071197124"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071222260",
+   "nom": "VEGEtal Falafels Lentille corail, coco, curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071222260"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245413442000",
+   "nom": "Huile vierge de colza",
+   "assemblage": "Drôme",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245413442000"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070331703",
+   "nom": "Ratatouille à la provençale",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 530 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070331703"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3276550087069",
+   "nom": "baguette campagnarde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3276550087069"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070704316",
+   "nom": "Couscous de légumes à l'orientale",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 660 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070704316"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071121099",
+   "nom": "Tomato ketchup",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 340 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071121099"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245412058776",
+   "nom": "Bifidus* nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245412058776"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070278862",
+   "nom": "Olives noires À la grecque",
+   "assemblage": "Alpes-Maritimes",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 235 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070278862"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071000035",
+   "nom": "Morceaux de thon",
+   "assemblage": "espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071000035"
+  },
+  {
+   "id": "distribution-paiement-carrefour-12454143",
+   "nom": "Compote pomme vanille sans sucre ajouté",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 360 g (4 x 90 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/12454143"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245412416620",
+   "nom": "Brownie Goût Chocolat Noisettes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 285 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245412416620"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245411441920",
+   "nom": "Limonade zero*",
+   "assemblage": "Cholet",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245411441920"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070346264",
+   "nom": "Filets d'anchois A l'huile de tournesol",
+   "assemblage": "maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 100 g (60 g égoutté)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070346264"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070506491",
+   "nom": "3 FROMAGES Maasdam - Emmental - Mozzarella",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070506491"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070449088",
+   "nom": "multifruits 100%",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070449088"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070203864",
+   "nom": "Asperges blanches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070203864"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070681136",
+   "nom": "Nems porc",
+   "assemblage": "Agis (Filiale Groupe Lambert Dodard Chancereul - LDC) - ZA du Clos du Poivre - Route d'Assérac - 44410 Herbignac",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070681136"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071474935",
+   "nom": "Végétal hachés Burgers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071474935"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071276621",
+   "nom": "Saveur framboise & crêpe dentelle noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071276621"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071484453",
+   "nom": "eau minerale naturelle finement perillante soirce perle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071484453"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071221225",
+   "nom": "PETIT EPEAUTRE Haricot azuki, noisettes, baies de Goji",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071221225"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071083014",
+   "nom": "Palmiers Aux zestes de citron confits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071083014"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070818334",
+   "nom": "Boudins Blancs au Porto",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070818334"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070345724",
+   "nom": "Cola Zero*",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070345724"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071532345",
+   "nom": "Iced tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071532345"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071086138",
+   "nom": "Lentilles, Boulghour, Feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071086138"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070771035",
+   "nom": "SALAD' PASTA Paysanne Poulet rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070771035"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245412654206",
+   "nom": "Sauce Nuoc-Mâm",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245412654206"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070762101",
+   "nom": "Poivre Noir Moulu",
+   "assemblage": "allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score F · 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070762101"
+  },
+  {
+   "id": "distribution-paiement-carrefour-9781234567897",
+   "nom": "Soupe Cepes et bolet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9781234567897"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071494520",
+   "nom": "Infusion 4 plantes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071494520"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070829903",
+   "nom": "Tonic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070829903"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190179221",
+   "nom": "Choucroute garnie Pur Porc",
+   "assemblage": "Christ (Filiale Reitzel Briand) - 65 Rue de Paris - 72160 Connerré",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190179221"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3700009276495",
+   "nom": "Duo de lentilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700009276495"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101011656",
+   "nom": "Simpl Gaufres de Liège avec Fantaisie au Cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 10 x 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101011656"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101173262",
+   "nom": "Couscous de legume à l’orientale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101173262"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190024972",
+   "nom": "poêlée méridionale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190024972"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071227500",
+   "nom": "Châtaignes entières bio pelées au feu Châtaignes d'Ardèche AOP sélectionnées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071227500"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666050567",
+   "nom": "biscotti con fiocchi di avena e cacao",
+   "assemblage": "italia",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666050567"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245413812261",
+   "nom": "Liégeois café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 400 g (4 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245413812261"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071040420",
+   "nom": "100% pur jus pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071040420"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071335472",
+   "nom": "Petit salé À la saucisse de Toulouse et aux lentilles vertes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071335472"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876310399",
+   "nom": "Pan 99 integral de trigo espelta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 400",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876310399"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876306637",
+   "nom": "Miel De Flores Origen España",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876306637"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071425890",
+   "nom": "VEGEtal NUGGETS BLE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071425890"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876279382",
+   "nom": "Hogaza de pan 100% integral",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876279382"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070302192",
+   "nom": "Flageolets extra-fins",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 600g (3x200g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070302192"
+  },
+  {
+   "id": "distribution-paiement-carrefour-06111261",
+   "nom": "pain de mie sans gluten classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 400gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06111261"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245412001444",
+   "nom": "Asperges Vertes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 330 g + 185 g + 370 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245412001444"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070940028",
+   "nom": "Rôti sup VPF",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070940028"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071013653",
+   "nom": "Cassoulet de Castelnaudary au jarret de porc et à la saucisse de Toulouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1580 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071013653"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071264581",
+   "nom": "Choco rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score D · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071264581"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071481117",
+   "nom": "Buddha bowl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 310 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071481117"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071418267",
+   "nom": "Crevettes nordiques",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071418267"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876128352",
+   "nom": "Leche UHT Entera",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876128352"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070535583",
+   "nom": "Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070535583"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070824700",
+   "nom": "Cola classic",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070824700"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876263114",
+   "nom": "Sardinilla aceite oliva reducido en sal rr-90",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876263114"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876272741",
+   "nom": "Tomate frito bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876272741"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071233426",
+   "nom": "Filete Caballa Sur Aceite Oliva Bajo en Sal Omega-3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 160",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071233426"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071084028",
+   "nom": "Miel de Sologne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071084028"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876275599",
+   "nom": "Mermelada albaricoque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876275599"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594071478643",
+   "nom": "Flocons d’avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594071478643"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680520523",
+   "nom": "pain blé et épeautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680520523"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876337884",
+   "nom": "yogur bifidus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876337884"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876264524",
+   "nom": "Pan de 50% centeno y semillas de sesamo y amapolas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876264524"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876005066",
+   "nom": "Galleta horneada",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876005066"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071086107",
+   "nom": "Spaetzle Pâtes d'Alsace IGP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071086107"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876329360",
+   "nom": "Hummus classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score B · 240g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876329360"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876290608",
+   "nom": "Soja texturizada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876290608"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876327441",
+   "nom": "Pan molde proteina plus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876327441"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876314311",
+   "nom": "Panettone de chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876314311"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071480967",
+   "nom": "Wrap Poulet rôti Tomates marinées Sauce Pesto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071480967"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071482947",
+   "nom": "100% PUR FRUIT PRESSE ORANGE Jus d'orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071482947"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876272734",
+   "nom": "Pulpa de tomate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 660 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876272734"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071267940",
+   "nom": "200ML GAR FEM PX SS CRF",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071267940"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876294309",
+   "nom": "Yogur griego natural azucarado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876294309"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070536610",
+   "nom": "Lardons nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070536610"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876289374",
+   "nom": "Batido de cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876289374"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070544714",
+   "nom": "Haricots verts & beurre Coupés",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070544714"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245415141000",
+   "nom": "Beignet aux Pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245415141000"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070711048",
+   "nom": "Confit de canard 4 cuisses",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070711048"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876329384",
+   "nom": "Hummus light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 240g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876329384"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876245592",
+   "nom": "Tiras bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 7",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876245592"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680367432",
+   "nom": "Cabillaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 0,250 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680367432"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666060511",
+   "nom": "Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666060511"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101082069",
+   "nom": "Myrtilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101082069"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876327939",
+   "nom": "Burgermeat vacuno original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 180 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876327939"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666053377",
+   "nom": "Olio extra vergine di Oliva 100% italiano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666053377"
+  },
+  {
+   "id": "distribution-paiement-carrefour-00001189",
+   "nom": "Pain de mie moulé ferme nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00001189"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876357196",
+   "nom": "Tahini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876357196"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876284461",
+   "nom": "Salmón ahumado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876284461"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245413834089",
+   "nom": "Tomates Farcies Riz cuisiné à la tomate",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245413834089"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245412762826",
+   "nom": "Cidre traditionnel",
+   "assemblage": "35113 Domagné",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245412762826"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876098082",
+   "nom": "Patatas fritas sin sal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876098082"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071085858",
+   "nom": "Thon blanc à l'huile d'olive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071085858"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876279375",
+   "nom": "Hogaza de pan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876279375"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101067073",
+   "nom": "Tomates Cerises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 250 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101067073"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876300468",
+   "nom": "Hummus clasico de garbanzos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876300468"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876274738",
+   "nom": "Pan hogaza sin gluten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876274738"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680445673",
+   "nom": "Pommes de terre GRENAILLE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680445673"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876232882",
+   "nom": "Patatas fritas onduladas",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876232882"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071259228",
+   "nom": "Iogur liquido natural",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071259228"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876327694",
+   "nom": "Pechuga de pollo finas lonchas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876327694"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876268584",
+   "nom": "Leche semidesnatada minibrik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876268584"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876273700",
+   "nom": "Ciruela deshuesada",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876273700"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071400644",
+   "nom": "Chocolate con leche con almendras enteras",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071400644"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071409036",
+   "nom": "Sorbete de limon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071409036"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071346676",
+   "nom": "Beurre gastronomique doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071346676"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245394071091",
+   "nom": "Rhum traditionnel rhum des departements d'outre-mer boel guilly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245394071091"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5905784348278",
+   "nom": "Syrop z agawy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5905784348278"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594071117146",
+   "nom": "Quinoa bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594071117146"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666072828",
+   "nom": "Cracker integrali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666072828"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190149316",
+   "nom": "Pomme Poire",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190149316"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876254167",
+   "nom": "Galletas desayuno 5 cereales chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876254167"
+  },
+  {
+   "id": "distribution-paiement-carrefour-7613036079068",
+   "nom": "Nestle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036079068"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876263138",
+   "nom": "Sardinilla en salsa de tomate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score D · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876263138"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071307301",
+   "nom": "Muesli 7 fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071307301"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876296631",
+   "nom": "Panecillos tostados con semillas y cereales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876296631"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070794836",
+   "nom": "Cola saveur cherry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070794836"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876115215",
+   "nom": "Galleta mult. Choc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 10 barritas x 20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876115215"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876263145",
+   "nom": "Sardinilla picantes rr-90",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876263145"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876038538",
+   "nom": "Turrón imperial sin azúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876038538"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876299458",
+   "nom": "Pan de molde con semillas de amapola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876299458"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876122411",
+   "nom": "Tumaca nat.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876122411"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876144697",
+   "nom": "Aceite de girasol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876144697"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876299540",
+   "nom": "Pechuga de pavo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876299540"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876295153",
+   "nom": "Pistacho Natural Sin Cascara",
+   "assemblage": "españa",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876295153"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3248288148756",
+   "nom": "Pavé aux céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3248288148756"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876146745",
+   "nom": "Aceite de oliva virgen extra picual",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876146745"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876104820",
+   "nom": "Piña",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876104820"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071233570",
+   "nom": "Filete Caballa Sur Escabeche Bajo Sal Alto Omega-3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071233570"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876304053",
+   "nom": "Arandonos Rojos Deshidratados",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876304053"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071252281",
+   "nom": "Tropical Light*",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071252281"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876264067",
+   "nom": "Leche sin lactosa entera",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876264067"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876287547",
+   "nom": "Nachos Redondos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876287547"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245415959346",
+   "nom": "Crépinettes pur porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 4 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245415959346"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3276555374065",
+   "nom": "Clémentine de Corse IGP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3276555374065"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070234868",
+   "nom": "Jus De Raisin Blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070234868"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876275872",
+   "nom": "Café intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876275872"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876288490",
+   "nom": "Miel de flores",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876288490"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876109924",
+   "nom": "Pim rell bac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 260g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876109924"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876281293",
+   "nom": "Picos gourmet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876281293"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071406127",
+   "nom": "Cœurs de céleri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 660 g (420 g égoutté)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071406127"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876300697",
+   "nom": "Bases De Pizza Artesanas Extrafinas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876300697"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876329391",
+   "nom": "Hummus con aceitunas kalamata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876329391"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876283457",
+   "nom": "Aceitunas S/Hueso Negra Cac. Lata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 50",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876283457"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071406158",
+   "nom": "Judías verdes finas cortadas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071406158"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876265026",
+   "nom": "Rooibos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876265026"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876285635",
+   "nom": "Uvas sin pepitas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876285635"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876310627",
+   "nom": "Ensalada China",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876310627"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876325287",
+   "nom": "Crema de pollo con verduras",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876325287"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666060580",
+   "nom": "Frullato di frutta alla prugna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666060580"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666046065",
+   "nom": "Choco Chunk Dark",
+   "assemblage": "Cosio Valtellino (SO)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 400 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666046065"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876104868",
+   "nom": "Ciruela c/h",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876104868"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876264029",
+   "nom": "Tomate frito",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876264029"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071233600",
+   "nom": "Trozos Caballa Aceite Oliva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071233600"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666055593",
+   "nom": "Taralli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666055593"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876038521",
+   "nom": "Turrón mazapán fruta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876038521"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876309485",
+   "nom": "empanada de carne carrefour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876309485"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876325799",
+   "nom": "salsa alioli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876325799"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876329209",
+   "nom": "rabanitos",
+   "assemblage": "spain",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876329209"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070261338",
+   "nom": "Gelato al pistacchio ad al gusto gianduia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070261338"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070428885",
+   "nom": "Chocolat noir fourrage praline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070428885"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876318159",
+   "nom": "Seitan en lonchas ecológico BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876318159"
+  },
+  {
+   "id": "distribution-paiement-carrefour-0274290207535",
+   "nom": "Céleri Rémoulade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0274290207535"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594070808731",
+   "nom": "Thon entier albacore",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594070808731"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5941764008886",
+   "nom": "Raw Almonds",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5941764008886"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594071455293",
+   "nom": "Fromage Au Lait De Chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594071455293"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270720036840",
+   "nom": "Cacahuètes Caramélisées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270720036840"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101101746",
+   "nom": "Carrefour Bon Appétit! Salad Bowl Falafel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101101746"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101101654",
+   "nom": "Carrefour Bon Appétit! Salad Crevettes Grises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 277 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101101654"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876361933",
+   "nom": "queso fresco de Cabra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876361933"
+  },
+  {
+   "id": "distribution-paiement-carrefour-2991406001556",
+   "nom": "Chapata Cristal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2991406001556"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876242485",
+   "nom": "Galleta maría integral",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876242485"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876005080",
+   "nom": "Galleta relieve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876005080"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876282429",
+   "nom": "Miel de romero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876282429"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876233964",
+   "nom": "Barra de pan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876233964"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101002616",
+   "nom": "Framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101002616"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876061468",
+   "nom": "Gaspacho suave",
+   "assemblage": "Murcia",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876061468"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071233457",
+   "nom": "Filete Caballa Sur Tomate Alto Contenido Omega",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071233457"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071097158",
+   "nom": "Chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071097158"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876093162",
+   "nom": "Turrón de Alicante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876093162"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876279023",
+   "nom": "Agua limón zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876279023"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876093155",
+   "nom": "Turrón de Jijona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876093155"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876112887",
+   "nom": "Pollo tikka con arroz basmati",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876112887"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876263374",
+   "nom": "Vinagre de modena balsamico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876263374"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876299939",
+   "nom": "tortillas de trigo 27/3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 320fg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876299939"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071097189",
+   "nom": "Chocolat & raisins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071097189"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876274240",
+   "nom": "Dátil natural",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876274240"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876295863",
+   "nom": "Arándanos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876295863"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876295382",
+   "nom": "Cocktail picos fibra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876295382"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071307189",
+   "nom": "Choco Curlz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071307189"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876261783",
+   "nom": "Queso semicurado en lonchas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876261783"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876047189",
+   "nom": "Mermelada mora",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 410g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876047189"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876261592",
+   "nom": "Girasol queso de cabra-cebolla caramelizada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876261592"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071235062",
+   "nom": "Sucre blond 100% pure canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071235062"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070762071",
+   "nom": "Poivre blanc moulu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070762071"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876098983",
+   "nom": "Queso loncheado oveja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876098983"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876290325",
+   "nom": "Tortitas de harina de trigo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876290325"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071188719",
+   "nom": "Bière d'abbaye blonde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071188719"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876263923",
+   "nom": "Caldo paella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876263923"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876178487",
+   "nom": "Salsa de quesos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876178487"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876279863",
+   "nom": "Salchichas frankfurt queso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876279863"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5941444001350",
+   "nom": "lapte integral uit eco",
+   "assemblage": "românia",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5941444001350"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071453565",
+   "nom": "Chouchous caramélisés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071453565"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070178032",
+   "nom": "Ciboulette 5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070178032"
+  },
+  {
+   "id": "distribution-paiement-carrefour-7791720016152",
+   "nom": "Puré de papas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7791720016152"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666008933",
+   "nom": "Latte UHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666008933"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876114256",
+   "nom": "Bacalao en lonchas ahumado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876114256"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876098976",
+   "nom": "Queso loncheado curado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876098976"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876298215",
+   "nom": "Salmón al natural",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score E · 3 x 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876298215"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071432249",
+   "nom": "Espresso brazil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 52 g (10 capsules)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071432249"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071479367",
+   "nom": "Choux de bruxelles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071479367"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876350357",
+   "nom": "Guacamole",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876350357"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876265873",
+   "nom": "Ajo Granulado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876265873"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876275605",
+   "nom": "Mermelada extra de ciruela",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876275605"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876281309",
+   "nom": "Regañás",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876281309"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666055326",
+   "nom": "Marmellata mirtillo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666055326"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876305234",
+   "nom": "Gazpacho Fresco Pet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876305234"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666520602",
+   "nom": "Pesto della liguria",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666520602"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876292398",
+   "nom": "Alubias A La Riojana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 420",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876292398"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876297843",
+   "nom": "Nubes Marsmallow",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876297843"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876278453",
+   "nom": "Queso tierno",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876278453"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876280234",
+   "nom": "Papilla multicereales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876280234"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876152272",
+   "nom": "Aceite de oliva suave 0.4º",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876152272"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071227784",
+   "nom": "Helado tarrina chocolate sin azúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071227784"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071227739",
+   "nom": "Chococao soluble",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071227739"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876290332",
+   "nom": "Tortillas de trigo y maiz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876290332"
+  },
+  {
+   "id": "distribution-paiement-carrefour-02182278",
+   "nom": "mini saucissons secs",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02182278"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876290530",
+   "nom": "Queso Azul",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876290530"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680448865",
+   "nom": "Les sablés diamants pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680448865"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876295429",
+   "nom": "Cocktail de picos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876295429"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071442811",
+   "nom": "Choco'lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071442811"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680458192",
+   "nom": "BASILIC Grand vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680458192"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071448318",
+   "nom": "Pimientos del piquillo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071448318"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071448639",
+   "nom": "Terrine au lapin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071448639"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666065349",
+   "nom": "Falafel di ceci",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666065349"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876267310",
+   "nom": "Agua mineral kids tapon sport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876267310"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666048700",
+   "nom": "Carrefour Spaghetti Integrali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666048700"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876280333",
+   "nom": "Tarrito espaguetis boloñesa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876280333"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876291421",
+   "nom": "Caramelo de goma besos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876291421"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876298253",
+   "nom": "Queso fresco 100% cabra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876298253"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666065394",
+   "nom": "Farina &quot;00&quot; di grano tenero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666065394"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876341126",
+   "nom": "Edam",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876341126"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876267181",
+   "nom": "Agua mineral natural",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876267181"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101067110",
+   "nom": "Snack p'tites tomates mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101067110"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876276459",
+   "nom": "Cafe latte sin lactosa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876276459"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876146738",
+   "nom": "Aceite de oliva virgen extra arbequina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876146738"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666504114",
+   "nom": "biscotti del legaccio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 250 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666504114"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876289701",
+   "nom": "Salchichón ibérico extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876289701"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071411107",
+   "nom": "LAIT DEMI ECREMÉ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071411107"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666046041",
+   "nom": "Frollini alle uova",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666046041"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666059560",
+   "nom": "Fettine di gouda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666059560"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876305876",
+   "nom": "Hummus con pimiento del piquillo asado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876305876"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101241343",
+   "nom": "Chicon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101241343"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071488642",
+   "nom": "Poêlée de légumes pomme de terre et carote",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071488642"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071454432",
+   "nom": "Dosettes café lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071454432"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594071435851",
+   "nom": "compote de pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594071435851"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666059508",
+   "nom": "Parmigiano reggiano dop",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666059508"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594070429080",
+   "nom": "Crème balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594070429080"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876340570",
+   "nom": "Caldo casero de cocido",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876340570"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876275681",
+   "nom": "Infusion digestive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876275681"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876265019",
+   "nom": "Té rojo",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 60 g (2 g x 30 bolsitas)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876265019"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876122176",
+   "nom": "Aguacate Hass envasado origen Andalucía",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876122176"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876289640",
+   "nom": "Cerveza rubia sin gluten botellín",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876289640"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666505906",
+   "nom": "Olio extra vergine di oliva Dauno Gargano D.O.P",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666505906"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666059294",
+   "nom": "Yogurt greco magro pesca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666059294"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666010004",
+   "nom": "Filetti di alici",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666010004"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876310672",
+   "nom": "Pepinillos picantes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876310672"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876308136",
+   "nom": "Garbanzo pedrosillano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876308136"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876325775",
+   "nom": "Salsa cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876325775"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666018314",
+   "nom": "Pesto rosso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 190g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666018314"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876310993",
+   "nom": "Huevos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 24 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876310993"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876310023",
+   "nom": "Tarrina de chocolate con virutas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876310023"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3229820779560",
+   "nom": "Fromage blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820779560"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876339741",
+   "nom": "8431876440064",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876339741"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101096158",
+   "nom": "Carrefour Classic' Lait Écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101096158"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666062331",
+   "nom": "Lingue di gatto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666062331"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666045075",
+   "nom": "Semi di lino biologici",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666045075"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666055395",
+   "nom": "Confettura extra di Prugna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666055395"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876289756",
+   "nom": "MIx cono mediano sabor chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876289756"
+  },
+  {
+   "id": "distribution-paiement-carrefour-6281100350637",
+   "nom": "ulker chocosandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6281100350637"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3184830028070",
+   "nom": "70% ARABICA 30% ROBUSTA Café légèrement corsé, aromatique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3184830028070"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876056075",
+   "nom": "Salsa bechamel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876056075"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876273687",
+   "nom": "Mix de pasas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876273687"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680275515",
+   "nom": "Croissant x2 au beurre AOP Charentes Poitou",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 160g 2 croissants",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680275515"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666045136",
+   "nom": "Semi di Chia biologici",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666045136"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666042180",
+   "nom": "4 Uova Fresche Biologiche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666042180"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876308372",
+   "nom": "Corteza de jamón",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876308372"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876300529",
+   "nom": "Yogur sabor Macedonia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876300529"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666011520",
+   "nom": "wafe5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666011520"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876291957",
+   "nom": "Caramelo líquido",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876291957"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876319989",
+   "nom": "Mochi Green tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876319989"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666065370",
+   "nom": "Mini burger di melanzane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666065370"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876300857",
+   "nom": "Yogur líquido con azúcar de caña",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 12 x 93 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876300857"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876325874",
+   "nom": "Selección",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876325874"
+  },
+  {
+   "id": "distribution-paiement-carrefour-7791720026564",
+   "nom": "Vainillas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7791720026564"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3760373400568",
+   "nom": "Poullet tikka massala, Riz blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760373400568"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3760373400483",
+   "nom": "Salade façon Bobun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760373400483"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666504312",
+   "nom": "Lenticchie dell'altopiano di Colfiorito",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666504312"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876353808",
+   "nom": "MEZZELUNE CON CALABAZA, MASCARPONE PASTA FRESCA AL HUEVO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876353808"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3760373400599",
+   "nom": "Porc Roti Purée De Pommes De Terre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760373400599"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666073146",
+   "nom": "Orata con pomodori, patate e olive - surgelato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666073146"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876343533",
+   "nom": "Hot Dog Rustico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876343533"
+  },
+  {
+   "id": "distribution-paiement-carrefour-6291011056306",
+   "nom": "Almond Dates (Dark Chocolate Coated)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6291011056306"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876345537",
+   "nom": "Salsa Caponata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876345537"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876358933",
+   "nom": "sabor nata ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876358933"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8594071479398",
+   "nom": "Capuccino original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594071479398"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876353594",
+   "nom": "Bizcocho",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876353594"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8690982015912",
+   "nom": "Carrefour 93% Peanut Butter With No Added Sugar",
+   "assemblage": "Turkey",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8690982015912"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876351743",
+   "nom": "Albóndigas de Cerdo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876351743"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3060921507665",
+   "nom": "Meule de Besac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 190",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3060921507665"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5400101101715",
+   "nom": "Carrefour Bon Appétit! Salad Bowl Saumon Fumé & Dressing Soja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 310 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400101101715"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876302172",
+   "nom": "Berberechos al natural",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876302172"
+  },
+  {
+   "id": "distribution-paiement-carrefour-0441026302653",
+   "nom": "Hamburguesa Pollo Espinaca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 540g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0441026302653"
+  },
+  {
+   "id": "distribution-paiement-carrefour-7791720030004",
+   "nom": "Garbanzos Secos Remojados",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7791720030004"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876343366",
+   "nom": "Naranja confitada con chocolate negro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876343366"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876367362",
+   "nom": "Turrón Dubai style chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876367362"
+  },
+  {
+   "id": "distribution-paiement-carrefour-15604781",
+   "nom": "Amandes décortiquées",
+   "assemblage": "États-Unis",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15604781"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3040409332231",
+   "nom": "Donut Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3040409332231"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876286472",
+   "nom": "Fusilli De Lentejas Rojas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876286472"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245412379994",
+   "nom": "Gésiers de canard entiers, à la graisse de canard",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 410 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245412379994"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070761395",
+   "nom": "Basilic",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 12 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070761395"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876275780",
+   "nom": "Mantequilla tarrina facil de untar light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876275780"
+  },
+  {
+   "id": "distribution-paiement-carrefour-5941534003776",
+   "nom": "Lapte Integral 3,5%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 1,4L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5941534003776"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245415702775",
+   "nom": "Grilled Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 195 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245415702775"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876065916",
+   "nom": "Alubia c/verduras",
+   "assemblage": "Carcastillo",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 400 g (neto)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876065916"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8012666045785",
+   "nom": "Fette biscottate integrali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8012666045785"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876103342",
+   "nom": "Preparaado lácteo omega 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876103342"
+  },
+  {
+   "id": "distribution-paiement-carrefour-8431876275308",
+   "nom": "Crema calabaza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8431876275308"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071426644",
+   "nom": "Jus de fruits  - Défense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071426644"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071084011",
+   "nom": "Miel du Gâtinais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071084011"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070262229",
+   "nom": "Saveur multifruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070262229"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071232719",
+   "nom": "Pain de mie complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071232719"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070910366",
+   "nom": "Huile d\\'olive vierge extra",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070910366"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245413451804",
+   "nom": "Avoine",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245413451804"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071507480",
+   "nom": "Pâte à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071507480"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190025337",
+   "nom": "Lait demi-écrémé Stérilisé UHT",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190025337"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070308316",
+   "nom": "Biscottes Complètes bio",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070308316"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071269494",
+   "nom": "Barre Céréales CHOCOLAT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 138 g (6 x 23 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071269494"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071433277",
+   "nom": "Biscottes blé complet Sans sucres* et sans sel ajoutés",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071433277"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071455279",
+   "nom": "Biscuits avoine chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 130 g (3 x 43,3 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071455279"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190128717",
+   "nom": "SOJA Sans sucres ajoutés",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190128717"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190127871",
+   "nom": "cookies bio chocolat noisette",
+   "assemblage": "Biscuiterie de l'Abbaye - Route du Val - 61700 Lonlay-l'Abbaye",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190127871"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071407773",
+   "nom": "Croustillant graines de courge et de tournesol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071407773"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071270285",
+   "nom": "Petits flocons d'avoine complète",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071270285"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190128519",
+   "nom": "Petit beurre tablette Chocolat noir",
+   "assemblage": "auvergne-rhone-alpes",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190128519"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071190965",
+   "nom": "Flocons d'avoine",
+   "assemblage": "Poland",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071190965"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071266950",
+   "nom": "100% Cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071266950"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070792368",
+   "nom": "Croustillant Nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070792368"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070391073",
+   "nom": "Galettes de Blé Noir Bio CARREFOUR BIO",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 200 g (pas de",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070391073"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071407711",
+   "nom": "Croustillant tout chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071407711"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070387427",
+   "nom": "Amande intense",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070387427"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071417444",
+   "nom": "Petits pains grillés à l'épeautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071417444"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071407803",
+   "nom": "Croustillant Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071407803"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071407681",
+   "nom": "Croustillant fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071407681"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070370436",
+   "nom": "8 Pains au lait",
+   "assemblage": "91343 MASSY cedex",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070370436"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071267582",
+   "nom": "Corn flakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071267582"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071251871",
+   "nom": "Tartines craquantes sarrasin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 150 g (2 x 75 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071251871"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071266905",
+   "nom": "Purée d'Amandes complètes",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071266905"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190191377",
+   "nom": "Petits pains grillés aux céréales",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190191377"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071469542",
+   "nom": "Galettes de riz complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071469542"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071469771",
+   "nom": "Galettes de riz Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071469771"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190174356",
+   "nom": "Ratatouille",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 630 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190174356"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3245411157944",
+   "nom": "SOJA à la VANILLE",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245411157944"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071469672",
+   "nom": "Carrefour Bio Galettes de Maïs Salées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071469672"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071014186",
+   "nom": "Tartines au seigle et graines de sésame",
+   "assemblage": "Belgium",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071014186"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070503445",
+   "nom": "Mayonnaise à la moutarde de Dijon",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 238 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070503445"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3523680438224",
+   "nom": "Bio et équitable",
+   "assemblage": "equateur",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 5 pièces",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3523680438224"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071407537",
+   "nom": "Muesli superfruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071407537"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070682683",
+   "nom": "Biscuits chocolat au lait",
+   "assemblage": "Auvergne-Rhône-Alpes",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070682683"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070483471",
+   "nom": "Pur jus de citron",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070483471"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071469573",
+   "nom": "Galettes 4 Céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071469573"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071469641",
+   "nom": "Galettes épeautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071469641"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071501754",
+   "nom": "Confiture extra myrtille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071501754"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071266912",
+   "nom": "Purée de noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071266912"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071407742",
+   "nom": "Croustillant, 6 fruits secs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071407742"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190127512",
+   "nom": "Confiture de fraises",
+   "assemblage": "ANDROS SNC",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190127512"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071442033",
+   "nom": "Grandes tranches Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071442033"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071437732",
+   "nom": "Palmiers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 100 g (2 x 50 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071437732"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070740338",
+   "nom": "Sirop d'agave",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070740338"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071259297",
+   "nom": "Pâte feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071259297"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071239626",
+   "nom": "Houmous",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071239626"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071459468",
+   "nom": "Pain complet 3 céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071459468"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071266769",
+   "nom": "Galettes Bretonnes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071266769"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070393619",
+   "nom": "Riz Basmati",
+   "assemblage": "GEOVITA SRL",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070393619"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070409976",
+   "nom": "Velouté de 7 légumes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070409976"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070590582",
+   "nom": "Beurre moulé de baratte doux",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070590582"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071014179",
+   "nom": "Tartines croustillantes au Seigle",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071014179"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071018085",
+   "nom": "Pois chiches au sel de Noirmoutier",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 410 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071018085"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560071242589",
+   "nom": "Pâte brisée pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071242589"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3270190128533",
+   "nom": "Biscottes",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3270190128533"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070820597",
+   "nom": "100% pur jus JUS DE POMME",
+   "assemblage": "Alsace-Champagne-Ardenne-Lorraine",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070820597"
+  },
+  {
+   "id": "distribution-paiement-carrefour-3560070973743",
+   "nom": "Huile d'olive vierge extra",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070973743"
+  }
+ ]
+}

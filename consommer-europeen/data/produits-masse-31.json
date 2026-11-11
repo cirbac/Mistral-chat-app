@@ -1,0 +1,3802 @@
+{
+ "alimentation-boissons-mondelez": [
+  {
+   "id": "alimentation-boissons-mondelez-7622210611505",
+   "nom": "Encore Lait 158G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210611505"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210663016",
+   "nom": "Chocolat noir praliné Côte d'Or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210663016"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210663061",
+   "nom": "Chocolat noir orange Côte d'Or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210663061"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210669667",
+   "nom": "Bonbons bouchées chocolat lait Côte d'Or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210669667"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210751294",
+   "nom": "L'original lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210751294"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210926005",
+   "nom": "Chocolat au lait noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210926005"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300327422",
+   "nom": "Zero - puur/noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300327422"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300327446",
+   "nom": "Zero lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300327446"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622400845475",
+   "nom": "Chokotoff",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622400845475"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-76222818",
+   "nom": "Chocolat côte d'or gout pistache",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 47grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/76222818"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210927491",
+   "nom": "Mignonnette noir orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210927491"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210927880",
+   "nom": "Côte d or (chocolat noir)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210927880"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210874757",
+   "nom": "Encore ! Noir puur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210874757"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300062521",
+   "nom": "Truffé nour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300062521"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-30618282",
+   "nom": "Milk chocolate whit hazelnuts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/30618282"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5410081205396",
+   "nom": "Côte D'or Bâtons Plein Fond. Nois. Entières 3P X22",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410081205396"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201062538",
+   "nom": "ORAÏA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201062538"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622400017223",
+   "nom": "Chocolat noir intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622400017223"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-4006894257304",
+   "nom": "Mini poire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4006894257304"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210150981",
+   "nom": "Côte D'or Pralinette 100 Pièces 1KG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210150981"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210122872",
+   "nom": "Bouchée côte d'or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210122872"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7694910811608",
+   "nom": "Aux éclats de noisettes caramélisées et d'amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7694910811608"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7305863795371",
+   "nom": "Côte d'Or Noir de Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7305863795371"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-11480464",
+   "nom": "Noisettes caramélisées et franboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11480464"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0070221568269",
+   "nom": "Dark chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070221568269"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210193032",
+   "nom": "Chocolat noir fourré au nougat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210193032"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210625557",
+   "nom": "Melk hele hazelnoten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210625557"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0070221006846",
+   "nom": "Dark Chocolate Confection",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070221006846"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0070221103118",
+   "nom": "Chocolate Bar Dark 86% 1X3.52 Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070221103118"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210637956",
+   "nom": "Chunks dessert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2,5KG",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210637956"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201100025",
+   "nom": "Mignonnette Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201100025"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210673589",
+   "nom": "Bouw",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210673589"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201038960",
+   "nom": "Noir Intense 70%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201038960"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210131959",
+   "nom": "Bouchée au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210131959"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201768799",
+   "nom": "Lait melk & Noir puur Mignonnette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201768799"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0070221568535",
+   "nom": "Noir Amandes entières",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070221568535"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-17811286",
+   "nom": "Mignonnette  NOIR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17811286"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-4130510841438",
+   "nom": "Carrés noisettes entières",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4130510841438"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7694910876959",
+   "nom": "Callendrier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7694910876959"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210005700",
+   "nom": "Noir amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210005700"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-39896162",
+   "nom": "Chocolat Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/39896162"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-16173361",
+   "nom": "Chocolat banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16173361"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0552705679123",
+   "nom": "Côte d’or mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0552705679123"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6627304611806",
+   "nom": "Noir pâte d’amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6627304611806"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0070221001278",
+   "nom": "Côtesor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070221001278"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0605332695063",
+   "nom": "Chocolat noisettes entières  au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0605332695063"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0551500995025",
+   "nom": "Côte D’or lait amandes caramélisées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0551500995025"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-2897201717145",
+   "nom": "Lait-Petit beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2897201717145"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8622270963759",
+   "nom": "Cote d’or Pâques",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8622270963759"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-68528100",
+   "nom": "Sorbet Citron Côte d’or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/68528100"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300020941",
+   "nom": "Chocolat pour cuisiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300020941"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0070221001261",
+   "nom": "Lait - melk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070221001261"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-1318379995100",
+   "nom": "Chocolat noir amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1318379995100"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0990054474356",
+   "nom": "Bio noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0990054474356"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7662400013928",
+   "nom": "lait praline double lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7662400013928"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-94403336",
+   "nom": "Nougatti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/94403336"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0692500995025",
+   "nom": "Lait amandes caramélisées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0692500995025"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210621993",
+   "nom": "Chocolat mignardises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 385g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210621993"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0655310078494",
+   "nom": "L’original noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0655310078494"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-56527957",
+   "nom": "La gaufre chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 260 g (5 x 52 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/56527957"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0654012607933",
+   "nom": "Mignonette bio noir pointe de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0654012607933"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-2698201517458",
+   "nom": "Vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2698201517458"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5410908002634",
+   "nom": "lait noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410908002634"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0312826040000",
+   "nom": "Mignonnette Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0312826040000"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0552901690953",
+   "nom": "Collection -36 pralines -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0552901690953"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-3608280000061",
+   "nom": "L'original  lait_melk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608280000061"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5653000817410",
+   "nom": "Truffé noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5653000817410"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0762220000229",
+   "nom": "Carrés Chocolats Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762220000229"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0762221099506",
+   "nom": "Tablette de Chocolat Lait Noisettes Entières - COTE D'OR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 180g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762221099506"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0762221099508",
+   "nom": "Tablette de Chocolat Noir Noisettes Entières",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762221099508"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0327466414245",
+   "nom": "Glace vanille lait noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0327466414245"
+  }
+ ],
+ "alimentation-et-boissons-bel": [
+  {
+   "id": "alimentation-et-boissons-bel-6111246721261",
+   "nom": "Fromage Blanc Nature",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111246721261"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035000430",
+   "nom": "sidi ali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035000430"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242100992",
+   "nom": "Perly",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242100992"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035000058",
+   "nom": "Eau minérale naturelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035000058"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111266962187",
+   "nom": "Lait frais naturel demi écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 450 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111266962187"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242106949",
+   "nom": "Jben",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242106949"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3274080005003",
+   "nom": "isabelle",
+   "assemblage": "24610",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274080005003"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622210449283",
+   "nom": "Prince",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 300 g ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210449283"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242101180",
+   "nom": "Lait entier UHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242101180"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111128000071",
+   "nom": "Ain Saïss",
+   "assemblage": "Fes Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111128000071"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111252421568",
+   "nom": "Aquafina",
+   "assemblage": "Casablanca Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252421568"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242100985",
+   "nom": "بيرلي جودة اخضر",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242100985"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049790214",
+   "nom": "Pain de mie Bio grandes tranches à la farine complète 500g",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049790214"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920029759",
+   "nom": "Excellence Noir Prodigieux 90% Cacao",
+   "assemblage": "aachen",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920029759"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000054227",
+   "nom": "Coca-Cola Original Taste",
+   "assemblage": "portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000054227"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032009665",
+   "nom": "Lait Frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 470 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032009665"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3329770077003",
+   "nom": "Skyr nature 0%",
+   "assemblage": "Boulogne-Billancourt",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 800 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3329770077003"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242100206",
+   "nom": "Le nature",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242100206"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049798609",
+   "nom": "Pain de mie grandes tranches Seigle & Graines 500g",
+   "assemblage": "85140-essarts-en-bocage",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049798609"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3168930010265",
+   "nom": "cruesly mélange de noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930010265"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-06175700",
+   "nom": "Tartines craquantes au sarrasin imp",
+   "assemblage": "Peaugres 07340",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06175700"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175680011480",
+   "nom": "Sésame",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175680011480"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920022651",
+   "nom": "Noir Intense",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920022651"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3017620422003",
+   "nom": "Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 400 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620422003"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920022606",
+   "nom": "Excellence 85% cacao",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920022606"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760020507350",
+   "nom": "Pur beurre de cacahuète",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760020507350"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111203006653",
+   "nom": "la Hollandaise cheddar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111203006653"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8052575090254",
+   "nom": "Rigoni di Asiago - Nocciolata bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8052575090254"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035003035",
+   "nom": "Oulmés (eau minérale naturelle gazeuse)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035003035"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111031005064",
+   "nom": "Tonik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 23 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005064"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820100234",
+   "nom": "Fourrés Chocolat Noir",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820100234"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857002344",
+   "nom": "Pain de mie american sandwich complet sans sucres ajoutés 600g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857002344"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7311070032611",
+   "nom": "Krisprolls complets sans sucres ajoutés",
+   "assemblage": "Suède",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 425 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7311070032611"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3284230006408",
+   "nom": "Brioche Tranchée Bio 400g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3284230006408"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000147417",
+   "nom": "Cappy PULPY",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000147417"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5411188112709",
+   "nom": "Lait Amande Grillée Sans Sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5411188112709"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3168930163480",
+   "nom": "Alvalle Gazpacho l'original",
+   "assemblage": "espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930163480"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111180000231",
+   "nom": "levure pâtisserie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111180000231"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3029330022428",
+   "nom": "14 Maxi Tranches complet sans sucres ajoutés",
+   "assemblage": "Auvergne",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3029330022428"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111259092495",
+   "nom": "Goldium crémeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111259092495"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-42104964",
+   "nom": "Ciel 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42104964"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049794298",
+   "nom": "Pain de mie Bio grandes tranches céréales & graines 500g",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049794298"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7300400481595",
+   "nom": "AUTHENTIQUE",
+   "assemblage": "682 82",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7300400481595"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7300400481588",
+   "nom": "Fibres",
+   "assemblage": "29229",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7300400481588"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8052575090230",
+   "nom": "Nocciolata",
+   "assemblage": "Asiago",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8052575090230"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242100817",
+   "nom": "uht jaouda 1/2L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score D · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242100817"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3327272107969",
+   "nom": "Menguy's Peanut 100%",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 454 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3327272107969"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111128000460",
+   "nom": "aïn Saiss Eau Minérale Naturelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111128000460"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820160672",
+   "nom": "Croustillant Chocolat",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820160672"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8076809513753",
+   "nom": "Sauce pesto avec basilic",
+   "assemblage": "Italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8076809513753"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111246722107",
+   "nom": "Frommage fondu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111246722107"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3155250358788",
+   "nom": "Margarine bio doux tartine & cuisson",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155250358788"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681851849",
+   "nom": "Pomme Noisette",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681851849"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410757001090",
+   "nom": "Crema Manos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410757001090"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000061515",
+   "nom": "Ciel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000061515"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242100305",
+   "nom": "jaouda Cremy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242100305"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3251490332080",
+   "nom": "figues et son",
+   "assemblage": "Annoray",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251490332080"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3155251205296",
+   "nom": "Tartine Doux",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155251205296"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032001003",
+   "nom": "Assil vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032001003"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111206000733",
+   "nom": "Jebli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 190g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111206000733"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3608580065340",
+   "nom": "Pâte à tartiner noisettes et cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 360 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580065340"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000214799",
+   "nom": "Coca-Cola sans sucres",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000214799"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3480341000674",
+   "nom": "Carré frais 0% 200g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 8 × 25g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3480341000674"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049791006",
+   "nom": "tartine de campagne",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049791006"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111099003897",
+   "nom": "Tartine & Cuisine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111099003897"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111128000088",
+   "nom": "ain saiss 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111128000088"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111266963207",
+   "nom": "Kéfir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111266963207"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000214911",
+   "nom": "Coca-Cola Original",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000214911"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410376009392",
+   "nom": "Sans sucres Fibre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410376009392"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032006619",
+   "nom": "Jamila رايبي",
+   "assemblage": "maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032006619"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3412290070101",
+   "nom": "Fromage à tartiner Nature fouetté MADAME LOIK - 180g",
+   "assemblage": "22130 CREHEN",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3412290070101"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035001635",
+   "nom": "Aïn atlas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035001635"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184001562",
+   "nom": "Sel de table iodé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184001562"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032008583",
+   "nom": "Gervais fromage frais nature sucré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032008583"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8076809523547",
+   "nom": "pesto rosso",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8076809523547"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3268840001008",
+   "nom": "CRISTALINE Eau De Source 0.5L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3268840001008"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760091727732",
+   "nom": "Beurre bio cacahuète",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760091727732"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820019307",
+   "nom": "Flocons d'avoine",
+   "assemblage": "allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820019307"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3608580124047",
+   "nom": "Be Nuts ! - Pâte à tartiner Cacahuète",
+   "assemblage": "Brive-la-Gaillarde",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 325 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580124047"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8420756010320",
+   "nom": "kéfir nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 600 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8420756010320"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681851856",
+   "nom": "Biscuit raisins",
+   "assemblage": "31250 Revel",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681851856"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111246721940",
+   "nom": "le blanc nature 900g araai",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111246721940"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820129488",
+   "nom": "muesli raisin,datte,figue",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820129488"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3362600011044",
+   "nom": "Henry’s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3362600011044"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3387390123210",
+   "nom": "Chocapic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3387390123210"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8000500426494",
+   "nom": "Nutella Plant-Based",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score E · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500426494"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20724696",
+   "nom": "Amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20724696"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5410041001204",
+   "nom": "Tuc Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 100 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410041001204"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20995553",
+   "nom": "Cioccolato Fondente",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20995553"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5010477348678",
+   "nom": "Special Muesli 30% fruits & noix",
+   "assemblage": "Royaume-Uni",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010477348678"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184004129",
+   "nom": "Mayonnaise recette originale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 280ml 17 dh",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184004129"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8720182556738",
+   "nom": "Maille Moutarde Fine de Dijon L'Originale Bocal 360g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182556738"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820794525",
+   "nom": "Avoine chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820794525"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820782560",
+   "nom": "Muesli Superfruits Raisins, cassis, cranberry, myrtille",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820782560"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3302740087059",
+   "nom": "Les tranches végé lentilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3302740087059"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035001673",
+   "nom": "Aïn Atlas 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035001673"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032000600",
+   "nom": "Salim uht",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032000600"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111018903161",
+   "nom": "Nescafé Classic",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 45 g (25 dh)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111018903161"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111162000839",
+   "nom": "Confiture de fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 430 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111162000839"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820787015",
+   "nom": "Amande sans sucres",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820787015"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5411188124689",
+   "nom": "Avoine Sans Sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5411188124689"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111259092525",
+   "nom": "Goldium Blanc Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111259092525"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000000996",
+   "nom": "Coca-Cola",
+   "assemblage": "atlanta",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000996"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111251420166",
+   "nom": "Eau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111251420166"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820792132",
+   "nom": "Avoine",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820792132"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184004730",
+   "nom": "Ketchup star",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 310 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184004730"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035003523",
+   "nom": "Bahia 5l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 5 litres",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035003523"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3256540000698",
+   "nom": "Pains au lait",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · x10 (350g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256540000698"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20267605",
+   "nom": "Noix de cajou non salées",
+   "assemblage": "52531-ubach-palenberg",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20267605"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175680015228",
+   "nom": "Levure de bière",
+   "assemblage": "31250",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175680015228"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3480341000636",
+   "nom": "Carré Frais",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 200g 8x25g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3480341000636"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111259093096",
+   "nom": "Cheeslé crémeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1000g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111259093096"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5411188110835",
+   "nom": "Amande Grillée de méditerranée",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5411188110835"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3019081238643",
+   "nom": "Sardines Huile d'Olive Vierge Extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 135 g (95 g égoutté)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3019081238643"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8445290615350",
+   "nom": "sauce tomate cuisinée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290615350"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3587220002252",
+   "nom": "La gâche tranchée",
+   "assemblage": "85150",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3587220002252"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7613036669146",
+   "nom": "NESTLE CHOCAPIC BIO Céréales - Boite de 375g",
+   "assemblage": "França",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036669146"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111029000118",
+   "nom": "Cosumar Sucre En Lingot Pour Le Thé 1 kg",
+   "assemblage": "Casablanca Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 1 kg 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111029000118"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111037000599",
+   "nom": "Familia 200g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1920 unit (8dh)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111037000599"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857000166",
+   "nom": "100% mie complet",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857000166"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3154230809869",
+   "nom": "Jambon à l'étouffée sans nitrite",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230809869"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111162000716",
+   "nom": "Confiture d'abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 430",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111162000716"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3033710073467",
+   "nom": "Chicorée & Café, RICORÉ® L'Original, Boîte de 100g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3033710073467"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-80176800",
+   "nom": "Nutella 750g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80176800"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8000500310427",
+   "nom": "Biscuits NUTELLA Biscuits Noisettes et Cacao x22 - 304g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 304 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500310427"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20005733",
+   "nom": "Cerneaux de Noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 200 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20005733"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20047238",
+   "nom": "Mélange de fruits secs",
+   "assemblage": "alemania",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20047238"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035003004",
+   "nom": "Oulmes Eau Gazeuse",
+   "assemblage": "Marrakech",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035003004"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000000439",
+   "nom": "Coca Cola Original taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000439"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111246722039",
+   "nom": "fromage herbes milky food",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111246722039"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5010029000023",
+   "nom": "weetabix",
+   "assemblage": "Burton Latimer",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score C · 430 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010029000023"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3284230011884",
+   "nom": "8 Pains au lait frais Bio 280g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3284230011884"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681066632",
+   "nom": "Biscuits pavot citron",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681066632"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111031005439",
+   "nom": "Merendina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 36 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005439"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920029780",
+   "nom": "Excellence Noir Subtil Doux 70% Cacao",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920029780"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3302740087042",
+   "nom": "Les Tranches Végé Pois chiches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3302740087042"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8002270014901",
+   "nom": "Eau minerale naturelle gazeuse",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270014901"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111246721964",
+   "nom": "creme cheese le berger 900g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111246721964"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242101050",
+   "nom": "LBEN CARTON PASTEURISER",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242101050"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184001661",
+   "nom": "Star vinaigre de table BLANC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184001661"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3088542500285",
+   "nom": "Sirop d'érable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3088542500285"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3041090063206",
+   "nom": "Cracotte Céréales Complètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3041090063206"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681851863",
+   "nom": "Biscuits Soja Figue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681851863"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111252421575",
+   "nom": "Aquafina 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252421575"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7300400481571",
+   "nom": "wasa",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7300400481571"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4056489007180",
+   "nom": "Pain complet tranché lidl",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489007180"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3362600011228",
+   "nom": "Sable coco Henry s 42g",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3362600011228"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3068320123264",
+   "nom": "Eau minéral naturelle",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,15 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3068320123264"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175680011534",
+   "nom": "Biscuit lait chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175680011534"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-06153153",
+   "nom": "Tartines craquantes quinoa - pois chiche sans gluten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06153153"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032001010",
+   "nom": "DANONE ASSIL BANANE",
+   "assemblage": "سنطرال-دانون-طريق-القنيطرة-سلا-المغرب",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032001010"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4056489620938",
+   "nom": "Beurre de cacahuètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489620938"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5010477348357",
+   "nom": "Country Crisp 4 noix",
+   "assemblage": "Angleterre",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010477348357"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410076610737",
+   "nom": "Barre de céréales protéinés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410076610737"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8425197712024",
+   "nom": "Maruja",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8425197712024"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000036872",
+   "nom": "Hawai Tropical",
+   "assemblage": "Hawai Coca cola Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000036872"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820021027",
+   "nom": "P'tit Nature Complet",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820021027"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3272770098090",
+   "nom": "St Môret",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3272770098090"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681105423",
+   "nom": "Cookie cacao pépites Sans Sucre",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681105423"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857001231",
+   "nom": "Harrys brioche tressee nature au sucre perle sans additifs 500g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857001231"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920028363",
+   "nom": "Excellence 85% Cacao Rich Dark",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920028363"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20022464",
+   "nom": "Noir intense 74% Cacao",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score D · g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20022464"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7613035040823",
+   "nom": "NESTLÉ DESSERT Noir 205g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 205g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035040823"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857002245",
+   "nom": "Pain de mie seigle Sandwich Harrys sans sucres ajoutés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857002245"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920010047",
+   "nom": "Chocolat noir extra fin traditionnel 78%",
+   "assemblage": "Suisse",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920010047"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242105331",
+   "nom": "Beurre Frais Pasteurisé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242105331"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-16256866",
+   "nom": "1848 Chocolat en poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16256866"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-16256163",
+   "nom": "Noisettes & cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16256163"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3159470000120",
+   "nom": "Céréales Corn Flakes Original",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3159470000120"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820769165",
+   "nom": "Muesli avoine chocolat bio",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820769165"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242103702",
+   "nom": "Yaourt Grec Muesli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242103702"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857001378",
+   "nom": "Brioche moins de sucre",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 485 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857001378"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3251490307002",
+   "nom": "Goûter pépites de chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251490307002"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5411188115366",
+   "nom": "Alpro smooth subtle creamy oat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5411188115366"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6923818812082",
+   "nom": "Green Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6923818812082"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111099000247",
+   "nom": "Hule D'olive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 500ml مل",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111099000247"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5000168198491",
+   "nom": "Sablés Anglais L'Original",
+   "assemblage": "Royaume-Uni",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000168198491"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3366321052386",
+   "nom": "st hubert bio & végétal",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3366321052386"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3336971805021",
+   "nom": "Chips de lentilles saveur fines herbes",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3336971805021"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8715700407760",
+   "nom": "Tomato Ketchup BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 580 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8715700407760"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111099000254",
+   "nom": "Huile d'olive",
+   "assemblage": "Agadir Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111099000254"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8424893600352",
+   "nom": "kéfir 500g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8424893600352"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3168930010906",
+   "nom": "Cruesli Chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930010906"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622210601988",
+   "nom": "Granola L'Original",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210601988"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410076601131",
+   "nom": "Crunchy avoine et miel",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 210 g, 5 barres doubles de 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410076601131"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111259343108",
+   "nom": "KING COOKIES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111259343108"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7613035676497",
+   "nom": "Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035676497"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242100930",
+   "nom": "رايبي جودة",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242100930"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3451790988677",
+   "nom": "Le beurre tendre",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3451790988677"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184001197",
+   "nom": "Star Mayonnaise Recette Originale",
+   "assemblage": "maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 90ml (8dh)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184001197"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3088543506255",
+   "nom": "Sirop d'Agave",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3088543506255"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3251490320001",
+   "nom": "Biscuit complet au germe de blé",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251490320001"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3033710084913",
+   "nom": "Arôme MAGGI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 200ml, 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3033710084913"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3041090063114",
+   "nom": "Craquotte au froment",
+   "assemblage": "vervins france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 7.35 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3041090063114"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3083681095296",
+   "nom": "Ratatouille Cuisinée à la Provençal",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score B · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3083681095296"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049790252",
+   "nom": "Pain de mie grandes tranches Toastiligne complet",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049790252"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111099000599",
+   "nom": "Huile de table",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1 Litre",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111099000599"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111266960336",
+   "nom": "Perly fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111266960336"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622201133337",
+   "nom": "Figolu",
+   "assemblage": "Non précisé",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 192 g (12 x 16 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201133337"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5411188103387",
+   "nom": "Vanille au soja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5411188103387"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820181950",
+   "nom": "Fourrés Chocolat au Lait",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820181950"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111251753912",
+   "nom": "611251753912",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111251753912"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242102002",
+   "nom": "غلال القمح",
+   "assemblage": "Yaourt",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242102002"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3225350000501",
+   "nom": "Pulco à diluer citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 70cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3225350000501"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3327272107259",
+   "nom": "Menguy's Beurre de cacahuètes creamy",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score E · 454 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3327272107259"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184000213",
+   "nom": "El Baraka Confiture D'abricots 430 G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 430 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184000213"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857001194",
+   "nom": "Beau & bon Céréales & graines",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857001194"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032008453",
+   "nom": "danino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 80",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032008453"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5060042641000",
+   "nom": "Chips simplement salées",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060042641000"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3067140013120",
+   "nom": "Chicorée soluble nature",
+   "assemblage": "59310 ORCHIES",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3067140013120"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3242274030056",
+   "nom": "Sodebo salade&cie 320g manhattan oeuf poulet fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3242274030056"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3412290070071",
+   "nom": "Fromage à tartiner Nature fouetté MADAME LOIK - 320g",
+   "assemblage": "22130 CREHEN",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3412290070071"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049798869",
+   "nom": "Pain de mie Bio grandes tranches farine complète sans sucres ajoutés 500g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049798869"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3362600011006",
+   "nom": "Henry's Petit Surfin",
+   "assemblage": "Biscuits",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3362600011006"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111180000392",
+   "nom": "Idéal-Sucre Vanilliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 75g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111180000392"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3168930009078",
+   "nom": "Flocons d'avoine complète",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930009078"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242102781",
+   "nom": "Tendre nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242102781"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3272770097642",
+   "nom": "Le Goût Primeur format familial",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 300 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3272770097642"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760020508012",
+   "nom": "Tartines craquantes Sarrasin",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760020508012"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111099005495",
+   "nom": "Mantequilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 8.5 dh",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111099005495"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111250470742",
+   "nom": "Lait U.H.T entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111250470742"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857000852",
+   "nom": "Pain de mie 100% mie nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857000852"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111251753899",
+   "nom": "Olla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111251753899"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20095291",
+   "nom": "JD GROSS",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score F · 125.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20095291"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8445290133403",
+   "nom": "Nesquik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290133403"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857002184",
+   "nom": "American sandwich nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857002184"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681209282",
+   "nom": "Goûter 4S Saveur pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681209282"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-50184453",
+   "nom": "Yeast Extract",
+   "assemblage": "bureton-on-trent",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50184453"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5411188119098",
+   "nom": "Nature Noix de Coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 0,5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5411188119098"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3061990143365",
+   "nom": "Goût chocolat",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 285 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3061990143365"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857001316",
+   "nom": "Brioche Tranchée Recette Classique",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 485 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857001316"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111259341197",
+   "nom": "Momo black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 36 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111259341197"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111266962446",
+   "nom": "delicemo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111266962446"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3292070005161",
+   "nom": "Houmous extra - Pois chiches français & graines de sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292070005161"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4006985906203",
+   "nom": "Cacao en Poudre Non Sucré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 255 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4006985906203"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681257542",
+   "nom": "Cranberry saveur amande",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score B · 132 g (4 × 3 biscuits)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681257542"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3251491787810",
+   "nom": "Goûter aux raisins",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251491787810"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111248360130",
+   "nom": "Aïn Soltane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111248360130"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3045140105502",
+   "nom": "Chocolat au lait du pays alpin Milka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045140105502"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049798029",
+   "nom": "Tartines Bio quinoa & graines 450g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049798029"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857002221",
+   "nom": "American sandwich Céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857002221"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3178530410105",
+   "nom": "Petites Madeleines",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530410105"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4056489346357",
+   "nom": "Bio lait d'amande",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489346357"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049796384",
+   "nom": "Tartines céréales & graines 450g",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049796384"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000206770",
+   "nom": "Eau de table",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000206770"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111126003821",
+   "nom": "Lait Frais 15 jours",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111126003821"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920028721",
+   "nom": "Excellence Noir Absolu 99% Cacao",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920028721"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111003031107",
+   "nom": "Filets de Maquereaux à l'huile Végétale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 125",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111003031107"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681257535",
+   "nom": "Biscuits 3 graines Kasha, Sésame, Pavot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 132 g, 4 sachets de 3 biscuits",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681257535"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032002925",
+   "nom": "Danone nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032002925"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000133328",
+   "nom": "Cocacola zero sugar",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000133328"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3154230810131",
+   "nom": "LE BON PARIS",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230810131"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3330720237361",
+   "nom": "Pâte à tartiner aux noisettes francaises et cacao",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3330720237361"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-40896243",
+   "nom": "Buo Cioccolato Fondente 70%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40896243"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049795479",
+   "nom": "Pain de mie grandes tranches Toastiligne céréales & graines 500g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049795479"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3240931548111",
+   "nom": "Gnocchi à poêler",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 325 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3240931548111"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242103528",
+   "nom": "Croissance réduit en sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242103528"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111242102767",
+   "nom": "Yaourt tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111242102767"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3021769505602",
+   "nom": "POM'POTES Compotes Gourdes Pomme Nature 1x90g",
+   "assemblage": "Aisne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3021769505602"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3228857002351",
+   "nom": "Pain de mie american sandwich complet sans sucres ajoutés maxi 900g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228857002351"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184007618",
+   "nom": "Sauce algérienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184007618"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3608580124108",
+   "nom": "Be Nuts! Pâte à tartiner Cacahuète",
+   "assemblage": "Brive-la-Gaillarde",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 325 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580124108"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111271800054",
+   "nom": "La Source",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 8L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111271800054"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111184000619",
+   "nom": "Mayonnaise",
+   "assemblage": "Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 185 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111184000619"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8052575090292",
+   "nom": "Nocciolata - Pâte à tartiner au cacao et noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8052575090292"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410076601148",
+   "nom": "Crunchy Avoine & Chocolat Noir x 5 x 2 barres de 21 g",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410076601148"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5053990156009",
+   "nom": "Pringles Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990156009"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622210476296",
+   "nom": "Thé - Biscuits",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 350 g ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210476296"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3302740047404",
+   "nom": "Le Supérieur -25% de Sel - Conservation sans Nitrite",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3302740047404"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3700214611548",
+   "nom": "Noir equitable 85% Pérou",
+   "assemblage": "Suisse",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 100 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700214611548"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111214004747",
+   "nom": "Pipas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111214004747"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-80052760",
+   "nom": "Kinder bueno",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 43 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80052760"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622210995087",
+   "nom": "chocolat noir noisettes entieres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210995087"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032000631",
+   "nom": "Salim",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 0.5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032000631"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820019192",
+   "nom": "Pain complet 3 céréales",
+   "assemblage": "allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820019192"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3095757697105",
+   "nom": "Blanc de Poulet - Fleur Michon",
+   "assemblage": "Frankreich",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3095757697105"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111266962651",
+   "nom": "Lait uht demi écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111266962651"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3033710065783",
+   "nom": "Le Choco",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3033710065783"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7300400482844",
+   "nom": "Wasa tartine croustillante complet 260g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7300400482844"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049798845",
+   "nom": "Pain de mie grandes tranches Avoine & Graines 500g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score A · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049798845"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3017760542890",
+   "nom": "pain grillé pelletier",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 500 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017760542890"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3046920027885",
+   "nom": "Excellence Noir à la Pointe de Fleur de Sel",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100 g (10 carrés)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3046920027885"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111246950845",
+   "nom": "uht jibal 1L",
+   "assemblage": "lait",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111246950845"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5010477348630",
+   "nom": "Muesli 36% fruits noix & graines",
+   "assemblage": "angleterre",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010477348630"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-87157215",
+   "nom": "Tomato Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87157215"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8715035110106",
+   "nom": "Sauce Soja - Kikkoman",
+   "assemblage": "netherlands",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8715035110106"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111035003509",
+   "nom": "Bahia, Eau De Table",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111035003509"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3182180001477",
+   "nom": "Grilletine au froment sans sucres ajoutés",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 255 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3182180001477"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8720182460721",
+   "nom": "Amora Moutarde Forte Verre 430g",
+   "assemblage": "dijon",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 430 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182460721"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5449000131805",
+   "nom": "Canette Coca-Cola Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000131805"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3038354199603",
+   "nom": "Panzani sauce pesto basilic 200g",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038354199603"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760049798890",
+   "nom": "Pain au lait bio x12 420g",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760049798890"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175680011442",
+   "nom": "Biscuit soja orange",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175680011442"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3168930009795",
+   "nom": "Muesli Croustillant Noix de pécan & noix du Brésil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930009795"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111024001516",
+   "nom": "Huile de table équilibrée riche en vitamines A,E,D3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111024001516"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3392460480827",
+   "nom": "Biscottes 6 Céréales",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3392460480827"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8719200012608",
+   "nom": "Tartine sans huile de palme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8719200012608"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111250012416",
+   "nom": "Le bon lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111250012416"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7613035449626",
+   "nom": "NESTLE CHOCAPIC Céréales 645g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 645 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035449626"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8076809513722",
+   "nom": "Basilico",
+   "assemblage": "italien",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8076809513722"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3760091722508",
+   "nom": "Chocolat noir 85% Madagascar",
+   "assemblage": "gers",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760091722508"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820794532",
+   "nom": "Avoine complète",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 130 g (3 x 4 biscuits)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820794532"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681257566",
+   "nom": "Gingembre saveur citron",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 132 g (12 x 11 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681257566"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4056489039518",
+   "nom": "Petit Pains Grillés Blé complet",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 225g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489039518"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8886467010309",
+   "nom": "Lalla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467010309"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111032002208",
+   "nom": "Activia Céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111032002208"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410076470812",
+   "nom": "Wraps blé complet extra-moelleux x 6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410076470812"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111251754247",
+   "nom": "Olla Crème de Cuisson Onctueuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111251754247"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3229820787008",
+   "nom": "Lait d'amande",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820787008"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622210713780",
+   "nom": "Belvita Petit Déjeuner Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210713780"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3336971805038",
+   "nom": "Chips de lentilles saveur tomate mozza",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3336971805038"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8052575090346",
+   "nom": "Nocciolata la bianca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8052575090346"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3478820023184",
+   "nom": "Pâte à tartiner Chocolat Noisette",
+   "assemblage": "hollande",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3478820023184"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5010477348395",
+   "nom": "Country Crisp - Chocolat noir 70% cacao",
+   "assemblage": "royaume-uni",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010477348395"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175681028111",
+   "nom": "Les Galettes Boulgour & Quinoa - Tomate & Paprika",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 200 g (2 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175681028111"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3664346306027",
+   "nom": "1848",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3664346306027"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3182180001996",
+   "nom": "Biscottes Sans sucres ajoutés Blé complet",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3182180001996"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-20713713",
+   "nom": "Chocolat noir Equateur Bio",
+   "assemblage": "2980-avenue-julien-panchot",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20713713"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3380380047749",
+   "nom": "Tartines craquantes au sarrasin",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3380380047749"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622210713889",
+   "nom": "Belvita Original Petit-Déjeuner miel et pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 440 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210713889"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622201809638",
+   "nom": "Napolitain l'Original",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 180 g (6 x 30 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201809638"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111203007513",
+   "nom": "margarine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111203007513"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8410076801180",
+   "nom": "Crunchy oats&honey",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 420 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410076801180"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-7622400006753",
+   "nom": "noir 70% intense",
+   "assemblage": "belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622400006753"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3083681148619",
+   "nom": "Carottes rapees citron dnp 320g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3083681148619"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5000157024671",
+   "nom": "Beanz In a rich tomato sauce",
+   "assemblage": "london",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 415g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000157024671"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5025125000006",
+   "nom": "White Ciabattin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 580 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5025125000006"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4056489235798",
+   "nom": "Pain de mie grandes tranches 7 cereales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489235798"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3257971309114",
+   "nom": "Mont Roucous",
+   "assemblage": "Mont Roucou",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3257971309114"
+  }
+ ]
+}

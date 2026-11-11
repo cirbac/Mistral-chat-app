@@ -1,0 +1,3644 @@
+{
+ "distribution-et-paiement-les-mousquetaires": [
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393382086",
+   "nom": "Jambon sup dd tsr 8tr 300g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393382086"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760395610365",
+   "nom": "Pernici sauce tomate basilic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 420",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760395610365"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393439711",
+   "nom": "Crevettes sauvages decortiquees cuites 180g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393439711"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260052417",
+   "nom": "Água de Nascente",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260052417"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2250394047183",
+   "nom": "Pain campagnard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2250394047183"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392815615",
+   "nom": "Capsules Bio indonésie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392815615"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392791742",
+   "nom": "Terres du Midi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392791742"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-6230323012068",
+   "nom": "Baguette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6230323012068"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644677013710",
+   "nom": "Boule Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644677013710"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644494009514",
+   "nom": "Pain complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644494009514"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2826117012402",
+   "nom": "Beignets chocolat/noisette x4 décongelé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2826117012402"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-01191858",
+   "nom": "Pain brun riche en fibres et sans gluten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 400gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01191858"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390007586",
+   "nom": "Look Orange PET 2L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390007586"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392549077",
+   "nom": "Prosecco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392549077"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392612122",
+   "nom": "Champignons blancs de paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392612122"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250399915561",
+   "nom": "Raisins noirs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250399915561"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393427916",
+   "nom": "Chocolat dessert noir ivoria",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393427916"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-8410786472953",
+   "nom": "Wraps extra moelleux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410786472953"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393432545",
+   "nom": "Les Rochers chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393432545"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392349707",
+   "nom": "Pain olives vertes & noires",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392349707"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392336004",
+   "nom": "Ail violet de Cadours",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392336004"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3511244340809",
+   "nom": "Fougasse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3511244340809"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644721013055",
+   "nom": "Pain pavé Multicéréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644721013055"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2829905011748",
+   "nom": "Pain épeautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2829905011748"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392434816",
+   "nom": "Falafels",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392434816"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2860126020539",
+   "nom": "Escalope extrafine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2860126020539"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5425001241057",
+   "nom": "Tomates semi séchées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5425001241057"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5425001241460",
+   "nom": "Houmous patate douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5425001241460"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390484448",
+   "nom": "Colosse chocolat blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390484448"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5425013567800",
+   "nom": "Mix fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5425013567800"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393456350",
+   "nom": "Sucette chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 18 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393456350"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3700203510784",
+   "nom": "Part de flan x4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700203510784"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2813721024860",
+   "nom": "Pains au chocolat X 10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2813721024860"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2950691003256",
+   "nom": "Filet américain prépare maison",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2950691003256"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393468988",
+   "nom": "Verrines tiramisu classique / dessert chocolat 6x50g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393468988"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-8003535092337",
+   "nom": "Crème De Pistache",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003535092337"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392152345",
+   "nom": "Champignons de paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392152345"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391665884",
+   "nom": "Brandade de morue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391665884"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392473303",
+   "nom": "Kiwis jaunes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392473303"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392049126",
+   "nom": "Filet de merlan La barquette de 250 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392049126"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392543761",
+   "nom": "Bouchées Vapeur - 3 Hacao Poulet, 3 Funko Crevette, 3 Xiu Mai Crevette, Sauce Soja et Sauce Aigre Douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 235 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392543761"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392925895",
+   "nom": "Rillettes de sardine zestes de citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392925895"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392842475",
+   "nom": "L'essentiel yaourt brassé à la fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · (4x100g) 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392842475"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760232050101",
+   "nom": "Maki saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760232050101"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392939557",
+   "nom": "Paturette choco saveur coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 4 x 115 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392939557"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390331780",
+   "nom": "Mini rosette pur porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390331780"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3410280027852",
+   "nom": "Génoises orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3410280027852"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392049003",
+   "nom": "Filet de dorade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392049003"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393310614",
+   "nom": "Beurre demi-sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393310614"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2610832052801",
+   "nom": "Côtes de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1,1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2610832052801"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-17028462",
+   "nom": "pommette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17028462"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392332303",
+   "nom": "Eclairs au café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392332303"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392922771",
+   "nom": "Dahl de lentilles de corail et riz basmati",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392922771"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260094011485",
+   "nom": "Pain pavé multicéréales tranche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260094011485"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392349646",
+   "nom": "Craquotant au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392349646"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5425004980502",
+   "nom": "Brick Lit.lait 1 / 2 Ecreme 1er Prix *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5425004980502"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392049089",
+   "nom": "Filet d'eglefin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392049089"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-11852324",
+   "nom": "pastèque bio",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2,3 - 3,0 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11852324"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393432538",
+   "nom": "Les escargots lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393432538"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392866532",
+   "nom": "Pain Bûche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392866532"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760232050125",
+   "nom": "Maki concombre sesame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760232050125"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391305902",
+   "nom": "Méditerranée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 75cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391305902"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391229536",
+   "nom": "Bergerac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 3L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391229536"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260285365",
+   "nom": "Gasosa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260285365"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392862367",
+   "nom": "12 macarons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392862367"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392814786",
+   "nom": "Demi-Lunes Champignons & Truffes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392814786"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393092619",
+   "nom": "Blanc de poulet à la Moutarde à l'ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393092619"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2829864007547",
+   "nom": "Baguette constance céréales pc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2829864007547"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260138014434",
+   "nom": "Croissant pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260138014434"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200018016400",
+   "nom": "Moelleux Pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 212 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200018016400"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200402055176",
+   "nom": "Rôti longe Porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 900gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200402055176"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212509039102",
+   "nom": "Souris d'agneau dorée au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212509039102"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260009009842",
+   "nom": "Demi baguette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 3",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260009009842"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260240013127",
+   "nom": "Éclair chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260240013127"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392333645",
+   "nom": "Kingsbräu Bière blonde extra forte la cannette de 50",
+   "assemblage": "62504 Saint Omer",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392333645"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3261832000010",
+   "nom": "Terrine de campagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3261832000010"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-8006291547936",
+   "nom": "gorgonzola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8006291547936"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260345022963",
+   "nom": "Flan bande coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 630grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260345022963"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391476169",
+   "nom": "Pavés de saumon sans arêtes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391476169"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260283415",
+   "nom": "Frutimax Ananás",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 g (4 x 125 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260283415"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3176582018256",
+   "nom": "Raclette fumee au bois de hetre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176582018256"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392837211",
+   "nom": "La campagnarde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 310 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392837211"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887584031358",
+   "nom": "Jambon avec os rouelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887584031358"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392265571",
+   "nom": "Echalion",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392265571"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393092558",
+   "nom": "Blanc de poulet aux herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393092558"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5410921011958",
+   "nom": "Guacamole doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 175gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410921011958"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0208377030174",
+   "nom": "Torche au marron X2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0208377030174"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-8710866082707",
+   "nom": "Gouda XXO extra extra vieux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710866082707"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393219924",
+   "nom": "Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393219924"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2660695022961",
+   "nom": "Chouquettez X20",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 chouquettes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2660695022961"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2849170019683",
+   "nom": "croissants fourrés cacao noisette",
+   "assemblage": "Coudekerque-Branche",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2849170019683"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393413971",
+   "nom": "Bâtonnets gourmands ronds coco biscuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393413971"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0225069054188",
+   "nom": "Dos de cabillaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 683gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0225069054188"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260548065279",
+   "nom": "Mignardises Fruitées x22",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 331 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260548065279"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392062767",
+   "nom": "Crêpes Jambon Fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 195 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392062767"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391341559",
+   "nom": "Elodie Chewing Gum Chlorophylle Sans Sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391341559"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391475902",
+   "nom": "Crevettes entières cuites réfrigérées (format familial)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391475902"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392366186",
+   "nom": "Galette frangipanne chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392366186"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392436063",
+   "nom": "Sainte marguerite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1,25 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392436063"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3449849974009",
+   "nom": "Rondelles de saucisse seche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3449849974009"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3457221000109",
+   "nom": "10 crêpes de froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3457221000109"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3511241333606",
+   "nom": "Pain spécial vitalité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3511241333606"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3661423007761",
+   "nom": "Donuts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 276 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661423007761"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0001325017322",
+   "nom": "Filet de lieu noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 0,205 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0001325017322"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0216177022961",
+   "nom": "Mini viennoiseries assorties *12",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0216177022961"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390888789",
+   "nom": "bouton or sauce crudités",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390888789"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390883340",
+   "nom": "Baguette viennoise, la pièce de 200 gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390883340"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392723705",
+   "nom": "Boulettes à l'italienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392723705"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0002052029527",
+   "nom": "Beignets fourres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0002052029527"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887917029786",
+   "nom": "Dinde standard escalope",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887917029786"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260280506",
+   "nom": "Iogurte tipo greco stracciatella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 4 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260280506"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392509200",
+   "nom": "Radis noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392509200"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5410766040335",
+   "nom": "Sandwiches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410766040335"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392153403",
+   "nom": "Pita piquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392153403"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2002041566635",
+   "nom": "forêt noire 6 parts sans cerise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 600 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2002041566635"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390651437",
+   "nom": "Éclair au café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390651437"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760122882829",
+   "nom": "Selectionne par votre magasin, Buche a la praline, 6/8 parts, la buche de 500 gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760122882829"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392813789",
+   "nom": "Blanc de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392813789"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5907750625642",
+   "nom": "Szpinak młody",
+   "assemblage": "PL 62-080",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5907750625642"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391989980",
+   "nom": "Pecorino Romano AOP Rapé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391989980"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-18908992",
+   "nom": "Appenzeller Swisse",
+   "assemblage": "suisse",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18908992"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2888901026705",
+   "nom": "saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 292 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2888901026705"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887891050059",
+   "nom": "poulet jaune certifie filets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 0,764kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887891050059"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2886851057077",
+   "nom": "Viande bovine Hampes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2886851057077"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-20691202",
+   "nom": "pain choc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20691202"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393005923",
+   "nom": "Coquillettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393005923"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760190934062",
+   "nom": "Sushi all saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760190934062"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393092640",
+   "nom": "Blanc de pouket",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393092640"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644940020995",
+   "nom": "tarte flan nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 650g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644940020995"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-6230322264857",
+   "nom": "Oeufs",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 18 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6230322264857"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2831039019026",
+   "nom": "Bande flan nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2831039019026"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887248118074",
+   "nom": "Côtelette d'agneu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887248118074"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2832928006561",
+   "nom": "Pain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2832928006561"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3700009276150",
+   "nom": "Pizza jambon superieur tomate mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700009276150"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260008008860",
+   "nom": "Pain de seigle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260008008860"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209260013786",
+   "nom": "PATTE D’OURS CHOCO/NOISETTE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209260013786"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2845285133368",
+   "nom": "pavé de saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 678 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2845285133368"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644820018043",
+   "nom": "Beignets parfum chocolat-noisette X4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644820018043"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0130632267547",
+   "nom": "baguette en constance céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0.250kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0130632267547"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200331041066",
+   "nom": "saucisse, fait sur place",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,524 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200331041066"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211721022305",
+   "nom": "jambon de Bayonne 5 tranches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,096 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211721022305"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2835790020338",
+   "nom": "Bagel céréales & graines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2835790020338"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2982059003028",
+   "nom": "Jambon L'os Magistral",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2982059003028"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644761036083",
+   "nom": "Croissant/pain au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644761036083"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210852043821",
+   "nom": "Ossau Iraty",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210852043821"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0124578033359",
+   "nom": "crepinettes d'Issoudun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,338 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0124578033359"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0207791013053",
+   "nom": "Faluche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,520 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207791013053"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210841050311",
+   "nom": "Comté AOP 16 mois minimum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210841050311"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2645045012403",
+   "nom": "Pain épautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2645045012403"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260066010829",
+   "nom": "Pain aux noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260066010829"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-02874027",
+   "nom": "pain spécial maïs graines tournesol tranche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02874027"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644678010633",
+   "nom": "Pain complet bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644678010633"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-6210363047541",
+   "nom": "Baguette bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6210363047541"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890944032407",
+   "nom": "raclette nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890944032407"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2468956040606",
+   "nom": "raclette au piment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 388 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2468956040606"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2468943028730",
+   "nom": "Raclette fumée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2468943028730"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0000241013128",
+   "nom": "Eclairs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0000241013128"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0000606009841",
+   "nom": "Beignets framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0000606009841"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200001006494",
+   "nom": "Rustiguette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200001006494"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200016032730",
+   "nom": "Trio crudité 350g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200016032730"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209082019683",
+   "nom": "Jambon Avec Couenne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209082019683"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209083017251",
+   "nom": "Le torchonay",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209083017251"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209226024801",
+   "nom": "Comté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209226024801"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209539010959",
+   "nom": "Coeur de couenne 2 tranches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209539010959"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210844027686",
+   "nom": "Comte AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210844027686"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210853018569",
+   "nom": "Cantal entre-deux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210853018569"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211178014304",
+   "nom": "Mousse de foie forestière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211178014304"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211236009457",
+   "nom": "Bananes BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211236009457"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211236010897",
+   "nom": "Bananes cavendish Bio cat2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 0,833",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211236010897"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260030013054",
+   "nom": "Campagne du Larzac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260030013054"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260034013050",
+   "nom": "Pain averonnais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260034013050"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260100005125",
+   "nom": "Baguette parisienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260100005125"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260130019352",
+   "nom": "Pain au chocolat pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260130019352"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260136027559",
+   "nom": "5 pains chocolats 5 croissants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260136027559"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260146017717",
+   "nom": "Pain au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260146017717"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260747010506",
+   "nom": "PATE D'OURS X2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260747010506"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0261000013050",
+   "nom": "Le paillasse du Larzac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0261000013050"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-1810181012797",
+   "nom": "Beignets parfum choco noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1810181012797"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2661252025982",
+   "nom": "Jambon blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2661252025982"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2678261037264",
+   "nom": "Barreau au roquefort",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2678261037264"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2886846032348",
+   "nom": "Viande bovine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,198 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2886846032348"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3106220032955",
+   "nom": "Saucisses Lentilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3106220032955"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390150480",
+   "nom": "Petit reblochon de Savoie au lait cru",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390150480"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390424550",
+   "nom": "Pain Pavé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390424550"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250390652496",
+   "nom": "Tartelettes aux framboises sur crème pâtissière les 2 pièces 170 Gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250390652496"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391163779",
+   "nom": "Pâturages Yaourt Vita Pause Stracciatella copeaux de chocolat les 4 pots de 150 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391163779"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391413256",
+   "nom": "Fondue petits légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 260g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391413256"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391493029",
+   "nom": "Crevettes entieres cuites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Label Rouge"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391493029"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391767144",
+   "nom": "Adelie 2 Tartelette Tatin",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391767144"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391774197",
+   "nom": "Crevette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391774197"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250391997343",
+   "nom": "look cola light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250391997343"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392215200",
+   "nom": "Abricots - Mon Marché Plaisir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392215200"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392253295",
+   "nom": "Ivoria Chocolat en poudre Tchokonic 450 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392253295"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392270292",
+   "nom": "Carottes Bio sélection Intermarché",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392270292"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392332778",
+   "nom": "Odyssée Filets de maquereaux sauce moutarde 226 g",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 226 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392332778"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392542887",
+   "nom": "Le miel de nos toits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392542887"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392551094",
+   "nom": "Cabillaud sauvage sans arretes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392551094"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392552213",
+   "nom": "Les biscuits Moches chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392552213"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392595883",
+   "nom": "Rikakats fromage de chèvre citron & ciboulette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392595883"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859351618",
+   "nom": "Franprix grana padano avec râpe intégrée spéciale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859351618"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3280730001967",
+   "nom": "Pain énergie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3280730001967"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3591270012819",
+   "nom": "Selectionne par votre magasin, Couronne des rois KOH LANTA fleur d'oranger, la couronne de 450 gr pour 4 a 6 personnes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3591270012819"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760012769629",
+   "nom": "Beignets Gourmands",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760012769629"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760029424139",
+   "nom": "Pain De Son",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760029424139"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260046140",
+   "nom": "Sortido de Amêndoas com cobertura de chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260046140"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209082020535",
+   "nom": "Cœur de couennes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 232 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209082020535"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209538011025",
+   "nom": "Jambon supérieur cuit au torchon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 2 tranches",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209538011025"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2663058019424",
+   "nom": "L peyrol pâte aux cèpes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,212kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2663058019424"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211490023428",
+   "nom": "véritable andouille de guémène",
+   "assemblage": "France 56",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 128 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211490023428"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0220052060412",
+   "nom": "Escalope de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0220052060412"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200470016079",
+   "nom": "Salade de pâtes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200470016079"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2800280029399",
+   "nom": "pomme reine des reinettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2800280029399"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260078014433",
+   "nom": "Pain polka rond campaniere",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260078014433"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210121027422",
+   "nom": "Manchego de Chevre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 182 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210121027422"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250792254489",
+   "nom": "Ravioli 4 fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250792254489"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2660776038706",
+   "nom": "Kouign Amann",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2660776038706"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887903009716",
+   "nom": "Cordon bleu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 0,248kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887903009716"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260507003946",
+   "nom": "Petits pains x4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260507003946"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212509050381",
+   "nom": "Souris d'Agneau doré au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212509050381"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200003133037",
+   "nom": "boudin Galabard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200003133037"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212509041068",
+   "nom": "Sourie d'agneau dorée au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212509041068"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212509041785",
+   "nom": "Souris d'agneau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212509041785"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0200045025970",
+   "nom": "merguez",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0200045025970"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260265961",
+   "nom": "Leite com Chocolate",
+   "assemblage": "Portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260265961"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211074041008",
+   "nom": "Poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211074041008"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392074029",
+   "nom": "Mass Quebrada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392074029"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212509040474",
+   "nom": "Souris d agneau dorée au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212509040474"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212509052941",
+   "nom": "Souris d'agneau dorée au four au thym",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212509052941"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890001024017",
+   "nom": "saucisse de strasbour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0.362 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890001024017"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887873041785",
+   "nom": "Volaille filet de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 554kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887873041785"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392509231",
+   "nom": "Pommes de terre bio grenailles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392509231"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0222502009187",
+   "nom": "Charcuterie Pese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 230 gr.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0222502009187"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0230250001117",
+   "nom": "Brie le Maubert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 0,222",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0230250001117"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2600480010049",
+   "nom": "Bananes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600480010049"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3760232051467",
+   "nom": "Nougat croquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760232051467"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260145028530",
+   "nom": "pains aux chocolats",
+   "assemblage": "sur place",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 10, 0,600 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260145028530"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-5604260276042",
+   "nom": "Gofres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5604260276042"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392505356",
+   "nom": "Chou frisé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392505356"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392806644",
+   "nom": "Crevettes marinées apéro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392806644"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2892209029528",
+   "nom": "Tarte fine aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2892209029528"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260131025581",
+   "nom": "Pain au chocolat pur beurre x8",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260131025581"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260380045262",
+   "nom": "Tartes aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260380045262"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392277284",
+   "nom": "NOIR ÉCLATS DE FÈVES DE CACAO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392277284"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260967019686",
+   "nom": "Pains aux chocolat marguarine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260967019686"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0245000057535",
+   "nom": "emince de poulet thym-citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0245000057535"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250792764889",
+   "nom": "Duo de bacon chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250792764889"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392241780",
+   "nom": "Beurre Doux Merci",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392241780"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211633023025",
+   "nom": "Aiguillettes de poulet",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211633023025"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-32503902",
+   "nom": "chicoré café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32503902"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2210327219056",
+   "nom": "Côtes du Rhône",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2210327219056"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3205390050988",
+   "nom": "cidre de bretagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3205390050988"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3230390111344",
+   "nom": "Paquito confiture extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3230390111344"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-32503925597748",
+   "nom": "merci",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32503925597748"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209000008591",
+   "nom": "paupiettes de saumon frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209000008591"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3111790420293",
+   "nom": "Paquito",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3111790420293"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2846171012330",
+   "nom": "4 saucisses de Strasbourg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2846171012330"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392967956",
+   "nom": "Bûche glacée vanille et marrons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392967956"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0208807038701",
+   "nom": "Pizza Marguerita",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0208807038701"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0204285024939",
+   "nom": "Comté AOP  affine 12 mois minimum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204285024939"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-6230321550531",
+   "nom": "Spaghettoni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6230321550531"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2889395027759",
+   "nom": "jambon cuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2889395027759"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260024004266",
+   "nom": "baguette fantaisie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260024004266"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0212472084888",
+   "nom": "paupiette de porc forestière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212472084888"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-99887792",
+   "nom": "Ty kreizy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/99887792"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0131912711002",
+   "nom": "lait bio uht demi écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0131912711002"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2436266042313",
+   "nom": "Roche baron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2436266042313"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2670799015684",
+   "nom": "Saint Nectaire fermier AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2670799015684"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0201056007221",
+   "nom": "Croissant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0201056007221"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2868532014043",
+   "nom": "Mangue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2868532014043"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3342280895554",
+   "nom": "Salade de concombres assaisonnés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3342280895554"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392781279",
+   "nom": "Framboisier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392781279"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3342280895608",
+   "nom": "Totti au saumon fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3342280895608"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2844261007877",
+   "nom": "Pain nordique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2844261007877"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890691035034",
+   "nom": "La montagne de bête mâle au lait de chèvre pasteurisé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890691035034"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644788025589",
+   "nom": "Chaussons aux pommes PB x4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644788025589"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-8282801693038",
+   "nom": "Saumon fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8282801693038"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887687022963",
+   "nom": "Noix de filet de dinde mariné au poivre de belem et sirop d’érable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887687022963"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890676064684",
+   "nom": "Fromage  p’tit Basque de brebis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890676064684"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644951042641",
+   "nom": "Tarte au citron meringuée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644951042641"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210853023884",
+   "nom": "Cantal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210853023884"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0158420012070",
+   "nom": "Pâturage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0158420012070"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-1101451803017",
+   "nom": "Beurre gastronomique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1101451803017"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0001124003380",
+   "nom": "Petits Fours Secs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0001124003380"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2824299001986",
+   "nom": "Jambon magistral",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2824299001986"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2848716009843",
+   "nom": "Jalousie  aux pomme pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2848716009843"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260528010503",
+   "nom": "Pain aux deux lins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260528010503"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393033193",
+   "nom": "Pizza royale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393033193"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2831267023819",
+   "nom": "Brebis piment d'Espelette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2831267023819"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210853020470",
+   "nom": "Cantal entre deux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210853020470"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644940031427",
+   "nom": "Flan Intermarché",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644940031427"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890539021199",
+   "nom": "Fromage - Chaumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890539021199"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887943088825",
+   "nom": "Brochette de poulet marinées saveur yakitori",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887943088825"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2849875019681",
+   "nom": "Beignet à l’abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2849875019681"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2449469025328",
+   "nom": "Jambon serrano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2449469025328"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2600941008866",
+   "nom": "Marguerite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600941008866"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260146020991",
+   "nom": "Pains au chocolat pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260146020991"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3188500077573",
+   "nom": "Mimolette extra vieille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3188500077573"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0204770042707",
+   "nom": "gruyère suisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 372 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204770042707"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644771009848",
+   "nom": "Jesuite amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644771009848"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2891032028210",
+   "nom": "Carra d’aurillac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891032028210"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2835311019681",
+   "nom": "Box tomates feta olives",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2835311019681"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0202019035688",
+   "nom": "jambon cuit le ripaille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 288",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202019035688"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2650338018567",
+   "nom": "Tête  persillé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2650338018567"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2891019017916",
+   "nom": "Gorgonzola mascarpone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891019017916"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260085009514",
+   "nom": "Pain aux figues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260085009514"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2800576014375",
+   "nom": "Patate douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2800576014375"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0201623008538",
+   "nom": "Black brod 320g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0201623008538"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210863027759",
+   "nom": "Mimolette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210863027759"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-17898214",
+   "nom": "pâte miel parme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 126g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17898214"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260121009843",
+   "nom": "Pain aux céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260121009843"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2829862006238",
+   "nom": "Baguette à base de farine Label Rouge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2829862006238"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0209091017380",
+   "nom": "Mousse de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209091017380"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250393048449",
+   "nom": "Skyr nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 4 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250393048449"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211490021714",
+   "nom": "Andouille de Guemene",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211490021714"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890199020730",
+   "nom": "Metka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890199020730"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2451112003188",
+   "nom": "Meule du plateau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2451112003188"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211871024808",
+   "nom": "Raclette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211871024808"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211791027033",
+   "nom": "Filet de poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211791027033"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211121227171",
+   "nom": "Itinéraire des saveurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211121227171"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2689999071833",
+   "nom": "Langoustine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2689999071833"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2826074032147",
+   "nom": "Couronne des rois fleur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2826074032147"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2829918045266",
+   "nom": "Galette pâte à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2829918045266"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260484032144",
+   "nom": "Galette des rois briochée aux fruits confits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260484032144"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887520011949",
+   "nom": "Foie de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887520011949"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211429018174",
+   "nom": "Rôti de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211429018174"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2832325068810",
+   "nom": "Filet de poulet origine France",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2832325068810"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2849783012460",
+   "nom": "Pavé aux  céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2849783012460"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2007102083319",
+   "nom": "grenadin de veau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2007102083319"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2829867011541",
+   "nom": "pain aux 5 céréales et graines Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2829867011541"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2887552015878",
+   "nom": "côte de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887552015878"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-4422410418637",
+   "nom": "Beignet chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4422410418637"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2650324051899",
+   "nom": "Comte  grande réserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2650324051899"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3325771002389",
+   "nom": "Cœur framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3325771002389"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3248288321135",
+   "nom": "Beignet parfum chocolat noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3248288321135"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890849022435",
+   "nom": "Gouda au cumin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890849022435"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2650016032540",
+   "nom": "Brie Meaux Duc Raival AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2650016032540"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0208042004530",
+   "nom": "petit-pain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0208042004530"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2644988028861",
+   "nom": "Flan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2644988028861"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2829365013788",
+   "nom": "Miche rustique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2829365013788"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2650576053665",
+   "nom": "St nectaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2650576053665"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250791410640",
+   "nom": "Lait fourré praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250791410640"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2835292026241",
+   "nom": "Wrap saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2835292026241"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-7132621436081",
+   "nom": "Délice de Bourgogne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7132621436081"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2890876027038",
+   "nom": "Emmental label rouge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890876027038"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2827452012799",
+   "nom": "Cookie pépites choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2827452012799"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0201648022892",
+   "nom": "pain choc + croiss",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0201648022892"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0207524029399",
+   "nom": "Filet mignon de porc au jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207524029399"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0211185020602",
+   "nom": "Saucisses de Strasbourg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211185020602"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2834027004950",
+   "nom": "Saucisse de poulet grillée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2834027004950"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2823991002048",
+   "nom": "Jambon dégraissé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2823991002048"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0260005007545",
+   "nom": "Pain boulot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260005007545"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0254422213528",
+   "nom": "Le suprême",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0254422213528"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0275146016400",
+   "nom": "Beignets chocolat noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0275146016400"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2827671051821",
+   "nom": "Tarte chocolat brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2827671051821"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3150101490471",
+   "nom": "pâturages lait écrémé bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3150101490471"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0210849032401",
+   "nom": "Beaufort",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210849032401"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-32503993047510",
+   "nom": "PAIN PAILLASSE CEREALES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32503993047510"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-0101411717072",
+   "nom": "Ivoria bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0101411717072"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-2891871032805",
+   "nom": "Tomme de brebis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891871032805"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3250392611897",
+   "nom": "Cabillaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3250392611897"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-8416392108316",
+   "nom": "Tortillas de blés et maïs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8416392108316"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3229820021089",
+   "nom": "Sel et herbes bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3229820021089"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851321015",
+   "nom": "Muesli croustillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851321015"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851321411",
+   "nom": "Barres Céréalières chocolat noir",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851321411"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263855094175",
+   "nom": "Eau de Source de Montagne",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263855094175"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851320711",
+   "nom": "Muesli 3chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851320711"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852506022",
+   "nom": "Petits Pains Grillés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852506022"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851286260",
+   "nom": "Sardines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C · 115 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851286260"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851320919",
+   "nom": "Muesli croustillant aux fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851320919"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263850052316",
+   "nom": "Sel fin iodé - sel de mer",
+   "assemblage": "45014",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263850052316"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852914193",
+   "nom": "Galettes bretonnes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852914193"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3328720000054",
+   "nom": "Eau De Source",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3328720000054"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263855091181",
+   "nom": "Matin Plaisir - 100 % Pur jus pomme trouble",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263855091181"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851321619",
+   "nom": "Barres céréalières Framboise fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 108 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851321619"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851300317",
+   "nom": "Pilchards de harengs à la tomate et à l'huile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851300317"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859375539",
+   "nom": "Feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859375539"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852200869",
+   "nom": "Chocolat noir dessert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852200869"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263853183567",
+   "nom": "Noix de cajou grillées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263853183567"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859453428",
+   "nom": "Mini saucissons secs",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859453428"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851320216",
+   "nom": "Fruits & fibres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851320216"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852912717",
+   "nom": "Petit Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852912717"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851321510",
+   "nom": "Barres céréalières chocolat au lait noix de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 126 g (6 * 21 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851321510"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852913714",
+   "nom": "P'tit Sacripant Petits Beurre Chocolat Noir",
+   "assemblage": "Ain",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852913714"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263850665165",
+   "nom": "Sauce Pesto à la genovese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263850665165"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263855091945",
+   "nom": "Lait demi-écrémé stérilisé UHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1 L e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263855091945"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859400415",
+   "nom": "Fromage nature à Tartiner",
+   "assemblage": "Danemark",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859400415"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852916760",
+   "nom": "Cookies Tout Choco - Pépites de chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852916760"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859352912",
+   "nom": "Emmental Français Râpé (28 % MG)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859352912"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3278310003203",
+   "nom": "Beurre Le Hameau Doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3278310003203"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3274371022009",
+   "nom": "Le champion arome fleurs d'oranger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274371022009"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263858603916",
+   "nom": "Jambon cuit supérieur découenné dégraissé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263858603916"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859937010",
+   "nom": "Baguette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859937010"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852510166",
+   "nom": "Biscottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852510166"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851320117",
+   "nom": "Corn flakes nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851320117"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263851320612",
+   "nom": "Flocons d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263851320612"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263859406820",
+   "nom": "Mozarella 125g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263859406820"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852915619",
+   "nom": "Palmiers feuilletés croustillants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852915619"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263852510616",
+   "nom": "Biscottes très pauvres en sel (36 biscottes)",
+   "assemblage": "Union Européenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 300 g (36 biscottes)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263852510616"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263850062216",
+   "nom": "Lait concentré (7,5 % MG)",
+   "assemblage": "basse-normandie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 410 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263850062216"
+  },
+  {
+   "id": "distribution-et-paiement-les-mousquetaires-3263850365713",
+   "nom": "cornichons extra fin",
+   "assemblage": "Christ (Filiale Reitzel Briand) - 65 Rue de Paris - 72160 Connerré",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 360g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3263850365713"
+  }
+ ]
+}

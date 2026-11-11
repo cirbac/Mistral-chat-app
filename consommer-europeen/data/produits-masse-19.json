@@ -1,0 +1,3757 @@
+{
+ "distribution-paiement-casino": [
+  {
+   "id": "distribution-paiement-casino-3222475712920",
+   "nom": "Flocons d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475712920"
+  },
+  {
+   "id": "distribution-paiement-casino-11181123",
+   "nom": "jus d Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 litre",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11181123"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477717534",
+   "nom": "Biscottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 1900g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477717534"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476830876",
+   "nom": "Milch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476830876"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477615991",
+   "nom": "Goûters ronds parfum chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477615991"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477743274",
+   "nom": "Moi c'est noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477743274"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766600",
+   "nom": "Juse orange plpe 90cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 90 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766600"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476254993",
+   "nom": "Raisins Secs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476254993"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477348639",
+   "nom": "Muesli croustillant cereales et fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477348639"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475626326",
+   "nom": "Boisson à base d'eau de source saveur fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475626326"
+  },
+  {
+   "id": "distribution-paiement-casino-3222474102012",
+   "nom": "Noir Tanzanie 85% aux amandes effilées intense et croquant",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222474102012"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472551386",
+   "nom": "Chicken Wings Nature 250g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472551386"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475394577",
+   "nom": "Poudre cacaotée   7 vitamines",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475394577"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471152126",
+   "nom": "Vinaigre élevé en fût de chêne - 50cl - 7% d'acidité casino / id=a1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471152126"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476668127",
+   "nom": "Miel de Fleurs de Midi Pyrénées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476668127"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476994523",
+   "nom": "Sorbet citron jaune",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 606 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476994523"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477615984",
+   "nom": "Goûters fourrés parfum tout chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477615984"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471017982",
+   "nom": "Cerneaux de Noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471017982"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475423369",
+   "nom": "Coeur de laitue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475423369"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477447356",
+   "nom": "Cappuccino saveur chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477447356"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477354944",
+   "nom": "Riz Thai",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477354944"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766686",
+   "nom": "Pur jus de clémentine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766686"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477371781",
+   "nom": "Petit épeautre bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477371781"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766624",
+   "nom": "Pur jus orange mandarine raisin blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766624"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477787858",
+   "nom": "Pâtes alphabet Les doodingues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477787858"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477816466",
+   "nom": "Cœurs d'artichauts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477816466"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477818651",
+   "nom": "PARMENTIER",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477818651"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477806054",
+   "nom": "Palets de légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477806054"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475325977",
+   "nom": "Menthe sans sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475325977"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477709102",
+   "nom": "Gressins au romarin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477709102"
+  },
+  {
+   "id": "distribution-paiement-casino-01102323",
+   "nom": "taboulet aux légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01102323"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477317130",
+   "nom": "Cantal AOP entre-deux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477317130"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475340437",
+   "nom": "Gélatine alimentaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 17 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475340437"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477802667",
+   "nom": "Petit pois extra-fins et carottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477802667"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477432659",
+   "nom": "Lentilles riz soja cuisinés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477432659"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473651030",
+   "nom": "Pomme bicolore bio France 600g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473651030"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477765603",
+   "nom": "Sauce bolognaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 680 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477765603"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477767201",
+   "nom": "Muesli croustillant fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477767201"
+  },
+  {
+   "id": "distribution-paiement-casino-1112211121111",
+   "nom": "Pâte à tartiner Noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1112211121111"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477779785",
+   "nom": "Wrap falafel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477779785"
+  },
+  {
+   "id": "distribution-paiement-casino-3700311801156",
+   "nom": "Saucisse sèche pur porc",
+   "assemblage": "Durfort Frankreich",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700311801156"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477371682",
+   "nom": "Veloute de champignons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 4 x 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477371682"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477788596",
+   "nom": "Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477788596"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477625860",
+   "nom": "Pain braisé au Froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477625860"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477366244",
+   "nom": "Tomates cerise allongées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477366244"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477639478",
+   "nom": "Pomme de terre à la salardaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477639478"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477601550",
+   "nom": "Compote pomme banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477601550"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477727229",
+   "nom": "Emmental français rapé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477727229"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766693",
+   "nom": "Juse multivitamine 90cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766693"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477802681",
+   "nom": "Petits pois très fins et jeunes carottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477802681"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477727793",
+   "nom": "Saucisson à l’ail fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477727793"
+  },
+  {
+   "id": "distribution-paiement-casino-3700679600392",
+   "nom": "4 brioches burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700679600392"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477803701",
+   "nom": "PIZZA Chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477803701"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477765672",
+   "nom": "Fromage fondu pour burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477765672"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471131633",
+   "nom": "Lait demi-écrémé stérilisé UHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471131633"
+  },
+  {
+   "id": "distribution-paiement-casino-07691560",
+   "nom": "Lasagnes Casino 500g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/07691560"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477492851",
+   "nom": "Coeur de filet de cabillaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477492851"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477775008",
+   "nom": "Panna cotta Fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 4 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477775008"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477774902",
+   "nom": "Nectar gourmand mangue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477774902"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477819702",
+   "nom": "Chouchou",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477819702"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477000001",
+   "nom": "Papier cuisson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477000001"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476658234",
+   "nom": "Cassonade pure canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476658234"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477639409",
+   "nom": "Jus de carotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477639409"
+  },
+  {
+   "id": "distribution-paiement-casino-17367295",
+   "nom": "Moutarde de Dijon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17367295"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477640269",
+   "nom": "Saucisson noix Casino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477640269"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477759039",
+   "nom": "Mix goût salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477759039"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477804913",
+   "nom": "Epinards",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477804913"
+  },
+  {
+   "id": "distribution-paiement-casino-18887129",
+   "nom": "tortillas de ble",
+   "assemblage": "Belgium",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18887129"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476830326",
+   "nom": "Biscuits aux flocons d'avoine et chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476830326"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477348653",
+   "nom": "Baguette aux céréales biologique",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477348653"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477233133",
+   "nom": "Madeleine coquilles de bretagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477233133"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066045",
+   "nom": "Pause punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066045"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475983481",
+   "nom": "Galettes de riz chocolat noir à l'arôme naturel d'orange",
+   "assemblage": "République Tchèque",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475983481"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066366",
+   "nom": "Trio de quinoa à la mexicaine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066366"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477378148",
+   "nom": "Confiture extra Fraise Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 255 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477378148"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476866172",
+   "nom": "Encas de pépites céréales & noisettes",
+   "assemblage": "Pays bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476866172"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471099049",
+   "nom": "Steak haché frais pur boeuf 5% M.G.",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 250 g (2 x 125 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471099049"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471169162",
+   "nom": "Saucisses aux lentilles à la graisse d'oie (1 portion)",
+   "assemblage": "Aveyron",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 420g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471169162"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475983290",
+   "nom": "Galettes de maïs au chocolat noir bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475983290"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066809",
+   "nom": "Boisson au soja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066809"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477251458",
+   "nom": "Dessert au lait d'amande et au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 400 g (4 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477251458"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476754967",
+   "nom": "Pain aux graines de tournesol et aux maïs biologie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476754967"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471068144",
+   "nom": "Champignons de Paris (Sautés)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471068144"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476921352",
+   "nom": "Filets de Cabillaud fish'n chipd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 2 parts (220 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476921352"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477444805",
+   "nom": "Goûters fourrés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477444805"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476659859",
+   "nom": "Pavé de Saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476659859"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826462108",
+   "nom": "Galette frangipane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 100",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826462108"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476754837",
+   "nom": "Pavé terre et saveurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476754837"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477246997",
+   "nom": "Mozarella rapée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477246997"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477300057",
+   "nom": "Pizza royale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477300057"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473044368",
+   "nom": "Foie de poulets confits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473044368"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475050367",
+   "nom": "Lait Demi Écrémé  facile à digérer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475050367"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476990105",
+   "nom": "Barquettes saveur fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476990105"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477238282",
+   "nom": "L'apéritif fromager Mozzarella Emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477238282"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477279216",
+   "nom": "Salade boulgour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477279216"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477396715",
+   "nom": "Casino Bio Galettes pepites de chocolat et chataigne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477396715"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475716232",
+   "nom": "Noir dégustation aux éclats de pistaches caramélisées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475716232"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450174",
+   "nom": "Brioche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450174"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826460845",
+   "nom": "Pain au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826460845"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066588",
+   "nom": "Crème dessert saveur chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066588"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477231573",
+   "nom": "Crevettes decortiquées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477231573"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477239180",
+   "nom": "Crunchy Muesli graines fruits jaunes caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477239180"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477162686",
+   "nom": "Filets de maquereaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 169 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477162686"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477278837",
+   "nom": "Feuilletes jambon emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477278837"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477491489",
+   "nom": "Colin d'Alaska",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477491489"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477403208",
+   "nom": "Rillettes du Mans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477403208"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477444300",
+   "nom": "8 mochis glacés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477444300"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472187837",
+   "nom": "Pignons De Pin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472187837"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475127113",
+   "nom": "Crème dessert au chocolat noir au lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 4 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475127113"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475953385",
+   "nom": "Source amanda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475953385"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476849090",
+   "nom": "Mélange de biscuits",
+   "assemblage": "thailande",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476849090"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477037762",
+   "nom": "Nectar orange, pêche, abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477037762"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477310483",
+   "nom": "Falafels riz aux lentilles et legumes au curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477310483"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477219069",
+   "nom": "Quiche lorraine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 2 x 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477219069"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477732711",
+   "nom": "100 pur jus orange casino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477732711"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472087359",
+   "nom": "Viande Hachée Fraiche Pur Boeuf 15%MG, 350g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472087359"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473041954",
+   "nom": "Au Pérou Pur arabica Acidulé et équilibré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473041954"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475423987",
+   "nom": "Mâche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475423987"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450297",
+   "nom": "Brioche aux raisins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450297"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477065024",
+   "nom": "Chips de bananes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477065024"
+  },
+  {
+   "id": "distribution-paiement-casino-3501275730144",
+   "nom": "Oursons guimauve",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3501275730144"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477323148",
+   "nom": "Tomme de Savoie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 290 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477323148"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477355286",
+   "nom": "Miel d'acacia BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477355286"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477374607",
+   "nom": "Sablés nappés chocolat lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477374607"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475622175",
+   "nom": "Son d’avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475622175"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472586869",
+   "nom": "Liégeois au chocolat 4 (ou 12) pots de dessert lacté au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 4 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472586869"
+  },
+  {
+   "id": "distribution-paiement-casino-3567747040357",
+   "nom": "Paris brest 8 parts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0,500 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3567747040357"
+  },
+  {
+   "id": "distribution-paiement-casino-22009876",
+   "nom": "huile d'olive vierge extra",
+   "assemblage": "italir",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/22009876"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477162112",
+   "nom": "Filet de maquereaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 76 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477162112"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477356580",
+   "nom": "Coupelle méli-mélo pêche, poire, ananas au sirop léger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477356580"
+  },
+  {
+   "id": "distribution-paiement-casino-3252832603417",
+   "nom": "Choucroute garnie alsacienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 800 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3252832603417"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477175792",
+   "nom": "Tortilla aux oignons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477175792"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477371958",
+   "nom": "Brownie chocolat et pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477371958"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477437494",
+   "nom": "100% pur jus tomate de marmande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477437494"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766587",
+   "nom": "Pur jus de pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766587"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477794238",
+   "nom": "Burger de blé et pois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477794238"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477767423",
+   "nom": "Pétales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477767423"
+  },
+  {
+   "id": "distribution-paiement-casino-3222474725211",
+   "nom": "Pommes Golden",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222474725211"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477003996",
+   "nom": "Fondant au chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477003996"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450549",
+   "nom": "Croissants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450549"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477212596",
+   "nom": "Filets de maquereaux fumés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477212596"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477231566",
+   "nom": "Crevettes -25% sel Casino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477231566"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477300385",
+   "nom": "Préparation pour galettes céréales à la méditerranéenne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477300385"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477356603",
+   "nom": "Miel De foret",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477356603"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477360235",
+   "nom": "6 oeufs frais casino bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 6 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477360235"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477396722",
+   "nom": "Galettes à la noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 4 x 3100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477396722"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477312074",
+   "nom": "Grande pizza boeuf sauce burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477312074"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477435858",
+   "nom": "Knack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477435858"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477557048",
+   "nom": "Brioche tressée aux pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477557048"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477539549",
+   "nom": "Nouilles en nid",
+   "assemblage": "68271",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477539549"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477566538",
+   "nom": "Lait de Coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477566538"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477621251",
+   "nom": "Amandes décortiquées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477621251"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477445925",
+   "nom": "Barres de céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477445925"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477733077",
+   "nom": "6 Pancakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 132 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477733077"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477746695",
+   "nom": "Bonbons goût Tutti Frutti sans sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477746695"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477790476",
+   "nom": "Moutarde douce casino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477790476"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477767225",
+   "nom": "Muesli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477767225"
+  },
+  {
+   "id": "distribution-paiement-casino-12579213",
+   "nom": "Haricots Rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 425ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/12579213"
+  },
+  {
+   "id": "distribution-paiement-casino-3222474971618",
+   "nom": "Poires",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 4 unités",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222474971618"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475423918",
+   "nom": "Feuille de chêne blonde en sachet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475423918"
+  },
+  {
+   "id": "distribution-paiement-casino-3449865276859",
+   "nom": "Saucisson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3449865276859"
+  },
+  {
+   "id": "distribution-paiement-casino-3449865286131",
+   "nom": "Saucisson aux noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3449865286131"
+  },
+  {
+   "id": "distribution-paiement-casino-3842472920854",
+   "nom": "Moutarde à l’ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3842472920854"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066113",
+   "nom": "Pistaches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066113"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826503740",
+   "nom": "Tarte aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826503740"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477076693",
+   "nom": "Filet de limande du nord meunière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477076693"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477213708",
+   "nom": "Saucisse de Toulouse roulée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477213708"
+  },
+  {
+   "id": "distribution-paiement-casino-11161110",
+   "nom": "soupe de poisson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11161110"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826539268",
+   "nom": "Pavé aux noix 400g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826539268"
+  },
+  {
+   "id": "distribution-paiement-casino-3222483957450",
+   "nom": "Petits ecoliers au lait &quot;Mention Bien&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222483957450"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477162655",
+   "nom": "Filets de maquereaux grillés aux herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477162655"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477312722",
+   "nom": "L'onctueuse panna cotta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477312722"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477359277",
+   "nom": "Maïs croquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477359277"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477385511",
+   "nom": "Preparation pour flan patissier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477385511"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477310469",
+   "nom": "Mojito sans alcool",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477310469"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477306141",
+   "nom": "Mini petits beurres poivrons et herbes de provence",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477306141"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477719583",
+   "nom": "Tourte de seigle bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477719583"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477725201",
+   "nom": "Blanc de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477725201"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477795839",
+   "nom": "Coquillette au blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477795839"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477816947",
+   "nom": "Cake aux fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477816947"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477816879",
+   "nom": "Confiture de fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477816879"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477820272",
+   "nom": "Pain de mie extra moelleux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477820272"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471222355",
+   "nom": "Steak Haché 5%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471222355"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476859938",
+   "nom": "Petits fromages frais aux fruits, aromatisés BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 12 x 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476859938"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477013919",
+   "nom": "Thé vert glacé ( saveur menthe )",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477013919"
+  },
+  {
+   "id": "distribution-paiement-casino-3222470100036",
+   "nom": "La baguette 200g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222470100036"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471539149",
+   "nom": "Bandol Club Des Sommeliers Rs 047 75 Cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471539149"
+  },
+  {
+   "id": "distribution-paiement-casino-3222474374457",
+   "nom": "Tuile goût paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 170g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222474374457"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476954176",
+   "nom": "Steak haché 5% mg façon bouchère pur boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476954176"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450976",
+   "nom": "Tartelette Framboises x2 230g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450976"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450181",
+   "nom": "Petites viennoiseries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450181"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476740885",
+   "nom": "Melon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476740885"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477064317",
+   "nom": "Raisins secs golden",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477064317"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477048867",
+   "nom": "Crevettes cuites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477048867"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477170513",
+   "nom": "Le julo pâté de foie à l'ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477170513"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450280",
+   "nom": "Casino chausson aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450280"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826495281",
+   "nom": "Tarte flan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826495281"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826499739",
+   "nom": "framboisier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 990g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826499739"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477281745",
+   "nom": "Cône menthe chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477281745"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477219083",
+   "nom": "Tarte aux poireaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 2 x 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477219083"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476577948",
+   "nom": "Baguettes 3+1 offerte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476577948"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477233126",
+   "nom": "Flûtes feuilletées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477233126"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477296329",
+   "nom": "Casino instant frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 75cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477296329"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477164918",
+   "nom": "Capsules de café aromatisé speculoos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477164918"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477215412",
+   "nom": "Riz jasmin du cambodge 5kg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477215412"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477368859",
+   "nom": "Cantal AOP Jeune",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477368859"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473650880",
+   "nom": "Courgette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473650880"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477435810",
+   "nom": "10 Knacks pur volaille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477435810"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477437456",
+   "nom": "100% pur jus multifruits du verger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477437456"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477310445",
+   "nom": "Spritz sans alcool",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477310445"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477239197",
+   "nom": "Crunchy Muesli chocolat et figues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477239197"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477389977",
+   "nom": "Casino boisson à base de jus de citro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477389977"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477749603",
+   "nom": "Gâteau moelleux chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477749603"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477757202",
+   "nom": "Lait Entier de Montagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477757202"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477751774",
+   "nom": "Gâteau moelleux aux pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477751774"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477767010",
+   "nom": "Purée de fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477767010"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477757561",
+   "nom": "Cabillaud riz aux petits légumes et sauce citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477757561"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477768956",
+   "nom": "Les célèbres crêpes dentelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477768956"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477740846",
+   "nom": "Chocolat au lait aux amandes et au sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477740846"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477802674",
+   "nom": "Petit pois extra fins et carottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477802674"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477790483",
+   "nom": "Mélange à déguster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477790483"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477795822",
+   "nom": "Torsade au blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477795822"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477757608",
+   "nom": "Fourrés coeur cacao noisette 1kg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477757608"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477795969",
+   "nom": "Spaetzle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477795969"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477787889",
+   "nom": "Coquillette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477787889"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477774919",
+   "nom": "Nectar gourmand goyave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477774919"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477789661",
+   "nom": "Mélange 5 legumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477789661"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477412460",
+   "nom": "Melange a deguster Amandes, noix de cajou, noix de pécan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477412460"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477233911",
+   "nom": "Parmentier de poisson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477233911"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477065413",
+   "nom": "Pavé aux graines de lin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477065413"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477763401",
+   "nom": "Yaourt à Boire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477763401"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477796904",
+   "nom": "Yaourt grec",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477796904"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477625747",
+   "nom": "Filet de haddock fume a froid",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477625747"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476607157",
+   "nom": "Oranges BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476607157"
+  },
+  {
+   "id": "distribution-paiement-casino-3187670019000",
+   "nom": "Tarte Au Citron Meringuée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3187670019000"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471098967",
+   "nom": "Steak Haché Pur Bœuf 15%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 8 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471098967"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472310341",
+   "nom": "Jus d'orange pressées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472310341"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475424014",
+   "nom": "Roquette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475424014"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476254931",
+   "nom": "Gambas sauvages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476254931"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473900329",
+   "nom": "Escalope de dinde à la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473900329"
+  },
+  {
+   "id": "distribution-paiement-casino-29001194",
+   "nom": "Stack haché frais pur boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/29001194"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450884",
+   "nom": "Éclairs chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450884"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066496",
+   "nom": "Pomme de terre Chair tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066496"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066595",
+   "nom": "Crème dessert praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066595"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476437471",
+   "nom": "4 BROCHETTES DE DINDE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476437471"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477215948",
+   "nom": "Brassè saveur abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477215948"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477241503",
+   "nom": "Les célèbres crêpes dentelles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477241503"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477391994",
+   "nom": "Biscuit matin abricot, amande, pépite de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477391994"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477402270",
+   "nom": "Mention bien chocolat au lait et noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477402270"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477310438",
+   "nom": "Thé vert infusé saveur yuzu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477310438"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477371651",
+   "nom": "Velouté de légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477371651"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826485312",
+   "nom": "Brioche aux fruits confits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826485312"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477432468",
+   "nom": "Saumon fumé élevé en Norvège",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477432468"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477359123",
+   "nom": "Purée pomme vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477359123"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477372801",
+   "nom": "Champignons de Paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477372801"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477237308",
+   "nom": "Steak de thon albacor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477237308"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477385801",
+   "nom": "Sauce Pesto rosso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477385801"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477359918",
+   "nom": "Farine de blé complète T150",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477359918"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477445529",
+   "nom": "Soucoupes Piquantes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477445529"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477478459",
+   "nom": "Barres de céréales fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477478459"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477364417",
+   "nom": "Noir dessert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477364417"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477447028",
+   "nom": "Puree pomme banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477447028"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477610903",
+   "nom": "Flammekueche de Moselle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477610903"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477672857",
+   "nom": "Rillette de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477672857"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477412477",
+   "nom": "Melange a deguister",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477412477"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477638723",
+   "nom": "Pommes bicolores",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477638723"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477611214",
+   "nom": "Épices pour fajitas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477611214"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477665859",
+   "nom": "Thé saveur citron boisson instantanée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477665859"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477639447",
+   "nom": "Les doodingues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477639447"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477616028",
+   "nom": "Gouters ronds bi-gout lait choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477616028"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477640214",
+   "nom": "Mini saucissons secs natures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477640214"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477659353",
+   "nom": "Frites de patate douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477659353"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477720114",
+   "nom": "Le julo jambon de bayonne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477720114"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477674073",
+   "nom": "Donuts chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477674073"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477734791",
+   "nom": "Barres de céréales au chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477734791"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477674127",
+   "nom": "Vodka française",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 70 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477674127"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477762602",
+   "nom": "Méli-mélo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477762602"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477788473",
+   "nom": "Panna Cotta au lait de brebis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 2 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477788473"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477781054",
+   "nom": "Jambon superieur sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477781054"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477797321",
+   "nom": "Infusion glacée orange sanguine pamplemousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477797321"
+  },
+  {
+   "id": "distribution-paiement-casino-08406615",
+   "nom": "100% pur jus Orange Sanguine de Sicile pressé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/08406615"
+  },
+  {
+   "id": "distribution-paiement-casino-29017553",
+   "nom": "Galettes aux épinards & à l'emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/29017553"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472430025",
+   "nom": "Tequila Blanco Merida",
+   "assemblage": "Mexique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 70 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472430025"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476432452",
+   "nom": "Burger charolais cheddar fondu, sauce au poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 195 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476432452"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476741301",
+   "nom": "Pâtes farfalles cuisson rapide",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476741301"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471075753",
+   "nom": "Coulis de tomates",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471075753"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472955665",
+   "nom": "Mini Croissant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472955665"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473039548",
+   "nom": "Basmati",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473039548"
+  },
+  {
+   "id": "distribution-paiement-casino-3222474268404",
+   "nom": "Crevettes entières",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222474268404"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475423970",
+   "nom": "Mélange de salades tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475423970"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475424045",
+   "nom": "Jeunes Pousses corsées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475424045"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475761430",
+   "nom": "Crème anglaise",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475761430"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475976117",
+   "nom": "Les mini quatre quarts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475976117"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476672575",
+   "nom": "Liegeois vanille chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 8 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476672575"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476859495",
+   "nom": "Peche abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476859495"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476859518",
+   "nom": "Boissons aux jus de fruits à base de concentrés multivitaminée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476859518"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450518",
+   "nom": "Eclaires assortis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450518"
+  },
+  {
+   "id": "distribution-paiement-casino-22018038",
+   "nom": "le cremeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/22018038"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477770546",
+   "nom": "Génoise Fourrée Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477770546"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066106",
+   "nom": "Pause superfruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066106"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826530531",
+   "nom": "Baguette complète 250G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826530531"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477066069",
+   "nom": "Amandes en poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477066069"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471124499",
+   "nom": "Châteauneuf Du Pape 75Cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 75 cL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471124499"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477064362",
+   "nom": "MELANGE JAPONAIS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477064362"
+  },
+  {
+   "id": "distribution-paiement-casino-3222476437600",
+   "nom": "Filets de poulet cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222476437600"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826489938",
+   "nom": "Torsade chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826489938"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472363835",
+   "nom": "Infusion nuit Paisible 25S 40G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472363835"
+  },
+  {
+   "id": "distribution-paiement-casino-29008841",
+   "nom": "Dés de poulet casino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/29008841"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477238183",
+   "nom": "Mayonnaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477238183"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477366299",
+   "nom": "Saucisse sèche le julo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477366299"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477356764",
+   "nom": "Instant frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477356764"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477371880",
+   "nom": "Fondu 3 fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477371880"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477304000",
+   "nom": "Boisson matcha saveur yuzu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477304000"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473957293",
+   "nom": "Barres de céréales noisettes amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473957293"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477195912",
+   "nom": "Mini moelleux abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5 x 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477195912"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477177192",
+   "nom": "Farine de blé CRC T65",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 2,5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477177192"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477457478",
+   "nom": "Pur jus de pomme Goldrush",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477457478"
+  },
+  {
+   "id": "distribution-paiement-casino-3222473354917",
+   "nom": "Pintade farcie morilles et armagnac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222473354917"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826462139",
+   "nom": "Galettes des rois frangipane mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3X",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826462139"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477366275",
+   "nom": "Champignons blancs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477366275"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477385795",
+   "nom": "Sauce Arrabiata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477385795"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477494794",
+   "nom": "Filets de cabillaud MSC Fish'n chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477494794"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477444799",
+   "nom": "Chips ondulées paysanes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477444799"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477557611",
+   "nom": "Twistoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 100",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477557611"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477437463",
+   "nom": "Jus d'ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477437463"
+  },
+  {
+   "id": "distribution-paiement-casino-04871830",
+   "nom": "Galette aux épinards et emmental Casino Veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04871830"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477448315",
+   "nom": "Saint-Nectaire Laitier AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477448315"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477404557",
+   "nom": "Penne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477404557"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477447820",
+   "nom": "Graines tournesol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477447820"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477447813",
+   "nom": "Graines de sésame toastées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477447813"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477491410",
+   "nom": "Wassila",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477491410"
+  },
+  {
+   "id": "distribution-paiement-casino-3602826450914",
+   "nom": "Pain aux noix 300g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826450914"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477621190",
+   "nom": "Crevettes decortiquees sauces cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477621190"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477627840",
+   "nom": "Allumettes nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477627840"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477680708",
+   "nom": "Radis équetés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477680708"
+  },
+  {
+   "id": "distribution-paiement-casino-7750243052641",
+   "nom": "Casino sabor Vainilla",
+   "assemblage": "Callao",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 43 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750243052641"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477726833",
+   "nom": "Casino bio agrumade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477726833"
+  },
+  {
+   "id": "distribution-paiement-casino-3576820144592",
+   "nom": "Melon charantais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3576820144592"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477676152",
+   "nom": "Nectar bio pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477676152"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477619395",
+   "nom": "Croquants aux amandes et à la fleur d'oranger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477619395"
+  },
+  {
+   "id": "distribution-paiement-casino-3547448745973",
+   "nom": "Saucisse de Toulouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3547448745973"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477731615",
+   "nom": "Boudin blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477731615"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766341",
+   "nom": "Glace noix de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766341"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477762626",
+   "nom": "Tagliatelles à la carbonara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 330 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477762626"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477765252",
+   "nom": "Crème Glacée Menthe Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477765252"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477764866",
+   "nom": "Wrap Jambon et fromage de chèvre sauce au yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477764866"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766594",
+   "nom": "Jus dorange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766594"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766679",
+   "nom": "Pur jus ananas mangue passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766679"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477768468",
+   "nom": "Filets d’anchois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477768468"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477766655",
+   "nom": "pur jus d'ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477766655"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477776258",
+   "nom": "Nectar orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477776258"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477774889",
+   "nom": "Terrine aux Saint-Jacques",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477774889"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477606784",
+   "nom": "Filets de Cabillaud Panés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477606784"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477808522",
+   "nom": "Lardons de saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477808522"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477804814",
+   "nom": "Ravioli bolognaise porc etboeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477804814"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477804876",
+   "nom": "Feuilles de lasagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477804876"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477808454",
+   "nom": "Pur Jus Pomme Mangue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477808454"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477816961",
+   "nom": "Chocolat noir à pâtisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477816961"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477795631",
+   "nom": "Cornichon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477795631"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477790704",
+   "nom": "Jus de pomme touche vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477790704"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477817999",
+   "nom": "Sauce béchamel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477817999"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477804807",
+   "nom": "Ravioli bolognaise Porc et Bœuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477804807"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477797307",
+   "nom": "Pur arabica café en grains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477797307"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477816954",
+   "nom": "Sardines à l'ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477816954"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477779792",
+   "nom": "VITAMIN’ IMMUNITÉ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477779792"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477790728",
+   "nom": "Jus de pomme cannelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477790728"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477745520",
+   "nom": "Beaumesnil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477745520"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477775107",
+   "nom": "Double concentré de tomate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477775107"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477755307",
+   "nom": "Noix de cajou à l'indienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477755307"
+  },
+  {
+   "id": "distribution-paiement-casino-3222477790506",
+   "nom": "Mélange à déguster raisins cachuetes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222477790506"
+  },
+  {
+   "id": "distribution-paiement-casino-3222475746192",
+   "nom": "Pain Blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222475746192"
+  },
+  {
+   "id": "distribution-paiement-casino-0322247101807",
+   "nom": "Crème dessert au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 125",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0322247101807"
+  },
+  {
+   "id": "distribution-paiement-casino-0208655023614",
+   "nom": "Emmetal Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0208655023614"
+  },
+  {
+   "id": "distribution-paiement-casino-2000000028133",
+   "nom": "Yaourt de brebis nature - Bio Casino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000028133"
+  },
+  {
+   "id": "distribution-paiement-casino-29013555",
+   "nom": "Luftgetrocknete Edelsalami",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/29013555"
+  },
+  {
+   "id": "distribution-paiement-casino-3222471971680",
+   "nom": "Glace Noix De Coco 1L Co",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1 L (522 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222471971680"
+  },
+  {
+   "id": "distribution-paiement-casino-3222472087175",
+   "nom": "Hache de boeuf 20% MG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3222472087175"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033317161",
+   "nom": "Galettes de maïs bio",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 115g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033317161"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030139278",
+   "nom": "beurre doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030139278"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030121686",
+   "nom": "Pâte brisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030121686"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030146429",
+   "nom": "Blanc de dinde qualité supérieure",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030146429"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030197063",
+   "nom": "Fromage blanc Nature 0%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 8 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030197063"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030148836",
+   "nom": "Crème fleurette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030148836"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033862067",
+   "nom": "Salade boulgour fruits secs et quinoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033862067"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030138639",
+   "nom": "poitrine fumée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030138639"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033263444",
+   "nom": "Gelée extra groseilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033263444"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033672284",
+   "nom": "la beauté bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033672284"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033959842",
+   "nom": "Le yaourt framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033959842"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030184131",
+   "nom": "Yaourt de Brebis Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 2x125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030184131"
+  },
+  {
+   "id": "distribution-paiement-casino-3350031903502",
+   "nom": "Purée nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350031903502"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033283657",
+   "nom": "Cassoulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 420g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033283657"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033958340",
+   "nom": "Lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033958340"
+  },
+  {
+   "id": "distribution-paiement-casino-3350031903106",
+   "nom": "Cèpes séchés noblesse des saveurs ceuillis à la main",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350031903106"
+  },
+  {
+   "id": "distribution-paiement-casino-3350031900921",
+   "nom": "Thé Earl Grey, souvenir de Chine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350031900921"
+  },
+  {
+   "id": "distribution-paiement-casino-3350031544521",
+   "nom": "Filets de maquereaux aux 2 moutardes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350031544521"
+  },
+  {
+   "id": "distribution-paiement-casino-3760350682420",
+   "nom": "Bœuf thaï",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760350682420"
+  },
+  {
+   "id": "distribution-paiement-casino-3350034006828",
+   "nom": "Maxi format chips dorées nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350034006828"
+  },
+  {
+   "id": "distribution-paiement-casino-3350030113681",
+   "nom": "Fromage de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 180gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350030113681"
+  },
+  {
+   "id": "distribution-paiement-casino-3248650014979",
+   "nom": "choux de Bruxelles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3248650014979"
+  },
+  {
+   "id": "distribution-paiement-casino-3350033972490",
+   "nom": "Petites gourmandises aux 3 chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3350033972490"
+  }
+ ]
+}

@@ -1,0 +1,3741 @@
+{
+ "distribution-et-paiement-schwarz-gruppe": [
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619029897",
+   "nom": "Pane Proteico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619029897"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20649289",
+   "nom": "Yaourt aux fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 8 * 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20649289"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3492500049202",
+   "nom": "Panés au colin d'Alaska",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3492500049202"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619084445",
+   "nom": "Huile de tournesol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619084445"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3700854600957",
+   "nom": "Baguette torsadée au levain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700854600957"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20385286",
+   "nom": "American style pancakes",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20385286"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489136941",
+   "nom": "Raclette Fumée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489136941"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489481171",
+   "nom": "Sea Salt and Lime Tortilla Chip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489481171"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20942021",
+   "nom": "Mixed Beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 400 g (240g drained)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20942021"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489852186",
+   "nom": "Super nutty Granola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489852186"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20175092",
+   "nom": "Strwberry crisp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20175092"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20820930",
+   "nom": "Cinnamon Squares",
+   "assemblage": "Lübeck",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 475g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20820930"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489361640",
+   "nom": "Le doucremeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489361640"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20503628",
+   "nom": "Prosciutto Cotto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20503628"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20492281",
+   "nom": "Ajvar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20492281"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489235088",
+   "nom": "Après shampooing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489235088"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20128241",
+   "nom": "Fromage pour tartiflette",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20128241"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489800286",
+   "nom": "Gazpacho Tradicional",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489800286"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489747086",
+   "nom": "Magdalenas redondas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 550g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489747086"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20303693",
+   "nom": "Nulacta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20303693"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489289067",
+   "nom": "Cookies com pepitas de chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489289067"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489128151",
+   "nom": "Speisequark",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489128151"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489844907",
+   "nom": "Hummus Sonnengetrocknete Tomaten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489844907"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619179967",
+   "nom": "Woodford Pizza Base",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619179967"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20778187",
+   "nom": "Saveur Poulet Rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20778187"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489636922",
+   "nom": "Miel de Romero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489636922"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489044574",
+   "nom": "12 huevos frescos de Gallinas criadas en suelo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489044574"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489239628",
+   "nom": "Soy Chilli Ginger Salad Dressing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489239628"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489511175",
+   "nom": "Shortcake biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489511175"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5900120025905",
+   "nom": "butter with reduced fat content",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900120025905"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489307990",
+   "nom": "smoked ham",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489307990"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4061459945591",
+   "nom": "Essentials I'm New LIGHTER GREEK STYLE SALAD CHEES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061459945591"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619266735",
+   "nom": "Levure chimique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 6 x 15 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619266735"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489159759",
+   "nom": "Cheddar & Black pepper flatbread thins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489159759"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489156512",
+   "nom": "Dos de cabillaud MSC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489156512"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-40873961",
+   "nom": "French Goats’ cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40873961"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489689058",
+   "nom": "chicken stock pot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 4 x 24 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489689058"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489873457",
+   "nom": "Bebida de avena calcio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489873457"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20702557",
+   "nom": "Almonds",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20702557"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20968618",
+   "nom": "Lasanha vegetariana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20968618"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489486039",
+   "nom": "Cereal marshmallow hoops",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489486039"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489141143",
+   "nom": "Kaiser-Jagdwurst",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489141143"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489727712",
+   "nom": "Lait demi-écrémé Envia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489727712"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489704065",
+   "nom": "Crunchy muesli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489704065"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489880486",
+   "nom": "śliwki suszone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489880486"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20028084",
+   "nom": "butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20028084"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3162330080323",
+   "nom": "Saint-Bertin French Lager",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3162330080323"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619069152",
+   "nom": "Cappelletti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619069152"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489550563",
+   "nom": "Hummus basil pesto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489550563"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489899440",
+   "nom": "McAllister’s Scottish Thin Oatcakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489899440"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489407911",
+   "nom": "Untable vegetal Maíz,manzana y curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489407911"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20551773",
+   "nom": "Spice seasoning",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20551773"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20798970",
+   "nom": "Burger meat de pollo con zanahoria",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 6 x 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20798970"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20069711",
+   "nom": "Olives piment ail",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20069711"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489144083",
+   "nom": "Smoke Salmon Slices",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489144083"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20035532",
+   "nom": "Sumo de Pêssego e Uva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20035532"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489802532",
+   "nom": "Gourmet Chips Vegetales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489802532"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489864905",
+   "nom": "premium Müsli Früchte und Nüsse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489864905"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489649526",
+   "nom": "Pecan Nuts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489649526"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489165385",
+   "nom": "salată de boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489165385"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20983246",
+   "nom": "Kiwi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20983246"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489894957",
+   "nom": "10 Mixed Sized Eggs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 10x 490g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489894957"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20388102",
+   "nom": "fijn volkoren",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20388102"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489714323",
+   "nom": "Maïs doux sans sucre ajoutés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 160 g 140 g égoutté",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489714323"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489895015",
+   "nom": "Vegetable Samosa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489895015"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3348580074965",
+   "nom": "Lardons Natures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3348580074965"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489946724",
+   "nom": "Palets bretons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489946724"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489907732",
+   "nom": "10 Pitas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489907732"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489829614",
+   "nom": "Sós mogyoró",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489829614"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619179189",
+   "nom": "Greek Style Yoghurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 4 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619179189"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489988625",
+   "nom": "Italienisches Premium Eis aus Sizilien",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 460 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489988625"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619010758",
+   "nom": "Instant Coffee Gold Decaffeinated",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619010758"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20131968",
+   "nom": "Requesón tipo cottage light*",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20131968"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489549772",
+   "nom": "Erdnuss Butter Crunchy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489549772"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20253462",
+   "nom": "Ail blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20253462"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489549765",
+   "nom": "Smooth erdnuss butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489549765"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489198338",
+   "nom": "Chunky Guacamole",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score C · 163 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489198338"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489851769",
+   "nom": "High Protein Natural yoghyrt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489851769"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489520191",
+   "nom": "Eucalyptus Honey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 340 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489520191"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489516040",
+   "nom": "Erdbeere",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489516040"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489135975",
+   "nom": "Kroketten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489135975"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20620691",
+   "nom": "Fajita Seasoning Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 30 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20620691"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20251628",
+   "nom": "Chipsy o smaku octu i soli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20251628"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489351665",
+   "nom": "Makrelenfilets. Fisch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489351665"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20053345",
+   "nom": "Bio organic latte intero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20053345"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489370215",
+   "nom": "BIO SORBET PLEIN FRUIT CITRON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489370215"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489475132",
+   "nom": "wrap complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 62 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489475132"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489416258",
+   "nom": "Spaghetti Bolognese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489416258"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489993360",
+   "nom": "Smoked German Sausages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 540g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489993360"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489023067",
+   "nom": "Aigre doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 490 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489023067"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489624516",
+   "nom": "Vegane Linsencreme Pikante Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489624516"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489841692",
+   "nom": "Mini cakes aux fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489841692"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489175636",
+   "nom": "Corned beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489175636"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-8412604987854",
+   "nom": "Atum em Óleo Vegetal",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 110 g (72 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8412604987854"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619094031",
+   "nom": "Simply Dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619094031"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20601539",
+   "nom": "Mushrooms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 650g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20601539"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489851875",
+   "nom": "High Protein Grated Mature cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489851875"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489540168",
+   "nom": "Mandeln gestiftet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489540168"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489322238",
+   "nom": "Mega Mix Fruity&Sour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489322238"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489792581",
+   "nom": "Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489792581"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489680086",
+   "nom": "Fromage râpé saveur  mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489680086"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489524021",
+   "nom": "Tris di panettoncini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489524021"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489046981",
+   "nom": "Mint Humbugs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489046981"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489637660",
+   "nom": "Giradole chèvre miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489637660"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5035272145192",
+   "nom": "Sesame chicken rolls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5035272145192"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489925514",
+   "nom": "Svježi Posni Sir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489925514"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489825609",
+   "nom": "Almond Butter & Salted Caramel Oats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489825609"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489720058",
+   "nom": "Ricotta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489720058"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3273230254254",
+   "nom": "Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3273230254254"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489720751",
+   "nom": "Crepes pomodoro e mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489720751"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489160670",
+   "nom": "Cioccolata Arancia e cannella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489160670"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619057876",
+   "nom": "Veganer Räucherlaxx",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619057876"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619126527",
+   "nom": "Ayran",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619126527"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619100350",
+   "nom": "Tagliatelle with basil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619100350"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489418597",
+   "nom": "Knuspermüsli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489418597"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20707361",
+   "nom": "Hazelnut truffle chocolate",
+   "assemblage": "Alemania",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20707361"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489554721",
+   "nom": "Chicken Red Curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489554721"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489199816",
+   "nom": "Magro",
+   "assemblage": "Portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489199816"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20920470",
+   "nom": "Crème brûlée Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20920470"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489648086",
+   "nom": "Double strength summer fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489648086"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489746607",
+   "nom": "Peanut butter popcorn - Crownfireld",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489746607"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20714666",
+   "nom": "Brochettes de poulet piquantes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20714666"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5901104004664",
+   "nom": "Kokos vegangurt - broskev marakuja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901104004664"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20771126",
+   "nom": "potato chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20771126"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20056186",
+   "nom": "Les Bûchettes citron vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20056186"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4099200426440",
+   "nom": "Fromage frais bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4099200426440"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489043003",
+   "nom": "Crostata con confettura di albicocca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489043003"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489462095",
+   "nom": "Garlic baguettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489462095"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489595786",
+   "nom": "Bakewell tart",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489595786"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489679387",
+   "nom": "Cuire et Rôtir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489679387"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489762317",
+   "nom": "Melonnice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489762317"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20242268",
+   "nom": "Baking Potatoes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20242268"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489749615",
+   "nom": "For you with love",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489749615"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489620044",
+   "nom": "Salmone affumicato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489620044"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489278672",
+   "nom": "Fromage raclette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489278672"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20047436",
+   "nom": "Polpette vegetali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20047436"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4010871006731",
+   "nom": "Sushi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4010871006731"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489233817",
+   "nom": "haltbare fettarme Milch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489233817"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489727323",
+   "nom": "Purée de patate douce au jus de clémentine et pointe de curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489727323"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20101237",
+   "nom": "Nougat pillows",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20101237"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20889036",
+   "nom": "Chocolate trifles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 24 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20889036"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489634881",
+   "nom": "Limonada de arándano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489634881"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20393748",
+   "nom": "Melomakarona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20393748"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489346791",
+   "nom": "Yogurt al caffè Latteria",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489346791"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-8427894027814",
+   "nom": "Rotwein La Manches Tempranillo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8427894027814"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489218654",
+   "nom": "Onion rings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489218654"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489253099",
+   "nom": "mansikka-jogurtti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489253099"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489806868",
+   "nom": "Organic Raw Agave Nectar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489806868"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489607168",
+   "nom": "free from lactose milk uht",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489607168"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489268345",
+   "nom": "Ciambella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489268345"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489545361",
+   "nom": "Quark-Creme Ananas Kokos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 100 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489545361"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489476627",
+   "nom": "Rundergehakt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 500 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489476627"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489260493",
+   "nom": "Pizza With Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489260493"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489885405",
+   "nom": "Frische Bio Eier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489885405"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489040958",
+   "nom": "Terine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489040958"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489545378",
+   "nom": "High protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489545378"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489962113",
+   "nom": "Milchreis mit Kirschen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489962113"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489875970",
+   "nom": "Kipfilet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489875970"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489648154",
+   "nom": "Big Dog: Hotdog Sausages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489648154"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5000159560894",
+   "nom": "Minis (Snickers)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159560894"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619102316",
+   "nom": "Foie gras de canard entier du Sud-Ouest",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619102316"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-8718096163524",
+   "nom": "Gembershot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718096163524"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489786870",
+   "nom": "Fresh yeast Pastry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489786870"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619108431",
+   "nom": "Lomo de cebo ibérico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619108431"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619043954",
+   "nom": "Witte bollen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619043954"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489908401",
+   "nom": "Halva With Cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489908401"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619284029",
+   "nom": "Dubaï style chocolat au kait fourrage à la pistache",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619284029"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489183457",
+   "nom": "Veganes Hack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 275g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489183457"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20719401",
+   "nom": "Milled chia seeds",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20719401"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-40882017",
+   "nom": "Avena Integral Chocolate con Leche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40882017"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20107338",
+   "nom": "Triple taste ice cream",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 2l ℮ (937g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20107338"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489071297",
+   "nom": "Ice Tea Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 1,5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489071297"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489154631",
+   "nom": "Breakfast biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489154631"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489462859",
+   "nom": "Fruit & fibre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489462859"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489723080",
+   "nom": "Vegane Cevapcici",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489723080"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489554974",
+   "nom": "Bio Biscuits d’avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 150 g ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489554974"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20492113",
+   "nom": "Milk chocolaté with puffed rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20492113"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489024293",
+   "nom": "Black tea russian earl grey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489024293"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20944186",
+   "nom": "Burger meat pork- cerdo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20944186"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489140702",
+   "nom": "Laranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489140702"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489293491",
+   "nom": "Pâine Toast Clasic",
+   "assemblage": "Prahova",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489293491"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489162827",
+   "nom": "Choco nussa",
+   "assemblage": "20",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489162827"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-13387331",
+   "nom": "Skyr to go Vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 400 g (4 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13387331"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489351672",
+   "nom": "Makrele",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489351672"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489746621",
+   "nom": "Bizcocho chocolate sin gluten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489746621"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489410119",
+   "nom": "Salteado de verduras",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489410119"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5949026103188",
+   "nom": "Solevita, Apple and Mango Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949026103188"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489013358",
+   "nom": "Apfel Topaz",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489013358"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489317692",
+   "nom": "Ajva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489317692"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489747512",
+   "nom": "Chorizo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489747512"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489269571",
+   "nom": "Sweetcorn rings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489269571"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489169451",
+   "nom": "Hamburguesa pavo pollo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 540 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489169451"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20340285",
+   "nom": "Wurst Aufschnitt",
+   "assemblage": "Austria",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20340285"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489519027",
+   "nom": "Caledonian Scottish Vintage Cheddar Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489519027"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489241447",
+   "nom": "Simply... Piri Piri chicken breast slices",
+   "assemblage": "Brazil",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489241447"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489033912",
+   "nom": "Currywurst Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489033912"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20692315",
+   "nom": "Antipasti-Creme Bärlauch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20692315"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489181835",
+   "nom": "Dänischer Belcavo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489181835"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489749172",
+   "nom": "Torta de aceite Sevillana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489749172"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489747659",
+   "nom": "Choco avellana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489747659"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20474119",
+   "nom": "Rucola/ Roquette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20474119"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489098973",
+   "nom": "panna FreeFrom lidl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 200 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489098973"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489320661",
+   "nom": "Nougat Trüffel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489320661"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489651055",
+   "nom": "Sweet potato, feta and pumpkin seed pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489651055"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489362777",
+   "nom": "Spaghetti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489362777"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20468828",
+   "nom": "Flamengo dos Açores Ralado",
+   "assemblage": "Portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20468828"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20659301",
+   "nom": "Aceite de Oliva Virgen Extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 3L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20659301"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20908157",
+   "nom": "Cashew Nuts dry roasted spicy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20908157"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20622305",
+   "nom": "Fondant Eier Zartbitterschokolade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 225g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20622305"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489567271",
+   "nom": "Poulet nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489567271"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489595250",
+   "nom": "Raw jumbo king prawns",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489595250"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20686437",
+   "nom": "Super Cono",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 105g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20686437"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489496274",
+   "nom": "Affettato vegano VEMONDO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489496274"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489796268",
+   "nom": "taralli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489796268"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20051259",
+   "nom": "Roll farcito alla nocciola",
+   "assemblage": "125034 Orzinuovi (BS)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 222 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20051259"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489111894",
+   "nom": "Turkey breast steak",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489111894"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5901104006064",
+   "nom": "coconut with granola & red fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 170g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901104006064"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20096892",
+   "nom": "Boudin Blanc",
+   "assemblage": "Belgie Evergem",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 540 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20096892"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20856298",
+   "nom": "Halloween - Bonbons tendes aux fruits",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20856298"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489354642",
+   "nom": "Tuna and sweetcorn deli filler",
+   "assemblage": "Barnsley",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489354642"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489747246",
+   "nom": "Burguer meat de pollo y pavo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489747246"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489762942",
+   "nom": "Quenelles de pommes de terre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489762942"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489889304",
+   "nom": "Cœurs croustillants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489889304"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5949093101797",
+   "nom": "Cârnați de Pleșcoi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949093101797"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489045229",
+   "nom": "Butifarra de Payés -Pimienta-",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 700 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489045229"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489022978",
+   "nom": "Käse für den Ofen Kräuter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 180g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489022978"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489296751",
+   "nom": "C'est sweets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489296751"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489636038",
+   "nom": "Croquetas de bacalao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489636038"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20047504",
+   "nom": "Burger vegetali ai funghi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20047504"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-8001408876770",
+   "nom": "Partufo Fromage à la truffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8001408876770"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-5949026101924",
+   "nom": "Perlenbacher",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949026101924"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489155638",
+   "nom": "Krokante schnitzels",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 500 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489155638"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489278191",
+   "nom": "Girolles entieres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489278191"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489023692",
+   "nom": "Französischer Camembert Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489023692"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489743309",
+   "nom": "Apple Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489743309"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489592433",
+   "nom": "Baked beans honey bbq sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489592433"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489817963",
+   "nom": "feine Creme zum Kochen 15% Fett",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489817963"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489957829",
+   "nom": "Spring Rolls With Vegetables And Beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 400 grame",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489957829"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20774462",
+   "nom": "Groentesoep",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 800 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20774462"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489211327",
+   "nom": "Original English muffins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489211327"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489519508",
+   "nom": "Chucken&mushriim pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489519508"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489379287",
+   "nom": "LIDL Chef Select Kalamata und Grüne Oliven 150g 1.89€ 1kg 10.60€",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489379287"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489012887",
+   "nom": "Brussel sprouts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489012887"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489182818",
+   "nom": "Schokoladen Eier Weiss",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489182818"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489312130",
+   "nom": "Lidl brown rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489312130"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3428420061192",
+   "nom": "Domes poire tatin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428420061192"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20336905",
+   "nom": "Appeltaart met roomboter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20336905"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489902089",
+   "nom": "Flame Grilled Chicken Breast Chunks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489902089"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489641209",
+   "nom": "Wurst Salsiccia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489641209"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489741503",
+   "nom": "Kinuski mousse jälkiruoka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2x60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489741503"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619070868",
+   "nom": "Caesar Salad Kit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 x 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619070868"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20921736",
+   "nom": "Steak Hamburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20921736"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489546993",
+   "nom": "Hummus met peper pasta en cashewnoten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 200 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489546993"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20816506",
+   "nom": "Pomme de terre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20816506"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489904564",
+   "nom": "Spanish Style Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489904564"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489292371",
+   "nom": "Eier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 10",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489292371"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489535645",
+   "nom": "Mix Sałat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489535645"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489570851",
+   "nom": "Cherry peppers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489570851"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489690009",
+   "nom": "Hamburguesa ecológica queso Cabrales D.O.P",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489690009"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489342946",
+   "nom": "12 Grain Bread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489342946"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4000980552410",
+   "nom": "High protein Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000980552410"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489764731",
+   "nom": "Pasta saus rood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 118 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489764731"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489895428",
+   "nom": "Scottish salmon fillets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 480 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489895428"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489972235",
+   "nom": "Ananas au sirop léger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489972235"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489099031",
+   "nom": "Yogurt alla vaniglia con preparazione di lamponi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489099031"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619023451",
+   "nom": "Cono alla panna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 6 x 120 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619023451"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20616076",
+   "nom": "Σνίτσελ φιλετο κοτοπουλο",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20616076"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619105867",
+   "nom": "Spekulatius Vollmilchschokolade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619105867"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-8718096162695",
+   "nom": "ginger shot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718096162695"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619135086",
+   "nom": "Schinken-Salami Klassik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619135086"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619102477",
+   "nom": "Bûche pâtissière 3 boules de Noel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619102477"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619023017",
+   "nom": "Premium Knuspermüsli Triple Choc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619023017"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619129733",
+   "nom": "Wiesländer leicht",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619129733"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619122239",
+   "nom": "Caledonian Vintage Cheddar 18 MO Lidl Deluxe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619122239"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489038665",
+   "nom": "Bio Pizza Kombi Tomatensauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489038665"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619038387",
+   "nom": "protein kefir apple banana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619038387"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619072749",
+   "nom": "Lidl Chorizo, Red Pepper & Cherry Tomatoe Tart",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619072749"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489712053",
+   "nom": "Cheddar Slices With Cracked Black Pepper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489712053"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619180093",
+   "nom": "2 Beer Battered Haddock Fillets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619180093"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619027497",
+   "nom": "Lingue di gatto",
+   "assemblage": "Colussi S.p.A.",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619027497"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619155145",
+   "nom": "Shiitake Mushroom Pastry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 280g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619155145"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619207745",
+   "nom": "Feta-Creme Knoblauch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619207745"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20683115",
+   "nom": "Bio Speisefrühkartoffeln",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20683115"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20390198",
+   "nom": "Eier aus Bodenhaltung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20390198"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20777784",
+   "nom": "Wholemeal Sliced Bread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20777784"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20675998",
+   "nom": "Steak & Stilton Pies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20675998"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20303839",
+   "nom": "Sertésgrillkolbász",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20303839"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619026391",
+   "nom": "Hamburguesa Cerdo Lidl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619026391"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4061462800146",
+   "nom": "Kalamata Olives Specially Selected",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061462800146"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619156098",
+   "nom": "Peito de peru finíssimo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619156098"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489952329",
+   "nom": "Ulei Floarea Soarelui",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489952329"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20870669",
+   "nom": "ovos l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20870669"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619038127",
+   "nom": "Oberskren",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 190g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619038127"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20212827",
+   "nom": "βοεια λουκανικα",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20212827"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489480044",
+   "nom": "Taste of Gorgeous Green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489480044"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489418580",
+   "nom": "Knuspermüsli Triple Choc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489418580"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3520059921790",
+   "nom": "Miel de fleurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3520059921790"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20477455",
+   "nom": "Albóndigas pollo y pavo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20477455"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20389048",
+   "nom": "Teddy hit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 55g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20389048"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20690274",
+   "nom": "Rico biscuits cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20690274"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-40875033",
+   "nom": "Skyr to go Erdbeere",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 400 g (4 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40875033"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489039457",
+   "nom": "Compote pomme-poire bio SSA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 4 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489039457"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20271947",
+   "nom": "carottes",
+   "assemblage": "Verdun",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 2kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20271947"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20459710",
+   "nom": "Cornet de Glace",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 456g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20459710"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489136651",
+   "nom": "Dessert de fruits pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 16 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489136651"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489258513",
+   "nom": "Mousseline de pommes (sans morceaux)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 710g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489258513"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489746591",
+   "nom": "Milk Chocolate Popcorn Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 4 x 21 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489746591"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489238140",
+   "nom": "Texas bbq crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489238140"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489360803",
+   "nom": "Pizza 4 fromages maxi moelleuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489360803"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489219491",
+   "nom": "Escalope au fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489219491"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20299293",
+   "nom": "omáčka barbecue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20299293"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489137313",
+   "nom": "Camembert au Four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489137313"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20176983",
+   "nom": "Veggie Vigour Crunch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 28g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20176983"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489308461",
+   "nom": "Lactose free skimmed milk drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489308461"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489567264",
+   "nom": "Tartinable de viande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489567264"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489386353",
+   "nom": "Frische Eier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 18pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489386353"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4008577002133",
+   "nom": "Kirsch Strudel mit Vanillepudding auf Haferbasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4008577002133"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20247362",
+   "nom": "Fromage en cube à la moutarde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20247362"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489373971",
+   "nom": "Shot curcuma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489373971"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489614265",
+   "nom": "Cabillaud MSC1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 200 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489614265"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-0202026663775",
+   "nom": "Haché poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202026663775"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20447687",
+   "nom": "kiselo vrhnje 12%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 180g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20447687"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489248958",
+   "nom": "Freeway lemon-lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2 litres",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489248958"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489365082",
+   "nom": "Surimi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489365082"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489362241",
+   "nom": "2 Endives au jambon sauce bechamel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489362241"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489594253",
+   "nom": "Newgate Vegetable chilli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 392 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489594253"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4260057007148",
+   "nom": "Golden Hills irische Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260057007148"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489129080",
+   "nom": "Gold Tea Bags",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489129080"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489224860",
+   "nom": "Nuss Stängeli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489224860"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489353966",
+   "nom": "Singapore style curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489353966"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489176787",
+   "nom": "Landkäse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489176787"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489499916",
+   "nom": "Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1liter",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489499916"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489555018",
+   "nom": "Bleu des Causses",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489555018"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489120698",
+   "nom": "Longaniza fresca sin tripa",
+   "assemblage": "Burgos",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489120698"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20445201",
+   "nom": "Twinkelz vlokken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20445201"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20050412",
+   "nom": "Soyo mirtilli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 2 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20050412"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489369080",
+   "nom": "Minis blinis apero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489369080"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489363163",
+   "nom": "Lomos de porc saveur tex mex",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 480 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489363163"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489248996",
+   "nom": "Salmon Fillets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489248996"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489579205",
+   "nom": "Leberkäse fein mit Kruste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489579205"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489687382",
+   "nom": "Lidl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489687382"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489632986",
+   "nom": "Deluxe Pandoro classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489632986"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489678366",
+   "nom": "Petits pois bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489678366"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489800347",
+   "nom": "Pan Blanco Familiar Lidl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 28 Rebanadas, 820g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489800347"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489421832",
+   "nom": "Cranberry Juice Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489421832"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489846987",
+   "nom": "Burger Buns",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489846987"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489194262",
+   "nom": "Oignons emincés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489194262"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20183783",
+   "nom": "Cœurs d'artichaut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20183783"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20052768",
+   "nom": "Carciofini a spicchi alla Contadina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20052768"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489574248",
+   "nom": "Fuet Extra  4sabores",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489574248"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489416265",
+   "nom": "Spaghetti Carbonara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489416265"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489818045",
+   "nom": "Plant based chili nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489818045"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489381549",
+   "nom": "Breadsticks with cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489381549"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20871826",
+   "nom": "Bio Organic CARROT SALAD",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330 g netto, 190 g abtropf",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20871826"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20369552",
+   "nom": "Sweet Coma POCKET We MIXED FRUIT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 44 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20369552"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489262176",
+   "nom": "Lyoner Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489262176"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489361978",
+   "nom": "Steak haché  pur boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489361978"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489617860",
+   "nom": "Edel-Vollmilchschokolade Kokos 32%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489617860"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489787051",
+   "nom": "Vanilla Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 58 g (10x 5.8g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489787051"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-3014409008427",
+   "nom": "Rhum arrangé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3014409008427"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489123576",
+   "nom": "Obst Himbeeren",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489123576"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489605270",
+   "nom": "Herzhafter Karottensalat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489605270"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20551858",
+   "nom": "Extra crunchy crisp salt&peper chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20551858"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-6271006017659",
+   "nom": "Aqua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6271006017659"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20114404",
+   "nom": "Classic Shortbread rounds",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20114404"
+  }
+ ],
+ "distribution-et-paiement-aldi": [
+  {
+   "id": "distribution-et-paiement-aldi-2006050050833",
+   "nom": "Beurre de cacahuètes Crunchy",
+   "assemblage": "Pays Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2006050050833"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4068262073381",
+   "nom": "Beurre De Cacahuètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4068262073381"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600184197",
+   "nom": "Malted Bloomer Bread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 800g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600184197"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-2006050102860",
+   "nom": "Tartines croquantes",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2006050102860"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4047247992978",
+   "nom": "Sirop d'agave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 500g 360ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4047247992978"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-2006050133741",
+   "nom": "Flocons d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2006050133741"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600046648",
+   "nom": "Soft Cheese Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600046648"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600326252",
+   "nom": "Bran Flakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600326252"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4068262049492",
+   "nom": "Riche en omega 3 doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4068262049492"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061459329834",
+   "nom": "Oat Milk (Barista Style)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061459329834"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600391977",
+   "nom": "Puglian Extra Virgin Oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600391977"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061461935283",
+   "nom": "Wholemeal Seeded Loaf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061461935283"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-26036106",
+   "nom": "Tortilla Chips Saveur Chili",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/26036106"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4068262068776",
+   "nom": "Huile d'olive vierge extra fruitée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4068262068776"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4068262049546",
+   "nom": "Lait D'avoine Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4068262049546"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-26006024",
+   "nom": "Lait demi-écrémé",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/26006024"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600202433",
+   "nom": "Multi-Grain Hoops",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 375g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600202433"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061464811218",
+   "nom": "Haferdrink ungesüßt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061464811218"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4068262057282",
+   "nom": "Jambon supérieur sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4068262057282"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600248752",
+   "nom": "Bite size wheat shreds",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600248752"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600072029",
+   "nom": "2 Stonebaked Baguettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600072029"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-26006000",
+   "nom": "Lait Demi écrémé Stérilisé UHT",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/26006000"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061458011440",
+   "nom": "Süßstofftabletten",
+   "assemblage": "D-51469 Bergisch Gladbach",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 72g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061458011440"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600441672",
+   "nom": "Cashew Nuts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600441672"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600565019",
+   "nom": "Pitted Dates",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600565019"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4068706616358",
+   "nom": "Pâte À Tartiner Aux Noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4068706616358"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-26067049",
+   "nom": "Yaourt à la grecque nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 4 * 150 g (600 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/26067049"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-2006050037223",
+   "nom": "Fromage Frais Nature À Tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2006050037223"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600165455",
+   "nom": "Tiger Bloomer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600165455"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061459823226",
+   "nom": "Protein granola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061459823226"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-2006050059706",
+   "nom": "Eau de source de Montagne (Source Roche des Écrins)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2006050059706"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061462872846",
+   "nom": "Natives Olivenöl Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 750ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061462872846"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4061463307743",
+   "nom": "Tomatenmark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4061463307743"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600190112",
+   "nom": "British unsalted butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600190112"
+  },
+  {
+   "id": "distribution-et-paiement-aldi-4088600266008",
+   "nom": "Greek style natural yoghurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4088600266008"
+  }
+ ]
+}

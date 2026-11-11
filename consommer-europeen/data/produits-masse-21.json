@@ -1,0 +1,3626 @@
+{
+ "distribution-et-paiement-cooperative-u": [
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000240947",
+   "nom": "Chouquette sucrée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000240947"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000267012",
+   "nom": "Tartelettes poire amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000267012"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000339511",
+   "nom": "Poulet fermier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 515 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000339511"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000339191",
+   "nom": "Pizza Norvégienne pâte fine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000339191"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000339474",
+   "nom": "Baguette Tradition 250g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000339474"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000282138",
+   "nom": "Flan coco décongelé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000282138"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000213286",
+   "nom": "Paris brest",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 2 ",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000213286"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3580282280019",
+   "nom": "Maïs croquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 285 gramme net égoutté",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3580282280019"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000262437",
+   "nom": "Tarte fine aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000262437"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3162780907751",
+   "nom": "Pain complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3162780907751"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000267197",
+   "nom": "Tartelette poire amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000267197"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000142203",
+   "nom": "Donut’s fourré caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000142203"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000144900",
+   "nom": "Tropezienne framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000144900"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000216812",
+   "nom": "Pain Boule Miche Froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000216812"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000349237",
+   "nom": "Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000349237"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000349800",
+   "nom": "Croissant pour beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000349800"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000237619",
+   "nom": "Brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000237619"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000236292",
+   "nom": "Baguette cereales U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000236292"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000379210",
+   "nom": "Baguette de maïs tournesol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 0,250 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000379210"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000293875",
+   "nom": "Wrap thon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000293875"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3289660000354",
+   "nom": "Bag\\'chaude",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3289660000354"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0250872809359",
+   "nom": "Saucisse Francfort",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0250872809359"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3656441476187",
+   "nom": "Confiture reine-claude",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 335 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3656441476187"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000119656",
+   "nom": "Croissant aux amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000119656"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000271873",
+   "nom": "Assortiment croissants et pains au chocolat pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 260g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000271873"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000247830",
+   "nom": "Donut sucre x2 décongelé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000247830"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000349930",
+   "nom": "Brioche Tressée Hyper U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000349930"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000130361",
+   "nom": "Brioche tressée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000130361"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000908427",
+   "nom": "Streusel maison pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000908427"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-14122262",
+   "nom": "eau fruité saveur fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1,50 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/14122262"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000140056",
+   "nom": "Bretzel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000140056"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000002851622",
+   "nom": "Pain campagne rond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000002851622"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202572037785",
+   "nom": "côté dé veau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 0 , 300k g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202572037785"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000200934",
+   "nom": "Baguette l'authentique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000200934"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000002891611",
+   "nom": "Amandine cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000002891611"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000186047",
+   "nom": "Flan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000186047"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3175432122617",
+   "nom": "lait bio 1/2 écrémé UHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175432122617"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000289601",
+   "nom": "Pain aux raisins U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 540 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000289601"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-09338801",
+   "nom": "petits pains grillés au blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 225g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/09338801"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-25629156",
+   "nom": "Pâte a tartiner noisette sans huile de palme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/25629156"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000908571",
+   "nom": "madeleine pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000908571"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600405017054",
+   "nom": "Beignets parfum chocolats-noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600405017054"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000151533",
+   "nom": "Croissants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151533"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000204550",
+   "nom": "batard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000204550"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000002850113",
+   "nom": "Baguette aux Graines de Pavot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000002850113"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256669447657",
+   "nom": "bonbons aux plantes sans sucre à l'extrait de stevia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256669447657"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2824666021845",
+   "nom": "Langres",
+   "assemblage": "52160 Chalancey",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 222 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2824666021845"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202877058454",
+   "nom": "filet mignon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 0.586",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202877058454"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0207410017455",
+   "nom": "Épaule porc rouelle A/OS Rôtir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207410017455"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-14223693",
+   "nom": "muesli fruit rouge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/14223693"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2886854017450",
+   "nom": "Le Saint mt alpes lt cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 0,208 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2886854017450"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000109046",
+   "nom": "Torn Din 933 M-4 x 10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000109046"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000271934",
+   "nom": "Ass.Mini Vennois.B.Fin U x9",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000271934"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000913322",
+   "nom": "Pain aux céréales LS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000913322"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000359557",
+   "nom": "Plateau Maki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000359557"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2824516040736",
+   "nom": "Tomette chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 260g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2824516040736"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000255958",
+   "nom": "Muffin triple chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000255958"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000930961",
+   "nom": "baguette de campagne",
+   "assemblage": "eschau",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000930961"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-05395163",
+   "nom": "Le carré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 230g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05395163"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2865524018560",
+   "nom": "Dinde élevage respectueux",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 240g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2865524018560"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2273693022897",
+   "nom": "jambon superieur avec couenne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2273693022897"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2273693023092",
+   "nom": "Jambon superieur avec couenne 4 tranches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2273693023092"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0205853005053",
+   "nom": "yaourt au lait entier nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205853005053"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-9287531322677",
+   "nom": "Yaourt à la grecque nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9287531322677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3287390074928",
+   "nom": "Tresse poulet à la provençale ! #",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3287390074928"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-32562210944428",
+   "nom": "petits pains grillés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32562210944428"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256228427403",
+   "nom": "Filet de cabillaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256228427403"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000283166",
+   "nom": "Coulant chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000283166"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0244211076885",
+   "nom": "Blanc de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0244211076885"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-4296050025483",
+   "nom": "Pain pavé. rustique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4296050025483"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3289668412104",
+   "nom": "Pain de Tradition Française",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3289668412104"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3907905622658",
+   "nom": "pulpe de tomates AB",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 425 ml 400g poids net",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3907905622658"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256229477711",
+   "nom": "Skyr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256229477711"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000277714",
+   "nom": "Flan U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000277714"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000932477",
+   "nom": "Bretzels",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000932477"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-99751021310345",
+   "nom": "pain batard cereales",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/99751021310345"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000938622",
+   "nom": "Pain aux noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000938622"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000359519",
+   "nom": "CROUTONS DE PAINS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 200",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000359519"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2218627488677",
+   "nom": "Céréales fourrées au chocolat noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 375 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2218627488677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000595016",
+   "nom": "Pain complet meunier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000595016"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0207953007227",
+   "nom": "baguette vital grains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207953007227"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-87276916",
+   "nom": "Grandes tranches pain de mie pain complet super u",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87276916"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0204151016990",
+   "nom": "Côtes de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 0398",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204151016990"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0206939005523",
+   "nom": "Lait de brebis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206939005523"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0253068025328",
+   "nom": "Cuisses de poulet au Colombo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 580grs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0253068025328"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000904610",
+   "nom": "Ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000904610"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000911915",
+   "nom": "Jus d orange frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000911915"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2865520023612",
+   "nom": "Filets de dinde reconstitués en tournedos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2865520023612"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2871724016923",
+   "nom": "Chiffonnade de viande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2871724016923"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-63025446",
+   "nom": "Chocolat fourré mousse chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/63025446"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-8481781788677",
+   "nom": "Figues séchées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 400 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8481781788677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000116662",
+   "nom": "Croissant cacao/noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116662"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2887939015941",
+   "nom": "terrine campagne HF U Saveurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887939015941"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0207989003286",
+   "nom": "Apèro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · ?",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207989003286"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0206243006360",
+   "nom": "Champignons à la grecque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206243006360"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202704016862",
+   "nom": "Brie meaux aop lc 21% 1/2 aff.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,198kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202704016862"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0206353025398",
+   "nom": "Mimolette extra vieille 16 mois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206353025398"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256811114604",
+   "nom": "Château de collongue luberon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 750ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256811114604"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2802676017652",
+   "nom": "Piémontaise traditionnelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 340 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2802676017652"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2816907009842",
+   "nom": "Banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,856kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2816907009842"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0204979005640",
+   "nom": "Hareng",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204979005640"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3368956981680",
+   "nom": "Olives farcies citron tajine U SAVEURS, bocal de",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3368956981680"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3700206745107",
+   "nom": "Filet a chinion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700206745107"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0211000051828",
+   "nom": "viande bovine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1,328kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211000051828"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2884605037139",
+   "nom": "Grignotons parmesan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2884605037139"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-05033478",
+   "nom": "The glace peche super u",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05033478"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0204996009386",
+   "nom": "Pain Paysan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204996009386"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000188683",
+   "nom": "Tarte caramel noisette decongelee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000188683"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000225500",
+   "nom": "Millefeuille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000225500"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000902760",
+   "nom": "Pain de campagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000902760"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000141572",
+   "nom": "Mini beignet pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000141572"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000910437",
+   "nom": "1/2 baguettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000910437"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000908908",
+   "nom": "Kougelhopff",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000908908"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000217024",
+   "nom": "Zig zag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000217024"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3636224310075",
+   "nom": "Mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3636224310075"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000271156",
+   "nom": "Pain choco PB selection U ×10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000271156"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000285047",
+   "nom": "Flan chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000285047"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000349794",
+   "nom": "Donut Lotus Speculos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000349794"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0203934008337",
+   "nom": "Pain Bucheron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0203934008337"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0203901027750",
+   "nom": "comté extra 6/8 mois AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0203901027750"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000904122",
+   "nom": "Galette briochée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000904122"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-08967523",
+   "nom": "viande de grisons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/08967523"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000268538",
+   "nom": "Flan au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 580 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000268538"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000248257",
+   "nom": "Tarte Fraises 6 parts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000248257"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2865524018300",
+   "nom": "Escalope de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2865524018300"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000369761",
+   "nom": "Pain au mais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000369761"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0129224170150",
+   "nom": "Steaks hachés pur boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0129224170150"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-7731717122671",
+   "nom": "Noix de cajou grillées et salées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7731717122671"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2802037031815",
+   "nom": "Rôti Rose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2802037031815"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-4202111286311",
+   "nom": "Jambon supérieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4202111286311"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2816920024808",
+   "nom": "Brie cœur de lion 30%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2816920024808"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-25871807",
+   "nom": "Tortilla chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/25871807"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2804803023093",
+   "nom": "Tomme de montagne  27% matière grasse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2804803023093"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2822959023750",
+   "nom": "emmental grand pavois 32",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2822959023750"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2885977014698",
+   "nom": "Emmental est central",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2885977014698"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2885073053720",
+   "nom": "Paupiettes de veau sauce champignon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2885073053720"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2256210758752",
+   "nom": "Legumes Wok",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2256210758752"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0211000012201",
+   "nom": "Escalope de veau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211000012201"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000206875",
+   "nom": "Tartelettes chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000206875"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-9276124144130",
+   "nom": "Vinaigre de vin rouge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9276124144130"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-92638617",
+   "nom": "Betterave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/92638617"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2871753014761",
+   "nom": "Terrine de campagne à l’ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2871753014761"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2256211752766",
+   "nom": "Rôti de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2256211752766"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000263281",
+   "nom": "Tartes poires crumble",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000263281"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600174022242",
+   "nom": "Saucisson Le Sisteroun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600174022242"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2887117084097",
+   "nom": "Rougail de saucisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887117084097"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2615778005775",
+   "nom": "Carotte / betteraves rappe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2615778005775"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2894056014375",
+   "nom": "Jambon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2894056014375"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3884219024209",
+   "nom": "Tome des Bauges AOP LC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3884219024209"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256222630075",
+   "nom": "huile de noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256222630075"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000199610",
+   "nom": "Sandwich jambon beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000199610"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2804286021388",
+   "nom": "Scamorza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2804286021388"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0149111401556",
+   "nom": "Compote pommes mangues bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0149111401556"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3258223311206",
+   "nom": "Boisson à l’avoîe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3258223311206"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-6521292122651",
+   "nom": "Huille vierge de lin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6521292122651"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-5050903221618",
+   "nom": "Vinaigre bio balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5050903221618"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000243672",
+   "nom": "NATURALNA WODA MINERALNA NAŁECZOWIANKA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000243672"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000273747",
+   "nom": "Boule rustique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000273747"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0254181612617",
+   "nom": "Camembert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0254181612617"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0150100517172",
+   "nom": "Camembert bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0150100517172"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000297019",
+   "nom": "Voila",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000297019"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000283401",
+   "nom": "Fiez poulet fromage de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000283401"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2625042028140",
+   "nom": "Andouillette grill",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2625042028140"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-1114173181677",
+   "nom": "Emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1114173181677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202830018761",
+   "nom": "Bleu des Causses aop",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202830018761"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2615575020667",
+   "nom": "Gratin dauphinois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2615575020667"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202835024347",
+   "nom": "Gorgonzola aop cremoso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202835024347"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2816944025126",
+   "nom": "Tête. De moine  AOP. Suisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2816944025126"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0235160034705",
+   "nom": "Farce de boeuf et de porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0235160034705"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000234359",
+   "nom": "Cheesecake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000234359"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2884494024074",
+   "nom": "Morbier aop fruité affiné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2884494024074"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2248210148879",
+   "nom": "Pavé fibres& oméga",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2248210148879"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0271011014120",
+   "nom": "Jambon supérieur sans couenne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0271011014120"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600135016921",
+   "nom": "Saucisse fraiche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600135016921"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2661777035688",
+   "nom": "Gouda pesto pignon pin 30%MG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2661777035688"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2892064029268",
+   "nom": "Raclette past.ail des ours 25%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2892064029268"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2802677026509",
+   "nom": "Piémontaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2802677026509"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0205281013385",
+   "nom": "Duo carottes céleri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205281013385"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2891210048214",
+   "nom": "morbier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891210048214"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202202015022",
+   "nom": "Steak à griller",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202202015022"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2625025022837",
+   "nom": "Lasagne chèvre épinards",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2625025022837"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2252582019095",
+   "nom": "Cocktail de crevette et surimi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2252582019095"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2884833028930",
+   "nom": "Comté affiné 18 mois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2884833028930"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-7235050422677",
+   "nom": "Limonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7235050422677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000290355",
+   "nom": "Cookie aux noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000290355"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600390028530",
+   "nom": "Gouda truffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600390028530"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0205921006562",
+   "nom": "Baguette céréalière walokorn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205921006562"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-36620992013234",
+   "nom": "1er prix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/36620992013234"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000294209",
+   "nom": "Donut fourré au lotis speculoos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000294209"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3216221557187",
+   "nom": "pate à tartiner noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3216221557187"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000289250",
+   "nom": "Donut lotus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000289250"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2893145058184",
+   "nom": "Lanza truffe ete 28,4% LP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2893145058184"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2606467065019",
+   "nom": "Lingot saumon fumé artisanal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2606467065019"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2825347030903",
+   "nom": "Brezain  fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2825347030903"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000359793",
+   "nom": "Ficelle approche olives x2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000359793"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-6566187751882",
+   "nom": "Hamburger  3 graines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6566187751882"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0253074019229",
+   "nom": "Cuisse de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0253074019229"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000914732",
+   "nom": "Framboisier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000914732"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0850777044152",
+   "nom": "andouillette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850777044152"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0509001660065",
+   "nom": "Noix de cajou sans sel ajouté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0509001660065"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0550007817410",
+   "nom": "Tortellini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0550007817410"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256220663311",
+   "nom": "Quinoa boulgour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256220663311"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2865517023816",
+   "nom": "Cuisse de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2865517023816"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0205938025914",
+   "nom": "P'tit beignet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205938025914"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2212744121677",
+   "nom": "Pâte à tartiner aux noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2212744121677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0206958022563",
+   "nom": "Milanaise de veau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206958022563"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3997429255623",
+   "nom": "Granola fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3997429255623"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0386320034339",
+   "nom": "Muesli multigrains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0386320034339"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2887665017387",
+   "nom": "Anneaux encornets géant décongeles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2887665017387"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0110111216211",
+   "nom": "Compote pruneaux sans sucre ajoutée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0110111216211"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0207906046907",
+   "nom": "Crevettes 20/30",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207906046907"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256225436071",
+   "nom": "Pain au seigle tranche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256225436071"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-5256221096293",
+   "nom": "AGRUMES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5256221096293"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000282053",
+   "nom": "Flan coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000282053"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2499874016336",
+   "nom": "Jambon de Vendée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2499874016336"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-6560157256742",
+   "nom": "Muesli croustillant choc noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6560157256742"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0400000324630",
+   "nom": "Muesli croustillant 3 chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0400000324630"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000114748",
+   "nom": "PAIN PAVE DE TRADITION FRANCAISE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000114748"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000919010",
+   "nom": "Allumettes du papy de balme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000919010"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256228805522",
+   "nom": "Sainte Maure de Touraine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256228805522"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0253077023483",
+   "nom": "Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0253077023483"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2606436028342",
+   "nom": "Aubergines farcies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2606436028342"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000303123",
+   "nom": "Assortiment 7 mini pains boules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000303123"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2871750037527",
+   "nom": "Saucisse sèche  à la perche de montagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2871750037527"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2606436048159",
+   "nom": "Saumon fumé maison",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2606436048159"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-7870275725259",
+   "nom": "Toast blé complet  et  graines  Super U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7870275725259"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-42191032",
+   "nom": "pain choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42191032"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000205014",
+   "nom": "Pain aux lardons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000205014"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3760190934345",
+   "nom": "Crevette sauce aigre douce et nouille  sautées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760190934345"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000349374",
+   "nom": "Flan nature x2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000349374"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2884840028145",
+   "nom": "aop au lait cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2884840028145"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000200170",
+   "nom": "Sandwich complet jambon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000200170"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202704010891",
+   "nom": "Brie de meaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202704010891"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000379975",
+   "nom": "Pain au chocolat super U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000379975"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3606760064879",
+   "nom": "Sucrines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3606760064879"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000305639",
+   "nom": "BOOM. FRAI. MUR. AGR. X2 DECONGELE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000305639"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0254045190770",
+   "nom": "Le complet Gourmand",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0254045190770"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-16398035",
+   "nom": "Feuilleté glacé fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16398035"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2891255018838",
+   "nom": "FOURME D\\'AMBERT AOP  LP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891255018838"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0204958018371",
+   "nom": "Fougasse poulet curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204958018371"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2891252012464",
+   "nom": "bleu d auvergne AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891252012464"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3593282000068",
+   "nom": "variete Agata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3593282000068"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2886172044084",
+   "nom": "briar savarin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2886172044084"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2822145033457",
+   "nom": "Crevette cuite 30/50",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2822145033457"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000272214",
+   "nom": "Tarte Abricot creme amande X2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000272214"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000246376",
+   "nom": "Tartelettes aux framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000246376"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0208625010507",
+   "nom": "Pain boule rustique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0208625010507"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0203906019484",
+   "nom": "Baguette tradition 100%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0203906019484"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3219510304509",
+   "nom": "Wrap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3219510304509"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2884721024013",
+   "nom": "tomme des bauges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2884721024013"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2281864029712",
+   "nom": "MORCEAUX DE POULET CHOISIS MEXICAIN",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2281864029712"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000202266",
+   "nom": "Demi-baguette pavot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000202266"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600101018690",
+   "nom": "Cantal jeune AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600101018690"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202249016600",
+   "nom": "Cuisse de poulet fermier rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202249016600"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2672997014568",
+   "nom": "Pomme de terre persillée rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2672997014568"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3701292641915",
+   "nom": "La veggie box 12 pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3701292641915"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-8305959428021",
+   "nom": "Crème de vinaigre balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8305959428021"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256222975771",
+   "nom": "Petits pois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256222975771"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2893636037001",
+   "nom": "Émincé de porc curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2893636037001"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000229379",
+   "nom": "Gland kirsch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000229379"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2606353012790",
+   "nom": "Pain aux figues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2606353012790"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000129495",
+   "nom": "Pain pavé coupiagaise abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000129495"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000379050",
+   "nom": "Brioche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000379050"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2890525022049",
+   "nom": "Emmentalser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890525022049"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202708027031",
+   "nom": "Vieux pané",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202708027031"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2618614014696",
+   "nom": "Petit pois carotte et lardons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2618614014696"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2278680068810",
+   "nom": "Poulet entier rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2278680068810"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3000000308999",
+   "nom": "tarte aux abricots",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3000000308999"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-78732322",
+   "nom": "Beurre demi sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/78732322"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256442223504",
+   "nom": "Yaourt bifidus nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256442223504"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0209649095907",
+   "nom": "Raie nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209649095907"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256223377457",
+   "nom": "Boisson soja nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256223377457"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000199689",
+   "nom": "Sandwich complet thon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000199689"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000216775",
+   "nom": "Petit pain froment long",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000216775"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2648821045268",
+   "nom": "couronne briochée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2648821045268"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0235164024207",
+   "nom": "Grosse saucisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0235164024207"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2893450025451",
+   "nom": "Grana Padano AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2893450025451"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0090798136913",
+   "nom": "Bâtard nordique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0090798136913"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-6958238300338",
+   "nom": "Thon listao entier à l’huile d’olive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6958238300338"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0204919035683",
+   "nom": "Brioche de. Nanterre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204919035683"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0652364191353",
+   "nom": "Pâte feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0652364191353"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600208028349",
+   "nom": "Saucisse gourmande val",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600208028349"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3721111111610",
+   "nom": "Coquillette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3721111111610"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2884841028014",
+   "nom": "Brie de Meaux AOP USAU LT cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2884841028014"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000303215",
+   "nom": "Pizza camembert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000303215"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3760142803019",
+   "nom": "amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760142803019"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2876518031298",
+   "nom": "Abondance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2876518031298"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2004800210360",
+   "nom": "Grillés aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2004800210360"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0760078602659",
+   "nom": "Petit pois carotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0760078602659"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0369905663940",
+   "nom": "Copeaux Parmigiano Reggiano AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0369905663940"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0210071034389",
+   "nom": "Hamburger brioché",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0210071034389"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0654634059806",
+   "nom": "Mini samoussas bœuf et curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0654634059806"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3368959428311",
+   "nom": "Vinaigre balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3368959428311"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0250054646994",
+   "nom": "Hamburger pain 100% moelleux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0250054646994"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000307909",
+   "nom": "Donuts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000307909"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0630484248423",
+   "nom": "Fromage de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0630484248423"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-7212171734018",
+   "nom": "Gnocchi à poêler",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7212171734018"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2891758029126",
+   "nom": "Cantal Aop jeune au lait cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2891758029126"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600371045266",
+   "nom": "Spring rolls thon cuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600371045266"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0235430029523",
+   "nom": "Betteraves rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0235430029523"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0207912062052",
+   "nom": "Cordon bleu campagnard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207912062052"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0203943011151",
+   "nom": "Pain de maïs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0203943011151"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256227755545",
+   "nom": "Pancakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256227755545"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2618594011944",
+   "nom": "Carottes haricots verts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2618594011944"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2290602016532",
+   "nom": "Riz cantonais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2290602016532"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256223100103",
+   "nom": "Ice tea Super U sans sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256223100103"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0650360080435",
+   "nom": "Fromage  blanc nature 3.2%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0650360080435"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0207955032678",
+   "nom": "Merguez",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0207955032678"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0833332325639",
+   "nom": "Fromage frais aux fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0833332325639"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-6236270326326",
+   "nom": "Viande des grisons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6236270326326"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2253048013718",
+   "nom": "Piémontaise au jambon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2253048013718"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-8134551722677",
+   "nom": "Œufs frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8134551722677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0254875027833",
+   "nom": "Trio de Poivrons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0254875027833"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-5257633096237",
+   "nom": "Vrap Poulet rôti caesar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5257633096237"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2893382030707",
+   "nom": "Pâtes bolognaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2893382030707"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3590631788677",
+   "nom": "Pain de seigle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3590631788677"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2429850008529",
+   "nom": "pain pavé céréales /amandes/noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2429850008529"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2618614018304",
+   "nom": "Petit pois et lardons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2618614018304"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0206933034703",
+   "nom": "Tamie GM",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206933034703"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2892660028295",
+   "nom": "Gorgonzola mascarpone 39 mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2892660028295"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-5719903474089",
+   "nom": "Salade italienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5719903474089"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2245348038835",
+   "nom": "Aiguillettes de poulet     LE GAULOIS    Volaille 100% francaise    Nutri score A",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2245348038835"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2600319020331",
+   "nom": "brioche aux raisins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2600319020331"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3256222823850",
+   "nom": "Saumon des fjords de norvège",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256222823850"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2606856012469",
+   "nom": "pain épautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2606856012469"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0652365355280",
+   "nom": "Gouda tranches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0652365355280"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2279044019813",
+   "nom": "Riz niçois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2279044019813"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2894186051103",
+   "nom": "Cuisse de poulet à l’indienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2894186051103"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0206103033192",
+   "nom": "Knack superieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206103033192"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000299716",
+   "nom": "Sandwich comté salade jambon sec",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000299716"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-9257640037861",
+   "nom": "Pâtes à pizza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9257640037861"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0203557038247",
+   "nom": "Bavette d’aloyau à griller",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0203557038247"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202752019688",
+   "nom": "morbier AOC LAIT CRU",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202752019688"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0202752019686",
+   "nom": "morbier AOP lait cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202752019686"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000197746",
+   "nom": "Croque monsieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000197746"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-9595349622651",
+   "nom": "Kattentongen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9595349622651"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2893068029322",
+   "nom": "Comté AOP LC 8 mois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2893068029322"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0203135017657",
+   "nom": "Accra de morue créole",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0203135017657"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-6645734495933",
+   "nom": "Saint nectaire AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6645734495933"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0209808006102",
+   "nom": "Chouchou",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209808006102"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0253071056227",
+   "nom": "Poulet super u",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0253071056227"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2661377018692",
+   "nom": "Cantal AOP Entre Deux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2661377018692"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000909066",
+   "nom": "pain complet 400g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000909066"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2823344018375",
+   "nom": "tomme pyrenees IGP lait de vache",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2823344018375"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-9005448944344",
+   "nom": "Légumes vapeur s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9005448944344"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000002851080",
+   "nom": "Baguette Campagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000002851080"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000103778",
+   "nom": "Petit pain boule campagne X5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000103778"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000281261",
+   "nom": "Pain à Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000281261"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000902050",
+   "nom": "Baguette tradition Super U",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000902050"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3089241619759",
+   "nom": "Baguette maïs et graines de tournesole",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3089241619759"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-3146220360542",
+   "nom": "croûtons saveur ail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 180",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3146220360542"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000904573",
+   "nom": "Pain Pistolet x5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000904573"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0250552374986",
+   "nom": "Skyr nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0250552374986"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2635583012140",
+   "nom": "Tête de moine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2635583012140"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2892660019557",
+   "nom": "Gorgonzola mascarpone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2892660019557"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000229430",
+   "nom": "Gland panache",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000229430"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2248792001548",
+   "nom": "Champignons de paris à la grecque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2248792001548"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000308395",
+   "nom": "Muffin choko",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000308395"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2000000127293",
+   "nom": "Grillé aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000127293"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-9053896000358",
+   "nom": "Muesli u",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9053896000358"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0959008817410",
+   "nom": "Pâte ricoctta épinards",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0959008817410"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-00097904",
+   "nom": "Maxi Sandwich légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00097904"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-02016409",
+   "nom": "Trio de chou conte jambon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02016409"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-02016421",
+   "nom": "Cocktail de crevettes et surimi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02016421"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-02019741",
+   "nom": "Salade bowl. Falafel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02019741"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-02020796",
+   "nom": "Salade traiteur conchiglie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02020796"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-02020818",
+   "nom": "Duo ananas et carotte au surimi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02020818"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-00261047",
+   "nom": "Beurre tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00261047"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0256220661447",
+   "nom": "ananas pamplemousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0256220661447"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0256221411003",
+   "nom": "cornichon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0256221411003"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0256222254203",
+   "nom": "yaourt bio brasse nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0256222254203"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0256224332336",
+   "nom": "emmental rapé français 70 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0256224332336"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0256225040636",
+   "nom": "Montcalm",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0256225040636"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0000325622197",
+   "nom": "pain grillé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0000325622197"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0003256223377",
+   "nom": "Boisson à l avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0003256223377"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0032562208706",
+   "nom": "vin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0032562208706"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0032562220100",
+   "nom": "confiture abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0032562220100"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0032562233774",
+   "nom": "U bio soja cuisine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0032562233774"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0325622646886",
+   "nom": "beurre doux bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0325622646886"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-0368954301114",
+   "nom": "camembert de normandie au lait cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0368954301114"
+  },
+  {
+   "id": "distribution-et-paiement-cooperative-u-2816074030373",
+   "nom": "Laguiole AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2816074030373"
+  }
+ ],
+ "distribution-et-paiement-schwarz-gruppe": [
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489851752",
+   "nom": "Lidl High Protein Greek Yog",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489851752"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20369866",
+   "nom": "PUR JUS MULTIFRUITS 100% Pressés",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20369866"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20275457",
+   "nom": "Thon entier au naturel",
+   "assemblage": "equateur",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 2 x 195 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20275457"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489136705",
+   "nom": "Œufs bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 10 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489136705"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619092037",
+   "nom": "Mozzarella geraspelt - râpée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619092037"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489127918",
+   "nom": "Lord Nelson Infusion Elimination & Bien-Etre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489127918"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489594536",
+   "nom": "Smooth peanut butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489594536"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619082953",
+   "nom": "Sondey CROCK BISCUITS GOÛT VANILLE AVEC 46% FOURRA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 500 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619082953"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489114963",
+   "nom": "Skyr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489114963"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489729419",
+   "nom": "Riz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489729419"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20301415",
+   "nom": "Crème pudding milk chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20301415"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20879709",
+   "nom": "Tortilla aux oignons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20879709"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489228516",
+   "nom": "Kamille Kräutertee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 15pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489228516"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-20456719",
+   "nom": "Bruschetta con olio d'oliva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20456719"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489116820",
+   "nom": "Spooky Jelly Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489116820"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489150374",
+   "nom": "Erdnusskerne  geröstet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489150374"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-8412600047538",
+   "nom": "Takis Fuego",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8412600047538"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4056489019473",
+   "nom": "Kuskus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4056489019473"
+  },
+  {
+   "id": "distribution-et-paiement-schwarz-gruppe-4335619121928",
+   "nom": "Wiltshire cured ham slices",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4335619121928"
+  }
+ ]
+}

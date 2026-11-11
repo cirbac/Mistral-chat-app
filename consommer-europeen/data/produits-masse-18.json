@@ -1,0 +1,3858 @@
+{
+ "distribution-paiement-leclerc": [
+  {
+   "id": "distribution-paiement-leclerc-3564706604360",
+   "nom": "Muesli Chocolat-Noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706604360"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707117203",
+   "nom": "Lait Amande calcium",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707117203"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706624467",
+   "nom": "Flocon d'avoine",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706624467"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707142700",
+   "nom": "Chocolat noir dégustation 85% cacao bio",
+   "assemblage": "Fabriqué en France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707142700"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707105675",
+   "nom": "Boisson avoine",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707105675"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707101349",
+   "nom": "sirop d'agave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707101349"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706612792",
+   "nom": "Muesli 4 Noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706612792"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700748435",
+   "nom": "Poudre pur cacao non sucré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700748435"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700371107",
+   "nom": "Eau de source de montagne Laqueuille",
+   "assemblage": "63820",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700371107"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700582633",
+   "nom": "Petits pains grillés blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700582633"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707095723",
+   "nom": "Boisson au soja nature bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707095723"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707186315",
+   "nom": "Muesli croustillant 3 noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707186315"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700014660",
+   "nom": "Emmental râpé",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700014660"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000031",
+   "nom": "Huile d'Olive Vierge Extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000031"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707116169",
+   "nom": "Flocons d'Avoine",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707116169"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707148450",
+   "nom": "Pain de mie au ble complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707148450"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700659076",
+   "nom": "Cassonade pure canne",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700659076"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005835",
+   "nom": "Lait demi-écrémé",
+   "assemblage": "Allier",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005835"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707081023",
+   "nom": "Ratatouille à la provençale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707081023"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707082549",
+   "nom": "Moutarde de Dijon bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707082549"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706604339",
+   "nom": "Grainéa granola noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706604339"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707186278",
+   "nom": "Muesli croustillant tout chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707186278"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700309575",
+   "nom": "Bâton surimi",
+   "assemblage": "fleury-michon-traiteur-fmt-filiale-fleury-michon-solution-repas-parc-d-activite-polaris-85110-chantonnay",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700309575"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700747322",
+   "nom": "Filets maquereau naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 93 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700747322"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707166980",
+   "nom": "Biscotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707166980"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700010846",
+   "nom": "Chocolat dessert pâtissier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700010846"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700444207",
+   "nom": "Riz complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700444207"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700596968",
+   "nom": "Pain de mie grandes tranches complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700596968"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707084062",
+   "nom": "Pain grillé au blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 250 g (x12)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707084062"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707002158",
+   "nom": "Biscottes complètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707002158"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700743959",
+   "nom": "Pain au seigle complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700743959"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700288450",
+   "nom": "Pain de mie Grandes tranches 7 Céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700288450"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706739031",
+   "nom": "Pétales de céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 750gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706739031"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700883563",
+   "nom": "Pain de mie seigle et céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700883563"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707128032",
+   "nom": "Poudre cacaotée bio 32% de cacao Max Havelaar",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707128032"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707129732",
+   "nom": "Pesto verde",
+   "assemblage": "94859 Ivry-sur-seine cedex",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707129732"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000109",
+   "nom": "Torsades complètes",
+   "assemblage": "belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000109"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700019252",
+   "nom": "10 Pains au lait au levain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 350 g (x10)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700019252"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700137826",
+   "nom": "Yaourt à la grecque nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 4 x 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700137826"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700009666",
+   "nom": "Biscottes sans sel x 34",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700009666"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707001236",
+   "nom": "Galettes riz complet",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707001236"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3661112501792",
+   "nom": "Jambon supérieur Sans nitrite",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661112501792"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700001226",
+   "nom": "Lentilles vertes",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700001226"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707105637",
+   "nom": "Lait amande intense bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707105637"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707081825",
+   "nom": "Biscuits sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707081825"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700253434",
+   "nom": "Biscottes 6 cereales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700253434"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700121511",
+   "nom": "Petits Pains Grillés Au blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700121511"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700537404",
+   "nom": "Cacahuètes non salées",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700537404"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707184250",
+   "nom": "Boisson noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707184250"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005231",
+   "nom": "Pois chiches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 265 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005231"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700868546",
+   "nom": "Boisson d'Avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700868546"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707117395",
+   "nom": "Vinaigre de cidre bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707117395"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707087568",
+   "nom": "Yaourts nature lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707087568"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700291955",
+   "nom": "Beurre tendre doux 82% mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700291955"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707140768",
+   "nom": "Pâte à tartiner aux noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707140768"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700674031",
+   "nom": "Torsades au blé complet",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700674031"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700486818",
+   "nom": "Fromage de chèvre frais rond 12 % Mat. Gr.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700486818"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700855218",
+   "nom": "Compote de pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 710 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700855218"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700074633",
+   "nom": "Tartines craquantes froment",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700074633"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700438244",
+   "nom": "Déli Matin allégé de 30% en sucres aux pépites de chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700438244"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706596788",
+   "nom": "Comté",
+   "assemblage": "Franche-Comté",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706596788"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707084055",
+   "nom": "Biscottes germe de blé x 34",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707084055"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700841150",
+   "nom": "Falafel fève coriandre et menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700841150"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706604353",
+   "nom": "Granola chocolat noir amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706604353"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700720974",
+   "nom": "Crème légère fluide UHT 12 % Mat. Gr.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 3 x 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700720974"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707179812",
+   "nom": "Muesli croustillant chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707179812"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707090636",
+   "nom": "Vinaigre balsamique de Modène bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707090636"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700435380",
+   "nom": "Houmous Purée de pois chiches aux graines de sesames",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700435380"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700582596",
+   "nom": "Pains grillés  Blé complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700582596"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700740699",
+   "nom": "Yaourts à la Grecque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 8 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700740699"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707111546",
+   "nom": "Crackers Épeautres 3 Graines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707111546"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707142977",
+   "nom": "Boisson Épeautre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707142977"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707079884",
+   "nom": "100% pur jus Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707079884"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700010563",
+   "nom": "Moutarde de Dijon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 440 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700010563"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700530665",
+   "nom": "Tables du Mondes - Tortillas chips original",
+   "assemblage": "België",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700530665"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707104302",
+   "nom": "Barres céréales Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707104302"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700019276",
+   "nom": "Pains au chocolat x 8",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700019276"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707099479",
+   "nom": "Confiture extra fraise bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707099479"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700634981",
+   "nom": "Tortillas chips nature",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700634981"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706617520",
+   "nom": "Barre aux 4 céréales et figue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 126 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706617520"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700730942",
+   "nom": "Chicorée nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700730942"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706604346",
+   "nom": "Granola baies de goji cranberries cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706604346"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700014677",
+   "nom": "Emmental râpé 29% Mat. Gr",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700014677"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000895",
+   "nom": "Beurre doux bio 82% mg",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000895"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707095730",
+   "nom": "Lait soja vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707095730"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706517073",
+   "nom": "Filets de maquereaux grillés au naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 97 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706517073"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707119221",
+   "nom": "Crackers Emmental Graines de Courge",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707119221"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707127837",
+   "nom": "Huile d'olive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707127837"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700597583",
+   "nom": "Lait Facile à Digérer",
+   "assemblage": "Candia (Filiale Sodiaal International) - 1040 Route Nationale - 59400 Awoingt",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700597583"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700494493",
+   "nom": "Jafaden",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700494493"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706580732",
+   "nom": "Amande Sans Sucres Ajoutés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706580732"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700351390",
+   "nom": "Lait de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700351390"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700868553",
+   "nom": "Boisson à la noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700868553"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707091053",
+   "nom": "Bouillon de légumes aux aromates déshydraté x 8",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707091053"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707104296",
+   "nom": "Barres céréales Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707104296"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707090773",
+   "nom": "Muesli floconneux fruits secs Raisins figues abricots graines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707090773"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707100427",
+   "nom": "Chocolat noir dessert bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707100427"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700252147",
+   "nom": "Olives vertes dénoyautées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700252147"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707129879",
+   "nom": "Pain complet au seigle bio",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707129879"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707124973",
+   "nom": "Moutarde bio à l'ancienne",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707124973"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707093590",
+   "nom": "Petits pains grillés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707093590"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700606865",
+   "nom": "Bûche de chèvre fondante",
+   "assemblage": "Ivry-sur-Seine",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700606865"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707084802",
+   "nom": "Riz Basmati Bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707084802"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700340721",
+   "nom": "Emmental français",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700340721"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707999625",
+   "nom": "Pain épice au miel",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707999625"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007860",
+   "nom": "Fromage frais nature 3,1%",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 8 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007860"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700014516",
+   "nom": "Beurre de bretagne doux",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700014516"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707121118",
+   "nom": "Purée de fruits pomme sans sucres ajoutés bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 625 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707121118"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707091701",
+   "nom": "Galettes de blé noir x4",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707091701"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700126790",
+   "nom": "Eau Minérale Naturelle des Alpes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700126790"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700527320",
+   "nom": "Chips paysannes nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700527320"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700582657",
+   "nom": "Tartines les croustillants céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700582657"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700459218",
+   "nom": "Filets de maquereaux tomate-basilic",
+   "assemblage": "Delpierre-Mer et Tradition - DMT (Filiale Continentale Nutrition) - 16 Boulevard de l'Europe - Parc d'Activités de Landacres - 62360 Hesdin-l'Abbé",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 169 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700459218"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700438251",
+   "nom": "Déli matin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700438251"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700382158",
+   "nom": "Vinaigre Balsamique de Modène",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700382158"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700044643",
+   "nom": "Pâte feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700044643"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007440",
+   "nom": "Fromage blanc au lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007440"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700391914",
+   "nom": "Tortellini Ricotta Epinards aux oeufs frais",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700391914"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707091749",
+   "nom": "Madeleines coquilles bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707091749"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700551622",
+   "nom": "Déli Matin Miel & Pépites de Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700551622"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700841112",
+   "nom": "Nuggets Végétariens",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700841112"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707143226",
+   "nom": "Petits pains grillés au froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707143226"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000055",
+   "nom": "Farine de blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000055"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005026",
+   "nom": "Flageolets verts extra fins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 265 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005026"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700549711",
+   "nom": "Ricotta 11% Mat. Gr.",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700549711"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005101",
+   "nom": "Lentilles",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 530 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005101"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700668740",
+   "nom": "Déli Matin Multi-Céréales",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700668740"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700291634",
+   "nom": "Crème légère UHT 18% semi-épaisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 3 x 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700291634"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700000656",
+   "nom": "Le Palet Breton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700000656"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700582695",
+   "nom": "Petits Pains Grillés Froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700582695"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700019313",
+   "nom": "Brioche tranchée nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700019313"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707082303",
+   "nom": "Miel liquide",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707082303"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700047453",
+   "nom": "Yaourt Nature",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 4 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700047453"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700014509",
+   "nom": "Beurre de Bretagne demi sel",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700014509"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700000649",
+   "nom": "La galette bretonne pur beurre",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700000649"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707149648",
+   "nom": "Bouillon saveur volaille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707149648"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706617506",
+   "nom": "Grainéa chocolat au 5 céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 126g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706617506"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706561885",
+   "nom": "Amandes grillees",
+   "assemblage": "Conditionné en France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706561885"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707108089",
+   "nom": "Bio village - Miel de Fleurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707108089"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700001042",
+   "nom": "Huile dolives",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700001042"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007341",
+   "nom": "Yaourts natures",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 16 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007341"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700015261",
+   "nom": "Grana Padano",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700015261"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700015278",
+   "nom": "Mozzarella les croisés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700015278"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700202623",
+   "nom": "Fromage frais nature au lait demi-écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 12 x 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700202623"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706617483",
+   "nom": "Abricot 5 céréales",
+   "assemblage": "Non Union Eruopéenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706617483"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700323496",
+   "nom": "Filets de Maquereaux moutarde de Dijon",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 169 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700323496"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707083812",
+   "nom": "Biscuits tablette chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707083812"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707087483",
+   "nom": "Pain de mie nature Bio village 15 tranches",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707087483"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700643372",
+   "nom": "Haricots rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700643372"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700022160",
+   "nom": "Pâte à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700022160"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700430903",
+   "nom": "Moutarde Mi-forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 415 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700430903"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700855256",
+   "nom": "Spécialité de fruits pomme poire sans sucres ajoutés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 710 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700855256"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700467480",
+   "nom": "Fromage à tartiner nature 25%",
+   "assemblage": "Danemark",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700467480"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700003169",
+   "nom": "Sirop de grenadine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700003169"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700462942",
+   "nom": "Miel squeezer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700462942"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707102513",
+   "nom": "Blond pur canne",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707102513"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700044636",
+   "nom": "Pâte Brisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700044636"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707079952",
+   "nom": "Quinoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707079952"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700628980",
+   "nom": "Pur jus de pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700628980"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700330838",
+   "nom": "carottes râpées",
+   "assemblage": "Cultivées en France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700330838"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3661112501808",
+   "nom": "Jambon sup dd 6t sans nitrites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661112501808"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707096065",
+   "nom": "Lait entier stérilisé UHT",
+   "assemblage": "Candia (Filiale Sodiaal International) - 1040 Route Nationale - 59400 Awoingt",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707096065"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700719992",
+   "nom": "Tortillas de Blé",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700719992"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700542774",
+   "nom": "Tuile goût crème oignons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700542774"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700010136",
+   "nom": "Cacahuètes Grillées et Salées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700010136"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706633988",
+   "nom": "Grainéa Muesli 5 Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706633988"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707108263",
+   "nom": "Haricots Verts Extra fins coupés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 345 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707108263"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700845844",
+   "nom": "Tomates Séchées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700845844"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000918",
+   "nom": "Crème fraîche épaisse bio 30 % Mat. Gr.",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000918"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707080385",
+   "nom": "100% pur jus de pomme trouble",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707080385"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700011881",
+   "nom": "Camembert",
+   "assemblage": "Basse-Normandie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700011881"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700016619",
+   "nom": "Filets de Maquereaux (Aromates et Muscadet)",
+   "assemblage": "Delpierre-Mer et Tradition - DMT (Filiale Continentale Nutrition) - 16 Boulevard de l'Europe - Parc d'Activités de Landacres - 62360 Hesdin-l'Abbé",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 176 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700016619"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700330753",
+   "nom": "Menu fraîcheur",
+   "assemblage": "Ivry_sur_Seine",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700330753"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707102322",
+   "nom": "Velouté de jardinière de légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 470 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707102322"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706617476",
+   "nom": "Barres Pomme aux 5 céréales Seigle, Avoine, Maïs, Blé, Riz x 6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706617476"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707137492",
+   "nom": "Lentilles bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 215 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707137492"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700573631",
+   "nom": "Tartine et cuisson Oméga3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700573631"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700083604",
+   "nom": "Délisse - Lait demi-écrémé",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700083604"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707129985",
+   "nom": "Pur jus de citron de Sicile",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707129985"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707091756",
+   "nom": "Lentilles vertes Bio - 500 g - Bio Village",
+   "assemblage": "Auvergne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707091756"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707109888",
+   "nom": "Biscuits fourrés chocolat noir bio village",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707109888"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706612815",
+   "nom": "Muesli fraises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706612815"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700841198",
+   "nom": "Galettes petits légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 2 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700841198"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706539860",
+   "nom": "Panés gourmands tomate mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706539860"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700130070",
+   "nom": "Huile de colza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700130070"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700401132",
+   "nom": "Gressins sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700401132"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700473320",
+   "nom": "Margarine allégée au tournesol 60% Mat. Gr. - barquette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700473320"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707088435",
+   "nom": "pâte feuilletée Bio Village",
+   "assemblage": "Ivry sur Seine",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707088435"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700022580",
+   "nom": "Moutarde à l'ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700022580"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700458518",
+   "nom": "8 palets de légumes",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700458518"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707084833",
+   "nom": "Couscous grain moyens semi-complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707084833"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707142632",
+   "nom": "Biscuits fourrage cacaoté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707142632"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700426579",
+   "nom": "Confiture de Fraise Allégée en sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 340 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700426579"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700028063",
+   "nom": "Pulpe de tomates en dés",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 400 g (425mL)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700028063"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007792",
+   "nom": "Crème fraîche 30% mg",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007792"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700397114",
+   "nom": "Pistaches grillées à sec",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700397114"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707083805",
+   "nom": "Biscuits tablette chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707083805"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707082280",
+   "nom": "Confiture de myrtilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707082280"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700845288",
+   "nom": "8 Tortillas de Mais",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700845288"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707108737",
+   "nom": "Cereales fourrées tout chocolat",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707108737"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007815",
+   "nom": "Crème légère 15% MG",
+   "assemblage": "Bourgogne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007815"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707121439",
+   "nom": "Gressins au sésame",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707121439"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700855294",
+   "nom": "Spécialité Pomme vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 710 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700855294"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700559468",
+   "nom": "Thon entier Albacore au naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 186 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700559468"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700848470",
+   "nom": "Déli Matin Pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700848470"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707103237",
+   "nom": "Penne Rigate",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707103237"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706624450",
+   "nom": "Corn flakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706624450"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707091541",
+   "nom": "Tartine & Cuisson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707091541"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700814628",
+   "nom": "Oeufs frais plein air Oméga3 x 12",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 636 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700814628"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700013342",
+   "nom": "Vinaigre de cidre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700013342"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700004524",
+   "nom": "Farine de blé T45",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700004524"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700025918",
+   "nom": "Miel à tartiner",
+   "assemblage": "Conditionné en France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700025918"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700769089",
+   "nom": "Coquillettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700769089"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700338179",
+   "nom": "Fromage de chèvre",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700338179"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707116459",
+   "nom": "Sauce tomate basilic",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707116459"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707111669",
+   "nom": "Mouliné de légumes variés Bio Village",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707111669"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706576957",
+   "nom": "Extra moelleux nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706576957"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3661112504175",
+   "nom": "Blanc de poulet nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661112504175"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700291962",
+   "nom": "Beurrier tendre 80%mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700291962"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700752609",
+   "nom": "Sirop d'érable",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700752609"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700576090",
+   "nom": "Chips nature Maxi Format",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700576090"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707141710",
+   "nom": "Bananes 5 fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 5 unités",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707141710"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707103251",
+   "nom": "Soja cuisine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 600 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707103251"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007808",
+   "nom": "Crème fraîche légère épaisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007808"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700731857",
+   "nom": "Douceur à base de vinaigre balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700731857"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700025314",
+   "nom": "Filets de hareng fumés doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700025314"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700877913",
+   "nom": "Filets de Maquereaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700877913"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706617490",
+   "nom": "Barres de céréales Fruits Rouges",
+   "assemblage": "Non Union Eruopéenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706617490"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707129817",
+   "nom": "Purée de tomates bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 72 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707129817"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707101981",
+   "nom": "Ravioli Ricotta Epinards",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707101981"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700756218",
+   "nom": "Pain spécial de Campagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700756218"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707080965",
+   "nom": "Cookies parfum tout chocolat bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707080965"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707105590",
+   "nom": "Boisson soja au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707105590"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700868522",
+   "nom": "Amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700868522"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700638378",
+   "nom": "Spécial mie - complet",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700638378"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005576",
+   "nom": "Lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005576"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700304938",
+   "nom": "Sardines à l'huile d'olive extra vierge",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 135 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700304938"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700854242",
+   "nom": "Batonnet de surimi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700854242"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707121071",
+   "nom": "Purée de fruits pomme poire sans sucres ajoutés bio",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 625 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707121071"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707116374",
+   "nom": "Sauce bolognaise Bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score E · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707116374"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707083799",
+   "nom": "Biscuits petit déjeuner choco-noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707083799"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700562802",
+   "nom": "Brioche tranchée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 700 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700562802"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700542743",
+   "nom": "Tuiles goût nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700542743"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3661112069339",
+   "nom": "Rillettes de poulet rôti en cocotte",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661112069339"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700001165",
+   "nom": "Pois cassés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700001165"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700004623",
+   "nom": "Tomates entières pelées au jus",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700004623"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700070307",
+   "nom": "Cœur de crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700070307"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700028872",
+   "nom": "Chicorée Café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700028872"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707120838",
+   "nom": "Miel crémeux de fleurs bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707120838"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3661112052638",
+   "nom": "Jambon supérieur -25% de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661112052638"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700562406",
+   "nom": "Sainte-maure fromage de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700562406"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700330791",
+   "nom": "Salade carottes rapées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700330791"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707001175",
+   "nom": "Beurre demi-sel 80%mg",
+   "assemblage": "Eurial (Filiale Laiterie Coopérative du Pays de Gâtine - LCCT) - Boulevard de l'Industrie - 85170 Bellevigny",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707001175"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700434437",
+   "nom": "Croûtons nature 2 x 90 g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700434437"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700001110",
+   "nom": "Purée de pommes de terre en flocon nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 4 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700001110"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700681329",
+   "nom": "Spécialité au soja nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 6 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700681329"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3661112055981",
+   "nom": "Allumettes de bacon Fumées",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 2x100g=200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3661112055981"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707105835",
+   "nom": "Mini crackers bio graines de courge et fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707105835"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707117265",
+   "nom": "Biscuits pépites de chocolat et graines",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707117265"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707152686",
+   "nom": "Palets bretons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707152686"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700014493",
+   "nom": "Beurre extra fin doux 82% MG",
+   "assemblage": "Eurial (Filiale Laiterie Coopérative du Pays de Gâtine - LCCT) - Boulevard de l'Industrie - 85170 Bellevigny",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700014493"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700000489",
+   "nom": "Bâtonnets panés de colin d'Alaska filet x 15",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700000489"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700001066",
+   "nom": "Mélange de 4 huiles végétales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700001066"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700438268",
+   "nom": "Prim'frais Ail & Fines Herbes",
+   "assemblage": "bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700438268"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707090537",
+   "nom": "Fromage frais aux fruits x 12",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707090537"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706617537",
+   "nom": "Barres Chocolat au Lait Noisette",
+   "assemblage": "Non Européenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706617537"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700841075",
+   "nom": "Galettes de blé épinards et emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 2 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700841075"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707136723",
+   "nom": "Houmous",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707136723"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706695092",
+   "nom": "Miel de france",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706695092"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706662957",
+   "nom": "Sucre en poudre blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706662957"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707186193",
+   "nom": "Muesli croustillant fruits secs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707186193"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706692701",
+   "nom": "Fromage blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706692701"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700002841",
+   "nom": "Jus d'orange pour jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700002841"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700497913",
+   "nom": "Beurre de Bretagne doux 82% Mat. Gr.",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700497913"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700721056",
+   "nom": "Semi-épaisse 4% Mat.Gr.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 3 x 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700721056"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700007785",
+   "nom": "Crème fraîche épaisse 30%MG",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700007785"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706618831",
+   "nom": "Biscuits Avoine & Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706618831"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700014714",
+   "nom": "Coulommiers",
+   "assemblage": "Basse-Normandie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700014714"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700001028",
+   "nom": "Huile de tournesol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700001028"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700330593",
+   "nom": "Céleri Rémoulade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700330593"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700013939",
+   "nom": "Madeleines aux oeufs frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700013939"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700644782",
+   "nom": "Pur jus multifruits pet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700644782"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706506992",
+   "nom": "Croc break",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706506992"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700401149",
+   "nom": "Gressins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700401149"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700265147",
+   "nom": "100 % pur jus d'ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score E · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700265147"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700378601",
+   "nom": "Jus d'orange sans pulpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700378601"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700252123",
+   "nom": "Sauce crudités nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700252123"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700129005",
+   "nom": "Sauce provençale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700129005"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700513965",
+   "nom": "Filets de Maquereaux (Sauce Escabèche)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 89 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700513965"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707116411",
+   "nom": "Sauce provençale bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707116411"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707115773",
+   "nom": "Lentilles corail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707115773"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700514009",
+   "nom": "Filets de Maquereaux citron et olives",
+   "assemblage": "Portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 176 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700514009"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700542750",
+   "nom": "Tuiles goût paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700542750"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700580318",
+   "nom": "Sélection de 3 riz",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700580318"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700396612",
+   "nom": "Boisson au soja nature brique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700396612"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707098588",
+   "nom": "Crème fluide légère 15% MG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 60 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707098588"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706787216",
+   "nom": "Merguez végétal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706787216"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700655566",
+   "nom": "St Diéry eau minérale naturelle pétillante",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,25 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700655566"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700011300",
+   "nom": "Chips à l'ancienne Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700011300"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700855041",
+   "nom": "Biscuits aux germes de blé et pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700855041"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700010129",
+   "nom": "Cacahuètes - Grillées & Salées",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700010129"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700282427",
+   "nom": "12 Briochettes rondes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 480 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700282427"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700004784",
+   "nom": "Petits Pois & Jeunes Carottes Extra Fins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 530 g (800 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700004784"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707103190",
+   "nom": "Palmiers au sucre de canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707103190"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700019320",
+   "nom": "Extra Moelleux - Nature",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700019320"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700341308",
+   "nom": "Mimolette",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700341308"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000093",
+   "nom": "Coquillettes Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000093"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700685105",
+   "nom": "Boisson au soja vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700685105"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706679559",
+   "nom": "Fouetté nature au sel de Guérande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706679559"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706741409",
+   "nom": "Miel liquide de France",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706741409"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700009505",
+   "nom": "Le Petit Beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700009505"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700301708",
+   "nom": "Bacon saint azay 150g",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700301708"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700013298",
+   "nom": "Ratatouille provencale 4/4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700013298"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700000663",
+   "nom": "Palmiers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700000663"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707110396",
+   "nom": "Gnocchi bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707110396"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700994771",
+   "nom": "ravioli pur boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700994771"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700004487",
+   "nom": "Vinaigrette nature rustica",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700004487"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706616493",
+   "nom": "Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 560 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706616493"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707100113",
+   "nom": "Saumon atlantique fumé 4 tranches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707100113"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005019",
+   "nom": "Flageolets verts extra fins 4/4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 530 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005019"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707109925",
+   "nom": "Biscuits Fourrés Chocolat au Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707109925"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707089128",
+   "nom": "Velouté de légumes verts bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707089128"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700637685",
+   "nom": "Pains complets pour hamburgers x 4",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 330 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700637685"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707000901",
+   "nom": "Fromage frais 20 % Mat. Gr.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707000901"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700864487",
+   "nom": "Lentilles cuisinées à la graisse d'oie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700864487"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700010303",
+   "nom": "Café moulu arabica décaféiné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700010303"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707126281",
+   "nom": "Huile vierge de coco bio",
+   "assemblage": "Conditionné en France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707126281"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700815229",
+   "nom": "Petits pains grillés briochés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700815229"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005330",
+   "nom": "Velouté de 10 legumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005330"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707112277",
+   "nom": "Velouté de légumes saveurs du sud bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707112277"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700855034",
+   "nom": "Biscuits aux germes de blé et sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700855034"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700842058",
+   "nom": "Salade De Thon Mexicaine",
+   "assemblage": "Transformé France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700842058"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700011270",
+   "nom": "Noix de cajou",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700011270"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707117302",
+   "nom": "Soja Cuisine fluide",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707117302"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700670934",
+   "nom": "Pruneaux d'Agen dénoyautés pasteurisés",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700670934"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700577134",
+   "nom": "Sauce tomate olives et basilic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700577134"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700010204",
+   "nom": "Riz long blanchi basmati",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700010204"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700849460",
+   "nom": "Dentifrice expert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700849460"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700057827",
+   "nom": "Sainte-Maure",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700057827"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700737927",
+   "nom": "Haricots blancs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700737927"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700416037",
+   "nom": "Pomme compote",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 12 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700416037"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700741856",
+   "nom": "Pain de mie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700741856"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707117357",
+   "nom": "Riz Semi-complet",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707117357"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707115728",
+   "nom": "Tortillas chips nature bio",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707115728"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700330715",
+   "nom": "Taboulé à l'orientale",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700330715"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700463062",
+   "nom": "Raisins Secs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700463062"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707100229",
+   "nom": "Râpé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707100229"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707149020",
+   "nom": "Sauce soja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707149020"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706539822",
+   "nom": "Panés gourmands pois chiche feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706539822"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700278987",
+   "nom": "Dentamyl expert 8 en 1",
+   "assemblage": "U.E.",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700278987"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706738706",
+   "nom": "Pétales de céréales chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706738706"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700046821",
+   "nom": "Madeleines coquilles aux oeufs",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700046821"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700000717",
+   "nom": "Le cookie goût chocolat et pépite de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700000717"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700471579",
+   "nom": "Huile de noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700471579"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707095334",
+   "nom": "100% pur jus Multifruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707095334"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700008836",
+   "nom": "Coeurs de palmiers",
+   "assemblage": "Pérou",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700008836"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700610510",
+   "nom": "Ratatouille à la niçoise 1/2",
+   "assemblage": "Emboité en Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700610510"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700786321",
+   "nom": "Sauce crudités caesar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700786321"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700620106",
+   "nom": "Spécial mie nature",
+   "assemblage": "espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700620106"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700312803",
+   "nom": "STICKS & BRETZELS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700312803"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700486054",
+   "nom": "100% pur jus multifruits Jafaden",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700486054"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700613566",
+   "nom": "Cornichons ef 360g pne",
+   "assemblage": "Inde",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 685 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700613566"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700835029",
+   "nom": "Yaourt au lait de chèvre nature 4 x 125 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700835029"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700613559",
+   "nom": "Cornichons Extra-Fins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700613559"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700753620",
+   "nom": "Purée de tomates",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700753620"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700005538",
+   "nom": "Poêlée Champêtre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700005538"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707143608",
+   "nom": "Mayonnaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 238 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707143608"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700513927",
+   "nom": "Filet de Maquereaux - moutarde à l'ancienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 169 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700513927"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700028070",
+   "nom": "Puree de tomate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 72 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700028070"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707120678",
+   "nom": "Farine de lin brun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707120678"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700595657",
+   "nom": "Thé vert menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700595657"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706683938",
+   "nom": "Confiture de fraises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706683938"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707143134",
+   "nom": "Riz de cuisine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 3 x 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707143134"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706668539",
+   "nom": "P'tit déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706668539"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707174008",
+   "nom": "Beurre doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707174008"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700267011",
+   "nom": "Viande des grisons",
+   "assemblage": "Suisse",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 80 g (10 tr.)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700267011"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700002872",
+   "nom": "Jus de pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700002872"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700740774",
+   "nom": "Yaourt au lait de Brebis 4 x 125 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700740774"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564706563278",
+   "nom": "Beurre Gastronomique",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564706563278"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564707081931",
+   "nom": "Yaourt au lait entier de brebis Nature  2 x 125 g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564707081931"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700560358",
+   "nom": "Coleslaw",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700560358"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700009437",
+   "nom": "Pétales goût salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700009437"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3564700027479",
+   "nom": "Chocolat noir noisettes entière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3564700027479"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3660133007436",
+   "nom": "Eclairs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3660133007436"
+  },
+  {
+   "id": "distribution-paiement-leclerc-2000000029115",
+   "nom": "PAVÉ COMPLET",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000029115"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3700581203636",
+   "nom": "La baguette sesame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700581203636"
+  },
+  {
+   "id": "distribution-paiement-leclerc-2000000007823",
+   "nom": "Pain au chocolat app x4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000007823"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3342690061464",
+   "nom": "Pain de campagne demi long",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3342690061464"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3461181370851",
+   "nom": "Pain de seigle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3461181370851"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3454100000533",
+   "nom": "Brioche Nanterre Maison",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3454100000533"
+  },
+  {
+   "id": "distribution-paiement-leclerc-4058900010120",
+   "nom": "E. Richters Ernst Richter's Tisane Transit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4058900010120"
+  },
+  {
+   "id": "distribution-paiement-leclerc-2000000000671",
+   "nom": "Pizza kebab 28 cm",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000000671"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3000000200070",
+   "nom": "Chaussons aux pommes x4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3000000200070"
+  },
+  {
+   "id": "distribution-paiement-leclerc-2000000003474",
+   "nom": "Guimauve citon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003474"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3461180389946",
+   "nom": "Pain raisin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3461180389946"
+  },
+  {
+   "id": "distribution-paiement-leclerc-0260363012793",
+   "nom": "Pain kraken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260363012793"
+  },
+  {
+   "id": "distribution-paiement-leclerc-0230063009188",
+   "nom": "Pain complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0230063009188"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3478920004083",
+   "nom": "Caramel a la fleur de sel de guerande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3478920004083"
+  },
+  {
+   "id": "distribution-paiement-leclerc-3000000190135",
+   "nom": "Pain de campagne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3000000190135"
+  },
+  {
+   "id": "distribution-paiement-leclerc-0251023011874",
+   "nom": "Pain céréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0251023011874"
+  }
+ ]
+}
