@@ -5,20 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Consommer européen — Cirba Consult</title>
     <link rel="icon" type="image/png" href="assets/favicon.png" />
+    <script>
+      try {
+        var t = localStorage.getItem('ce-theme');
+        if (t) document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header class="topbar">
-      <div class="topbar-left"></div>
-      <div class="brand">
+      <div class="topbar-left">
         <img class="logo" src="assets/logo-white.png" alt="Cirba Consult" />
-        <h1>Consommer européen</h1>
       </div>
+      <h1 class="topbar-titre">Consommer européen</h1>
       <div class="controls">
-        <label for="pref">Ma préférence d'achat</label>
-        <select id="pref"></select>
-        <span id="user" class="user"></span>
-        <button id="logout" type="button">Se déconnecter</button>
+        <button id="account-btn" class="account-btn" type="button" title="Mon compte" aria-label="Mon compte">👤</button>
       </div>
     </header>
 
@@ -34,6 +36,32 @@
     </main>
 
     <footer id="footer" class="footer"></footer>
+
+    <div id="account-modal" class="modal hidden">
+      <div class="modal-card">
+        <button id="account-close" class="retour" type="button">← Fermer</button>
+        <h2>Mon compte</h2>
+        <p class="account-email">E-mail : <strong id="account-email"></strong></p>
+
+        <h3>Changer le mot de passe</h3>
+        <form id="pw-form">
+          <input id="pw-current" type="password" placeholder="Mot de passe actuel" autocomplete="current-password" required />
+          <input id="pw-new" type="password" placeholder="Nouveau mot de passe (8 caractères min.)" autocomplete="new-password" required minlength="8" />
+          <input id="pw-confirm" type="password" placeholder="Confirmer le nouveau mot de passe" autocomplete="new-password" required minlength="8" />
+          <button type="submit">Enregistrer</button>
+          <p id="pw-msg" class="pw-msg" hidden></p>
+        </form>
+
+        <h3>Apparence</h3>
+        <button id="theme-toggle" type="button">🌙 Passer en mode nuit</button>
+
+        <h3>Préférence d'achat</h3>
+        <select id="pref"></select>
+
+        <h3>Session</h3>
+        <button id="logout" type="button">Se déconnecter</button>
+      </div>
+    </div>
 
     <script src="app.js"></script>
   </body>

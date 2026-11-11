@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Connexion — Consommer européen · Cirba Consult</title>
     <link rel="icon" type="image/png" href="assets/favicon.png" />
+    <script>
+      try {
+        var t = localStorage.getItem('ce-theme');
+        if (t) document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body class="login-page">

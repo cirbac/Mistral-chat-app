@@ -1,4 +1,9 @@
-const state = { meta: null, pref: 'ue', view: 'home', secteurId: null };
+const state = {
+  meta: null,
+  pref: (() => { try { return localStorage.getItem('ce-pref') || 'ue'; } catch { return 'ue'; } })(),
+  view: 'home',
+  secteurId: null,
+};
 
 const ICONES = {
   '01': '🚗', '02': '🛵', '03': '🛞', '04': '🧊', '05': '📺',
@@ -9,7 +14,13 @@ const ICONES = {
 
 const el = {
   pref: document.getElementById('pref'),
-  user: document.getElementById('user'),
+  accountBtn: document.getElementById('account-btn'),
+  accountModal: document.getElementById('account-modal'),
+  accountClose: document.getElementById('account-close'),
+  accountEmail: document.getElementById('account-email'),
+  pwForm: document.getElementById('pw-form'),
+  pwMsg: document.getElementById('pw-msg'),
+  themeToggle: document.getElementById('theme-toggle'),
   logout: document.getElementById('logout'),
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
@@ -19,6 +30,16 @@ const el = {
   contenu: document.querySelector('.contenu'),
   footer: document.getElementById('footer'),
 };
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  try { localStorage.setItem('ce-theme', theme); } catch {}
+  el.themeToggle.textContent = theme === 'dark' ? '☀️ Passer en mode jour' : '🌙 Passer en mode nuit';
+}
+
+function currentTheme() {
+  return document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+}
 
 async function api(path) {
   const res = await fetch(path);
@@ -402,8 +423,49 @@ el.search.addEventListener('input', () => {
 
 el.pref.addEventListener('change', () => {
   state.pref = el.pref.value;
+  try { localStorage.setItem('ce-pref', state.pref); } catch {}
   if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
   else doSearch();
+});
+
+el.themeToggle.addEventListener('click', () => {
+  applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
+});
+
+el.accountBtn.addEventListener('click', () => {
+  el.accountEmail.textContent = el.accountEmail.dataset.email || '';
+  el.accountModal.classList.remove('hidden');
+});
+
+el.accountClose.addEventListener('click', () => el.accountModal.classList.add('hidden'));
+
+el.accountModal.addEventListener('click', (e) => {
+  if (e.target === el.accountModal) el.accountModal.classList.add('hidden');
+});
+
+el.pwForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const pwCurrent = document.getElementById('pw-current');
+  const pwNew = document.getElementById('pw-new');
+  const pwConfirm = document.getElementById('pw-confirm');
+  el.pwMsg.hidden = true;
+  el.pwMsg.className = 'pw-msg';
+  if (pwNew.value !== pwConfirm.value) {
+    el.pwMsg.textContent = 'Les deux nouveaux mots de passe ne correspondent pas.';
+    el.pwMsg.classList.add('ko');
+    el.pwMsg.hidden = false;
+    return;
+  }
+  const res = await fetch('/api/account/password', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ currentPassword: pwCurrent.value, newPassword: pwNew.value }),
+  });
+  const data = await res.json().catch(() => ({}));
+  el.pwMsg.textContent = res.ok ? 'Mot de passe enregistré.' : (data.error || 'Erreur.');
+  el.pwMsg.classList.add(res.ok ? 'ok' : 'ko');
+  el.pwMsg.hidden = false;
+  if (res.ok) el.pwForm.reset();
 });
 
 el.logout.addEventListener('click', async () => {
@@ -412,14 +474,18 @@ el.logout.addEventListener('click', async () => {
 });
 
 async function init() {
+  let me;
   try {
-    const me = await api('/api/me');
-    el.user.textContent = me.email;
+    me = await api('/api/me');
+    el.accountEmail.dataset.email = me.email;
+    el.accountEmail.textContent = me.email;
   } catch {
     return;
   }
   state.meta = await api('/api/meta');
+  if (!state.meta.preferences.some((p) => p.id === state.pref)) state.pref = 'ue';
   renderPrefSelect();
+  applyTheme(currentTheme());
   const stats = state.meta.meta.stats;
   if (stats) {
     el.footer.textContent = `Grille v${state.meta.meta.version} : ${stats.lignes} lignes · ${stats.secteurs} secteurs · ${stats.rang1} Rang 1 · ${stats.rang2} Rang 2 · ${stats.vigilance} Vigilance · ${stats.hors_zones} Hors zones · ${stats.a_ecarter} À écarter. ${state.meta.meta.disclaimer}`;

@@ -108,6 +108,8 @@ function hashPassword(p: string): string {
   return crypto.createHash('sha256').update(SESSION_SECRET + p).digest('hex');
 }
 
+let demoPasswordHash = hashPassword(DEMO_PASSWORD);
+
 function getCookie(req: Request, name: string): string | undefined {
   const raw = req.headers.cookie ?? '';
   for (const part of raw.split(';')) {
@@ -162,7 +164,7 @@ app.post('/api/login', (req, res) => {
     res.status(400).json({ error: 'Corps attendu : { "email": "...", "password": "..." }.' });
     return;
   }
-  const ok = email.toLowerCase() === DEMO_EMAIL && hashPassword(password) === hashPassword(DEMO_PASSWORD);
+  const ok = email.toLowerCase() === DEMO_EMAIL && hashPassword(password) === demoPasswordHash;
   if (!ok) {
     res.status(401).json({ error: 'Identifiants invalides.' });
     return;
@@ -185,6 +187,20 @@ app.post('/api/logout', (req, res) => {
 
 app.get('/api/me', requireAuth, (req, res) => {
   res.json({ email: req.sessionUser });
+});
+
+app.post('/api/account/password', requireAuth, (req, res) => {
+  const { currentPassword, newPassword } = req.body ?? {};
+  if (typeof currentPassword !== 'string' || typeof newPassword !== 'string' || newPassword.length < 8) {
+    res.status(400).json({ error: 'Mot de passe actuel requis et nouveau mot de passe de 8 caractères minimum.' });
+    return;
+  }
+  if (hashPassword(currentPassword) !== demoPasswordHash) {
+    res.status(401).json({ error: 'Mot de passe actuel incorrect.' });
+    return;
+  }
+  demoPasswordHash = hashPassword(newPassword);
+  res.json({ ok: true });
 });
 
 app.get('/api/meta', requireAuth, (_req, res) => {
