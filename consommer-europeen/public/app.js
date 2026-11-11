@@ -1,6 +1,7 @@
 const state = {
   accueil: null,
   accueilPref: null,
+  precedent: null,
   meta: null,
   pref: (() => { try { return localStorage.getItem('ce-pref') || 'ue'; } catch { return 'ue'; } })(),
   view: 'home',
@@ -171,6 +172,7 @@ async function renderAccueil() {
 }
 
 function renderHome() {
+  state.precedent = { type: 'home' };
   show('home');
   el.detail.classList.add('hidden');
   el.contenu.classList.remove('avec-detail');
@@ -230,6 +232,7 @@ function carteGroupe(g) {
 async function showSecteur(id) {
   const s = await api(`/api/secteurs/${id}?pref=${state.pref}`);
   state.secteurId = id;
+  state.precedent = { type: 'sector', id };
   show('sector');
   el.chips.textContent = '';
   el.results.textContent = '';
@@ -340,6 +343,7 @@ async function doSearch() {
     return;
   }
   const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+  state.precedent = { type: 'search', q };
   show('results');
   for (const s of data.secteurs) {
     const chip = document.createElement('button');
@@ -559,8 +563,18 @@ async function showProduit(id) {
   const retour = document.createElement('button');
   retour.className = 'retour';
   retour.type = 'button';
-  retour.textContent = '← Retour à la fiche groupe';
-  retour.addEventListener('click', () => showGroupe(g.id));
+  retour.textContent = '← Retour';
+  retour.addEventListener('click', () => {
+    const prec = state.precedent;
+    el.detail.classList.add('hidden');
+    el.contenu.classList.remove('avec-detail');
+    if (!prec || prec.type === 'home') renderHome();
+    else if (prec.type === 'sector') showSecteur(prec.id);
+    else {
+      el.search.value = prec.q;
+      doSearch();
+    }
+  });
   el.detail.appendChild(retour);
 
   const h = document.createElement('h2');

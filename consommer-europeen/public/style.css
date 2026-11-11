@@ -487,6 +487,9 @@ button:hover {
 .detail {
   position: sticky;
   top: 16px;
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   background: var(--carte-bg);
   border: 1px solid var(--bordure);
   border-radius: 12px;
@@ -988,7 +991,7 @@ button:hover {
 }
 
 [data-theme='dark'] .cat-img {
-  background: #242426;
+  background: #1d2f5e;
 }
 
 [data-theme='dark'] .cat-card:hover {
@@ -1006,14 +1009,14 @@ button:hover {
 [data-theme='dark'] .detail,
 [data-theme='dark'] .modal-card,
 [data-theme='dark'] .login-card {
-  background: #1b1b1d;
-  border-color: #333;
+  background: #1d2f5e;
+  border-color: rgba(255, 255, 255, 0.14);
   color: #f2f2f2;
 }
 
 [data-theme='dark'] .cat-card:hover,
 [data-theme='dark'] .carte:hover {
-  background: #242426;
+  background: #1d2f5e;
 }
 
 [data-theme='dark'] .home-titre,
@@ -1057,7 +1060,7 @@ button:hover {
 }
 
 [data-theme='dark'] .chip-static {
-  background: #242426;
+  background: #1d2f5e;
 }
 
 [data-theme='dark'] button {
@@ -1087,7 +1090,7 @@ button:hover {
 }
 
 [data-theme='dark'] .detail .produit {
-  background: #242426;
+  background: #1d2f5e;
   color: #f2f2f2;
   border-color: #444;
 }
