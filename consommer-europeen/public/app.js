@@ -668,7 +668,6 @@ async function init() {
   }
   applyTheme(currentTheme());
   el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbProduits} produits · ${state.meta.nbSources} sources`;
-  el.footer.textContent = 'Cirba Consult';
   renderHome();
 }
 
