@@ -289,20 +289,6 @@
     "produits": []
    },
    {
-    "id": "transport-et-mobilite-air-china-china-eastern-china-southern",
-    "groupe": "Air China, China Eastern, China Southern",
-    "marques": [],
-    "siege": "Chine",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Compagnies hors zones ou chinoises",
-    "commentaire": "Groupes chinois. China Eastern est aussi actionnaire d'Air France-KLM (voir la ligne correspondante).",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "transport-et-mobilite-eurostar",
     "groupe": "Eurostar",
     "marques": [],
