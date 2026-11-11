@@ -49,11 +49,13 @@ body {
 }
 
 .hero {
-  background:
-    linear-gradient(rgba(40, 40, 40, 0.86), rgba(4, 4, 5, 0.93)),
+  background-color: #06265f;
+  background-image:
+    linear-gradient(rgba(4, 4, 5, 0.42), rgba(4, 4, 5, 0.62)),
     url('assets/eu-flag-pixel.png');
-  background-size: cover;
-  background-position: center 30%;
+  background-size: auto 150%;
+  background-position: center;
+  background-repeat: no-repeat;
   image-rendering: pixelated;
   border-bottom: 3px solid var(--cirba-noir);
   color: var(--cirba-blanc);

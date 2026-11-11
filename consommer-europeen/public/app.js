@@ -275,6 +275,38 @@ async function doSearch() {
   titre.className = 'home-titre';
   titre.textContent = `Résultats pour « ${q} »`;
   el.results.appendChild(titre);
+  if (data.produits && data.produits.length > 0) {
+    const tp = document.createElement('h3');
+    tp.className = 'cat-sous-titre';
+    tp.textContent = `Produits (${data.produits.length})`;
+    el.results.appendChild(tp);
+    for (const r of data.produits) {
+      const card = document.createElement('div');
+      card.className = 'carte';
+      const h = document.createElement('h3');
+      h.textContent = r.produit.nom;
+      const meta = document.createElement('div');
+      meta.className = 'meta-ligne';
+      meta.appendChild(badge(r.groupe.statutLabel, r.groupe.statutCouleur));
+      const marque = document.createElement('span');
+      marque.textContent = `${r.groupe.groupe} · ${r.secteur.nom}`;
+      meta.appendChild(marque);
+      if (r.produit.assemblage) {
+        const ass = document.createElement('span');
+        ass.textContent = `Assemblage : ${r.produit.assemblage}`;
+        meta.appendChild(ass);
+      }
+      card.append(h, meta);
+      card.addEventListener('click', () => showProduit(r.produit.id));
+      el.results.appendChild(card);
+    }
+  }
+  if (data.groupes.length > 0) {
+    const tg = document.createElement('h3');
+    tg.className = 'cat-sous-titre';
+    tg.textContent = `Marques (${data.groupes.length})`;
+    el.results.appendChild(tg);
+  }
   if (data.groupes.length === 0) {
     const p = document.createElement('p');
     p.className = 'vide';
