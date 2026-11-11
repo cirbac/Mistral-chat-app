@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat Mistral</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="chat">
+      <h1>Chat Mistral <span class="model">mistral-small-latest</span></h1>
+      <div id="messages" class="messages"></div>
+      <form id="form" class="composer">
+        <input id="input" type="text" placeholder="Écrivez votre message…" autocomplete="off" required />
+        <button id="send" type="submit">Envoyer</button>
+      </form>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
