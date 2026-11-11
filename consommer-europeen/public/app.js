@@ -36,6 +36,7 @@ const IMAGES = {
 const el = {
   pref: document.getElementById('pref'),
   search: document.getElementById('search'),
+  suggestions: document.getElementById('suggestions'),
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
   homeGrid: document.getElementById('home-grid'),
@@ -695,10 +696,78 @@ async function showProduit(id) {
 }
 
 let debounce;
+let sugDebounce;
 el.search.addEventListener('input', () => {
   clearTimeout(debounce);
   debounce = setTimeout(doSearch, 250);
+  clearTimeout(sugDebounce);
+  sugDebounce = setTimeout(showSuggestions, 120);
 });
+
+el.search.addEventListener('focus', () => showSuggestions());
+el.search.addEventListener('blur', () => setTimeout(hideSuggestions, 150));
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') hideSuggestions();
+});
+
+function hideSuggestions() {
+  el.suggestions.classList.add('hidden');
+  el.suggestions.textContent = '';
+}
+
+async function showSuggestions() {
+  const q = el.search.value.trim();
+  if (q.length < 2) {
+    hideSuggestions();
+    return;
+  }
+  const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+  el.suggestions.textContent = '';
+  const items = [];
+  for (const r of (data.produits || []).slice(0, 6)) {
+    items.push({ kind: 'produit', label: r.produit.nom, sub: `${r.groupe.groupe} · ${r.secteur.nom}`, run: () => showProduit(r.produit.id) });
+  }
+  for (const g of (data.groupes || []).slice(0, 4)) {
+    items.push({ kind: 'marque', label: g.groupe, sub: g.marques.slice(0, 3).join(', '), run: () => showGroupe(g.id) });
+  }
+  for (const sc of (data.secteurs || []).slice(0, 3)) {
+    items.push({ kind: 'secteur', label: `${sc.num} · ${sc.nom}`, sub: `${sc.nbGroupes} marques`, run: () => showSecteur(sc.id) });
+  }
+  if (items.length === 0) {
+    hideSuggestions();
+    return;
+  }
+  for (const it of items) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'sug-item';
+    const tag = document.createElement('span');
+    tag.className = 'sug-kind';
+    tag.textContent = it.kind === 'produit' ? 'Produit' : it.kind === 'marque' ? 'Marque' : 'Catégorie';
+    const label = document.createElement('span');
+    label.className = 'sug-label';
+    label.textContent = it.label;
+    const sub = document.createElement('span');
+    sub.className = 'sug-sub';
+    sub.textContent = it.sub;
+    b.append(tag, label, sub);
+    b.addEventListener('click', () => {
+      hideSuggestions();
+      it.run();
+    });
+    el.suggestions.appendChild(b);
+  }
+  const all = document.createElement('button');
+  all.type = 'button';
+  all.className = 'sug-item sug-all';
+  all.textContent = `Voir tous les résultats pour « ${q} »`;
+  all.addEventListener('click', () => {
+    hideSuggestions();
+    doSearch();
+  });
+  el.suggestions.appendChild(all);
+  el.suggestions.classList.remove('hidden');
+}
 
 el.pref.addEventListener('change', () => {
   state.pref = el.pref.value;
