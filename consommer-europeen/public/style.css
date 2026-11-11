@@ -51,7 +51,7 @@ body {
 .hero {
   background-color: #1e3a8a;
   background-image:
-    linear-gradient(rgba(4, 4, 5, 0.10), rgba(4, 4, 5, 0.32)),
+    linear-gradient(rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0.28)),
     url('assets/eu-flag-pixel.png');
   background-size: cover;
   background-position: center;
