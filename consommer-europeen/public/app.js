@@ -667,11 +667,8 @@ async function init() {
     el.addSecteur.appendChild(opt);
   }
   applyTheme(currentTheme());
-  const stats = state.meta.meta.stats;
   el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbProduits} produits · ${state.meta.nbSources} sources`;
-  if (stats) {
-    el.footer.textContent = `Grille v${state.meta.meta.version} — Cirba Consult · ${stats.lignes} lignes · ${stats.secteurs} secteurs · ${stats.rang1} Rang 1 · ${stats.rang2} Rang 2 · ${stats.vigilance} Vigilance · ${stats.hors_zones} Hors zones · ${stats.a_ecarter} À écarter. ${state.meta.meta.disclaimer}`;
-  }
+  el.footer.textContent = 'Cirba Consult';
   renderHome();
 }
 
