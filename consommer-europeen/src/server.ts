@@ -268,6 +268,8 @@ const SYNONYMES: Record<string, string[]> = {
   moto: ['scooter', 'deux-roues'], scooter: ['moto', 'deux-roues'],
   telephonie: ['telephone', 'smartphone', 'mobile'], telephone: ['telephonie', 'smartphone'], smartphone: ['telephone', 'mobile'],
   ordinateur: ['computer', 'pc'], computer: ['ordinateur', 'pc'], pc: ['ordinateur'],
+  botte: ['bottes', 'bottine', 'bottines', 'boots'], bottes: ['botte', 'bottines', 'boots'], boots: ['bottes', 'botte'], bottine: ['bottes', 'botte'], bottines: ['bottes', 'botte'],
+  basket: ['baskets', 'sneakers'], baskets: ['basket', 'sneakers'], sneakers: ['baskets'],
 };
 
 app.get('/api/catalogue', (req, res) => {
