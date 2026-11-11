@@ -18,6 +18,7 @@ interface Produit {
   certifications: string[];
   note: string;
   openfoodfacts?: string | null;
+  image?: string | null;
 }
 
 interface Groupe {
@@ -102,6 +103,11 @@ for (const f of masseFiles) {
     }
   }
 }
+
+const imagesOffPath = path.join(dataDir, 'images-off.json');
+const imagesOff: Record<string, string> = existsSync(imagesOffPath)
+  ? (JSON.parse(readFileSync(imagesOffPath, 'utf8')) as Record<string, string>)
+  : {};
 
 const ajoutsPath = path.join(dataDir, 'ajouts.json');
 let ajouts: { num: string; groupe: Groupe }[] = [];
@@ -199,11 +205,15 @@ function getPref(req: Request): string {
 
 app.get('/api/accueil', (req, res) => {
   const pref = getPref(req);
-  const wrap = (p: Produit, g: Groupe, s: Secteur) => ({
-    produit: p,
-    groupe: withStatut(g, pref, s),
-    secteur: { id: s.id, num: s.num, nom: s.nom },
-  });
+  const wrap = (p: Produit, g: Groupe, s: Secteur) => {
+    const m = (p.openfoodfacts ?? '').match(/produit\/(\d+)/);
+    const image = m ? imagesOff[m[1]] ?? null : null;
+    return {
+      produit: { ...p, image },
+      groupe: withStatut(g, pref, s),
+      secteur: { id: s.id, num: s.num, nom: s.nom },
+    };
+  };
   const phares: ReturnType<typeof wrap>[] = [];
   const seen = new Set<string>();
   for (const [gid, ps] of Object.entries(pharesData)) {

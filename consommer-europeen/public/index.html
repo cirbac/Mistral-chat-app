@@ -20,10 +20,9 @@
       </div>
       <div class="topbar-spacer"></div>
       <div class="controls">
-        <button id="account-btn" class="account-btn" type="button" title="Mon compte" aria-label="Mon compte">
-          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M12 12.2a4.6 4.6 0 1 0-4.6-4.6 4.6 4.6 0 0 0 4.6 4.6zm0 2.1c-3.1 0-8.2 1.55-8.2 4.65V20.5h16.4v-1.55c0-3.1-5.1-4.65-8.2-4.65z"/></svg>
-        </button>
+        <button id="theme-btn" class="theme-btn" type="button" title="Mode jour / nuit" aria-label="Changer de thème">🌙</button>
       </div>
+      <nav id="cats-nav" class="cats-nav" aria-label="Catégories"></nav>
     </header>
 
     <div class="page">
@@ -36,16 +35,20 @@
           <input id="search" type="search" placeholder="Rechercher une marque ou un produit : « Renault », « Nutella », « iPhone »…" autocomplete="off" />
         </div>
         <div id="secteur-chips" class="chips chips-center"></div>
+        <div class="hero-pref">
+          <label for="pref">Préférence d'achat :</label>
+          <select id="pref"></select>
+        </div>
         <div id="hero-stats" class="hero-stats"></div>
       </div>
     </section>
 
     <main class="contenu">
       <section id="home" class="home">
-        <h2 class="home-titre">Explorez par catégorie</h2>
-        <div id="home-grid" class="home-grid"></div>
         <h2 class="home-titre" id="phares-titre" hidden>Produits phares</h2>
         <div id="phares-grid" class="home-grid" hidden></div>
+        <h2 class="home-titre">Explorez par catégorie</h2>
+        <div id="home-grid" class="home-grid"></div>
         <h2 class="home-titre" id="nouveaux-titre" hidden>Nouveaux produits</h2>
         <div id="nouveaux-grid" class="home-grid" hidden></div>
       </section>
@@ -55,23 +58,8 @@
 
     <footer id="footer" class="footer">
       <img class="footer-logo" src="assets/logo-white.png" alt="Cirba Consult" />
+      <a href="/admin" class="footer-admin">⚙ Administration</a>
     </footer>
-    </div>
-
-    <div id="account-modal" class="modal hidden">
-      <div class="modal-card">
-        <button id="account-close" class="retour" type="button">← Fermer</button>
-        <h2>Réglages</h2>
-
-        <h3>Apparence</h3>
-        <button id="theme-toggle" type="button">🌙 Passer en mode nuit</button>
-
-        <h3>Préférence d'achat</h3>
-        <select id="pref"></select>
-
-        <h3>Administration</h3>
-        <a href="/admin" class="admin-link">⚙ Gérer les ajouts proposés</a>
-      </div>
     </div>
 
     <div id="add-modal" class="modal hidden">
