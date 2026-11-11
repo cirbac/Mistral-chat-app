@@ -1,0 +1,3606 @@
+{
+ "alimentation-boissons-mars": [
+  {
+   "id": "alimentation-boissons-mars-5900951311666",
+   "nom": "Chocolate Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951311666"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159550376",
+   "nom": "Snickers Snacksize 35g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159550376"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065735395",
+   "nom": "SNICKERS КРИСПЕР",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 20x3",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065735395"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357912836",
+   "nom": "Snack mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357912836"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682065436",
+   "nom": "SNICKERS COFFEE flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 44g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682065436"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423497984",
+   "nom": "SNICKERS PÉ DE MOLEQUE",
+   "assemblage": "Brasil",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423497984"
+  },
+  {
+   "id": "alimentation-boissons-mars-8902433006197",
+   "nom": "Snickers (Shareable Bites)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 120 g (10 pieces of 12 g each)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902433006197"
+  },
+  {
+   "id": "alimentation-boissons-mars-8902433000416",
+   "nom": "Snickers Almond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902433000416"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951311628",
+   "nom": "Snicker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 37.5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951311628"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402909269",
+   "nom": "Snickers Hiprotein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402909269"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065002220",
+   "nom": "Snickers® с миндалем",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 81 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065002220"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677388062",
+   "nom": "Mars Snickers Ice Cream pt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 pt",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677388062"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000547532",
+   "nom": "Christmas candy minis size chocolate bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000547532"
+  },
+  {
+   "id": "alimentation-boissons-mars-6914973606265",
+   "nom": "Snickers 21.5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 21.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973606265"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000587996",
+   "nom": "Snickers fun size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000587996"
+  },
+  {
+   "id": "alimentation-boissons-mars-0072392015382",
+   "nom": "Snickers Pudding & Pie Filling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 72.2 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072392015382"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000603061",
+   "nom": "Trees",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2.2 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000603061"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000603467",
+   "nom": "Snickers Hearts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000603467"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357910771",
+   "nom": "Tepamas Kremas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357910771"
+  },
+  {
+   "id": "alimentation-boissons-mars-4660085512896",
+   "nom": "Криспер",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 х 2 х 20 г",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4660085512896"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357900611",
+   "nom": "Snickers Penut Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357900611"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951283963",
+   "nom": "Snickers Creamy Peanut Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · (2 x 18.25 g e) = 36.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951283963"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065735340",
+   "nom": "Snickers crisp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 5 * ( 2 * 20 g ) = 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065735340"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065738297",
+   "nom": "snikers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065738297"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402906985",
+   "nom": "Snickers Protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 51 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402906985"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357900055",
+   "nom": "Snickers peanut butter crunchy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357900055"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402906275",
+   "nom": "Snickes Hi Protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 62 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402906275"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159422345",
+   "nom": "Barres Glacees Snickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159422345"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159461139",
+   "nom": "32 Barres Snickers Cacahuètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1,6 kg (32 * 50 g e)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159461139"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159526111",
+   "nom": "Snickers Crisp Ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159526111"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159364874",
+   "nom": "Snickers Minis Chocolate Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159364874"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159530590",
+   "nom": "Snickers barres glacées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 48.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159530590"
+  },
+  {
+   "id": "alimentation-boissons-mars-04062705",
+   "nom": "Snickers Almond King Size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3.23oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04062705"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159521468",
+   "nom": "Snickers® 9 x (319.5g)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159521468"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159455381",
+   "nom": "Snickers super",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159455381"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000503156",
+   "nom": "Crisper singles size chocolate candy bars ounce bar count box",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000503156"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159488648",
+   "nom": "Snickers 2x10 s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159488648"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159531221",
+   "nom": "Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159531221"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159522885",
+   "nom": "Bonbon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159522885"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423459012",
+   "nom": "Snickers lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423459012"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159453608",
+   "nom": "Snickers Mini X10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159453608"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951246708",
+   "nom": "MINIATURES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951246708"
+  },
+  {
+   "id": "alimentation-boissons-mars-7506174500207",
+   "nom": "Faulero",
+   "assemblage": "México",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 52.7 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7506174500207"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159515337",
+   "nom": "Snickers white",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159515337"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402907753",
+   "nom": "Snickers hiprotein peanut butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402907753"
+  },
+  {
+   "id": "alimentation-boissons-mars-8584681938002",
+   "nom": "Crisp ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8584681938002"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000581475",
+   "nom": "Snicker Hi Protein Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2.01oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000581475"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159515443",
+   "nom": "Snickers ICE cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159515443"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065000073",
+   "nom": "Snickers Minis в пачке на кондитерке",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 г",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065000073"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423451535",
+   "nom": "Chocolate Caramelo Bacon Snickers Pacote 42g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423451535"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159492850",
+   "nom": "2x Snickers White Limited Edition",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 80 g (2 x 40 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159492850"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159506762",
+   "nom": "Snickers Sticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 215 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159506762"
+  },
+  {
+   "id": "alimentation-boissons-mars-0016027708751",
+   "nom": "Snickers peanut butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0016027708751"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065737474",
+   "nom": "Stickers extra caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065737474"
+  },
+  {
+   "id": "alimentation-boissons-mars-7506174502645",
+   "nom": "Snickers pequeño",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 21.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7506174502645"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496428211",
+   "nom": "Snickers Minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496428211"
+  },
+  {
+   "id": "alimentation-boissons-mars-8716382204609",
+   "nom": "Peanut butter crunchy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8716382204609"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357907061",
+   "nom": "Snickers desert sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357907061"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682064057",
+   "nom": "Snickers Butterscotch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682064057"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357907528",
+   "nom": "Snickers drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357907528"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357910429",
+   "nom": "snickers shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357910429"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496424909",
+   "nom": "Snickers bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496424909"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159493239",
+   "nom": "Snickers Mini Cube",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159493239"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159453813",
+   "nom": "Variety Mix Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 9x25ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159453813"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159474375",
+   "nom": "Snickers Minis 15er",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 303 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159474375"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159480772",
+   "nom": "Snickers & Hazelnut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 196 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159480772"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682048033",
+   "nom": "Pods Snickers 280G / 8",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682048033"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159490412",
+   "nom": "Snickers Duo Packs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 480g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159490412"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065736026",
+   "nom": "Barre chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065736026"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065736064",
+   "nom": "Extra caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 46 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065736064"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065737924",
+   "nom": "Snickers extra caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065737924"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000513223",
+   "nom": "Snickers Hazelnut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000513223"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159410410",
+   "nom": "Assortiment de barres au chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159410410"
+  },
+  {
+   "id": "alimentation-boissons-mars-9169109263066",
+   "nom": "Snickers protein bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9169109263066"
+  },
+  {
+   "id": "alimentation-boissons-mars-8027036025489",
+   "nom": "Sale marino di Sardegna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8027036025489"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496441593",
+   "nom": "Snickers Creamy Peanut Butter Squares",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496441593"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000475873",
+   "nom": "Snickers twix musketeers milky way full size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000475873"
+  },
+  {
+   "id": "alimentation-boissons-mars-6914973612129",
+   "nom": "Snickers pomme de terre violette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973612129"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496444952",
+   "nom": "Carres de barres friandises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496444952"
+  },
+  {
+   "id": "alimentation-boissons-mars-90000890",
+   "nom": "Peanut butter snickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90000890"
+  },
+  {
+   "id": "alimentation-boissons-mars-5039159531870",
+   "nom": "Snikerrs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5039159531870"
+  },
+  {
+   "id": "alimentation-boissons-mars-5058357905597",
+   "nom": "Snickers triple treat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 32 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5058357905597"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423465655",
+   "nom": "Chocolate Coco Snickers Pacote 42g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423465655"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423420159",
+   "nom": "Chocolate Snickers Pacote 45g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 45g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423420159"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423420326",
+   "nom": "Chocolate Snickers Pacote 78g 2 Unidades",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 78g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423420326"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682065108",
+   "nom": "Snickers Brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682065108"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159528962",
+   "nom": "Creamy peanut butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159528962"
+  },
+  {
+   "id": "alimentation-boissons-mars-0013413242127",
+   "nom": "Mille Chocolate bark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0013413242127"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951251184",
+   "nom": "Snickers & Hazelnut (Limited Edition)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951251184"
+  },
+  {
+   "id": "alimentation-boissons-mars-8058540000143",
+   "nom": "Strawberry Preserves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8058540000143"
+  },
+  {
+   "id": "alimentation-boissons-mars-6914973607781",
+   "nom": "Snickers oats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973607781"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357900949",
+   "nom": "High protien peanut butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357900949"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065730086",
+   "nom": "Сникерс Белый шоколад",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065730086"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000602286",
+   "nom": "Chocolate Christmas Tree Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 31 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000602286"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040444514251",
+   "nom": "Snicker Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040444514251"
+  },
+  {
+   "id": "alimentation-boissons-mars-7804606871728",
+   "nom": "Snickers Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7804606871728"
+  },
+  {
+   "id": "alimentation-boissons-mars-0037695162966",
+   "nom": "Snickers Cake Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0037695162966"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000605157",
+   "nom": "Snickers Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 31.2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000605157"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496465230",
+   "nom": "Snack Size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496465230"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000560487",
+   "nom": "White Bar, White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 59.52 oz/1687.2 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000560487"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000552123",
+   "nom": "Celebrations Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 3.30 oz/93.6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000552123"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000538233",
+   "nom": "Snickers Glow In The Dark Fun Size Halloween Candy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 9.59 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000538233"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677485464",
+   "nom": "Snickers Dark Ice Cream Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677485464"
+  },
+  {
+   "id": "alimentation-boissons-mars-7004759541312",
+   "nom": "Snickers Glace",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7004759541312"
+  },
+  {
+   "id": "alimentation-boissons-mars-6914973002838",
+   "nom": "Oat Dark Chocolate Bar, Less Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973002838"
+  },
+  {
+   "id": "alimentation-boissons-mars-6914973613478",
+   "nom": "Snickers Bar 50%sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973613478"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682100021",
+   "nom": "Snickers Loaded",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682100021"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159571906",
+   "nom": "Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159571906"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000606796",
+   "nom": "SNICKERS ALMOND FUN SIZE BARS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000606796"
+  },
+  {
+   "id": "alimentation-boissons-mars-0814109023125",
+   "nom": "Candy Pop Popcorn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0814109023125"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682011198",
+   "nom": "CARAMEL AND SOFT NOUGAT COVERED IN MILK CHOCOLATE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682011198"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000603528",
+   "nom": "Snickers Heart",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000603528"
+  },
+  {
+   "id": "alimentation-boissons-mars-0013413221214",
+   "nom": "Chocolate Bark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0013413221214"
+  },
+  {
+   "id": "alimentation-boissons-mars-6287734010619",
+   "nom": "سنيكرز ريفر رول",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6287734010619"
+  },
+  {
+   "id": "alimentation-boissons-mars-0896024438611",
+   "nom": "White Snickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0896024438611"
+  },
+  {
+   "id": "alimentation-boissons-mars-6000752439480",
+   "nom": "Snickers лесной орех",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6000752439480"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159605342",
+   "nom": "mini snickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159605342"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677500099",
+   "nom": "Snickers almond Mini Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677500099"
+  },
+  {
+   "id": "alimentation-boissons-mars-0055415221335",
+   "nom": "Snickers Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055415221335"
+  },
+  {
+   "id": "alimentation-boissons-mars-6924743936454",
+   "nom": "pod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6924743936454"
+  },
+  {
+   "id": "alimentation-boissons-mars-8902433008788",
+   "nom": "Snickers Minis Filled Chocolate - Irresistible Treats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6*11.5 gm",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902433008788"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000644767",
+   "nom": "Snickers Wreaths",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000644767"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159484695",
+   "nom": "Twix glacé",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159484695"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159556804",
+   "nom": "Twix White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 46g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159556804"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159557726",
+   "nom": "Twix 7",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159557726"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159560696",
+   "nom": "Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159560696"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159390729",
+   "nom": "Twix Xtra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 2 x 41 г",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159390729"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159557177",
+   "nom": "Twix White Extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159557177"
+  },
+  {
+   "id": "alimentation-boissons-mars-3179730115203",
+   "nom": "Eau mineral naturel Vittel - 750 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3179730115203"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159556903",
+   "nom": "Twix Salted Caramel 10er-Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 460 g (10 x 46 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159556903"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903421",
+   "nom": "Pate a tartiner twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903421"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914434",
+   "nom": "Twix hot chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914434"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159459273",
+   "nom": "TWIX single",
+   "assemblage": "Egypt",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 25g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159459273"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000514206",
+   "nom": "Twix Caramel Cookies Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1.79 oz (51 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000514206"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134010480",
+   "nom": "New Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 11g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134010480"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677474208",
+   "nom": "Twix Ice Cream Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 89 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677474208"
+  },
+  {
+   "id": "alimentation-boissons-mars-0814109021381",
+   "nom": "twix pop corn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0814109021381"
+  },
+  {
+   "id": "alimentation-boissons-mars-50166695",
+   "nom": "Twix Mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50166695"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159569170",
+   "nom": "Easter Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159569170"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000004059",
+   "nom": "Twix Share Size Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000004059"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159442008",
+   "nom": "Biscuits nappage au caramel enrobé de chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159442008"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159500173",
+   "nom": "Celebrations calendrier Sapin 215g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159500173"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159492317",
+   "nom": "Twix Sticks 10er",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159492317"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159556880",
+   "nom": "Twix Salted Caramel Fingers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159556880"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159557740",
+   "nom": "Twix 16 pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159557740"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159559430",
+   "nom": "Twix 4+1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159559430"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677301238",
+   "nom": "Ice Cream Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677301238"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159527576",
+   "nom": "Twix salted caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159527576"
+  },
+  {
+   "id": "alimentation-boissons-mars-0024515308406",
+   "nom": "Twix coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 10 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0024515308406"
+  },
+  {
+   "id": "alimentation-boissons-mars-0811130031532",
+   "nom": "TWIX COFFEE ICED imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 237",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0811130031532"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134012569",
+   "nom": "Choco-Hazelnut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134012569"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914786",
+   "nom": "Twix GLUTENFREI GLUTENVRIJ SANS GLUTEN Chocolate &",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914786"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914847",
+   "nom": "Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914847"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951313073",
+   "nom": "Twix Extra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951313073"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134013207",
+   "nom": "Twix Crispy Rolls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 22.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134013207"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677229600",
+   "nom": "Twix ice cream bar King size 3 oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 3 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677229600"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357913383",
+   "nom": "Twix Secret Centre Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 132g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357913383"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951251795",
+   "nom": "Twix top",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 210 g (x10)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951251795"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159442572",
+   "nom": "Twix minis barres x19 - 403g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 403 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159442572"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159473026",
+   "nom": "Twix minis x10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 227g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159473026"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159493536",
+   "nom": "Twix Mini Cubes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 206 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159493536"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159386357",
+   "nom": "Twix barres glacées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 6 x 35g, 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159386357"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159543057",
+   "nom": "Twix Fingers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159543057"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402907142",
+   "nom": "Dosettes Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 8",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402907142"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159384476",
+   "nom": "Twix Biscuit Twin Finger 4 Pack 200G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159384476"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159484763",
+   "nom": "12 barres glacées XL, 12x43.1ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 517.2 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159484763"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402906459",
+   "nom": "Cookie Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 144 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402906459"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159309332",
+   "nom": "Twix Miniatures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159309332"
+  },
+  {
+   "id": "alimentation-boissons-mars-04040509",
+   "nom": "Twix Original Share Size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 3.02oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04040509"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159512459",
+   "nom": "Twix Ginger cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2 x 23g ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159512459"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159461085",
+   "nom": "Twix 50 GR, 25 Pièces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159461085"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159531528",
+   "nom": "Twix Spekulatius Gewürz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159531528"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159390149",
+   "nom": "TWIX ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 12",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159390149"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159491211",
+   "nom": "Inspiration cappuccino",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 205.2 g (6 x 34.2 g) (258.6 ml) (6 x 43.1 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159491211"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159512596",
+   "nom": "Twix spéculoos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 46g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159512596"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357900291",
+   "nom": "Twix Caramel Centres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 8 x 18 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357900291"
+  },
+  {
+   "id": "alimentation-boissons-mars-3546270300008",
+   "nom": "Sauvignon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3546270300008"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159528986",
+   "nom": "Twix caramel beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159528986"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159543071",
+   "nom": "Twix 16pk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159543071"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357908044",
+   "nom": "TWIX GLUTEN FREE 4 INDIVIDUALLY WRAPPED Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 4 x 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357908044"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159452885",
+   "nom": "Twix Miniatures Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159452885"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159494106",
+   "nom": "® 8 x (320g)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159494106"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159512688",
+   "nom": "Twix spéculos minis",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 206 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159512688"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159512701",
+   "nom": "Twix speculoos mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159512701"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357902417",
+   "nom": "Galletas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357902417"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903643",
+   "nom": "Pate a tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903643"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423470994",
+   "nom": "Bombom Twix Pacote 40g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423470994"
+  },
+  {
+   "id": "alimentation-boissons-mars-0655956022721",
+   "nom": "twix cookie dough",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0655956022721"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159473149",
+   "nom": "Twix Minis 443GR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159473149"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159486620",
+   "nom": "White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 276 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159486620"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159491136",
+   "nom": "Barre glacee twix x10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159491136"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159512664",
+   "nom": "Twix Ginger Cookie Xtra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 75g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159512664"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000574576",
+   "nom": "Twix salted caramel share size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000574576"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357900093",
+   "nom": "Twix HiProtein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357900093"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159543033",
+   "nom": "Twix Chocolate Fingers 6pk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6x20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159543033"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000596356",
+   "nom": "caramel & milk chocolate cookie bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000596356"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159473163",
+   "nom": "Twix Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159473163"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159473309",
+   "nom": "Twix Inspiration Speculoos",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 219 g ou 255 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159473309"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159486309",
+   "nom": "Inspiration Spéculoos",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 258,8 ml (205,2 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159486309"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159493451",
+   "nom": "Twix Bites Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159493451"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159417488",
+   "nom": "® Fingers x (368g)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159417488"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159509794",
+   "nom": "Twix bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159509794"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159512558",
+   "nom": "Twix speculos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159512558"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159437721",
+   "nom": "Twix Boite Métal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159437721"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159513234",
+   "nom": "Twix stiks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159513234"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496453763",
+   "nom": "Cookie & creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496453763"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159534321",
+   "nom": "Twix Winter Spice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2 x 23 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159534321"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159528917",
+   "nom": "Twix Salted Caramel Xtra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159528917"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159543156",
+   "nom": "Twixt white fingers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159543156"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159543125",
+   "nom": "Salted caramel fingers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159543125"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423405491",
+   "nom": "Bombom Triplo Chocolate Twix Pacote 40g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423405491"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000490845",
+   "nom": "Twix Creamy Peanut Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000490845"
+  },
+  {
+   "id": "alimentation-boissons-mars-6000756556886",
+   "nom": "Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 46 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6000756556886"
+  },
+  {
+   "id": "alimentation-boissons-mars-0037695158211",
+   "nom": "Twix Filled Cake Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0037695158211"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000483649",
+   "nom": "Twix Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 5.0 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000483649"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159406734",
+   "nom": "Twix Funsize Barritas Individuales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159406734"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159470889",
+   "nom": "Twix +3 Free 6PK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159470889"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159481083",
+   "nom": "Twix x7",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159481083"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159483186",
+   "nom": "Biscuit caramel arôme cappuccino enrobé de chocolat au lait",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 276 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159483186"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159483209",
+   "nom": "Twix Cappuccino",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2 x 23 g (46 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159483209"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159484312",
+   "nom": "Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159484312"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159484787",
+   "nom": "Barre Glacée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159484787"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159504300",
+   "nom": "Twix Bites Chocolate Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159504300"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951246685",
+   "nom": "miniatures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951246685"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423471656",
+   "nom": "Bombom Triplo Chocolate Twix Pacote 80g 4 Unidades",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423471656"
+  },
+  {
+   "id": "alimentation-boissons-mars-88017945",
+   "nom": "Twix dark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/88017945"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159515160",
+   "nom": "Bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159515160"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159526944",
+   "nom": "Chocolate easter egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159526944"
+  },
+  {
+   "id": "alimentation-boissons-mars-00039529",
+   "nom": "Pack de 2 Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00039529"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000486756",
+   "nom": "Twix Ghosts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000486756"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000505501",
+   "nom": "Twix, fun size, milk chocolate cookie & caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000505501"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000551829",
+   "nom": "Twix cookies et creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000551829"
+  },
+  {
+   "id": "alimentation-boissons-mars-06810136",
+   "nom": "Twil Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06810136"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159513272",
+   "nom": "Twix sticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159513272"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000551898",
+   "nom": "Twix cookies and creme share size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000551898"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903728",
+   "nom": "chocolate and caramel cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903728"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000563549",
+   "nom": "Twix Cookies & Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000563549"
+  },
+  {
+   "id": "alimentation-boissons-mars-7064712907708",
+   "nom": "Caramel centres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 18 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7064712907708"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357907221",
+   "nom": "m&ms brownie milkshake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357907221"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000482819",
+   "nom": "Twix Santa Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000482819"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159538466",
+   "nom": "Winter spice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159538466"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000509738",
+   "nom": "Snickers twix musketeers milky way minis size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000509738"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000572992",
+   "nom": "Twix OR Pretzel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000572992"
+  },
+  {
+   "id": "alimentation-boissons-mars-5010482916800",
+   "nom": "Twix chocolate tarte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010482916800"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009700040893",
+   "nom": "Danone MARS® Yaourt TWIX 3x120g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009700040893"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423451191",
+   "nom": "Bombom Twix Pacote 80g 4 Unidades",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423451191"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357909249",
+   "nom": "TWix ICE CREAM CONES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357909249"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159509640",
+   "nom": "Twix white stick",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 23 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159509640"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357913116",
+   "nom": "Secret Centre Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357913116"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402908347",
+   "nom": "Twix Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402908347"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159559423",
+   "nom": "Twix 70p",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159559423"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159386272",
+   "nom": "Twix Ice-Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159386272"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159559478",
+   "nom": "Twix minature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159559478"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134011050",
+   "nom": "Twix minis 15days",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134011050"
+  },
+  {
+   "id": "alimentation-boissons-mars-00039259",
+   "nom": "Twix x2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00039259"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159560658",
+   "nom": "Twix x6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159560658"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402908453",
+   "nom": "Twix caramel Centre biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402908453"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000591726",
+   "nom": "Cookie Dough Minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000591726"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134013474",
+   "nom": "TWIx SALTED",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134013474"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423438574",
+   "nom": "Twix Sabor Torta De Limão",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423438574"
+  },
+  {
+   "id": "alimentation-boissons-mars-0850057068115",
+   "nom": "Twix Flavored Reduced Fat Chocolate Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850057068115"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159568357",
+   "nom": "батончик Twix Xtra солона карамель",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159568357"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000552123",
+   "nom": "Celebrations Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 3.30 oz/93.6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000552123"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000602989",
+   "nom": "Snickerdoodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000602989"
+  },
+  {
+   "id": "alimentation-boissons-mars-0047677485525",
+   "nom": "Ice Cream Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0047677485525"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134013795",
+   "nom": "Crispy rolls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 112.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134013795"
+  },
+  {
+   "id": "alimentation-boissons-mars-05097498",
+   "nom": "cal Twix CRISPY ROLLS 5x 5 x 22.5 g 112.5 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05097498"
+  },
+  {
+   "id": "alimentation-boissons-mars-0024444603023",
+   "nom": "Twix Snickerdoodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0024444603023"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134010749",
+   "nom": "twix Wafer rolls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 270g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134010749"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496471132",
+   "nom": "Fun Sized Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496471132"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000583677",
+   "nom": "Ghoulish Green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000583677"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000608684",
+   "nom": "Twix Snowman",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000608684"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000608530",
+   "nom": "Twix Snowmen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000608530"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000641230",
+   "nom": "Bits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000641230"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000641919",
+   "nom": "Hearts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000641919"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000610755",
+   "nom": "TWIX BASKET",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000610755"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000610816",
+   "nom": "Twix Baskets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000610816"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159606110",
+   "nom": "twix white xtra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159606110"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000641896",
+   "nom": "Twix snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000641896"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000644248",
+   "nom": "Twix Bits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000644248"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159608664",
+   "nom": "Twice Hazelnut Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 230g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159608664"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159608794",
+   "nom": "Twix Saveur Noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 46g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159608794"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159609203",
+   "nom": "Twix Hazelnut Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159609203"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000610526",
+   "nom": "Twix With Green Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000610526"
+  },
+  {
+   "id": "alimentation-boissons-mars-5712878280563",
+   "nom": "Twix Mælkeis m. kiks, karamel og chokoladeovertræk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 215,5 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5712878280563"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159609333",
+   "nom": "Twix hazelnut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 46g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159609333"
+  },
+  {
+   "id": "alimentation-boissons-mars-00103137",
+   "nom": "Twix Reep 5 stuks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00103137"
+  },
+  {
+   "id": "alimentation-boissons-mars-00103140",
+   "nom": "Twix White 5 stuks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00103140"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159559669",
+   "nom": "TWIX Twix 3st",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159559669"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159608671",
+   "nom": "TWIX Hazelnut 5 Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 230g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159608671"
+  },
+  {
+   "id": "alimentation-boissons-mars-75400141618463",
+   "nom": "TWIX White 5pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 5x46g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/75400141618463"
+  },
+  {
+   "id": "alimentation-boissons-mars-5711514266796",
+   "nom": "Twix Chokoladebar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711514266796"
+  },
+  {
+   "id": "alimentation-boissons-mars-5779486266829",
+   "nom": "Twix Chokoladebar m. kiks og karamel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 227 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5779486266829"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000643746",
+   "nom": "Twix Skulls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000643746"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000647126",
+   "nom": "Twix Green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000647126"
+  },
+  {
+   "id": "alimentation-boissons-mars-00204056",
+   "nom": "Twix 7-pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00204056"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000602217",
+   "nom": "Twix Ghoulish Green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000602217"
+  },
+  {
+   "id": "alimentation-boissons-mars-0050070832434",
+   "nom": "Twix Protein Shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050070832434"
+  },
+  {
+   "id": "alimentation-boissons-mars-8593893792081",
+   "nom": "fruit joy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8593893792081"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134030877",
+   "nom": "Twix 46g×5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134030877"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000643722",
+   "nom": "Twix Skull",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000643722"
+  },
+  {
+   "id": "alimentation-boissons-mars-7896423438970",
+   "nom": "Twix Sabor Banoffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896423438970"
+  },
+  {
+   "id": "alimentation-boissons-mars-4670082503162",
+   "nom": "Печенье сахарное TWIX Xtra с карамелью со вкусом «Имбирное печенье», покрытое молочным шоколадом",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4670082503162"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903162",
+   "nom": "Maltesers Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903162"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159462129",
+   "nom": "Teasers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 35 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159462129"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159556453",
+   "nom": "Galaxy Maltesers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159556453"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357902844",
+   "nom": "Maltesers Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357902844"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159514194",
+   "nom": "Maltesers Truffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159514194"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159335737",
+   "nom": "Maltesers Chocolate Bucket",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 440g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159335737"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357909638",
+   "nom": "Boisson chocolaté imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357909638"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357901496",
+   "nom": "White maltesers mini bunnies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357901496"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159031103",
+   "nom": "Maltesers 175g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159031103"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159451000",
+   "nom": "Maltesers Malteaster Mini Chocolate Bunnies Bag 58G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159451000"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159479141",
+   "nom": "Calendrier de l'avent Maltesers Renne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 108 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159479141"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159564854",
+   "nom": "Teasers imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159564854"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357913765",
+   "nom": "Bunny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 29g.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357913765"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159571760",
+   "nom": "Maltesers Teasers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159571760"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357915110",
+   "nom": "maltesers ginger bread flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 29g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357915110"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159514217",
+   "nom": "Maltese’s Truffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 336g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159514217"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682050876",
+   "nom": "Maltesers 465g Bucket",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 465g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682050876"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159549639",
+   "nom": "Maltesers dark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159549639"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159416979",
+   "nom": "Malteaster Bunny 29G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 29 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159416979"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159462143",
+   "nom": "Teasers Chocolate More to Share Block",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 37.6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159462143"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159487849",
+   "nom": "Maltesers mini reindeers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159487849"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357901533",
+   "nom": "maltesers hot chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357901533"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357904176",
+   "nom": "مالتيزرز شكولاته بالبسكوت",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 2 x 22 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357904176"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159468879",
+   "nom": "Maltesers mini bunnies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159468879"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903926",
+   "nom": "maltesers spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903926"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357901229",
+   "nom": "Maltesers hi protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357901229"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159532761",
+   "nom": "Maltesers imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159532761"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357912300",
+   "nom": "Global Traveller Passport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 × 37g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357912300"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357913789",
+   "nom": "Mini Bunnies Popcorn Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 58g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357913789"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159568982",
+   "nom": "Matesers Easter Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159568982"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682059909",
+   "nom": "Dark Maltesers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682059909"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159572125",
+   "nom": "Maltesers White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 30g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159572125"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159572149",
+   "nom": "maltesers white treat bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159572149"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357915189",
+   "nom": "Maltesers Christmas Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357915189"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159437967",
+   "nom": "Maltesers 400g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159437967"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159361323",
+   "nom": "Maltesers 300g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159361323"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159417365",
+   "nom": "Maltesers 85g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159417365"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159414951",
+   "nom": "Maltesers 400g + 10%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 440 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159414951"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159023061",
+   "nom": "Maltesers 100 GR, 6 Sachets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159023061"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402903373",
+   "nom": "Maltesers 350G Hot Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402903373"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159487832",
+   "nom": "Maltesers Merryteaser Mini Reindeer Milk Chocolate Reindeer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 59 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159487832"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159481472",
+   "nom": "Teasers Maltesers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159481472"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159539142",
+   "nom": "Maltesers chocolate egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 127g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159539142"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159498944",
+   "nom": "Teasers Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159498944"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159469326",
+   "nom": "Reindeer Chocolate Christmas Treat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 29 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159469326"
+  },
+  {
+   "id": "alimentation-boissons-mars-93682428",
+   "nom": "Maltesers Mini Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 12 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/93682428"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159508599",
+   "nom": "MaltEaster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159508599"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159543910",
+   "nom": "Malteasers dark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159543910"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159511551",
+   "nom": "Maltesers buttons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159511551"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357909911",
+   "nom": "Orange Maltesers Bunny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357909911"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159020268",
+   "nom": "Mini bolitas de chocolate rellenas de leche malteada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159020268"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159498951",
+   "nom": "Glaces Teasers Maltesers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159498951"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682036955",
+   "nom": "Crisp Malt Centres Covered With Smooth Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682036955"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357905906",
+   "nom": "White ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 270 ml, 3 x 90 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357905906"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159491587",
+   "nom": "Maltesers Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159491587"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159503716",
+   "nom": "Maltesers Chocolate Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 93 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159503716"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682055611",
+   "nom": "Maltesers chocolate 400g box",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682055611"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357902349",
+   "nom": "Maltesers Cake Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357902349"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159316323",
+   "nom": "Maltesers 37 GR, 25 Pièces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159316323"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159537902",
+   "nom": "Orange Maltesers BUTTONS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159537902"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159537964",
+   "nom": "Maltesers Buttons Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 189g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159537964"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159544191",
+   "nom": "Dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159544191"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402905513",
+   "nom": "Maltesers - pâte à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402905513"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159520102",
+   "nom": "Buttons Chocolate More to Share Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159520102"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402900105",
+   "nom": "Maltesers Drinking Chocolate Pouch 140G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402900105"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159532570",
+   "nom": "Maltesers flats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159532570"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159488235",
+   "nom": "Maltesers reindeer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 29 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159488235"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357902233",
+   "nom": "Maltesers biscuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357902233"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903780",
+   "nom": "Orange maltesers biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5 x 22 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903780"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159539289",
+   "nom": "Maltesers Teasers Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159539289"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357908747",
+   "nom": "Rocky road",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 4 x 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357908747"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159556309",
+   "nom": "Maltesers +10%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159556309"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159551274",
+   "nom": "Chocolate Reindeer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159551274"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159510097",
+   "nom": "Maltesers Easter Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159510097"
+  },
+  {
+   "id": "alimentation-boissons-mars-0001002065737",
+   "nom": "Pâte a tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0001002065737"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159030151",
+   "nom": "Maltesers Mega Zylinder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159030151"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159365307",
+   "nom": "Maltesers Chapelet 140G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159365307"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159421553",
+   "nom": "Maltesers 360g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159421553"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159503730",
+   "nom": "Maltesers Fairtrade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159503730"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159508377",
+   "nom": "Maltesers Malteaster Milk Chocolate Bunnies X5 145G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 145g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159508377"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159511612",
+   "nom": "Buttons Chocolate Bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159511612"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402903892",
+   "nom": "Malteser shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402903892"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159378376",
+   "nom": "Milk & White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159378376"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159513807",
+   "nom": "Maltesers bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159513807"
+  },
+  {
+   "id": "alimentation-boissons-mars-0280359002256",
+   "nom": "Maltesers Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0280359002256"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159481755",
+   "nom": "Maltesers Mini Bunny with a hollow chocolate egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159481755"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159530408",
+   "nom": "Maltersers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159530408"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357901519",
+   "nom": "Maltesers Orange Bunny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357901519"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402905643",
+   "nom": "Maltesers ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402905643"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159489614",
+   "nom": "Maltesers Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159489614"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682038492",
+   "nom": "malteser bunny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682038492"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159530507",
+   "nom": "Maltesers Bites Mint",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159530507"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402909962",
+   "nom": "Maltesers Biscutis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402909962"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357902950",
+   "nom": "Orange maltesers truffled",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357902950"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159539463",
+   "nom": "Maltesers Bunnies Easter Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159539463"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682059466",
+   "nom": "Malteasers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 880 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682059466"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159537940",
+   "nom": "Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159537940"
+  }
+ ]
+}

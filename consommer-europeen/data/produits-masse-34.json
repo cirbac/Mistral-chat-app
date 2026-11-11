@@ -1,0 +1,3650 @@
+{
+ "alimentation-et-boissons-nestle": [
+  {
+   "id": "alimentation-et-boissons-nestle-8002270686665",
+   "nom": "Momenti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270686665"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270396885",
+   "nom": "Melograno & Arancia Italian Sparkling Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270396885"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270586835",
+   "nom": "Sparkling Blood Orange Beverage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270586835"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270015380",
+   "nom": "S. Pellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 50 cl ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270015380"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270996795",
+   "nom": "Limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270996795"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8005200106561",
+   "nom": "Nestlé Vera",
+   "assemblage": "Castrocielo (FR)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8005200106561"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270206801",
+   "nom": "Aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270206801"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270656668",
+   "nom": "Momenti Citron Framboise",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270656668"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270876783",
+   "nom": "S.PELLEGRINO eau minérale naturelle gazeuse 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270876783"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270506796",
+   "nom": "Aranciata rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6×33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270506796"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270015373",
+   "nom": "San Pellegrino 500ml Mineral Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270015373"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270596803",
+   "nom": "San Pellegrino Naturali Aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270596803"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270256578",
+   "nom": "S.PELLEGRINO Eau Minéral Naturelle Gazeuse 33cl PET",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 33 cl e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270256578"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270846793",
+   "nom": "Cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270846793"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270456763",
+   "nom": "SANPELLEGRINO Momenti bois gazeuse aro orang sangu fleur d'oranger33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270456763"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270001956",
+   "nom": "Acqua frizzante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270001956"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270796838",
+   "nom": "S. Pellegrino essenza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270796838"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270736803",
+   "nom": "Aranciata amara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270736803"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270846823",
+   "nom": "Momenti - Te Darjeeling & agrumi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270846823"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270646799",
+   "nom": "Naturali Aranciata",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270646799"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270017513",
+   "nom": "San. Pellegrino Term",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270017513"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270096679",
+   "nom": "Acqua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 100 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270096679"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270786822",
+   "nom": "Pellegrino essenza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270786822"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270017520",
+   "nom": "S.pellegrino Sparking Water -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270017520"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270336850",
+   "nom": "San Pellegrino Limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270336850"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270001857",
+   "nom": "S. Pellegrinio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270001857"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270266799",
+   "nom": "Melograno & Arancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270266799"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270017506",
+   "nom": "S.pelligreno",
+   "assemblage": "italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270017506"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270001352",
+   "nom": "S. pellegrino Sparkling Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270001352"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270626883",
+   "nom": "Aranciata Rossa Sparkling Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270626883"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270486807",
+   "nom": "Pompelno",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270486807"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270556944",
+   "nom": "Sanpellegrino Light Aranciata Rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270556944"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270626791",
+   "nom": "Naturali Limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270626791"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270011016",
+   "nom": "San Pellegrino 1,00 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270011016"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270646904",
+   "nom": "Essenza saveur mandarine & fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270646904"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000188",
+   "nom": "Agua Mineral Natural con Gas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000188"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270556852",
+   "nom": "Italian sparkling water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270556852"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270336942",
+   "nom": "u",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · San Pellegrino Sparkling Can Drink - D.M Cherry & Pomegranate 4s 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270336942"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270946776",
+   "nom": "San Pellegrino Limone & Menta 6*33cL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270946776"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270436635",
+   "nom": "S.PELLEGRINO eau minérale naturelle gazeuse 75cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score NOT-APPLICABLE · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270436635"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270787409",
+   "nom": "Essenza Sparkling Tangerine Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270787409"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270757372",
+   "nom": "Essenza Sparkling Cherry Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270757372"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270836824",
+   "nom": "Aranaciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270836824"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270606823",
+   "nom": "Pompelmo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270606823"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270076787",
+   "nom": "Chinò zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270076787"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270826887",
+   "nom": "Juste d'orange pétillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270826887"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270001345",
+   "nom": "S. pellegrino Natural Sparkling Mineral Water (1 Liter)",
+   "assemblage": "Italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1000ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270001345"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270346941",
+   "nom": "k",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · San Pellegrino Essenza Sparkling Tangerine Water 4x33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270346941"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270666797",
+   "nom": "San Pellegrino Chinotto",
+   "assemblage": "Italy",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270666797"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270046834",
+   "nom": "San Pellegrino Chinò",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 4x33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270046834"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8004825000018",
+   "nom": "Olio di oliva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8004825000018"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000256",
+   "nom": "Woda San Pellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000256"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270015991",
+   "nom": "Agua Efervecente Spellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270015991"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270011030",
+   "nom": "Eau minérale gazeuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 24pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270011030"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270606885",
+   "nom": "Sanpellegrino Naturali Clementina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270606885"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270426902",
+   "nom": "Chinò zero zuccheri aggiunti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270426902"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508634465",
+   "nom": "Sparkling Natural Mineral Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 237 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508634465"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-80022725",
+   "nom": "Sanpellegrino Lemon Soda - Limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1x33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80022725"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508130608",
+   "nom": "Ciao! Cherry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508130608"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6412703013807",
+   "nom": "Naturali Pompelmo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6412703013807"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270696763",
+   "nom": "S.Pellegrino Kiste 16 x 0,75 Liter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 12l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270696763"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270446764",
+   "nom": "SANPELLEGRINO Momenti Orange sanguine Fleur d'oranger 6x33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270446764"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270020018",
+   "nom": "Sanbitter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 0.1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270020018"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270066771",
+   "nom": "Cocktail zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270066771"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270018466",
+   "nom": "ACQUA PANNA Eau Minérale Naturelle 75cl verre perdu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270018466"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270015519",
+   "nom": "eau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270015519"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270866531",
+   "nom": "San Bitter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270866531"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000300",
+   "nom": "Acqua San Pellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000300"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508302074",
+   "nom": "Blood orange and black raspberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508302074"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270566790",
+   "nom": "Naturali Melograno und Arancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270566790"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508800006",
+   "nom": "Sparkling Water San Pellegrino 33.8 Ounce Each",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 33.8Floz(1Qt)/1.8Floz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508800006"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270096778",
+   "nom": "Aranciata zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270096778"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270916809",
+   "nom": "Sparkling water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 0,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270916809"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508581653",
+   "nom": "Italian Sparkling Water Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 330 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508581653"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270206887",
+   "nom": "Limonata Sanpellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270206887"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5998828512322",
+   "nom": "Sanpellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5998828512322"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270766923",
+   "nom": "Blood Orange Lemonade - Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270766923"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508803069",
+   "nom": "Unflavored sparkling natural water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508803069"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270616914",
+   "nom": "Limonata Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270616914"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270876943",
+   "nom": "Chinò Extra Arancia E Vaniglia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270876943"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000720",
+   "nom": "S. Pellegrino Mineralwasser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000720"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-80069379",
+   "nom": "Acqua Brillante Recoaro Lattina CL. 33",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80069379"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270646898",
+   "nom": "Essenza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 6x33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270646898"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270018237",
+   "nom": "Still water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270018237"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270083709",
+   "nom": "San Pellegrino Sparkling Water 750ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270083709"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270446528",
+   "nom": "San Pellegrino Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270446528"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508303460",
+   "nom": "San Pellegrino Mineral Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508303460"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270756627",
+   "nom": "Chinotto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270756627"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270018732",
+   "nom": "Smooth taste toscana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270018732"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270026799",
+   "nom": "creazioni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 0.33l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270026799"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270676819",
+   "nom": "San Pellegrino - Aranciata naturali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270676819"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270015526",
+   "nom": "Acqua Panna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270015526"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508600200",
+   "nom": "Acqua Panna Natural Spring Water,",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508600200"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270727344",
+   "nom": "S.Pellegrino Lemon & Lemon zest",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270727344"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270666896",
+   "nom": "Pfirsich &weisser tee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270666896"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270546839",
+   "nom": "Sparking water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270546839"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270126567",
+   "nom": "La limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270126567"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270446504",
+   "nom": "Agua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270446504"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0055000200905",
+   "nom": "S. Pellegrino Eau Minérale Naturelle Gazéifiée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 15 × 750 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055000200905"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270026904",
+   "nom": "Naturali Clementina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270026904"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270816642",
+   "nom": "San Pellegrino Aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270816642"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270116766",
+   "nom": "Sanbitter Passion Fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 3 x 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270116766"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-05500352",
+   "nom": "Boisson Au chinotto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05500352"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270476853",
+   "nom": "Sanpellegrino naturali limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270476853"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270196904",
+   "nom": "Blood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270196904"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270756900",
+   "nom": "Naturali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270756900"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270004384",
+   "nom": "S.pellecrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270004384"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270616891",
+   "nom": "Gingerino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270616891"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270696824",
+   "nom": "Naturali Aranciata Rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 4x330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270696824"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270556920",
+   "nom": "Sanpellegrino Limonade Aranciata Rossa Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270556920"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270356520",
+   "nom": "SAN PELLEGRINO boisson pétillante au jus de citron 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270356520"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270316531",
+   "nom": "SANPELLEGRINO Boisson pétillante au jus d'orange sanguine 33cl",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270316531"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270686566",
+   "nom": "SANPELLEGRINO bois pétillant au jus de citron&d'extrait de menthe33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270686566"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270186622",
+   "nom": "Sanpellegrino pesca tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270186622"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270396588",
+   "nom": "SANPELLEGRINO Bois pétil au jus d'orange et de figue de Barbarie 33cl",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270396588"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270346507",
+   "nom": "SAN PELLEGRINO Boisson pétillante au jus d'orange 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270346507"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270166648",
+   "nom": "SANPELLEGRINO+Tea BIOà l'extrait de théetaujusde citron d'Italie6x25cl",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270166648"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270366475",
+   "nom": "SANPELLEGRINO boisson pétillante au jus de citron 6 x 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270366475"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270316548",
+   "nom": "SAN PELLEGRINO Boisson pétillante au jus d'orange sanguine 33cl x6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270316548"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270416583",
+   "nom": "SAN PELLEGRINO Bois pétil jus d'orange et de figue de Barbarie 6x33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270416583"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270166631",
+   "nom": "SANPELLEGRINO+Tea BIO à l'extrait de théetaujusde citron d'Italie6x25cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270166631"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270646560",
+   "nom": "San Pellegrino Chino' ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270646560"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270676574",
+   "nom": "SAN PELLEGRINO bois pétil au jus de citron et d'extrait de menthe 6 x 33cl",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270676574"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270656583",
+   "nom": "Melograno e arancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270656583"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270966538",
+   "nom": "Boisson Petillante Aromatisee Clementine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270966538"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270356476",
+   "nom": "SANPELLEGRINO boisson gazeuse aromatisée orange 6x33cl",
+   "assemblage": "F",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270356476"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270816475",
+   "nom": "Naranjada con gas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270816475"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270706523",
+   "nom": "Blood Orange",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 33 cl e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270706523"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270176647",
+   "nom": "Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 5 x 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270176647"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270836565",
+   "nom": "Sanpellegrino L'Aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270836565"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270946561",
+   "nom": "Boisson aranciata amara",
+   "assemblage": "5 - San Giorgio in Bosco (PD) Italia / Ruspino",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270946561"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270616563",
+   "nom": "Bibite gassate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,25 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270616563"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270406683",
+   "nom": "Boissons saveur citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270406683"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270296475",
+   "nom": "Sanpellegrino Aranciata Rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270296475"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270009242",
+   "nom": "San Bitter Aperitif 6 x",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 6 x 100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270009242"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270286674",
+   "nom": "San Pelligrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270286674"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270736544",
+   "nom": "San Pellegrino Pompelmo",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270736544"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270066535",
+   "nom": "S. pellegrino Lemon Juice 330ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270066535"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270106545",
+   "nom": "Sanpellegrino Pompelmo",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270106545"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270046551",
+   "nom": "Sanpellegrino Sparkling Orange Juice (330 ML)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270046551"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270216831",
+   "nom": "Sanpellegrino Arancia Rossa & Nettarina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270216831"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270366680",
+   "nom": "Mandarine et fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270366680"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270376900",
+   "nom": "Cocktail zero zuccheri aggiunti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270376900"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508934770",
+   "nom": "boisson pétillante à la grenade et à l'orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508934770"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270296604",
+   "nom": "SanPellegrino Pesca + Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270296604"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270256875",
+   "nom": "Sanpellegrino Arancia e Pera",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270256875"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270596575",
+   "nom": "l'Aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270596575"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270766664",
+   "nom": "Essenza Tangerine & Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 6 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270766664"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270096686",
+   "nom": "Essenza Zitrone & Zitronenzeste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270096686"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270446689",
+   "nom": "Italian orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 4 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270446689"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270386794",
+   "nom": "Sanpellegrino limone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270386794"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000294",
+   "nom": "San Pellegrino, eau gazeuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000294"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270016608",
+   "nom": "SANPELLEGRINO Melograno E Arancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270016608"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270086663",
+   "nom": "Clementina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 0.33l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270086663"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270596667",
+   "nom": "Agua con gas sabor naranja sanguina y frambuesa negra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270596667"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508511612",
+   "nom": "Sanpellecrino Orange Sanguine",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508511612"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270056574",
+   "nom": "San Pellegrino Lemon & Mint",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270056574"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270326608",
+   "nom": "Limone + tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270326608"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270896521",
+   "nom": "Sparkling Fruit Beverages Chinotto Can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270896521"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270166532",
+   "nom": "Agua Sparkling Con Jugo De Frutas Lata 330 ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270166532"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270986581",
+   "nom": "San pellegrino clementine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270986581"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270916588",
+   "nom": "Aqua tonica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270916588"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270576669",
+   "nom": "Agua con gas sabor mandarina y fresa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270576669"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270776649",
+   "nom": "Tonica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270776649"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270316678",
+   "nom": "S PELLEGRINO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270316678"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270466663",
+   "nom": "Ginger beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270466663"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270346897",
+   "nom": "Sanbitter Sambucco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270346897"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270716522",
+   "nom": "Sanpellegrino Pompelmo 33 CL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270716522"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270146527",
+   "nom": "San Pellegrino Sparkling Limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 6x330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270146527"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270576560",
+   "nom": "Refresco de pomelo con gas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270576560"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270306624",
+   "nom": "San Pellegrino Essenza - Mandarine & Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270306624"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270387005",
+   "nom": "Sanpellegrino Limone + tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270387005"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270796623",
+   "nom": "San Pellegrino Arranciata Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270796623"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270366765",
+   "nom": "Sambuco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270366765"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270906787",
+   "nom": "Natura infusa a freddo mela e erbe di montagna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 48 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270906787"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270076541",
+   "nom": "Sanpellegrino Sparkling Blood Orange Juice (330 ML)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270076541"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270336775",
+   "nom": "Saint Pellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270336775"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270936807",
+   "nom": "San Pellegrino Essenza bloedsinaasappel en framboos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270936807"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270686894",
+   "nom": "Naturali limone & menta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270686894"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270136559",
+   "nom": "S.PELLEGRINO - Agua mineral natural con gas carbónico añadido",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1 unidad",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270136559"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508300346",
+   "nom": "Italian Sparkling Blood Orange Beverage From Concentrate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 11.15 fl oz (330 mL)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508300346"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270027970",
+   "nom": "Sanpellegrino COCKTAIL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270027970"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270346583",
+   "nom": "Sanpellegrino-chinotto With Myrtle-330ml-italy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270346583"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270736575",
+   "nom": "L'aranciata Amara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270736575"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270566592",
+   "nom": "Tonic water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270566592"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270356971",
+   "nom": "Organic Sparkling Peach Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270356971"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270018749",
+   "nom": "Acqua Panna Glass Bottle Mineral Water",
+   "assemblage": "italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1000ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270018749"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270456558",
+   "nom": "Sanpellegrino Tonica 0,33 L.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270456558"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270546563",
+   "nom": "Pellegrino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270546563"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270936593",
+   "nom": "Sanpellegrino Arancoata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270936593"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270116735",
+   "nom": "Gingerino Gusto Agrumi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270116735"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270976629",
+   "nom": "Italian sparkling drinks aranciata rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 4 x 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270976629"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270806520",
+   "nom": "Sanpellegrino Aranciata Canette 6 x 33 CL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270806520"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270776588",
+   "nom": "San Pellegrino citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270776588"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270676628",
+   "nom": "Chinotto tasre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270676628"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270376634",
+   "nom": "Limonata Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270376634"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270336607",
+   "nom": "Sanpellegrino lemon and tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270336607"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270226557",
+   "nom": "San pellegrino bebida",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270226557"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7491606672808",
+   "nom": "SAMPELLEGRINO MELOGRANO & ARANCIA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7491606672808"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270376627",
+   "nom": "Limonada bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270376627"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270106798",
+   "nom": "Cocktail zero zuccheri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270106798"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270616648",
+   "nom": "SANPELLEGRINO LIMONATA BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270616648"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270566783",
+   "nom": "La limonata bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 275 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270566783"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270186660",
+   "nom": "san Pellegrino tonica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270186660"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270856761",
+   "nom": "San pellegrino fizzy water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270856761"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270886881",
+   "nom": "Clamentina sparkling drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270886881"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270015083",
+   "nom": "Acqua Panna Mineral Water Glass",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270015083"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270976803",
+   "nom": "San Pellegrino essenza mandarine et fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270976803"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270516856",
+   "nom": "san perregrino blood orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270516856"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270586583",
+   "nom": "Crodino Rosso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 8 x 10 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270586583"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270146671",
+   "nom": "Eau gaseuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270146671"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270906541",
+   "nom": "Pomegranate & Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 0,33",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270906541"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270426834",
+   "nom": "Italian sparkling lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270426834"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270626579",
+   "nom": "L'arancia Dolce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270626579"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270266676",
+   "nom": "Tangerine & wild strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270266676"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270476785",
+   "nom": "L‘ARANCIATA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270476785"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270366581",
+   "nom": "Sanpellegrino-lemon Soda With Menthol-330ml-italy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270366581"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270376580",
+   "nom": "Sanpellegrino-orange Soda-330ml-arancia E Fico D'ind-italy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270376580"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000263",
+   "nom": "S. Pellegrino Eau minérale naturelle avec adjonction de gaz carbonique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000263"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270019487",
+   "nom": "San Pellegrino aranciata rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270019487"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270020025",
+   "nom": "Sanbitter bianco",
+   "assemblage": "Sept. Sanpellegrino S.p.A. Sede Legale: Località Ruspino 24016 San Pellegrino Terme (BG)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6 x 100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270020025"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270025617",
+   "nom": "Sanpellegrino orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 6 x 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270025617"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270026546",
+   "nom": "LIMONADE AU JUS D'ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270026546"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270027949",
+   "nom": "Chinotto Original En Bouteille x6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270027949"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270246531",
+   "nom": "Agua Sparkling Con Jugo De Frutas Lata 330 ML Pompelmo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270246531"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270266881",
+   "nom": "Boisson aromatisée petillante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 6 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270266881"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270276538",
+   "nom": "San Pellegrino pamplemousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270276538"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270296505",
+   "nom": "Aranciata Rossa Sparking Blood Orange",
+   "assemblage": "Italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 6 Pack 375ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270296505"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270726569",
+   "nom": "San Pellegrino L'aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270726569"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270726583",
+   "nom": "Bebida refrescante de limón y menta con de zumo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270726583"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270786563",
+   "nom": "San Pellegrino La Limonata 50CL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270786563"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270896569",
+   "nom": "Old tonic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270896569"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270926563",
+   "nom": "L'Aranciata Dolce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270926563"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270936548",
+   "nom": "San Pellegrino Incontri Limoni di Sicilia e Menta Piperita del Piemonte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270936548"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270206597",
+   "nom": "Sanbitter Emozioni Pompelmo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270206597"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-80000549",
+   "nom": "Belte Peach Infusion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80000549"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270306600",
+   "nom": "Sanpellegrino pesca et tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270306600"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-03795838",
+   "nom": "San pellegrino limone + tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03795838"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270018459",
+   "nom": "San P. Panna 0,25 L. Glas / Papks.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270018459"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270206603",
+   "nom": "Jus de clémentine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270206603"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270406584",
+   "nom": "Sanbitter Emozioni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270406584"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270817434",
+   "nom": "San Pellegrino limome e menta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270817434"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-80067665",
+   "nom": "Chino chinotto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80067665"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270000461",
+   "nom": "Anniversary Edition",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270000461"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270186592",
+   "nom": "Sanbitter Emozioni passion fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270186592"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270526473",
+   "nom": "L'arancita Amara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270526473"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270877490",
+   "nom": "Pesca + Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270877490"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270226595",
+   "nom": "Italian Sparkling Drinks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270226595"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270018817",
+   "nom": "Sanpellegrino Sparkling Pompelmo Juice 16percent 200ML.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270018817"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270146640",
+   "nom": "Acqua tonica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270146640"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270576591",
+   "nom": "Acqua tonic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270576591"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508803809",
+   "nom": "Essenza - cerise noire et grenade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508803809"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270776632",
+   "nom": "Sanpellegrino tonica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270776632"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270646584",
+   "nom": "Chinò le bibite italiane'",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270646584"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270416637",
+   "nom": "Limonata organic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270416637"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270396687",
+   "nom": "Saveur citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270396687"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270906534",
+   "nom": "San Pellegrino Pomegranate and Orange 6X330ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270906534"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270786648",
+   "nom": "Aranciata bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270786648"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270206764",
+   "nom": "Sanbitter Pompelomo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270206764"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270546532",
+   "nom": "Sanpelleg. Pompelmo 0,33 Pant DK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270546532"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270356681",
+   "nom": "S. Pellegrino Essenza mandarine et fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270356681"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270736643",
+   "nom": "Sanpellegrino aranciata bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270736643"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270316661",
+   "nom": "Bebida aromatizada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270316661"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270556531",
+   "nom": "Sanpelleg. Limonata 0,33 L. Pant DK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270556531"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270326769",
+   "nom": "Zenzero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270326769"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270956805",
+   "nom": "S.pellegrino citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270956805"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270956782",
+   "nom": "Sampellegrino coementina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270956782"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270946851",
+   "nom": "Blood orange light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270946851"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270266829",
+   "nom": "San Pellegrino Naturali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270266829"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270236839",
+   "nom": "Italian sparkling drink naturali limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270236839"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508303712",
+   "nom": "Flavored mineral water Pink Grapefruit and Citrus blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508303712"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270076763",
+   "nom": "Sanbitter FIZZ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 4 x 25 cL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270076763"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270766749",
+   "nom": "Essenza saveur Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270766749"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270696909",
+   "nom": "Creazioni ZITRUS & DARJEELING TEE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270696909"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270716812",
+   "nom": "san pellegrino naturali pompelmo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270716812"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270856662",
+   "nom": "Pellegrino Sparkling Mineral Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270856662"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270426889",
+   "nom": "Sanpellegrino Naturali Aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270426889"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270386831",
+   "nom": "San Pellegrino Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270386831"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270576898",
+   "nom": "San Pellegrino Tonic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270576898"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270286766",
+   "nom": "Sanbitter zenzero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270286766"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270406768",
+   "nom": "Sanbitter sambuco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270406768"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270036651",
+   "nom": "Strawbitter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270036651"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-80048879",
+   "nom": "Cedrata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80048879"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270696794",
+   "nom": "Tonica agli agrumi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270696794"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270976568",
+   "nom": "Fiorfrutta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270976568"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6412703014361",
+   "nom": "Naturli Melograno & Arancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6412703014361"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5998828512308",
+   "nom": "San Pellegrino ARANCIATA 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5998828512308"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0055000213356",
+   "nom": "Cherry And Lemon Sparkling Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055000213356"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270916793",
+   "nom": "S.Pellegrino bruisend natuurlijk mineraalwater 6 x 50 cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270916793"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0042250666896",
+   "nom": "Ein Hauch von Pfirsich & weißer Tee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0042250666896"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0055000216043",
+   "nom": "CIAO! LIME",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055000216043"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508505413",
+   "nom": "Cherry Sorbet Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 11.15 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508505413"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270416972",
+   "nom": "San P. Ciao! Saveur pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270416972"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270586958",
+   "nom": "Limonata zero zuccheri aggiunti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270586958"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270566974",
+   "nom": "San Pellegrino Zero Pesca & Clementina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270566974"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0041508144971",
+   "nom": "Limoncellò",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041508144971"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270036378",
+   "nom": "SAN PELLEGRINO lichtbruisend water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270036378"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270676970",
+   "nom": "SAN PELLEGRINO Ciao! Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270676970"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270666964",
+   "nom": "SAN PELLEGRINO Ciao! Pesca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270666964"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270636974",
+   "nom": "SAN PELLEGRINO Light Pesca-Clementi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270636974"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270416620",
+   "nom": "Limonata Bottle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270416620"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270009235",
+   "nom": "San Pellegrino flaske glass",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 0.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270009235"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8002270636950",
+   "nom": "Sanpellegrino Pesca & Clementina Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8002270636950"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035365896",
+   "nom": "KITKAT 4 Finger Barre au chocolat au Lait, 41,5g en lot de 6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 249 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035365896"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035421554",
+   "nom": "KITKAT barre chocolatée 41,5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 415 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035421554"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020491416",
+   "nom": "Tablette double chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 99 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020491416"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035312050",
+   "nom": "Kit Kat Mini",
+   "assemblage": "Saksa",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 18x16,7g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035312050"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037051179",
+   "nom": "Kit Kat Chunky",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 4x40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037051179"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6294017130551",
+   "nom": "kitkat two fingers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 20.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6294017130551"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-40345116",
+   "nom": "Kit Kat",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 41.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40345116"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-40052496",
+   "nom": "KITKAT 4 Finger Barre au chocolat au Lait, 41,5g en lot de 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 124.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40052496"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3023290007150",
+   "nom": "Mix-In Kit Kat 4 x 115 g",
+   "assemblage": "53000 LAVAL",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 460 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3023290007150"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020423578",
+   "nom": "Kitkat Chunky Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020423578"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0059800516419",
+   "nom": "Barre De Chocolat Kit Kat (grand Format)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 73 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0059800516419"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-03422900",
+   "nom": "Kit Kat King Size Wafer Bars, 3-ounce Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 3oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03422900"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445291569171",
+   "nom": "KitKat Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291569171"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-40052441",
+   "nom": "Nestlé Kit Kat 41,5G Chocolate Covered Wafer Bar",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 41,5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40052441"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290538918",
+   "nom": "KITKAT 4 Finger white 41.5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 41.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290538918"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8901058852141",
+   "nom": "kitkat delights caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901058852141"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4902201182201",
+   "nom": "KitKat strong matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 124.3 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902201182201"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7891000394939",
+   "nom": "CEREAL MATINAL KIT KAT NESTLE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891000394939"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035662728",
+   "nom": "Kit Kat фітнес вафельний",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035662728"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-03140093",
+   "nom": "Kit Kat čokolada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03140093"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-50294534",
+   "nom": "Kit Kat 2 Finger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50294534"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8435257045757",
+   "nom": "Mix in, kit kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435257045757"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-95502489",
+   "nom": "Kit Kat 17g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 17g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/95502489"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000318964",
+   "nom": "Chocolate Frosted Donut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000318964"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0072554298837",
+   "nom": "KitKat Waffle Cones",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072554298837"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000245222",
+   "nom": "Kit Kat Big Kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000245222"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9300605144750",
+   "nom": "Kit Kat Gooey Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6.0 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300605144750"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8935001726302",
+   "nom": "kit-kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8935001726302"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7891000417027",
+   "nom": "Kit Kat Coconut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891000417027"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445291494664",
+   "nom": "KITKAT Lapin 3x17g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 51 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291494664"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445291354524",
+   "nom": "KITKAT 4 Finger Barre au Chocolat au Lait Multipack 3x41.5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 124.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291354524"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-96202364",
+   "nom": "Kit Kat chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96202364"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3033710012794",
+   "nom": "KITKAT Ball, Billes au chocolat au Lait,140g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3033710012794"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287872258",
+   "nom": "Nestle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287872258"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-84198402",
+   "nom": "Cherry Stix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/84198402"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033110603",
+   "nom": "Kit Kat Mini Snack Bag Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 217 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033110603"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-59947516",
+   "nom": "KITKAT Lapin 175g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59947516"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9556001670700",
+   "nom": "Kit Kat 4F",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 9",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556001670700"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9300605155435",
+   "nom": "Kit Kat Gold Crush",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300605155435"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9556001227560",
+   "nom": "Kitkat Green Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 17g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556001227560"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000856626",
+   "nom": "Kit Kat Thins Crisp Wafers in Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000856626"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000088034",
+   "nom": "Kit Kat Crisp Wafers In Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000088034"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7891000277249",
+   "nom": "Ovo De Páscoa Ao Leite",
+   "assemblage": "Brasil",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 332 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891000277249"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445291256415",
+   "nom": "KitKat Chunky",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291256415"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000953158",
+   "nom": "Kit Kat Wafer Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000953158"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020492949",
+   "nom": "Kit kat ball gr 36",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020492949"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000176267",
+   "nom": "Super King",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000176267"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9556001311344",
+   "nom": "Kit Kat Dark 52% Borneo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 35g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556001311344"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7891000248836",
+   "nom": "Kit Kat Dark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891000248836"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020492765",
+   "nom": "батончик Kit Kat Chunky Crunchy Double chok",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020492765"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000236831",
+   "nom": "KitKat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000236831"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036489447",
+   "nom": "Bâtonnets glacés Kit Kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036489447"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287148315",
+   "nom": "KitKat dark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 332 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287148315"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287148056",
+   "nom": "KITKAT 4 Finger Dark 41.5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 41.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287148056"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035395480",
+   "nom": "KITKAT 4 Finger Barre au chocolat au Lait, 41,5g en lot de 20, format promotionnel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 830 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035395480"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4600680015002",
+   "nom": "Kit kat zebra dark & white",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 124.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4600680015002"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038713199",
+   "nom": "Kitkat gold caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038713199"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020418949",
+   "nom": "KitKat chunky caramel beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020418949"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036236034",
+   "nom": "KITKAT Sachet d'oeufs 120g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036236034"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9556001029362",
+   "nom": "Nestle Kitkat Bites Intl. Recipe 40g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556001029362"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9300605030527",
+   "nom": "Kit Kat Milk Chocolate Block",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 170g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300605030527"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4902201174640",
+   "nom": "Kit Kat Thé Matcha Japon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902201174640"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020472569",
+   "nom": "Kit Kat Chunky Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020472569"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290334510",
+   "nom": "Kit Kat vegan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 124.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290334510"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-03405408",
+   "nom": "Kit Kat White Crisp Wafers 'N Creme Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03405408"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-42370437",
+   "nom": "Green Tea Matcha",
+   "assemblage": "Poland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 41,5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42370437"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8000300424850",
+   "nom": "KITKAT mini figurines 65g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 65 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000300424850"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3023290052495",
+   "nom": "Yogur kitkat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 460 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3023290052495"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035356023",
+   "nom": "Kit Et Kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035356023"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-42353713",
+   "nom": "Kit kat ruby cocoa beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42353713"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6294003573942",
+   "nom": "Kit Kat mini Moments Desserts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6294003573942"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290476630",
+   "nom": "Kitkat 5pk imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 103.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290476630"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9300605152830",
+   "nom": "Cookie Dough Kit Kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300605152830"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020414767",
+   "nom": "Kit Kat bites peanut butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020414767"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3800020420027",
+   "nom": "KitKat Chunky White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800020420027"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-40057583",
+   "nom": "Lapin Kit Kat",
+   "assemblage": "Ungarn",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40057583"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613034130501",
+   "nom": "Kit Kat Ao Leite Em Bolinhas Balde Com",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034130501"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035220287",
+   "nom": "Kit Kat 4 Finger 3 Pack + 1 Free",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035220287"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-40114101",
+   "nom": "Kitkat Green Tea Matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 41,5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40114101"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4902201175180",
+   "nom": "Party Ice Cream",
+   "assemblage": "Japan",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902201175180"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8000300395549",
+   "nom": "Kit kat buny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000300395549"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000996629",
+   "nom": "Kit Kat minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000996629"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4902201177498",
+   "nom": "Kit Kat framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902201177498"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9556001670717",
+   "nom": "Wafer Fingers in Milk Chocolate",
+   "assemblage": "Malaysia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 800 g (24 x 35 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556001670717"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290437730",
+   "nom": "KITKAT Vegan Wrapper 41.5g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 41.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290437730"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000943159",
+   "nom": "Kit Kat Birthday Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000943159"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445291151925",
+   "nom": "Kitkat Cereal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291151925"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000000548",
+   "nom": "Crisp white",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000000548"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4902201160476",
+   "nom": "Japanese Kit Kat Tamaruya Wasabi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902201160476"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035370159",
+   "nom": "Kit Kat Easter Egg 140G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035370159"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000138500",
+   "nom": "Kit Kat Minis Crisp Wafers In Milk Chocolate, 8 Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 8 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000138500"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6294003571030",
+   "nom": "Kit kat you",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6294003571030"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000306060",
+   "nom": "Kit Kat pumpkin pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000306060"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4902201174589",
+   "nom": "Kit Kat fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902201174589"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036245142",
+   "nom": "white chunky kit kat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036245142"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0034000400409",
+   "nom": "Reese's & Kit Kat Minature Size Party Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 33.36 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034000400409"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0059800509091",
+   "nom": "KIT KAT RUBY COCOA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0059800509091"
+  }
+ ]
+}

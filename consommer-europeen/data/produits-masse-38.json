@@ -1,0 +1,3628 @@
+{
+ "alimentation-boissons-coca-cola": [
+  {
+   "id": "alimentation-boissons-coca-cola-5449000257871",
+   "nom": "Fanta Melocotón y albaricoque",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000257871"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000026207",
+   "nom": "Fanta Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 20 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000026207"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000273093",
+   "nom": "Fanta frutos del bosque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000273093"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112641325",
+   "nom": "Fanta Zitrone & Holunderblüte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112641325"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000285720",
+   "nom": "Fanta Rasberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000285720"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000110671",
+   "nom": "Sprite 0.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 0.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000110671"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-59492610",
+   "nom": "Suc cu gust de lămâie și lămâie verde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59492610"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112570939",
+   "nom": "Sprite Zero Sugar Lemon-Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112570939"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112651874",
+   "nom": "Sprite zero 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112651874"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6415600582018",
+   "nom": "Sprite zero suger Sitruuna lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6415600582018"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000557015",
+   "nom": "Sprite Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000557015"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000344144",
+   "nom": "Carbonated Drink (Lemon & Mint Flavoured) 350 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000344144"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000104015",
+   "nom": "Soda Citron-Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 710ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000104015"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000027559",
+   "nom": "Sprit Returnable LEMON-LIME FLAVOURED DRINK 1.25 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000027559"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000057980",
+   "nom": "Lime Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000057980"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-73513575",
+   "nom": "Lupini in salamoia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/73513575"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9555589200699",
+   "nom": "Sprite 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9555589200699"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000012860",
+   "nom": "Chill Cherry Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000012860"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9300675026635",
+   "nom": "Sprite Lemon Lime No Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300675026635"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000225757",
+   "nom": "Sprite Lemon-Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000225757"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000303028",
+   "nom": "Sprite No Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000303028"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000081176",
+   "nom": "Vanilla Frost Sprite (Limited Edition)",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000081176"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7801610002179",
+   "nom": "Sprite ICE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801610002179"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4890008208302",
+   "nom": "Sprite (No Sugar)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4890008208302"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900681000",
+   "nom": "Refrigerante Limão Sprite Garrafa 2l",
+   "assemblage": "Brasil",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900681000"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90357008",
+   "nom": "Sprite Sirup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90357008"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000234643",
+   "nom": "Sprite Lower Sugar",
+   "assemblage": "South Africa",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 440 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000234643"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000250148",
+   "nom": "Sprite Lemon lime & cucumber",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000250148"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000028624",
+   "nom": "Sprite Lemon 6 x 500 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6 x 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000028624"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000275547",
+   "nom": "Napój cytrynowo-limonkowy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 850 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000275547"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000223609",
+   "nom": "Sprite cu gust de castravete",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000223609"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000249302",
+   "nom": "Srite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000249302"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000241436",
+   "nom": "sortie zéro concombre pastèque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000241436"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000279330",
+   "nom": "Sprite bajo en azúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000279330"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7750182000222",
+   "nom": "Sprite x 3lt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3lt",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750182000222"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8992761147143",
+   "nom": "sprite watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 425ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8992761147143"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112547832",
+   "nom": "Sprite 6er Set",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112547832"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000549195",
+   "nom": "Cranberry sprite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000549195"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900681178",
+   "nom": "Refrigerante Limão Sprite Lata 220ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 220ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900681178"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900680522",
+   "nom": "Refrigerante Lemon Fresh Sprite Garrafa 1,5l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900680522"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900680553",
+   "nom": "Refrigerante Lemon Fresh Sprite Garrafa 600ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 600ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900680553"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0725006321392",
+   "nom": "Sprite Zero Sugar Lemon Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0725006321392"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0062020221186",
+   "nom": "Tic tac Sprite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0062020221186"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000066831",
+   "nom": "Sprite Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000066831"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000216830",
+   "nom": "Sprite mint touch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000216830"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000229465",
+   "nom": "Sprite zero cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000229465"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000229922",
+   "nom": "Sprite Zero mint",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000229922"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000239723",
+   "nom": "Mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000239723"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000244451",
+   "nom": "Sprite arome citron-citron vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000244451"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000247582",
+   "nom": "Sprite lemon lime & cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000247582"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-01997644",
+   "nom": "Sprite a l'extrait de concombre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01997644"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000229366",
+   "nom": "Lemon Lime & Cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000229366"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000268808",
+   "nom": "Sprite lemon cactus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000268808"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112634075",
+   "nom": "Sprite Zitrone, Limette & Minze",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112634075"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000228284",
+   "nom": "Sprite lemon-lime no sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000228284"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000241528",
+   "nom": "lemon lime and cucumber",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000241528"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-08364388",
+   "nom": "Sprite sin azucar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/08364388"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000268815",
+   "nom": "Lemon lime & cactus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000268815"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-42380801",
+   "nom": "Sprite citron menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42380801"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000270269",
+   "nom": "Sprite Zero Lima-Limón",
+   "assemblage": "Neprecizat",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,25 l,",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000270269"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112569452",
+   "nom": "Sprite citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112569452"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000205667",
+   "nom": "Sprite Refresco De Lima Limón",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000205667"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000109867",
+   "nom": "Citron lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 6 x 222 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000109867"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9026651009003291240404",
+   "nom": "Waterlymon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9026651009003291240404"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-93566209",
+   "nom": "Spriteno sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/93566209"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000179753",
+   "nom": "Sprite 6x 330ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000179753"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5049000286064",
+   "nom": "Limonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5049000286064"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112658149",
+   "nom": "Sprite Lemon-Lime 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112658149"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000064841",
+   "nom": "Lemon lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000064841"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000081145",
+   "nom": "Winter Spiced Cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000081145"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000072792",
+   "nom": "SPRITE CHERRY",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000072792"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000012884",
+   "nom": "Sprite Chill Cherry Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000012884"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0229555000000",
+   "nom": "Chill",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0229555000000"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000555035",
+   "nom": "Refresco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000555035"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112654974",
+   "nom": "Sprite Zitrone-Limette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112654974"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-2890900660507",
+   "nom": "Lemon fresh",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2890900660507"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-93571951",
+   "nom": "Sprite 300ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/93571951"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000559040",
+   "nom": "Sprite Chill Strawberry Kiwi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000559040"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-04974004",
+   "nom": "sprite 12oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04974004"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-04901707",
+   "nom": "Sprite, Lemon-Lime Soda, Lemon-Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12.5 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04901707"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000093186",
+   "nom": "Lemon-Lime & Ginger Flavored Soda, Lemon-Lime & Ginger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000093186"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000064216",
+   "nom": "Soda, Lemon-Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000064216"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000066326",
+   "nom": "Sprite, Lebron'S Mix Lemon-Lime Soda, Natural Cherry And Orange , Lemon-Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000066326"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000061604",
+   "nom": "Sprite, Lemon-Lime Soda, Cranberry, Cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 20 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000061604"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000061611",
+   "nom": "Sprite, Zero, Zero Calorie Lemon-Lime Soda, Cranberry, Cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 12 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000061611"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000064155",
+   "nom": "Sprite, 6 Mix By Lebron James Lemon-Lime Soda, Natural Cherry And Orange, Cherry And Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 20 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000064155"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000059915",
+   "nom": "Sprite, Lemon-Lime Soda, Lemon-Line",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 19.2 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000059915"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000040920",
+   "nom": "Aruba Jam Sprite With Fruit Flavors, Aruba Jam",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 8 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000040920"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7801610125359",
+   "nom": "Sprite Chile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801610125359"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7790895063022",
+   "nom": "sprite retornable vidrio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7790895063022"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900337006",
+   "nom": "ABSOLUT VODKA Sprite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 269 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900337006"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5711994001410",
+   "nom": "Sprite + Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711994001410"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112679243",
+   "nom": "LEMON-LIME TASTE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112679243"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112603132",
+   "nom": "Sprite Zero Sugar Lemon-Lime 24 x 330 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112603132"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112602555",
+   "nom": "Sprite Zero Sugar Lemon-Lime 4 x 250 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112602555"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7801610223857",
+   "nom": "Sprite Zero Azúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801610223857"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9300675026598",
+   "nom": "Sprite ZERO SUGAR Natural Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300675026598"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-04961244",
+   "nom": "LEMON-LIME SODA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04961244"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000562361",
+   "nom": "Zero Sugar Mango Citrus Chill Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000562361"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000346469",
+   "nom": "Chill Zero Sugar Mint",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000346469"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112652482",
+   "nom": "Sprite Citron-Limetka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112652482"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6298043550215",
+   "nom": "Spencer’s Twist Sprite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6298043550215"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9581839682922",
+   "nom": "Lemon-Lime Flavoured Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9581839682922"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4780069001182",
+   "nom": "Sprite moxito",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0.5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4780069001182"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7835086175573",
+   "nom": "Sprite Sprite Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7835086175573"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480234902",
+   "nom": "oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 25cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480234902"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480186515",
+   "nom": "Oasis Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480186515"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000124999",
+   "nom": "Summer Fruits Juice Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000124999"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311010333",
+   "nom": "Oasis - Jus de pomme 100% pur",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 960 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311010333"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6291021210712",
+   "nom": "Eau plate",
+   "assemblage": "Abu Dhabi",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6291021210712"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311018339",
+   "nom": "Jus Mélange D'orange (non Sucré)",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 960ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311018339"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6291021210514",
+   "nom": "Oasis 1500 Litre Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1.5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6291021210514"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6074000069040",
+   "nom": "oasis water 500 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6074000069040"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311031338",
+   "nom": "Pamplemousse ruby red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 960 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311031338"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000125002",
+   "nom": "Oasis - Summer Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000125002"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311010111",
+   "nom": "Oasis 'classic' Unsweetened Apple Juice Blend (vitamin C Added)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311010111"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112674040",
+   "nom": "Oasis Summer Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112674040"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311338123",
+   "nom": "Jus Fraise Banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311338123"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311018995",
+   "nom": "Pur déjeuner orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311018995"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311338512",
+   "nom": "Hydra Fruit Blueberry Pomegranate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311338512"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311338796",
+   "nom": "Hydra Fruit Juice Watermelon Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311338796"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221305092",
+   "nom": "Oasis pocket",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 25cle",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221305092"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311018247",
+   "nom": "Just d’orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311018247"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480191427",
+   "nom": "Boisson tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 4 * 2 L (8 L)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480191427"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000035295",
+   "nom": "Oasis zero exotic fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000035295"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311607311",
+   "nom": "Delicieusement orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311607311"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311532354",
+   "nom": "Hydrafruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200.0g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311532354"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311040132",
+   "nom": "pêche clémentine",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 960 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311040132"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311241270",
+   "nom": "Oasis Pomme Calcium",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311241270"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311192558",
+   "nom": "smothies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1.6 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311192558"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274664225940",
+   "nom": "Oasis so Fruiz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274664225940"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311241379",
+   "nom": "Jus mangue exotique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311241379"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311020271",
+   "nom": "Jus orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311020271"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311037323",
+   "nom": "Exotic Mango Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311037323"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0028743015969",
+   "nom": "Sourdough",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0028743015969"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-00011343",
+   "nom": "Jus d’orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00011343"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112684834",
+   "nom": "Oasis  EXOTIC FRUITS Oasis NO ADDED SUGAR Sabrates 5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112684834"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480190673",
+   "nom": "O'Verger Pomme-Mûre-Cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 1,2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480190673"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480190604",
+   "nom": "O'Verger l'eau fruitée - Pomme, poire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 1.2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480190604"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690055617",
+   "nom": "Sirop Passion Abricot",
+   "assemblage": "chambery",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690055617"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480161000",
+   "nom": "Oasis Thé Pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480161000"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690055631",
+   "nom": "Oasis Sirop Framboise Mûre",
+   "assemblage": "schweppes",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690055631"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480192615",
+   "nom": "O verger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1,2 litre",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480192615"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480191823",
+   "nom": "O'Verger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480191823"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480180971",
+   "nom": "Tropical Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480180971"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311030119",
+   "nom": "Oasis cocktail de 10 legumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311030119"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274661100561",
+   "nom": "Oasis sorbet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274661100561"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690057468",
+   "nom": "Oasis sirop pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690057468"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480191397",
+   "nom": "Oasis Tropical 2x2L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 2 x 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480191397"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274664069056",
+   "nom": "Oasis Vanille Pêche Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274664069056"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690057505",
+   "nom": "Sirop Framboise Cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690057505"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690060765",
+   "nom": "Oasis sirop",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690060765"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274664142162",
+   "nom": "Sorbet mangue passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274664142162"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311038443",
+   "nom": "Jus d'orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311038443"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311011675",
+   "nom": "Jus De Fruits (pomme Du Verger)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311011675"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8728500998628",
+   "nom": "OASIS POMME POIRE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8728500998628"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311057895",
+   "nom": "Jus De Fruits Smoothie (mangue Tropicale)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311057895"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480190857",
+   "nom": "o'verger pomme fraise 4*20cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480190857"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221306815",
+   "nom": "Aqua fruit pomme fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221306815"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221307355",
+   "nom": "Oasis AquaFruit Multifruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221307355"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311058892",
+   "nom": "Strawberry Banana Smoothie Oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311058892"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480186812",
+   "nom": "Oasis zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480186812"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690055624",
+   "nom": "Oasis sirop Mangue Pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690055624"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480193025",
+   "nom": "Oasis Pomme Cassis Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480193025"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480188854",
+   "nom": "Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480188854"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311061335",
+   "nom": "Jus de fruits Ananas Banane Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311061335"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690057512",
+   "nom": "Sirop oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690057512"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6006101000233",
+   "nom": "Oasis natural mineral water still",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6006101000233"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311207641",
+   "nom": "Jus petits fruits grenade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311207641"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274664968083",
+   "nom": "glace oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274664968083"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311030218",
+   "nom": "cocktail de 10 légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311030218"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221204029",
+   "nom": "Oasis pocket pomme cassis framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221204029"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311160724",
+   "nom": "Oasis, Fruits Etc, Violet, 960ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311160724"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311048671",
+   "nom": "Collection Nature Orange Framboise Fruit de la Passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311048671"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480177490",
+   "nom": "Oasis Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480177490"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274664069063",
+   "nom": "Oasis coeur fruité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274664069063"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274664069070",
+   "nom": "Coeur fruité Tropical Framboise Oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274664069070"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112599725",
+   "nom": "Citrus Punch PMP £1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112599725"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221205286",
+   "nom": "Oasis pocket peche abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 6 x 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221205286"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221306839",
+   "nom": "Oasis O'Verger / Aquafruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 20cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221306839"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221306846",
+   "nom": "Aqua Fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221306846"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311201120",
+   "nom": "Morning smoothie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311201120"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3288850001287",
+   "nom": "Dattes deglet nour d'Algérie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3288850001287"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221205569",
+   "nom": "Oasis Aqua fruit pêche abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221205569"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000244598",
+   "nom": "Oasis Aqua Shock Spicy Raspberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000244598"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311010326",
+   "nom": "Apple juicd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311010326"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311040149",
+   "nom": "Jus oasis raisins petits fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311040149"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311083207",
+   "nom": "Jus d'orange 100% pur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311083207"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311016243",
+   "nom": "Jus oasis pomme-raisin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311016243"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311241867",
+   "nom": "Canneberge- pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311241867"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0092378120008",
+   "nom": "Original Hommus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0092378120008"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311255932",
+   "nom": "Pack de 50 jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311255932"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000125026",
+   "nom": "CITRUS PUNCH SiSeo REAL FRUIT, NATURAL FLAVOURS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000125026"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0092378171017",
+   "nom": "Pita Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0092378171017"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5039950869233",
+   "nom": "Kiran Mukhwas Rajastani Royal",
+   "assemblage": "India",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 225g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5039950869233"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274661092323",
+   "nom": "Bâtonnets Oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274661092323"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6132529380609",
+   "nom": "Dattes d'algerie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6132529380609"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311022336",
+   "nom": "Jus Orangerine (non Sucré)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311022336"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311024675",
+   "nom": "Orange mango juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311024675"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311054894",
+   "nom": "Oasis health break antioxia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311054894"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311070337",
+   "nom": "Mélange de jus à 100% fait de concentré &quot;délice d'ananas&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 960 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311070337"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311160717",
+   "nom": "Jus de fruits et legumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 960 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311160717"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311275374",
+   "nom": "Hydra fruit watermelon strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311275374"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0127190112013",
+   "nom": "Oasis tropical next",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0127190112013"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480171849",
+   "nom": "Orange (7+1 gratuite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 8 * 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480171849"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480156860",
+   "nom": "Oasis Agrumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 2 litres",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480156860"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480171719",
+   "nom": "Fraise Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480171719"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480173591",
+   "nom": "Oasis tropical goyave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480173591"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480181091",
+   "nom": "Oasis tropical zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480181091"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480182197",
+   "nom": "Blle Pet 2L Orange Fraise Oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480182197"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480184177",
+   "nom": "Oasis Boisson à l'eau de source orange les 5 bouteilles de 2 l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480184177"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480234803",
+   "nom": "Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480234803"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480205162",
+   "nom": "Pommes Cassis Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480205162"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690055648",
+   "nom": "Sirop de grenadine",
+   "assemblage": "73094 Chambery  cedex",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1,3 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690055648"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3217690055655",
+   "nom": "Oasis sirop menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1,3l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3217690055655"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274661092286",
+   "nom": "Oasis So Croc Citron Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274661092286"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274661092309",
+   "nom": "Glace",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274661092309"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274661106938",
+   "nom": "Batonnets vanille, tropical, framboise, pomme et fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274661106938"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274669101935",
+   "nom": "So Pop",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274669101935"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3427679884477",
+   "nom": "Oasis multifruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 litres",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3427679884477"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3595801901122",
+   "nom": "Oasis duo d'oranges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 25cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3595801901122"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3595801901375",
+   "nom": "Tropical Oasis Mit Quellwasser und Mehrfruchsaft",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3595801901375"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4014862012022",
+   "nom": "OASIS Schwarztee Seidenstraße",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4014862012022"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-42099796",
+   "nom": "Mixed Berry mighty drops",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 56ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42099796"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221205088",
+   "nom": "P'tit Oasis Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10×20cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221205088"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221205378",
+   "nom": "Oasis Pocket fraise banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221205378"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000122650",
+   "nom": "Oasis Blackcurrant Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000122650"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8014396000423",
+   "nom": "Oasis Tropical 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8014396000423"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8014396000430",
+   "nom": "Oasis Orange 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8014396000430"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8014396001819",
+   "nom": "Oasis orange carotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8014396001819"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8014396002311",
+   "nom": "Oasis ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8014396002311"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8014396002519",
+   "nom": "Oasis Multifrutta Vitalise Pet ML. 1500",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8014396002519"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311066897",
+   "nom": "Melange de jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311066897"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-13062013",
+   "nom": "tropical oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13062013"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311338994",
+   "nom": "Thé Glacé Cotron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311338994"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311532132",
+   "nom": "Hydra Fruit Clémentine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311532132"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311338284",
+   "nom": "Ananas orange exotique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 960 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311338284"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311085539",
+   "nom": "Jus d'orange probiotique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.65 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311085539"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274669092318",
+   "nom": "Sorbet Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274669092318"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3595801901139",
+   "nom": "Cocktail Tropical (Oasis)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3595801901139"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8423759057767",
+   "nom": "L'oasis Halal Turkey Chorizo Tapas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8423759057767"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311455752",
+   "nom": "Oasis infusion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311455752"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311336525",
+   "nom": "Jus De Pomme De Pomme Biologique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311336525"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311041078",
+   "nom": "Passion tropicale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311041078"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311207627",
+   "nom": "Oasis canneberge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311207627"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311080442",
+   "nom": "Jus d'orange 100% pur (avec pulpe)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1.65l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311080442"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311088448",
+   "nom": "Jus d’orange 100% Oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 2.630000114440918 l.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311088448"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480176042",
+   "nom": "Duo d'oranges Oasis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480176042"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5410221306822",
+   "nom": "Aquafruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410221306822"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3124480186645",
+   "nom": "Jus d orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 24 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480186645"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3274661075425",
+   "nom": "Oasis so twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274661075425"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311074076",
+   "nom": "Oasis Fruits Des Champs 3X200ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 x 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311074076"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0737069945224",
+   "nom": "Pitq",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0737069945224"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311041320",
+   "nom": "Oasis Passion Tropicale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8x200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311041320"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311265900",
+   "nom": "Oasis Hydra Fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311265900"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311031673",
+   "nom": "Jus De Fruits (canneberge & Grenade)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311031673"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311040125",
+   "nom": "Oasis Fraise Banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311040125"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067311016076",
+   "nom": "Pomme raison",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067311016076"
+  }
+ ],
+ "alimentation-boissons-pepsico": [
+  {
+   "id": "alimentation-boissons-pepsico-3502110009449",
+   "nom": "Oranges sans pulpe",
+   "assemblage": "chennai",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110009449"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110006790",
+   "nom": "Tropicana 100% oranges pressées sans pulpe format familial 1,5 L",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110006790"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110003201",
+   "nom": "Tropicana Multivitamines 1 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110003201"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156680",
+   "nom": "Tropicana Multivitamines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156680"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110010643",
+   "nom": "Tropicana Essentiels Vitalité pomme, banane, kiwi, ananas, épinard vitamine C & magnésium 1 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110010643"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110005663",
+   "nom": "Tropicana Pomme origine France 1 L",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110005663"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188013085",
+   "nom": "Tropicana Réveil fruité format familial 1,5 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188013085"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156376",
+   "nom": "Jus Frais oranges pressées sans pulpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156376"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156741",
+   "nom": "Tropicana Oranges pressées avec pulpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156741"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156925",
+   "nom": "Tropicana Réveil des Tropiques",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156925"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156987",
+   "nom": "Tropicana Sanguinello",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156987"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000802",
+   "nom": "Drink Juicy Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000802"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313000251",
+   "nom": "Smooth Orange with no Bits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313000251"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000987",
+   "nom": "Sensation fruitée orange mangue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000987"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002002332",
+   "nom": "Clémentine de Méditerranée Pur Jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002002332"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156864",
+   "nom": "Tropicana Ananas citron vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156864"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110007742",
+   "nom": "Tropicana 100% oranges pressées sans pulpe 1 L",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110007742"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000208",
+   "nom": "Samba (Goyave, Ananas, Citron vert)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000208"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000864",
+   "nom": "JUICY - Pomme cassis framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000864"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001458",
+   "nom": "Les Citronnades",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 90 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001458"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001755",
+   "nom": "Pause fruitée orange pommes grenade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001755"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110005250",
+   "nom": "Tropicana pomme douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110005250"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110009906",
+   "nom": "Tropicana Pomme origine France format familial 1,5 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110009906"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002002363",
+   "nom": "Pamplemousse rose ruby",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002002363"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313000282",
+   "nom": "Orange Juice with Juicy Bits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 900ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313000282"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000925",
+   "nom": "Sensation fruitée pomme concombre citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000925"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000659",
+   "nom": "Réveil Fruité - 4 fruits pressés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 90cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000659"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930156772",
+   "nom": "Tropicana Pomme pressée",
+   "assemblage": "colombes",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930156772"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002771",
+   "nom": "Tropicana Fruitz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002771"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313321127",
+   "nom": "Pineapple Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313321127"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000956",
+   "nom": "1L TROPICANA SENSATION FRUITEE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000956"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313000343",
+   "nom": "Pressed apple juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313000343"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010443",
+   "nom": "Original orange with juicy bits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010443"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313333298",
+   "nom": "Sanitary Pads",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313333298"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313332154",
+   "nom": "Tropicana Original Orange Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313332154"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8422174025016",
+   "nom": "Zumo de naranja sin pulpa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422174025016"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188036961",
+   "nom": "Jus d'orange sans pulpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 90cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188036961"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188036923",
+   "nom": "Jus d orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 90cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188036923"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500206027",
+   "nom": "100% Orange Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 11 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500206027"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110009456",
+   "nom": "Tropicana 100% oranges pressées sans pulpe lot de 2 x 1 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 2000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110009456"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000383",
+   "nom": "Tropicana samba",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 90 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000383"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188029581",
+   "nom": "Pressed Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188029581"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188007091",
+   "nom": "Tropicana Orange avec pulpe 25 cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188007091"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313312101",
+   "nom": "Tropicana Orange and Mango Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 850ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313312101"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313319438",
+   "nom": "Tropical Fruit Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 850ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313319438"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010511",
+   "nom": "Topical Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score E · 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010511"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002665",
+   "nom": "Tropicana Frutz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002665"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188037081",
+   "nom": "Sanguinello",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 90cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188037081"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000239",
+   "nom": "Bollywood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000239"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188031836",
+   "nom": "Jus d'orange avec pulpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188031836"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010405",
+   "nom": "Orchard Apple Perfectly Pressed",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 1.5 Litre",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010405"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110006028",
+   "nom": "Tpp orange pet 25cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110006028"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002013000",
+   "nom": "Orangensaft ohne Fruchtfleisch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002013000"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205877",
+   "nom": "Pineapple Mango Refreshers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 46 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205877"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205983",
+   "nom": "Apple juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 11 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205983"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205648",
+   "nom": "Orange Juice - Lots of Pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 46 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205648"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001786",
+   "nom": "Juicy Pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001786"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002002561",
+   "nom": "Pure douceur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 90 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002002561"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110009418",
+   "nom": "Tropicana Orange avec pulpe lot de 2 x 1 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 2000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110009418"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188019162",
+   "nom": "Tropicana arancia",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 l e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188019162"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010467",
+   "nom": "Orange with extra juicy bits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 1.5litre",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010467"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500018309",
+   "nom": "No pulp pure premium orange juice plus calcium",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 89 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500018309"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002000833",
+   "nom": "Juicy orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002000833"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500001745",
+   "nom": "Orange juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 10 oz. / 296 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500001745"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8710398521019",
+   "nom": "Banana Passion Fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710398521019"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001250",
+   "nom": "Tropicana juicy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001250"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205792",
+   "nom": "Light Orange Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 46 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205792"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205945",
+   "nom": "Zero Sugar Fruit Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 46 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205945"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080013296",
+   "nom": "Tropicana Orange Delight juice 1ltr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080013296"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205938",
+   "nom": "Passionfruit Lemonade Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205938"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002740",
+   "nom": "Appletini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002740"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002012270",
+   "nom": "Tropicana Orange Met Vruchtvlees 1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002012270"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930165101",
+   "nom": "Tropicana Banane passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930165101"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188803259",
+   "nom": "Orange",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188803259"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8422174025085",
+   "nom": "Zumo de Manzana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422174025085"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500202746",
+   "nom": "Pure Premium Orange Juice Original No Pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500202746"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010429",
+   "nom": "Orange And Mango Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010429"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002085",
+   "nom": "Tropicana Orange Delight 180ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 180ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002085"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001229",
+   "nom": "Tropicana juicy tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001229"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313293721",
+   "nom": "Tropicana grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 850 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313293721"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313994840",
+   "nom": "Sanguinello blood oranhe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313994840"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313505800",
+   "nom": "Tropicana Orange Juice Smooth 4 X 250 ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 4 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313505800"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188036664",
+   "nom": "Presset Appelsin med Fruktkjøtt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188036664"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002012126",
+   "nom": "Jus de framboise citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002012126"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002011433",
+   "nom": "Multivit Boost Mixed Berries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002011433"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205884",
+   "nom": "Tropicana refreshers - peach pineapple. - Tropicana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205884"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205952",
+   "nom": "ZS Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205952"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205914",
+   "nom": "Strawberry Peach Refreshers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205914"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500206652",
+   "nom": "Orange Juice No Pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500206652"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002012485",
+   "nom": "Appelsap Pink Lady",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002012485"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080001439",
+   "nom": "guava delight",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080001439"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002002530",
+   "nom": "Edition limitée pure passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 90 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002002530"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8710398516633",
+   "nom": "Multivitamins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 900ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710398516633"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110006806",
+   "nom": "Tropicana sans pulpe lot de 2 x 1,5 L",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110006806"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313000312",
+   "nom": "Tropicana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 900ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313000312"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002733",
+   "nom": "Tropicana Fruitz Mixed Fruit Magic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 180ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002733"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080013265",
+   "nom": "Tropicana Guava Juice (25)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 10",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080013265"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010733",
+   "nom": "Kids strawberry and banana smoothie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010733"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002214",
+   "nom": "Tropicana Guava Delight",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002214"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001366",
+   "nom": "Orange touche de menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001366"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500001783",
+   "nom": "Tropicana Orange Juice Homestyle 1.89L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500001783"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500009062",
+   "nom": "Pure Premium Orange Juice Grovestand Lots Of Pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500009062"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002012096",
+   "nom": "Sicilian Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002012096"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500008386",
+   "nom": "Juice Beverage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 10 fl oz (296 mL)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500008386"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500019634",
+   "nom": "Jus Tropics (orange, Fraise, Banane)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 1,75 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500019634"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002047",
+   "nom": "Tropicana guava",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 180ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002047"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205754",
+   "nom": "Red Grapefruit Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205754"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500021231",
+   "nom": "Fruit Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500021231"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500018378",
+   "nom": "Strawberry Kiwi Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500018378"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001014",
+   "nom": "Sensation fruitée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001014"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205488",
+   "nom": "Strawberry lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 46 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205488"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500206430",
+   "nom": "Limonade au fruit de la passion zerosucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500206430"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205990",
+   "nom": "Cranberry Cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 125 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205990"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002011884",
+   "nom": "Multivitamin Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002011884"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001816",
+   "nom": "Tropicana juicy citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001816"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0544830010643",
+   "nom": "Vitalité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0544830010643"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080002795",
+   "nom": "Tropicana Frutz Mixed Fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080002795"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500206867",
+   "nom": "Orange Blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500206867"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002008877",
+   "nom": "Orange And Mango Pure Pressed Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002008877"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002009126",
+   "nom": "smooth orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002009126"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002001670",
+   "nom": "Jus multivitamines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002001670"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3051800806627",
+   "nom": "Réveil fruité (4 fruits pressés)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3051800806627"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188016277",
+   "nom": "Pure Prenium Arancia Bionda con pulpa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188016277"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110005878",
+   "nom": "Tropicana Orange avec pulpe 4 x 25 cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110005878"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188037043",
+   "nom": "Tropical fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188037043"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188036947",
+   "nom": "Tropicana orange with pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188036947"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500203569",
+   "nom": "Jus d'orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 1.54 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500203569"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930162018",
+   "nom": "Tropicana essentiel energie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930162018"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500001578",
+   "nom": "Tropicana Original Orange Juice No Pulp 1.89L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1,89 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500001578"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188036800",
+   "nom": "Tropicana pressed apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188036800"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3502110009487",
+   "nom": "Tropicana 100% oranges pressées sans pulpe format spécial lot de 4 x 1 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 4000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3502110009487"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500018293",
+   "nom": "Tropicana Pure Premium 100% Pure Florida Orange Juice Some Pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500018293"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500202722",
+   "nom": "Pineapple Mango Juice with Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500202722"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500202913",
+   "nom": "Trop orange juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500202913"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002010702",
+   "nom": "Tropicana Smoothie Pineapple & Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score D · 4 x 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002010702"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500205778",
+   "nom": "No Pulp Lower Sugar Orange Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500205778"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5022313849942",
+   "nom": "Tropicana Orange Juice Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313849942"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080013258",
+   "nom": "mango delight",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080013258"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-1210002011402",
+   "nom": "Tropicana MultiVit Boost Smooth Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1210002011402"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188036688",
+   "nom": "Pressed Orange Without Pulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 900 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188036688"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080013869",
+   "nom": "Pomegranate juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080013869"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0048500008683",
+   "nom": "Pineapple orange juice drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048500008683"
+  }
+ ]
+}
