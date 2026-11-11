@@ -579,7 +579,7 @@ button:hover {
   align-items: center;
   gap: 14px;
   padding: 44px 24px;
-  background: var(--cirba-noir);
+  background: #11204c;
   border-top: 4px solid #ffd200;
 }
 
@@ -1083,7 +1083,7 @@ button:hover {
 }
 
 [data-theme='dark'] .footer {
-  background: var(--cirba-noir);
+  background: #11204c;
   border-color: #ffd200;
 }
 
