@@ -71,6 +71,17 @@ python3 tools/parse_docx.py /chemin/vers/la_grille_vX.docx /tmp/grille-parsed.js
 
 `siege_pays` : code pays ISO (FR, DE, NL, SE, IT, GB, CH, PL, FI, JP, KR, TW, CA, AT, IN, US, CN, EU…). Le filtre « Préférence France » ne retient que `siege_pays = "FR"`.
 
+## Branding Cirba Consult
+
+Identité visuelle depuis les fichiers officiels du Drive, servis dans `public/assets/` :
+
+- `favicon.png` — favicon 128×128, fond noir `#040405`
+- `logo-black.png` — logo PNG noir (597×256, fond transparent), page de connexion
+- `logo-white.png` — version blanche par **inversion des canaux RGB** du PNG noir (alpha conservé), utilisée dans l'en-tête sombre
+- `logo-black.svg` / `logo-white.svg` — versions vectorielles officielles (conservées en secours)
+
+Palette extraite du logo : **noir `#040405`**, **anthracite `#282828`**, gris clair `#e5e5e5` / `#f1f1f1`, blanc — variables CSS `--cirba-*` dans `public/style.css`.
+
 ## Avertissement
 
 Document d'information générale — ni conseil en investissement ni recommandation d'achat de titres (repris du document source).
