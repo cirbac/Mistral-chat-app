@@ -34,27 +34,29 @@ body {
 
 .topbar-left {
   grid-column: 1;
+  justify-self: start;
 }
 
-.brand {
-  grid-column: 2;
-  justify-self: center;
-  display: flex;
-  align-items: center;
-  gap: 14px;
-}
-
-.brand img.logo {
+.topbar-left img.logo {
   height: 34px;
   width: auto;
   display: block;
 }
 
-.brand h1 {
+.topbar-titre {
+  grid-column: 2;
+  justify-self: center;
   margin: 0;
   font-size: 1.15rem;
   font-weight: 600;
   color: var(--cirba-blanc);
+}
+
+.account-btn {
+  font-size: 1.25rem;
+  line-height: 1;
+  padding: 6px 10px;
+  border-radius: 999px;
 }
 
 .controls {
@@ -494,4 +496,196 @@ button:hover {
   margin: 4px 0 10px;
   font-size: 0.9rem;
   color: var(--texte-doux);
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 4, 5, 0.55);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 6vh 16px;
+  z-index: 50;
+}
+
+.modal-card {
+  background: var(--cirba-blanc);
+  border: 1px solid var(--bordure);
+  border-top: 4px solid var(--cirba-noir);
+  border-radius: 14px;
+  padding: 22px;
+  width: min(440px, 94vw);
+  max-height: 88vh;
+  overflow-y: auto;
+}
+
+.modal-card h2 {
+  margin: 6px 0 10px;
+}
+
+.modal-card h3 {
+  margin: 20px 0 8px;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--texte-doux);
+}
+
+.account-email {
+  font-size: 0.9rem;
+}
+
+#pw-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+#pw-form input {
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+#pw-form button {
+  margin-top: 4px;
+  padding: 10px;
+  background: var(--cirba-noir);
+  color: var(--cirba-blanc);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.pw-msg {
+  margin: 6px 0 0;
+  font-size: 0.85rem;
+}
+
+.pw-msg.ok {
+  color: #1a7f37;
+}
+
+.pw-msg.ko {
+  color: #cf222e;
+}
+
+#theme-toggle,
+#logout {
+  width: 100%;
+  text-align: left;
+}
+
+.modal-card select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+[data-theme='dark'] body {
+  background: #0f0f10;
+  color: #f2f2f2;
+}
+
+[data-theme='dark'] .cat-card,
+[data-theme='dark'] .carte,
+[data-theme='dark'] .detail,
+[data-theme='dark'] .modal-card,
+[data-theme='dark'] .login-card {
+  background: #1b1b1d;
+  border-color: #333;
+  color: #f2f2f2;
+}
+
+[data-theme='dark'] .cat-card:hover,
+[data-theme='dark'] .carte:hover {
+  background: #242426;
+}
+
+[data-theme='dark'] .home-titre,
+[data-theme='dark'] .cat-header h2,
+[data-theme='dark'] .detail h2,
+[data-theme='dark'] .modal-card h2,
+[data-theme='dark'] .login-card h1 {
+  color: #f2f2f2;
+}
+
+[data-theme='dark'] .cat-corps small,
+[data-theme='dark'] .carte .marques,
+[data-theme='dark'] .carte .meta-ligne,
+[data-theme='dark'] .cat-note,
+[data-theme='dark'] .sous-cats-label,
+[data-theme='dark'] .cat-sous-titre,
+[data-theme='dark'] .vide,
+[data-theme='dark'] .sources,
+[data-theme='dark'] .detail dt,
+[data-theme='dark'] .detail h3,
+[data-theme='dark'] .modal-card h3,
+[data-theme='dark'] .sous-titre,
+[data-theme='dark'] .astuce,
+[data-theme='dark'] .footer {
+  color: #9aa0a6;
+}
+
+[data-theme='dark'] .recherche input,
+[data-theme='dark'] .modal-card select,
+[data-theme='dark'] #pw-form input,
+[data-theme='dark'] .login-card input {
+  background: #1b1b1d;
+  color: #f2f2f2;
+  border-color: #444;
+}
+
+[data-theme='dark'] .chip {
+  background: #1b1b1d;
+  color: #f2f2f2;
+  border-color: #444;
+}
+
+[data-theme='dark'] .chip-static {
+  background: #242426;
+}
+
+[data-theme='dark'] button {
+  background: #1b1b1d;
+  color: #f2f2f2;
+  border-color: #444;
+}
+
+[data-theme='dark'] button:hover {
+  background: #2a2a2d;
+}
+
+[data-theme='dark'] .controls .account-btn {
+  background: transparent;
+  border-color: var(--cirba-gris);
+  color: var(--cirba-blanc);
+}
+
+[data-theme='dark'] #pw-form button {
+  background: var(--cirba-blanc);
+  color: var(--cirba-noir);
+}
+
+[data-theme='dark'] .footer {
+  background: #1b1b1d;
+  border-color: #333;
+}
+
+[data-theme='dark'] .detail .produit {
+  background: #242426;
+  color: #f2f2f2;
+  border-color: #444;
+}
+
+[data-theme='dark'] .detail .produit small {
+  color: #9aa0a6;
+}
+
+[data-theme='dark'] .login-page {
+  background: #0f0f10;
 }
