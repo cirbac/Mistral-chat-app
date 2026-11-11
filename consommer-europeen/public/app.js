@@ -193,6 +193,7 @@ async function showSecteur(id) {
   }
   el.results.appendChild(head);
 
+  const cards = [];
   if (s.sous_categories.length > 0) {
     const sous = document.createElement('div');
     sous.className = 'sous-cats';
@@ -200,10 +201,18 @@ async function showSecteur(id) {
     label.className = 'sous-cats-label';
     label.textContent = 'Sous-catégories :';
     sous.appendChild(label);
+    const tous = document.createElement('button');
+    tous.type = 'button';
+    tous.className = 'chip chip-active';
+    tous.textContent = 'Toutes';
+    tous.addEventListener('click', () => filtrerSousCat(null, tous));
+    sous.appendChild(tous);
     for (const sc of s.sous_categories) {
-      const chip = document.createElement('span');
-      chip.className = 'chip chip-static';
+      const chip = document.createElement('button');
+      chip.type = 'button';
+      chip.className = 'chip';
       chip.textContent = sc;
+      chip.addEventListener('click', () => filtrerSousCat(sc, chip));
       sous.appendChild(chip);
     }
     el.results.appendChild(sous);
@@ -220,7 +229,21 @@ async function showSecteur(id) {
     p.textContent = 'Aucune marque dans cette catégorie avec cette préférence.';
     el.results.appendChild(p);
   }
-  for (const g of s.groupes) el.results.appendChild(carteGroupe(g));
+  const liste = document.createElement('div');
+  liste.className = 'results';
+  for (const g of s.groupes) {
+    const c = carteGroupe(g);
+    c.dataset.sousCat = g.sous_categorie || '';
+    cards.push(c);
+    liste.appendChild(c);
+  }
+  el.results.appendChild(liste);
+
+  function filtrerSousCat(sc, chip) {
+    for (const c of cards) c.style.display = !sc || c.dataset.sousCat === sc ? '' : 'none';
+    for (const b of el.results.querySelectorAll('.sous-cats .chip')) b.classList.remove('chip-active');
+    if (chip) chip.classList.add('chip-active');
+  }
   window.scrollTo({ top: 0 });
 }
 

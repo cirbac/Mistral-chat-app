@@ -8,13 +8,11 @@
    {
     "id": "telecoms-numerique-et-energie-bouygues-telecom",
     "groupe": "Bouygues Telecom",
-    "marques": [
-     "Bouygues Telecom",
-     "B&You"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -24,13 +22,11 @@
    {
     "id": "telecoms-numerique-et-energie-iliad",
     "groupe": "Iliad",
-    "marques": [
-     "Free",
-     "Free Mobile"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -40,14 +36,12 @@
    {
     "id": "telecoms-numerique-et-energie-altice-france",
     "groupe": "Altice France",
-    "marques": [
-     "SFR",
-     "RED by SFR"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Protocole d'accord de juin 2026 pour une cession à Bouygues Telecom (42 % du prix), Free (31 %) et Orange (27 %) pour 20,35 Md€ [31] , sous réserve notamment des autorisations de concentration [32] . Cloud et streaming",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Protocole d'accord de juin 2026 pour une cession à Bouygues Telecom (42 % du prix), Free (31 %) et Orange (27 %) pour 20,35 Md€ [31] , sous réserve notamment des autorisations de concentration [32] .",
     "sources": [
      31,
      32
@@ -59,12 +53,11 @@
    {
     "id": "telecoms-numerique-et-energie-scaleway-groupe-iliad",
     "groupe": "Scaleway (groupe Iliad)",
-    "marques": [
-     "Scaleway"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Cloud et streaming",
     "commentaire": "Cloud.",
     "sources": [],
     "lieux_production": [],
@@ -74,13 +67,26 @@
    {
     "id": "telecoms-numerique-et-energie-spotify",
     "groupe": "Spotify",
-    "marques": [
-     "Spotify Suède"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
-    "commentaire": "Musique en ligne. Deezer Deezer France Rang 1 Musique en ligne. Énergie",
+    "sous_categorie": "Cloud et streaming",
+    "commentaire": "Musique en ligne.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-deezer",
+    "groupe": "Deezer",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cloud et streaming",
+    "commentaire": "Musique en ligne.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -89,13 +95,26 @@
    {
     "id": "telecoms-numerique-et-energie-edf",
     "groupe": "EDF",
-    "marques": [
-     "EDF"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Énergie",
     "commentaire": "Contrôle public français.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-engie",
+    "groupe": "Engie",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -104,13 +123,11 @@
    {
     "id": "telecoms-numerique-et-energie-shell-bp",
     "groupe": "Shell, BP",
-    "marques": [
-     "Shell",
-     "BP"
-    ],
+    "marques": [],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
+    "sous_categorie": "Énergie",
     "commentaire": "",
     "sources": [],
     "lieux_production": [],
@@ -119,7 +136,9 @@
    }
   ],
   "sous_categories": [
-   "Opérateurs télécoms"
+   "Opérateurs télécoms",
+   "Cloud et streaming",
+   "Énergie"
   ],
   "keywords": [
    "télécom",

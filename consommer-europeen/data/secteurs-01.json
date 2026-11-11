@@ -1,0 +1,291 @@
+[
+ {
+  "num": "01",
+  "id": "automobile",
+  "nom": "Automobile",
+  "note": "",
+  "groupes": [
+   {
+    "id": "automobile-renault-group",
+    "groupe": "Renault Group",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Constructeurs européens",
+    "commentaire": "Contrôle européen. La Dacia Spring est produite en Chine [1] .",
+    "sources": [
+     1
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "renault-group-dacia-spring",
+      "nom": "Dacia Spring",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produite en Chine [1]."
+     }
+    ]
+   },
+   {
+    "id": "automobile-stellantis",
+    "groupe": "Stellantis",
+    "marques": [],
+    "siege": "Pays-Bas (siège légal)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Constructeurs européens",
+    "commentaire": "Contrôle européen. Site d'assemblage à vérifier modèle par modèle.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-volkswagen-group",
+    "groupe": "Volkswagen Group",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Constructeurs européens",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-bmw-group",
+    "groupe": "BMW Group",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Constructeurs européens",
+    "commentaire": "Contrôle européen. Le BMW iX3 est produit en Chine depuis 2021 [1] et des Mini électriques y sont assemblées [2] .",
+    "sources": [
+     1,
+     2
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "bmw-group-ix3",
+      "nom": "BMW iX3",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit en Chine depuis 2021 [1]."
+     },
+     {
+      "id": "bmw-group-mini-electrique",
+      "nom": "Mini électriques",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Assemblées en Chine [2]."
+     }
+    ]
+   },
+   {
+    "id": "automobile-mercedes-benz-group",
+    "groupe": "Mercedes-Benz Group",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "sous_categorie": "Constructeurs européens",
+    "commentaire": "BAIC (constructeur public chinois) détient 9,98 % et Li Shufu (fondateur de Geely) environ 9,7 %",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-nissan",
+    "groupe": "Nissan",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "Partenaire de Renault au sein de l'Alliance.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-mazda",
+    "groupe": "Mazda",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-suzuki",
+    "groupe": "Suzuki",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-subaru",
+    "groupe": "Subaru",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-hyundai-motor-group",
+    "groupe": "Hyundai Motor Group",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "Usines européennes : Nošovice (Tchéquie) pour Hyundai, Žilina (Slovaquie) pour Kia.",
+    "sources": [],
+    "lieux_production": [
+     "Tchéquie (Nošovice)",
+     "Slovaquie (Žilina)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hyundai-nosovice",
+      "nom": "Hyundai (usine de Nošovice)",
+      "assemblage": "Tchéquie (Nošovice)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Usine européenne."
+     },
+     {
+      "id": "kia-zilina",
+      "nom": "Kia (usine de Žilina)",
+      "assemblage": "Slovaquie (Žilina)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Usine européenne."
+     }
+    ]
+   },
+   {
+    "id": "automobile-volvo-cars",
+    "groupe": "Volvo Cars",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques sous contrôle chinois",
+    "commentaire": "Actionnaire majoritaire : Geely (Chine). Plusieurs modèles électriques produits en Chine, dont l'EX30 [1] .",
+    "sources": [
+     1
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "volvo-cars-ex30",
+      "nom": "EX30",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produite en Chine [1]."
+     }
+    ]
+   },
+   {
+    "id": "automobile-mg",
+    "groupe": "MG",
+    "marques": [],
+    "siege": "Royaume-Uni (origine)",
+    "siege_pays": "GB",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques sous contrôle chinois",
+    "commentaire": "Groupe Geely. Les nouvelles Lotus électriques sont toutes fabriquées en Chine",
+    "sources": [],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "automobile-mg-lotus",
+      "nom": "Lotus",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Les nouvelles Lotus électriques sont toutes fabriquées en Chine"
+     }
+    ]
+   },
+   {
+    "id": "automobile-groupe-geely-les-nouvelles-lotus-electriques-sont-toutes-fab",
+    "groupe": "Groupe Geely. Les nouvelles Lotus électriques sont toutes fabriquées en Chine",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques sous contrôle chinois",
+    "commentaire": "Marque du groupe SAIC (Chine). Toutes les MG vendues sont fabriquées en Chine [1] .",
+    "sources": [
+     1
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "automobile-groupe-geely-les-nouvelles-lotus-electriques-sont-toutes-fab-mg",
+      "nom": "MG",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Toutes les MG vendues sont fabriquées en Chine [1] ."
+     }
+    ]
+   }
+  ],
+  "sous_categories": [
+   "Constructeurs européens",
+   "Constructeurs japonais et sud-coréens",
+   "Marques sous contrôle chinois"
+  ],
+  "keywords": [
+   "voiture",
+   "auto",
+   "automobile",
+   "véhicule",
+   "constructeur",
+   "voiture électrique"
+  ]
+ }
+]

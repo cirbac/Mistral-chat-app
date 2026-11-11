@@ -487,14 +487,16 @@ button:hover {
   color: var(--texte-doux);
 }
 
-.chip-static {
-  cursor: default;
-  background: var(--cirba-gris);
+.chip-active {
+  background: var(--cirba-noir);
+  color: var(--cirba-blanc);
+  border-color: var(--cirba-noir);
 }
 
-.chip-static:hover {
-  background: var(--cirba-gris);
-  border-color: var(--bordure);
+[data-theme='dark'] .chip-active {
+  background: var(--cirba-blanc);
+  color: var(--cirba-noir);
+  border-color: var(--cirba-blanc);
 }
 
 .cat-sous-titre {

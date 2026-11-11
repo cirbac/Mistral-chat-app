@@ -8,30 +8,12 @@
    {
     "id": "hotellerie-et-hebergement-barriere",
     "groupe": "Barrière",
-    "marques": [
-     "Hôtels et casinos Barrière"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Groupe familial.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hotellerie-et-hebergement-ihg",
-    "groupe": "IHG",
-    "marques": [
-     "Holiday Inn",
-     "InterContinental",
-     "Crowne Plaza"
-    ],
-    "siege": "Royaume-Uni",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "commentaire": "Non revérifié.",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Groupe familial. IHG Holiday Inn, InterContinental, Crowne Plaza",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -40,17 +22,26 @@
    {
     "id": "hotellerie-et-hebergement-accor",
     "groupe": "Accor",
-    "marques": [
-     "Ibis",
-     "Novotel",
-     "Mercure",
-     "Sofitel",
-     "Fairmont"
-    ],
+    "marques": [],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-non-reverifie",
+    "groupe": "Non revérifié.",
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "commentaire": "Jin Jiang (Chine) était premier actionnaire en 2018 avec 12,4 %, devant le Qatar (10,22 %) et l'Arabie saoudite (5,71 %) [133] . Répartition actuelle non revérifiée.",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Jin Jiang (Chine) était premier actionnaire en 2018 avec 12,4 %, devant le Qatar (10,22 %) et l'Arabie saoudite (5,71 %) [133] . Répartition actuelle non revérifiée. NH Hotel Group (Minor)",
     "sources": [
      133
     ],
@@ -59,32 +50,27 @@
     "produits": []
    },
    {
-    "id": "hotellerie-et-hebergement-nh-hotel-group-minor",
-    "groupe": "NH Hotel Group (Minor)",
-    "marques": [
-     "NH",
-     "NH Collection"
-    ],
+    "id": "hotellerie-et-hebergement-hilton-marriott-hyatt",
+    "groupe": "Hilton, Marriott, Hyatt",
+    "marques": [],
     "siege": "Espagne (siège)",
     "siege_pays": "ES",
     "statut": "hors_zones",
-    "commentaire": "Contrôlé par Minor International (Thaïlande) selon mes informations. Non revérifié.",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "hotellerie-et-hebergement-hilton-marriott-hyatt",
-    "groupe": "Hilton, Marriott, Hyatt",
-    "marques": [
-     "Hilton",
-     "Marriott",
-     "Hyatt États-Unis"
-    ],
+    "id": "hotellerie-et-hebergement-controle-par-minor-international-thailande-selon-mes-informa",
+    "groupe": "Contrôlé par Minor International (Thaïlande) selon mes informations. Non revérifié.",
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
+    "sous_categorie": "Groupes hôteliers",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -94,15 +80,11 @@
    {
     "id": "hotellerie-et-hebergement-louvre-hotels-group",
     "groupe": "Louvre Hotels Group",
-    "marques": [
-     "Campanile",
-     "Kyriad",
-     "Première Classe",
-     "Golden Tulip"
-    ],
+    "marques": [],
     "siege": "France (siège)",
     "siege_pays": "FR",
     "statut": "a_ecarter",
+    "sous_categorie": "Groupes hôteliers",
     "commentaire": "Propriété à 100 % de Jin Jiang (Chine) depuis 2015 [134] . Situation actuelle non revérifiée.",
     "sources": [
      134
@@ -114,13 +96,11 @@
    {
     "id": "hotellerie-et-hebergement-radisson-hotel-group",
     "groupe": "Radisson Hotel Group",
-    "marques": [
-     "Radisson",
-     "Radisson Blu"
-    ],
+    "marques": [],
     "siege": "Belgique (siège)",
     "siege_pays": "BE",
     "statut": "a_ecarter",
+    "sous_categorie": "Groupes hôteliers",
     "commentaire": "Contrôlé par Jin Jiang (Chine) selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -130,13 +110,12 @@
    {
     "id": "hotellerie-et-hebergement-club-med",
     "groupe": "Club Med",
-    "marques": [
-     "Club Med"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "a_ecarter",
-    "commentaire": "Contrôlé par Fosun (Chine) selon mes informations. Non revérifié. Hébergement entre particuliers et réservation",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Contrôlé par Fosun (Chine) selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -145,12 +124,11 @@
    {
     "id": "hotellerie-et-hebergement-trivago",
     "groupe": "Trivago",
-    "marques": [
-     "Trivago"
-    ],
+    "marques": [],
     "siege": "Allemagne (siège)",
     "siege_pays": "DE",
     "statut": "hors_zones",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
     "commentaire": "Expedia Group (États-Unis) majoritaire selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -159,7 +137,8 @@
    }
   ],
   "sous_categories": [
-   "Groupes hôteliers"
+   "Groupes hôteliers",
+   "Hébergement entre particuliers et réservation"
   ],
   "keywords": [
    "hôtel",

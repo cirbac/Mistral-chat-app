@@ -8,13 +8,11 @@
    {
     "id": "maison-bricolage-et-jardin-robert-bosch",
     "groupe": "Robert Bosch",
-    "marques": [
-     "Bosch (outillage)",
-     "Dremel"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
     "commentaire": "Contrôlé par la fondation Robert Bosch selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -24,12 +22,11 @@
    {
     "id": "maison-bricolage-et-jardin-stihl",
     "groupe": "Stihl",
-    "marques": [
-     "Stihl"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
     "commentaire": "Groupe familial.",
     "sources": [],
     "lieux_production": [],
@@ -39,14 +36,11 @@
    {
     "id": "maison-bricolage-et-jardin-husqvarna-group",
     "groupe": "Husqvarna Group",
-    "marques": [
-     "Husqvarna (tronçonneuses",
-     "robots)",
-     "Gardena Suède"
-    ],
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
     "commentaire": "Ne pas confondre avec les motos Husqvarna (voir Motos et scooters). Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -56,12 +50,11 @@
    {
     "id": "maison-bricolage-et-jardin-karcher",
     "groupe": "Kärcher",
-    "marques": [
-     "Kärcher"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
     "commentaire": "Groupe familial.",
     "sources": [],
     "lieux_production": [],
@@ -71,47 +64,96 @@
    {
     "id": "maison-bricolage-et-jardin-festool",
     "groupe": "Festool",
-    "marques": [
-     "Festool"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "commentaire": "Non revérifié. Einhell Einhell Allemagne Rang 1 Non revérifié. Würth Würth Allemagne Rang 1 Groupe familial. Vorwerk Thermomix, Kobold Allemagne Rang 1 Groupe familial. Non revérifié.",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "maison-bricolage-et-jardin-industries",
-    "groupe": "Industries",
-    "marques": [
-     "Milwaukee",
-     "Ryobi",
-     "AEG (outillage) DeWalt",
-     "Black+Decker",
-     "Facom Hong Kong"
-    ],
-    "siege": "",
-    "siege_pays": "??",
+    "id": "maison-bricolage-et-jardin-einhell",
+    "groupe": "Einhell",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-wurth",
+    "groupe": "Würth",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-vorwerk",
+    "groupe": "Vorwerk",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Groupe familial. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-makita",
+    "groupe": "Makita",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Techtronic Industries Stanley Black & Decker",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-milwaukee-ryobi-aeg-outillage",
+    "groupe": "Milwaukee, Ryobi, AEG (outillage)",
+    "marques": [],
+    "siege": "Hong Kong",
+    "siege_pays": "HK",
     "statut": "vigilance",
-    "commentaire": "Siège à Hong Kong selon mes informations. Je ne sais pas qui contrôle le capital. Non revérifié.",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "maison-bricolage-et-jardin-techtronic",
-    "groupe": "Techtronic",
-    "marques": [
-     "États-Unis"
-    ],
+    "id": "maison-bricolage-et-jardin-siege-a-hong-kong-selon-mes-informations-je-ne-sais-pas-qui-",
+    "groupe": "Siège à Hong Kong selon mes informations. Je ne sais pas qui contrôle le capital. Non revérifié.",
+    "marques": [],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
-    "commentaire": "Facom, marque française, appartient à Stanley Black & Decker selon mes informations. Non",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Facom, marque française, appartient à Stanley Black & Decker selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -120,12 +162,11 @@
    {
     "id": "maison-bricolage-et-jardin-positec",
     "groupe": "Positec",
-    "marques": [
-     "Worx"
-    ],
+    "marques": [],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
+    "sous_categorie": "Outillage, jardin et entretien",
     "commentaire": "Groupe d'origine chinoise selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -135,14 +176,11 @@
    {
     "id": "maison-bricolage-et-jardin-zwilling",
     "groupe": "Zwilling",
-    "marques": [
-     "Zwilling",
-     "Staub",
-     "Ballarini"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Art de la table et cuisine",
     "commentaire": "Staub, marque française, appartient à Zwilling selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -152,12 +190,11 @@
    {
     "id": "maison-bricolage-et-jardin-villeroy-boch",
     "groupe": "Villeroy & Boch",
-    "marques": [
-     "Villeroy & Boch"
-    ],
+    "marques": [],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
+    "sous_categorie": "Art de la table et cuisine",
     "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -167,12 +204,11 @@
    {
     "id": "maison-bricolage-et-jardin-duralex",
     "groupe": "Duralex",
-    "marques": [
-     "Duralex"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
+    "sous_categorie": "Art de la table et cuisine",
     "commentaire": "Coopérative selon mes informations. Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -182,28 +218,39 @@
    {
     "id": "maison-bricolage-et-jardin-arc",
     "groupe": "Arc",
-    "marques": [
-     "Arcoroc",
-     "Luminarc"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "commentaire": "Non revérifié. Lalique Group Lalique Suisse Rang 1 Non revérifié.",
+    "sous_categorie": "Art de la table et cuisine",
+    "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "maison-bricolage-et-jardin-stanley-black-decker",
-    "groupe": "Stanley Black & Decker",
-    "marques": [
-     "revérifié. Distribution bricolage et jardin Mobilier et décoration Art de la table et cuisine"
-    ],
+    "id": "maison-bricolage-et-jardin-lalique-group",
+    "groupe": "Lalique Group",
+    "marques": [],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Art de la table et cuisine",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-fiskars-group",
+    "groupe": "Fiskars Group",
+    "marques": [],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
+    "sous_categorie": "Art de la table et cuisine",
     "commentaire": "Non revérifié.",
     "sources": [],
     "lieux_production": [],
@@ -213,15 +260,15 @@
    {
     "id": "maison-bricolage-et-jardin-baccarat",
     "groupe": "Baccarat",
-    "marques": [
-     "Baccarat"
-    ],
+    "marques": [],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "a_ecarter",
-    "commentaire": "Fortune Fountain Capital (Chine) a racheté 88,8 % du capital en 2018 [140] . Après un défaut de",
+    "sous_categorie": "Art de la table et cuisine",
+    "commentaire": "Fortune Fountain Capital (Chine) a racheté 88,8 % du capital en 2018 [140] . Après un défaut de paiement du propriétaire [141] , quatre fonds de Hong Kong ont pris le contrôle de la société qui détenait 97 % du capital en décembre 2020",
     "sources": [
-     140
+     140,
+     141
     ],
     "lieux_production": [],
     "certifications": [],
@@ -229,7 +276,10 @@
    }
   ],
   "sous_categories": [
-   "Outillage, jardin et entretien"
+   "Outillage, jardin et entretien",
+   "Distribution bricolage et jardin",
+   "Mobilier et décoration",
+   "Art de la table et cuisine"
   ],
   "keywords": [
    "maison",

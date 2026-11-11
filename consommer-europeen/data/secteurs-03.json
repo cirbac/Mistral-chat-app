@@ -1,0 +1,121 @@
+[
+ {
+  "num": "03",
+  "id": "pneumatiques",
+  "nom": "Pneumatiques",
+  "note": "",
+  "groupes": [
+   {
+    "id": "pneumatiques-continental",
+    "groupe": "Continental",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Manufacturiers européens",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-nokian-tyres",
+    "groupe": "Nokian Tyres",
+    "marques": [],
+    "siege": "Finlande",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "sous_categorie": "Manufacturiers européens",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-pirelli",
+    "groupe": "Pirelli",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "sous_categorie": "Manufacturiers européens",
+    "commentaire": "Sinochem ramené à 20 % après la cession de 14 % au tchèque Lumina Crown ; le bloc italien redevient premier actionnaire avec 26,5 % [4] . Restrictions de gouvernance (golden power) tant que Sinochem reste au-dessus de 10 % [5] .",
+    "sources": [
+     4,
+     5
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-yokohama",
+    "groupe": "Yokohama",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-toyo-tires",
+    "groupe": "Toyo Tires",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-hankook",
+    "groupe": "Hankook",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-nexen-tire",
+    "groupe": "Nexen Tire",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "Kumho Tire Kumho Corée du Sud (siège)",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Manufacturiers européens",
+   "Manufacturiers japonais et sud-coréens"
+  ],
+  "keywords": [
+   "pneu",
+   "pneus",
+   "pneumatique",
+   "pneumatiques"
+  ]
+ }
+]

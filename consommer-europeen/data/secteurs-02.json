@@ -1,0 +1,466 @@
+[
+ {
+  "num": "02",
+  "id": "motos-et-scooters",
+  "nom": "Motos et scooters",
+  "note": "",
+  "groupes": [
+   {
+    "id": "motos-et-scooters-piaggio-group",
+    "groupe": "Piaggio Group",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "IMMSI (famille Colaninno) détient 50,69 % [37] . Usines en Italie, en Espagne (Derbi), en Inde et au Vietnam, avec une coentreprise en Chine",
+    "sources": [
+     37
+    ],
+    "lieux_production": [
+     "Italie",
+     "Espagne (Derbi)",
+     "Inde",
+     "Vietnam",
+     "Chine (coentreprise)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-bmw-motorrad",
+    "groupe": "BMW Motorrad",
+    "marques": [],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-triumph",
+    "groupe": "Triumph",
+    "marques": [],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Groupe 100 % britannique, contrôlé par Bloor Holdings [36] . Usines au Royaume-Uni et au Brésil [36] , filiale en Thaïlande [35] . Les Speed 400 et Scrambler 400 sont fabriquées par Bajaj en Inde [36] .",
+    "sources": [
+     36,
+     36,
+     35,
+     36
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Brésil",
+     "Thaïlande (filiale)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "triumph-speed-400",
+      "nom": "Speed 400 / Scrambler 400",
+      "assemblage": "Inde (Bajaj)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Fabriquées par Bajaj en Inde [36]."
+     }
+    ]
+   },
+   {
+    "id": "motos-et-scooters-ducati",
+    "groupe": "Ducati",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Groupe Audi (Volkswagen) depuis 2012 [39] . Volkswagen étudie la cession de Ducati, parmi environ 600 activités en revue, sans décision à ce jour [40] . Une usine en Thaïlande est mentionnée dans une source de 2012, à confirmer [41] .",
+    "sources": [
+     39,
+     40,
+     41
+    ],
+    "lieux_production": [
+     "Thaïlande (à confirmer)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-peugeot-motocycles",
+    "groupe": "Peugeot Motocycles",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Propriété du fonds allemand Mutares depuis 2023. Une offre irrévocable de la direction prévoit la reprise au second semestre 2026 [42] . Siège à Mandeure [43] .",
+    "sources": [
+     42,
+     43
+    ],
+    "lieux_production": [
+     "France (Mandeure)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-mv-agusta",
+    "groupe": "MV Agusta",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Contrôle détenu par Art of Mobility S.A. (famille Sardarov) depuis janvier 2025 [44] . Procédure de négociation de crise en cours, avec des discussions sur l'actionnariat [44] . Siège de la holding : je ne sais pas.",
+    "sources": [
+     44,
+     44
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-energica",
+    "groupe": "Energica",
+    "marques": [],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Liquidée en 2024, puis reprise en 2025 par des investisseurs de Singapour dont l'identité n'a pas été publiée [45] [46] . Je ne sais pas qui détient réellement le capital.",
+    "sources": [
+     45,
+     46
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-pierer-mobility-ktm-gasgas-husqvarna",
+    "groupe": "Pierer Mobility (KTM, GasGas, Husqvarna)",
+    "marques": [],
+    "siege": "Autriche",
+    "siege_pays": "AT",
+    "statut": "hors_zones",
+    "sous_categorie": "Marques hors zones",
+    "commentaire": "Bajaj Auto (Inde) détient 74,9 % depuis novembre 2025 [33] . Bajaj fabrique notamment toutes les KTM Duke de 125 à 390 cc [34] . L'assemblée a approuvé le renommage en Bajaj Mobility AG [33] .",
+    "sources": [
+     33,
+     34,
+     33
+    ],
+    "lieux_production": [
+     "Inde (Bajaj)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "ktm-duke-125-390",
+      "nom": "KTM Duke 125 à 390 cc",
+      "assemblage": "Inde (Bajaj)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Fabriquées par Bajaj [34]."
+     }
+    ]
+   },
+   {
+    "id": "motos-et-scooters-royal-enfield",
+    "groupe": "Royal Enfield",
+    "marques": [],
+    "siege": "Inde",
+    "siege_pays": "IN",
+    "statut": "hors_zones",
+    "sous_categorie": "Marques hors zones",
+    "commentaire": "Marque du groupe indien Eicher Motors [47] . Hors de vos zones.",
+    "sources": [
+     47
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-harley-davidson",
+    "groupe": "Harley-Davidson",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "sous_categorie": "Marques hors zones",
+    "commentaire": "Le X350RA figure dans la fiche fabricant de Qianjiang, groupe chinois [48] . Hors de vos zones pour la maison mère.",
+    "sources": [
+     48
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "harley-x350ra",
+      "nom": "X350RA",
+      "assemblage": "Chine (Qianjiang)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Mentionné dans la fiche fabricant de Qianjiang [48]."
+     }
+    ]
+   },
+   {
+    "id": "motos-et-scooters-yamaha",
+    "groupe": "Yamaha",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-kawasaki",
+    "groupe": "Kawasaki",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-suzuki",
+    "groupe": "Suzuki",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-kymco",
+    "groupe": "Kymco",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-sym",
+    "groupe": "SYM",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-brp",
+    "groupe": "BRP",
+    "marques": [],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "Siège à Valcourt (Québec) selon mes informations. Lieu d'assemblage des véhicules à trois roues à vérifier sur la fiche produit. Non revérifié.",
+    "sources": [],
+    "lieux_production": [
+     "Canada (Valcourt, Québec)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-benelli",
+    "groupe": "Benelli",
+    "marques": [],
+    "siege": "Italie (marque)",
+    "siege_pays": "IT",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
+    "commentaire": "Racheté en 2005 par Qianjiang, groupe chinois dont Geely est le premier actionnaire [49] [50] . Conception et marketing à Pesaro [49] .",
+    "sources": [
+     49,
+     50,
+     49
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-qianjiang-qjmotor-keeway",
+    "groupe": "Qianjiang (QJMotor, Keeway)",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
+    "commentaire": "Groupe Geely (premier actionnaire) [50] . Marques déclarées par Qianjiang auprès de la NHTSA [48] .",
+    "sources": [
+     50,
+     48
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-moto-morini",
+    "groupe": "Moto Morini",
+    "marques": [],
+    "siege": "Italie (marque)",
+    "siege_pays": "IT",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
+    "commentaire": "Racheté en 2018 par Zhongneng Vehicle Group, groupe chinois [51] . Les sources divergent sur le lieu de fabrication : selon [52] les motos seraient conçues et fabriquées en Italie, selon sais pas trancher.",
+    "sources": [
+     51,
+     52
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-swm",
+    "groupe": "SWM",
+    "marques": [],
+    "siege": "Italie (marque)",
+    "siege_pays": "IT",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
+    "commentaire": "Racheté en 2014 par Shineray, groupe chinois [54] . Une partie des pièces vient de Chine, l'assemblage reste en Lombardie [55] .",
+    "sources": [
+     54,
+     55
+    ],
+    "lieux_production": [
+     "Italie (Lombardie)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "swm-assemblage",
+      "nom": "SWM (assemblage)",
+      "assemblage": "Italie (Lombardie)",
+      "origine_pieces": "Chine (en partie)",
+      "certifications": [],
+      "note": "Une partie des pièces vient de Chine [55]."
+     }
+    ]
+   },
+   {
+    "id": "motos-et-scooters-cfmoto-voge-zontes",
+    "groupe": "CFMOTO, Voge, Zontes",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
+    "commentaire": "Marques chinoises présentes en Italie [56] .",
+    "sources": [
+     56
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-segway-ninebot",
+    "groupe": "Segway-Ninebot",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Scooters électriques",
+    "commentaire": "Entreprise chinoise. Plus de 10 millions de véhicules électriques à deux roues livrés dans le monde, selon l'entreprise [57] .",
+    "sources": [
+     57
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-niu",
+    "groupe": "Niu",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Scooters électriques",
+    "commentaire": "Entreprise chinoise. Près de 1,2 million de deux-roues électriques vendus en 2025 [58] .",
+    "sources": [
+     58
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-yadea",
+    "groupe": "Yadea",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Scooters électriques",
+    "commentaire": "Marque chinoise, décrite comme leader du marché des deux-roues électriques [59] .",
+    "sources": [
+     59
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Marques européennes",
+   "Marques hors zones",
+   "Marques japonaises, taïwanaises et canadiennes",
+   "Marques chinoises ou sous contrôle chinois",
+   "Scooters électriques"
+  ],
+  "keywords": [
+   "moto",
+   "scooter",
+   "deux-roues",
+   "deux roues"
+  ]
+ }
+]
