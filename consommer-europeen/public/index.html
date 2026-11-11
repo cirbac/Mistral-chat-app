@@ -18,19 +18,30 @@
       <div class="topbar-left">
         <img id="logo-home" class="logo" src="assets/logo-white.png" alt="Cirba Consult — accueil" title="Retour à l'accueil" />
       </div>
-      <h1 class="topbar-titre">Consommer européen</h1>
+      <div class="topbar-spacer"></div>
       <div class="controls">
         <button id="account-btn" class="account-btn" type="button" title="Mon compte" aria-label="Mon compte">👤</button>
       </div>
     </header>
 
-    <section class="recherche">
-      <input id="search" type="search" placeholder="Rechercher une marque ou un produit : « Renault », « Nutella », « iPhone »…" autocomplete="off" />
-      <div id="secteur-chips" class="chips"></div>
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="hero-kicker">Cirba Consult</p>
+        <h1>Consommer européen</h1>
+        <p class="hero-sub">Quelle marque, quel modèle — d'où vient-il, qui le détient ?</p>
+        <div class="hero-search">
+          <input id="search" type="search" placeholder="Rechercher une marque ou un produit : « Renault », « Nutella », « iPhone »…" autocomplete="off" />
+        </div>
+        <div id="secteur-chips" class="chips chips-center"></div>
+        <div id="hero-stats" class="hero-stats"></div>
+      </div>
     </section>
 
     <main class="contenu">
-      <section id="home" class="home"></section>
+      <section id="home" class="home">
+        <h2 class="home-titre">Explorez par catégorie</h2>
+        <div id="home-grid" class="home-grid"></div>
+      </section>
       <section id="results" class="results hidden"></section>
       <aside id="detail" class="detail hidden"></aside>
     </main>
