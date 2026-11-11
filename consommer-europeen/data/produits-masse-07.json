@@ -1,0 +1,3694 @@
+{
+ "alimentation-et-boissons-saputo": [
+  {
+   "id": "alimentation-et-boissons-saputo-0063549101102",
+   "nom": "Triple cheddar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549101102"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549413878",
+   "nom": "Asiago",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549413878"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549102123",
+   "nom": "Fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549102123"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700012556",
+   "nom": "Chocolate Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700012556"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0827925212000",
+   "nom": "Feta a la grecque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0827925212000"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-18721768",
+   "nom": "Havarti tranchée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18721768"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549108217",
+   "nom": "Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549108217"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589020426",
+   "nom": "Nutri lait 2%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589020426"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0060879000020",
+   "nom": "Ricotta Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0060879000020"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549105285",
+   "nom": "Fromage Romano râpé très fin 140 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549105285"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549993431",
+   "nom": "Fromgae Havarti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549993431"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0204167010555",
+   "nom": "Haloumi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0204167010555"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331318",
+   "nom": "Italiani 4 fromaggi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331318"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331141",
+   "nom": "Romano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331141"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589100333",
+   "nom": "Nutri Lair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589100333"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549105865",
+   "nom": "Mascarpone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549105865"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549012279",
+   "nom": "Produit de fromage rapé avec parmesan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549012279"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589106489",
+   "nom": "Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589106489"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589100357",
+   "nom": "Nutri  lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589100357"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-49290028",
+   "nom": "Friulano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/49290028"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589106632",
+   "nom": "Milk 1%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589106632"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549241112",
+   "nom": "Havarti Light & Creamy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549241112"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0230694009755",
+   "nom": "Caciocavallo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0230694009755"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589106199",
+   "nom": "Nutrilait Milk 1% microfiltered",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589106199"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-4096409007531",
+   "nom": "Provolone cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4096409007531"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0077549007531",
+   "nom": "Tranches de fromage naturel (Provolone Cheese)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0077549007531"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549100990",
+   "nom": "Pizza Mozarella 17%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549100990"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549109993",
+   "nom": "Swiss",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 640 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549109993"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549110012",
+   "nom": "Monterey Jack Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549110012"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549100235",
+   "nom": "Cheese Fries - Plain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549100235"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0231288423995",
+   "nom": "Smoked Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0231288423995"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549109290",
+   "nom": "Smoky Peppercorn Mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549109290"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549110289",
+   "nom": "Plain Halloumi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549110289"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-2065619110012",
+   "nom": "Monterey Jack Cheese Slice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2065619110012"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0635401110036",
+   "nom": "Swiss Cheese (Lactose Free)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0635401110036"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549110524",
+   "nom": "Parmigiano Reggiano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549110524"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700303210",
+   "nom": "Dairyland 1% Milk Fat Chocolate Milk (25% Less Sugar)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700303210"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549103021",
+   "nom": "2% Partly Skimmed Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549103021"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549673357",
+   "nom": "Monterey Jack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549673357"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0079409189289",
+   "nom": "Caramel Toffee Dairy Whipped Topping",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079409189289"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549110777",
+   "nom": "Parmesan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549110777"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549110500",
+   "nom": "Pecorino Romano DOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549110500"
+  }
+ ],
+ "alimentation-et-boissons-mccain-foods": [
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005287",
+   "nom": "Home Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 1.6kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005287"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228000145",
+   "nom": "Jackets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228000145"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005317",
+   "nom": "Mccain home chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005317"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438035636",
+   "nom": "Pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 1000g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438035636"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438124941",
+   "nom": "Street Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438124941"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228013213",
+   "nom": "NAKED OVEN CHIPS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228013213"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228001388",
+   "nom": "Crispy French Fries",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228001388"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438105087",
+   "nom": "Golden Longs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438105087"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118278",
+   "nom": "Kroketten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118278"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438012880",
+   "nom": "Trio de croquettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438012880"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438027457",
+   "nom": "Tradition patatas congeladas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438027457"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438115741",
+   "nom": "Le patatine originali",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 1040 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438115741"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228012223",
+   "nom": "Quick chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228012223"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438126853",
+   "nom": "AIR FRYER JULIENNE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438126853"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438128215",
+   "nom": "Bun’s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 115 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438128215"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438129120",
+   "nom": "Tradition",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 1,5kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438129120"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228002514",
+   "nom": "Crispy Sweet Potato Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228002514"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438112573",
+   "nom": "McCain chef gourmet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438112573"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438040302",
+   "nom": "Mediterranean potatoes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438040302"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438111699",
+   "nom": "Patatas gajo barbacoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438111699"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438112887",
+   "nom": "Forno express",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 500 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438112887"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118964",
+   "nom": "McCain Lod Smile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118964"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8906000610770",
+   "nom": "French Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8906000610770"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228007175",
+   "nom": "PURIN fe... McCain Gastro TRIPLE COOKED CHIPS WITH",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228007175"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228002903",
+   "nom": "Chips triple cooked",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 700 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228002903"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228077857",
+   "nom": "McCain Thick Cut Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228077857"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228002873",
+   "nom": "ShakeShake seras salt and cracked black pepper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228002873"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714002229",
+   "nom": "Smiles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714002229"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438115659",
+   "nom": "McCcain Frites de patates douces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438115659"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228006840",
+   "nom": "Baby Hasselbacks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score D · 653g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228006840"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438121841",
+   "nom": "Pommes 'Golden Longs' (mit Knuspermantel)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 375g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438121841"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773005042",
+   "nom": "Crinkle Cut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773005042"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438125238",
+   "nom": "Rustic Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438125238"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438129212",
+   "nom": "L'original Steakhouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438129212"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438131062",
+   "nom": "Golden croquettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438131062"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438112764",
+   "nom": "Crispers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 1000g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438112764"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438000849",
+   "nom": "2,5KG Frites 9 / 9 Original Mac Cain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438000849"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438000856",
+   "nom": "2,5KG Frites 6 / 6 Original Mac Cain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2.5kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438000856"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228006048",
+   "nom": "Frozen Home Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228006048"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773000702",
+   "nom": "Frites Congelées Extra Croustillante Coupe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 650g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773000702"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773000795",
+   "nom": "Tasti Tater's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 800g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773000795"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438127294",
+   "nom": "Anelli Di Cipolla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 350gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438127294"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773301427",
+   "nom": "Deep'n Delicious",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 510 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773301427"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773002775",
+   "nom": "Superfries Sweet Potato Plank Cut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 454g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773002775"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773004793",
+   "nom": "Onion & potato patties",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773004793"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228006635",
+   "nom": "Home Chips Crinkle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228006635"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174151301",
+   "nom": "Healthy choice Butter Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174151301"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438125542",
+   "nom": "Original Crinkle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438125542"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438128246",
+   "nom": "Burn's original ×4 raclette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438128246"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174154128",
+   "nom": "PUB STYLE CRISPY Sweet Potato FRIES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174154128"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773004809",
+   "nom": "Breakfast savoury herb potato patties",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773004809"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438127423",
+   "nom": "Gaufres de Bruxelles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 9 x 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438127423"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438125801",
+   "nom": "Veggie Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438125801"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7896105801269",
+   "nom": "Mc Cain Classica air fryer - Mccain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896105801269"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438127324",
+   "nom": "potato toast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438127324"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8906000610916",
+   "nom": "Variety Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 550g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8906000610916"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228007564",
+   "nom": "EW McCain READY IN- 100 VIBES HOT SNACKS MADE TO S",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228007564"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438121032",
+   "nom": "Frit-up",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438121032"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438110104",
+   "nom": "Frites Friteuse",
+   "assemblage": "Harnes",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1,3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438110104"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118339",
+   "nom": "Rösti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 550g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118339"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005607",
+   "nom": "Gastro triple cooked chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005607"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118889",
+   "nom": "Forno country",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118889"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438125085",
+   "nom": "Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438125085"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7610078219926",
+   "nom": "1-2-3 Frites Original",
+   "assemblage": "Switzerland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610078219926"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7610078232864",
+   "nom": "Crusty longgs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610078232864"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-3256830000292",
+   "nom": "Pomme noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256830000292"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714005503",
+   "nom": "Shoestring Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714005503"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174025084",
+   "nom": "Hash Browns",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174025084"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438103700",
+   "nom": "A la belge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438103700"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0058769033890",
+   "nom": "Kroketten 3389",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 17pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058769033890"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-3256830007901",
+   "nom": "Patatas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256830007901"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714039690",
+   "nom": "Baby cakes mini potato hash browns",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714039690"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773000689",
+   "nom": "Superfries crinkle cut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773000689"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438040227",
+   "nom": "Tradition Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438040227"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438058529",
+   "nom": "Frite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438058529"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-3256830001107",
+   "nom": "Anelles De Ceba Arrebossat Mccain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256830001107"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438116250",
+   "nom": "Sweet Potatoes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438116250"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005324",
+   "nom": "McCain Gluten Free Home Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005324"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9416036164042",
+   "nom": "Gluten free thin cut chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9416036164042"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174157488",
+   "nom": "SuperFries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174157488"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773003208",
+   "nom": "Pizza pockets Deluxe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773003208"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714036507",
+   "nom": "Classic Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 26 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714036507"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714051333",
+   "nom": "Sweet potato fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 19 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714051333"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773003109",
+   "nom": "Superfries romarin et ail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773003109"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773003246",
+   "nom": "Bistro Tater Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773003246"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773002768",
+   "nom": "Patate douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 454 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773002768"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773301434",
+   "nom": "Deep’n delicious",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 510 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773301434"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773000757",
+   "nom": "Breakfast Homefries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773000757"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438033083",
+   "nom": "123 Fries original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438033083"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174001477",
+   "nom": "PUB STYLE STRAIGHT FRIES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174001477"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174090839",
+   "nom": "Tuna mornay",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174090839"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438125054",
+   "nom": "Allumettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438125054"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438079265",
+   "nom": "Wedges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438079265"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9416036185207",
+   "nom": "SUPERFRIES Straight",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9416036185207"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9416036876013",
+   "nom": "Baby Peas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9416036876013"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438121728",
+   "nom": "Spicy XL fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438121728"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438126914",
+   "nom": "Kroketten Croquettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438126914"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773003031",
+   "nom": "Pizza pochet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773003031"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438033106",
+   "nom": "1-2-3 Fries Crinkle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438033106"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118766",
+   "nom": "Cartofi crispy Fri Style",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118766"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438103373",
+   "nom": "Camembert bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438103373"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438119404",
+   "nom": "Potato pops",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438119404"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714006791",
+   "nom": "McCain Quick Cook Waffle Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714006791"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714006630",
+   "nom": "Quick cook french fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 20 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714006630"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-6007211234211",
+   "nom": "Frites justaufour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6007211234211"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438113099",
+   "nom": "Cheese Pickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438113099"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174006403",
+   "nom": "Super Juicy Corn Kernels",
+   "assemblage": "New Zealand",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174006403"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773080179",
+   "nom": "mccain Crinkle cut fries 1yr 6mons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773080179"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438122589",
+   "nom": "Cheese Pickers - Chiily and cheese nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438122589"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174197637",
+   "nom": "Lil’ pizzas cheesy margherita",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174197637"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7896105800897",
+   "nom": "Batata Pré Frita Smiles Congelada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896105800897"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7896105801092",
+   "nom": "Batata McCain Airfryer Extra Crocante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896105801092"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-07434240",
+   "nom": "Healthy Choice Straight Cut Potato Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/07434240"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310386001531",
+   "nom": "Roast Chicken with Farm Picked Vegetables",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310386001531"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438058765",
+   "nom": "Onion Rings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438058765"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228002897",
+   "nom": "Shake fries smoked paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228002897"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174093823",
+   "nom": "Lamb Cutlet with Gravy and Farm\nPicked Vegetables",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174093823"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438127232",
+   "nom": "Pickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438127232"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438129694",
+   "nom": "Western Frites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438129694"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773500059",
+   "nom": "Prince Edward Island Potatoes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773500059"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005911",
+   "nom": "shake shake crinkle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005911"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228007106",
+   "nom": "Vibes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228007106"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714008399",
+   "nom": "McCain Hashed Brown",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714008399"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773305616",
+   "nom": "Deep'n Delicious Marble Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 510g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773305616"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7707203355854",
+   "nom": "Hashbrown",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7707203355854"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773005882",
+   "nom": "Masala Frites - Masala Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773005882"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8906000611487",
+   "nom": "Mini Samosa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8906000611487"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0072714009693",
+   "nom": "SPICY Straight Cut Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072714009693"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228006987",
+   "nom": "McCain Naked Oven Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228006987"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438109443",
+   "nom": "Just au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 875 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438109443"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005171",
+   "nom": "Naked Oven Chips - Crinkle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005171"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438120813",
+   "nom": "Potato-Up (Aux herbes)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438120813"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438105889",
+   "nom": "Bun's Barbecue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438105889"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5410171001983",
+   "nom": "Pomme noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410171001983"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438105377",
+   "nom": "Frites Spécial Four My Style",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438105377"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118247",
+   "nom": "Street Fries Veggie Chilli Mild",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118247"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5410171003994",
+   "nom": "Mc cain pommes pom",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410171003994"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118216",
+   "nom": "Street Fries Smoked BBQ Beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118216"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438110319",
+   "nom": "La Frite Belge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438110319"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-3256830006676",
+   "nom": "McCain Forno Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256830006676"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005836",
+   "nom": "Flavour Maker Fries Smokey BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005836"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438110227",
+   "nom": "Steakhouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438110227"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438039788",
+   "nom": "McCain Forno Country",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438039788"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438108262",
+   "nom": "Bistro style patat'dip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438108262"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438120264",
+   "nom": "Mc cain just au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438120264"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438067057",
+   "nom": "Bun's Saucisse Moutarde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438067057"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438093476",
+   "nom": "Country Potatoes Rosmarin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438093476"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438074406",
+   "nom": "Forno julienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438074406"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228005690",
+   "nom": "Waffle fries",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 550g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228005690"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438121452",
+   "nom": "Street fries sweet bbq beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438121452"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438096668",
+   "nom": "Gratin - Dauphinois - Zak 2 KG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438096668"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438111101",
+   "nom": "Air Flyer Pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438111101"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438110432",
+   "nom": "Instant frites micro onde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438110432"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228013091",
+   "nom": "Oven Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228013091"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438030723",
+   "nom": "Western Wedges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438030723"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438120233",
+   "nom": "Mc Caïn tradition",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438120233"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118858",
+   "nom": "Country Potatoe Natur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118858"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438109009",
+   "nom": "Fry n dip patatas crujientes por fuera tiernas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438109009"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438001877",
+   "nom": "Pompoms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438001877"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438218411",
+   "nom": "Rosti Taler",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438218411"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174006014",
+   "nom": "Peas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174006014"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438112450",
+   "nom": "Airfryer frites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438112450"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438063608",
+   "nom": "Homefrit Cuites à la Friteuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438063608"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438114867",
+   "nom": "Crunchy potatoes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438114867"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7610078242689",
+   "nom": "Rustico frites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610078242689"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438116885",
+   "nom": "Bbq chicken wings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438116885"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438030532",
+   "nom": "2.5KG Spicy Potatoes Mac Cain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438030532"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438115628",
+   "nom": "Gauffre belge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438115628"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118186",
+   "nom": "Street Fries Cheese & Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118186"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438024500",
+   "nom": "McCain - Out Original Choice - Skin On Wedges (2,5kg)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2,5kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438024500"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-7797906000380",
+   "nom": "Batata Pré Frita Tradicional Congelada Mccain Pacote 720g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 720g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7797906000380"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-5010228006895",
+   "nom": "S+P fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010228006895"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-9310174024407",
+   "nom": "Cheese and Bacon Pizza Pockets",
+   "assemblage": "Australia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310174024407"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438118308",
+   "nom": "Krönchen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438118308"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773000733",
+   "nom": "MC Cain smiles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 650 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773000733"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-0055773003758",
+   "nom": "Pizza pockets Meat lover",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055773003758"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-3256830009318",
+   "nom": "Just au Four Steakhouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256830009318"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-3256830010031",
+   "nom": "Mccain Frozen Mozzarella Cheese Sticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3256830010031"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8710438104646",
+   "nom": "Minuten Frites",
+   "assemblage": "Europäische Union",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710438104646"
+  },
+  {
+   "id": "alimentation-et-boissons-mccain-foods-8906000610909",
+   "nom": "Potato Cheese Shotz",
+   "assemblage": "India",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8906000610909"
+  }
+ ],
+ "alimentation-et-boissons-diageo": [
+  {
+   "id": "alimentation-et-boissons-diageo-4053400206714",
+   "nom": "Hop House 13",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4053400206714"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0083820181012",
+   "nom": "Guinness",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0083820181012"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5052542000074",
+   "nom": "West indies porter",
+   "assemblage": "danmark",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5052542000074"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213024782",
+   "nom": "Dark and lively",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213024782"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5099872015811",
+   "nom": "Chocolate truffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 135g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099872015811"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213025420",
+   "nom": "Guinness 0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213025420"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213014165",
+   "nom": "Guinness Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213014165"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5099872012094",
+   "nom": "Lir Chocolates Guinness Mini Pints 65 Grams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099872012094"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-8801027884961",
+   "nom": "0.0 Non Alcohol Draught",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801027884961"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5010338206635",
+   "nom": "Steak Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 295 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010338206635"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-4053400277967",
+   "nom": "Kilkenny Irish Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4053400277967"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213008515",
+   "nom": "Draught Stout",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 440 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213008515"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5034709003715",
+   "nom": "Burts potato chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5034709003715"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5099872011998",
+   "nom": "Guinness Luxury Dark Chocolate Truffle Bar (90G)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099872011998"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213004807",
+   "nom": "Guinness draugt stout",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 33ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213004807"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213023525",
+   "nom": "Bière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213023525"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5052542000012",
+   "nom": "Dublin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5052542000012"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711603535",
+   "nom": "Guinness Luxury Fudge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 170g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711603535"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711603566",
+   "nom": "Guinness Luxury Toffee Bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711603566"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213014912",
+   "nom": "Cerveza Guinnes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213014912"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711610793",
+   "nom": "Smokey Marinade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711610793"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213006566",
+   "nom": "Guinness Draught Stout",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213006566"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000242452693",
+   "nom": "Slow cooked tender prime steak in a rich gravy infused with Guinness beer, baked in a unique Holland's golden shortcrust pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 247 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000242452693"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5099878078148",
+   "nom": "Dark Chocolate Solid Bar",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099878078148"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711603542",
+   "nom": "Luxury Toffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 170g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711603542"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711607861",
+   "nom": "Luxury fudge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711607861"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711609469",
+   "nom": "Guinness Luxury Sea Salt Caramel Fudge Box 170G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711609469"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5410218005523",
+   "nom": "Guinness Special Export",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410218005523"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711610625",
+   "nom": "Caramel au Guiness",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711610625"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5099872014944",
+   "nom": "Guinness Lir Mini Delights",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099872014944"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213026205",
+   "nom": "Guinness beer draught stout",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213026205"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0083820123937",
+   "nom": "GUINNESS EXTRA STOUT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0083820123937"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-8888017620051",
+   "nom": "j",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · Guinness foreign extra Stout",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8888017620051"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213021828",
+   "nom": "Malta guinness",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213021828"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711611318",
+   "nom": "Set salse guinness",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711611318"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213027714",
+   "nom": "GUINNESS 0.0- DRAUGHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213027714"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0083820725520",
+   "nom": "Draught Stout Can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0083820725520"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-6034000106701",
+   "nom": "Guinness Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6034000106701"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000342001760",
+   "nom": "Guinness Slow Cooked Beef Casserole 430g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 430 Grams",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000342001760"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0850016944702",
+   "nom": "guiness",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850016944702"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5032457717533",
+   "nom": "Guinness Spicy Chipotle Rub",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5032457717533"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5390711612582",
+   "nom": "Guinness Classic Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5390711612582"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0850016944726",
+   "nom": "Dry Stout BBQ Pretzel Pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850016944726"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-4751017242827",
+   "nom": "guinnesss alcohol free",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4751017242827"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0850016944696",
+   "nom": "Pretzel Pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850016944696"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0859841006654",
+   "nom": "Guinness Steak Cut Original Jerky",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0859841006654"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0798713431005",
+   "nom": "Smooth Rich & Smooth Stout",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0798713431005"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5000213029671",
+   "nom": "Guinness Draught",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000213029671"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-0859841006678",
+   "nom": "Steak Cuts Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0859841006678"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-4742024130603",
+   "nom": "Draught 0%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4742024130603"
+  },
+  {
+   "id": "alimentation-et-boissons-diageo-5391511059911",
+   "nom": "Guinness pulled irish beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5391511059911"
+  }
+ ],
+ "alimentation-et-boissons-campari-group": [
+  {
+   "id": "alimentation-et-boissons-campari-group-3057770000508",
+   "nom": "Campari",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 70 cL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3057770000508"
+  },
+  {
+   "id": "alimentation-et-boissons-campari-group-8000040002509",
+   "nom": "Кампари Ликер десертный",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000040002509"
+  },
+  {
+   "id": "alimentation-et-boissons-campari-group-0721059707510",
+   "nom": "El espolón",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0721059707510"
+  },
+  {
+   "id": "alimentation-et-boissons-campari-group-7891136052000",
+   "nom": "Bitter",
+   "assemblage": "Argentina",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891136052000"
+  }
+ ],
+ "alimentation-et-boissons-lavazza": [
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070059832",
+   "nom": "Café Lavazza Ricco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 55g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070059832"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070038158",
+   "nom": "Crema e Gusto Miscela Di Cafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070038158"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953012757",
+   "nom": "Qualità Oro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8.8oz (250g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953012757"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070042438",
+   "nom": "ESPRESSO INTENSO 9/13",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070042438"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070038400",
+   "nom": "Crema e Gusto Classico Maxi Formato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070038400"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070050938",
+   "nom": "Lavazza lungo dolce gusto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070050938"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070039407",
+   "nom": "Qualità oro espresso caffè macinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070039407"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070040045",
+   "nom": "Caffé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070040045"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070024854",
+   "nom": "espresso barista gran crema",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070024854"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953004929",
+   "nom": "crema e gusto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953004929"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953024996",
+   "nom": "espresso Barista GRAN CREMA MEDIUM ROAST WHOLE BEAN COFFEE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953024996"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070027770",
+   "nom": "Café 100% arabica Bio en capsule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070027770"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070035171",
+   "nom": "Lavazza Qualita Rossa",
+   "assemblage": "italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 2 x 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070035171"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070049604",
+   "nom": "Tierra For Africa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070049604"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070036307",
+   "nom": "Qualità Rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070036307"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070016774",
+   "nom": "Decaf coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070016774"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070020153",
+   "nom": "lavazza suerte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 36 dosettes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070020153"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017832",
+   "nom": "L'espresso italiano classico 4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017832"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070042377",
+   "nom": "Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 128 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070042377"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043619",
+   "nom": "Capsule caffè  espresso gustoso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043619"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070037380",
+   "nom": "Espresso Intenso Coffee Pods",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070037380"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070010550",
+   "nom": "Café décaféiné en grain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070010550"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070053601",
+   "nom": "Lavazza capsules décaféiné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070053601"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043701",
+   "nom": "Caffè decaffeinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043701"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070049376",
+   "nom": "Espresso intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070049376"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070011229",
+   "nom": "Dek classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070011229"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070087200",
+   "nom": "16 Capsules Amm Soavemente Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070087200"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070045279",
+   "nom": "crema e gusto forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070045279"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070057357",
+   "nom": "Caffè Ginseng",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070057357"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070026438",
+   "nom": "cápsulas café, espresso intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070026438"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070035362",
+   "nom": "Caffè macinato Lavazza-Qualitá Rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070035362"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070199743",
+   "nom": "The al limone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070199743"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953025528",
+   "nom": "Crema e Aroma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953025528"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070029088",
+   "nom": "Espresso passionale. Intensità 11/13",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 405 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070029088"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070047990",
+   "nom": "Lavazza espresso aromatico eco caps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070047990"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953075080",
+   "nom": "Italian roast Extra Dark Roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953075080"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072954",
+   "nom": "Lavazza Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072954"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017160",
+   "nom": "Café Bio 100% arabica en dosette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017160"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017559",
+   "nom": "Petit déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 16 x 8 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017559"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070012813",
+   "nom": "Café moulu 100% arabica.",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070012813"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017511",
+   "nom": "Café en capsule individuelle.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 128 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017511"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070000254",
+   "nom": "Café en dosette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070000254"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070042391",
+   "nom": "Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200Gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070042391"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070054950",
+   "nom": "Prontissimo americano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 95 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070054950"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070029972",
+   "nom": "Boîte de café 100% arabica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070029972"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043572",
+   "nom": "Espresso corposo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 48 cialde, 360g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043572"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070051126",
+   "nom": "Café grains 100% arabica Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070051126"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070016736",
+   "nom": "Carte noire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 144 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070016736"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070028579",
+   "nom": "Lavazza il mattino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070028579"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043947",
+   "nom": "Tè Al Limone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043947"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070022577",
+   "nom": "Espresso classique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070022577"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070018709",
+   "nom": "Lavazza Caffe Espresso Coffee Beans 250G",
+   "assemblage": "Italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070018709"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070023994",
+   "nom": "Café sélection nicaragua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070023994"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070037403",
+   "nom": "Calcium   Magnesium Tablets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070037403"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070022553",
+   "nom": "Café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070022553"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017689",
+   "nom": "Ristretto espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017689"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070022584",
+   "nom": "Café capsule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070022584"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070052659",
+   "nom": "Lavazza Solub. pront. inten. g95#",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070052659"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070033054",
+   "nom": "Café Espresso In Blu 100 % Arabica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070033054"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070081017",
+   "nom": "Lavazza Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070081017"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070088177",
+   "nom": "Espresso divino intensita 11",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070088177"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070055162",
+   "nom": "café moulu bio ‘’Voix de la terre’’  LAVAZZA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070055162"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070059252",
+   "nom": "Lungo Bio café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070059252"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070039155",
+   "nom": "Crema e gusto classico espresso caffè macinato cialde ese",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070039155"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070022539",
+   "nom": "Café en capsule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070022539"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070022560",
+   "nom": "Expresso capsule cafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070022560"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070052604",
+   "nom": "Lavazza Solub. pront. clas. gr95#",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070052604"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070010703",
+   "nom": "Espresso vigoroso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070010703"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070019737",
+   "nom": "Café expresso Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070019737"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070045200",
+   "nom": "Alteco organiser premier blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070045200"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070081093",
+   "nom": "Café decaffeinato ricco",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070081093"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-3168930162186",
+   "nom": "Double espresso & milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930162186"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953000853",
+   "nom": "!Tierra! Organic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953000853"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070032200",
+   "nom": "Lavazza Lungo Intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 53g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070032200"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070036666",
+   "nom": "Espresso Deciso Eco Caps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070036666"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070049352",
+   "nom": "Espresso cremoso compatibile Dolce Gusto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070049352"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070051133",
+   "nom": "Gran caffè paulista",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070051133"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070000926",
+   "nom": "Espresso Lungo Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070000926"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070011823",
+   "nom": "Espresso Italiano Decaffeinato, 250 Grammes, Marque Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070011823"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072145",
+   "nom": "Caffècrema Dolce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 16 Kaffeepads (111 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072145"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070200869",
+   "nom": "Café capsules Colombie Cordillère des Andes n°6 - Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 53 g (10 capsules)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070200869"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070108745",
+   "nom": "Chocolat chaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070108745"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070011793",
+   "nom": "Cafe moulu decafeine pur arabica 250 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070011793"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070103030",
+   "nom": "Lavazza Aroma Point Al Limone Tea Cartridges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070103030"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070081130",
+   "nom": "Avvolgente 5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070081130"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070026988",
+   "nom": "Coffee Lavazza Leggero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070026988"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070036697",
+   "nom": "Eco caps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 53g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070036697"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070037373",
+   "nom": "Espresso Delizioso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070037373"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-5022313228945",
+   "nom": "Cold Brew",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5022313228945"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070049642",
+   "nom": "Arabica & Robusta blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070049642"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070032163",
+   "nom": "Espresso deciso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070032163"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070032156",
+   "nom": "Expresso armonico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070032156"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070030046",
+   "nom": "Lavazza Qualità Oro sterkte 7/10",
+   "assemblage": "Italië",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070030046"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070052376",
+   "nom": "Cappuccino coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070052376"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070032187",
+   "nom": "Lungo eco caps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070032187"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070027350",
+   "nom": "Espresso Barista Gran Crema 7/10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070027350"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0041953000556",
+   "nom": "Tierra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041953000556"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070096202",
+   "nom": "Bevanda bianca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070096202"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070039285",
+   "nom": "Qualità Oro Mountain Grown",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070039285"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043732",
+   "nom": "Espresso qualita oro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043732"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070044197",
+   "nom": "Capsule Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070044197"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070044241",
+   "nom": "Preparato per bevanda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070044241"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043985",
+   "nom": "Orzo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043985"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070054011",
+   "nom": "Espresso Del gentile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070054011"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070008564",
+   "nom": "Crema Ricca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070008564"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070053991",
+   "nom": "LAVAZZA ESPRESSO DEK GENTILE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070053991"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070199736",
+   "nom": "Lavazza in Black Orzo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070199736"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070000902",
+   "nom": "Café espresso lungo doux, CARTE NOIRE, 10 capsules de",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070000902"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070000940",
+   "nom": "Café dosette collection automne hiver",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070000940"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070003033",
+   "nom": "Thé Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070003033"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070005341",
+   "nom": "Brazil instant kaffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070005341"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070009967",
+   "nom": "Capuccino cremoso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070009967"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070016606",
+   "nom": "Lavazza expresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070016606"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017122",
+   "nom": "Bresil Terres du Cerrado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017122"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017573",
+   "nom": "Café sélection boisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017573"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017900",
+   "nom": "Café l'espresso italiano selezione",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017900"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070032705",
+   "nom": "250G Cafe Moulu Bel Canto Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070032705"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043312",
+   "nom": "voix de la terre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043312"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072039",
+   "nom": "Sinfonia Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 116 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072039"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072046",
+   "nom": "Sinfonia Espresso Intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 116 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072046"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072138",
+   "nom": "Caffècrema Classico",
+   "assemblage": "Torino",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 16 Kaffeepads",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072138"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072206",
+   "nom": "Espresso intenso Allegro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 36 dosettes, 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072206"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070149502",
+   "nom": "Chatine Amande Cacaotée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070149502"
+  }
+ ]
+}

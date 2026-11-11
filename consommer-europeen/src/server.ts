@@ -89,6 +89,22 @@ if (existsSync(pharesPath)) {
   }
 }
 
+const masseFiles = readdirSync(dataDir)
+  .filter((f) => /^produits-masse-.*\.json$/.test(f))
+  .sort();
+for (const f of masseFiles) {
+  const masse = JSON.parse(readFileSync(path.join(dataDir, f), 'utf8')) as Record<string, Produit[]>;
+  for (const [gid, produits] of Object.entries(masse)) {
+    for (const s of secteurs) {
+      const g = s.groupes.find((x) => x.id === gid);
+      if (g) {
+        const existing = new Set(g.produits.map((p) => p.id));
+        g.produits.push(...produits.filter((p) => !existing.has(p.id)));
+      }
+    }
+  }
+}
+
 const ajoutsPath = path.join(dataDir, 'ajouts.json');
 let ajouts: { num: string; groupe: Groupe }[] = [];
 if (existsSync(ajoutsPath)) {

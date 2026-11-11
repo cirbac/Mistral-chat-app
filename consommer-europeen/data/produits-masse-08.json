@@ -1,0 +1,3636 @@
+{
+ "alimentation-et-boissons-lavazza": [
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070200760",
+   "nom": "Espresso Absolu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070200760"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070029347",
+   "nom": "Café moulu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070029347"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070004368",
+   "nom": "Café espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070004368"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070095113",
+   "nom": "Firmo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070095113"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070141247",
+   "nom": "Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070141247"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070003590",
+   "nom": "Thé Vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070003590"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070200678",
+   "nom": "Expresso corsé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070200678"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070021693",
+   "nom": "Lungo aromatico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 408 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070021693"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070017597",
+   "nom": "Creation expresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070017597"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070004719",
+   "nom": "Aroma Club",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070004719"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070049697",
+   "nom": "Boisson au chocolat prête a l'emploi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070049697"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070028609",
+   "nom": "Cafe torrefie moulu en dosettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070028609"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-2000000101914",
+   "nom": "cafe lavazza en grains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000101914"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-2000000101915",
+   "nom": "CAF2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 500 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000101915"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070023017",
+   "nom": "Pienaroma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070023017"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070004252",
+   "nom": "50 Cápsulas Bebida Blanca Espresso Point De Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070004252"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070027268",
+   "nom": "Blue very perfetto 100% arabica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070027268"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070104082",
+   "nom": "CreamyAroma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070104082"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8006108006106",
+   "nom": "Edulcorante de mesa en sobres 1g.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8006108006106"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070025608",
+   "nom": "Choco fondente",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070025608"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070072190",
+   "nom": "Lavazza expresso allegro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070072190"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070044005",
+   "nom": "Caffe ginseng firma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070044005"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070005457",
+   "nom": "Qualità rossa caffè cialde ese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070005457"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070050112",
+   "nom": "Caffe Lavazza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070050112"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070012035",
+   "nom": "LavAzza 120",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070012035"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070058255",
+   "nom": "Speculoos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070058255"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070020528",
+   "nom": "Café 100% arabica en capsule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070020528"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070039377",
+   "nom": "itierra la habana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070039377"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070044616",
+   "nom": "Kaffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070044616"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070043169",
+   "nom": "Coffe Beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070043169"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-70015104",
+   "nom": "Espresso Italiano Club",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/70015104"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070081000",
+   "nom": "Lavazza Nespresso Compatible Armonico Capsules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070081000"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070060661",
+   "nom": "Antica Cioccolateria Eraclea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070060661"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0000700112882",
+   "nom": "espresso italialo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0000700112882"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070062382",
+   "nom": "Caffe Crema Barista",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070062382"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-0841636101637",
+   "nom": "Thé Imunité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0841636101637"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070058224",
+   "nom": "Galette pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070058224"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070058231",
+   "nom": "Financier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070058231"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070087036",
+   "nom": "Dek cremoso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070087036"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070058248",
+   "nom": "Galette Au éclat de noisettes bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070058248"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070015814",
+   "nom": "Expresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070015814"
+  },
+  {
+   "id": "alimentation-et-boissons-lavazza-8000070039483",
+   "nom": "kafa forest coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000070039483"
+  }
+ ],
+ "alimentation-et-boissons-illy": [
+  {
+   "id": "alimentation-et-boissons-illy-8003753900438",
+   "nom": "Illy Classico 100% Arabica, 250g",
+   "assemblage": "italien",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753900438"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753918198",
+   "nom": "ESPRESSO Torréfaction Foncée",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753918198"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753900759",
+   "nom": "Ground Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753900759"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753198316",
+   "nom": "Tostato intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753198316"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753970042",
+   "nom": "MONOARABICA Whole Bean Coffee BRAZIL 100% arabica",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753970042"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753198330",
+   "nom": "Caffè decaffeinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753198330"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0733411000092",
+   "nom": "Illy whole bean coffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0733411000092"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753919775",
+   "nom": "iperespresso Classico 2yrs prod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 140,7 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753919775"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753979014",
+   "nom": "Caffè IPERESPRESSO CLASSICO CLASSIC ROAST",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753979014"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753167299",
+   "nom": "Caffe in grani india",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753167299"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753943473",
+   "nom": "Caffé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 103,5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753943473"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753217093",
+   "nom": "espresso pulver",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753217093"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8026861047208",
+   "nom": "Crema Gianduja",
+   "assemblage": "Domori S.p.a.",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8026861047208"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8026861054046",
+   "nom": "Uovo di ciocioccolato al latte 38%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8026861054046"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753191430",
+   "nom": "Cafe instantánea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 95 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753191430"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753939926",
+   "nom": "Arabica selection Brasile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753939926"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753920191",
+   "nom": "Caffè torrefazione classica Arabica",
+   "assemblage": "Trieste Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753920191"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753189789",
+   "nom": "Cold Brew Latte Macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753189789"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753164113",
+   "nom": "instant coffee Classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753164113"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753191416",
+   "nom": "Classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753191416"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8026861054022",
+   "nom": "Uovo di cioccolato fondente 70 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8026861054022"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753917399",
+   "nom": "Caffe tostato intenso",
+   "assemblage": "110 - 34147 Trieste Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753917399"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753921280",
+   "nom": "Iperespresso classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 130,2 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753921280"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8711000484944",
+   "nom": "illy classic roast espresso",
+   "assemblage": "Italy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 57g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711000484944"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753900582",
+   "nom": "18 Dosettes Torréfaction Moyenne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753900582"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753198354",
+   "nom": "caffè tostato forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753198354"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753144276",
+   "nom": "Café soluble",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753144276"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-87303384",
+   "nom": "Illy café tiramisu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87303384"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-5449000152671",
+   "nom": "Coffee drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000152671"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-90399893",
+   "nom": "Caffè macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90399893"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753142685",
+   "nom": "Arabica selection iperespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753142685"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753210018",
+   "nom": "Cold brew cappuccino - Illy - Illy - Illy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753210018"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753146355",
+   "nom": "Caffè 100% arabica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753146355"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753142654",
+   "nom": "18 capsule - arabica selection Etiopia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753142654"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753114347",
+   "nom": "Illy Iperespresso classico filtrato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753114347"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753191379",
+   "nom": "caffè instantaneo classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753191379"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753169224",
+   "nom": "Caffè classico tostato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753169224"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753920221",
+   "nom": "Caffe Espresso Macinato Art Collection",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753920221"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753918242",
+   "nom": "Café espresso en dosettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753918242"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753919799",
+   "nom": "Iperespresso decaf 2yrs prod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 140,7g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753919799"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753918266",
+   "nom": "Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753918266"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753943497",
+   "nom": "Caffe intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 103,5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753943497"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753179421",
+   "nom": "Iperespresso forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 120,6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753179421"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753142623",
+   "nom": "Caffe iperespresso Colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 120,6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753142623"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753168005",
+   "nom": "Arabica selection iperespresso india",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753168005"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003723900438",
+   "nom": "Café moulu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003723900438"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003746973845",
+   "nom": "Caffè tostato classico moka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003746973845"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0733411008036",
+   "nom": "L’Espresso, Ground Coffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0733411008036"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8711000485002",
+   "nom": "Illy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 57 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711000485002"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753167985",
+   "nom": "Iperespresso India",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753167985"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753188812",
+   "nom": "Caffè forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 131 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753188812"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753970585",
+   "nom": "Uno capsule sistema decaffeinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753970585"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753970561",
+   "nom": "Capsule uno system",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753970561"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753185613",
+   "nom": "Capsule per caffè espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753185613"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753142661",
+   "nom": "Iperespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753142661"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753114330",
+   "nom": "Capsule iperespresso intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 129,6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753114330"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0001002117118",
+   "nom": "Café moulu moka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0001002117118"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0001002171765",
+   "nom": "Cold brew",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0001002171765"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0049000071603",
+   "nom": "Italian Espresso Style Coffee Drink With Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 8.45 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000071603"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0049000071610",
+   "nom": "Italian Espresso Style Coffee Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 6.8 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000071610"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0049000065312",
+   "nom": "100% Arabica Coffee, Mochaccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 11.5 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000065312"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0049000065336",
+   "nom": "Illy, Issimo, Iced Coffee Drink With Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 11.5 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000065336"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0049000058154",
+   "nom": "Coffee Drink, Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 9.5 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000058154"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0049000053142",
+   "nom": "Caffe Iced Coffee Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 6.8 OZA",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000053142"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753147337",
+   "nom": "instant coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753147337"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0733411177756",
+   "nom": "Arabica Selection Colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0733411177756"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-8003753209999",
+   "nom": "Latte Macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003753209999"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0733411077216",
+   "nom": "Intenso Bold Roast Coffee Beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0733411077216"
+  },
+  {
+   "id": "alimentation-et-boissons-illy-0733411904246",
+   "nom": "Arabica Selection Nicaragua Coffee Beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0733411904246"
+  }
+ ],
+ "alimentation-et-boissons-massimo-zanetti-beverage": [
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410344223",
+   "nom": "Segafredo Intermezzo Espresso Moulu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4x250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410344223"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410247746",
+   "nom": "Espresso casa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410247746"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410349044",
+   "nom": "Café en grains pur arabica Segafredo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410349044"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410311089",
+   "nom": "Caffé Espresso Casa In Grani Segafredo 1 KG.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410311089"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410240549",
+   "nom": "Le origini brasile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410240549"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410249924",
+   "nom": "Caffè espresso arabica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410249924"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410349310",
+   "nom": "Premium d'arôme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410349310"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410012726",
+   "nom": "Café Moulu 250g Segafredo Classico Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410012726"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-5900420080109",
+   "nom": "Caffé Crema Dolce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900420080109"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410247838",
+   "nom": "Crema ricca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410247838"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410243649",
+   "nom": "Segafredo 100% arábica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410243649"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410344360",
+   "nom": "Café Segafredo Zanetti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410344360"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410344254",
+   "nom": "Espresso moka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410344254"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410349105",
+   "nom": "Mio Caffè Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 75 g (10x 7,5 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410349105"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-9001810003701",
+   "nom": "Selezione espresso",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9001810003701"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410311997",
+   "nom": "1KG Cafe Moulu Emozioni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410311997"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410247067",
+   "nom": "intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 51 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410247067"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410243335",
+   "nom": "Supremo 100% Arabica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410243335"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410243588",
+   "nom": "Segafredo Espresso Casa Intensitá 10",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410243588"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-5607128000216",
+   "nom": "Intermezzo",
+   "assemblage": "Portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 51 g (10 x 5,1 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5607128000216"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410344209",
+   "nom": "Segafredo Café Intermezzo les 3 paquets de 250 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 x 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410344209"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410247708",
+   "nom": "Caffè",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410247708"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-3259237896000",
+   "nom": "Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3259237896000"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410270089",
+   "nom": "Hot Ciok Fondente",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 950 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410270089"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410311041",
+   "nom": "Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410311041"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410349112",
+   "nom": "Mio caffè Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 75 g (10x 7,5 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410349112"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410349150",
+   "nom": "Grain de café",
+   "assemblage": "FRANCE",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410349150"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410312840",
+   "nom": "Café en grains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410312840"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410246534",
+   "nom": "Segafredo Zanetti 300 Capsule My Espresso Casa Gusto Cremoso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410246534"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410311980",
+   "nom": "1KG Cafe Grain Emozioni Segafredo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410311980"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-13797775",
+   "nom": "prenium d'arôme bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13797775"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410245063",
+   "nom": "Le Origini Brasile café 100% arábica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410245063"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410312826",
+   "nom": "Segafredo Extra Strong 1KG Coffee Beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410312826"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410346517",
+   "nom": "Café moulu arôme et sensation SEGAFREDO ZANETTI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410346517"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410243601",
+   "nom": "Segafredo espresso casa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410243601"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410222507",
+   "nom": "Sagafredo, Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410222507"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410281627",
+   "nom": "Segafredo Zanetti Crema Caffe Senza Glutine 1 Litro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410281627"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410240464",
+   "nom": "Kaffee - Intermezzo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410240464"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-4004816011607",
+   "nom": "Selezione Crema",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4004816011607"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410249108",
+   "nom": "Espresso casa cialde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410249108"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410226116",
+   "nom": "Segafredo,Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410226116"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-3259237898004",
+   "nom": "Amandes chocolaté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3259237898004"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410349013",
+   "nom": "segafredo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410349013"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-9001810115947",
+   "nom": "Passione Espresso Intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9001810115947"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410000044",
+   "nom": "Café corsé en dosettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410000044"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8003410249320",
+   "nom": "espresso ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 51g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003410249320"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-0000800341034",
+   "nom": "LE ORIGINI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0000800341034"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8710828164618",
+   "nom": "expert Jubiläums Röstung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710828164618"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-3024410311171",
+   "nom": "Intermezzo Kaffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3024410311171"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-0613668180009",
+   "nom": "It’s A Boom",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0613668180009"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-6420101887036",
+   "nom": "Choco Capuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6420101887036"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-6224011288910",
+   "nom": "Waffel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6224011288910"
+  },
+  {
+   "id": "alimentation-et-boissons-massimo-zanetti-beverage-8710828188119",
+   "nom": "Espresso Biologico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1000g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710828188119"
+  }
+ ],
+ "alimentation-et-boissons-roxane": [
+  {
+   "id": "alimentation-et-boissons-roxane-3274080005003",
+   "nom": "isabelle",
+   "assemblage": "24610",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274080005003"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3268840001008",
+   "nom": "CRISTALINE Eau De Source 0.5L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3268840001008"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381016922",
+   "nom": "CRISTALINE Eau de Source Pétillante 0,5L",
+   "assemblage": "F-59710 MERIGNIES",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381016922"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381025887",
+   "nom": "CRISTALINE Eau De Source 1L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381025887"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381048343",
+   "nom": "CRISTALINE Eau de Source au jus de fruits FRAISE 50cl",
+   "assemblage": "France Auvergne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381048343"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058717",
+   "nom": "CRISTALINE Eau de Source au jus de fruits CITRONNADE 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058717"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381047988",
+   "nom": "CRISTALINE Eau de Source au jus de fruits FRAISE 1.5L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381047988"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381048350",
+   "nom": "CRISTALINE Eau de Source au jus de fruits PECHE 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381048350"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381047995",
+   "nom": "CRISTALINE Eau de Source au jus de fruits PECHE 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381047995"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3274080001005",
+   "nom": "CRISTALINE Eau De Source 6x1.5L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 9000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274080001005"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058694",
+   "nom": "CRISTALINE Eau de Source au jus de fruits CITRONNADE 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058694"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-6194001800807",
+   "nom": "Eau Minérale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6194001800807"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381048008",
+   "nom": "CRISTALINE Eau de Source au jus de fruitsTROPICAL 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381048008"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381048893",
+   "nom": "CRISTALINE Eau de Source au jus de fruits TROPICAL 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381048893"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381204312",
+   "nom": "CRISTALINE Eau De Source 12x0.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 6000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381204312"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381018001",
+   "nom": "CRISTALINE Eau de Source Aromatisée saveur Citron 0L5",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381018001"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254380003756",
+   "nom": "CRISTALINE Eau De Source 5L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 5000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254380003756"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381051800",
+   "nom": "CRISTALINE Eau De Source Pétillante Aromatisée Citron 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381051800"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381011163",
+   "nom": "Eau de source cristaline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381011163"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381013518",
+   "nom": "CRISTALINE Eau de Source Aromatisée saveur Citron 1L5",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381013518"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381013501",
+   "nom": "CRISTALINE Eau de Source Aromatisée saveur Fruits Rouges 1L5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381013501"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381053804",
+   "nom": "CRISTALINE Eau de Source Pétillante canette 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381053804"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381055563",
+   "nom": "CRISTALINE Eau de Source au jus de fruits PECHE POMME POIRE 1,5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381055563"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381008439",
+   "nom": "CRISTALINE Eau de Source Pétillante 6x1,5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 9000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381008439"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381017998",
+   "nom": "CRISTALINE Eau de Source Aromatisée saveur Fruits Rouges 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381017998"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381026105",
+   "nom": "CRISTALINE Eau De Source 0.33L (bouchon sport)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381026105"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381055501",
+   "nom": "CRISTALINE Eau De Source La Fontaine 8L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 8000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381055501"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381055570",
+   "nom": "CRISTALINE Eau De Source Pétillante Aromatisée Pêche 1L5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381055570"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381053934",
+   "nom": "CRISTALINE Eau de Source au jus de fruits POMME CASSIS FRAMBOISE 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381053934"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381062561",
+   "nom": "Bronwater",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381062561"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381053835",
+   "nom": "Eau De Source Pétillante Aromatisée Citron Vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381053835"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382053803",
+   "nom": "CRISTALINE Eau de Source Pétillante canette 6x33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1980 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382053803"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381055846",
+   "nom": "CRISTALINE Eau de Source au jus de fruits PECHE POMME POIRE 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381055846"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381049890",
+   "nom": "Cristaline eau de source the vert menthe 0l5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381049890"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-6194001801101",
+   "nom": "Eau minérale naturelle",
+   "assemblage": "Tunisie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6194001801101"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-6194001801002",
+   "nom": "Eau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6194001801002"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381053927",
+   "nom": "CRISTALINE Eau de Source au jus de fruits POMME CASSIS FRAMBOISE 50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381053927"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381021810",
+   "nom": "Eau De Source",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381021810"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382025886",
+   "nom": "CRISTALINE Eau De Source 6x1L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 6000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382025886"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381049029",
+   "nom": "cristaline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381049029"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382016921",
+   "nom": "Eau De Source Pétillante",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 3000 ml (6x50cl)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382016921"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382048342",
+   "nom": "CRISTALINE Eau de Source au jus de fruits FRAISE 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382048342"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381025009",
+   "nom": "Atomiseur Cristaline 400",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381025009"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058700",
+   "nom": "Boisson à l'eau de source Cristaline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058700"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382048359",
+   "nom": "CRISTALINE Eau de Source au jus de fruits PECHE 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382048359"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381025108",
+   "nom": "Teha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381025108"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-16556938",
+   "nom": "Eau de source au jus de fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16556938"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382058693",
+   "nom": "CRISTALINE Eau de Source au jus de fruits CITRONNADE 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382058693"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381055587",
+   "nom": "CRISTALINE Eau De Source Pétillante Aromatisée Pêche 0L5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381055587"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382048892",
+   "nom": "CRISTALINE Eau de Source au jus de fruits TROPICAL 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382048892"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-8930080005003",
+   "nom": "Eleonore",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8930080005003"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058724",
+   "nom": "eau pamplemousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058724"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381049395",
+   "nom": "Cristaline thé vert menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381049395"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381059905",
+   "nom": "Cristalline au jus de fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381059905"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381059929",
+   "nom": "Au de jus de fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381059929"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381051718",
+   "nom": "Cristaline Thé noir infusé pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381051718"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254380004821",
+   "nom": "Chargement…",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 75 cL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254380004821"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381051732",
+   "nom": "Eau thé blanc infusé framboise litchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381051732"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381059936",
+   "nom": "Cristalline jus de fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381059936"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381029229",
+   "nom": "Eau de source gazeifiée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381029229"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058762",
+   "nom": "Les minis bio Pomme fruits-rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058762"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254386058767",
+   "nom": "Cristaline les minis bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254386058767"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058748",
+   "nom": "Les Minis Bio Multi-Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058748"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381056812",
+   "nom": "Eau de source gazeifiee citron vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381056812"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381058755",
+   "nom": "Les minis Bio Pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381058755"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254383004316",
+   "nom": "Eau Cristaline",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 24x50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254383004316"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-64141220",
+   "nom": "Cristalline tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/64141220"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381056829",
+   "nom": "Eau de source gazéifiée arome naturel de menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381056829"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254385026101",
+   "nom": "CRISTALINE Eau De Source 12x0.33L (Bouchon Sport)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 3960 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254385026101"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254386058743",
+   "nom": "Les minis bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254386058743"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-05313655",
+   "nom": "Christaline fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05313655"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381051817",
+   "nom": "Eau gazeuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381051817"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381457008",
+   "nom": "Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381457008"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382017997",
+   "nom": "CRISTALINE Eau de Source Aromatisée saveur Fruits Rouges 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382017997"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382018000",
+   "nom": "Cristaline - Gout citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382018000"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382058709",
+   "nom": "Cristaline pamplemousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382058709"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-61556447",
+   "nom": "Christaline - peche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/61556447"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-12576593",
+   "nom": "cristaline Pétillante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1.5 litres",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/12576593"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-1046400174582",
+   "nom": "Cristaline peche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1046400174582"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382049899",
+   "nom": "Cristaline eau de source the vert menthe 6x0l5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382049899"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381056577",
+   "nom": "Eau de Source et Jus de fruits-fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381056577"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-2911348928922",
+   "nom": "Van sucra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2911348928922"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-32543800084930",
+   "nom": "Eau de source gazéifiée Roxane Hovelange",
+   "assemblage": "Beckrich Grand Duché du Luxembourg",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32543800084930"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-01083246",
+   "nom": "Eau de source gazéifiée au jus de citron et citron vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01083246"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254380448564",
+   "nom": "Cristaline Gazéifiée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254380448564"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382047987",
+   "nom": "Cristaline gout fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382047987"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-4412100480457",
+   "nom": "Céline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4412100480457"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3274080004303",
+   "nom": "Ste- Cécile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274080004303"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-6174711142343",
+   "nom": "Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6174711142343"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-6122624883471",
+   "nom": "Cristaline eau de source pétillante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6122624883471"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-13590659",
+   "nom": "Boutelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13590659"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-32656466",
+   "nom": "Bouteille d’eau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32656466"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-15877888",
+   "nom": "Eau de jus de fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15877888"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3780200379980",
+   "nom": "Eau de source : Celine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3780200379980"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-4440211520024568012123",
+   "nom": "Je sais pas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4440211520024568012123"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381050933",
+   "nom": "Petillante citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381050933"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-13387785",
+   "nom": "Citronnade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13387785"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-73615651",
+   "nom": "Eau pétillante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/73615651"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-35177142",
+   "nom": "Cristaline citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/35177142"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-05513434",
+   "nom": "Eau de source jus de fruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05513434"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-45442483",
+   "nom": "Eau de Source Cristaline eta naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45442483"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-00612663",
+   "nom": "The Vert Menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00612663"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3274080000503",
+   "nom": "ste sophie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274080000503"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-2740980005003",
+   "nom": "St Martin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2740980005003"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382053926",
+   "nom": "CRISTALINE Eau de Source au jus de fruits POMME CASSIS FRAMBOISE 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382053926"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382055586",
+   "nom": "CRISTALINE Eau De Source Pétillante Aromatisée Pêche 6x0L5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382055586"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254382055845",
+   "nom": "CRISTALINE Eau de Source au jus de fruits PECHE POMME POIRE 6x50cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254382055845"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3454385048350",
+   "nom": "Jus de pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3454385048350"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3254381049043",
+   "nom": "Cristalline atomiseur eau de source",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254381049043"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-0327408000100",
+   "nom": "Eau de Source Plate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0327408000100"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-3700462061416",
+   "nom": "Eau source",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 6x1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700462061416"
+  },
+  {
+   "id": "alimentation-et-boissons-roxane-2254321844746",
+   "nom": "Cristaline pêche pomme poire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2254321844746"
+  }
+ ],
+ "alimentation-et-boissons-suntory": [
+  {
+   "id": "alimentation-et-boissons-suntory-8435185100962",
+   "nom": "orangina",
+   "assemblage": "cote d'Ivoire",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1,25",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435185100962"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-4000140703881",
+   "nom": "Orangina original",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 0,33l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000140703881"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-6191525200267",
+   "nom": "Orangina et sa pulpe",
+   "assemblage": "Tunisie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6191525200267"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480184399",
+   "nom": "Orangina cool can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480184399"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-8435185964168",
+   "nom": "Orangina Rouge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435185964168"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3292090336191",
+   "nom": "Orangina Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090336191"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480172013",
+   "nom": "Oasis Tropical Zéro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480172013"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-8435185956446",
+   "nom": "Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435185956446"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480184412",
+   "nom": "Boisson gazeuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480184412"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480185037",
+   "nom": "Orangina miss 0! 2x1l5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480185037"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480185457",
+   "nom": "Orangine pack 24",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 24 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480185457"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480190482",
+   "nom": "P'tit Orangina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480190482"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3292090335552",
+   "nom": "Orangina red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090335552"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3348630002665",
+   "nom": "Orangina Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3348630002665"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-18899177",
+   "nom": "orangina light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18899177"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480183460",
+   "nom": "Orangina jaune",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480183460"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480183613",
+   "nom": "Miss O!",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480183613"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-4000140702327",
+   "nom": "Orangina, Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000140702327"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-45191732",
+   "nom": "Honey Lemongina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45191732"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-7610525300795",
+   "nom": "mit Fruchtfleisch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610525300795"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-8435185956392",
+   "nom": "Shake the pulp! Zero Sucre ajoutée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435185956392"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-8594003844928",
+   "nom": "Orangina 1,5L Orange Soft Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594003844928"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-4000140705564",
+   "nom": "Orangina Orangenlimonade Mit Fruchtfleisch, 1 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000140705564"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-05096893",
+   "nom": "Sparkling citrus beverage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05096893"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-3124480828293",
+   "nom": "Oasis tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3124480828293"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-13738990",
+   "nom": "fanta light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13738990"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-33354521",
+   "nom": "6X33CL ORANGINA REG ORANGE SLK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/33354521"
+  },
+  {
+   "id": "alimentation-et-boissons-suntory-0556600097433",
+   "nom": "Orangii",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0556600097433"
+  }
+ ],
+ "alimentation-et-boissons-asahi-group": [
+  {
+   "id": "alimentation-et-boissons-asahi-group-9350709001046",
+   "nom": "Balter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 355mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9350709001046"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842509539",
+   "nom": "Mintia dryhard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842509539"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440449108",
+   "nom": "Asahi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440449108"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842528424",
+   "nom": "1本満足バーProtein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842528424"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603465914",
+   "nom": "ピンクグレイソルティ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603465914"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4714947199012",
+   "nom": "十六茶零咖啡因複方茶",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4714947199012"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603345117",
+   "nom": "Kiwami coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 370 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603345117"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603343717",
+   "nom": "Jurokucha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603343717"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-5060006410208",
+   "nom": "Asahi Super Dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 660 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060006410208"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4904230029991",
+   "nom": "アサヒドライゼロ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4904230029991"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901004006677",
+   "nom": "The Draft",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901004006677"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842526154",
+   "nom": "Mintia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842526154"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603417616",
+   "nom": "Mitsuya Peach 完熟もも",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603417616"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0850005927402",
+   "nom": "Calpico soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850005927402"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4904230051879",
+   "nom": "Style Balance, Sparkling Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4904230051879"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440049575",
+   "nom": "Bière Asahi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440049575"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440249128",
+   "nom": "Asahi cerveza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440249128"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440149176",
+   "nom": "Super Dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 20 x 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440149176"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440512420",
+   "nom": "Peroni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440512420"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901004027184",
+   "nom": "Off",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901004027184"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842529650",
+   "nom": "Caramel Mega Protein Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 65 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842529650"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901004050014",
+   "nom": "the rich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901004050014"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4971334204081",
+   "nom": "yasai",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 7g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4971334204081"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0850005927396",
+   "nom": "Calpico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 11.3 FL OZ (355 mL)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850005927396"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4904230069201",
+   "nom": "Style Balance, Chardonnay Sparkling, Budo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4904230069201"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842526871",
+   "nom": "Choco mint Mintia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842526871"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440549426",
+   "nom": "Asahi Super “Dry”",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440549426"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842529063",
+   "nom": "クリーム玄米ブラン 80kcal ビターチョコ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 54 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842529063"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0902200529391",
+   "nom": "Protein snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0902200529391"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603402711",
+   "nom": "Mitsuya Cider Lemola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603402711"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0850005927433",
+   "nom": "Calpico mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850005927433"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901340228429",
+   "nom": "カルピスソーダ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901340228429"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-9000004449035",
+   "nom": "Bear",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9000004449035"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603445015",
+   "nom": "Tokunou peach squash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603445015"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-9329982021065",
+   "nom": "ASAHI SUPER DRY AUS 6*330ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330ml x6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9329982021065"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8000190956028",
+   "nom": "Bière « Super Dry »",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000190956028"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842522682",
+   "nom": "Asahi cereal bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842522682"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603448610",
+   "nom": "Wonda Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603448610"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901004006820",
+   "nom": "Asahi draft 6s 500ml super dry beer ~ 68. Platinum 72075",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6x 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901004006820"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4904230073079",
+   "nom": "Asahi Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4904230073079"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842637171",
+   "nom": "Perfect アスタ　カラーゲン",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842637171"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-7798093110012",
+   "nom": "Arroz Koshihikari",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7798093110012"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-8008440544025",
+   "nom": "Super Dry 0.0% Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8008440544025"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901340094444",
+   "nom": "Calpis Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901340094444"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842638161",
+   "nom": "Dear-Natura マカ×亜鉛＋アミノ酸",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842638161"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901340091047",
+   "nom": "Calpis Blend Premium Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901340091047"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603463217",
+   "nom": "Black Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603463217"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-9556252223403",
+   "nom": "Hot Chilli Creamy Coconut Paste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556252223403"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0906802540020",
+   "nom": "Caramel Protein Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0906802540020"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603418217",
+   "nom": "Bireley's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603418217"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842520220",
+   "nom": "Choc Energy Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842520220"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0048000242723",
+   "nom": "Asahi 0.0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048000242723"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-0810082771008",
+   "nom": "Super Dry Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0810082771008"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842529902",
+   "nom": "MINTIA BREEZE KOICHIGO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842529902"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603370218",
+   "nom": "ロイヤルミルクティー",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603370218"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842540495",
+   "nom": "Cream Genmai Biscuits Milk Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842540495"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842541515",
+   "nom": "Protein Vitality Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842541515"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842541478",
+   "nom": "クリーム玄米ブラン",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842541478"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4904230074731",
+   "nom": "ZERO Alcohol Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4904230074731"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603185416",
+   "nom": "Red Bean Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603185416"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901340093744",
+   "nom": "すきっとレモン",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 470ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901340093744"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901340061545",
+   "nom": "GUN GUN GURT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901340061545"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4901340090941",
+   "nom": "Welch's ウェルチ 1房分のぶどう",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 470ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901340090941"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4970985061425",
+   "nom": "Twelve items salad",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4970985061425"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4946842529988",
+   "nom": "Custard Cream Bran Plus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4946842529988"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603461619",
+   "nom": "ドデカミソ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603461619"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-45226731",
+   "nom": "三ツ矢サイダー ダブル",
+   "assemblage": "茨城県守谷市緑1-1-1",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 485ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45226731"
+  },
+  {
+   "id": "alimentation-et-boissons-asahi-group-4514603386219",
+   "nom": "roasted green tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 600mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4514603386219"
+  }
+ ],
+ "alimentation-et-boissons-kirin": [
+  {
+   "id": "alimentation-et-boissons-kirin-4909411090517",
+   "nom": "Fire ONEDAY light sugar Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 600ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411090517"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4260134390279",
+   "nom": "Alkoholfreies Bier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260134390279"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4260134390712",
+   "nom": "Kirin Ichiban",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260134390712"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411069773",
+   "nom": "Jus épais de 48 légumes",
+   "assemblage": "Japan",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411069773"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411084370",
+   "nom": "Ice Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411084370"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411076955",
+   "nom": "Koiwai Family Products",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411076955"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-8801062866830",
+   "nom": "Custard Bun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062866830"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411089948",
+   "nom": "iMuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411089948"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4901411095738",
+   "nom": "Oak Master",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901411095738"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-8801062713660",
+   "nom": "아이러브 통밀식빵",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062713660"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411076658",
+   "nom": "Milk Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411076658"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411086275",
+   "nom": "Straight tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 1500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411086275"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411069063",
+   "nom": "Rich green tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411069063"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4901411055398",
+   "nom": "kirin momo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901411055398"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-9007015003324",
+   "nom": "Oliven Grün, ohne Stein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 130g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9007015003324"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-0628011704016",
+   "nom": "Ruiz collant enveloppe dans une feuille de lotus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 6 pieces/ morceaux , 660 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0628011704016"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411085650",
+   "nom": "gogo no kocha oishi moto darjeeling tea &quot;kirin&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411085650"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-9311512245683",
+   "nom": "Hyok Etsu Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9311512245683"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411075538",
+   "nom": "Milk tea Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411075538"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-6921014033966",
+   "nom": "Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6921014033966"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411076931",
+   "nom": "Koiwai junsui ringo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 430 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411076931"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4260134390095",
+   "nom": "Kirin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260134390095"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-9311890250095",
+   "nom": "Hyoketsu Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9311890250095"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-0628011704283",
+   "nom": "Prawn & Garlic Spring Roll",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0628011704283"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-7896181502517",
+   "nom": "Molho Agridoce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896181502517"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411084752",
+   "nom": "Lychee Jelly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411084752"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-4909411086459",
+   "nom": "iMUSE レモン",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4909411086459"
+  },
+  {
+   "id": "alimentation-et-boissons-kirin-9420060507515",
+   "nom": "Hyoketsu Green Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9420060507515"
+  }
+ ]
+}
