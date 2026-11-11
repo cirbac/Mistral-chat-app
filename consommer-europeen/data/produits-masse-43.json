@@ -1,0 +1,3178 @@
+{
+ "restauration-livraison-yum": [
+  {
+   "id": "restauration-livraison-yum-2000000041287",
+   "nom": "Sauce pimentée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000041287"
+  },
+  {
+   "id": "restauration-livraison-yum-54005300042840",
+   "nom": "Pepperoni Lovers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54005300042840"
+  },
+  {
+   "id": "restauration-livraison-yum-0043695002935",
+   "nom": "Hot Honey Chicken Bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0043695002935"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000083855",
+   "nom": "Saucy Mexican Style Pizza Dip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000083855"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000083879",
+   "nom": "Spicy bean dip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000083879"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000080281",
+   "nom": "Avocado Ranch Creamy Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000080281"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000049561",
+   "nom": "Reduced Sodium Taco Seasoning Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000049561"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000046959",
+   "nom": "Mild Thick N' Chunky Salsa, Mild",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000046959"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000150653",
+   "nom": "Cinnabon Delights",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 Cinnabon Delights",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000150653"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000150663",
+   "nom": "Beef Burrito Supreme",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 burrito",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000150663"
+  },
+  {
+   "id": "restauration-livraison-yum-47911742573939869745",
+   "nom": "Taco Bell, Crunchwrap Supreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1 serving(s)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/47911742573939869745"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100905304",
+   "nom": "Crunchy Taco - Taco Cravings Kit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100905304"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100906202",
+   "nom": "Cheesy Double Decker Taco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100906202"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100906165",
+   "nom": "Baja Creamy Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100906165"
+  },
+  {
+   "id": "restauration-livraison-yum-0071063437706",
+   "nom": "Mild Tortilla Chips, Mild",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 20 oz/567 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0071063437706"
+  },
+  {
+   "id": "restauration-livraison-yum-0071063437690",
+   "nom": "Classic Tortilla Chips, Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 9.75 oz/276 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0071063437690"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000072446",
+   "nom": "Cotija Grated Cheese Topping, Cotija",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000072446"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000050321",
+   "nom": "Cheesy Taco Grande Taco Dinner Kit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000050321"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000050314",
+   "nom": "Taco Bell, Soft Tortilla Steak & Cheese Taco Dinner Kit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000050314"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000046898",
+   "nom": "Cinnamon Nachos Dessert Kit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000046898"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000032761",
+   "nom": "Chipotle Sauce, Chipotle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000032761"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100906172",
+   "nom": "Taco Bell Soft Taco Kit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100906172"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100905281",
+   "nom": "Sauce Hot Piquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100905281"
+  },
+  {
+   "id": "restauration-livraison-yum-0021000083497",
+   "nom": "Queso Burrito",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0021000083497"
+  },
+  {
+   "id": "restauration-livraison-yum-0199375000019",
+   "nom": "Baja Blast Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0199375000019"
+  },
+  {
+   "id": "restauration-livraison-yum-0860010013694",
+   "nom": "Cold Brew Latte Bee Keeper Coffee Horchata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0860010013694"
+  },
+  {
+   "id": "restauration-livraison-yum-06066772",
+   "nom": "Mild Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06066772"
+  },
+  {
+   "id": "restauration-livraison-yum-12437993",
+   "nom": "VERDE SALSA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/12437993"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100906226",
+   "nom": "Fromage À Nacho",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100906226"
+  },
+  {
+   "id": "restauration-livraison-yum-0068100907667",
+   "nom": "Hot Seasoned Taco Shells",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068100907667"
+  }
+ ],
+ "restauration-et-livraison-de-repas-groupe-le-duff": [
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-le-duff-3419280007765",
+   "nom": "Croissant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3419280007765"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-le-duff-2417397001448",
+   "nom": "Pan de centeno 15%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2417397001448"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-le-duff-2005624402467",
+   "nom": "Kinkku-Juusto Pasteija",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2005624402467"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-le-duff-0258324012999",
+   "nom": "Croissant au beurre cuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0258324012999"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-le-duff-8022004300728",
+   "nom": "Huile Pimentée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8022004300728"
+  }
+ ],
+ "hygiene-beaute-et-sante-l-oreal": [
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524030889",
+   "nom": "elseve hyaluron repulp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524030889"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3610340652745",
+   "nom": "Ultra Doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3610340652745"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542146470",
+   "nom": "0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542146470"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541358447",
+   "nom": "Solution Micellaire Tout en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541358447"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3610340670947",
+   "nom": "Garnier Ultra DOUX",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3610340670947"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525671",
+   "nom": "Shampooing nutrition profonde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525671"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542520454",
+   "nom": "Sensitive expert + Spf 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542520454"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-16005413",
+   "nom": "Code-Barres non valide. Veuillez rescanner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16005413"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525831",
+   "nom": "Après-shampoing nutrition profonde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525831"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542520263",
+   "nom": "Enfant sensitive expert + Spf 50+ Spay",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542520263"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542527118",
+   "nom": "Ultra doux shampooing reconstituant Trésors de miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542527118"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541594968",
+   "nom": "Skin Active Solution Micellaire Tout En 1 Peaux Sèches et Sensibles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541594968"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525657",
+   "nom": "Shampoing illuminant camomille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525657"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541895478",
+   "nom": "Pure Active Intensif 3 en 1 Anti-points noirs incrustés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541895478"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525794",
+   "nom": "Shampooing doux Ultra Doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525794"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542571951",
+   "nom": "Shampoing nutrition Ultra Doux Avocat et Karité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "600ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542571951"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542613323",
+   "nom": "Hair food aloe Vera",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "320ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542613323"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542470339",
+   "nom": "Baume nourrissant multi usage vitamine E",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 380 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542470339"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542470421",
+   "nom": "Body superfood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 380 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542470421"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541204638",
+   "nom": "L'huile merveilleuse aux huiles d'argan et de camelia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541204638"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540676627",
+   "nom": "Pure Active 3 en 1",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540676627"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525848",
+   "nom": "Après shampoing ultra doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525848"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542522861",
+   "nom": "Ambre solaire enfant sensitive fps 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 270 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542522861"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542572071",
+   "nom": "Shampoing riz amidon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542572071"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542426992",
+   "nom": "Skinactive micellaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ML",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542426992"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542202220",
+   "nom": "Garnier Fructis Nutri Curls Air Dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542202220"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542372831",
+   "nom": "Shampooing solide Ultra Doux, hydratant, Délicatesse d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542372831"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525688",
+   "nom": "Shampooing protecteur de couleur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525688"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541744509",
+   "nom": "Skin Active Biphase Micellaire Tout en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541744509"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541072992",
+   "nom": "Leche Solar UV Sensitive 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541072992"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542565820",
+   "nom": "Gel nettoyant moussant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542565820"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542129244",
+   "nom": "Masque nourrissant hair food banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542129244"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215660390997",
+   "nom": "Après soleil, lait hydratant apaisant au concentré de cactus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215660390997"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542520829",
+   "nom": "Ultra Doux Après-Shampooing Équilibrant - Charbon Magnétique & Huile de Fleur de Nigelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542520829"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541358485",
+   "nom": "Agua Micelar Todo en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541358485"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542024242",
+   "nom": "Fructis Fuerza y Brillo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542024242"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542398183",
+   "nom": "skin active  fast bright",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 30 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542398183"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542576307",
+   "nom": "Ambre solaire Idéal Bronze",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542576307"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541698482",
+   "nom": "Mizellen Reinigungswasser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541698482"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525626",
+   "nom": "Ultra Doux Shampooing Nourrissant Cheveux Secs Lait De Coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525626"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542523011",
+   "nom": "Sensitive Advanced 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542523011"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542565639",
+   "nom": "AMBRE SOLAIRE Hydra 24H Sonnenschutz-Spray (SPF 30)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542565639"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541595125",
+   "nom": "Acqua micellare tutto in 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541595125"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542140775",
+   "nom": "Fructis hair food banana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 70",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542140775"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542513302",
+   "nom": "Ambre solaire lait fluide hydratant très haute protection",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 175 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542513302"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542081160",
+   "nom": "Skin Active agua micelar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542081160"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542359696",
+   "nom": "Ambre solaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542359696"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542524223",
+   "nom": "Body superfood baume cacao main",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542524223"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542391061",
+   "nom": "skinactive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542391061"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542024204",
+   "nom": "Liso & Brillo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542024204"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541895546",
+   "nom": "Pure Active 3 in 1 carbone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541895546"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542575867",
+   "nom": "Shampooing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542575867"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542524230",
+   "nom": "Crème main nourrissante Body Supeefood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542524230"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542512886",
+   "nom": "Enfant sensitive expert + Spf 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542512886"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-4084200772901",
+   "nom": "Hautklar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4084200772901"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541744554",
+   "nom": "Mizellen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541744554"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542140799",
+   "nom": "Hair Food papaya reparadora",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542140799"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542024181",
+   "nom": "Nutri Rizos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 380 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542024181"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541897694",
+   "nom": "Micellar Cleansing Water in Oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541897694"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542573771",
+   "nom": "Ambre Solaire Shaka Vit C Spf50 40 Spf50 40 Ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "40ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542573771"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542372398",
+   "nom": "Shampooing solide",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542372398"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542168632",
+   "nom": "Pure Active",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542168632"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215662980011",
+   "nom": "PureActive Gel nettoyant assainissant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215662980011"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542461511",
+   "nom": "Honey Treasures Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542461511"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542470254",
+   "nom": "Body Superfood Gel Crème Hydratant Pastèque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 380ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542470254"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541938489",
+   "nom": "Micellar Cleansing Water All-in-1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 700ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541938489"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525763",
+   "nom": "Après shampoing illuminant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525763"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525787",
+   "nom": "Ultra doux enfant 2 en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525787"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540299178",
+   "nom": "Fabi bodylotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540299178"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525800",
+   "nom": "ultra doux shampooing réparation intense érable guérisseur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525800"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542020053",
+   "nom": "Fructis Multi-Use Wunderöl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542020053"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542097024",
+   "nom": "Skin Active Masque Tissu Charbon Végétal",
+   "assemblage": "Chine",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 28 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542097024"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542024228",
+   "nom": "Agua de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 360 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542024228"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542024051",
+   "nom": "Hair Bomb Proteína",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542024051"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541744417",
+   "nom": "Garnier skinactive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541744417"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-4084200771904",
+   "nom": "Hautklar Tägliches Anti-Pickel Gesichtswasser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4084200771904"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542628563",
+   "nom": "Salicylique lotion exfoliante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "120 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542628563"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542317009",
+   "nom": "Lotion de soins corps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542317009"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541358461",
+   "nom": "micellar cleansing water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541358461"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542561389",
+   "nom": "Hand repair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542561389"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552844214",
+   "nom": "Hair food aguacate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552844214"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542120487",
+   "nom": "Beaume coiffant protecteur richesse d'argan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542120487"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542359726",
+   "nom": "Garnier ambre solaire sensitive expert +",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542359726"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542326414",
+   "nom": "Agua micelar con rosas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542326414"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215666470013",
+   "nom": "Spray éclaircissant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215666470013"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552828962",
+   "nom": "Fructis Hair Food Aguacate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552828962"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541334496",
+   "nom": "Body Urea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541334496"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542117920",
+   "nom": "Shampoo fructis aloe hydra bomb",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542117920"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542453127",
+   "nom": "Vitamina C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542453127"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542513029",
+   "nom": "Garnier Fructis Banana Hair Food",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542513029"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552849523",
+   "nom": "Hair Food Sandía",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552849523"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542572194",
+   "nom": "Après shampooing sans silicone infusion d'eau de riz et amidon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542572194"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541361348",
+   "nom": "Garnier Gevoelige huid micellair reinigingswater",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541361348"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541426078",
+   "nom": "Ambre Solaire Bébé à l'ombre Sensitive Expert +",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541426078"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541544024",
+   "nom": "Body Beauty Oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541544024"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540539236",
+   "nom": "Ultra doux huile d'avocat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540539236"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542129527",
+   "nom": "Masque lissant hair food macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542129527"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541791916",
+   "nom": "Granier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541791916"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542578899",
+   "nom": "Shampooing Fructis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542578899"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541603004",
+   "nom": "Ambre solaire Sensitive expert +",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541603004"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541594838",
+   "nom": "Gesichtswasser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541594838"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542023962",
+   "nom": "Adiós daños",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542023962"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-8901526005208",
+   "nom": "Garnier Skin Naturals Vitamin C Face Wash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901526005208"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541594982",
+   "nom": "Pure Active - Démaquillants - Solution micellaire Anti-imperfections",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541594982"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542231572",
+   "nom": "Hair food - 3 in 1 hair mask",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542231572"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541945043",
+   "nom": "Garnier SkinActive Hydra Bomb Tissue Masker met Kamille 28g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "28 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541945043"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541232525",
+   "nom": "lia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541232525"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542484695",
+   "nom": "Après-shampoing Nutrition Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542484695"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541182035",
+   "nom": "Ambre Solaire Hydra 24h",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541182035"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542159883",
+   "nom": "Balsamo delicato addolcente",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542159883"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542461085",
+   "nom": "Während Schätze",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542461085"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542543422",
+   "nom": "Garnier fructis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542543422"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542159661",
+   "nom": "Shampoo Ultra Dolce Rivitalizzante 5 piante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542159661"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-8024417151799",
+   "nom": "Gel detergente purificante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8024417151799"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542298407",
+   "nom": "Mousse Nature Bronze Ambre Sol 0,2 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542298407"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542543446",
+   "nom": "Cucumber Fresh shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542543446"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542159678",
+   "nom": "Ultra Dolce Latte di Cocco & Macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542159678"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542427548",
+   "nom": "Sheet mask vitamin c",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "28 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542427548"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542359610",
+   "nom": "Ambre solaire enfant 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542359610"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542383370",
+   "nom": "GEL HYDROALCOOLIQUE POUR L'ANTISEPSIE DES MAINS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542383370"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541982307",
+   "nom": "Fructis Anti-Pelliculaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541982307"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541599031",
+   "nom": "Ultra Doux Après-shampooing Crème Riche Huile d'avocat et Beurre de Karité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541599031"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541334175",
+   "nom": "Garnier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541334175"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540305381",
+   "nom": "After Sun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540305381"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541970533",
+   "nom": "Fructis Coco Water Clarifying Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541970533"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541338869",
+   "nom": "Gel Wet Shine Fructis 02",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541338869"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541594999",
+   "nom": "Garnier SkinActive Micellair Reinigingswater voor de Droge huid",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400ml - Droge huid",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541594999"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542417822",
+   "nom": "Ultra doux - drémêlant crème nutrition (crème d'amande et huile d'Argan)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542417822"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541334458",
+   "nom": "Garnier body tonic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541334458"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540966056",
+   "nom": "Ultra Doux Shampooing au Beurre de cacao et huile de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540966056"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541970977",
+   "nom": "Fructis Coco Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541970977"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541887541",
+   "nom": "Ultra Doux Shampooing doux apaisant délicatesse d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541887541"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542184687",
+   "nom": "Garnier bio lemongrass",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542184687"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542024235",
+   "nom": "Champu Fortificante - Pure Fresh - Pepino Purificante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "360 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542024235"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542461313",
+   "nom": "Sanfte Hafermilch, Reiscreme & Bio-Hafermilch, beruhigende Spülung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542461313"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541735958",
+   "nom": "Corps Lait hydratant Huiles merveilleuses Argan & Camélia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541735958"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542461481",
+   "nom": "Spülung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542461481"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552792287",
+   "nom": "Hair Food Manteca de Cacao",
+   "assemblage": "Ciudad de México",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552792287"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542433266",
+   "nom": "Brightening serum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "30 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542433266"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542462327",
+   "nom": "Pflegende Spülung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542462327"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542534260",
+   "nom": "Vitamin(e) C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "15 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542534260"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525664",
+   "nom": "Shampoing nutrition Ultra Doux Argan et camélia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525664"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542196703",
+   "nom": "Bio crema de día antiedad con aceite esencial de lavanda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542196703"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542050579",
+   "nom": "Rose soothing toner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542050579"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542121941",
+   "nom": "Fructis Aloe Hydra Bomb",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542121941"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542290135",
+   "nom": "FRUCTIS BALSAMO HAIR FOOD PAPAYA RIPARATRICE CAPELLI DANNEGGIATI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 350 ML",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542290135"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542074858",
+   "nom": "Ultra Doux Shampooing nourrissant Lait de Coco & Macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542074858"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540710611",
+   "nom": "Skin Active Pure Active",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540710611"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542527361",
+   "nom": "Delial Hydra 24 Protect",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542527361"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215666550029",
+   "nom": "Belle Color Blond Naturel 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215666550029"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541744530",
+   "nom": "acqua micellare bifase con olio di argan",
+   "assemblage": "Francia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541744530"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552874143",
+   "nom": "Fructis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552874143"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542109802",
+   "nom": "Agua micelar en aceite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542109802"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542133425",
+   "nom": "Micellar Cleansing Water 3-in-1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542133425"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542109772",
+   "nom": "Mizellenreiniger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542109772"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542418775",
+   "nom": "Shampooing démélant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542418775"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540559197",
+   "nom": "Ambre solaire Resisto Enfant FPS 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540559197"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541734722",
+   "nom": "Lait nourrissant Corps Olive mythique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541734722"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0360542461115",
+   "nom": "Wahre Schätze Avocadoöl Spülung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0360542461115"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552964165",
+   "nom": "Probióticos Fuerza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552964165"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542184762",
+   "nom": "Thymian Gesichtswasser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542184762"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3061375781052",
+   "nom": "4 بني",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3061375781052"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542075169",
+   "nom": "wahre schätze",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542075169"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542509428",
+   "nom": "Garnier Wahre Schätze 1-Minute Haarkur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "340 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542509428"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542541428",
+   "nom": "Skin Active sérum de noche Vitamina C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542541428"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542578585",
+   "nom": "50* Super UV Acide Hyaluronique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542578585"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541319271",
+   "nom": "Olia After Colour Care",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541319271"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542638784",
+   "nom": "LISCI CHERATINA Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542638784"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542509411",
+   "nom": "Garnier UltraDoux Trésors De Miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542509411"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541361249",
+   "nom": "Skin Active desmaquillante waterproof",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541361249"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542052788",
+   "nom": "Skin Active",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542052788"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542514132",
+   "nom": "SkinActive Contorno Occhi Illuminante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "15 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542514132"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525817",
+   "nom": "après-shampooing réparation intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525817"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542462839",
+   "nom": "Wahre Schätze Spülung, Kokosmilch & Macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542462839"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540362025",
+   "nom": "Ambre Solaire Aftersun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540362025"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542617741",
+   "nom": "Honey treasures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542617741"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541361287",
+   "nom": "Make-up entfernen 2 in 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541361287"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542373753",
+   "nom": "Original remedies, champú sólido coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542373753"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215666550241",
+   "nom": "Belle Coloration",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215666550241"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542462983",
+   "nom": "Ultimate Blends Reconstructing Conditioner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542462983"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540305473",
+   "nom": "Protection spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540305473"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542541633",
+   "nom": "Garnier C Vitamini Süper Aydınlatıcı Gece Serumu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "30 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542541633"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542461887",
+   "nom": "Garnier Loving Blends - Shampoo - Argan & Cameliaolie - 300 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542461887"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542462143",
+   "nom": "Creme-Shampoo Argan Mandelcreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542462143"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542571913",
+   "nom": "Shampoing ultra doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542571913"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542221061",
+   "nom": "Fructis aloe Vera hair food",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "390ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542221061"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215660300019",
+   "nom": "Ambre Solaire Enfant Sensitive Expert +",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215660300019"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542075404",
+   "nom": "douche soin lait de coco macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542075404"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552844207",
+   "nom": "Acondicionador Hair Food Coco",
+   "assemblage": "Ciudad de México",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552844207"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542118569",
+   "nom": "Ultra Dolce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542118569"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542525893",
+   "nom": "Après shampoing ultra doux lait de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542525893"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542652933",
+   "nom": "Après-shampooing nutrition profonde ultra doux huile d'avocat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "360 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542652933"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542470438",
+   "nom": "Garnier Cocoa Body Superfood 380mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "380 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542470438"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541361331",
+   "nom": "Garnier Skinactive 2-in-1 oogreinigingslotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541361331"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542503136",
+   "nom": "Botanic Therapy Shampoo & Detangler",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542503136"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542105965",
+   "nom": "Lait nourrissant adoucissant lait de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542105965"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541233270",
+   "nom": "Olia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541233270"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541426047",
+   "nom": "Brume Sèche - Crème solaire FPS 30",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541426047"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3215660280991",
+   "nom": "Huile bronzante intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Flacon",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3215660280991"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540710574",
+   "nom": "PureActive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540710574"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600540928870",
+   "nom": "Action Control",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600540928870"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542231565",
+   "nom": "Replenishing Hair Food",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542231565"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0603084459384",
+   "nom": "Garnier Whole Blends - Coconut & Cocoa Butter Smoothing Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN · 370mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0603084459384"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0603084491520",
+   "nom": "Triple Nutrition",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN · 12 FL OZ (354 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0603084491520"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542159654",
+   "nom": "Shampoo idratante Acqua di cocco Ultra dolce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542159654"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542575836",
+   "nom": "Shampoing fructose force & brillance 2en1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542575836"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542510301",
+   "nom": "Masqué remède hydratant 72H",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542510301"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542326452",
+   "nom": "Solution micellaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542326452"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542653749",
+   "nom": "Keratin sleek",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "370ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542653749"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542098076",
+   "nom": "Acqua Micellare Bifase",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542098076"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542659550",
+   "nom": "Fructis Kiwi Menthol Hairfood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542659550"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542534314",
+   "nom": "BB Crème Classique Claire",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542534314"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0660464547604",
+   "nom": "Garnier SkinActive anti uv",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "40 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0660464547604"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542613316",
+   "nom": "Fructis — Masque Nutrition Boucles Hair Food Beurre de Cacao + Vitamines C, E, F",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "320 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542613316"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542500449",
+   "nom": "Garnier Hyaluronic Aloe Hydrating Serum 30mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 30 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542500449"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542642583",
+   "nom": "Garnier Fructis Curls Method Spray 150mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542642583"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600541232624",
+   "nom": "olia coloration châtain pur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600541232624"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542573689",
+   "nom": "Garnier Ambre Solaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "40ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542573689"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542624961",
+   "nom": "Amber soldier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "175ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542624961"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542385312",
+   "nom": "Garnier Nem Bombası Canlandırıcı Kağıt Maske 28 gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "28 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542385312"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542159784",
+   "nom": "Shampoo nutrizione profonda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542159784"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542453752",
+   "nom": "Miceklar PureActive Jelly Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542453752"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542648578",
+   "nom": "Respons Smoothing Conditioner Rice Water Infusion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542648578"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542528160",
+   "nom": "Organic Fructis Pineapple Hair Food Glowing Lengths Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542528160"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542668132",
+   "nom": "Body Summer Lotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542668132"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542650182",
+   "nom": "Original remedies champu nutrition extrema",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542650182"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600542433273",
+   "nom": "Vitamina C* brightening anti-dark spot serum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "30ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600542433273"
+  }
+ ],
+ "hygiene-beaute-et-sante-henkel": [
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041315913",
+   "nom": "Cire Wax Effet Sculptant Force 6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041315913"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178048244254",
+   "nom": "Fraîcheur menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178048244254"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091642037",
+   "nom": "got2B pâte coiffante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091642037"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040348684",
+   "nom": "Cire wax brillance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040348684"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040429628",
+   "nom": "Gliss Shampooing - Color et Brillance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040429628"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5012583105091",
+   "nom": "got2b Glued - Blasting Freeze Spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 300 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012583105091"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100215618",
+   "nom": "Strand matte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100215618"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041351348",
+   "nom": "Taft cire gel gloss",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041351348"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100813517",
+   "nom": "Haarmaske",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100813517"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041361330",
+   "nom": "Taft",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041361330"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040683167",
+   "nom": "Gliss Hair Repair Ultimate Repair Shampooing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040683167"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040622128",
+   "nom": "Got2B Twisted Boucle-La",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040622128"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4045787802962",
+   "nom": "Beach Wave Spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4045787802962"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3838824421551",
+   "nom": "Gliss Oil Nutritive Sıvı Saç Bakım Kremi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3838824421551"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040683181",
+   "nom": "Gliss Hair Repair Ultimate Repair Après-shampooing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040683181"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040622326",
+   "nom": "got2b",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040622326"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4045787314922",
+   "nom": "Osis+ Haargel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4045787314922"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-7610300505391",
+   "nom": "Styling Gel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610300505391"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100813319",
+   "nom": "GLISS 7sec Express Repair - Ultimate Repair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100813319"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-8699568502617",
+   "nom": "Haarlack &quot;Form & Finish&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8699568502617"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-7501199413785",
+   "nom": "Pert Miel + Aceite de Aguacate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501199413785"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-0900101069990",
+   "nom": "Shocking Pink Live",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0900101069990"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-7310181582046",
+   "nom": "Gliss Balsam Total Repair 200ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7310181582046"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100743616",
+   "nom": "Diadem",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100743616"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100441574",
+   "nom": "Haar Farbe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100441574"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100334067",
+   "nom": "Haarfarbe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100334067"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100860788",
+   "nom": "Taft Haarspray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100860788"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-0004015073810",
+   "nom": "Hair glossine violet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0004015073810"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040678842",
+   "nom": "Perfect Mousse 600 Châtain clair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 92,5 ml (35 + 35 + 22,5 ml )",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040678842"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-7332531124416",
+   "nom": "Taft Aloe Boost",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7332531124416"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-9310714225271",
+   "nom": "Schwarzkopf Extra Care Ultimate Repair Strengthening Shampoo 950mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "950 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310714225271"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091694586",
+   "nom": "Schwarzkopf Blonde L101 Platinablond Haarverf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091694586"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041314282",
+   "nom": "Coloration permanente crème soin Intensive 5-5 655 châtain clair doré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "165 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041314282"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-6920177917489",
+   "nom": "水凝胶原修护润发乳",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920177917489"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-6920177917618",
+   "nom": "奢极黑金修护发膜",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920177917618"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015000516440",
+   "nom": "got2b chaot Fibre Gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015000516440"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041360135",
+   "nom": "Mousse boucles sublimes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041360135"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-9310714225158",
+   "nom": "Schwarzkopf Extra Care Soft Shampoo Marrakesh Oil For Dry Hair 400mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310714225158"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-9000101749670",
+   "nom": "Full Hair Wonder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9000101749670"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041366724",
+   "nom": "Laque Style et Repair avec de l'Huile d'Argan SCHWARZKOPF",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041366724"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041356053",
+   "nom": "Coloration Spray Eclaircissant Activé Par La Chaleur Huile D'Argan Effet Soleil Nordic Blonde SCHWARZKOPF NORDIC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041356053"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041366823",
+   "nom": "Spray Coiffant Protection 230° Style Et Repair SCHWARZKOPF",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041366823"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041366649",
+   "nom": "Laque Fixation Forte Protection Anti-humide SCHWARZKOPF",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041366649"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-7332531117029",
+   "nom": "Hairspray Taft Pure",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7332531117029"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100814736",
+   "nom": "Schwarzkopf Gliss Total Repair Hair Creme Sprey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "70 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100814736"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-9000101049299",
+   "nom": "Heat protection spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9000101049299"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100190465",
+   "nom": "Hairspray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100190465"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100860344",
+   "nom": "Keratin shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100860344"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-9000100590280",
+   "nom": "syoss volume lift",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9000100590280"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100814873",
+   "nom": "Spülung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100814873"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100860085",
+   "nom": "Volumen Schaumfestiger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100860085"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-8410436246569",
+   "nom": "Oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410436246569"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100324068",
+   "nom": "SCHWARZ Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100324068"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100324006",
+   "nom": "Hautfarbe Honigblond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100324006"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100324402",
+   "nom": "Haarfarbe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100324402"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100190199",
+   "nom": "Max Hold Hairspray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100190199"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041365772",
+   "nom": "Syoss laque volume 3 en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041365772"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091685065",
+   "nom": "hair spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091685065"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-84461032",
+   "nom": "Matt Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/84461032"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091775421",
+   "nom": "Syoss Keratin shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "440 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091775421"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091719197",
+   "nom": "Syoss Oleo Intense 4-23 Bordeaux Rood Haarkleuring",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091719197"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091728434",
+   "nom": "Syoss Oleo Intense 4-86 Fluweelbruin Haarkleuring",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091728434"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091775353",
+   "nom": "CLASSIC ANTI-GREASE DRY SHAMPOO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091775353"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040643208",
+   "nom": "PH5 Lait démaquillant hydratant",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040643208"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040695153",
+   "nom": "Crème de jour, Cible les rides Lift + Lissage immédiat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040695153"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040554931",
+   "nom": "Expert Rides 3D Activateur Hyaluronique Crème Anti-rides Nuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040554931"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041359511",
+   "nom": "Diadermine Expert Hyaluron Nachtcrème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041359511"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015000924054",
+   "nom": "Lift+ Sublimant Anti-Rides Ultra Fermeté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015000924054"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178044048535",
+   "nom": "Hydratant Matifiant Soin de jour PH7",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178044048535"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178044040652",
+   "nom": "Démaquillant douceur yeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178044040652"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040643154",
+   "nom": "Lotion tonique apaisante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040643154"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041321792",
+   "nom": "Dissolvant douceur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041321792"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041315067",
+   "nom": "Expert Nutrition 3D",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041315067"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041317573",
+   "nom": "eau micellaire express 3 en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ML",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041317573"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041321778",
+   "nom": "Soin global Crème jour - Expert Fondamental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml - Rijpe huid",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041321778"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040202719",
+   "nom": "Strips purifiants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 u",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040202719"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040686755",
+   "nom": "Dissolvant Express sans acétone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040686755"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178040433809",
+   "nom": "Lift+ Éclat Immédiat Soin Tenseur Éclat Anti-Âge Visage et Cou",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 7 capsules",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178040433809"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178044040690",
+   "nom": "Dissolvant Doux sans acétone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178044040690"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3838824416816",
+   "nom": "Lift sun active",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3838824416816"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3838824417233",
+   "nom": "Lift & glow light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3838824417233"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5410091728922",
+   "nom": "Diadermine Bi-Phase Express Oogreinigingslotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "125ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410091728922"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-4015100738285",
+   "nom": "Nachtcreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4015100738285"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-5201143734776",
+   "nom": "ΕΝΥΔΑΤΙΚΗ ΚΡΕΜΑ ΣΕ ΜΟΡΦΗ ΤΖΕΛ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5201143734776"
+  }
+ ]
+}

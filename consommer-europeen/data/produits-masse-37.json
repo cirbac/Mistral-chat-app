@@ -1,0 +1,3634 @@
+{
+ "alimentation-boissons-mars": [
+  {
+   "id": "alimentation-boissons-mars-5000159537926",
+   "nom": "Orange Malteasers Buttons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159537926"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357904978",
+   "nom": "Hot chocolate station",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357904978"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357907566",
+   "nom": "Maltesers milkshake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357907566"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357906033",
+   "nom": "Maltesers Vegan Hot Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357906033"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402905308",
+   "nom": "malteser crunchy munchy cupcake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402905308"
+  },
+  {
+   "id": "alimentation-boissons-mars-17724744",
+   "nom": "Dark maltesers k",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17724744"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159539609",
+   "nom": "Eatster egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159539609"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682064118",
+   "nom": "Maltesers gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682064118"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159434515",
+   "nom": "Maltesers fun times",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159434515"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159477369",
+   "nom": "Maltesers Chocolate Treat Size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159477369"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159568678",
+   "nom": "Maltesers Crunchy Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159568678"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357908815",
+   "nom": "Milk Drink (UHT)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357908815"
+  },
+  {
+   "id": "alimentation-boissons-mars-7004759572125",
+   "nom": "White Chocolate Malteser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7004759572125"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159528214",
+   "nom": "Truffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 455g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159528214"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357915165",
+   "nom": "Mini Reindeer Gingerbread Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 59g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357915165"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914953",
+   "nom": "Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914953"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159524377",
+   "nom": "Truffle Candies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159524377"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914021",
+   "nom": "Crispy Bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914021"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357916278",
+   "nom": "Maltesers Mini Eggs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357916278"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159603409",
+   "nom": "Hollow Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159603409"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357916186",
+   "nom": "Malters egg easter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357916186"
+  },
+  {
+   "id": "alimentation-boissons-mars-00204017",
+   "nom": "Maltesers 273g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 273 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00204017"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682100656",
+   "nom": "Maltese Duo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682100656"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682100649",
+   "nom": "Maltesers Duos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682100649"
+  },
+  {
+   "id": "alimentation-boissons-mars-9310273003990",
+   "nom": "Poppin Popcorn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310273003990"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159606707",
+   "nom": "Thank You Sooo Much",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159606707"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159501125",
+   "nom": "Celebrations boîte métal 435g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 435 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159501125"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159500692",
+   "nom": "Celebrations Fles 312GR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 312 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159500692"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159542777",
+   "nom": "Mars Celebrations Carton 185g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159542777"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159501514",
+   "nom": "Celebrations Tub Single",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 680 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159501514"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159553957",
+   "nom": "Easter Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159553957"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159501163",
+   "nom": "Assortiment de chocolats au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 365 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159501163"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159500418",
+   "nom": "Celebrations Mini bouteille 108g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 108 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159500418"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159539302",
+   "nom": "Celebrations eggs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159539302"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159457897",
+   "nom": "Chocolate Gift Carton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159457897"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159524322",
+   "nom": "Chocolate Sharing Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159524322"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159520249",
+   "nom": "Celebration special Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159520249"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159415316",
+   "nom": "Celebrations Chocolate Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159415316"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159468411",
+   "nom": "Celebrations Tall Jar Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159468411"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159479431",
+   "nom": "Bonbons chocolat Célébrations",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159479431"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159508728",
+   "nom": "Celebrations Special Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 226g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159508728"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159391849",
+   "nom": "Celebrations Assortiment de chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159391849"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159364560",
+   "nom": "Célébrations - Assortiments de chocolats au lait fourrés et de biscuits enrobés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159364560"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159503266",
+   "nom": "Celebrations Chocolate Pouch 450G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159503266"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496436032",
+   "nom": "Bonbons mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496436032"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159535465",
+   "nom": "Celebrations Easter Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159535465"
+  },
+  {
+   "id": "alimentation-boissons-mars-3491953795681",
+   "nom": "Ballotin new mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3491953795681"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159453974",
+   "nom": "Bte Sapin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159453974"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159498395",
+   "nom": "Bouteille éditon limitée Célébrations",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159498395"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159489546",
+   "nom": "Mars Celebrations Huevo De Pascua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159489546"
+  },
+  {
+   "id": "alimentation-boissons-mars-21220024",
+   "nom": "Chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/21220024"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357911440",
+   "nom": "25 ge SNICKERS HOT CHOCOLATE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357911440"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000551294",
+   "nom": "Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 9.52 oz/269.9 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000551294"
+  },
+  {
+   "id": "alimentation-boissons-mars-8720604481860",
+   "nom": "Erdnüsse gesalzen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720604481860"
+  },
+  {
+   "id": "alimentation-boissons-mars-8718907965873",
+   "nom": "Celebrations Assortiments mix 2-pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 stuks",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718907965873"
+  },
+  {
+   "id": "alimentation-boissons-mars-0064042577272",
+   "nom": "Real Milk Chocolate Butter Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064042577272"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159609074",
+   "nom": "CELEBRATIONS Centerpiece",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159609074"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159608596",
+   "nom": "Chocolade Geschenkfles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 269 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159608596"
+  }
+ ],
+ "alimentation-boissons-coca-cola": [
+  {
+   "id": "alimentation-boissons-coca-cola-5449000052926",
+   "nom": "Fanta orange 1.5l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000052926"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-40822938",
+   "nom": "PET 50CL FANTA ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40822938"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000335906",
+   "nom": "Fanta Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000335906"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000083142",
+   "nom": "Fanta tropical exotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000083142"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000214805",
+   "nom": "BTE 33CL SLIM FANTA ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000214805"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000214829",
+   "nom": "Fanta citron 33cl",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000214829"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90377204",
+   "nom": "Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90377204"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000126641",
+   "nom": "TOPS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000126641"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000000712",
+   "nom": "Fanta orange slim 25cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000712"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000247872",
+   "nom": "Fanta mangue / fruit du dragon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000247872"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000005991",
+   "nom": "Fanta lemon slim 25cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000005991"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000206",
+   "nom": "Fanta portocale 2l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000206"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000235367",
+   "nom": "Fanta zero orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000235367"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000308054",
+   "nom": "PET 1.25L FANTA ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,25L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000308054"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000308085",
+   "nom": "Fanta citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000308085"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112638783",
+   "nom": "Fanta orange 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112638783"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5740700996153",
+   "nom": "Fanta - Exotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5740700996153"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000337115",
+   "nom": "Fanta Réduit En Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 8 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000337115"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000308108",
+   "nom": "Fanta saveur exotique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 5 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000308108"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000138026",
+   "nom": "Fanta Orange sans sucres",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000138026"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5740700987984",
+   "nom": "Fanta - Straberry & Kiwi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5740700987984"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000152",
+   "nom": "Fanta doza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000152"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000176",
+   "nom": "Fanta madness 2.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000176"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000042101",
+   "nom": "Fanta fruit twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 33cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000042101"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000213",
+   "nom": "Fanta Madness 2 l",
+   "assemblage": "Coca Cola Timișoara",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000213"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000006011",
+   "nom": "Lemon",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000006011"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54491397",
+   "nom": "Fanta zero sugar orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54491397"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112604726",
+   "nom": "Fanta Orange 0,33 Dose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112604726"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54011823",
+   "nom": "fanta lemon 33cl pet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54011823"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-59492580",
+   "nom": "Fanta portocale 0.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59492580"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000268",
+   "nom": "Fanta Zero Zahăr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 8 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000268"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000120984",
+   "nom": "Fanta Orange Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000120984"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6130003014828",
+   "nom": "Fanta lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130003014828"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90331701",
+   "nom": "Shokata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90331701"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112638905",
+   "nom": "Fanta Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112638905"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000014266",
+   "nom": "Fanta Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000014266"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000028938",
+   "nom": "Fanta 1.25",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.25 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000028938"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000067729",
+   "nom": "Fanta Berry",
+   "assemblage": "Atlanta",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 fl oz (355 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000067729"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112547498",
+   "nom": "ALDI Coca-Cola Fanta orange 1.49€ plus 0.25€ Pfand 1l 0.75€",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112547498"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000285706",
+   "nom": "Fanta Zero Frambuesa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000285706"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659559",
+   "nom": "Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 12 x 0,33 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659559"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-59492627",
+   "nom": "fanta mednes 0.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59492627"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000015594",
+   "nom": "Fanta Exotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000015594"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112514100",
+   "nom": "Fanta Lemon elderflower",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112514100"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000334657",
+   "nom": "tutti frutti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000334657"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000037947",
+   "nom": "Fanta pomme 1ل",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000037947"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-40822419",
+   "nom": "Carbonated Orange Flavour Soft Drink Fanta,",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40822419"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000022646",
+   "nom": "фанта грозде",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000022646"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000209221",
+   "nom": "Fanta Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000209221"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000003201",
+   "nom": "Fanta piña edición limitada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000003201"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112515848",
+   "nom": "Fanta Mango Drachenfrucht",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112515848"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102144995",
+   "nom": "Fanta peach flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102144995"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000153654",
+   "nom": "Fanta sans sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 6 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000153654"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000010940",
+   "nom": "Fanta Limón",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1.5 л",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000010940"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000099655",
+   "nom": "Gusto limone e fiori di sambuco bottiglia dIGPlastica da",
+   "assemblage": "Serbia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000099655"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112620191",
+   "nom": "Fanta Zero Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112620191"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000008763",
+   "nom": "Fanta Laranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000008763"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000027153",
+   "nom": "Fanta Sandía",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000027153"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90377235",
+   "nom": "Fanta orange congo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 300",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90377235"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000014273",
+   "nom": "Fanta Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000014273"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112654455",
+   "nom": "Fanta 500 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112654455"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000014235",
+   "nom": "Orange Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 FL OZ",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000014235"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112669169",
+   "nom": "Fanta Orange Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112669169"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000237",
+   "nom": "Fanta Grepfrut Roz zero zahar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000237"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000121011",
+   "nom": "Fanta Llimona Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000121011"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54492578",
+   "nom": "Fanta Orange Mini Can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 15 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54492578"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000293961",
+   "nom": "fanta Cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000293961"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659320",
+   "nom": "exotic taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659320"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8888002084004",
+   "nom": "Fanta grape flavour perisa anggur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8888002084004"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-40822921",
+   "nom": "King size FANTA ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40822921"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112664980",
+   "nom": "Fanta 1lt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112664980"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6133166000219",
+   "nom": "فانتا 1ل",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6133166000219"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321000183",
+   "nom": "Fanta madness",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321000183"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000314789",
+   "nom": "Fanta shokata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000314789"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112665154",
+   "nom": "2.5 LİTRE FANTA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112665154"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5942321004037",
+   "nom": "Para nazdravana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942321004037"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112576894",
+   "nom": "Fanta zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112576894"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000298485",
+   "nom": "Fanta - aranciata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000298485"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90377884",
+   "nom": "Fanta Orange Flavoured Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90377884"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000019162",
+   "nom": "Orange Soda 20 Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 20oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000019162"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000240668",
+   "nom": "Fanta zero zuccheri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000240668"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112626360",
+   "nom": "Pink Grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112626360"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112670523",
+   "nom": "fanta portakal 2.5 lt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112670523"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8801069421124",
+   "nom": "mentos tropical mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801069421124"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000665928",
+   "nom": "Fanta Lemon / Ohne Zucker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000665928"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54493957",
+   "nom": "Fanta Fruit Twist 500 Ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54493957"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000260697",
+   "nom": "Fanta Mango ohne Zucker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000260697"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000033939",
+   "nom": "Fanta Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000033939"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000014242",
+   "nom": "Fanta grape",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000014242"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000241375",
+   "nom": "Fanta original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000241375"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000275424",
+   "nom": "Fanta Pomarańczowa 0.85",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 850 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000275424"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112646184",
+   "nom": "Orange no sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1.5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112646184"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659283",
+   "nom": "Cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659283"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000244949",
+   "nom": "Fanta Citron Fleur De Sureau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000244949"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000089359",
+   "nom": "Pineapple And Grapefruit Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000089359"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7501055304790",
+   "nom": "Fanta naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501055304790"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000324313",
+   "nom": "Fanta frambuesa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000324313"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112673296",
+   "nom": "Zero Zucker Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112673296"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102151948",
+   "nom": "Fanta White Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102151948"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112684544",
+   "nom": "Fanta orange2l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2ltr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112684544"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000016669",
+   "nom": "Fanta 2,5 lt portakal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000016669"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-87126815",
+   "nom": "Fanta Fanta Grape Big Buddy 1Ea 500 ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87126815"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000059390",
+   "nom": "Refresco naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000059390"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000085474",
+   "nom": "Fanta Passion 1, 5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000085474"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000092144",
+   "nom": "Fanta pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000092144"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000296245",
+   "nom": "Fanta sabor Guaraná sin azúcares",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000296245"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112510379",
+   "nom": "Fanta Lemon (light)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 0.33l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112510379"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6130003015160",
+   "nom": "/!\\ Interdit en Europe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130003015160"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000296238",
+   "nom": "Fanta guarana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000296238"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659269",
+   "nom": "Lemon (Zero Sugar)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 4 x 0,25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659269"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6130003003037",
+   "nom": "فانتا برتقال",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130003003037"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112662665",
+   "nom": "FANTA lemon Jow calorie 5% lemon Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112662665"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000252968",
+   "nom": "Orange Zero Sugar Added",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000252968"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112667608",
+   "nom": "Fanta Orange Low Calories",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112667608"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000061164",
+   "nom": "Fanta strawberry 330 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000061164"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000028201",
+   "nom": "Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 20 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000028201"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7790895000836",
+   "nom": "Naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 mil",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7790895000836"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112638028",
+   "nom": "FANTA Strawberry & Kiwi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112638028"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-50112753",
+   "nom": "Fanta Cassis Pet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50112753"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-42116479",
+   "nom": "fanta Blackcurrent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42116479"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6928804015454",
+   "nom": "Fanta pastèque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6928804015454"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000090096",
+   "nom": "Fanta Passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000090096"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8847100567376",
+   "nom": "Orange Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8847100567376"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659573",
+   "nom": "Lemon Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659573"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112673869",
+   "nom": "Pineapple And Grapefruit Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112673869"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000335319",
+   "nom": "Tutti Frutti: Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000335319"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000665799",
+   "nom": "Fanta fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000665799"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112664799",
+   "nom": "Fanta Portakal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112664799"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000257000",
+   "nom": "FANTA - ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000257000"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000325822",
+   "nom": "Fanta grape 1.25L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000325822"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000069429",
+   "nom": "Fanta Grapes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000069429"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112626070",
+   "nom": "Fanta Lemon ohne Zucker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112626070"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000283825",
+   "nom": "BTE 6X33CL FANTĀ ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 6x33xl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000283825"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000001320",
+   "nom": "Fanta Citron frappé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000001320"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000097422",
+   "nom": "Fanta Mango 1.5L Pet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000097422"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000220981",
+   "nom": "Fanta exotique 33cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000220981"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000246349",
+   "nom": "Fanta citron zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ML",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000246349"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000294340",
+   "nom": "mangue et fruit du dragon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000294340"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3292090000085",
+   "nom": "Arome orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090000085"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54493186",
+   "nom": "Fanta Strawbery -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54493186"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6928804011456",
+   "nom": "Fanta Green Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6928804011456"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000289933",
+   "nom": "Fanta zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000289933"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5740700995330",
+   "nom": "fanta light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5740700995330"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-03221110",
+   "nom": "Dubaï chocolatr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03221110"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000011061",
+   "nom": "Fanta (Pineapple)",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000011061"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7750182220378",
+   "nom": "Fanta de naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750182220378"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000256751",
+   "nom": "Aranciata rossa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000256751"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112537680",
+   "nom": "Fanta piña",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112537680"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-50112203",
+   "nom": "Fanta ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50112203"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000187970",
+   "nom": "Fanta Naranja 9 latas 330 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000187970"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6132007700721",
+   "nom": "Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6132007700721"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4780069000185",
+   "nom": "Fanta 1.0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.0",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4780069000185"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000031683",
+   "nom": "Orange fruit flavored soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 16.9OZ",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000031683"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112673739",
+   "nom": "Apple lychee zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112673739"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6928804019414",
+   "nom": "Jasmine Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6928804019414"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6957342998486",
+   "nom": "Funti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6957342998486"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000102393",
+   "nom": "Fanta Zero Zuccheri Aggiunti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1,25 l = 5 bicchieri di 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000102393"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000003768",
+   "nom": "FANTA Pineapple Tlavoured drink 2 litre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000003768"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7771609001165",
+   "nom": "Fanta sabor Guaraná",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7771609001165"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000211972",
+   "nom": "Fanta zero sugar mango taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000211972"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7750182002363",
+   "nom": "Gaseosa Fanta Kola Inglesa x 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750182002363"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112650419",
+   "nom": "Zero Sugar - Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112650419"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5060466519237",
+   "nom": "BURN ENERGY DRINK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060466519237"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-42358367",
+   "nom": "FANT fruitwist 40",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42358367"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000050271",
+   "nom": "Strawberry Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000050271"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112646276",
+   "nom": "Pomelo zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112646276"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000545500",
+   "nom": "Pineapple Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000545500"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102035378",
+   "nom": "Fanta grappe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102035378"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6130003015146",
+   "nom": "Fanta DZ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130003015146"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-59492696",
+   "nom": "Fanta portocale nrb",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59492696"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90494680",
+   "nom": "Exotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 0.330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90494680"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6415600549493",
+   "nom": "Fanta appelsiini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6415600549493"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112676006",
+   "nom": "Beetlejuice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112676006"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102153621",
+   "nom": "Fanta Muscat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102153621"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5993330000343",
+   "nom": "Fanta narancs 1.75 l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.75l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5993330000343"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112673630",
+   "nom": "Apple Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112673630"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112680812",
+   "nom": "UNSTRITED EDITION LIMITE FANT zero sugar TUTTI FRU",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112680812"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112682052",
+   "nom": "Fanta tutti-frutti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112682052"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-59969273",
+   "nom": "Fanta Narancs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59969273"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000337610",
+   "nom": "Fanta 500mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000337610"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-59406556",
+   "nom": "Fanta Lamaie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59406556"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000337665",
+   "nom": "Bevanda analcolica con succo d'arancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000337665"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54492493",
+   "nom": "Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54492493"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000010070",
+   "nom": "Grape",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000010070"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000242525",
+   "nom": "Fanta Pink Grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000242525"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000000460",
+   "nom": "#whatthefanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000460"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112639360",
+   "nom": "Fanta Manderine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,25L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112639360"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000263810",
+   "nom": "EDEKA Hayunga Getränke Coca-Cola Fanta mandarine ohne zuckerzusatz Mehrweg Pet 1L X1 1 l (1,29 € / 1 l) zzgl. Pfand 0,15 €",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000263810"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-87345087",
+   "nom": "Mentos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87345087"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000313324",
+   "nom": "Fanta Grenade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000313324"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000003751",
+   "nom": "REFRESCO PIñA FANTA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000003751"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000307033",
+   "nom": "Fanta agrumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.25L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000307033"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3292090000078",
+   "nom": "Saveur orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 8 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090000078"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000056689",
+   "nom": "Orange - Boisson rafraîchissante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6 * 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000056689"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112521634",
+   "nom": "Fanta Orange ohne Zucker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 0,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112521634"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900031515",
+   "nom": "Refrigerante Laranja Fanta Garrafa 2l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900031515"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-27563571",
+   "nom": "Fruity & tangy pineapple juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/27563571"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-87366228",
+   "nom": "Mentos Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 37,5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87366228"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000027177",
+   "nom": "Fanta maracuyá edición limitada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000027177"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000090485",
+   "nom": "Fanta zero pineapple & grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 8 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000090485"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000289452",
+   "nom": "Fanta limonata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000289452"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000059413",
+   "nom": "REFRESCO LIMON GO FANTA PACK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2Ltr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000059413"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112597370",
+   "nom": "Fanta Sitron",
+   "assemblage": "Norway",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112597370"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112646252",
+   "nom": "a exotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112646252"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112650402",
+   "nom": "Fanta Lemon Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112650402"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112636901",
+   "nom": "Fanta Exotic 0,5l flaske",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112636901"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000000859",
+   "nom": "Fanta citrus 330 ml can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000859"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900030013",
+   "nom": "Refrigerante Laranja Fanta Lata 350ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900030013"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000000958",
+   "nom": "Orange Postmix Bag-in-box, Doos 5 Liter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000000958"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000010049",
+   "nom": "Orange flavoured drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2 liter",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000010049"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000214539",
+   "nom": "Fruit Twist Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000214539"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6928804011562",
+   "nom": "Lime Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6928804011562"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54492707",
+   "nom": "Fanta Grandine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54492707"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000192066",
+   "nom": "Fanta Zero Naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2x2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000192066"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112640489",
+   "nom": "Fanta Zero Raspberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112640489"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000062823",
+   "nom": "Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000062823"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6415600507790",
+   "nom": "Apelsin Sockerfri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6415600507790"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8414100388319",
+   "nom": "Joi laranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8414100388319"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6415600560801",
+   "nom": "Fanta Sitruuna Sokeriton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6415600560801"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659634",
+   "nom": "Fanta Zero Sugar Exotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659634"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000211989",
+   "nom": "фанта",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000211989"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000303547",
+   "nom": "Fanta con limone e sambuco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000303547"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112637823",
+   "nom": "Orange (Low Calorie 8% Orange Juice)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112637823"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7750182008587",
+   "nom": "Fanta Manzana Verde x 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750182008587"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000003775",
+   "nom": "Fanta Citron Frappé,",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000003775"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000069016",
+   "nom": "Fanta, saveur fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000069016"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9555589205519",
+   "nom": "Fanta lychee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9555589205519"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4260231223180",
+   "nom": "Fanta de ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260231223180"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102142106",
+   "nom": "Fanta  Melon Soda imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102142106"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9300675092029",
+   "nom": "Raspberry fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300675092029"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000010995",
+   "nom": "Fanta μπλέ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5 λίτρο",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000010995"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-78936478",
+   "nom": "Refrigerante Laranja Fanta Garrafa 200ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/78936478"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6133166000202",
+   "nom": "فانتا اناناس 2ل",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6133166000202"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112520095",
+   "nom": "Raspberry taste zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112520095"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112636444",
+   "nom": "orange Juice FANTA orange low calorie FIVE ONLY TO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112636444"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3278720002872",
+   "nom": "Limonde a l’ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3278720002872"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000042132",
+   "nom": "Fanta eqzotik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000042132"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9300675009843",
+   "nom": "Orange Soft Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 600 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300675009843"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000027085",
+   "nom": "RETURNABLE FANTA ORANGE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000027085"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7750182003704",
+   "nom": "Gaseosa Fanta Naranja x 300ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750182003704"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000557473",
+   "nom": "Fanta Haunted Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000557473"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54020276",
+   "nom": "(klein blikje)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54020276"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6130003014880",
+   "nom": "6130003014880",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130003014880"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000323774",
+   "nom": "фанта 0,5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000323774"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112673944",
+   "nom": "Pineapple & Grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112673944"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8855199132184",
+   "nom": "Fanta Ananas orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8855199132184"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54490321",
+   "nom": "Fanta grenadine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54490321"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000664723",
+   "nom": "Sparkling grape flavoured drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000664723"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8992761111540",
+   "nom": "FANTA STRAWBERRY ORG 250ML",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8992761111540"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-42357766",
+   "nom": "Fanta 30cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42357766"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9300675087018",
+   "nom": "No sugar fanta orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300675087018"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8847100564061",
+   "nom": "Fruit Punch Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8847100564061"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000295040",
+   "nom": "Fanta citrus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000295040"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8907525020112",
+   "nom": "ফ্যান্টা অরেঞ্জ ফ্লেভার্ড",
+   "assemblage": "Bangladesh",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8907525020112"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8851959149164",
+   "nom": "แฟนต้าส้ม",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8851959149164"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000012401",
+   "nom": "Fanta citroen 6x1.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 24 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000012401"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000297143",
+   "nom": "soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000297143"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7771609001653",
+   "nom": "Fanta sabor Papaya",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 3 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7771609001653"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7801610591116",
+   "nom": "Fanta 591 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801610591116"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6415600577601",
+   "nom": "Fanta Zero sugar lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6415600577601"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112637847",
+   "nom": "FANTA orange 5% calorie orange juice Delicious Tas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 7 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112637847"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7790895000331",
+   "nom": "Fanta Retonable 2L Sabor Naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7790895000331"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000330949",
+   "nom": "Afterlife",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000330949"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112642711",
+   "nom": "Zero Sugar Raspberry Taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112642711"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112669428",
+   "nom": "Fanta Zero Cukru Pomeranč",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112669428"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4260301525404",
+   "nom": "Fanta Zero Guaraná",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260301525404"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112677324",
+   "nom": "Raspberry Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112677324"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112670288",
+   "nom": "Fanta Portakal 2,5 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 2.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112670288"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000013737",
+   "nom": "Fanta fraise boisson gazeuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000013737"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000322241",
+   "nom": "Orange | Low Calorie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000322241"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102155748",
+   "nom": "fanta qponska zelena",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102155748"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4260301528375",
+   "nom": "huong xa xi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260301528375"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112682908",
+   "nom": "Fanta zero sugar xotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112682908"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7801610003046",
+   "nom": "Fanta original x 1.5 L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801610003046"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0687385000087",
+   "nom": "Fruit Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0687385000087"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659351",
+   "nom": "Fanta Cassis 4 x 250 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659351"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-57123073",
+   "nom": "Fanta Exotic Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/57123073"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112647822",
+   "nom": "Fanta New Taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112647822"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000135667",
+   "nom": "fanta fruity",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000135667"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112688139",
+   "nom": "Pineapple Grapefruit Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112688139"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000341846",
+   "nom": "Fanta Forest Berries Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000341846"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000013621",
+   "nom": "Pineapple Ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000013621"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7801610671016",
+   "nom": "Fanta zero azúcar sabor naranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801610671016"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112659382",
+   "nom": "Fanta Lemon zero sugar 4 x 250 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112659382"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112669060",
+   "nom": "Fanta orange low calorie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112669060"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112679632",
+   "nom": "Fanta zero sugar 0.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112679632"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000052179",
+   "nom": "Boisson rafraîchissante au jus d'orange avec sucre et édulcorants",
+   "assemblage": "Fabriqué en France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000052179"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000102423",
+   "nom": "What The Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,25L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000102423"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000112965",
+   "nom": "Fanta struguri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 2,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000112965"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000295682",
+   "nom": "Fanta #whatthefanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000295682"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000286901",
+   "nom": "Fanta What The Fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 6 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000286901"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000245199",
+   "nom": "Fanta saveur mangue et fruit du dragon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000245199"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000013279",
+   "nom": "Fanta mystère",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000013279"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000294821",
+   "nom": "Fanta sans sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000294821"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000032423",
+   "nom": "What fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000032423"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000123442",
+   "nom": "Raison",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.25",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000123442"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000318572",
+   "nom": "Fanta pomme 1'3L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000318572"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000146274",
+   "nom": "Fanta saveur Fraise & Kiwi",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,5 litres",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000146274"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3292090141573",
+   "nom": "Fanta arôme orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090141573"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3292090001501",
+   "nom": "Fanta Exotique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 8 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090001501"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000003102",
+   "nom": "Fanta 330 kutu",
+   "assemblage": "Türkiye",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000003102"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-42116011",
+   "nom": "Fanta cocktail de fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42116011"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000297877",
+   "nom": "Elderflower & Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000297877"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000034113",
+   "nom": "Fanta Orange 2.25",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2.25",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000034113"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000295699",
+   "nom": "#what the fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000295699"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112646887",
+   "nom": "Fanta whatthetanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112646887"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112503265",
+   "nom": "?",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112503265"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000286864",
+   "nom": "What The Fanta ?",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000286864"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000004123",
+   "nom": "Fanta #what the fanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 0,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000004123"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000054074",
+   "nom": "Frisimo Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000054074"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000295941",
+   "nom": "Fanta #whatthefanta adivina el sabor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000295941"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000295965",
+   "nom": "Fanta sabor misterioso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000295965"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112587340",
+   "nom": "Kiwi und Strawberry Limo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112587340"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000091178",
+   "nom": "Fanta Saveur Pomme & Cerise",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000091178"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000229083",
+   "nom": "Fanta saveur Mangue Fruit du Dragon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000229083"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90494222",
+   "nom": "Fanta mandarine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90494222"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112646894",
+   "nom": "Whatthefanta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112646894"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8851959132173",
+   "nom": "แฟนต้ากลิ่นสตรอเบอร์รี",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 325ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8851959132173"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8851959132180",
+   "nom": "น้ำเขียว",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 325 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8851959132180"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000256652",
+   "nom": "Fanta lemon no sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000256652"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5000112592153",
+   "nom": "Fanta Lemon & Elderflower",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000112592153"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3292090001303",
+   "nom": "Fanta Kampane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 2L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3292090001303"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000006721",
+   "nom": "Fanta, Cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000006721"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000114518",
+   "nom": "Fanta cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000114518"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000263780",
+   "nom": "Fanta à la Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000263780"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000278784",
+   "nom": "Fanta mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000278784"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000011725",
+   "nom": "Original lattina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000011725"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000307835",
+   "nom": "What the fanta 3 rose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000307835"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54017245",
+   "nom": "Mango & Dragonfruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54017245"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000310002",
+   "nom": "Fanta açaï zéro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000310002"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000309273",
+   "nom": "Fanta de Sandía",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000309273"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000107077",
+   "nom": "Fanta Pine Grfr 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000107077"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3348630003037",
+   "nom": "Fanta orange saveur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3348630003037"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000240972",
+   "nom": "Fanta Saveur Agrumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000240972"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000250759",
+   "nom": "fanta mangogo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000250759"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000265173",
+   "nom": "Fanta Uva",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000265173"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000242747",
+   "nom": "Zero Pink Grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000242747"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90357046",
+   "nom": "Fanta Orange Sirup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,33l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90357046"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000214522",
+   "nom": "0 sugar fruit twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000214522"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102139731",
+   "nom": "Japan melon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102139731"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000173850",
+   "nom": "Fanata exotic zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1,75 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000173850"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3348630003013",
+   "nom": "Fanta saveur orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3348630003013"
+  }
+ ]
+}
