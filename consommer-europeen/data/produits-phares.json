@@ -160,6 +160,15 @@
    "certifications": [],
    "note": "Produit phare de la marque.",
    "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620422003/nutella"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-kinder-bueno",
+   "nom": "Kinder Bueno",
+   "assemblage": "France / Italie / Allemagne (usines Ferrero Europe)",
+   "origine_pieces": "Noisettes et cacao selon origines indiquées sur l'emballage (fiche OFF)",
+   "certifications": [],
+   "note": "Barre chocolatée iconique de la gamme Kinder. Fiche OFF (ingrédients, Nutri-Score, Green-Score).",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500015803/barre-chocolatee-kinder-bueno-chocolat-au-lait-ferrero"
   }
  ],
  "alimentation-boissons-danone": [
@@ -171,6 +180,15 @@
    "certifications": [],
    "note": "Produit phare de la marque.",
    "openfoodfacts": "https://fr.openfoodfacts.org/produit/3033490744151/yaourt-nature-danone"
+  },
+  {
+   "id": "alimentation-boissons-danone-eau-evian-1-l",
+   "nom": "Eau Evian 1 L",
+   "assemblage": "France (Évian-les-Bains, Haute-Savoie)",
+   "origine_pieces": "Source : Évian (massif des Aravis, France)",
+   "certifications": [],
+   "note": "Eau minérale naturelle embouteillée sur la source d'Évian. Fiche OFF avec Nutri-Score/emballage.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3068320113111/evian-natural-mineral-water-danone"
   }
  ],
  "alimentation-boissons-lactalis": [
@@ -204,6 +222,17 @@
    "certifications": [],
    "note": "Produit phare de la marque.",
    "openfoodfacts": "https://fr.openfoodfacts.org/produit/8076809580847/penne-rigate-al-bronzo-pates-alimentaires-de-qualite-superieure-400g-barilla"
+  },
+  {
+   "id": "alimentation-et-boissons-barilla-spaghetti-n5",
+   "nom": "Spaghetti n°5 500 g",
+   "assemblage": "Italie (usines Barilla)",
+   "origine_pieces": "Blé dur européen (Italie, Grèce...)",
+   "certifications": [
+    "Halal (selon références)"
+   ],
+   "note": "Référence iconique ; semoule de blé dur. Fiche OFF (ingrédients, Nutri-Score, lieux de fabrication).",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8076800195057/spaghetti-n-5-barilla"
   }
  ],
  "alimentation-boissons-coca-cola": [

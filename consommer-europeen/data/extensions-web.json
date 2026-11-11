@@ -197,6 +197,126 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "televiseurs-loewe",
+    "groupe": "Loewe",
+    "marques": [
+     "Loewe"
+    ],
+    "siege": "Allemagne (Kronach, Bavière)",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Marque allemande haut de gamme fondée en 1923 ; production 100 % « Made in Germany » à Kronach. Détention : 100 % rachetée en déc. 2019 par Skytec Group Ltd (actionnariat lié à Skyworth, Chine) ; participation minoritaire de Kylian Mbappé (2023).",
+    "sources": [
+     211
+    ],
+    "lieux_production": [
+     "Allemagne (Kronach) — usine historique, TV OLED « Made in Germany »"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "televiseurs-loewe-bild-oled",
+      "nom": "TV OLED Loewe Bild",
+      "assemblage": "Allemagne (Kronach)",
+      "origine_pieces": "Panneau OLED et assemblage en Allemagne",
+      "certifications": [],
+      "note": "Gamme haut de gamme produite sur le site historique de Kronach."
+     }
+    ]
+   },
+   {
+    "id": "televiseurs-grundig",
+    "groupe": "Grundig",
+    "marques": [
+     "Grundig"
+    ],
+    "siege": "Allemagne (Nuremberg)",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Marque allemande fondée en 1945, passée sous contrôle du groupe turc Arçelik (Koç Holding) en 2008 ; siège historique maintenu à Nuremberg. TV aussi produites sous licence par Vestel (Turquie).",
+    "sources": [
+     212
+    ],
+    "lieux_production": [
+     "Allemagne (siège Nuremberg)",
+     "Turquie (production sous licence Vestel)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-tcl",
+    "groupe": "TCL",
+    "marques": [
+     "TCL",
+     "RCA",
+     "Alcatel (mobiles)",
+     "Thomson (jusqu'en 2023)"
+    ],
+    "siege": "Chine (Huizhou, Guangdong)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Groupe chinois partiellement public (coté Shenzhen), n°2 mondial des TV. A racheté la branche TV de Thomson en 2003 (marques RCA, Brandt). Usines en Chine, Pologne (Żyrardów), etc.",
+    "sources": [
+     213
+    ],
+    "lieux_production": [
+     "Chine",
+     "Pologne (Żyrardów)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-hisense",
+    "groupe": "Hisense",
+    "marques": [
+     "Hisense",
+     "Toshiba (TV, licence depuis 2017)",
+     "Gorenje",
+     "Asko"
+    ],
+    "siege": "Chine (Qingdao)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Conglomérat chinois fondé en 1969 à Qingdao ; leader mondial des TV, détenteur de la licence TV Toshiba depuis 2017 et propriétaire de Gorenje (Slovénie). Usine TV pour l'Europe à Velenje (Slovénie) depuis 2021.",
+    "sources": [
+     214
+    ],
+    "lieux_production": [
+     "Chine",
+     "Slovénie (Velenje, via Gorenje)",
+     "Afrique du Sud"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-thomson-streamview",
+    "groupe": "Thomson (marque)",
+    "marques": [
+     "Thomson"
+    ],
+    "siege": "France (Suresnes) — licence",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Marque historique française (ex-Technicolor/Vantiva), exploitée sous licence : licence 10 ans signée en 2023 avec StreamView (Autriche) ; TV assemblées en Hongrie et Pologne. La marque appartient à Established (fonds américain Ares Management depuis 2022).",
+    "sources": [
+     215
+    ],
+    "lieux_production": [
+     "Hongrie",
+     "Pologne (Żyrardów)"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -592,6 +712,59 @@
     ],
     "lieux_production": [
      "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-sante-sanofi",
+    "groupe": "Sanofi",
+    "marques": [
+     "Sanofi",
+     "Doliprane",
+     "Dupixent"
+    ],
+    "siege": "France (Paris 17e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "1er groupe pharmaceutique européen, coté à Paris (CAC 40) ; actionnariat majoritairement flottant avec L'Oréal ~9 %. Forte implantation industrielle en France (Lyon, Gentilly, Sisteron, Tours, Le Trait, Aramon).",
+    "sources": [
+     224
+    ],
+    "lieux_production": [
+     "France (Lyon — vaccins, Gentilly, Sisteron, Tours, Le Trait, Aramon)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hygiene-sante-sanofi-doliprane",
+      "nom": "Doliprane 1000 mg",
+      "assemblage": "France (sites de Sisteron, Tours, Le Trait)",
+      "origine_pieces": "Principe actif (paracétamol) produit en France et en Inde selon les références",
+      "certifications": [],
+      "note": "Médicament de référence fabriqué sur les sites français du groupe."
+     }
+    ]
+   },
+   {
+    "id": "hygiene-sante-upsa",
+    "groupe": "UPSA",
+    "marques": [
+     "UPSA",
+     "Euphytose",
+     "Dafalgan"
+    ],
+    "siege": "France (Agen)",
+    "siege_pays": "FR",
+    "statut": "rang2",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "Laboratoire français fondé en 1935 à Agen ; racheté par Bristol-Myers Squibb (US) en 1994, puis revendu au japonais Taisho Pharmaceutical en juillet 2019. Marques phares (Dafalgan, Euphytose) toujours fabriquées en France.",
+    "sources": [
+     225
+    ],
+    "lieux_production": [
+     "France (Agen, Lot-et-Garonne)"
     ],
     "certifications": [],
     "produits": []
@@ -1025,6 +1198,50 @@
     ],
     "lieux_production": [
      "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-energie-enercoop",
+    "groupe": "Enercoop",
+    "marques": [
+     "Enercoop"
+    ],
+    "siege": "France (Paris 19e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Fournisseur coopératif (SCIC) français 100 % renouvelable fondé en 2005 ; labellisé VertVolt « très engagé » (ADEME). Gouvernance « une personne = une voix », ~64 000 sociétaires.",
+    "sources": [
+     226
+    ],
+    "lieux_production": [
+     "France (siège Paris ; réseau de 12 coopératives régionales)"
+    ],
+    "certifications": [
+     "VertVolt très engagé (ADEME)"
+    ],
+    "produits": []
+   },
+   {
+    "id": "telecoms-energie-octopus-energy",
+    "groupe": "Octopus Energy",
+    "marques": [
+     "Octopus Energy",
+     "Plüm Énergie (racheté en 2022)"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Fournisseur et producteur d'énergie renouvelable britannique fondé en 2015 (fonds Octopus Group, Londres) ; présent en France depuis 2022 via le rachat de Plüm Énergie (Paris).",
+    "sources": [
+     227
+    ],
+    "lieux_production": [
+     "Royaume-Uni (Londres)",
+     "France (Paris, ex-Plüm Énergie)"
     ],
     "certifications": [],
     "produits": []
@@ -1529,6 +1746,73 @@
     "lieux_production": [],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "medias-qobuz",
+    "groupe": "Qobuz",
+    "marques": [
+     "Qobuz"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Plateforme française de streaming et téléchargement musical haute résolution (Hi-Res 24-bit) fondée en 2007 ; détenue par Xandrie SA (France, Denis Thebaud).",
+    "sources": [
+     219
+    ],
+    "lieux_production": [
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-dailymotion",
+    "groupe": "Dailymotion",
+    "marques": [
+     "Dailymotion"
+    ],
+    "siege": "France (Paris 17e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Plateforme française de vidéo fondée en 2005 à Paris ; filiale d'Orange (2011-2015), de Vivendi (2015), puis transférée au groupe Canal+ fin 2024.",
+    "sources": [
+     220
+    ],
+    "lieux_production": [
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-groupe-madrigall",
+    "groupe": "Groupe Madrigall (Gallimard)",
+    "marques": [
+     "Gallimard",
+     "Flammarion",
+     "Casterman",
+     "P.O.L",
+     "Folio",
+     "J'ai lu",
+     "Denoël",
+     "Éditions de Minuit"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Premier éditeur français indépendant, holding familiale contrôlée à 98 % par la famille Gallimard (Antoine Gallimard) depuis 2003, avec LVMH à 9,5 % (2013). 3e pôle éditorial français (~612 M€ de CA en 2023).",
+    "sources": [
+     221
+    ],
+    "lieux_production": [
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -1735,6 +2019,52 @@
     "certifications": [],
     "produits": [],
     "openfoodfacts": "https://fr.openfoodfacts.org/marque/burger-king"
+   },
+   {
+    "id": "restauration-flunch-agapes",
+    "groupe": "Flunch (Agapes Restauration)",
+    "marques": [
+     "Flunch",
+     "Pizza Paï",
+     "Les 3 Brasseurs",
+     "Amarine",
+     "Salad&Co"
+    ],
+    "siege": "France (Nord, groupe Mulliez)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne de restauration en libre-service française fondée en 1971 (Englos, Nord) ; exploitée par Agapes Restauration, branche restauration de l'Association familiale Mulliez (Auchan, Decathlon, Leroy Merlin...).",
+    "sources": [
+     228
+    ],
+    "lieux_production": [
+     "France (Englos/Lille, Nord)",
+     "Espagne, Italie, Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-deliveroo",
+    "groupe": "Deliveroo",
+    "marques": [
+     "Deliveroo"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Livraison de repas et anti-gaspillage",
+    "commentaire": "Entreprise britannique de livraison de repas fondée en 2013, cotée à la Bourse de Londres (2021) ; opère au Royaume-Uni, en France, Suisse, Belgique, Irlande, Italie, EAU, Singapour.",
+    "sources": [
+     229
+    ],
+    "lieux_production": [
+     "Royaume-Uni (Londres)",
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -1778,6 +2108,56 @@
       "note": "Produit phare de la marque [184]."
      }
     ]
+   },
+   {
+    "id": "pneumatiques-kumho-tire",
+    "groupe": "Kumho Tire",
+    "marques": [
+     "Kumho",
+     "Marshal",
+     "Zetum"
+    ],
+    "siege": "Corée du Sud (Gwangju/Séoul)",
+    "siege_pays": "KR",
+    "statut": "vigilance",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "Manufacturier sud-coréen (fondé en 1960), mais actionnaire majoritaire chinois Doublestar depuis 2018 : à surveiller. Usines en Corée du Sud (Pyeongtaek, Gokseong, Gwangju), Chine, Vietnam, États-Unis ; usine européenne prévue à Opole (Pologne) en 2028.",
+    "sources": [
+     222
+    ],
+    "lieux_production": [
+     "Corée du Sud (Pyeongtaek, Gokseong, Gwangju)",
+     "Chine (Tianjin, Nanjing, Changchun)",
+     "Vietnam",
+     "États-Unis",
+     "Pologne (Opole, prévu 2028)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-maxxis-cheng-shin",
+    "groupe": "Maxxis (Cheng Shin Rubber)",
+    "marques": [
+     "Maxxis",
+     "CST"
+    ],
+    "siege": "Taïwan (Yuanlin, Changhua)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "Manufacturier taïwanais (Cheng Shin Rubber Industry, fondé en 1967), 100 % propriétaire de Maxxis. 9e/16e fabricant mondial de pneus. Usines à Taïwan, Chine, Thaïlande, Vietnam, etc.",
+    "sources": [
+     223
+    ],
+    "lieux_production": [
+     "Taïwan (Yuanlin)",
+     "Chine",
+     "Thaïlande",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -1824,6 +2204,82 @@
       "note": "Produit phare [185]."
      }
     ]
+   }
+  ]
+ },
+ "16": {
+  "groupes": [
+   {
+    "id": "hotellerie-bb-hotels",
+    "groupe": "B&B Hotels",
+    "marques": [
+     "B&B Hotels"
+    ],
+    "siege": "France (Brest)",
+    "siege_pays": "FR",
+    "statut": "hors_zones",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Chaîne française fondée à Brest en 1990 (950+ hôtels en Europe) ; contrôlée depuis 2019 par des fonds de Goldman Sachs (États-Unis) pour 1,9 Md€. Siège resté à Brest.",
+    "sources": [
+     216
+    ],
+    "lieux_production": [
+     "France (Brest, siège)",
+     "Europe (19 pays)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-pierre-vacances-center-parcs",
+    "groupe": "Pierre & Vacances-Center Parcs",
+    "marques": [
+     "Pierre & Vacances",
+     "Center Parcs",
+     "Sunparks",
+     "Adagio",
+     "Maeva",
+     "Villages Nature"
+    ],
+    "siege": "France (Paris 19e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Groupe touristique français fondé en 1967 par Gérard Brémond, coté à Paris et contrôlé par la famille Brémond (via holdings) ; 330 sites en Europe. Restructuré en 2022 avec soutien de l'État.",
+    "sources": [
+     217
+    ],
+    "lieux_production": [
+     "France (Paris, siège)",
+     "Europe (France, Espagne, Allemagne, Belgique, Pays-Bas...)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-booking-holdings",
+    "groupe": "Booking Holdings (Booking.com)",
+    "marques": [
+     "Booking.com",
+     "Priceline",
+     "Agoda",
+     "Kayak",
+     "OpenTable"
+    ],
+    "siege": "États-Unis (Norwalk, Connecticut)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "commentaire": "Multinationale américaine de réservation en ligne (cotée Nasdaq) ; Booking.com fondé à Amsterdam en 1996, racheté en 2005. Siège du groupe à Norwalk (US).",
+    "sources": [
+     218
+    ],
+    "lieux_production": [
+     "États-Unis (Norwalk)",
+     "Pays-Bas (Amsterdam, Booking.com)"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  }
