@@ -20,34 +20,6 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-groupe-mutualiste",
-    "groupe": "Groupe mutualiste.",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Banques, banques en ligne et courtiers",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-et-epargne-groupe-cooperatif",
-    "groupe": "Groupe coopératif.",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Banques, banques en ligne et courtiers",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "banque-assurance-et-epargne-credit-mutuel-alliance-federale",
     "groupe": "Crédit Mutuel Alliance Fédérale",
     "marques": [],
@@ -196,20 +168,6 @@
      126,
      127
     ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-et-epargne-interactive-brokers-etoro-coinbase",
-    "groupe": "Interactive Brokers, eToro, Coinbase",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Banques, banques en ligne et courtiers",
-    "commentaire": "Hors de vos zones. Non revérifié pour eToro.",
-    "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []

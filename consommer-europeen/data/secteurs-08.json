@@ -20,20 +20,6 @@
     "produits": []
    },
    {
-    "id": "alimentation-et-boissons-groupe-familial",
-    "groupe": "Groupe familial.",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Produits alimentaires",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "alimentation-et-boissons-bonduelle",
     "groupe": "Bonduelle",
     "marques": [],
@@ -70,20 +56,6 @@
     "statut": "rang1",
     "sous_categorie": "Produits alimentaires",
     "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "alimentation-et-boissons-nutella-kinder-ferrero-rocher",
-    "groupe": "Nutella, Kinder, Ferrero Rocher",
-    "marques": [],
-    "siege": "Luxembourg",
-    "siege_pays": "LU",
-    "statut": "rang1",
-    "sous_categorie": "Produits alimentaires",
-    "commentaire": "Groupe familial.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],

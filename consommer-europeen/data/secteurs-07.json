@@ -1142,20 +1142,6 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-openai-anthropic-google-microsoft",
-    "groupe": "OpenAI, Anthropic, Google, Microsoft",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Assistants d'intelligence artificielle",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-deepseek-alibaba-moonshot",
     "groupe": "DeepSeek, Alibaba, Moonshot",
     "marques": [],

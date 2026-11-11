@@ -34,22 +34,6 @@
     "produits": []
    },
    {
-    "id": "hotellerie-et-hebergement-non-reverifie",
-    "groupe": "Non revérifié.",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "vigilance",
-    "sous_categorie": "Groupes hôteliers",
-    "commentaire": "Jin Jiang (Chine) était premier actionnaire en 2018 avec 12,4 %, devant le Qatar (10,22 %) et l'Arabie saoudite (5,71 %) [133] . Répartition actuelle non revérifiée. NH Hotel Group (Minor)",
-    "sources": [
-     133
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "hotellerie-et-hebergement-hilton-marriott-hyatt",
     "groupe": "Hilton, Marriott, Hyatt",
     "marques": [],
@@ -58,20 +42,6 @@
     "statut": "hors_zones",
     "sous_categorie": "Groupes hôteliers",
     "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hotellerie-et-hebergement-controle-par-minor-international-thailande-selon-mes-informa",
-    "groupe": "Contrôlé par Minor International (Thaïlande) selon mes informations. Non revérifié.",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Groupes hôteliers",
-    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],

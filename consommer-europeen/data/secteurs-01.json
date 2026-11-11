@@ -247,31 +247,6 @@
       "note": "Les nouvelles Lotus électriques sont toutes fabriquées en Chine"
      }
     ]
-   },
-   {
-    "id": "automobile-groupe-geely-les-nouvelles-lotus-electriques-sont-toutes-fab",
-    "groupe": "Groupe Geely. Les nouvelles Lotus électriques sont toutes fabriquées en Chine",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "a_ecarter",
-    "sous_categorie": "Marques sous contrôle chinois",
-    "commentaire": "Marque du groupe SAIC (Chine). Toutes les MG vendues sont fabriquées en Chine [1] .",
-    "sources": [
-     1
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "automobile-groupe-geely-les-nouvelles-lotus-electriques-sont-toutes-fab-mg",
-      "nom": "MG",
-      "assemblage": "Chine",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Toutes les MG vendues sont fabriquées en Chine [1] ."
-     }
-    ]
    }
   ],
   "sous_categories": [
