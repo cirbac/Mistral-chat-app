@@ -2044,6 +2044,32 @@
     "certifications": [],
     "produits": [],
     "openfoodfacts": "https://fr.openfoodfacts.org/marque/herta"
+   },
+   {
+    "id": "alimentation-et-boissons-kelloggs",
+    "groupe": "Kellogg's (Kellanova)",
+    "marques": [
+     "Kellogg's",
+     "Pringles",
+     "Pop-Tarts",
+     "Corn Flakes",
+     "Special K"
+    ],
+    "siege": "États-Unis (Battle Creek, Michigan)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Géant américain des céréales (Kellogg's, Pringles, Pop-Tarts). Hors zones (contrôle US).",
+    "sources": [
+     235
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Mexique",
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },

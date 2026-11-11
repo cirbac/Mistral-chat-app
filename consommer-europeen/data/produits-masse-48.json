@@ -1,0 +1,3612 @@
+{
+ "alimentation-et-boissons-lotte": [
+  {
+   "id": "alimentation-et-boissons-lotte-8901123005397",
+   "nom": "Lotte Choco Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 168 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901123005397"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4607176440256",
+   "nom": "Choco Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607176440256"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062381937",
+   "nom": "Lotte Kokal Corn Snack (sweet & Spicy Flavour)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 72g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062381937"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056055189",
+   "nom": "Lotte trive lime 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056055189"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008304879",
+   "nom": "Biscuits au goût de lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 33 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008304879"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008304947",
+   "nom": "Koala's march vnl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008304947"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062858392",
+   "nom": "Pepero Almond & Chocolate Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 32 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062858392"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4607176440638",
+   "nom": "Choco Pie Cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 28 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607176440638"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062633692",
+   "nom": "Dream Cacao 56%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062633692"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45116568",
+   "nom": "Ice mochi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 47 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45116568"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008300130",
+   "nom": "Koala’s March Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 37 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008300130"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056237684",
+   "nom": "Milkis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056237684"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062870462",
+   "nom": "Lotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062870462"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056229818",
+   "nom": "Milkis zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056229818"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062870448",
+   "nom": "Zec",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062870448"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333291748",
+   "nom": "Premium Ghana Praline Truffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 49g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333291748"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502076784",
+   "nom": "lotte zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 14g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502076784"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333235827",
+   "nom": "Ghana Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333235827"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062453672",
+   "nom": "Mini Vanilla Ice Cream Tico With Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062453672"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062858385",
+   "nom": "Peter crunky",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062858385"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056041298",
+   "nom": "Guava flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 240 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056041298"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062380114",
+   "nom": "Lotte Corn Snack: Original 2.7 Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062380114"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8990333811119",
+   "nom": "chocopie marshmallow",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 26g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8990333811119"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8720663431103",
+   "nom": "Milkis milk and yogurt flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720663431103"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056290016",
+   "nom": "Lets Be",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 5.92 FL OZ (175mL)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056290016"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062634330",
+   "nom": "Lotte Almond Choco Ball",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 46 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062634330"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008610628",
+   "nom": "Lotte Xylitol Gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 58 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008610628"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333219636",
+   "nom": "Toppo Sticks Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333219636"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056024642",
+   "nom": "Алоэ Вера Оригинал",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 240 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056024642"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062013395",
+   "nom": "Chewing Candy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 79 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062013395"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062521241",
+   "nom": "Crispy & Sweet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062521241"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-06582100",
+   "nom": "Emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06582100"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056019914",
+   "nom": "Milkis Banana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056019914"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062873418",
+   "nom": "Margaret Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062873418"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801123602193",
+   "nom": "Luncheon Meat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801123602193"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8904089324939",
+   "nom": "Double Belgian Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8904089324939"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056103057",
+   "nom": "Aloe vera naturale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056103057"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056086657",
+   "nom": "Aqua 2%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056086657"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056051099",
+   "nom": "Lotte korean raisin tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056051099"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062007950",
+   "nom": "Jellycious",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062007950"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062012756",
+   "nom": "Pepero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 53g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062012756"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118253683",
+   "nom": "Barre de Yogurt Glace Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118253683"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062215911",
+   "nom": "Lotte Xylitol Ice Mint Chewing Gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062215911"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062383351",
+   "nom": "doritos (korean ver)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062383351"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062273355",
+   "nom": "Dream Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062273355"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8901123005762",
+   "nom": "Caramilk bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20.4g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901123005762"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333248735",
+   "nom": "ZERO Sugar Free Chocolate Mild",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333248735"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333208708",
+   "nom": "クランキー",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333208708"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333245949",
+   "nom": "Ghana Black Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333245949"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056066581",
+   "nom": "Let’s be cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056066581"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062862672",
+   "nom": "Moncher",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062862672"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062623495",
+   "nom": "설레임 밀크쉐이크",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062623495"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062007851",
+   "nom": "High Protein Ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 85mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062007851"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0842108308035",
+   "nom": "Crispy Mozzarella Cheese Corn Dog",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0842108308035"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062880454",
+   "nom": "Ghana Chocolate Ice Cream Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062880454"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056090227",
+   "nom": "Cantata Cold Brew Brown Sugar Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056090227"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062710430",
+   "nom": "Garlic Baguette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062710430"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062416974",
+   "nom": "Мелония двойная Дыня",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062416974"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056232894",
+   "nom": "Напиток безалкогольный газированный сокосодержащий «Tams Sparkling Grape»",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056232894"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056093181",
+   "nom": "Обогащённый витамином D безалкогольный негазированный напиток «DAILY C MANGO 400D»",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 140 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056093181"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062013968",
+   "nom": "Банана Голубика вафельный рожок",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 90g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062013968"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45224713",
+   "nom": "Coolish Green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45224713"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056241230",
+   "nom": "Milkis Original - Korean Cream Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056241230"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333235216",
+   "nom": "KAZITTE！ハードグミ×果実感　グレープ&マスカット",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 16 x 5.2g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333235216"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056086770",
+   "nom": "Витамин С - 1000 мг",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 140 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056086770"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062879090",
+   "nom": "abc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062879090"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062239078",
+   "nom": "Энитайм",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062239078"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801123311026",
+   "nom": "의성마늘프랑크 치즈",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 65g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801123311026"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062862665",
+   "nom": "Chocolate Pie with Real Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062862665"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056475017",
+   "nom": "Grape Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056475017"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823489544",
+   "nom": "Yukimi Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823489544"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062006205",
+   "nom": "Lotte Choco pies (green tea)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 336g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062006205"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056094409",
+   "nom": "Aloe vera sugarfree",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056094409"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056175221",
+   "nom": "Aloe vera grape",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056175221"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-24077767",
+   "nom": "Vogerlsalat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/24077767"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333196548",
+   "nom": "Pokemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333196548"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333037025",
+   "nom": "Lotte Cupcho Doraemon Chocolate Covered Corn Puffs 1.3 Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333037025"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333131211",
+   "nom": "Lotte Chococo Matcha Green Tea Chocolate Biscuits 17 Pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333131211"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056031015",
+   "nom": "Mango juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056031015"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062521449",
+   "nom": "Biscuit Au Gout D'ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 105 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062521449"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062246779",
+   "nom": "Margaret Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 264 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062246779"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056012472",
+   "nom": "Dynamic",
+   "assemblage": "Corée du Sud",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056012472"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333224760",
+   "nom": "Chococo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333224760"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45189630",
+   "nom": "Coolish (クーリッシュ)　ベルギーチョコレート",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 140 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45189630"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4607176441079",
+   "nom": "Печенье Choco Pie Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 168 г",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607176441079"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333061778",
+   "nom": "Lotte biscuit koala",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333061778"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333179596",
+   "nom": "Lotte Koala's March Cocoa & Milk Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333179596"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062273331",
+   "nom": "Lotte Mon Cher Cacao Pie 6 Packs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062273331"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062893409",
+   "nom": "Popping Corn Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 72 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062893409"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5901588058429",
+   "nom": "Pralinki Peanut Butter",
+   "assemblage": "PL 03-801",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 136 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901588058429"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5901588026381",
+   "nom": "Czeko tubka. Krem karmelowy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901588026381"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5901588088563",
+   "nom": "E. Wedel Śmietankowe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 60 g (90 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901588088563"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062336579",
+   "nom": "Bonbon pastèque",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 56 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062336579"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056051150",
+   "nom": "corn silk tea 옥 수수 수염차",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056051150"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062518111",
+   "nom": "Waffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062518111"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118250859",
+   "nom": "Melon Big Ice Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118250859"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45189760",
+   "nom": "Coolish カリピス",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 140 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45189760"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062518470",
+   "nom": "Sweet Strawberry Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 230g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062518470"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5901588018676",
+   "nom": "GORZKA CYNAMONOWA I ŚLIWKĄ",
+   "assemblage": "Poland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901588018676"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8809513710381",
+   "nom": "Lim Ga Ne Red Pepper Powder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8809513710381"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823100340",
+   "nom": "北海道バニラバー",
+   "assemblage": "〒336-0027 埼玉県さいたま市南区沼影３丁目１−１",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 45 ml × 10本",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823100340"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0840143700104",
+   "nom": "Koala's March Family Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 6.89 oz (195 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0840143700104"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056175238",
+   "nom": "Aloe vera sugar free",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056175238"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0807176703809",
+   "nom": "CJ Seasoned Roast Laver 5G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176703809"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45205880",
+   "nom": "Vanilla Japanese Mochi Ice",
+   "assemblage": "Japan",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 94 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45205880"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333041633",
+   "nom": "Macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333041633"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333126675",
+   "nom": "Halloween cereales lotte japon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333126675"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-49779097",
+   "nom": "Japan Lotte Fit's Peach Momo Chewing Gum Fruity Japanese Candy 12 Piece Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/49779097"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5901588046358",
+   "nom": "Mieszanka Wedlowska",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901588046358"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-59071778",
+   "nom": "Karmel Love!,Krem Wedlowski",
+   "assemblage": "Polska",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59071778"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056060107",
+   "nom": "Alle Veranstaltungen Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056060107"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062001880",
+   "nom": "Nude cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062001880"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062275991",
+   "nom": "Dream Cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 35 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062275991"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062336852",
+   "nom": "Anytime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062336852"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062642144",
+   "nom": "Green chococo feuilles thé vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062642144"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062641253",
+   "nom": "Pepero Dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 46g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062641253"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008303803",
+   "nom": "Koala's March",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008303803"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062012770",
+   "nom": "Peppero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062012770"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062637621",
+   "nom": "Pepero chocolat amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 36 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062637621"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333059850",
+   "nom": "Chocolats Koalas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333059850"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45126505",
+   "nom": "Pikachu evolving taste candy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45126505"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062247059",
+   "nom": "BUTTER COCONUT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062247059"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056001667",
+   "nom": "Mango Drink",
+   "assemblage": "Korea",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 240 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056001667"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118252570",
+   "nom": "Greek Yogurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 85ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118252570"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062012763",
+   "nom": "Pepero nude-cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062012763"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45126222",
+   "nom": "Fit's grape mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45126222"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118252853",
+   "nom": "Greek yogurt bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118252853"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062896585",
+   "nom": "Biscuit (margaret mixed nut)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062896585"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062521272",
+   "nom": "Waffle mate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062521272"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333205219",
+   "nom": "Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333205219"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062482146",
+   "nom": "Yogurt Jelly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062482146"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45201424",
+   "nom": "Mochi glacés thé au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 2 x 47 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45201424"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062894550",
+   "nom": "PEPERO Rich Choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062894550"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062886814",
+   "nom": "Cookie & Cream Almond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062886814"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-70000320",
+   "nom": "Wer aloe succo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/70000320"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333295548",
+   "nom": "Toppo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333295548"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062012268",
+   "nom": "Dietary Fiber Konjac Jelly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062012268"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502072076",
+   "nom": "Jaws Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502072076"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062892426",
+   "nom": "Koala's march strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062892426"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062881079",
+   "nom": "I'm mochi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062881079"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062454709",
+   "nom": "Snow ice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062454709"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062483488",
+   "nom": "Choco pie orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062483488"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008304749",
+   "nom": "Koala's March Matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008304749"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333202195",
+   "nom": "Galleta chocolate kimetsu no yaiba lotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333202195"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45205378",
+   "nom": "XYLITOL x BTS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45205378"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8852008000955",
+   "nom": "Xylitol strawberry gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8852008000955"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062480357",
+   "nom": "4 fruits real farm",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 80 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062480357"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502072205",
+   "nom": "Sweet Corn Ice Cream Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502072205"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062017188",
+   "nom": "Cookie tiramisu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062017188"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062883851",
+   "nom": "POPCORN CHOCOLAT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062883851"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45205439",
+   "nom": "Chewing-gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45205439"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056028886",
+   "nom": "chilsung cider",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 190 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056028886"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062631896",
+   "nom": "dream cake strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062631896"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8934609212019",
+   "nom": "Lotte pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 336",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934609212019"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333212453",
+   "nom": "Premium Ghana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333212453"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333268702",
+   "nom": "Demon Slayer Chocolate Wafer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333268702"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5901588400426",
+   "nom": "Ptasie mleczko waniliowe z galaretką truskawkową",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 340 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901588400426"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062880966",
+   "nom": "Gateau de riz gluant citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062880966"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0891602264392",
+   "nom": "Sugar Free Dark Cacao Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0891602264392"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333172269",
+   "nom": "Ghana Milk Bottle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333172269"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333260157",
+   "nom": "Crunky BTS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333260157"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333222988",
+   "nom": "Lotte Zero Sugar Melty Truffle Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333222988"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333288182",
+   "nom": "Lotte Oat Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333288182"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333249022",
+   "nom": "Lotte Ghana Chocolate coated Pop Corn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333249022"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823243498",
+   "nom": "Mochi Frozen Dessert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 270 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823243498"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333239214",
+   "nom": "Custard Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333239214"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333140251",
+   "nom": "ポケモン モンスターボールキャンディ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 69 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333140251"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056237974",
+   "nom": "Chilsung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056237974"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333223701",
+   "nom": "Ghana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333223701"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062858132",
+   "nom": "Easy Protein Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062858132"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062881086",
+   "nom": "Gâteau au injeolmi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062881086"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333298464",
+   "nom": "Zero Sugar Free Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333298464"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062009374",
+   "nom": "Cereal Choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062009374"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056023737",
+   "nom": "Cooking sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056023737"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118250606",
+   "nom": "Goo Goo Ice Cream Cone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118250606"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0841456000301",
+   "nom": "Eau pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0841456000301"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4601260862535",
+   "nom": "Strawberry PEPERO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 32 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4601260862535"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333232628",
+   "nom": "ザクザクやみつき CRUNKY",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333232628"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062866045",
+   "nom": "Korea dessert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062866045"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823095042",
+   "nom": "Yukimi vanilla ice mochi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823095042"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062859337",
+   "nom": "Ghana Premium Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062859337"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333298853",
+   "nom": "Chocco Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333298853"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0809939242679",
+   "nom": "milkis grave flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0809939242679"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333295296",
+   "nom": "洋酒薫る大人のスイーツ ホワイトティラミス",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333295296"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062864096",
+   "nom": "Dessert Pastry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062864096"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056013554",
+   "nom": "Pomegranate Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056013554"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062004942",
+   "nom": "Mad Hot Corn Chio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062004942"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-2352100099001",
+   "nom": "Mixed 11 Grains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2352100099001"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502072724",
+   "nom": "Biscotti Onion Bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502072724"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0850059363041",
+   "nom": "Coolish, Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0850059363041"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259022725",
+   "nom": "Almond Brown Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259022725"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333217564",
+   "nom": "チョコパイ　3種のベリーバスクチーズケーキ",
+   "assemblage": "福岡県筑後市長浜1818",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · c. 38 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333217564"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333204946",
+   "nom": "チョコパイ、　チョコレートバスクチーズケーキ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333204946"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333210220",
+   "nom": "Crunky Salt VANILLA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333210220"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502073127",
+   "nom": "World Cone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502073127"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062858866",
+   "nom": "Red Bean Bun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062858866"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823983479",
+   "nom": "Ghana Chocolate Ice (Deep Cacao)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823983479"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502034548",
+   "nom": "Soft Peanut Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502034548"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823250854",
+   "nom": "Chocolate Coolish Ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823250854"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259021230",
+   "nom": "Binch Strawberry Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259021230"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333211135",
+   "nom": "ことりっぷ ふんわりプチケーキ 喫茶室山脈の山脈モンブラン",
+   "assemblage": "福岡県筑後市長浜1818",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8個",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333211135"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0845502072212",
+   "nom": "Seoleim Cookie & Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0845502072212"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0841202273294",
+   "nom": "몽쉘 Dream Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0841202273294"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056074739",
+   "nom": "Aloe Vera Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056074739"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062011339",
+   "nom": "Corn Snack Spicy & Sweet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062011339"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118012082",
+   "nom": "Gochujang Bibimbap Samgak Kimbap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118012082"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333213559",
+   "nom": "Ghana Roasted Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333213559"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062866878",
+   "nom": "Tico Milk Chocolate (Ice Cream)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 34 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062866878"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333226191",
+   "nom": "Sasa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333226191"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333234622",
+   "nom": "Ceunky Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333234622"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8901123002433",
+   "nom": "Pepero Original Biscuit Sticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901123002433"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259020042",
+   "nom": "Tuna Mayo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259020042"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823178868",
+   "nom": "爽 ヨーグルト味",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823178868"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259024293",
+   "nom": "Cookies And Cream Cone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259024293"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062274635",
+   "nom": "Almond Chocolate Ball",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062274635"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801123307210",
+   "nom": "에센뽀득",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801123307210"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333233731",
+   "nom": "Gazta x Custard Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333233731"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333025466",
+   "nom": "CRUNKY CRUNCH CHOCOLATE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333025466"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062887729",
+   "nom": "찰떡아이스 쿠키앤크림",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062887729"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118256080",
+   "nom": "Vanilla Ice Cream Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118256080"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333210053",
+   "nom": "CHOCO PIE 蜜芋バタータルト",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333210053"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062417056",
+   "nom": "죠스바",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062417056"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333236640",
+   "nom": "Almond Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333236640"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062713288",
+   "nom": "둥근달",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062713288"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062004959",
+   "nom": "Mad Hot Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062004959"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259024675",
+   "nom": "Pepero Matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 32 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259024675"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823228389",
+   "nom": "生チョコレートパイ 栗",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823228389"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062519545",
+   "nom": "بسكويت زي مملح 50جرام",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062519545"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259025603",
+   "nom": "Coolish Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259025603"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259025559",
+   "nom": "Premium Ghana Chocolate Lip Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259025559"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333284023",
+   "nom": "Caramel Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333284023"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333212408",
+   "nom": "Chocolate Pretzel Crunky",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333212408"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333228270",
+   "nom": "Premium Ghana 濃厚生チョコ 〈芳香カカオ〉",
+   "assemblage": "さいたま市南区沼影3-1-1",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12枚",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333228270"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-49386776",
+   "nom": "Lotte SOHI Vanilla Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/49386776"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333203482",
+   "nom": "Salt Chocolate Puff",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333203482"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333250264",
+   "nom": "Crunky Almond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333250264"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0840143700289",
+   "nom": "Koala’s March",
+   "assemblage": "Thailand",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 6.89 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0840143700289"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333219490",
+   "nom": "TOPPO ピスタチオ＆ストロベリー",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333219490"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259025689",
+   "nom": "Grain Crumble Ice Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259025689"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259024958",
+   "nom": "Gukapang",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259024958"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062858828",
+   "nom": "Frozen Steamed Bun (Red Bean Flavor)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062858828"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062872893",
+   "nom": "Snow Ice Cookie & Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062872893"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333275595",
+   "nom": "Orange & Lemon Sour Gummies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333275595"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333208678",
+   "nom": "Rich Almond Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333208678"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333206872",
+   "nom": "Strawberry Filled Choco Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333206872"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333222315",
+   "nom": "Premium Ghana Biscuit Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333222315"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4573594650907",
+   "nom": "ミニヤッカ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4573594650907"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8936197490169",
+   "nom": "Spicy Tuna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8936197490169"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259021148",
+   "nom": "Premium Ghana Lemon Cheese Tart Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259021148"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259020141",
+   "nom": "Soft Barre Melon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259020141"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259027522",
+   "nom": "Binch Premier Matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259027522"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259025726",
+   "nom": "엄마손 파이 스윗 버터 갈릭",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259025726"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45225246",
+   "nom": "Yukimi Daifuku",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45225246"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45225437",
+   "nom": "Matcha Coolish Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45225437"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4771395191722",
+   "nom": "Lotte Maisikepikesed Kondenspiimaga",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4771395191722"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333240180",
+   "nom": "Forest Patisserie Fruit Pie Blueberry Cheesecake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333240180"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333287826",
+   "nom": "PREMIUM Ghana Infiniment Vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333287826"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062334285",
+   "nom": "Strawberry Chewing Candy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062334285"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333214938",
+   "nom": "Almond Filled Chocolate Balls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333214938"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801207158219",
+   "nom": "Protein Drink Cereal Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801207158219"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333239955",
+   "nom": "Ghana Milk Tots",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333239955"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062899302",
+   "nom": "Fle Choco Cookie Okdongja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062899302"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062889747",
+   "nom": "World Corn Choco (월드콘 초코)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062889747"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062644049",
+   "nom": "Chocolate Mochi Rice Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062644049"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333207695",
+   "nom": "Chocolate Choco Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333207695"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056000790",
+   "nom": "Jeju Mandarin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056000790"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056238162",
+   "nom": "Let's Be",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056238162"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259018681",
+   "nom": "Yuzu (Yuja) Jelly, ZERO Sugar Free Gummy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259018681"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062521258",
+   "nom": "mom’s hand pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062521258"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823588681",
+   "nom": "爽　贅沢濃味抹茶",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823588681"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801056050269",
+   "nom": "Let'sBe Кафетайм Латте",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056050269"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062880096",
+   "nom": "Popsicle Flavored Lollipops",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062880096"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062335633",
+   "nom": "Milk Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062335633"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801118005725",
+   "nom": "Grilled Veggie Rice Ball",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801118005725"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259030614",
+   "nom": "Premium 초코 브라우니",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259030614"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823288918",
+   "nom": "アジアに恋して　黒糖烏龍ミルクティー",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823288918"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062417117",
+   "nom": "수박바",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062417117"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4953823637594",
+   "nom": "Coolish Vanilla Soft Serve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4953823637594"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333202973",
+   "nom": "学園アイドルマスターマンチョコ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333202973"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333293339",
+   "nom": "紅茶チョコ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333293339"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062453696",
+   "nom": "Mini Vanilla Ice Cream Bar with Dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062453696"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-0251042000002",
+   "nom": "Seasoned Pickled Radish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0251042000002"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333233205",
+   "nom": "Sugar free candy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333233205"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45990458",
+   "nom": "Zero sugar tea biscuit ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45990458"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45990441",
+   "nom": "Macadamia zero ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45990441"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333214549",
+   "nom": "ZERO MELT-IN-THE-MOUTH CHOCO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333214549"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333275755",
+   "nom": "Lotte Choco Pie Party Pack Tea Rich Matcha Flavor 9P",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333275755"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-45225208",
+   "nom": "coolish Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/45225208"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801123410347",
+   "nom": "의성마늘 직화닭",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801123410347"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259029007",
+   "nom": "ABC Chocolate Cookies Strawberry Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259029007"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8801062010578",
+   "nom": "꼬깔콘 고소한맛",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801062010578"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333229208",
+   "nom": "パイの実 深みショコラ",
+   "assemblage": "三重県四日市市小古曾東2-4-61",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 124g(個包装込み)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333229208"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333248810",
+   "nom": "Premium Ghana 濃厚生チョコ 〈芳香ミルク〉",
+   "assemblage": "さいたま市南区沼影3-1-1",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12枚",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333248810"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-4903333238804",
+   "nom": "小さなChoco Pie 濃厚仕立て",
+   "assemblage": "埼玉県狭山市新狭山1-2-1",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 8個",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4903333238804"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259030959",
+   "nom": "Monshell Marcha & Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259030959"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8802259027539",
+   "nom": "Bunch Premier Matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8802259027539"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-5023659804633",
+   "nom": "kancho",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 34 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5023659804633"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8901123004352",
+   "nom": "Lotte Coffy Bite Classic Toffee 180 gm",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 gm",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901123004352"
+  },
+  {
+   "id": "alimentation-et-boissons-lotte-8901123004369",
+   "nom": "Lotte Eclairs Choco Toffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 170 gm",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901123004369"
+  }
+ ],
+ "alimentation-boissons-pepsico": [
+  {
+   "id": "alimentation-boissons-pepsico-6111252423227",
+   "nom": "Lipton can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252423227"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8901030779312",
+   "nom": "Lipton Green Tea",
+   "assemblage": "Dadra & Nagar Haveli",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 25N",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030779312"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8690574114962",
+   "nom": "Lipton  ice tea peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8690574114962"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8720608026531",
+   "nom": "Thé vert Classique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 50 sachets - 65g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720608026531"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327587199",
+   "nom": "ice tea citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327587199"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8717163836835",
+   "nom": "Ice Tea Pêssego sem açúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163836835"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0041000731488",
+   "nom": "Iced tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041000731488"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8720608632718",
+   "nom": "Lipton tea bags",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720608632718"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327530126",
+   "nom": "Chá Verde Citrus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327530126"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8881300489007",
+   "nom": "Instant Honey GINGER DRINK ORIGINAL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8881300489007"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497043342",
+   "nom": "Lipton lemon 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497043342"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497045216",
+   "nom": "lipton green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497045216"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7610007210857",
+   "nom": "Fresh Blends Hibiscus & Cherry Blossom",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610007210857"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497043267",
+   "nom": "Lipton Green 0.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497043267"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5283024603784",
+   "nom": "Ice tea Zero sugar Tropical passionfruit & mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 320 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5283024603784"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-9358155000101",
+   "nom": "Low Joule Peach Flavoured Ice Tea Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9358155000101"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497041300",
+   "nom": "Ice Tea Zero Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497041300"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8901030781063",
+   "nom": "Green tea Honey Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030781063"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5201156030421",
+   "nom": "Lemon sparkling ice tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5201156030421"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5063270101421",
+   "nom": "mandarin & orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A · 20pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5063270101421"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8720608021321",
+   "nom": "Energise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720608021321"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000056017",
+   "nom": "Ice tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000056017"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139009930",
+   "nom": "Lipton ICE Tea Zitrone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139009930"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0098000100905",
+   "nom": "LEMONADE ICED TEA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 16 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0098000100905"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327515758",
+   "nom": "Forest fruits black tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · par 20 sachets",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327515758"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800302960",
+   "nom": "Lipton Weniger suß original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.25L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800302960"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327580930",
+   "nom": "Ice tea de pêssego",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327580930"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8712100784620",
+   "nom": "Lipton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712100784620"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8720608013210",
+   "nom": "deteinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720608013210"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0041000418624",
+   "nom": "Iced tea mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041000418624"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6281168002264",
+   "nom": "Peach Ice Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 240ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6281168002264"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8858998585328",
+   "nom": "ลิปตัน ไอซ์ที เลมอน ซีโร่ ชูการ์",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 445 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8858998585328"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7891042000201",
+   "nom": "Lipton Ice Tea 1,5l Limao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891042000201"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0041000050145",
+   "nom": "Family Size Iced Tea Bags",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.8 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041000050145"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0041000731334",
+   "nom": "Lipton Black Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041000731334"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327637955",
+   "nom": "Lipton Morango Chá Verde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327637955"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-9310021043476",
+   "nom": "Raspberry Flavour Ice Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310021043476"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0069000158340",
+   "nom": "Thé glacé saveur de pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0069000158340"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4600494600531",
+   "nom": "Напиток безалкогольный негазированный &quot;Холодный чай «Липтон» со вкусом персика&quot;",
+   "assemblage": "Домодедово",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 1 л",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4600494600531"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8717163856727",
+   "nom": "Thé Melissa with cherry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163856727"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4270002488953",
+   "nom": "SAVEUR TROPICAL ICE TEA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4270002488953"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8720608630110",
+   "nom": "Green tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720608630110"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930176091",
+   "nom": "Lipton pétillant saveur peche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930176091"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139010738",
+   "nom": "4062139010738",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139010738"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5942204005953",
+   "nom": "Lipton piersica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942204005953"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000010255",
+   "nom": "Brisk lemon iced tea cans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000010255"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327571495",
+   "nom": "Ice tea Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327571495"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139015283",
+   "nom": "IT Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139015283"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8720608617753",
+   "nom": "Peach Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720608617753"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5063270105214",
+   "nom": "Herbata zielona truskawka malina z cukrem",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5063270105214"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497049610",
+   "nom": "No Sugar Ice Tea (Raspberry Flavour)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497049610"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327571501",
+   "nom": "Lemon Ice Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327571501"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139018925",
+   "nom": "Kombucha - Strawberry Mint Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139018925"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5063270105306",
+   "nom": "GREEN TEA WITH A HINT OF CITRUS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5063270105306"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3228881025258",
+   "nom": "Lipton Thé Vert Marrakech Mint 20 Sachets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228881025258"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5601165005524",
+   "nom": "Manga",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5601165005524"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6001085003782",
+   "nom": "Yellow label tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6001085003782"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8710604774185",
+   "nom": "Ice tea peach zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710604774185"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8712100399473",
+   "nom": "Infusion Désir Citron-Gingembre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712100399473"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6221048700736",
+   "nom": "Lipton Yellow Label Black Tea 100 Tea Bags",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221048700736"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7310390855139",
+   "nom": "Lipton Sun Tea Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7310390855139"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8888086021001",
+   "nom": "Lipton Yellow Label Black Tea 25 X 2G (50G)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8888086021001"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8000990117896",
+   "nom": "Ice Tea Lipton Pesca Poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000990117896"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497043229",
+   "nom": "Lipton Lemon 0.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497043229"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0040600043328",
+   "nom": "45% Vegetable Oil Spread, Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040600043328"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900300550203",
+   "nom": "Lipton Yellow Labe Herbata Ekspresowal",
+   "assemblage": "Polska",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 100 g (2 g x 50 torebek)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900300550203"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711200404810",
+   "nom": "Yellow label - Classico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711200404810"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8710908943072",
+   "nom": "Lipton Yellow Label Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710908943072"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8718114888835",
+   "nom": "Green Tea Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718114888835"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0028400331609",
+   "nom": "Funyuons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0028400331609"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8710908912276",
+   "nom": "Herbata Zielona - Jagoda i Goji",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 20",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710908912276"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327509658",
+   "nom": "Lemon & ginger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327509658"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327518612",
+   "nom": "Citrus green tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327518612"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327515536",
+   "nom": "Black tea blue fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327515536"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497041249",
+   "nom": "Green Ice Tea Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497041249"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327582125",
+   "nom": "Lipton peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327582125"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5601165004695",
+   "nom": "Lipton Ice Tea mangue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5601165004695"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6091034022766",
+   "nom": "Lipton Ice Tea Peche 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6091034022766"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7610007210888",
+   "nom": "Lipton Ice Tea Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610007210888"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327501447",
+   "nom": "Green Ice Tea Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327501447"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8717163856710",
+   "nom": "Mięta z cytrusami",
+   "assemblage": "UE",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163856710"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327509627",
+   "nom": "Lipton citrus tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 50pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327509627"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711252154725",
+   "nom": "Lipton ice tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711252154725"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497041287",
+   "nom": "Lipton ice tea lemon zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497041287"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497044363",
+   "nom": "Lipton Green 0.85",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497044363"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7801620009731",
+   "nom": "té negro sabor durazo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 310ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801620009731"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8858998585014",
+   "nom": "Lemon Iced Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 245ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8858998585014"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327571600",
+   "nom": "Ice tea green zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327571600"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0041000077203",
+   "nom": "Pure Green Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 1.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041000077203"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-04128601",
+   "nom": "Black tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 4 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04128601"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8714100081648",
+   "nom": "Original Sparkling ICE Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8714100081648"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0068400000235",
+   "nom": "Boeuf et legume",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068400000235"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000205828",
+   "nom": "Diet citrus green tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000205828"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3781447402905",
+   "nom": "Primevère",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3781447402905"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7610007219737",
+   "nom": "Mango & Passionfruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610007219737"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327488182",
+   "nom": "Ice Tea Pêssego",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327488182"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327571648",
+   "nom": "Sparkling Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327571648"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8714100655054",
+   "nom": "Chá Lipton toranja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8714100655054"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3168930175452",
+   "nom": "Ice tea saveur pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3168930175452"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8711327514416",
+   "nom": "Schwarzer Tee &quot;Orange Jaipur&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327514416"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8000990100744",
+   "nom": "Lipton Te'yellow Label 25FF GR. 37",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000990100744"
+  }
+ ]
+}

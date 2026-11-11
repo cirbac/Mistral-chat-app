@@ -1,0 +1,3608 @@
+{
+ "alimentation-et-boissons-monster-beverage": [
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337503464",
+   "nom": "Monster fury",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337503464"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517886301",
+   "nom": "Monster Melon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517886301"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507806",
+   "nom": "LH-44",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507806"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847032991",
+   "nom": "Dragón Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847032991"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033066",
+   "nom": "Monster mule gingerade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033066"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033783",
+   "nom": "Monster thé vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033783"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125364",
+   "nom": "Black monster",
+   "assemblage": "ООО &quot;Кола Эйчбиси Евразия&quot;",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 0,449 л",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125364"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125647",
+   "nom": "Espresso Monster salted caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125647"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126453",
+   "nom": "Monster MXXD",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126453"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517889791",
+   "nom": "Monster Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517889791"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037804",
+   "nom": "Monster Energy Ultra Gold, Sugar Free",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 can (16 oz)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037804"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337501637",
+   "nom": "Monster Ultra Red PMP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337501637"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037613",
+   "nom": "Monster Papillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037613"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517882853",
+   "nom": "Monster Hydro Tropical Thunder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517882853"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337509602",
+   "nom": "Energy ultra citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337509602"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-18278624",
+   "nom": "Monstre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18278624"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033745",
+   "nom": "monster hydro blue ice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033745"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847035107",
+   "nom": "Monster Java 300 French Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 15oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847035107"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-19149400",
+   "nom": "Espresso vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19149400"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037699",
+   "nom": "Rehab monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037699"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122707",
+   "nom": "Monster white ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122707"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046146735",
+   "nom": "Proteinbar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046146735"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847811237",
+   "nom": "Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847811237"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847018827",
+   "nom": "Zero Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847018827"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517884437",
+   "nom": "Monster Energydrink 4er Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517884437"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-95273228",
+   "nom": "Moster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/95273228"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125616",
+   "nom": "Monster espresso and milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125616"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896626123",
+   "nom": "Energy drink doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896626123"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896623184",
+   "nom": "monster assolut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896623184"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-10640637",
+   "nom": "Juiced - Mango loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10640637"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847030102",
+   "nom": "Monster - Ultra Paradise (Zero Sugar)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847030102"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896625799",
+   "nom": "Monster Lewis Hamilton zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896625799"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847029120",
+   "nom": "Mean Bean",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6 x 11 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847029120"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0810117130039",
+   "nom": "The Beast Hard White Haze",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0810117130039"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847005407",
+   "nom": "monster tangerine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 16 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847005407"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-00921800",
+   "nom": "Energético de melancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00921800"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036693667",
+   "nom": "Monster energy super fuel superior hydration killer kiwi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036693667"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1008536544066",
+   "nom": "Monster Ultra Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1008536544066"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166698959",
+   "nom": "Monster rehab tea lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166698959"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699161",
+   "nom": "original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699161"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470220224",
+   "nom": "Energético Juice Monster Khaos Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470220224"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470223058",
+   "nom": "Energético Diet Monster Absolutely Zero Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470223058"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470333016",
+   "nom": "Energético Juice Monster Mango Loco Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470333016"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470339292",
+   "nom": "Energético Ultra Violet Zero Açúcar Monster Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470339292"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470348034",
+   "nom": "Energético Lemon Monster Dragon Ice Tea Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470348034"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-10848036",
+   "nom": "Monster Energy Zero Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10848036"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0810117130060",
+   "nom": "Alcohol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0810117130060"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4060866625577",
+   "nom": "Monster hamilton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060866625577"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036694305",
+   "nom": "Monster Mango Loco Energy Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036694305"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847892540",
+   "nom": "Rehab Monster Tea + Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847892540"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847893530",
+   "nom": "Monster energy zero sugar taurine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847893530"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4062139016235",
+   "nom": "Blueberry Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139016235"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5099238890076",
+   "nom": "Monster Energy Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099238890076"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9102222013309",
+   "nom": "Protein pannekaker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9102222013309"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508841",
+   "nom": "Monster energy LH44",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508841"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166694050",
+   "nom": "Monster X-Presso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166694050"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847812968",
+   "nom": "Monster Energy Heavy Metal 32oz 018",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847812968"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036692943",
+   "nom": "Monster Energy Dragon Chinese Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036692943"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631961",
+   "nom": "Monster assault energy og",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631961"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624945",
+   "nom": "Monster - Juiced Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624945"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036693483",
+   "nom": "Monster Energy Pipeline Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036693483"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0051325110462",
+   "nom": "Noodle Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0051325110462"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122417",
+   "nom": "Espresso And Milk Triple Shot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122417"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1076231877857",
+   "nom": "Monster Energy lo-cal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1076231877857"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046145554",
+   "nom": "Sjokoladedrikk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046145554"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013948395",
+   "nom": "Orange Dreamsicle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013948395"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7579426636290",
+   "nom": "Monstee Energy Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7579426636290"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784902547",
+   "nom": "Monster - Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784902547"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036692134",
+   "nom": "Monster Energy Ultra White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036692134"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-8064545632777",
+   "nom": "The Doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8064545632777"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847898672",
+   "nom": "Java Monster Irlandais Crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 444ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847898672"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001335",
+   "nom": "Monster Import",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001335"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-8720938893186",
+   "nom": "Rehab Tea + Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720938893186"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-6054209324164",
+   "nom": "Juiced Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6054209324164"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-3417734530616",
+   "nom": "Monster Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3417734530616"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9102222066824",
+   "nom": "Chocolate Mousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9102222066824"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7092344444773",
+   "nom": "Nøttesjokolade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7092344444773"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-21917868",
+   "nom": "Monster Energy Lo-Carb",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/21917868"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847893110",
+   "nom": "Monster Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847893110"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001472",
+   "nom": "Aussie Lemonade Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001472"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013943468",
+   "nom": "monster the doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013943468"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784904046",
+   "nom": "Monster Full Throttle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784904046"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7350040128589",
+   "nom": "Red Meat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7350040128589"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046135791",
+   "nom": "Monster zero chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046135791"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038702",
+   "nom": "Monter Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038702"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847898375",
+   "nom": "Monster Zero Sugar Big mouth",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847898375"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-6430078317436",
+   "nom": "Rehab Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6430078317436"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0192029680780",
+   "nom": "Monster Pipenile Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0192029680780"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7798422620076",
+   "nom": "Monster Reserve Sabor Ananá",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 473",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7798422620076"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-03675930",
+   "nom": "MONSTER ENERGY ULTRA ZERO SUCRE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03675930"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-3908782230646",
+   "nom": "Monster Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3908782230646"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0007084789933",
+   "nom": "Monster Electric Blue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0007084789933"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-6430057695777",
+   "nom": "Monster VR46",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6430057695777"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847899594",
+   "nom": "Monster + Juice - Bad Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847899594"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036695241",
+   "nom": "Aussie Style Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036695241"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784912249",
+   "nom": "JUICED MONSTER ENERGY + JUICE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784912249"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784918197",
+   "nom": "monarch energiaital",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784918197"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046146025",
+   "nom": "Monster Zero Calorie Syrup Salty Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 425 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046146025"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090035300895",
+   "nom": "Monster Protein Chips Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090035300895"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046130420",
+   "nom": "Monster Lavkarbo Brød",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046130420"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500418",
+   "nom": "White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500418"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635693",
+   "nom": "ice tee zitrone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635693"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947541160",
+   "nom": "ultra rosa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947541160"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046140085",
+   "nom": "Monster Lavkarbo Proteinbrød Miks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046140085"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090035300918",
+   "nom": "Monster Lavkarbo Protein Chips Sea Salt & Pepper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090035300918"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784901366",
+   "nom": "strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784901366"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212256",
+   "nom": "fiesta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212256"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7798422620397",
+   "nom": "white Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7798422620397"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784913901",
+   "nom": "JUICED MONSTER MONARCH PEACH NECTARINE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784913901"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013943888",
+   "nom": "4 Pack Original Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4X500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013943888"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751219033",
+   "nom": "Monster Energy Ultra Green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751219033"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784917862",
+   "nom": "monster ultra fiesta mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784917862"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784919897",
+   "nom": "Punch Monster Rio Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784919897"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784910467",
+   "nom": "Monster Energy Valentino Rossi Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784910467"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7798422620694",
+   "nom": "PUNCH MONSTER ENERGY",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7798422620694"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635808",
+   "nom": "Monster Ultra White",
+   "assemblage": "Union Européenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635808"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896625409",
+   "nom": "Lewis Hamilton Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896625409"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751216520",
+   "nom": "Energy Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751216520"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546844",
+   "nom": "Monster nitro cosmic peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546844"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013947565",
+   "nom": "Monster Energy - Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013947565"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547483",
+   "nom": "Ultra Peachy Keen",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547483"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784902578",
+   "nom": "Rio punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784902578"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215011",
+   "nom": "Monster zéro mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215011"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784901090",
+   "nom": "Monster Punch - Rio Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784901090"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545724",
+   "nom": "Ultra Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545724"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214847",
+   "nom": "Monster Energy Pacific Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214847"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122899",
+   "nom": "Pacific Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122899"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544215",
+   "nom": "Monster Juiced Tropical Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544215"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847896210",
+   "nom": "Monster Energy Ultra Fantasia Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847896210"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947543508",
+   "nom": "Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947543508"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639128051",
+   "nom": "monster energy ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639128051"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784901007",
+   "nom": "Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784901007"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-6974497110051",
+   "nom": "Pink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6974497110051"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126125",
+   "nom": "Monster pacific punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126125"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639128709",
+   "nom": "Monster - Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639128709"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517883560",
+   "nom": "Mega Monster Energy Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 553ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517883560"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847022015",
+   "nom": "monster energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 473 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847022015"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866000772",
+   "nom": "Monster Pipeline Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866000772"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847813088",
+   "nom": "Java coffre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 444 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847813088"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847027249",
+   "nom": "Java Monster Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 444 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847027249"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038436",
+   "nom": "Strawberry Lemonade Monster Rehab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 15.5 ounce",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038436"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784900000",
+   "nom": "Nitro Super Dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784900000"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-00050050",
+   "nom": "Monster punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00050050"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751216193",
+   "nom": "energy drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751216193"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013944656",
+   "nom": "Bad Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013944656"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546110",
+   "nom": "Monster reserve watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546110"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544451",
+   "nom": "Ultra fiesta mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544451"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013949828",
+   "nom": "E MONARCH PEACH NECTARINE JUICE TONST ERGY + JUICE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013949828"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847890300",
+   "nom": "Monster Juice Monarch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847890300"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337501972",
+   "nom": "Monster Energy Ultra (zero zucker)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337501972"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896621814",
+   "nom": "Monster ultra watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896621814"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060608745449",
+   "nom": "Monster Reign Total Body Fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060608745449"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896623832",
+   "nom": "Monster Energy Ultra Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896623832"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060608745470",
+   "nom": "Monster Reign Razzle Berry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060608745470"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212812",
+   "nom": "Monster Energy Ultra Fiesta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212812"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896627014",
+   "nom": "White pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896627014"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624990",
+   "nom": "monster juiced",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624990"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037989",
+   "nom": "Monster Energy Ultra Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037989"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896620145",
+   "nom": "Monster Energy Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896620145"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947540620",
+   "nom": "aussie style lemonade energy +juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947540620"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542419",
+   "nom": "Juiced Monster Aussie Style Lemonade Energy + Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542419"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335634153",
+   "nom": "Mega monster energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 553ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335634153"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624426",
+   "nom": "Ultra Gold Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624426"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624808",
+   "nom": "Ultra Golden Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624808"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542440",
+   "nom": "Ultra Black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542440"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896625607",
+   "nom": "Monster Energy - Lewis Hamilton Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896625607"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335638878",
+   "nom": "Ministerio cero azúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335638878"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947548800",
+   "nom": "Monster Energy Reserve Orange Dreamsicle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947548800"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947543447",
+   "nom": "Ultra paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947543447"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847018926",
+   "nom": "Ultra Red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847018926"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033967",
+   "nom": "monster energy mango loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033967"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9323795000071",
+   "nom": "Monster Health Food Monster Muesli Sports Muesli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 700g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9323795000071"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214854",
+   "nom": "Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214854"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947541405",
+   "nom": "Ultra Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947541405"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544277",
+   "nom": "monster energie ultra watermelon 500ml can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544277"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847021520",
+   "nom": "Rehab Monster Peach Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 15.5 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847021520"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751210665",
+   "nom": "Ultra Violet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751210665"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947540040",
+   "nom": "Pipeline punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947540040"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544574",
+   "nom": "Monster Energy Ultra Gold Ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544574"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013940221",
+   "nom": "monster Orange Dreamsicle Reserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013940221"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038672",
+   "nom": "Bebida Monster Energy Mango Loco x 473Ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 473Ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038672"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699239",
+   "nom": "Rehab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 5dl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699239"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847028147",
+   "nom": "Monster Aussie Style Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847028147"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847026662",
+   "nom": "Monster java loca moca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847026662"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847890805",
+   "nom": "Orange Creams Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 16 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847890805"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001267",
+   "nom": "Monster Energy Drink Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001267"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546172",
+   "nom": "Munster energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546172"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547360",
+   "nom": "Monster KHAOTIC tropical orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547360"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545960",
+   "nom": "Pacific punch monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545960"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036694343",
+   "nom": "Monster Energy Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036694343"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001120",
+   "nom": "Java Monster Super Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001120"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013942607",
+   "nom": "Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013942607"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5940568000072",
+   "nom": "Juiced Monster Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5940568000072"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847036272",
+   "nom": "Monster mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847036272"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896626741",
+   "nom": "The Doctor Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896626741"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847897781",
+   "nom": "Juice Pipeline Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847897781"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546578",
+   "nom": "Monster Energy Ultra Fiesta Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546578"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212041",
+   "nom": "Monster Energy 10er-Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 5 L (10 x 0,5 L)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212041"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517883638",
+   "nom": "Energydrink &quot;Ultra Violet&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517883638"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1007084701235",
+   "nom": "Bebida Energética",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1007084701235"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751213901",
+   "nom": "Monster Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751213901"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126712",
+   "nom": "Monster HydroSport Super Fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126712"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500609",
+   "nom": "Monster Energy Ultra Red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500609"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166697549",
+   "nom": "Monster Absolutely zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166697549"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126743",
+   "nom": "Monster Hydrosport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126743"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1007084703703",
+   "nom": "Monster  Energy - Ultra Bunrise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1007084703703"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122646",
+   "nom": "Monster zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122646"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751218616",
+   "nom": "Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751218616"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517885069",
+   "nom": "Monster hydro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517885069"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337506533",
+   "nom": "energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337506533"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507639",
+   "nom": "Monster Energy Ultra Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507639"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517888237",
+   "nom": "Bebida de café expreso con leche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517888237"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639120949",
+   "nom": "Espresso Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639120949"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751216070",
+   "nom": "Monarch",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751216070"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635273",
+   "nom": "Monster Rehab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635273"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126804",
+   "nom": "Punch monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126804"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896622644",
+   "nom": "Monster Juiced Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896622644"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542921",
+   "nom": "Aussie Lemonade Juiced",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542921"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751213383",
+   "nom": "Monster Energy Monarch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751213383"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500456",
+   "nom": "Energy Ultra Sunrise",
+   "assemblage": "Europäische Union",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500456"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639120918",
+   "nom": "Espresso triple shot",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639120918"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517889241",
+   "nom": "Monster Ultra Blue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517889241"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639123797",
+   "nom": "Monster Energy - Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639123797"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751218036",
+   "nom": "Monster Energy - Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751218036"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517880613",
+   "nom": "Monster Punch MIXXD",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517880613"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639124541",
+   "nom": "Hydrosport super fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639124541"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215691",
+   "nom": "Mango loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215691"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751219002",
+   "nom": "Monster Mule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751219002"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751210986",
+   "nom": "Monster Super Fuel Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751210986"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547674",
+   "nom": "Monster Nitro Pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547674"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947549074",
+   "nom": "Monster Zero Sugar (green)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947549074"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751211174",
+   "nom": "Monster super fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751211174"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896628790",
+   "nom": "Reserve Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896628790"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896628851",
+   "nom": "Reserve white Pinneapple",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896628851"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896622309",
+   "nom": "Assault",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 5 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896622309"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517884567",
+   "nom": "Rehab Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517884567"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335636263",
+   "nom": "Mega Monster Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 553ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335636263"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122387",
+   "nom": "Vanilla Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122387"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508988",
+   "nom": "Monster Energy Lewis Hamilton",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508988"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335633521",
+   "nom": "Monster Energy The Doctor",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335633521"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335634849",
+   "nom": "Monster Energy - The doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335634849"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751211525",
+   "nom": "Monster Energy Juiced - 4 Pack",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 4 x 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751211525"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166696498",
+   "nom": "Monster Energy - 4 Pack",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 4 x 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166696498"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126187",
+   "nom": "Expresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126187"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751211662",
+   "nom": "Monstre Mule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751211662"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9557062403795",
+   "nom": "Monster Rice Sticks Cheese Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9557062403795"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166696269",
+   "nom": "Monster 0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166696269"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896621869",
+   "nom": "Ultra Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896621869"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215844",
+   "nom": "monster energy drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215844"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542983",
+   "nom": "Monster aussie lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542983"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847896753",
+   "nom": "Zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847896753"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545489",
+   "nom": "Aussie lemonade monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545489"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639121823",
+   "nom": "Juiced",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639121823"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507332",
+   "nom": "Monster Ultra Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507332"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508872",
+   "nom": "Monster - Lewis Hamilton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508872"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847022022",
+   "nom": "Juice Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847022022"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517887575",
+   "nom": "Punch mønster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517887575"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507202",
+   "nom": "Monster Bebida energetica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507202"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517889210",
+   "nom": "Monster Energy Ultra Blue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517889210"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847009559",
+   "nom": "Monster Ripper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847009559"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166692537",
+   "nom": "Monster energy juiced ripper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166692537"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508810",
+   "nom": "Lewis hamilton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508810"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508155",
+   "nom": "Monster Energy Ultra 4 Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 4 x 500ml e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508155"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038450",
+   "nom": "Boisson énergisante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 473 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038450"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896623894",
+   "nom": "Monster Ultra Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896623894"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545694",
+   "nom": "energy zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545694"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090042481625",
+   "nom": "Ultra White, Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090042481625"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013944717",
+   "nom": "Monster Bad Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013944717"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166696382",
+   "nom": "Monster Assault",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166696382"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547278",
+   "nom": "Nitro Cosmic Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547278"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546028",
+   "nom": "Monster Energy Ultra Black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546028"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635747",
+   "nom": "Monster Energy Ultra Sunrise",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635747"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507035",
+   "nom": "Monster rehab tea lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507035"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517882709",
+   "nom": "Hydro Manic Melon(R)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 550ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517882709"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517888329",
+   "nom": "Espresso Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517888329"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639124848",
+   "nom": "hydrosport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639124848"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126866",
+   "nom": "Monster energy sero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126866"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639127498",
+   "nom": "Monster Energy Juiced Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639127498"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060608743155",
+   "nom": "Reign Melon Mania",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060608743155"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215813",
+   "nom": "punch monster mixxd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215813"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847039020",
+   "nom": "Monster rehab strawberry lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847039020"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-15756596",
+   "nom": "Juiced Monster Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15756596"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751217459",
+   "nom": "Ultra Fiesta Mango 4 Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751217459"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631121",
+   "nom": "Monster Energy Absolutely Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 0,5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631121"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847030386",
+   "nom": "Reserve white pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 473 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847030386"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060296681326",
+   "nom": "Monster zéro Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060296681326"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546462",
+   "nom": "Energy Ultra Pradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546462"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214069",
+   "nom": "Mulle Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214069"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214106",
+   "nom": "Punch Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214106"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544604",
+   "nom": "Aussie Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544604"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060296688790",
+   "nom": "Reserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060296688790"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896621708",
+   "nom": "Monster Assault energy drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896621708"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212065",
+   "nom": "MONSTER ENERGY - Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212065"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545939",
+   "nom": "Monster monarch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545939"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001243",
+   "nom": "Monster Energy Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001243"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036691083",
+   "nom": "khaos japon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036691083"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545816",
+   "nom": "Monster RESERVE White Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545816"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545458",
+   "nom": "Mixxd punch energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545458"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517884659",
+   "nom": "Monster ultra red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517884659"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125760",
+   "nom": "Monster HidroSport (verde)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125760"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508759",
+   "nom": "Monster - Lewis Hamilton - 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508759"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013943772",
+   "nom": "Monster Ultra Peachy Keen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013943772"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-2000000059816",
+   "nom": "Monster Juiced Energy + Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000059816"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699260",
+   "nom": "ABSOLUTELY ZERO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699260"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631275",
+   "nom": "Monster Energy Assault Cans 50CL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631275"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500753",
+   "nom": "Monster Ultra Sunrise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500753"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337501507",
+   "nom": "Monster-energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337501507"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337509862",
+   "nom": "hydro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337509862"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337509954",
+   "nom": "Hydro Tropical Thunder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337509954"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517887544",
+   "nom": "Monster Energy Ultra Violet",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517887544"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517882730",
+   "nom": "Monster hydro mean green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 550 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517882730"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699956",
+   "nom": "Monster Absolute Zero Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699956"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631008",
+   "nom": "Monster zero 50cl édition call of duty",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631008"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847027867",
+   "nom": "Caffé Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847027867"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517888350",
+   "nom": "Expresso Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517888350"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337503464",
+   "nom": "Monster fury",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337503464"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517886301",
+   "nom": "Monster Melon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517886301"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507806",
+   "nom": "LH-44",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507806"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847032991",
+   "nom": "Dragón Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847032991"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033066",
+   "nom": "Monster mule gingerade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033066"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033783",
+   "nom": "Monster thé vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033783"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125364",
+   "nom": "Black monster",
+   "assemblage": "ООО &quot;Кола Эйчбиси Евразия&quot;",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 0,449 л",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125364"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125647",
+   "nom": "Espresso Monster salted caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125647"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126453",
+   "nom": "Monster MXXD",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126453"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517889791",
+   "nom": "Monster Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517889791"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037804",
+   "nom": "Monster Energy Ultra Gold, Sugar Free",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 can (16 oz)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037804"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337501637",
+   "nom": "Monster Ultra Red PMP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337501637"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037613",
+   "nom": "Monster Papillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037613"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517882853",
+   "nom": "Monster Hydro Tropical Thunder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517882853"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337509602",
+   "nom": "Energy ultra citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337509602"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-18278624",
+   "nom": "Monstre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18278624"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033745",
+   "nom": "monster hydro blue ice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033745"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847035107",
+   "nom": "Monster Java 300 French Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 15oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847035107"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-19149400",
+   "nom": "Espresso vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19149400"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037699",
+   "nom": "Rehab monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037699"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122707",
+   "nom": "Monster white ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122707"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046146735",
+   "nom": "Proteinbar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046146735"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847811237",
+   "nom": "Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847811237"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847018827",
+   "nom": "Zero Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847018827"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517884437",
+   "nom": "Monster Energydrink 4er Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517884437"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-95273228",
+   "nom": "Moster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/95273228"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125616",
+   "nom": "Monster espresso and milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125616"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896626123",
+   "nom": "Energy drink doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896626123"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896623184",
+   "nom": "monster assolut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896623184"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-10640637",
+   "nom": "Juiced - Mango loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10640637"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847030102",
+   "nom": "Monster - Ultra Paradise (Zero Sugar)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847030102"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896625799",
+   "nom": "Monster Lewis Hamilton zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896625799"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847029120",
+   "nom": "Mean Bean",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6 x 11 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847029120"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0810117130039",
+   "nom": "The Beast Hard White Haze",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0810117130039"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847005407",
+   "nom": "monster tangerine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 16 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847005407"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-00921800",
+   "nom": "Energético de melancia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00921800"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036693667",
+   "nom": "Monster energy super fuel superior hydration killer kiwi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036693667"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1008536544066",
+   "nom": "Monster Ultra Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1008536544066"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166698959",
+   "nom": "Monster rehab tea lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166698959"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699161",
+   "nom": "original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699161"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470220224",
+   "nom": "Energético Juice Monster Khaos Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470220224"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470223058",
+   "nom": "Energético Diet Monster Absolutely Zero Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470223058"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470333016",
+   "nom": "Energético Juice Monster Mango Loco Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470333016"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470339292",
+   "nom": "Energético Ultra Violet Zero Açúcar Monster Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470339292"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0708470348034",
+   "nom": "Energético Lemon Monster Dragon Ice Tea Lata 473ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0708470348034"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-10848036",
+   "nom": "Monster Energy Zero Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10848036"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0810117130060",
+   "nom": "Alcohol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0810117130060"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4060866625577",
+   "nom": "Monster hamilton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060866625577"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036694305",
+   "nom": "Monster Mango Loco Energy Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036694305"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847892540",
+   "nom": "Rehab Monster Tea + Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847892540"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847893530",
+   "nom": "Monster energy zero sugar taurine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847893530"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4062139016235",
+   "nom": "Blueberry Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139016235"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5099238890076",
+   "nom": "Monster Energy Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5099238890076"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9102222013309",
+   "nom": "Protein pannekaker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9102222013309"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508841",
+   "nom": "Monster energy LH44",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508841"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166694050",
+   "nom": "Monster X-Presso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166694050"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847812968",
+   "nom": "Monster Energy Heavy Metal 32oz 018",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847812968"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036692943",
+   "nom": "Monster Energy Dragon Chinese Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036692943"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631961",
+   "nom": "Monster assault energy og",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631961"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624945",
+   "nom": "Monster - Juiced Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624945"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036693483",
+   "nom": "Monster Energy Pipeline Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036693483"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0051325110462",
+   "nom": "Noodle Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0051325110462"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122417",
+   "nom": "Espresso And Milk Triple Shot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122417"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1076231877857",
+   "nom": "Monster Energy lo-cal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1076231877857"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046145554",
+   "nom": "Sjokoladedrikk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046145554"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013948395",
+   "nom": "Orange Dreamsicle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013948395"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7579426636290",
+   "nom": "Monstee Energy Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7579426636290"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784902547",
+   "nom": "Monster - Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784902547"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036692134",
+   "nom": "Monster Energy Ultra White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036692134"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-8064545632777",
+   "nom": "The Doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8064545632777"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847898672",
+   "nom": "Java Monster Irlandais Crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 444ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847898672"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001335",
+   "nom": "Monster Import",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001335"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-8720938893186",
+   "nom": "Rehab Tea + Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720938893186"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-6054209324164",
+   "nom": "Juiced Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6054209324164"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-3417734530616",
+   "nom": "Monster Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3417734530616"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9102222066824",
+   "nom": "Chocolate Mousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9102222066824"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7092344444773",
+   "nom": "Nøttesjokolade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7092344444773"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-21917868",
+   "nom": "Monster Energy Lo-Carb",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/21917868"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847893110",
+   "nom": "Monster Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847893110"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001472",
+   "nom": "Aussie Lemonade Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001472"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013943468",
+   "nom": "monster the doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013943468"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784904046",
+   "nom": "Monster Full Throttle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784904046"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7350040128589",
+   "nom": "Red Meat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7350040128589"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090046135791",
+   "nom": "Monster zero chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090046135791"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038702",
+   "nom": "Monter Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038702"
+  }
+ ]
+}
