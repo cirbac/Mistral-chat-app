@@ -8,7 +8,9 @@
    {
     "id": "medias-streaming-et-culture-arte",
     "groupe": "Arte",
-    "marques": [],
+    "marques": [
+     "Arte"
+    ],
     "siege": "France / Allemagne",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -22,7 +24,10 @@
    {
     "id": "medias-streaming-et-culture-groupe-tf1",
     "groupe": "Groupe TF1",
-    "marques": [],
+    "marques": [
+     "TF1",
+     "TF1+"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -36,7 +41,10 @@
    {
     "id": "medias-streaming-et-culture-groupe-m6",
     "groupe": "Groupe M6",
-    "marques": [],
+    "marques": [
+     "M6",
+     "6play"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -50,7 +58,10 @@
    {
     "id": "medias-streaming-et-culture-groupe-canal",
     "groupe": "Groupe Canal+",
-    "marques": [],
+    "marques": [
+     "Canal+",
+     "myCanal"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -64,7 +75,9 @@
    {
     "id": "medias-streaming-et-culture-sony-crunchyroll",
     "groupe": "Sony (Crunchyroll)",
-    "marques": [],
+    "marques": [
+     "Crunchyroll"
+    ],
     "siege": "Japon (groupe)",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -78,39 +91,13 @@
    {
     "id": "medias-streaming-et-culture-netflix",
     "groupe": "Netflix",
-    "marques": [],
+    "marques": [
+     "Netflix États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
     "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-streaming-et-culture-disney-amazon-apple",
-    "groupe": "Disney, Amazon, Apple",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-streaming-et-culture-apple-google-amazon",
-    "groupe": "Apple, Google, Amazon",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Musique, livres audio et radio",
     "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
@@ -120,7 +107,10 @@
    {
     "id": "medias-streaming-et-culture-tencent-music",
     "groupe": "Tencent Music",
-    "marques": [],
+    "marques": [
+     "QQ Music",
+     "Kugou"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -146,6 +136,11 @@
    "culture",
    "presse",
    "recherche en ligne"
+  ],
+  "aliases": [
+   "Paramount",
+   "Warner Bros. Discovery",
+   "WBD"
   ]
  }
 ]

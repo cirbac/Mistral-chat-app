@@ -8,7 +8,9 @@
    {
     "id": "jouets-et-jeux-video-schleich",
     "groupe": "Schleich",
-    "marques": [],
+    "marques": [
+     "Schleich"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -22,7 +24,11 @@
    {
     "id": "jouets-et-jeux-video-simba-dickie-group",
     "groupe": "Simba Dickie Group",
-    "marques": [],
+    "marques": [
+     "Smoby",
+     "Majorette",
+     "Dickie"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -36,7 +42,11 @@
    {
     "id": "jouets-et-jeux-video-asmodee",
     "groupe": "Asmodee",
-    "marques": [],
+    "marques": [
+     "Catan",
+     "Dobble",
+     "Ticket to Ride Suède (siège)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -50,7 +60,9 @@
    {
     "id": "jouets-et-jeux-video-djeco",
     "groupe": "Djeco",
-    "marques": [],
+    "marques": [
+     "Djeco"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -64,7 +76,9 @@
    {
     "id": "jouets-et-jeux-video-moulin-roty",
     "groupe": "Moulin Roty",
-    "marques": [],
+    "marques": [
+     "Moulin Roty"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -78,7 +92,11 @@
    {
     "id": "jouets-et-jeux-video-spin-master",
     "groupe": "Spin Master",
-    "marques": [],
+    "marques": [
+     "Pat'Patrouille",
+     "Bakugan",
+     "Meccano"
+    ],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -92,7 +110,10 @@
    {
     "id": "jouets-et-jeux-video-bandai-namco",
     "groupe": "Bandai Namco",
-    "marques": [],
+    "marques": [
+     "Bandai",
+     "Tamagotchi"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -106,7 +127,9 @@
    {
     "id": "jouets-et-jeux-video-sega-sammy",
     "groupe": "Sega Sammy",
-    "marques": [],
+    "marques": [
+     "Sega"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -120,7 +143,10 @@
    {
     "id": "jouets-et-jeux-video-takara-tomy",
     "groupe": "Takara Tomy",
-    "marques": [],
+    "marques": [
+     "Tomica",
+     "Takara Tomy"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -132,23 +158,12 @@
     "produits": []
    },
    {
-    "id": "jouets-et-jeux-video-mattel-hasbro",
-    "groupe": "Mattel, Hasbro",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Jouets et jeux de société",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "jouets-et-jeux-video-pop-mart",
     "groupe": "Pop Mart",
-    "marques": [],
+    "marques": [
+     "Labubu",
+     "Molly"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -162,7 +177,9 @@
    {
     "id": "jouets-et-jeux-video-paradox-interactive",
     "groupe": "Paradox Interactive",
-    "marques": [],
+    "marques": [
+     "Crusader Kings Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -176,7 +193,10 @@
    {
     "id": "jouets-et-jeux-video-remedy",
     "groupe": "Remedy",
-    "marques": [],
+    "marques": [
+     "Alan Wake",
+     "Control"
+    ],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
@@ -190,7 +210,9 @@
    {
     "id": "jouets-et-jeux-video-embracer-group",
     "groupe": "Embracer Group",
-    "marques": [],
+    "marques": [
+     "Embracer Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -204,7 +226,10 @@
    {
     "id": "jouets-et-jeux-video-entertainment",
     "groupe": "Entertainment",
-    "marques": [],
+    "marques": [
+     "Focus",
+     "Dotemu"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -218,7 +243,9 @@
    {
     "id": "jouets-et-jeux-video-larian-studios",
     "groupe": "Larian Studios",
-    "marques": [],
+    "marques": [
+     "Baldur's Gate 3"
+    ],
     "siege": "Belgique",
     "siege_pays": "BE",
     "statut": "rang1",
@@ -232,7 +259,11 @@
    {
     "id": "jouets-et-jeux-video-nintendo",
     "groupe": "Nintendo",
-    "marques": [],
+    "marques": [
+     "Switch",
+     "Mario",
+     "Zelda"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -246,7 +277,9 @@
    {
     "id": "jouets-et-jeux-video-sony-interactive-entertainment",
     "groupe": "Sony Interactive Entertainment",
-    "marques": [],
+    "marques": [
+     "PlayStation"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -260,7 +293,10 @@
    {
     "id": "jouets-et-jeux-video-capcom",
     "groupe": "Capcom",
-    "marques": [],
+    "marques": [
+     "Resident Evil",
+     "Monster Hunter"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -274,7 +310,10 @@
    {
     "id": "jouets-et-jeux-video-square-enix",
     "groupe": "Square Enix",
-    "marques": [],
+    "marques": [
+     "Final Fantasy",
+     "Dragon Quest"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -288,7 +327,10 @@
    {
     "id": "jouets-et-jeux-video-konami",
     "groupe": "Konami",
-    "marques": [],
+    "marques": [
+     "Konami",
+     "eFootball"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -302,7 +344,9 @@
    {
     "id": "jouets-et-jeux-video-nexon",
     "groupe": "Nexon",
-    "marques": [],
+    "marques": [
+     "MapleStory"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -316,7 +360,10 @@
    {
     "id": "jouets-et-jeux-video-ncsoft",
     "groupe": "NCSoft",
-    "marques": [],
+    "marques": [
+     "Lineage",
+     "Guild Wars Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -330,7 +377,11 @@
    {
     "id": "jouets-et-jeux-video-ubisoft",
     "groupe": "Ubisoft",
-    "marques": [],
+    "marques": [
+     "Assassin's Creed",
+     "Far Cry",
+     "Rainbow Six"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -348,7 +399,10 @@
    {
     "id": "jouets-et-jeux-video-epic-games",
     "groupe": "Epic Games",
-    "marques": [],
+    "marques": [
+     "Fortnite",
+     "Epic Games Store États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -362,7 +416,10 @@
    {
     "id": "jouets-et-jeux-video-take-two-interactive",
     "groupe": "Take-Two Interactive",
-    "marques": [],
+    "marques": [
+     "Rockstar",
+     "2K États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -376,7 +433,11 @@
    {
     "id": "jouets-et-jeux-video-tencent",
     "groupe": "Tencent",
-    "marques": [],
+    "marques": [
+     "Riot Games",
+     "Supercell",
+     "Sumo Digital"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -392,7 +453,9 @@
    {
     "id": "jouets-et-jeux-video-mihoyo-hoyoverse",
     "groupe": "miHoYo (HoYoverse)",
-    "marques": [],
+    "marques": [
+     "Genshin Impact"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -406,7 +469,9 @@
    {
     "id": "jouets-et-jeux-video-netease",
     "groupe": "NetEase",
-    "marques": [],
+    "marques": [
+     "NetEase Games"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -428,6 +493,12 @@
    "console",
    "jeu de société",
    "gaming"
+  ],
+  "aliases": [
+   "Valve",
+   "Steam",
+   "Electronic Arts",
+   "EA"
   ]
  }
 ]

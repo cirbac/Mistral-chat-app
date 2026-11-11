@@ -1,269 +1,16 @@
 [
  {
   "num": "09",
-  "id": "hygiene-beaute-et-sante",
-  "nom": "Hygiène, beauté et santé",
+  "id": "hygiene-sante",
+  "nom": "Hygiène et santé",
   "note": "",
   "groupes": [
    {
-    "id": "hygiene-beaute-et-sante-l-oreal",
-    "groupe": "L'Oréal",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-pierre-fabre",
-    "groupe": "Pierre Fabre",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-clarins",
-    "groupe": "Clarins",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-groupe-rocher",
-    "groupe": "Groupe Rocher",
-    "marques": [],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-beiersdorf",
-    "groupe": "Beiersdorf",
-    "marques": [],
-    "siege": "Allemagne",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-henkel",
-    "groupe": "Henkel",
-    "marques": [],
-    "siege": "Allemagne",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-unilever",
-    "groupe": "Unilever",
-    "marques": [],
-    "siege": "Royaume-Uni",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-reckitt",
-    "groupe": "Reckitt",
-    "marques": [],
-    "siege": "Royaume-Uni",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-essity",
-    "groupe": "Essity",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-shiseido",
-    "groupe": "Shiseido",
-    "marques": [],
-    "siege": "Japon",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-kao",
-    "groupe": "Kao",
-    "marques": [],
-    "siege": "Japon",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-amorepacific",
-    "groupe": "Amorepacific",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Beauté, hygiène et entretien",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-opella",
-    "groupe": "Opella",
-    "marques": [],
-    "siege": "France (siège)",
-    "siege_pays": "FR",
-    "statut": "vigilance",
-    "sous_categorie": "Beauté et hygiène, suite",
-    "commentaire": "CD&R (fonds américain) détient 50 %, Sanofi 48,2 % et Bpifrance 1,8 % [22] . Volumes minimaux de production en France garantis pour Doliprane, Lanzor et Aspegic [23] .",
-    "sources": [
-     22,
-     23
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-royal-philips",
-    "groupe": "Royal Philips",
-    "marques": [],
-    "siege": "Pays-Bas",
-    "siege_pays": "NL",
-    "statut": "rang1",
-    "sous_categorie": "Beauté et hygiène, suite",
-    "commentaire": "Philips Personal Health. Distinct de TP Vision (téléviseurs) et de Versuni (électroménager), traités dans d'autres sections.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-kose",
-    "groupe": "Kosé",
-    "marques": [],
-    "siege": "Japon",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Beauté et hygiène, suite",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-pola-orbis",
-    "groupe": "Pola Orbis",
-    "marques": [],
-    "siege": "Japon",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Beauté et hygiène, suite",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-lg-h-h",
-    "groupe": "LG H&H",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Beauté et hygiène, suite",
-    "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hygiene-beaute-et-sante-estee-lauder-coty",
-    "groupe": "Estée Lauder, Coty",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Beauté et hygiène, suite",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "hygiene-beaute-et-sante-servier",
     "groupe": "Servier",
-    "marques": [],
+    "marques": [
+     "Servier"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -277,7 +24,9 @@
    {
     "id": "hygiene-beaute-et-sante-boiron",
     "groupe": "Boiron",
-    "marques": [],
+    "marques": [
+     "Boiron"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -291,7 +40,10 @@
    {
     "id": "hygiene-beaute-et-sante-bayer",
     "groupe": "Bayer",
-    "marques": [],
+    "marques": [
+     "Bayer",
+     "Aspirine"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -305,7 +57,9 @@
    {
     "id": "hygiene-beaute-et-sante-novartis",
     "groupe": "Novartis",
-    "marques": [],
+    "marques": [
+     "Novartis"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -319,7 +73,9 @@
    {
     "id": "hygiene-beaute-et-sante-roche",
     "groupe": "Roche",
-    "marques": [],
+    "marques": [
+     "Roche"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -333,7 +89,9 @@
    {
     "id": "hygiene-beaute-et-sante-novo-nordisk",
     "groupe": "Novo Nordisk",
-    "marques": [],
+    "marques": [
+     "Novo Nordisk"
+    ],
     "siege": "Danemark",
     "siege_pays": "DK",
     "statut": "rang1",
@@ -347,7 +105,9 @@
    {
     "id": "hygiene-beaute-et-sante-gsk",
     "groupe": "GSK",
-    "marques": [],
+    "marques": [
+     "GSK"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -361,7 +121,10 @@
    {
     "id": "hygiene-beaute-et-sante-haleon",
     "groupe": "Haleon",
-    "marques": [],
+    "marques": [
+     "Sensodyne",
+     "Voltarène"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -375,7 +138,9 @@
    {
     "id": "hygiene-beaute-et-sante-takeda",
     "groupe": "Takeda",
-    "marques": [],
+    "marques": [
+     "Takeda"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -388,20 +153,30 @@
    }
   ],
   "sous_categories": [
-   "Beauté, hygiène et entretien",
    "Santé grand public",
-   "Beauté et hygiène, suite",
    "Laboratoires et santé grand public, suite"
   ],
   "keywords": [
    "hygiène",
-   "beauté",
-   "cosmétique",
    "santé",
    "pharmacie",
    "dentifrice",
-   "shampoing",
-   "soin"
+   "savon",
+   "déodorant",
+   "protection solaire",
+   "médicament",
+   "laboratoire",
+   "soins"
+  ],
+  "aliases": [
+   "Procter & Gamble",
+   "Colgate-Palmolive",
+   "Johnson & Johnson",
+   "Pfizer",
+   "Kenvue",
+   "Astellas",
+   "Daiichi Sankyo",
+   "Otsuka"
   ]
  }
 ]

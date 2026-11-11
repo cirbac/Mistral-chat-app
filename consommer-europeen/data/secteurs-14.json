@@ -8,7 +8,11 @@
    {
     "id": "banque-assurance-et-epargne-societe-generale",
     "groupe": "Société Générale",
-    "marques": [],
+    "marques": [
+     "Société Générale",
+     "Boursorama",
+     "Crédit du Nord"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -22,7 +26,10 @@
    {
     "id": "banque-assurance-et-epargne-credit-mutuel-alliance-federale",
     "groupe": "Crédit Mutuel Alliance Fédérale",
-    "marques": [],
+    "marques": [
+     "Crédit Mutuel",
+     "CIC"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -36,7 +43,9 @@
    {
     "id": "banque-assurance-et-epargne-la-banque-postale",
     "groupe": "La Banque Postale",
-    "marques": [],
+    "marques": [
+     "La Banque Postale"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -50,7 +59,9 @@
    {
     "id": "banque-assurance-et-epargne-saxo-bank",
     "groupe": "Saxo Bank",
-    "marques": [],
+    "marques": [
+     "Saxo"
+    ],
     "siege": "Danemark",
     "siege_pays": "DK",
     "statut": "rang1",
@@ -67,7 +78,9 @@
    {
     "id": "banque-assurance-et-epargne-revolut",
     "groupe": "Revolut",
-    "marques": [],
+    "marques": [
+     "Revolut"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -81,7 +94,9 @@
    {
     "id": "banque-assurance-et-epargne-trade-republic",
     "groupe": "Trade Republic",
-    "marques": [],
+    "marques": [
+     "Trade Republic"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -95,7 +110,9 @@
    {
     "id": "banque-assurance-et-epargne-flatexdegiro",
     "groupe": "flatexDEGIRO",
-    "marques": [],
+    "marques": [
+     "DEGIRO"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -109,7 +126,9 @@
    {
     "id": "banque-assurance-et-epargne-qonto",
     "groupe": "Qonto",
-    "marques": [],
+    "marques": [
+     "Qonto (comptes professionnels)"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -126,7 +145,9 @@
    {
     "id": "banque-assurance-et-epargne-n26",
     "groupe": "N26",
-    "marques": [],
+    "marques": [
+     "N26"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "vigilance",
@@ -142,7 +163,9 @@
    {
     "id": "banque-assurance-et-epargne-lydia",
     "groupe": "Lydia",
-    "marques": [],
+    "marques": [
+     "Lydia"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -158,7 +181,10 @@
    {
     "id": "banque-assurance-et-epargne-ccf-my-money-group",
     "groupe": "CCF (My Money Group)",
-    "marques": [],
+    "marques": [
+     "CCF",
+     "ex-HSBC France"
+    ],
     "siege": "France (siège)",
     "siege_pays": "FR",
     "statut": "hors_zones",
@@ -175,7 +201,9 @@
    {
     "id": "banque-assurance-et-epargne-allianz",
     "groupe": "Allianz",
-    "marques": [],
+    "marques": [
+     "Allianz"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -189,7 +217,9 @@
    {
     "id": "banque-assurance-et-epargne-generali",
     "groupe": "Generali",
-    "marques": [],
+    "marques": [
+     "Generali"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -203,7 +233,10 @@
    {
     "id": "banque-assurance-et-epargne-groupama",
     "groupe": "Groupama",
-    "marques": [],
+    "marques": [
+     "Groupama",
+     "Gan"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -217,7 +250,9 @@
    {
     "id": "banque-assurance-et-epargne-maif",
     "groupe": "MAIF",
-    "marques": [],
+    "marques": [
+     "MAIF"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -231,7 +266,9 @@
    {
     "id": "banque-assurance-et-epargne-macif",
     "groupe": "Macif",
-    "marques": [],
+    "marques": [
+     "Macif"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -245,7 +282,9 @@
    {
     "id": "banque-assurance-et-epargne-matmut",
     "groupe": "Matmut",
-    "marques": [],
+    "marques": [
+     "Matmut"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -259,7 +298,11 @@
    {
     "id": "banque-assurance-et-epargne-covea",
     "groupe": "Covéa",
-    "marques": [],
+    "marques": [
+     "MMA",
+     "GMF",
+     "MAAF"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -273,7 +316,9 @@
    {
     "id": "banque-assurance-et-epargne-zurich",
     "groupe": "Zurich",
-    "marques": [],
+    "marques": [
+     "Zurich"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -287,7 +332,9 @@
    {
     "id": "banque-assurance-et-epargne-swiss-life",
     "groupe": "Swiss Life",
-    "marques": [],
+    "marques": [
+     "Swiss Life"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -301,7 +348,9 @@
    {
     "id": "banque-assurance-et-epargne-aviva",
     "groupe": "Aviva",
-    "marques": [],
+    "marques": [
+     "Aviva"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -315,7 +364,9 @@
    {
     "id": "banque-assurance-et-epargne-alan",
     "groupe": "Alan",
-    "marques": [],
+    "marques": [
+     "Alan"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -327,37 +378,11 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-tokio-marine-sompo-ms-ad",
-    "groupe": "Tokio Marine, Sompo, MS&AD",
-    "marques": [],
-    "siege": "Japon",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Assurance",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-et-epargne-samsung-life-samsung-fire",
-    "groupe": "Samsung Life, Samsung Fire",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Assurance",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "banque-assurance-et-epargne-ping-an",
     "groupe": "Ping An",
-    "marques": [],
+    "marques": [
+     "Ping An"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -371,7 +396,10 @@
    {
     "id": "banque-assurance-et-epargne-amundi",
     "groupe": "Amundi",
-    "marques": [],
+    "marques": [
+     "Amundi",
+     "Lyxor"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -385,7 +413,9 @@
    {
     "id": "banque-assurance-et-epargne-dws",
     "groupe": "DWS",
-    "marques": [],
+    "marques": [
+     "Xtrackers"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -399,7 +429,9 @@
    {
     "id": "banque-assurance-et-epargne-nomura-asset-management",
     "groupe": "Nomura Asset Management",
-    "marques": [],
+    "marques": [
+     "BNP Paribas Easy"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -441,7 +473,10 @@
    {
     "id": "banque-assurance-et-epargne-mirae-asset",
     "groupe": "Mirae Asset",
-    "marques": [],
+    "marques": [
+     "Mirae Asset",
+     "Global X Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -453,23 +488,11 @@
     "produits": []
    },
    {
-    "id": "banque-assurance-et-epargne-vanguard-state-street",
-    "groupe": "Vanguard, State Street",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "banque-assurance-et-epargne-satoshilabs",
     "groupe": "SatoshiLabs",
-    "marques": [],
+    "marques": [
+     "Trezor République tchèque"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -483,26 +506,14 @@
    {
     "id": "banque-assurance-et-epargne-binance",
     "groupe": "Binance",
-    "marques": [],
+    "marques": [
+     "Binance Je ne sais pas"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "vigilance",
     "sous_categorie": "Prestataires de services sur crypto-actifs",
     "commentaire": "Je ne sais pas où se situe le siège ni qui contrôle le capital. À vérifier dans le registre de l'AMF et auprès de l'entité concernée.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-et-epargne-kraken-coinbase",
-    "groupe": "Kraken, Coinbase",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Prestataires de services sur crypto-actifs",
-    "commentaire": "Hors de vos zones. Non revérifié pour Kraken.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],

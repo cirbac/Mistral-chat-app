@@ -8,7 +8,11 @@
    {
     "id": "pneumatiques-continental",
     "groupe": "Continental",
-    "marques": [],
+    "marques": [
+     "Continental",
+     "Barum",
+     "Semperit"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -22,7 +26,9 @@
    {
     "id": "pneumatiques-nokian-tyres",
     "groupe": "Nokian Tyres",
-    "marques": [],
+    "marques": [
+     "Nokian"
+    ],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
@@ -36,7 +42,9 @@
    {
     "id": "pneumatiques-pirelli",
     "groupe": "Pirelli",
-    "marques": [],
+    "marques": [
+     "Pirelli"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "vigilance",
@@ -53,7 +61,9 @@
    {
     "id": "pneumatiques-yokohama",
     "groupe": "Yokohama",
-    "marques": [],
+    "marques": [
+     "Yokohama"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -67,7 +77,9 @@
    {
     "id": "pneumatiques-toyo-tires",
     "groupe": "Toyo Tires",
-    "marques": [],
+    "marques": [
+     "Toyo"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -81,7 +93,10 @@
    {
     "id": "pneumatiques-hankook",
     "groupe": "Hankook",
-    "marques": [],
+    "marques": [
+     "Hankook",
+     "Laufenn Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -95,7 +110,9 @@
    {
     "id": "pneumatiques-nexen-tire",
     "groupe": "Nexen Tire",
-    "marques": [],
+    "marques": [
+     "Nexen Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",

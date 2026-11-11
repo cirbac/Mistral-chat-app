@@ -15,6 +15,7 @@ const IMAGES = {
   '07': 'assets/cats/07-1461749280684-dccba630e2f6.jpg',
   '08': 'assets/cats/08-1504674900247-0877df9cc836.jpg',
   '09': 'assets/cats/09-1556228720-195a672e8a03.jpg',
+  '09b': 'assets/cats/09b-1596462502278-27bfdc403348.jpg',
   '10': 'assets/cats/10-1441986300917-64674bd600d8.jpg',
   '11': 'assets/cats/11-1488646953014-85cb44e25828.jpg',
   '12': 'assets/cats/12-1563013544-824ae1b704d3.jpg',
@@ -47,6 +48,14 @@ const el = {
   contenu: document.querySelector('.contenu'),
   footer: document.getElementById('footer'),
   logoHome: document.getElementById('logo-home'),
+  addModal: document.getElementById('add-modal'),
+  addClose: document.getElementById('add-close'),
+  addForm: document.getElementById('add-form'),
+  addQ: document.getElementById('add-q'),
+  addSecteur: document.getElementById('add-secteur'),
+  addMarque: document.getElementById('add-marque'),
+  addNote: document.getElementById('add-note'),
+  addMsg: document.getElementById('add-msg'),
 };
 
 function applyTheme(theme) {
@@ -272,8 +281,15 @@ async function doSearch() {
   if (data.groupes.length === 0) {
     const p = document.createElement('p');
     p.className = 'vide';
-    p.textContent = `Aucun groupe recommandé pour « ${q} » avec cette préférence.`;
+    p.textContent = `Aucun résultat pour « ${q} ».`;
     el.results.appendChild(p);
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'chip chip-active';
+    btn.id = 'btn-ajouter';
+    btn.textContent = `＋ Proposer l'ajout de « ${q} »`;
+    btn.addEventListener('click', () => ouvrirAjout(q));
+    el.results.appendChild(btn);
   }
   for (const g of data.groupes) el.results.appendChild(carteGroupe(g));
   if (data.masquees > 0) {
@@ -518,6 +534,42 @@ el.logout.addEventListener('click', async () => {
 
 el.logoHome.addEventListener('click', () => renderHome());
 
+function ouvrirAjout(q) {
+  el.addQ.value = q;
+  el.addMsg.hidden = true;
+  el.addModal.classList.remove('hidden');
+}
+
+el.addClose.addEventListener('click', () => el.addModal.classList.add('hidden'));
+el.addModal.addEventListener('click', (e) => {
+  if (e.target === el.addModal) el.addModal.classList.add('hidden');
+});
+
+el.addForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  el.addMsg.hidden = true;
+  const res = await fetch('/api/produits', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      q: el.addQ.value.trim(),
+      num: el.addSecteur.value,
+      marque: el.addMarque.value.trim(),
+      note: el.addNote.value.trim(),
+    }),
+  });
+  const data = await res.json().catch(() => ({}));
+  el.addMsg.textContent = res.ok
+    ? `« ${el.addQ.value.trim()} » proposé (statut « Proposé », à vérifier). Il apparaît avec « Tout afficher ».`
+    : data.error || 'Erreur.';
+  el.addMsg.className = 'pw-msg ' + (res.ok ? 'ok' : 'ko');
+  el.addMsg.hidden = false;
+  if (res.ok) {
+    el.addForm.reset();
+    doSearch();
+  }
+});
+
 async function init() {
   let me;
   try {
@@ -530,6 +582,13 @@ async function init() {
   state.meta = await api('/api/meta');
   if (!state.meta.preferences.some((p) => p.id === state.pref)) state.pref = 'ue';
   renderPrefSelect();
+  el.addSecteur.textContent = '';
+  for (const s of state.meta.secteurs) {
+    const opt = document.createElement('option');
+    opt.value = s.num;
+    opt.textContent = `${s.num} · ${s.nom}`;
+    el.addSecteur.appendChild(opt);
+  }
   applyTheme(currentTheme());
   const stats = state.meta.meta.stats;
   if (stats) {

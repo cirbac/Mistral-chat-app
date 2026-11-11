@@ -8,7 +8,11 @@
    {
     "id": "restauration-et-livraison-de-repas-groupe-le-duff",
     "groupe": "Groupe Le Duff",
-    "marques": [],
+    "marques": [
+     "Brioche Dorée",
+     "Del Arte",
+     "Bridor"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -22,7 +26,9 @@
    {
     "id": "restauration-et-livraison-de-repas-groupe-holder",
     "groupe": "Groupe Holder",
-    "marques": [],
+    "marques": [
+     "Paul"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -36,7 +42,11 @@
    {
     "id": "restauration-et-livraison-de-repas-restaurant-brands-international",
     "groupe": "Restaurant Brands International",
-    "marques": [],
+    "marques": [
+     "Burger King",
+     "Tim Hortons",
+     "Popeyes"
+    ],
     "siege": "Canada (siège)",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -51,37 +61,11 @@
     "produits": []
    },
    {
-    "id": "restauration-et-livraison-de-repas-mcdonald-s-yum-brands",
-    "groupe": "McDonald's, Yum! Brands",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "restauration-et-livraison-de-repas-starbucks-subway-domino-s",
-    "groupe": "Starbucks, Subway, Domino's",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "restauration-et-livraison-de-repas-doordash",
     "groupe": "DoorDash",
-    "marques": [],
+    "marques": [
+     "Deliveroo États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",

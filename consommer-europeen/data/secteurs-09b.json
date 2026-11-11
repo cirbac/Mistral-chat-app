@@ -1,0 +1,327 @@
+[
+ {
+  "id": "beaute-cosmetiques",
+  "num": "09b",
+  "nom": "Beauté et cosmétiques",
+  "keywords": [
+   "beauté",
+   "cosmétique",
+   "maquillage",
+   "parfum",
+   "crème",
+   "soin visage",
+   "shampoing",
+   "mascara",
+   "vernis",
+   "déodorant"
+  ],
+  "note": "Séparé de « Hygiène et santé » : cosmétiques, maquillage, parfums, soins de la peau et des cheveux.",
+  "sous_categories": [
+   "Cosmétiques et maquillage",
+   "Parfums",
+   "Soins peau et cheveux"
+  ],
+  "groupes": [
+   {
+    "id": "hygiene-beaute-et-sante-l-oreal",
+    "groupe": "L'Oréal",
+    "marques": [
+     "L'Oréal Paris",
+     "Garnier",
+     "La Roche-Posay",
+     "Vichy"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-pierre-fabre",
+    "groupe": "Pierre Fabre",
+    "marques": [
+     "Avène",
+     "Ducray",
+     "Klorane"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-clarins",
+    "groupe": "Clarins",
+    "marques": [
+     "Clarins"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-groupe-rocher",
+    "groupe": "Groupe Rocher",
+    "marques": [
+     "Yves Rocher",
+     "Petit Bateau"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-beiersdorf",
+    "groupe": "Beiersdorf",
+    "marques": [
+     "Nivea",
+     "Eucerin",
+     "Labello"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-henkel",
+    "groupe": "Henkel",
+    "marques": [
+     "Le Chat",
+     "Mir",
+     "Schwarzkopf",
+     "Diadermine"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-unilever",
+    "groupe": "Unilever",
+    "marques": [
+     "Dove",
+     "Axe",
+     "Signal"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-reckitt",
+    "groupe": "Reckitt",
+    "marques": [
+     "Durex",
+     "Finish",
+     "Vanish"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-essity",
+    "groupe": "Essity",
+    "marques": [
+     "Tena",
+     "Nana",
+     "Demak'Up Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-shiseido",
+    "groupe": "Shiseido",
+    "marques": [
+     "Shiseido"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-kao",
+    "groupe": "Kao",
+    "marques": [
+     "Bioré",
+     "Kanebo"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-amorepacific",
+    "groupe": "Amorepacific",
+    "marques": [
+     "Laneige",
+     "Sulwhasoo Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-opella",
+    "groupe": "Opella",
+    "marques": [
+     "Doliprane",
+     "Dulcolax",
+     "Novanuit"
+    ],
+    "siege": "France (siège)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Beauté et hygiène, suite",
+    "commentaire": "CD&R (fonds américain) détient 50 %, Sanofi 48,2 % et Bpifrance 1,8 % [22] . Volumes minimaux de production en France garantis pour Doliprane, Lanzor et Aspegic [23] .",
+    "sources": [
+     22,
+     23
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-royal-philips",
+    "groupe": "Royal Philips",
+    "marques": [
+     "Sonicare",
+     "OneBlade"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Beauté et hygiène, suite",
+    "commentaire": "Philips Personal Health. Distinct de TP Vision (téléviseurs) et de Versuni (électroménager), traités dans d'autres sections.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-kose",
+    "groupe": "Kosé",
+    "marques": [
+     "Kosé",
+     "Sekkisei"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Beauté et hygiène, suite",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-pola-orbis",
+    "groupe": "Pola Orbis",
+    "marques": [
+     "Pola",
+     "Orbis"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Beauté et hygiène, suite",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-et-sante-lg-h-h",
+    "groupe": "LG H&H",
+    "marques": [
+     "The History of Whoo",
+     "Belif Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "sous_categorie": "Beauté et hygiène, suite",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+]

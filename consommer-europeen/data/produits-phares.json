@@ -1,0 +1,444 @@
+{
+ "automobile-renault-group": [
+  {
+   "id": "automobile-renault-group-clio",
+   "nom": "Clio",
+   "assemblage": "France (Flins)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "automobile-renault-group-captur",
+   "nom": "Captur",
+   "assemblage": "France (Valladolid, Espagne)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-stellantis": [
+  {
+   "id": "automobile-stellantis-peugeot-208",
+   "nom": "Peugeot 208",
+   "assemblage": "France (Poissy)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "automobile-stellantis-citro-n-c3",
+   "nom": "Citroën C3",
+   "assemblage": "Espagne (Madrid)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-volkswagen-group": [
+  {
+   "id": "automobile-volkswagen-group-golf",
+   "nom": "Golf",
+   "assemblage": "Allemagne (Wolfsburg)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-bmw-group": [
+  {
+   "id": "automobile-bmw-group-s-rie-3",
+   "nom": "Série 3",
+   "assemblage": "Allemagne (Munich)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-toyota": [
+  {
+   "id": "automobile-toyota-yaris",
+   "nom": "Yaris",
+   "assemblage": "France (Onnaing)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "automobile-toyota-corolla",
+   "nom": "Corolla",
+   "assemblage": "Turquie / Japon",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-mercedes-benz-group": [
+  {
+   "id": "automobile-mercedes-benz-group-classe-c",
+   "nom": "Classe C",
+   "assemblage": "Allemagne (Sindelfingen)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "motos-et-scooters-piaggio-group": [
+  {
+   "id": "motos-et-scooters-piaggio-group-vespa",
+   "nom": "Vespa",
+   "assemblage": "Italie (Pontedera)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-bsh-groupe-bosch": [
+  {
+   "id": "electromenager-bsh-groupe-bosch-lave-vaisselle",
+   "nom": "Lave-vaisselle",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-miele": [
+  {
+   "id": "electromenager-miele-lave-linge",
+   "nom": "Lave-linge",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-groupe-seb": [
+  {
+   "id": "electromenager-groupe-seb-cocotte-minute",
+   "nom": "Cocotte-Minute",
+   "assemblage": "France (Selongey)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "televiseurs-samsung": [
+  {
+   "id": "televiseurs-samsung-galaxy-s-smartphone",
+   "nom": "Galaxy S (smartphone)",
+   "assemblage": "Chine / Vietnam / Inde",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "televiseurs-samsung-tv-neo-qled",
+   "nom": "TV Neo QLED",
+   "assemblage": "Slovaquie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-et-telephonie-fairphone": [
+  {
+   "id": "informatique-et-telephonie-fairphone-fairphone-5",
+   "nom": "Fairphone 5",
+   "assemblage": "Chine",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-et-boissons-ferrero": [
+  {
+   "id": "alimentation-et-boissons-ferrero-nutella",
+   "nom": "Nutella",
+   "assemblage": "France (Villeneuve-d'Ascq)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-boissons-danone": [
+  {
+   "id": "alimentation-boissons-danone-yaourt-danone-actimel",
+   "nom": "Yaourt Danone / Actimel",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-boissons-lactalis": [
+  {
+   "id": "alimentation-boissons-lactalis-camembert-pr-sident",
+   "nom": "Camembert Président",
+   "assemblage": "France (Normandie)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-et-boissons-bonduelle": [
+  {
+   "id": "alimentation-et-boissons-bonduelle-ma-s-en-conserve",
+   "nom": "Maïs en conserve",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-et-boissons-barilla": [
+  {
+   "id": "alimentation-et-boissons-barilla-p-tes-penne-rigate",
+   "nom": "Pâtes Penne Rigate",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-boissons-coca-cola": [
+  {
+   "id": "alimentation-boissons-coca-cola-coca-cola",
+   "nom": "Coca-Cola",
+   "assemblage": "France (usines d'embouteillage)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hygiene-beaute-et-sante-l-oreal": [
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-shampoing-els-ve",
+   "nom": "Shampoing Elsève",
+   "assemblage": "France / Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hygiene-beaute-et-sante-pierre-fabre": [
+  {
+   "id": "hygiene-beaute-et-sante-pierre-fabre-av-ne-soins-dermatologiques",
+   "nom": "Avène (soins dermatologiques)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "vetements-chaussures-sport-adidas": [
+  {
+   "id": "vetements-chaussures-sport-adidas-stan-smith",
+   "nom": "Stan Smith",
+   "assemblage": "Chine / Vietnam",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "vetements-chaussures-sport-decathlon": [
+  {
+   "id": "vetements-chaussures-sport-decathlon-v-lo-btwin",
+   "nom": "Vélo BTWIN",
+   "assemblage": "France (assemblage)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "vetements-chaussures-sport-lacoste": [
+  {
+   "id": "vetements-chaussures-sport-lacoste-polo-original",
+   "nom": "Polo original",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "vetements-chaussures-et-sport-inditex": [
+  {
+   "id": "vetements-chaussures-et-sport-inditex-jean-zara",
+   "nom": "Jean Zara",
+   "assemblage": "Chine / Turquie / Portugal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "distribution-paiement-carrefour": [
+  {
+   "id": "distribution-paiement-carrefour-marque-rep-re-produits-carrefour",
+   "nom": "Marque Repère / produits Carrefour",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "distribution-paiement-leclerc": [
+  {
+   "id": "distribution-paiement-leclerc-marque-rep-re",
+   "nom": "Marque Repère",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "banque-assurance-epargne-bnp": [
+  {
+   "id": "banque-assurance-epargne-bnp-compte-courant-carte-premier",
+   "nom": "Compte courant / carte Premier",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "banque-assurance-epargne-ca": [
+  {
+   "id": "banque-assurance-epargne-ca-compte-courant",
+   "nom": "Compte courant",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "telecoms-numerique-energie-orange": [
+  {
+   "id": "telecoms-numerique-energie-orange-box-internet-livebox",
+   "nom": "Box internet Livebox",
+   "assemblage": "France (conçue en France)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "transport-mobilite-sncf": [
+  {
+   "id": "transport-mobilite-sncf-tgv",
+   "nom": "TGV",
+   "assemblage": "France (Alstom, Belfort)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "transport-et-mobilite-air-france-klm": [
+  {
+   "id": "transport-et-mobilite-air-france-klm-airbus-a350",
+   "nom": "Airbus A350",
+   "assemblage": "France (assemblage Airbus, Toulouse)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-jeux-video-lego": [
+  {
+   "id": "jouets-jeux-video-lego-brique-lego-classic",
+   "nom": "Brique LEGO Classic",
+   "assemblage": "Danemark / Tchéquie / Hongrie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-jeux-video-nintendo": [
+  {
+   "id": "jouets-jeux-video-nintendo-nintendo-switch",
+   "nom": "Nintendo Switch",
+   "assemblage": "Chine / Vietnam",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "montres-bijoux-optique-et-objets-connectes-swatch-group": [
+  {
+   "id": "montres-bijoux-optique-et-objets-connectes-swatch-group-swatch-sistem51",
+   "nom": "Swatch Sistem51",
+   "assemblage": "Suisse",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "montres-bijoux-optique-et-objets-connectes-rolex": [
+  {
+   "id": "montres-bijoux-optique-et-objets-connectes-rolex-submariner",
+   "nom": "Submariner",
+   "assemblage": "Suisse (Genève)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "medias-streaming-culture-spotify": [
+  {
+   "id": "medias-streaming-culture-spotify-abonnement-spotify-premium",
+   "nom": "Abonnement Spotify Premium",
+   "assemblage": "Suède (service numérique)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "restauration-livraison-sodexo": [
+  {
+   "id": "restauration-livraison-sodexo-ticket-restaurant",
+   "nom": "Ticket Restaurant",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "maison-bricolage-jardin-dyson": [
+  {
+   "id": "maison-bricolage-jardin-dyson-aspirateur-v15",
+   "nom": "Aspirateur V15",
+   "assemblage": "Malaisie / Singapour",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hotellerie-et-hebergement-accor": [
+  {
+   "id": "hotellerie-et-hebergement-accor-h-tel-ibis",
+   "nom": "Hôtel ibis",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hygiene-beaute-sante-hermes": [
+  {
+   "id": "hygiene-beaute-sante-hermes-sac-birkin",
+   "nom": "Sac Birkin",
+   "assemblage": "France (ateliers)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hygiene-beaute-sante-chanel": [
+  {
+   "id": "hygiene-beaute-sante-chanel-parfum-n-5",
+   "nom": "Parfum N°5",
+   "assemblage": "France (Grasse)",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ]
+}

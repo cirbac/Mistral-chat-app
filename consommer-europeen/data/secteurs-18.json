@@ -8,7 +8,10 @@
    {
     "id": "maison-bricolage-et-jardin-robert-bosch",
     "groupe": "Robert Bosch",
-    "marques": [],
+    "marques": [
+     "Bosch (outillage)",
+     "Dremel"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -22,7 +25,9 @@
    {
     "id": "maison-bricolage-et-jardin-stihl",
     "groupe": "Stihl",
-    "marques": [],
+    "marques": [
+     "Stihl"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -36,7 +41,11 @@
    {
     "id": "maison-bricolage-et-jardin-husqvarna-group",
     "groupe": "Husqvarna Group",
-    "marques": [],
+    "marques": [
+     "Husqvarna (tronçonneuses",
+     "robots)",
+     "Gardena Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -50,7 +59,9 @@
    {
     "id": "maison-bricolage-et-jardin-karcher",
     "groupe": "Kärcher",
-    "marques": [],
+    "marques": [
+     "Kärcher"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -64,7 +75,9 @@
    {
     "id": "maison-bricolage-et-jardin-festool",
     "groupe": "Festool",
-    "marques": [],
+    "marques": [
+     "Festool"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -78,7 +91,9 @@
    {
     "id": "maison-bricolage-et-jardin-einhell",
     "groupe": "Einhell",
-    "marques": [],
+    "marques": [
+     "Einhell"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -92,7 +107,9 @@
    {
     "id": "maison-bricolage-et-jardin-wurth",
     "groupe": "Würth",
-    "marques": [],
+    "marques": [
+     "Würth"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -106,7 +123,10 @@
    {
     "id": "maison-bricolage-et-jardin-vorwerk",
     "groupe": "Vorwerk",
-    "marques": [],
+    "marques": [
+     "Thermomix",
+     "Kobold"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -120,7 +140,9 @@
    {
     "id": "maison-bricolage-et-jardin-makita",
     "groupe": "Makita",
-    "marques": [],
+    "marques": [
+     "Makita"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -134,7 +156,11 @@
    {
     "id": "maison-bricolage-et-jardin-milwaukee-ryobi-aeg-outillage",
     "groupe": "Milwaukee, Ryobi, AEG (outillage)",
-    "marques": [],
+    "marques": [
+     "DeWalt",
+     "Black+Decker",
+     "Facom"
+    ],
     "siege": "Hong Kong",
     "siege_pays": "HK",
     "statut": "vigilance",
@@ -148,7 +174,9 @@
    {
     "id": "maison-bricolage-et-jardin-positec",
     "groupe": "Positec",
-    "marques": [],
+    "marques": [
+     "Worx"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -162,7 +190,11 @@
    {
     "id": "maison-bricolage-et-jardin-zwilling",
     "groupe": "Zwilling",
-    "marques": [],
+    "marques": [
+     "Zwilling",
+     "Staub",
+     "Ballarini"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -176,7 +208,9 @@
    {
     "id": "maison-bricolage-et-jardin-villeroy-boch",
     "groupe": "Villeroy & Boch",
-    "marques": [],
+    "marques": [
+     "Villeroy & Boch"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -190,7 +224,9 @@
    {
     "id": "maison-bricolage-et-jardin-duralex",
     "groupe": "Duralex",
-    "marques": [],
+    "marques": [
+     "Duralex"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -204,7 +240,10 @@
    {
     "id": "maison-bricolage-et-jardin-arc",
     "groupe": "Arc",
-    "marques": [],
+    "marques": [
+     "Arcoroc",
+     "Luminarc"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -218,7 +257,9 @@
    {
     "id": "maison-bricolage-et-jardin-lalique-group",
     "groupe": "Lalique Group",
-    "marques": [],
+    "marques": [
+     "Lalique"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -232,7 +273,12 @@
    {
     "id": "maison-bricolage-et-jardin-fiskars-group",
     "groupe": "Fiskars Group",
-    "marques": [],
+    "marques": [
+     "Fiskars",
+     "Iittala",
+     "Arabia",
+     "Royal Copenhagen"
+    ],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
@@ -246,7 +292,9 @@
    {
     "id": "maison-bricolage-et-jardin-baccarat",
     "groupe": "Baccarat",
-    "marques": [],
+    "marques": [
+     "Baccarat"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "a_ecarter",
@@ -275,6 +323,11 @@
    "meuble",
    "décoration",
    "jardinage"
+  ],
+  "aliases": [
+   "Milwaukee",
+   "Ryobi",
+   "AEG"
   ]
  }
 ]

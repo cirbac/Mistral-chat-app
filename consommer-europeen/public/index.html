@@ -63,6 +63,26 @@
       </div>
     </div>
 
+    <div id="add-modal" class="modal hidden">
+      <div class="modal-card">
+        <button id="add-close" class="retour" type="button">← Fermer</button>
+        <h2>Proposer un ajout</h2>
+        <p class="cat-note">Le produit ou la marque n'est pas dans la base ? Proposez-le : il apparaîtra avec le statut « Proposé » (à vérifier), en attente de source.</p>
+        <form id="add-form">
+          <label for="add-q">Produit / marque recherché</label>
+          <input id="add-q" type="text" required maxlength="80" />
+          <label for="add-secteur">Catégorie</label>
+          <select id="add-secteur"></select>
+          <label for="add-marque">Marque (si connue)</label>
+          <input id="add-marque" type="text" maxlength="80" placeholder="ex. Ferrero" />
+          <label for="add-note">Note / source éventuelle</label>
+          <input id="add-note" type="text" maxlength="200" placeholder="où avez-vous vu ce produit ?" />
+          <button type="submit">Proposer</button>
+          <p id="add-msg" class="pw-msg" hidden></p>
+        </form>
+      </div>
+    </div>
+
     <script src="app.js"></script>
   </body>
 </html>

@@ -8,7 +8,11 @@
    {
     "id": "transport-et-mobilite-air-france-klm",
     "groupe": "Air France-KLM",
-    "marques": [],
+    "marques": [
+     "Air France",
+     "KLM",
+     "Transavia"
+    ],
     "siege": "France / Pays-Bas",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -25,7 +29,13 @@
    {
     "id": "transport-et-mobilite-lufthansa-group",
     "groupe": "Lufthansa Group",
-    "marques": [],
+    "marques": [
+     "Lufthansa",
+     "Swiss",
+     "Austrian",
+     "Brussels Airlines",
+     "Eurowings"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -39,7 +49,12 @@
    {
     "id": "transport-et-mobilite-iag",
     "groupe": "IAG",
-    "marques": [],
+    "marques": [
+     "British Airways",
+     "Iberia",
+     "Vueling",
+     "Aer Lingus"
+    ],
     "siege": "Espagne (siège légal)",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -53,7 +68,9 @@
    {
     "id": "transport-et-mobilite-ryanair",
     "groupe": "Ryanair",
-    "marques": [],
+    "marques": [
+     "Ryanair"
+    ],
     "siege": "Irlande",
     "siege_pays": "IE",
     "statut": "rang1",
@@ -67,7 +84,9 @@
    {
     "id": "transport-et-mobilite-easyjet",
     "groupe": "easyJet",
-    "marques": [],
+    "marques": [
+     "easyJet"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -81,7 +100,9 @@
    {
     "id": "transport-et-mobilite-finnair",
     "groupe": "Finnair",
-    "marques": [],
+    "marques": [
+     "Finnair"
+    ],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
@@ -95,7 +116,9 @@
    {
     "id": "transport-et-mobilite-norwegian",
     "groupe": "Norwegian",
-    "marques": [],
+    "marques": [
+     "Norwegian Norvège"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -109,7 +132,10 @@
    {
     "id": "transport-et-mobilite-groupe-dubreuil",
     "groupe": "Groupe Dubreuil",
-    "marques": [],
+    "marques": [
+     "Air Caraïbes",
+     "French bee"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -123,7 +149,9 @@
    {
     "id": "transport-et-mobilite-volotea",
     "groupe": "Volotea",
-    "marques": [],
+    "marques": [
+     "Volotea"
+    ],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -137,7 +165,9 @@
    {
     "id": "transport-et-mobilite-japan-airlines",
     "groupe": "Japan Airlines",
-    "marques": [],
+    "marques": [
+     "JAL"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -151,7 +181,9 @@
    {
     "id": "transport-et-mobilite-korean-air",
     "groupe": "Korean Air",
-    "marques": [],
+    "marques": [
+     "Korean Air Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -165,7 +197,9 @@
    {
     "id": "transport-et-mobilite-eva-air",
     "groupe": "EVA Air",
-    "marques": [],
+    "marques": [
+     "EVA Air Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -179,7 +213,9 @@
    {
     "id": "transport-et-mobilite-china-airlines",
     "groupe": "China Airlines",
-    "marques": [],
+    "marques": [
+     "China Airlines Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -193,7 +229,9 @@
    {
     "id": "transport-et-mobilite-air-canada",
     "groupe": "Air Canada",
-    "marques": [],
+    "marques": [
+     "Air Canada"
+    ],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -207,7 +245,9 @@
    {
     "id": "transport-et-mobilite-transat-a-t",
     "groupe": "Transat A.T.",
-    "marques": [],
+    "marques": [
+     "Air Transat"
+    ],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -219,23 +259,11 @@
     "produits": []
    },
    {
-    "id": "transport-et-mobilite-emirates-etihad",
-    "groupe": "Emirates, Etihad",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Compagnies hors zones ou chinoises",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "transport-et-mobilite-qatar-airways",
     "groupe": "Qatar Airways",
-    "marques": [],
+    "marques": [
+     "Qatar Airways"
+    ],
     "siege": "Qatar",
     "siege_pays": "QA",
     "statut": "hors_zones",
@@ -249,7 +277,9 @@
    {
     "id": "transport-et-mobilite-turkish-airlines",
     "groupe": "Turkish Airlines",
-    "marques": [],
+    "marques": [
+     "Turkish Airlines"
+    ],
     "siege": "Turquie",
     "siege_pays": "TR",
     "statut": "hors_zones",
@@ -261,23 +291,11 @@
     "produits": []
    },
    {
-    "id": "transport-et-mobilite-delta-united-american",
-    "groupe": "Delta, United, American",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Compagnies hors zones ou chinoises",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "transport-et-mobilite-singapore-airlines",
     "groupe": "Singapore Airlines",
-    "marques": [],
+    "marques": [
+     "Singapore Airlines"
+    ],
     "siege": "Singapour",
     "siege_pays": "SG",
     "statut": "hors_zones",
@@ -291,7 +309,9 @@
    {
     "id": "transport-et-mobilite-eurostar",
     "groupe": "Eurostar",
-    "marques": [],
+    "marques": [
+     "Eurostar"
+    ],
     "siege": "France / Royaume-Uni",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -305,7 +325,10 @@
    {
     "id": "transport-et-mobilite-flix",
     "groupe": "Flix",
-    "marques": [],
+    "marques": [
+     "FlixBus",
+     "FlixTrain"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -319,7 +342,9 @@
    {
     "id": "transport-et-mobilite-ada",
     "groupe": "Ada",
-    "marques": [],
+    "marques": [
+     "Ada"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -333,7 +358,9 @@
    {
     "id": "transport-et-mobilite-dott",
     "groupe": "Dott",
-    "marques": [],
+    "marques": [
+     "Dott"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -347,7 +374,9 @@
    {
     "id": "transport-et-mobilite-voi",
     "groupe": "Voi",
-    "marques": [],
+    "marques": [
+     "Voi Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -359,23 +388,13 @@
     "produits": []
    },
    {
-    "id": "transport-et-mobilite-hertz-avis-budget-lime",
-    "groupe": "Hertz, Avis Budget, Lime",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Rail, autocar et location",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "transport-et-mobilite-pon-holdings",
     "groupe": "Pon Holdings",
-    "marques": [],
+    "marques": [
+     "Gazelle",
+     "Batavus",
+     "Cannondale"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -389,7 +408,9 @@
    {
     "id": "transport-et-mobilite-cube-bikes",
     "groupe": "Cube Bikes",
-    "marques": [],
+    "marques": [
+     "Cube"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -403,7 +424,9 @@
    {
     "id": "transport-et-mobilite-canyon",
     "groupe": "Canyon",
-    "marques": [],
+    "marques": [
+     "Canyon"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -417,7 +440,9 @@
    {
     "id": "transport-et-mobilite-riese-muller",
     "groupe": "Riese & Müller",
-    "marques": [],
+    "marques": [
+     "Riese & Müller"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -431,7 +456,9 @@
    {
     "id": "transport-et-mobilite-brompton",
     "groupe": "Brompton",
-    "marques": [],
+    "marques": [
+     "Brompton"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -445,7 +472,9 @@
    {
     "id": "transport-et-mobilite-orbea",
     "groupe": "Orbea",
-    "marques": [],
+    "marques": [
+     "Orbea"
+    ],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -459,7 +488,9 @@
    {
     "id": "transport-et-mobilite-moustache-bikes",
     "groupe": "Moustache Bikes",
-    "marques": [],
+    "marques": [
+     "Moustache"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -473,7 +504,10 @@
    {
     "id": "transport-et-mobilite-giant",
     "groupe": "Giant",
-    "marques": [],
+    "marques": [
+     "Giant",
+     "Liv Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -487,7 +521,9 @@
    {
     "id": "transport-et-mobilite-merida",
     "groupe": "Merida",
-    "marques": [],
+    "marques": [
+     "Merida Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -501,26 +537,14 @@
    {
     "id": "transport-et-mobilite-shimano",
     "groupe": "Shimano",
-    "marques": [],
+    "marques": [
+     "Shimano"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
     "sous_categorie": "Cycles et mobilité douce",
     "commentaire": "Composants de vélos.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "transport-et-mobilite-trek-specialized",
-    "groupe": "Trek, Specialized",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Cycles et mobilité douce",
-    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -540,6 +564,11 @@
    "avion",
    "compagnie aérienne",
    "covoiturage"
+  ],
+  "aliases": [
+   "Air China",
+   "China Eastern",
+   "China Southern"
   ]
  }
 ]

@@ -8,7 +8,11 @@
    {
     "id": "automobile-renault-group",
     "groupe": "Renault Group",
-    "marques": [],
+    "marques": [
+     "Renault",
+     "Dacia",
+     "Alpine"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -33,7 +37,15 @@
    {
     "id": "automobile-stellantis",
     "groupe": "Stellantis",
-    "marques": [],
+    "marques": [
+     "Peugeot",
+     "Citroën",
+     "DS",
+     "Opel",
+     "Fiat",
+     "Alfa Romeo",
+     "Lancia"
+    ],
     "siege": "Pays-Bas (siège légal)",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -47,7 +59,14 @@
    {
     "id": "automobile-volkswagen-group",
     "groupe": "Volkswagen Group",
-    "marques": [],
+    "marques": [
+     "Volkswagen",
+     "Audi",
+     "Škoda",
+     "Seat",
+     "Cupra",
+     "Porsche"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -61,7 +80,10 @@
    {
     "id": "automobile-bmw-group",
     "groupe": "BMW Group",
-    "marques": [],
+    "marques": [
+     "BMW",
+     "Mini"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -95,7 +117,10 @@
    {
     "id": "automobile-mercedes-benz-group",
     "groupe": "Mercedes-Benz Group",
-    "marques": [],
+    "marques": [
+     "Mercedes-Benz",
+     "Mercedes-AMG"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "vigilance",
@@ -109,7 +134,9 @@
    {
     "id": "automobile-nissan",
     "groupe": "Nissan",
-    "marques": [],
+    "marques": [
+     "Nissan"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -123,7 +150,9 @@
    {
     "id": "automobile-mazda",
     "groupe": "Mazda",
-    "marques": [],
+    "marques": [
+     "Mazda"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -137,7 +166,9 @@
    {
     "id": "automobile-suzuki",
     "groupe": "Suzuki",
-    "marques": [],
+    "marques": [
+     "Suzuki"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -151,7 +182,9 @@
    {
     "id": "automobile-subaru",
     "groupe": "Subaru",
-    "marques": [],
+    "marques": [
+     "Subaru"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -165,7 +198,11 @@
    {
     "id": "automobile-hyundai-motor-group",
     "groupe": "Hyundai Motor Group",
-    "marques": [],
+    "marques": [
+     "Hyundai",
+     "Kia",
+     "Genesis Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -199,7 +236,9 @@
    {
     "id": "automobile-volvo-cars",
     "groupe": "Volvo Cars",
-    "marques": [],
+    "marques": [
+     "Volvo Suède (siège)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "a_ecarter",
@@ -226,7 +265,9 @@
    {
     "id": "automobile-mg",
     "groupe": "MG",
-    "marques": [],
+    "marques": [
+     "MG"
+    ],
     "siege": "Royaume-Uni (origine)",
     "siege_pays": "GB",
     "statut": "a_ecarter",

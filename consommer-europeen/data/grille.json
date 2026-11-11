@@ -9,7 +9,7 @@
   "disclaimer": "Document d'information générale. Il ne constitue ni un conseil en investissement ni une recommandation d'achat de titres.",
   "stats": {
    "lignes": 615,
-   "secteurs": 21,
+   "secteurs": 22,
    "sous_categories": 78,
    "rang1": 322,
    "rang2": 119,
@@ -68,6 +68,12 @@
    "label": "À écarter",
    "couleur": "#cf222e",
    "description": "Contrôle chinois, direct ou via un actionnaire majoritaire."
+  },
+  {
+   "id": "propose",
+   "label": "Proposé",
+   "couleur": "#8250df",
+   "description": "Ajout proposé par un utilisateur depuis la recherche — en attente de vérification et de source."
   }
  ],
  "preferences": [
