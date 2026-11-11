@@ -5,11 +5,28 @@ const state = {
   secteurId: null,
 };
 
-const ICONES = {
-  '01': '🚗', '02': '🛵', '03': '🛞', '04': '🧊', '05': '📺',
-  '06': '💻', '07': '💿', '08': '🍽️', '09': '🧴', '10': '👕',
-  '11': '🎒', '12': '🛒', '13': '📡', '14': '🏦', '15': '🚆',
-  '16': '🏨', '17': '🎮', '18': '🏡', '19': '⌚', '20': '🎬', '21': '🍔',
+const IMAGES = {
+  '01': 'assets/cats/01-1503376780353-7e6692767b70.jpg',
+  '02': 'assets/cats/02-1558981403-c5f9899a28bc.jpg',
+  '03': 'assets/cats/03-1578844251758-2f71da64c96f.jpg',
+  '04': 'assets/cats/04-1626806787461-102c1bfaaea1.jpg',
+  '05': 'assets/cats/05-1593359677879-a4bb92f829d1.jpg',
+  '06': 'assets/cats/06-1511707171634-5f897ff02aa9.jpg',
+  '07': 'assets/cats/07-1461749280684-dccba630e2f6.jpg',
+  '08': 'assets/cats/08-1504674900247-0877df9cc836.jpg',
+  '09': 'assets/cats/09-1556228720-195a672e8a03.jpg',
+  '10': 'assets/cats/10-1441986300917-64674bd600d8.jpg',
+  '11': 'assets/cats/11-1488646953014-85cb44e25828.jpg',
+  '12': 'assets/cats/12-1563013544-824ae1b704d3.jpg',
+  '13': 'assets/cats/13-1466611653911-95081537e5b7.jpg',
+  '14': 'assets/cats/14-1541354329998-f4d9a9f9297f.jpg',
+  '15': 'assets/cats/15-1474487548417-781cb71495f3.jpg',
+  '16': 'assets/cats/16-1566073771259-6a8506099945.jpg',
+  '17': 'assets/cats/17-1493711662062-fa541adb3fc8.jpg',
+  '18': 'assets/cats/18-1585320806297-9794b3e4eeae.jpg',
+  '19': 'assets/cats/19-1523275335684-37898b6baf30.jpg',
+  '20': 'assets/cats/20-1522869635100-9f4c5e86aa37.jpg',
+  '21': 'assets/cats/21-1517248135467-4c7edcad34c4.jpg',
 };
 
 const el = {
@@ -107,9 +124,11 @@ function renderHome() {
     const card = document.createElement('button');
     card.type = 'button';
     card.className = 'cat-card';
-    const icone = document.createElement('span');
+    const icone = document.createElement('img');
     icone.className = 'cat-icone';
-    icone.textContent = ICONES[s.num] || '🛍️';
+    icone.src = IMAGES[s.num] || '';
+    icone.alt = '';
+    icone.loading = 'lazy';
     const corps = document.createElement('span');
     corps.className = 'cat-corps';
     const nom = document.createElement('strong');

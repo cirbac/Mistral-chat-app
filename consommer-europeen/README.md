@@ -79,6 +79,7 @@ Identité visuelle depuis les fichiers officiels du Drive, servis dans `public/a
 - `logo-black.png` — logo PNG noir (597×256, fond transparent), page de connexion
 - `logo-white.png` — version blanche par **inversion des canaux RGB** du PNG noir (alpha conservé), utilisée dans l'en-tête sombre
 - `logo-black.svg` / `logo-white.svg` — versions vectorielles officielles (conservées en secours)
+- `assets/cats/*.jpg` — **illustrations des 21 catégories**, photos [Unsplash](https://unsplash.com) (licence Unsplash, usage gratuit) téléchargées en local (640 px) ; sources exactes dans `assets/cats/SOURCES.json`
 
 Palette extraite du logo : **noir `#040405`**, **anthracite `#282828`**, gris clair `#e5e5e5` / `#f1f1f1`, blanc — variables CSS `--cirba-*` dans `public/style.css`.
 
