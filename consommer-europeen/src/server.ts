@@ -243,6 +243,7 @@ app.get('/api/accueil', (req, res) => {
       break;
     }
   }
+  phares.sort((a, b) => (b.produit.image ? 1 : 0) - (a.produit.image ? 1 : 0));
   res.json({ phares: phares.slice(0, 24), nouveaux });
 });
 

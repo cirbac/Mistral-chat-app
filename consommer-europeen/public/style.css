@@ -59,28 +59,79 @@ body {
 }
 
 .cats-nav {
-  grid-column: 1 / -1;
+  grid-column: 2;
   display: flex;
-  gap: 8px;
-  overflow-x: auto;
-  padding: 8px 0 2px;
-  scrollbar-width: thin;
+  gap: 22px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .cats-nav-btn {
-  flex: 0 0 auto;
-  padding: 6px 12px;
-  border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  background: rgba(255, 255, 255, 0.08);
-  color: var(--cirba-blanc);
-  font-size: 0.8rem;
+  border: none;
+  background: none;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.85rem;
   cursor: pointer;
+  padding: 4px 2px;
   white-space: nowrap;
 }
 
 .cats-nav-btn:hover {
-  background: rgba(255, 255, 255, 0.18);
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.carousel-wrap {
+  position: relative;
+}
+
+.carousel {
+  display: flex;
+  gap: 14px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  padding: 4px 2px 8px;
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel .carte-produit {
+  flex: 0 0 230px;
+  scroll-snap-align: start;
+}
+
+.carousel-arrow {
+  position: absolute;
+  top: 38%;
+  z-index: 2;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--bordure);
+  background: var(--cirba-blanc);
+  color: var(--cirba-noir);
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.carousel-arrow:hover {
+  background: var(--cirba-noir);
+  color: var(--cirba-blanc);
+}
+
+#phares-prev {
+  left: -14px;
+}
+
+#phares-next {
+  right: -14px;
 }
 
 .hero {
