@@ -41,6 +41,7 @@ body {
   height: 34px;
   width: auto;
   display: block;
+  cursor: pointer;
 }
 
 .topbar-titre {
