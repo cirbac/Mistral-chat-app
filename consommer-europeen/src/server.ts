@@ -278,7 +278,8 @@ app.get('/api/search', (req, res) => {
     res.json({ q: '', pref, secteurs: [], groupes: [], masquees: 0 });
     return;
   }
-  const matchAny = (hay: string) => variants.some((v) => v.length >= 2 && hay.includes(v));
+  const matchAny = (hay: string) =>
+    hay.includes(q) || variants.slice(1).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
   const secteursMatch = secteurs.filter(
     (s) =>
       matchAny(norm(s.nom)) ||
