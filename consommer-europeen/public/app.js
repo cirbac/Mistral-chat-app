@@ -1,4 +1,6 @@
 const state = {
+  accueil: null,
+  accueilPref: null,
   meta: null,
   pref: (() => { try { return localStorage.getItem('ce-pref') || 'ue'; } catch { return 'ue'; } })(),
   view: 'home',
@@ -40,6 +42,10 @@ const el = {
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
   homeGrid: document.getElementById('home-grid'),
+  pharesTitre: document.getElementById('phares-titre'),
+  pharesGrid: document.getElementById('phares-grid'),
+  nouveauxTitre: document.getElementById('nouveaux-titre'),
+  nouveauxGrid: document.getElementById('nouveaux-grid'),
   heroStats: document.getElementById('hero-stats'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
@@ -110,6 +116,45 @@ function renderPrefSelect() {
   }
 }
 
+function carteProduit(r) {
+  const card = document.createElement('button');
+  card.type = 'button';
+  card.className = 'carte carte-produit';
+  const h = document.createElement('h3');
+  h.textContent = r.produit.nom;
+  const meta = document.createElement('div');
+  meta.className = 'meta-ligne';
+  meta.appendChild(badge(r.groupe.statutLabel, r.groupe.statutCouleur));
+  const marque = document.createElement('span');
+  marque.textContent = `${r.groupe.groupe} · ${r.secteur.nom}`;
+  meta.appendChild(marque);
+  if (r.produit.assemblage) {
+    const ass = document.createElement('span');
+    ass.textContent = `Assemblage : ${r.produit.assemblage}`;
+    meta.appendChild(ass);
+  }
+  card.append(h, meta);
+  card.addEventListener('click', () => showProduit(r.produit.id));
+  return card;
+}
+
+async function renderAccueil() {
+  if (state.accueilPref !== state.pref) {
+    state.accueil = await api(`/api/accueil?pref=${state.pref}`);
+    state.accueilPref = state.pref;
+  }
+  const a = state.accueil;
+  if (!a) return;
+  el.pharesGrid.textContent = '';
+  for (const r of a.phares) el.pharesGrid.appendChild(carteProduit(r));
+  el.pharesTitre.hidden = a.phares.length === 0;
+  el.pharesGrid.hidden = a.phares.length === 0;
+  el.nouveauxGrid.textContent = '';
+  for (const r of a.nouveaux) el.nouveauxGrid.appendChild(carteProduit(r));
+  el.nouveauxTitre.hidden = a.nouveaux.length === 0;
+  el.nouveauxGrid.hidden = a.nouveaux.length === 0;
+}
+
 function renderHome() {
   show('home');
   el.detail.classList.add('hidden');
@@ -139,6 +184,7 @@ function renderHome() {
     card.addEventListener('click', () => showSecteur(s.id));
     el.homeGrid.appendChild(card);
   }
+  renderAccueil();
 }
 
 function carteGroupe(g) {
