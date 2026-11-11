@@ -29,6 +29,7 @@ const el = {
   detail: document.getElementById('detail'),
   contenu: document.querySelector('.contenu'),
   footer: document.getElementById('footer'),
+  logoHome: document.getElementById('logo-home'),
 };
 
 function applyTheme(theme) {
@@ -472,6 +473,8 @@ el.logout.addEventListener('click', async () => {
   await fetch('/api/logout', { method: 'POST' });
   window.location.href = '/login.html';
 });
+
+el.logoHome.addEventListener('click', () => renderHome());
 
 async function init() {
   let me;
