@@ -8,7 +8,9 @@
    {
     "id": "hotellerie-et-hebergement-barriere",
     "groupe": "Barrière",
-    "marques": [],
+    "marques": [
+     "Hôtels et casinos Barrière"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -22,7 +24,13 @@
    {
     "id": "hotellerie-et-hebergement-accor",
     "groupe": "Accor",
-    "marques": [],
+    "marques": [
+     "Ibis",
+     "Novotel",
+     "Mercure",
+     "Sofitel",
+     "Fairmont"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -34,23 +42,14 @@
     "produits": []
    },
    {
-    "id": "hotellerie-et-hebergement-hilton-marriott-hyatt",
-    "groupe": "Hilton, Marriott, Hyatt",
-    "marques": [],
-    "siege": "Espagne (siège)",
-    "siege_pays": "ES",
-    "statut": "hors_zones",
-    "sous_categorie": "Groupes hôteliers",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "hotellerie-et-hebergement-louvre-hotels-group",
     "groupe": "Louvre Hotels Group",
-    "marques": [],
+    "marques": [
+     "Campanile",
+     "Kyriad",
+     "Première Classe",
+     "Golden Tulip"
+    ],
     "siege": "France (siège)",
     "siege_pays": "FR",
     "statut": "a_ecarter",
@@ -66,7 +65,10 @@
    {
     "id": "hotellerie-et-hebergement-radisson-hotel-group",
     "groupe": "Radisson Hotel Group",
-    "marques": [],
+    "marques": [
+     "Radisson",
+     "Radisson Blu"
+    ],
     "siege": "Belgique (siège)",
     "siege_pays": "BE",
     "statut": "a_ecarter",
@@ -80,7 +82,9 @@
    {
     "id": "hotellerie-et-hebergement-club-med",
     "groupe": "Club Med",
-    "marques": [],
+    "marques": [
+     "Club Med"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "a_ecarter",
@@ -94,7 +98,9 @@
    {
     "id": "hotellerie-et-hebergement-trivago",
     "groupe": "Trivago",
-    "marques": [],
+    "marques": [
+     "Trivago"
+    ],
     "siege": "Allemagne (siège)",
     "siege_pays": "DE",
     "statut": "hors_zones",

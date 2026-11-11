@@ -2,13 +2,18 @@
  {
   "num": "10",
   "id": "vetements-chaussures-et-sport",
-  "nom": "Vêtements, chaussures et sport",
+  "nom": "Fashion",
   "note": "",
   "groupes": [
    {
     "id": "vetements-chaussures-et-sport-inditex",
     "groupe": "Inditex",
-    "marques": [],
+    "marques": [
+     "Zara",
+     "Massimo Dutti",
+     "Bershka",
+     "Pull&Bear"
+    ],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -22,7 +27,11 @@
    {
     "id": "vetements-chaussures-et-sport-h-m-group",
     "groupe": "H&M Group",
-    "marques": [],
+    "marques": [
+     "H&M",
+     "COS",
+     "Arket Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -36,7 +45,9 @@
    {
     "id": "vetements-chaussures-et-sport-kiabi",
     "groupe": "Kiabi",
-    "marques": [],
+    "marques": [
+     "Kiabi"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -50,7 +61,9 @@
    {
     "id": "vetements-chaussures-et-sport-mango",
     "groupe": "Mango",
-    "marques": [],
+    "marques": [
+     "Mango"
+    ],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -64,7 +77,9 @@
    {
     "id": "vetements-chaussures-et-sport-c-a",
     "groupe": "C&A",
-    "marques": [],
+    "marques": [
+     "C&A"
+    ],
     "siege": "Pays-Bas / Allemagne",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -78,7 +93,9 @@
    {
     "id": "vetements-chaussures-et-sport-associated-british-foods",
     "groupe": "Associated British Foods",
-    "marques": [],
+    "marques": [
+     "Primark"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -92,7 +109,9 @@
    {
     "id": "vetements-chaussures-et-sport-armor-lux",
     "groupe": "Armor Lux",
-    "marques": [],
+    "marques": [
+     "Armor Lux"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -106,7 +125,9 @@
    {
     "id": "vetements-chaussures-et-sport-saint-james",
     "groupe": "Saint James",
-    "marques": [],
+    "marques": [
+     "Saint James"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -120,7 +141,9 @@
    {
     "id": "vetements-chaussures-et-sport-maus-freres",
     "groupe": "Maus Frères",
-    "marques": [],
+    "marques": [
+     "Lacoste"
+    ],
     "siege": "France / Suisse",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -134,7 +157,10 @@
    {
     "id": "vetements-chaussures-et-sport-hugo-boss",
     "groupe": "Hugo Boss",
-    "marques": [],
+    "marques": [
+     "Boss",
+     "Hugo"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -148,7 +174,11 @@
    {
     "id": "vetements-chaussures-et-sport-otb",
     "groupe": "OTB",
-    "marques": [],
+    "marques": [
+     "Diesel",
+     "Maison Margiela",
+     "Marni"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -162,7 +192,10 @@
    {
     "id": "vetements-chaussures-et-sport-fast-retailing",
     "groupe": "Fast Retailing",
-    "marques": [],
+    "marques": [
+     "Uniqlo",
+     "GU"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -176,7 +209,9 @@
    {
     "id": "vetements-chaussures-et-sport-ryohin-keikaku",
     "groupe": "Ryohin Keikaku",
-    "marques": [],
+    "marques": [
+     "Muji"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -190,7 +225,9 @@
    {
     "id": "vetements-chaussures-et-sport-levi-strauss-co",
     "groupe": "Levi Strauss & Co.",
-    "marques": [],
+    "marques": [
+     "Levi's États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -204,7 +241,10 @@
    {
     "id": "vetements-chaussures-et-sport-pvh",
     "groupe": "PVH",
-    "marques": [],
+    "marques": [
+     "Tommy Hilfiger",
+     "Calvin Klein États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -218,7 +258,11 @@
    {
     "id": "vetements-chaussures-et-sport-kering",
     "groupe": "Kering",
-    "marques": [],
+    "marques": [
+     "Gucci",
+     "Saint Laurent",
+     "Balenciaga"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -232,7 +276,9 @@
    {
     "id": "vetements-chaussures-et-sport-hermes",
     "groupe": "Hermès",
-    "marques": [],
+    "marques": [
+     "Hermès"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -246,7 +292,9 @@
    {
     "id": "vetements-chaussures-et-sport-chanel",
     "groupe": "Chanel",
-    "marques": [],
+    "marques": [
+     "Chanel"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -260,7 +308,11 @@
    {
     "id": "vetements-chaussures-et-sport-richemont",
     "groupe": "Richemont",
-    "marques": [],
+    "marques": [
+     "Cartier",
+     "Van Cleef & Arpels",
+     "Chloé"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -274,7 +326,10 @@
    {
     "id": "vetements-chaussures-et-sport-moncler-group",
     "groupe": "Moncler Group",
-    "marques": [],
+    "marques": [
+     "Moncler",
+     "Stone Island"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -288,7 +343,10 @@
    {
     "id": "vetements-chaussures-et-sport-prada-group",
     "groupe": "Prada Group",
-    "marques": [],
+    "marques": [
+     "Prada",
+     "Miu Miu"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -302,7 +360,12 @@
    {
     "id": "vetements-chaussures-et-sport-smcp",
     "groupe": "SMCP",
-    "marques": [],
+    "marques": [
+     "Sandro",
+     "Maje",
+     "Claudie Pierlot",
+     "Fursac"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -320,7 +383,13 @@
    {
     "id": "vetements-chaussures-et-sport-lanvin-group-fosun",
     "groupe": "Lanvin Group (Fosun)",
-    "marques": [],
+    "marques": [
+     "Lanvin",
+     "Wolford",
+     "Sergio Rossi",
+     "Caruso",
+     "St. John"
+    ],
     "siege": "Chine (groupe)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -338,7 +407,10 @@
    {
     "id": "vetements-chaussures-et-sport-shandong-ruyi",
     "groupe": "Shandong Ruyi",
-    "marques": [],
+    "marques": [
+     "Aquascutum",
+     "Gieves & Hawkes"
+    ],
     "siege": "Chine (groupe)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -354,7 +426,9 @@
    {
     "id": "vetements-chaussures-et-sport-camper",
     "groupe": "Camper",
-    "marques": [],
+    "marques": [
+     "Camper"
+    ],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -368,7 +442,9 @@
    {
     "id": "vetements-chaussures-et-sport-on-holding",
     "groupe": "On Holding",
-    "marques": [],
+    "marques": [
+     "On"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -382,7 +458,9 @@
    {
     "id": "vetements-chaussures-et-sport-dr-martens",
     "groupe": "Dr. Martens",
-    "marques": [],
+    "marques": [
+     "Dr. Martens"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -396,7 +474,9 @@
    {
     "id": "vetements-chaussures-et-sport-geox",
     "groupe": "Geox",
-    "marques": [],
+    "marques": [
+     "Geox"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -410,7 +490,10 @@
    {
     "id": "vetements-chaussures-et-sport-asics",
     "groupe": "Asics",
-    "marques": [],
+    "marques": [
+     "Asics",
+     "Onitsuka Tiger"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -424,7 +507,9 @@
    {
     "id": "vetements-chaussures-et-sport-mizuno",
     "groupe": "Mizuno",
-    "marques": [],
+    "marques": [
+     "Mizuno"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -438,7 +523,9 @@
    {
     "id": "vetements-chaussures-et-sport-clarks",
     "groupe": "Clarks",
-    "marques": [],
+    "marques": [
+     "Clarks"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "a_ecarter",
@@ -452,23 +539,14 @@
     "produits": []
    },
    {
-    "id": "vetements-chaussures-et-sport-nike-deckers-new-balance",
-    "groupe": "Nike, Deckers, New Balance",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Sport",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "vetements-chaussures-et-sport-decathlon",
     "groupe": "Decathlon",
-    "marques": [],
+    "marques": [
+     "Quechua",
+     "Kalenji",
+     "Domyos",
+     "Van Rysel"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -482,7 +560,9 @@
    {
     "id": "vetements-chaussures-et-sport-adidas",
     "groupe": "Adidas",
-    "marques": [],
+    "marques": [
+     "Adidas"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -496,7 +576,9 @@
    {
     "id": "vetements-chaussures-et-sport-puma",
     "groupe": "Puma",
-    "marques": [],
+    "marques": [
+     "Puma"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "vigilance",
@@ -512,7 +594,13 @@
    {
     "id": "vetements-chaussures-et-sport-amer-sports",
     "groupe": "Amer Sports",
-    "marques": [],
+    "marques": [
+     "Salomon",
+     "Atomic",
+     "Arc'teryx",
+     "Wilson",
+     "Peak Performance"
+    ],
     "siege": "Finlande (origine)",
     "siege_pays": "FI",
     "statut": "a_ecarter",
@@ -529,7 +617,10 @@
    {
     "id": "vetements-chaussures-et-sport-anta-sports",
     "groupe": "Anta Sports",
-    "marques": [],
+    "marques": [
+     "Jack Wolfskin",
+     "Anta"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -545,7 +636,9 @@
    {
     "id": "vetements-chaussures-et-sport-lululemon",
     "groupe": "Lululemon",
-    "marques": [],
+    "marques": [
+     "Lululemon"
+    ],
     "siege": "Canada (siège)",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -561,7 +654,9 @@
    {
     "id": "vetements-chaussures-et-sport-canada-goose",
     "groupe": "Canada Goose",
-    "marques": [],
+    "marques": [
+     "Canada Goose"
+    ],
     "siege": "Canada (siège)",
     "siege_pays": "CA",
     "statut": "vigilance",
@@ -584,14 +679,18 @@
    "Marques canadiennes"
   ],
   "keywords": [
-   "habit",
-   "vêtement",
-   "habillement",
-   "textile",
    "mode",
+   "fashion",
+   "vêtement",
+   "habit",
    "chaussure",
-   "sport",
-   "sportwear"
+   "accessoire",
+   "luxe",
+   "prêt-à-porter",
+   "sac",
+   "bijou",
+   "montre",
+   "sport"
   ]
  }
 ]

@@ -8,7 +8,10 @@
    {
     "id": "telecoms-numerique-et-energie-bouygues-telecom",
     "groupe": "Bouygues Telecom",
-    "marques": [],
+    "marques": [
+     "Bouygues Telecom",
+     "B&You"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -22,7 +25,10 @@
    {
     "id": "telecoms-numerique-et-energie-iliad",
     "groupe": "Iliad",
-    "marques": [],
+    "marques": [
+     "Free",
+     "Free Mobile"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -36,7 +42,10 @@
    {
     "id": "telecoms-numerique-et-energie-altice-france",
     "groupe": "Altice France",
-    "marques": [],
+    "marques": [
+     "SFR",
+     "RED by SFR"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -53,7 +62,9 @@
    {
     "id": "telecoms-numerique-et-energie-scaleway-groupe-iliad",
     "groupe": "Scaleway (groupe Iliad)",
-    "marques": [],
+    "marques": [
+     "Scaleway"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -67,7 +78,9 @@
    {
     "id": "telecoms-numerique-et-energie-spotify",
     "groupe": "Spotify",
-    "marques": [],
+    "marques": [
+     "Spotify Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -81,7 +94,9 @@
    {
     "id": "telecoms-numerique-et-energie-deezer",
     "groupe": "Deezer",
-    "marques": [],
+    "marques": [
+     "Deezer"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -95,7 +110,9 @@
    {
     "id": "telecoms-numerique-et-energie-edf",
     "groupe": "EDF",
-    "marques": [],
+    "marques": [
+     "EDF"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -109,23 +126,11 @@
    {
     "id": "telecoms-numerique-et-energie-engie",
     "groupe": "Engie",
-    "marques": [],
+    "marques": [
+     "Engie"
+    ],
     "siege": "France",
     "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Énergie",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "telecoms-numerique-et-energie-shell-bp",
-    "groupe": "Shell, BP",
-    "marques": [],
-    "siege": "Royaume-Uni",
-    "siege_pays": "GB",
     "statut": "rang1",
     "sous_categorie": "Énergie",
     "commentaire": "",

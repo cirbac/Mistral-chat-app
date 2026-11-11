@@ -8,7 +8,12 @@
    {
     "id": "electromenager-bsh-groupe-bosch",
     "groupe": "BSH (groupe Bosch)",
-    "marques": [],
+    "marques": [
+     "Bosch",
+     "Siemens",
+     "Neff",
+     "Gaggenau"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -22,7 +27,9 @@
    {
     "id": "electromenager-miele",
     "groupe": "Miele",
-    "marques": [],
+    "marques": [
+     "Miele"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -36,7 +43,9 @@
    {
     "id": "electromenager-liebherr",
     "groupe": "Liebherr",
-    "marques": [],
+    "marques": [
+     "Liebherr"
+    ],
     "siege": "Suisse / Allemagne",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -50,7 +59,11 @@
    {
     "id": "electromenager-electrolux",
     "groupe": "Electrolux",
-    "marques": [],
+    "marques": [
+     "Electrolux",
+     "AEG",
+     "Zanussi Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -64,7 +77,9 @@
    {
     "id": "electromenager-smeg",
     "groupe": "Smeg",
-    "marques": [],
+    "marques": [
+     "Smeg"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -78,7 +93,9 @@
    {
     "id": "electromenager-amica",
     "groupe": "Amica",
-    "marques": [],
+    "marques": [
+     "Amica"
+    ],
     "siege": "Pologne",
     "siege_pays": "PL",
     "statut": "rang1",
@@ -92,7 +109,9 @@
    {
     "id": "electromenager-lg-electronics",
     "groupe": "LG Electronics",
-    "marques": [],
+    "marques": [
+     "LG Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -106,7 +125,12 @@
    {
     "id": "electromenager-cafom",
     "groupe": "Cafom",
-    "marques": [],
+    "marques": [
+     "Brandt",
+     "De Dietrich",
+     "Sauter",
+     "Vedette"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -123,7 +147,14 @@
    {
     "id": "electromenager-beko-europe-arcelik",
     "groupe": "Beko Europe (Arçelik)",
-    "marques": [],
+    "marques": [
+     "Beko",
+     "Indesit",
+     "Hotpoint",
+     "Bauknecht",
+     "Grundig",
+     "Whirlpool (sous licence)"
+    ],
     "siege": "Turquie",
     "siege_pays": "TR",
     "statut": "hors_zones",
@@ -141,7 +172,12 @@
    {
     "id": "electromenager-haier",
     "groupe": "Haier",
-    "marques": [],
+    "marques": [
+     "Candy",
+     "Hoover",
+     "Rosières",
+     "Haier"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -157,7 +193,11 @@
    {
     "id": "electromenager-hisense",
     "groupe": "Hisense",
-    "marques": [],
+    "marques": [
+     "Gorenje",
+     "Asko",
+     "Hisense"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -173,7 +213,14 @@
    {
     "id": "electromenager-groupe-seb",
     "groupe": "Groupe SEB",
-    "marques": [],
+    "marques": [
+     "Tefal",
+     "Rowenta",
+     "Moulinex",
+     "Krups",
+     "Calor",
+     "WMF"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -187,7 +234,11 @@
    {
     "id": "electromenager-de-longhi",
     "groupe": "De'Longhi",
-    "marques": [],
+    "marques": [
+     "De'Longhi",
+     "Kenwood",
+     "Ariete"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -201,7 +252,9 @@
    {
     "id": "electromenager-panasonic",
     "groupe": "Panasonic",
-    "marques": [],
+    "marques": [
+     "Panasonic"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",

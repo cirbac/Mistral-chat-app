@@ -8,7 +8,9 @@
    {
     "id": "logiciels-et-applications-here-technologies",
     "groupe": "HERE Technologies",
-    "marques": [],
+    "marques": [
+     "HERE WeGo"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -25,7 +27,9 @@
    {
     "id": "logiciels-et-applications-tomtom",
     "groupe": "TomTom",
-    "marques": [],
+    "marques": [
+     "TomTom GO"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -39,7 +43,9 @@
    {
     "id": "logiciels-et-applications-magic-lane",
     "groupe": "Magic Lane",
-    "marques": [],
+    "marques": [
+     "Magic Earth"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -56,7 +62,9 @@
    {
     "id": "logiciels-et-applications-mappy",
     "groupe": "Mappy",
-    "marques": [],
+    "marques": [
+     "Mappy"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -72,7 +80,9 @@
    {
     "id": "logiciels-et-applications-komoot",
     "groupe": "komoot",
-    "marques": [],
+    "marques": [
+     "komoot"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -88,7 +98,9 @@
    {
     "id": "logiciels-et-applications-openstreetmap",
     "groupe": "OpenStreetMap",
-    "marques": [],
+    "marques": [
+     "Données cartographiques ouvertes"
+    ],
     "siege": "Royaume-Uni (fondation)",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -102,37 +114,11 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-kakao-naver",
-    "groupe": "Kakao, Naver",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Navigation et cartographie",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-google-apple",
-    "groupe": "Google, Apple",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Navigation et cartographie",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-yandex",
     "groupe": "Yandex",
-    "marques": [],
+    "marques": [
+     "Yandex Maps"
+    ],
     "siege": "Russie",
     "siege_pays": "RU",
     "statut": "hors_zones",
@@ -144,23 +130,11 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-baidu-alibaba",
-    "groupe": "Baidu, Alibaba",
-    "marques": [],
-    "siege": "Chine",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Navigation et cartographie",
-    "commentaire": "Groupes chinois.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-threema",
     "groupe": "Threema",
-    "marques": [],
+    "marques": [
+     "Threema"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -177,7 +151,9 @@
    {
     "id": "logiciels-et-applications-olvid",
     "groupe": "Olvid",
-    "marques": [],
+    "marques": [
+     "Olvid"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -193,7 +169,9 @@
    {
     "id": "logiciels-et-applications-tchap-dinum",
     "groupe": "Tchap (DINUM)",
-    "marques": [],
+    "marques": [
+     "Tchap"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -208,25 +186,11 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-matrix-element",
-    "groupe": "Matrix, Element",
-    "marques": [],
-    "siege": "Royaume-Uni",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Messagerie instantanée",
-    "commentaire": "Tchap repose sur le protocole Matrix [73] . Siège des entités Element et Matrix.org Foundation non revérifié.",
-    "sources": [
-     73
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-wire",
     "groupe": "Wire",
-    "marques": [],
+    "marques": [
+     "Wire"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -243,7 +207,9 @@
    {
     "id": "logiciels-et-applications-rakuten",
     "groupe": "Rakuten",
-    "marques": [],
+    "marques": [
+     "Viber"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -257,7 +223,9 @@
    {
     "id": "logiciels-et-applications-ly-corporation",
     "groupe": "LY Corporation",
-    "marques": [],
+    "marques": [
+     "LINE"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -273,7 +241,9 @@
    {
     "id": "logiciels-et-applications-kakao",
     "groupe": "Kakao",
-    "marques": [],
+    "marques": [
+     "KakaoTalk Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -289,7 +259,9 @@
    {
     "id": "logiciels-et-applications-signal-foundation",
     "groupe": "Signal Foundation",
-    "marques": [],
+    "marques": [
+     "Signal États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -303,7 +275,10 @@
    {
     "id": "logiciels-et-applications-meta",
     "groupe": "Meta",
-    "marques": [],
+    "marques": [
+     "WhatsApp",
+     "Messenger États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -317,7 +292,9 @@
    {
     "id": "logiciels-et-applications-telegram",
     "groupe": "Telegram",
-    "marques": [],
+    "marques": [
+     "Telegram Émirats arabes unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -331,7 +308,10 @@
    {
     "id": "logiciels-et-applications-tencent",
     "groupe": "Tencent",
-    "marques": [],
+    "marques": [
+     "WeChat",
+     "QQ"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -345,7 +325,11 @@
    {
     "id": "logiciels-et-applications-la-suite-numerique-etat",
     "groupe": "La Suite numérique (État)",
-    "marques": [],
+    "marques": [
+     "Visio",
+     "Tchap",
+     "Docs"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -361,7 +345,9 @@
    {
     "id": "logiciels-et-applications-tixeo",
     "groupe": "Tixeo",
-    "marques": [],
+    "marques": [
+     "Tixeo"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -375,7 +361,10 @@
    {
     "id": "logiciels-et-applications-infomaniak",
     "groupe": "Infomaniak",
-    "marques": [],
+    "marques": [
+     "kMeet",
+     "kSuite"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -389,21 +378,9 @@
    {
     "id": "logiciels-et-applications-8x8",
     "groupe": "8x8",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Visioconférence et travail collaboratif",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-microsoft-google-zoom-cisco",
-    "groupe": "Microsoft, Google, Zoom, Cisco",
-    "marques": [],
+    "marques": [
+     "Jitsi Meet États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -417,7 +394,9 @@
    {
     "id": "logiciels-et-applications-vivaldi-technologies",
     "groupe": "Vivaldi Technologies",
-    "marques": [],
+    "marques": [
+     "Vivaldi Norvège"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -435,7 +414,9 @@
    {
     "id": "logiciels-et-applications-mullvad",
     "groupe": "Mullvad",
-    "marques": [],
+    "marques": [
+     "Mullvad Browser Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -449,7 +430,9 @@
    {
     "id": "logiciels-et-applications-samsung",
     "groupe": "Samsung",
-    "marques": [],
+    "marques": [
+     "Samsung Internet Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -463,7 +446,9 @@
    {
     "id": "logiciels-et-applications-naver",
     "groupe": "Naver",
-    "marques": [],
+    "marques": [
+     "Whale Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -477,21 +462,9 @@
    {
     "id": "logiciels-et-applications-mozilla",
     "groupe": "Mozilla",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Navigateurs web",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-google-microsoft-apple",
-    "groupe": "Google, Microsoft, Apple",
-    "marques": [],
+    "marques": [
+     "Firefox États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -505,7 +478,9 @@
    {
     "id": "logiciels-et-applications-brave-software",
     "groupe": "Brave Software",
-    "marques": [],
+    "marques": [
+     "Brave États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -519,7 +494,9 @@
    {
     "id": "logiciels-et-applications-yandex",
     "groupe": "Yandex",
-    "marques": [],
+    "marques": [
+     "Yandex Browser"
+    ],
     "siege": "Russie",
     "siege_pays": "RU",
     "statut": "hors_zones",
@@ -533,7 +510,11 @@
    {
     "id": "logiciels-et-applications-opera-limited",
     "groupe": "Opera Limited",
-    "marques": [],
+    "marques": [
+     "Opera",
+     "Opera GX",
+     "Opera Mini Norvège (siège)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "a_ecarter",
@@ -550,7 +531,9 @@
    {
     "id": "logiciels-et-applications-alibaba",
     "groupe": "Alibaba",
-    "marques": [],
+    "marques": [
+     "UC Browser"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -564,7 +547,9 @@
    {
     "id": "logiciels-et-applications-qwant",
     "groupe": "Qwant",
-    "marques": [],
+    "marques": [
+     "Qwant"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -581,7 +566,9 @@
    {
     "id": "logiciels-et-applications-ecosia",
     "groupe": "Ecosia",
-    "marques": [],
+    "marques": [
+     "Ecosia"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -598,7 +585,9 @@
    {
     "id": "logiciels-et-applications-european-search-perspective",
     "groupe": "European Search Perspective",
-    "marques": [],
+    "marques": [
+     "Index Staan"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -616,7 +605,9 @@
    {
     "id": "logiciels-et-applications-naver",
     "groupe": "Naver",
-    "marques": [],
+    "marques": [
+     "Naver Search Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -630,7 +621,9 @@
    {
     "id": "logiciels-et-applications-startpage",
     "groupe": "Startpage",
-    "marques": [],
+    "marques": [
+     "Startpage"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "hors_zones",
@@ -642,37 +635,13 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-duckduckgo-brave",
-    "groupe": "DuckDuckGo, Brave",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Moteurs de recherche",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-google-microsoft",
-    "groupe": "Google, Microsoft",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Moteurs de recherche",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-proton",
     "groupe": "Proton",
-    "marques": [],
+    "marques": [
+     "Proton Mail",
+     "Drive",
+     "Calendar"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -688,7 +657,9 @@
    {
     "id": "logiciels-et-applications-tuta",
     "groupe": "Tuta",
-    "marques": [],
+    "marques": [
+     "Tuta Mail"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -702,7 +673,9 @@
    {
     "id": "logiciels-et-applications-mailo",
     "groupe": "Mailo",
-    "marques": [],
+    "marques": [
+     "Mailo"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -716,7 +689,10 @@
    {
     "id": "logiciels-et-applications-infomaniak",
     "groupe": "Infomaniak",
-    "marques": [],
+    "marques": [
+     "kSuite",
+     "Swiss Backup"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -730,7 +706,9 @@
    {
     "id": "logiciels-et-applications-nextcloud",
     "groupe": "Nextcloud",
-    "marques": [],
+    "marques": [
+     "Nextcloud"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -744,7 +722,9 @@
    {
     "id": "logiciels-et-applications-the-document-foundation",
     "groupe": "The Document Foundation",
-    "marques": [],
+    "marques": [
+     "LibreOffice"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -758,7 +738,9 @@
    {
     "id": "logiciels-et-applications-collabora",
     "groupe": "Collabora",
-    "marques": [],
+    "marques": [
+     "Collabora Online"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -772,7 +754,9 @@
    {
     "id": "logiciels-et-applications-hancom",
     "groupe": "Hancom",
-    "marques": [],
+    "marques": [
+     "Hancom Office Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -786,7 +770,10 @@
    {
     "id": "logiciels-et-applications-naver",
     "groupe": "Naver",
-    "marques": [],
+    "marques": [
+     "Naver Mail",
+     "Naver Cloud Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -798,23 +785,11 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-google-microsoft-apple",
-    "groupe": "Google, Microsoft, Apple",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Courrier, stockage et bureautique",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-dropbox",
     "groupe": "Dropbox",
-    "marques": [],
+    "marques": [
+     "Dropbox États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -828,7 +803,9 @@
    {
     "id": "logiciels-et-applications-kingsoft",
     "groupe": "Kingsoft",
-    "marques": [],
+    "marques": [
+     "WPS Office"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -842,7 +819,9 @@
    {
     "id": "logiciels-et-applications-murena",
     "groupe": "Murena",
-    "marques": [],
+    "marques": [
+     "/e/OS"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -856,7 +835,9 @@
    {
     "id": "logiciels-et-applications-jolla",
     "groupe": "Jolla",
-    "marques": [],
+    "marques": [
+     "Sailfish OS"
+    ],
     "siege": "Finlande",
     "siege_pays": "FI",
     "statut": "rang1",
@@ -870,7 +851,9 @@
    {
     "id": "logiciels-et-applications-canonical",
     "groupe": "Canonical",
-    "marques": [],
+    "marques": [
+     "Ubuntu"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -884,7 +867,10 @@
    {
     "id": "logiciels-et-applications-suse",
     "groupe": "SUSE",
-    "marques": [],
+    "marques": [
+     "SUSE Linux",
+     "openSUSE"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -898,7 +884,9 @@
    {
     "id": "logiciels-et-applications-samsung",
     "groupe": "Samsung",
-    "marques": [],
+    "marques": [
+     "One UI (sur Android) Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -912,7 +900,9 @@
    {
     "id": "logiciels-et-applications-grapheneos",
     "groupe": "GrapheneOS",
-    "marques": [],
+    "marques": [
+     "GrapheneOS"
+    ],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -928,21 +918,9 @@
    {
     "id": "logiciels-et-applications-google",
     "groupe": "Google",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Systèmes d'exploitation",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-apple-microsoft",
-    "groupe": "Apple, Microsoft",
-    "marques": [],
+    "marques": [
+     "Android États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -956,7 +934,10 @@
    {
     "id": "logiciels-et-applications-proton",
     "groupe": "Proton",
-    "marques": [],
+    "marques": [
+     "Proton VPN",
+     "Proton Pass"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -970,7 +951,9 @@
    {
     "id": "logiciels-et-applications-passbolt",
     "groupe": "Passbolt",
-    "marques": [],
+    "marques": [
+     "Passbolt"
+    ],
     "siege": "Luxembourg",
     "siege_pays": "LU",
     "statut": "rang1",
@@ -984,7 +967,9 @@
    {
     "id": "logiciels-et-applications-1password",
     "groupe": "1Password",
-    "marques": [],
+    "marques": [
+     "1Password"
+    ],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -998,7 +983,9 @@
    {
     "id": "logiciels-et-applications-bitwarden",
     "groupe": "Bitwarden",
-    "marques": [],
+    "marques": [
+     "Bitwarden États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1012,7 +999,9 @@
    {
     "id": "logiciels-et-applications-mastodon-ggmbh",
     "groupe": "Mastodon gGmbH",
-    "marques": [],
+    "marques": [
+     "Mastodon"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -1026,7 +1015,11 @@
    {
     "id": "logiciels-et-applications-meta",
     "groupe": "Meta",
-    "marques": [],
+    "marques": [
+     "Facebook",
+     "Instagram",
+     "Threads États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1040,7 +1033,9 @@
    {
     "id": "logiciels-et-applications-x-corp",
     "groupe": "X Corp.",
-    "marques": [],
+    "marques": [
+     "X États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1054,21 +1049,9 @@
    {
     "id": "logiciels-et-applications-bluesky",
     "groupe": "Bluesky",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Réseaux sociaux et plateformes",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-snap-microsoft-reddit",
-    "groupe": "Snap, Microsoft, Reddit",
-    "marques": [],
+    "marques": [
+     "Bluesky États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1082,7 +1065,11 @@
    {
     "id": "logiciels-et-applications-bytedance",
     "groupe": "ByteDance",
-    "marques": [],
+    "marques": [
+     "TikTok",
+     "Douyin",
+     "CapCut"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -1099,7 +1086,9 @@
    {
     "id": "logiciels-et-applications-xiaohongshu",
     "groupe": "Xiaohongshu",
-    "marques": [],
+    "marques": [
+     "RedNote"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -1113,7 +1102,9 @@
    {
     "id": "logiciels-et-applications-mistral-ai",
     "groupe": "Mistral AI",
-    "marques": [],
+    "marques": [
+     "Le Chat"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -1130,7 +1121,9 @@
    {
     "id": "logiciels-et-applications-naver",
     "groupe": "Naver",
-    "marques": [],
+    "marques": [
+     "HyperCLOVA X Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -1142,23 +1135,11 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-deepseek-alibaba-moonshot",
-    "groupe": "DeepSeek, Alibaba, Moonshot",
-    "marques": [],
-    "siege": "Chine",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Assistants d'intelligence artificielle",
-    "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-trainline",
     "groupe": "Trainline",
-    "marques": [],
+    "marques": [
+     "Trainline"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -1172,7 +1153,9 @@
    {
     "id": "logiciels-et-applications-omio",
     "groupe": "Omio",
-    "marques": [],
+    "marques": [
+     "Omio"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -1186,7 +1169,9 @@
    {
     "id": "logiciels-et-applications-bolt",
     "groupe": "Bolt",
-    "marques": [],
+    "marques": [
+     "Bolt"
+    ],
     "siege": "Estonie",
     "siege_pays": "EE",
     "statut": "rang1",
@@ -1200,7 +1185,11 @@
    {
     "id": "logiciels-et-applications-edreams-odigeo",
     "groupe": "eDreams ODIGEO",
-    "marques": [],
+    "marques": [
+     "eDreams",
+     "Opodo",
+     "Go Voyages"
+    ],
     "siege": "Espagne",
     "siege_pays": "ES",
     "statut": "rang1",
@@ -1214,7 +1203,10 @@
    {
     "id": "logiciels-et-applications-booking-holdings",
     "groupe": "Booking Holdings",
-    "marques": [],
+    "marques": [
+     "Booking.com",
+     "Kayak États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1228,7 +1220,9 @@
    {
     "id": "logiciels-et-applications-airbnb",
     "groupe": "Airbnb",
-    "marques": [],
+    "marques": [
+     "Airbnb États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1242,7 +1236,9 @@
    {
     "id": "logiciels-et-applications-uber",
     "groupe": "Uber",
-    "marques": [],
+    "marques": [
+     "Uber États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -1274,6 +1270,15 @@
    "navigateur",
    "messagerie",
    "système d'exploitation"
+  ],
+  "aliases": [
+   "OpenAI",
+   "Anthropic",
+   "X Corp",
+   "Twitter",
+   "Claude",
+   "ChatGPT",
+   "Gemini"
   ]
  }
 ]

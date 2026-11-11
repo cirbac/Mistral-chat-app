@@ -8,7 +8,13 @@
    {
     "id": "motos-et-scooters-piaggio-group",
     "groupe": "Piaggio Group",
-    "marques": [],
+    "marques": [
+     "Vespa",
+     "Aprilia",
+     "Moto Guzzi",
+     "Gilera",
+     "Derbi"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -30,7 +36,10 @@
    {
     "id": "motos-et-scooters-bmw-motorrad",
     "groupe": "BMW Motorrad",
-    "marques": [],
+    "marques": [
+     "BMW",
+     "BMW Motorrad"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -44,7 +53,9 @@
    {
     "id": "motos-et-scooters-triumph",
     "groupe": "Triumph",
-    "marques": [],
+    "marques": [
+     "Triumph"
+    ],
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
@@ -76,7 +87,9 @@
    {
     "id": "motos-et-scooters-ducati",
     "groupe": "Ducati",
-    "marques": [],
+    "marques": [
+     "Ducati"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "vigilance",
@@ -96,7 +109,9 @@
    {
     "id": "motos-et-scooters-peugeot-motocycles",
     "groupe": "Peugeot Motocycles",
-    "marques": [],
+    "marques": [
+     "Peugeot (scooters et motos légères)"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -115,7 +130,9 @@
    {
     "id": "motos-et-scooters-mv-agusta",
     "groupe": "MV Agusta",
-    "marques": [],
+    "marques": [
+     "MV Agusta"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "vigilance",
@@ -132,7 +149,9 @@
    {
     "id": "motos-et-scooters-energica",
     "groupe": "Energica",
-    "marques": [],
+    "marques": [
+     "Energica"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "vigilance",
@@ -149,7 +168,11 @@
    {
     "id": "motos-et-scooters-pierer-mobility-ktm-gasgas-husqvarna",
     "groupe": "Pierer Mobility (KTM, GasGas, Husqvarna)",
-    "marques": [],
+    "marques": [
+     "KTM",
+     "GasGas",
+     "Husqvarna"
+    ],
     "siege": "Autriche",
     "siege_pays": "AT",
     "statut": "hors_zones",
@@ -178,7 +201,9 @@
    {
     "id": "motos-et-scooters-royal-enfield",
     "groupe": "Royal Enfield",
-    "marques": [],
+    "marques": [
+     "Royal Enfield"
+    ],
     "siege": "Inde",
     "siege_pays": "IN",
     "statut": "hors_zones",
@@ -194,7 +219,10 @@
    {
     "id": "motos-et-scooters-harley-davidson",
     "groupe": "Harley-Davidson",
-    "marques": [],
+    "marques": [
+     "Harley-Davidson",
+     "X350RA États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -219,7 +247,9 @@
    {
     "id": "motos-et-scooters-yamaha",
     "groupe": "Yamaha",
-    "marques": [],
+    "marques": [
+     "Yamaha"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -233,7 +263,9 @@
    {
     "id": "motos-et-scooters-kawasaki",
     "groupe": "Kawasaki",
-    "marques": [],
+    "marques": [
+     "Kawasaki"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -247,7 +279,9 @@
    {
     "id": "motos-et-scooters-suzuki",
     "groupe": "Suzuki",
-    "marques": [],
+    "marques": [
+     "Suzuki"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -261,7 +295,9 @@
    {
     "id": "motos-et-scooters-kymco",
     "groupe": "Kymco",
-    "marques": [],
+    "marques": [
+     "Kymco Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -275,7 +311,9 @@
    {
     "id": "motos-et-scooters-sym",
     "groupe": "SYM",
-    "marques": [],
+    "marques": [
+     "SYM Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -289,7 +327,12 @@
    {
     "id": "motos-et-scooters-brp",
     "groupe": "BRP",
-    "marques": [],
+    "marques": [
+     "Can-Am (Ryker",
+     "Spyder)",
+     "Sea-Doo",
+     "Ski-Doo"
+    ],
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
@@ -305,7 +348,9 @@
    {
     "id": "motos-et-scooters-benelli",
     "groupe": "Benelli",
-    "marques": [],
+    "marques": [
+     "Benelli"
+    ],
     "siege": "Italie (marque)",
     "siege_pays": "IT",
     "statut": "a_ecarter",
@@ -323,7 +368,10 @@
    {
     "id": "motos-et-scooters-qianjiang-qjmotor-keeway",
     "groupe": "Qianjiang (QJMotor, Keeway)",
-    "marques": [],
+    "marques": [
+     "QJMotor",
+     "Keeway"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -340,7 +388,9 @@
    {
     "id": "motos-et-scooters-moto-morini",
     "groupe": "Moto Morini",
-    "marques": [],
+    "marques": [
+     "Moto Morini"
+    ],
     "siege": "Italie (marque)",
     "siege_pays": "IT",
     "statut": "a_ecarter",
@@ -357,7 +407,9 @@
    {
     "id": "motos-et-scooters-swm",
     "groupe": "SWM",
-    "marques": [],
+    "marques": [
+     "SWM"
+    ],
     "siege": "Italie (marque)",
     "siege_pays": "IT",
     "statut": "a_ecarter",
@@ -383,27 +435,12 @@
     ]
    },
    {
-    "id": "motos-et-scooters-cfmoto-voge-zontes",
-    "groupe": "CFMOTO, Voge, Zontes",
-    "marques": [],
-    "siege": "Chine",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
-    "commentaire": "Marques chinoises présentes en Italie [56] .",
-    "sources": [
-     56
-    ],
-    "lieux_production": [
-     "Chine"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "motos-et-scooters-segway-ninebot",
     "groupe": "Segway-Ninebot",
-    "marques": [],
+    "marques": [
+     "Segway",
+     "Ninebot"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -419,7 +456,9 @@
    {
     "id": "motos-et-scooters-niu",
     "groupe": "Niu",
-    "marques": [],
+    "marques": [
+     "Niu"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -435,7 +474,9 @@
    {
     "id": "motos-et-scooters-yadea",
     "groupe": "Yadea",
-    "marques": [],
+    "marques": [
+     "Yadea"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",

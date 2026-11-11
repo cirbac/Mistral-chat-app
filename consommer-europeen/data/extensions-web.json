@@ -1,80 +1,1343 @@
 {
-  "01": { "groupes": [
-    { "id": "automobile-toyota", "groupe": "Toyota", "marques": ["Toyota", "Lexus", "Daihatsu"], "siege": "Japon (Toyota City)", "siege_pays": "JP", "statut": "rang2", "sous_categorie": "Constructeurs japonais et sud-coréens", "commentaire": "Constructeur japonais. Usine TMMF à Onnaing (Nord) : Yaris et Yaris Cross produites en France (hybrides ; la prochaine électrique ira en Tchéquie) [147][148]. Partenaire de Suzuki.", "sources": [147, 148, 149], "lieux_production": ["France (Onnaing, Nord)", "Tchéquie (Kolin)"], "certifications": [], "produits": [ { "id": "automobile-toyota-yaris", "nom": "Yaris / Yaris Cross", "assemblage": "France (Onnaing, Nord)", "origine_pieces": null, "certifications": [], "note": "Produites à Onnaing (TMMF) ; ~1 250 véhicules/jour en 2026 [147][148]." } ] },
-    { "id": "automobile-honda", "groupe": "Honda", "marques": ["Honda", "Acura", "Afeela"], "siege": "Japon (Tokyo)", "siege_pays": "JP", "statut": "rang2", "sous_categorie": "Constructeurs japonais et sud-coréens", "commentaire": "Constructeur japonais. Coentreprise Sony Honda pour les VE Afeela (lancement 2026) [150].", "sources": [150], "lieux_production": [], "certifications": [], "produits": [ { "id": "automobile-honda-afeela", "nom": "Afeela (VE Sony Honda)", "assemblage": "À confirmer (lancement 2026)", "origine_pieces": null, "certifications": [], "note": "Coentreprise Sony Honda [150]." } ] },
-    { "id": "automobile-ford", "groupe": "Ford", "marques": ["Ford"], "siege": "États-Unis (Dearborn)", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "", "commentaire": "Constructeur américain. Hors de vos zones.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "automobile-gm", "groupe": "General Motors", "marques": ["Chevrolet", "GMC", "Cadillac", "Buick"], "siege": "États-Unis (Détroit)", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "", "commentaire": "Constructeur américain. Hors de vos zones.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "05": { "groupes": [
-    { "id": "televiseurs-samsung", "groupe": "Samsung", "marques": ["Samsung (TV Neo QLED, OLED)"], "siege": "Corée du Sud (Séoul)", "siege_pays": "KR", "statut": "rang2", "sous_categorie": "Marques de téléviseurs", "commentaire": "Groupe sud-coréen. TV produites notamment en Slovaquie/Hongrie pour l'Europe.", "sources": [], "lieux_production": ["Slovaquie", "Hongrie"], "certifications": [], "produits": [] }
-  ] },
-  "08": { "groupes": [
-    { "id": "alimentation-boissons-danone", "groupe": "Danone", "marques": ["Danone", "Activia", "Actimel", "Evian", "Volvic", "Alpro"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Produits alimentaires", "commentaire": "Multinationale alimentaire française, cotée au CAC 40 [151].", "sources": [151], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-lactalis", "groupe": "Lactalis", "marques": ["Lactalis", "Président", "Galbani", "Parmalat", "Lactel"], "siege": "France (Laval)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Produits alimentaires", "commentaire": "N°1 mondial des produits laitiers, groupe familial français [152][153].", "sources": [152, 153], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-avril", "groupe": "Avril", "marques": ["Avril", "Puget", "Lesieur"], "siege": "France", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Produits alimentaires", "commentaire": "Groupe agroalimentaire familial français (huiles, margarines).", "sources": [153], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-teresos", "groupe": "Tereos", "marques": ["Tereos", "Beghin Say", "Daddy"], "siege": "France", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Produits alimentaires", "commentaire": "Coopérative sucrière française [154].", "sources": [154], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-ldc", "groupe": "LDC", "marques": ["LDC", "Le Gaulois", "Loué", "Père Dodu"], "siege": "France (Sablé-sur-Sarthe)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Produits alimentaires", "commentaire": "Champion français de la volaille, encore largement contrôlé par les familles fondatrices [153].", "sources": [153], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-coca-cola", "groupe": "The Coca-Cola Company", "marques": ["Coca-Cola", "Fanta", "Sprite", "Minute Maid"], "siege": "États-Unis (Atlanta)", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "Boissons", "commentaire": "Groupe américain. Hors de vos zones.", "sources": [], "lieux_production": ["France (usines d'embouteillage)"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-pepsico", "groupe": "PepsiCo", "marques": ["Pepsi", "Tropicana", "Lay's", "7UP"], "siege": "États-Unis", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "Boissons", "commentaire": "Groupe américain. Hors de vos zones.", "sources": [], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "alimentation-boissons-suntory", "groupe": "Suntory", "marques": ["Suntory", "Orangina", "Schweppes", "Ribena"], "siege": "Japon (Osaka)", "siege_pays": "JP", "statut": "rang2", "sous_categorie": "Boissons", "commentaire": "Groupe japonais (Orangina Schweppes Europe).", "sources": [], "lieux_production": ["France"], "certifications": [], "produits": [] }
-  ] },
-  "09": { "groupes": [
-    { "id": "hygiene-beaute-sante-chanel", "groupe": "Chanel", "marques": ["Chanel"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Beauté, hygiène et entretien", "commentaire": "Maison française privée (famille Wertheimer) [179].", "sources": [179], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "hygiene-beaute-sante-hermes", "groupe": "Hermès", "marques": ["Hermès"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Luxe et mode haut de gamme", "commentaire": "Maison française familiale [180].", "sources": [180], "lieux_production": ["France"], "certifications": [], "produits": [] }
-  ] },
-  "10": { "groupes": [
-    { "id": "vetements-chaussures-sport-nike", "groupe": "Nike", "marques": ["Nike"], "siege": "États-Unis (Beaverton)", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "Sport", "commentaire": "Équipementier américain, n°1 mondial [164]. Hors de vos zones.", "sources": [164], "lieux_production": ["Chine", "Vietnam", "Indonésie"], "certifications": [], "produits": [] },
-    { "id": "vetements-chaussures-sport-adidas", "groupe": "Adidas", "marques": ["Adidas", "Adidas Originals"], "siege": "Allemagne (Herzogenaurach)", "siege_pays": "DE", "statut": "rang1", "sous_categorie": "Sport", "commentaire": "Équipementier allemand, n°2 mondial [164].", "sources": [164], "lieux_production": ["Allemagne", "Vietnam"], "certifications": [], "produits": [] },
-    { "id": "vetements-chaussures-sport-puma", "groupe": "Puma", "marques": ["Puma"], "siege": "Allemagne (Herzogenaurach)", "siege_pays": "DE", "statut": "vigilance", "sous_categorie": "Sport", "commentaire": "Anta Sports (Chine) est devenu premier actionnaire avec 29,06 % en janvier 2026 [162][163].", "sources": [162, 163], "lieux_production": ["Chine", "Vietnam"], "certifications": [], "produits": [] },
-    { "id": "vetements-chaussures-sport-decathlon", "groupe": "Decathlon", "marques": ["Decathlon", "Quechua", "Domyos", "Kipsta", "B'Twin"], "siege": "France (Lille)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Sport", "commentaire": "Groupe familial français, n°3 mondial du sport [164].", "sources": [164], "lieux_production": ["France", "Chine", "Inde"], "certifications": [], "produits": [] },
-    { "id": "vetements-chaussures-sport-asics", "groupe": "Asics", "marques": ["Asics", "Onitsuka Tiger"], "siege": "Japon (Kobe)", "siege_pays": "JP", "statut": "rang2", "sous_categorie": "Sport", "commentaire": "Équipementier japonais [164].", "sources": [164], "lieux_production": ["Chine", "Vietnam"], "certifications": [], "produits": [] },
-    { "id": "vetements-chaussures-sport-lacoste", "groupe": "Lacoste", "marques": ["Lacoste"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Prêt-à-porter grand public", "commentaire": "Marque française fondée par René Lacoste [164].", "sources": [164], "lieux_production": ["France", "Pérou"], "certifications": [], "produits": [] }
-  ] },
-  "11": { "groupes": [
-    { "id": "voyage-plein-air-booking", "groupe": "Booking.com (Booking Holdings)", "marques": ["Booking.com"], "siege": "Pays-Bas (Amsterdam)", "siege_pays": "NL", "statut": "rang1", "sous_categorie": "Hébergement entre particuliers et réservation", "commentaire": "Plateforme néerlandaise (Booking Holdings, cotée US mais siège Amsterdam) [181].", "sources": [181], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "voyage-plein-air-airbnb", "groupe": "Airbnb", "marques": ["Airbnb"], "siege": "États-Unis (San Francisco)", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "Hébergement entre particuliers et réservation", "commentaire": "Plateforme américaine [182]. Hors de vos zones.", "sources": [182], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "12": { "groupes": [
-    { "id": "distribution-paiement-carrefour", "groupe": "Carrefour", "marques": ["Carrefour", "Carrefour Market", "Carrefour Bio"], "siege": "France (Massy)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Grande distribution alimentaire", "commentaire": "Multinationale française cotée ; 1er actionnaire Galfa (famille Moulin) ~9,5 % du capital [155][156].", "sources": [155, 156], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "distribution-paiement-leclerc", "groupe": "E.Leclerc", "marques": ["E.Leclerc", "Leclerc Drive", "Marque Repère"], "siege": "France (Ivry-sur-Seine)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Grande distribution alimentaire", "commentaire": "Coopérative de commerçants français fondée par Michel-Édouard Leclerc [165].", "sources": [165], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "distribution-paiement-casino", "groupe": "Casino", "marques": ["Casino", "Monoprix", "Franprix", "Vival", "Cora"], "siege": "France (Saint-Étienne)", "siege_pays": "FR", "statut": "vigilance", "sous_categorie": "Grande distribution alimentaire", "commentaire": "Groupe français historiquement contrôlé par Jean-Charles Naouri (Rallye) ; restructuration financière en cours depuis 2024, cessions (Cora, GPA Brésil) [156].", "sources": [156], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "13": { "groupes": [
-    { "id": "telecoms-numerique-energie-orange", "groupe": "Orange", "marques": ["Orange"], "siege": "France (Issy-les-Moulineaux)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Opérateurs télécoms", "commentaire": "Opérateur français coté ; l'État français détient ~22,6 % du capital (33,8 % des droits de vote) [155].", "sources": [155], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "telecoms-numerique-energie-sfr", "groupe": "SFR (Altice France)", "marques": ["SFR", "RED by SFR", "Prixtel"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "vigilance", "sous_categorie": "Opérateurs télécoms", "commentaire": "Filiale d'Altice France (Patrick Drahi). Protocole 2026 : rachat par le consortium Bouygues Telecom / Free-Iliad / Orange (20,35 Md€) [158].", "sources": [158], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "telecoms-numerique-energie-totalenergies", "groupe": "TotalEnergies", "marques": ["TotalEnergies", "Total", "EREN"], "siege": "France (Courbevoie)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Énergie", "commentaire": "Groupe français coté ; l'État n'y contrôle pas (≈1,3 % via CDC), siège et décision en France [159].", "sources": [159], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "14": { "groupes": [
-    { "id": "banque-assurance-epargne-bnp", "groupe": "BNP Paribas", "marques": ["BNP Paribas", "Hello bank!", "Boursorama"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Banques, banques en ligne et courtiers", "commentaire": "Première banque française, siège 16 bd des Italiens, Paris [160][161].", "sources": [160, 161], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "banque-assurance-epargne-ca", "groupe": "Crédit Agricole", "marques": ["Crédit Agricole", "LCL", "BforBank"], "siege": "France (Montrouge)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Banques, banques en ligne et courtiers", "commentaire": "Groupe bancaire coopératif français (Caisses régionales).", "sources": [161], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "banque-assurance-epargne-axa", "groupe": "AXA", "marques": ["AXA"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Assurance", "commentaire": "Assureur français coté, n°1 mondial de l'assurance dommages.", "sources": [161], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "15": { "groupes": [
-    { "id": "transport-mobilite-sncf", "groupe": "SNCF", "marques": ["SNCF", "TGV", "Ouigo", "TER"], "siege": "France (Saint-Denis)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Rail, autocar et location", "commentaire": "Société nationale à capitaux publics [166].", "sources": [166], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "transport-mobilite-blablacar", "groupe": "BlaBlaCar", "marques": ["BlaBlaCar"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Rail, autocar et location", "commentaire": "Plateforme française de covoiturage [167].", "sources": [167], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "transport-mobilite-flix", "groupe": "Flix SE (FlixBus, FlixTrain)", "marques": ["FlixBus", "FlixTrain"], "siege": "Allemagne (Munich)", "siege_pays": "DE", "statut": "rang1", "sous_categorie": "Rail, autocar et location", "commentaire": "Groupe allemand de mobilité longue distance [168].", "sources": [168], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "17": { "groupes": [
-    { "id": "jouets-jeux-video-lego", "groupe": "LEGO", "marques": ["LEGO"], "siege": "Danemark (Billund)", "siege_pays": "DK", "statut": "rang1", "sous_categorie": "Jouets et jeux de société", "commentaire": "Groupe danois familial [169].", "sources": [169], "lieux_production": ["Danemark", "Tchéquie", "Hongrie", "Mexique", "Chine"], "certifications": [], "produits": [] },
-    { "id": "jouets-jeux-video-nintendo", "groupe": "Nintendo", "marques": ["Nintendo", "Switch"], "siege": "Japon (Kyoto)", "siege_pays": "JP", "statut": "rang2", "sous_categorie": "Consoles, plateformes et éditeurs", "commentaire": "Éditeur/constructeur japonais [170].", "sources": [170], "lieux_production": ["Chine", "Vietnam"], "certifications": [], "produits": [] },
-    { "id": "jouets-jeux-video-ravensburger", "groupe": "Ravensburger", "marques": ["Ravensburger"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "sous_categorie": "Jouets et jeux de société", "commentaire": "Éditeur allemand familial [171].", "sources": [171], "lieux_production": ["Allemagne", "Tchéquie"], "certifications": [], "produits": [] },
-    { "id": "jouets-jeux-video-xbox", "groupe": "Microsoft (Xbox)", "marques": ["Xbox"], "siege": "États-Unis (Redmond)", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "Consoles, plateformes et éditeurs", "commentaire": "Console américaine. Hors de vos zones.", "sources": [], "lieux_production": ["Chine"], "certifications": [], "produits": [] }
-  ] },
-  "18": { "groupes": [
-    { "id": "maison-bricolage-jardin-dyson", "groupe": "Dyson", "marques": ["Dyson"], "siege": "Royaume-Uni (Malmesbury)", "siege_pays": "GB", "statut": "vigilance", "sous_categorie": "Outillage, jardin et entretien", "commentaire": "Société britannique (fondateur James Dyson) ; siège administratif déplacé à Singapour en 2019 [178].", "sources": [178], "lieux_production": ["Malaisie", "Singapour", "Philippines"], "certifications": [], "produits": [] }
-  ] },
-  "19": { "groupes": [
-    { "id": "montres-bijoux-optique-richemont", "groupe": "Richemont", "marques": ["Cartier", "Van Cleef & Arpels", "IWC", "Piaget", "Montblanc", "Baume & Mercier"], "siege": "Suisse (Genève)", "siege_pays": "CH", "statut": "rang1", "sous_categorie": "Horlogerie", "commentaire": "Groupe suisse de luxe (horlogerie, joaillerie) [172].", "sources": [172], "lieux_production": ["Suisse", "France"], "certifications": [], "produits": [] },
-    { "id": "montres-bijoux-optique-garmin", "groupe": "Garmin", "marques": ["Garmin"], "siege": "États-Unis (Olathe) / Suisse", "siege_pays": "US", "statut": "hors_zones", "sous_categorie": "Montres et objets connectés", "commentaire": "Objets connectés américains [173]. Hors de vos zones.", "sources": [173], "lieux_production": ["Chine", "Taïwan"], "certifications": [], "produits": [] }
-  ] },
-  "20": { "groupes": [
-    { "id": "medias-streaming-culture-spotify", "groupe": "Spotify", "marques": ["Spotify"], "siege": "Suède (Stockholm)", "siege_pays": "SE", "statut": "rang1", "sous_categorie": "Musique, livres audio et radio", "commentaire": "Plateforme suédoise [174].", "sources": [174], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "medias-streaming-culture-radiofrance", "groupe": "Radio France", "marques": ["France Inter", "France Culture", "franceinfo", "France Musique"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Musique, livres audio et radio", "commentaire": "Service public audiovisuel français [175].", "sources": [175], "lieux_production": [], "certifications": [], "produits": [] },
-    { "id": "medias-streaming-culture-francetelevisions", "groupe": "France Télévisions", "marques": ["France 2", "France 3", "France 4", "France 5", " france.tv"], "siege": "France (Paris)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Télévision et vidéo en ligne", "commentaire": "Service public audiovisuel français.", "sources": [175], "lieux_production": [], "certifications": [], "produits": [] }
-  ] },
-  "21": { "groupes": [
-    { "id": "restauration-livraison-paul", "groupe": "Paul", "marques": ["Paul"], "siege": "France", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Restauration rapide et cafés", "commentaire": "Boulangerie française historique [176].", "sources": [176], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "restauration-livraison-brioche-doree", "groupe": "Brioche Dorée", "marques": ["Brioche Dorée"], "siege": "France", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Restauration rapide et cafés", "commentaire": "Chaîne française de restauration rapide (groupe Le Duff ? non — Brioche Dorée est indépendante, famille) — à vérifier.", "sources": [176], "lieux_production": ["France"], "certifications": [], "produits": [] },
-    { "id": "restauration-livraison-sodexo", "groupe": "Sodexo", "marques": ["Sodexo", "Sodexo Live!", "Pluxee"], "siege": "France (Issy-les-Moulineaux)", "siege_pays": "FR", "statut": "rang1", "sous_categorie": "Restauration rapide et cafés", "commentaire": "Groupe français de restauration collective, n°1 mondial [177].", "sources": [177], "lieux_production": ["France"], "certifications": [], "produits": [] }
-  ] }
+ "01": {
+  "groupes": [
+   {
+    "id": "automobile-toyota",
+    "groupe": "Toyota",
+    "marques": [
+     "Toyota",
+     "Lexus",
+     "Daihatsu"
+    ],
+    "siege": "Japon (Toyota City)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "Constructeur japonais. Usine TMMF à Onnaing (Nord) : Yaris et Yaris Cross produites en France (hybrides ; la prochaine électrique ira en Tchéquie) [147][148]. Partenaire de Suzuki.",
+    "sources": [
+     147,
+     148,
+     149
+    ],
+    "lieux_production": [
+     "France (Onnaing, Nord)",
+     "Tchéquie (Kolin)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "automobile-toyota-yaris",
+      "nom": "Yaris / Yaris Cross",
+      "assemblage": "France (Onnaing, Nord)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produites à Onnaing (TMMF) ; ~1 250 véhicules/jour en 2026 [147][148]."
+     }
+    ]
+   },
+   {
+    "id": "automobile-honda",
+    "groupe": "Honda",
+    "marques": [
+     "Honda",
+     "Acura",
+     "Afeela"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Constructeurs japonais et sud-coréens",
+    "commentaire": "Constructeur japonais. Coentreprise Sony Honda pour les VE Afeela (lancement 2026) [150].",
+    "sources": [
+     150
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "automobile-honda-afeela",
+      "nom": "Afeela (VE Sony Honda)",
+      "assemblage": "À confirmer (lancement 2026)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Coentreprise Sony Honda [150]."
+     }
+    ]
+   },
+   {
+    "id": "automobile-ford",
+    "groupe": "Ford",
+    "marques": [
+     "Ford"
+    ],
+    "siege": "États-Unis (Dearborn)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Constructeur américain. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-gm",
+    "groupe": "General Motors",
+    "marques": [
+     "Chevrolet",
+     "GMC",
+     "Cadillac",
+     "Buick"
+    ],
+    "siege": "États-Unis (Détroit)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Constructeur américain. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "05": {
+  "groupes": [
+   {
+    "id": "televiseurs-samsung",
+    "groupe": "Samsung",
+    "marques": [
+     "Samsung (TV Neo QLED, OLED)"
+    ],
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
+    "statut": "rang2",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Groupe sud-coréen. TV produites notamment en Slovaquie/Hongrie pour l'Europe.",
+    "sources": [],
+    "lieux_production": [
+     "Slovaquie",
+     "Hongrie"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "08": {
+  "groupes": [
+   {
+    "id": "alimentation-boissons-danone",
+    "groupe": "Danone",
+    "marques": [
+     "Danone",
+     "Activia",
+     "Actimel",
+     "Evian",
+     "Volvic",
+     "Alpro"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Multinationale alimentaire française, cotée au CAC 40 [151].",
+    "sources": [
+     151
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-lactalis",
+    "groupe": "Lactalis",
+    "marques": [
+     "Lactalis",
+     "Président",
+     "Galbani",
+     "Parmalat",
+     "Lactel"
+    ],
+    "siege": "France (Laval)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "N°1 mondial des produits laitiers, groupe familial français [152][153].",
+    "sources": [
+     152,
+     153
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-avril",
+    "groupe": "Avril",
+    "marques": [
+     "Avril",
+     "Puget",
+     "Lesieur"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Groupe agroalimentaire familial français (huiles, margarines).",
+    "sources": [
+     153
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-teresos",
+    "groupe": "Tereos",
+    "marques": [
+     "Tereos",
+     "Beghin Say",
+     "Daddy"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Coopérative sucrière française [154].",
+    "sources": [
+     154
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-ldc",
+    "groupe": "LDC",
+    "marques": [
+     "LDC",
+     "Le Gaulois",
+     "Loué",
+     "Père Dodu"
+    ],
+    "siege": "France (Sablé-sur-Sarthe)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Champion français de la volaille, encore largement contrôlé par les familles fondatrices [153].",
+    "sources": [
+     153
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-coca-cola",
+    "groupe": "The Coca-Cola Company",
+    "marques": [
+     "Coca-Cola",
+     "Fanta",
+     "Sprite",
+     "Minute Maid"
+    ],
+    "siege": "États-Unis (Atlanta)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Boissons",
+    "commentaire": "Groupe américain. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [
+     "France (usines d'embouteillage)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-pepsico",
+    "groupe": "PepsiCo",
+    "marques": [
+     "Pepsi",
+     "Tropicana",
+     "Lay's",
+     "7UP"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Boissons",
+    "commentaire": "Groupe américain. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-suntory",
+    "groupe": "Suntory",
+    "marques": [
+     "Suntory",
+     "Orangina",
+     "Schweppes",
+     "Ribena"
+    ],
+    "siege": "Japon (Osaka)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Boissons",
+    "commentaire": "Groupe japonais (Orangina Schweppes Europe).",
+    "sources": [],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-ferrero",
+    "groupe": "Ferrero",
+    "marques": [
+     "Nutella",
+     "Kinder",
+     "Ferrero Rocher",
+     "Kinder Bueno",
+     "Raffaello",
+     "Tic Tac",
+     "Kinder Pingui"
+    ],
+    "aliases": [
+     "nutella",
+     "kinder",
+     "ferrero rocher",
+     "rocher",
+     "raffaello",
+     "tic tac"
+    ],
+    "siege": "Italie (Alba)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Groupe familial italien, n°1 mondial de la confiserie chocolatée (Nutella) [183].",
+    "sources": [
+     183
+    ],
+    "lieux_production": [
+     "Italie",
+     "France",
+     "Allemagne",
+     "Pologne",
+     "Brésil",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "alimentation-et-boissons-ferrero-nutella",
+      "nom": "Nutella",
+      "assemblage": "France (Villeneuve-d'Ascq) et autres sites UE",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit en France (site de Villeneuve-d'Ascq) et dans plusieurs usines européennes [183]."
+     }
+    ]
+   }
+  ]
+ },
+ "09": {
+  "groupes": [
+   {
+    "id": "hygiene-beaute-sante-chanel",
+    "groupe": "Chanel",
+    "marques": [
+     "Chanel"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Beauté, hygiène et entretien",
+    "commentaire": "Maison française privée (famille Wertheimer) [179].",
+    "sources": [
+     179
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-beaute-sante-hermes",
+    "groupe": "Hermès",
+    "marques": [
+     "Hermès"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Luxe et mode haut de gamme",
+    "commentaire": "Maison française familiale [180].",
+    "sources": [
+     180
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "10": {
+  "groupes": [
+   {
+    "id": "vetements-chaussures-sport-nike",
+    "groupe": "Nike",
+    "marques": [
+     "Nike"
+    ],
+    "siege": "États-Unis (Beaverton)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Sport",
+    "commentaire": "Équipementier américain, n°1 mondial [164]. Hors de vos zones.",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam",
+     "Indonésie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-adidas",
+    "groupe": "Adidas",
+    "marques": [
+     "Adidas",
+     "Adidas Originals"
+    ],
+    "siege": "Allemagne (Herzogenaurach)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Sport",
+    "commentaire": "Équipementier allemand, n°2 mondial [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-puma",
+    "groupe": "Puma",
+    "marques": [
+     "Puma"
+    ],
+    "siege": "Allemagne (Herzogenaurach)",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "sous_categorie": "Sport",
+    "commentaire": "Anta Sports (Chine) est devenu premier actionnaire avec 29,06 % en janvier 2026 [162][163].",
+    "sources": [
+     162,
+     163
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-decathlon",
+    "groupe": "Decathlon",
+    "marques": [
+     "Decathlon",
+     "Quechua",
+     "Domyos",
+     "Kipsta",
+     "B'Twin"
+    ],
+    "siege": "France (Lille)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Sport",
+    "commentaire": "Groupe familial français, n°3 mondial du sport [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "France",
+     "Chine",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-asics",
+    "groupe": "Asics",
+    "marques": [
+     "Asics",
+     "Onitsuka Tiger"
+    ],
+    "siege": "Japon (Kobe)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Sport",
+    "commentaire": "Équipementier japonais [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-lacoste",
+    "groupe": "Lacoste",
+    "marques": [
+     "Lacoste"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Marque française fondée par René Lacoste [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "France",
+     "Pérou"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "11": {
+  "groupes": [
+   {
+    "id": "voyage-plein-air-booking",
+    "groupe": "Booking.com (Booking Holdings)",
+    "marques": [
+     "Booking.com"
+    ],
+    "siege": "Pays-Bas (Amsterdam)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "commentaire": "Plateforme néerlandaise (Booking Holdings, cotée US mais siège Amsterdam) [181].",
+    "sources": [
+     181
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-plein-air-airbnb",
+    "groupe": "Airbnb",
+    "marques": [
+     "Airbnb"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "commentaire": "Plateforme américaine [182]. Hors de vos zones.",
+    "sources": [
+     182
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "12": {
+  "groupes": [
+   {
+    "id": "distribution-paiement-carrefour",
+    "groupe": "Carrefour",
+    "marques": [
+     "Carrefour",
+     "Carrefour Market",
+     "Carrefour Bio"
+    ],
+    "siege": "France (Massy)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Multinationale française cotée ; 1er actionnaire Galfa (famille Moulin) ~9,5 % du capital [155][156].",
+    "sources": [
+     155,
+     156
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-leclerc",
+    "groupe": "E.Leclerc",
+    "marques": [
+     "E.Leclerc",
+     "Leclerc Drive",
+     "Marque Repère"
+    ],
+    "siege": "France (Ivry-sur-Seine)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Coopérative de commerçants français fondée par Michel-Édouard Leclerc [165].",
+    "sources": [
+     165
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-casino",
+    "groupe": "Casino",
+    "marques": [
+     "Casino",
+     "Monoprix",
+     "Franprix",
+     "Vival",
+     "Cora"
+    ],
+    "siege": "France (Saint-Étienne)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Groupe français historiquement contrôlé par Jean-Charles Naouri (Rallye) ; restructuration financière en cours depuis 2024, cessions (Cora, GPA Brésil) [156].",
+    "sources": [
+     156
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-amazon",
+    "groupe": "Amazon",
+    "marques": [
+     "Amazon",
+     "Amazon Prime",
+     "AWS"
+    ],
+    "aliases": [
+     "amazon",
+     "prime",
+     "aws"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Groupe américain [189]. Hors de vos zones.",
+    "sources": [
+     189
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "13": {
+  "groupes": [
+   {
+    "id": "telecoms-numerique-energie-orange",
+    "groupe": "Orange",
+    "marques": [
+     "Orange"
+    ],
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Opérateur français coté ; l'État français détient ~22,6 % du capital (33,8 % des droits de vote) [155].",
+    "sources": [
+     155
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-sfr",
+    "groupe": "SFR (Altice France)",
+    "marques": [
+     "SFR",
+     "RED by SFR",
+     "Prixtel"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Filiale d'Altice France (Patrick Drahi). Protocole 2026 : rachat par le consortium Bouygues Telecom / Free-Iliad / Orange (20,35 Md€) [158].",
+    "sources": [
+     158
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-totalenergies",
+    "groupe": "TotalEnergies",
+    "marques": [
+     "TotalEnergies",
+     "Total",
+     "EREN"
+    ],
+    "siege": "France (Courbevoie)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Groupe français coté ; l'État n'y contrôle pas (≈1,3 % via CDC), siège et décision en France [159].",
+    "sources": [
+     159
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "14": {
+  "groupes": [
+   {
+    "id": "banque-assurance-epargne-bnp",
+    "groupe": "BNP Paribas",
+    "marques": [
+     "BNP Paribas",
+     "Hello bank!",
+     "Boursorama"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Première banque française, siège 16 bd des Italiens, Paris [160][161].",
+    "sources": [
+     160,
+     161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-epargne-ca",
+    "groupe": "Crédit Agricole",
+    "marques": [
+     "Crédit Agricole",
+     "LCL",
+     "BforBank"
+    ],
+    "siege": "France (Montrouge)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Groupe bancaire coopératif français (Caisses régionales).",
+    "sources": [
+     161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-epargne-axa",
+    "groupe": "AXA",
+    "marques": [
+     "AXA"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "Assureur français coté, n°1 mondial de l'assurance dommages.",
+    "sources": [
+     161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "15": {
+  "groupes": [
+   {
+    "id": "transport-mobilite-sncf",
+    "groupe": "SNCF",
+    "marques": [
+     "SNCF",
+     "TGV",
+     "Ouigo",
+     "TER"
+    ],
+    "siege": "France (Saint-Denis)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Société nationale à capitaux publics [166].",
+    "sources": [
+     166
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-mobilite-blablacar",
+    "groupe": "BlaBlaCar",
+    "marques": [
+     "BlaBlaCar"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Plateforme française de covoiturage [167].",
+    "sources": [
+     167
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-mobilite-flix",
+    "groupe": "Flix SE (FlixBus, FlixTrain)",
+    "marques": [
+     "FlixBus",
+     "FlixTrain"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Groupe allemand de mobilité longue distance [168].",
+    "sources": [
+     168
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "17": {
+  "groupes": [
+   {
+    "id": "jouets-jeux-video-lego",
+    "groupe": "LEGO",
+    "marques": [
+     "LEGO"
+    ],
+    "siege": "Danemark (Billund)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Groupe danois familial [169].",
+    "sources": [
+     169
+    ],
+    "lieux_production": [
+     "Danemark",
+     "Tchéquie",
+     "Hongrie",
+     "Mexique",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-nintendo",
+    "groupe": "Nintendo",
+    "marques": [
+     "Nintendo",
+     "Switch"
+    ],
+    "siege": "Japon (Kyoto)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Consoles, plateformes et éditeurs",
+    "commentaire": "Éditeur/constructeur japonais [170].",
+    "sources": [
+     170
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-ravensburger",
+    "groupe": "Ravensburger",
+    "marques": [
+     "Ravensburger"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Éditeur allemand familial [171].",
+    "sources": [
+     171
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Tchéquie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-xbox",
+    "groupe": "Microsoft (Xbox)",
+    "marques": [
+     "Xbox"
+    ],
+    "siege": "États-Unis (Redmond)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Consoles, plateformes et éditeurs",
+    "commentaire": "Console américaine. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "18": {
+  "groupes": [
+   {
+    "id": "maison-bricolage-jardin-dyson",
+    "groupe": "Dyson",
+    "marques": [
+     "Dyson"
+    ],
+    "siege": "Royaume-Uni (Malmesbury)",
+    "siege_pays": "GB",
+    "statut": "vigilance",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Société britannique (fondateur James Dyson) ; siège administratif déplacé à Singapour en 2019 [178].",
+    "sources": [
+     178
+    ],
+    "lieux_production": [
+     "Malaisie",
+     "Singapour",
+     "Philippines"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "19": {
+  "groupes": [
+   {
+    "id": "montres-bijoux-optique-richemont",
+    "groupe": "Richemont",
+    "marques": [
+     "Cartier",
+     "Van Cleef & Arpels",
+     "IWC",
+     "Piaget",
+     "Montblanc",
+     "Baume & Mercier"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Groupe suisse de luxe (horlogerie, joaillerie) [172].",
+    "sources": [
+     172
+    ],
+    "lieux_production": [
+     "Suisse",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-garmin",
+    "groupe": "Garmin",
+    "marques": [
+     "Garmin"
+    ],
+    "siege": "États-Unis (Olathe) / Suisse",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Montres et objets connectés",
+    "commentaire": "Objets connectés américains [173]. Hors de vos zones.",
+    "sources": [
+     173
+    ],
+    "lieux_production": [
+     "Chine",
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "medias-streaming-culture-spotify",
+    "groupe": "Spotify",
+    "marques": [
+     "Spotify"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Plateforme suédoise [174].",
+    "sources": [
+     174
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-radiofrance",
+    "groupe": "Radio France",
+    "marques": [
+     "France Inter",
+     "France Culture",
+     "franceinfo",
+     "France Musique"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Service public audiovisuel français [175].",
+    "sources": [
+     175
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-francetelevisions",
+    "groupe": "France Télévisions",
+    "marques": [
+     "France 2",
+     "France 3",
+     "France 4",
+     "France 5",
+     " france.tv"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Service public audiovisuel français.",
+    "sources": [
+     175
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-disney",
+    "groupe": "The Walt Disney Company",
+    "marques": [
+     "Disney",
+     "Disney+",
+     "Pixar",
+     "Marvel",
+     "Lucasfilm"
+    ],
+    "aliases": [
+     "disney",
+     "disney+",
+     "pixar",
+     "marvel"
+    ],
+    "siege": "États-Unis (Burbank)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Groupe américain [188]. Hors de vos zones.",
+    "sources": [
+     188
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "21": {
+  "groupes": [
+   {
+    "id": "restauration-livraison-paul",
+    "groupe": "Paul",
+    "marques": [
+     "Paul"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Boulangerie française historique [176].",
+    "sources": [
+     176
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-livraison-brioche-doree",
+    "groupe": "Brioche Dorée",
+    "marques": [
+     "Brioche Dorée"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne française de restauration rapide (groupe Le Duff ? non — Brioche Dorée est indépendante, famille) — à vérifier.",
+    "sources": [
+     176
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-livraison-sodexo",
+    "groupe": "Sodexo",
+    "marques": [
+     "Sodexo",
+     "Sodexo Live!",
+     "Pluxee"
+    ],
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Groupe français de restauration collective, n°1 mondial [177].",
+    "sources": [
+     177
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-livraison-mcdonalds",
+    "groupe": "McDonald's",
+    "marques": [
+     "McDonald's"
+    ],
+    "aliases": [
+     "mcdonald",
+     "big mac",
+     "mcdonalds"
+    ],
+    "siege": "États-Unis (Chicago)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne américaine [186]. Produit phare : Big Mac (viande UE en France).",
+    "sources": [
+     186
+    ],
+    "lieux_production": [
+     "France (fournisseurs UE)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-livraison-mcdonalds-big-mac",
+      "nom": "Big Mac",
+      "assemblage": "France (préparé en restaurant)",
+      "origine_pieces": "Union européenne (viande)",
+      "certifications": [],
+      "note": "Produit phare [186]."
+     }
+    ]
+   },
+   {
+    "id": "restauration-livraison-starbucks",
+    "groupe": "Starbucks",
+    "marques": [
+     "Starbucks"
+    ],
+    "aliases": [
+     "starbucks",
+     "frappuccino",
+     "café latte"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne américaine [187].",
+    "sources": [
+     187
+    ],
+    "lieux_production": [
+     "France (cafés)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-livraison-starbucks-latte",
+      "nom": "Caffè Latte",
+      "assemblage": "France (préparé en magasin)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit phare [187]."
+     }
+    ]
+   }
+  ]
+ },
+ "03": {
+  "groupes": [
+   {
+    "id": "pneumatiques-michelin",
+    "groupe": "Michelin",
+    "marques": [
+     "Michelin",
+     "BFGoodrich",
+     "Kléber"
+    ],
+    "aliases": [
+     "michelin",
+     "bfgoodrich",
+     "kléber"
+    ],
+    "siege": "France (Clermont-Ferrand)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Manufacturiers européens",
+    "commentaire": "Manufacturier français, n°1 mondial du pneu [184]. Produit phare : Pilot Sport.",
+    "sources": [
+     184
+    ],
+    "lieux_production": [
+     "France",
+     "États-Unis",
+     "Chine",
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "pneumatiques-michelin-pilot-sport",
+      "nom": "Pilot Sport",
+      "assemblage": "France et autres sites UE",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit phare de la marque [184]."
+     }
+    ]
+   }
+  ]
+ },
+ "06": {
+  "groupes": [
+   {
+    "id": "informatique-telephonie-apple",
+    "groupe": "Apple",
+    "marques": [
+     "iPhone",
+     "iPad",
+     "Mac",
+     "Apple Watch",
+     "AirPods"
+    ],
+    "aliases": [
+     "iphone",
+     "ipad",
+     "mac",
+     "apple watch",
+     "airpods"
+    ],
+    "siege": "États-Unis (Cupertino)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Groupe américain [185]. Produit phare : iPhone, assemblé en Chine et en Inde.",
+    "sources": [
+     185
+    ],
+    "lieux_production": [
+     "Chine",
+     "Inde",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-telephonie-apple-iphone",
+      "nom": "iPhone",
+      "assemblage": "Chine / Inde",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit phare [185]."
+     }
+    ]
+   }
+  ]
+ }
 }

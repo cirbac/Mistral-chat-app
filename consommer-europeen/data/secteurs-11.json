@@ -8,7 +8,9 @@
    {
     "id": "voyage-et-plein-air-lvmh",
     "groupe": "LVMH",
-    "marques": [],
+    "marques": [
+     "Rimowa"
+    ],
     "siege": "Allemagne (origine)",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -24,7 +26,9 @@
    {
     "id": "voyage-et-plein-air-longchamp",
     "groupe": "Longchamp",
-    "marques": [],
+    "marques": [
+     "Longchamp"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -38,7 +42,9 @@
    {
     "id": "voyage-et-plein-air-victorinox",
     "groupe": "Victorinox",
-    "marques": [],
+    "marques": [
+     "Victorinox Travel Gear"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -52,7 +58,9 @@
    {
     "id": "voyage-et-plein-air-delsey",
     "groupe": "Delsey",
-    "marques": [],
+    "marques": [
+     "Delsey Paris"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
@@ -69,7 +77,13 @@
    {
     "id": "voyage-et-plein-air-fenix-outdoor",
     "groupe": "Fenix Outdoor",
-    "marques": [],
+    "marques": [
+     "Fjällräven",
+     "Hanwag",
+     "Tierra",
+     "Royal Robbins",
+     "Devold"
+    ],
     "siege": "Suisse (siège), Suède",
     "siege_pays": "CH",
     "statut": "rang1",
@@ -87,7 +101,9 @@
    {
     "id": "voyage-et-plein-air-schwan-stabilo",
     "groupe": "Schwan-Stabilo",
-    "marques": [],
+    "marques": [
+     "Deuter"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -103,7 +119,9 @@
    {
     "id": "voyage-et-plein-air-vaude",
     "groupe": "Vaude",
-    "marques": [],
+    "marques": [
+     "Vaude"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -117,7 +135,9 @@
    {
     "id": "voyage-et-plein-air-petzl",
     "groupe": "Petzl",
-    "marques": [],
+    "marques": [
+     "Petzl"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -131,7 +151,10 @@
    {
     "id": "voyage-et-plein-air-millet-mountain-group",
     "groupe": "Millet Mountain Group",
-    "marques": [],
+    "marques": [
+     "Millet",
+     "Lafuma Outdoor"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -147,7 +170,10 @@
    {
     "id": "voyage-et-plein-air-decathlon",
     "groupe": "Decathlon",
-    "marques": [],
+    "marques": [
+     "Quechua",
+     "Forclaz"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -161,7 +187,9 @@
    {
     "id": "voyage-et-plein-air-k2-group",
     "groupe": "K2 Group",
-    "marques": [],
+    "marques": [
+     "Eider Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -177,7 +205,9 @@
    {
     "id": "voyage-et-plein-air-mammut",
     "groupe": "Mammut",
-    "marques": [],
+    "marques": [
+     "Mammut"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "vigilance",
@@ -194,7 +224,9 @@
    {
     "id": "voyage-et-plein-air-kontoor-brands",
     "groupe": "Kontoor Brands",
-    "marques": [],
+    "marques": [
+     "Helly Hansen Norvège (marque)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -210,7 +242,9 @@
    {
     "id": "voyage-et-plein-air-helen-of-troy",
     "groupe": "Helen of Troy",
-    "marques": [],
+    "marques": [
+     "Osprey États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -224,23 +258,14 @@
     "produits": []
    },
    {
-    "id": "voyage-et-plein-air-vf-columbia-patagonia",
-    "groupe": "VF, Columbia, Patagonia",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Sacs à dos et vêtements de montagne",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "voyage-et-plein-air-amer-sports",
     "groupe": "Amer Sports",
-    "marques": [],
+    "marques": [
+     "Salomon",
+     "Arc'teryx",
+     "Atomic",
+     "Wilson"
+    ],
     "siege": "Finlande (origine)",
     "siege_pays": "FI",
     "statut": "a_ecarter",
@@ -257,7 +282,9 @@
    {
     "id": "voyage-et-plein-air-anta-sports",
     "groupe": "Anta Sports",
-    "marques": [],
+    "marques": [
+     "Jack Wolfskin"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -273,7 +300,9 @@
    {
     "id": "voyage-et-plein-air-fenix-outdoor",
     "groupe": "Fenix Outdoor",
-    "marques": [],
+    "marques": [
+     "Hanwag"
+    ],
     "siege": "Allemagne (marque)",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -289,7 +318,9 @@
    {
     "id": "voyage-et-plein-air-meindl",
     "groupe": "Meindl",
-    "marques": [],
+    "marques": [
+     "Meindl"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -303,7 +334,9 @@
    {
     "id": "voyage-et-plein-air-scarpa",
     "groupe": "Scarpa",
-    "marques": [],
+    "marques": [
+     "Scarpa"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -317,7 +350,9 @@
    {
     "id": "voyage-et-plein-air-la-sportiva",
     "groupe": "La Sportiva",
-    "marques": [],
+    "marques": [
+     "La Sportiva"
+    ],
     "siege": "Italie",
     "siege_pays": "IT",
     "statut": "rang1",
@@ -331,7 +366,9 @@
    {
     "id": "voyage-et-plein-air-asics",
     "groupe": "Asics",
-    "marques": [],
+    "marques": [
+     "Asics (trail)"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -345,7 +382,9 @@
    {
     "id": "voyage-et-plein-air-deckers",
     "groupe": "Deckers",
-    "marques": [],
+    "marques": [
+     "Hoka États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -359,7 +398,9 @@
    {
     "id": "voyage-et-plein-air-amer-sports",
     "groupe": "Amer Sports",
-    "marques": [],
+    "marques": [
+     "Salomon"
+    ],
     "siege": "Finlande (origine)",
     "siege_pays": "FI",
     "statut": "a_ecarter",
@@ -373,7 +414,9 @@
    {
     "id": "voyage-et-plein-air-silva-sweden",
     "groupe": "Silva Sweden",
-    "marques": [],
+    "marques": [
+     "Primus Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -389,7 +432,9 @@
    {
     "id": "voyage-et-plein-air-trangia",
     "groupe": "Trangia",
-    "marques": [],
+    "marques": [
+     "Trangia Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -403,7 +448,9 @@
    {
     "id": "voyage-et-plein-air-decathlon",
     "groupe": "Decathlon",
-    "marques": [],
+    "marques": [
+     "Quechua"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -417,7 +464,9 @@
    {
     "id": "voyage-et-plein-air-newell-brands",
     "groupe": "Newell Brands",
-    "marques": [],
+    "marques": [
+     "Coleman États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -431,7 +480,9 @@
    {
     "id": "voyage-et-plein-air-foxconn",
     "groupe": "Foxconn",
-    "marques": [],
+    "marques": [
+     "Belkin Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -445,7 +496,9 @@
    {
     "id": "voyage-et-plein-air-gopro",
     "groupe": "GoPro",
-    "marques": [],
+    "marques": [
+     "GoPro États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -459,7 +512,9 @@
    {
     "id": "voyage-et-plein-air-anker-innovations",
     "groupe": "Anker Innovations",
-    "marques": [],
+    "marques": [
+     "Anker"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -473,7 +528,9 @@
    {
     "id": "voyage-et-plein-air-dji",
     "groupe": "DJI",
-    "marques": [],
+    "marques": [
+     "DJI"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -487,7 +544,9 @@
    {
     "id": "voyage-et-plein-air-arashi-vision",
     "groupe": "Arashi Vision",
-    "marques": [],
+    "marques": [
+     "Insta360"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -513,6 +572,13 @@
    "randonnée",
    "camping",
    "plein air"
+  ],
+  "aliases": [
+   "Samsonite",
+   "Tumi",
+   "American Tourister",
+   "Lipault",
+   "Gregory"
   ]
  }
 ]

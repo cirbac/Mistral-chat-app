@@ -8,7 +8,9 @@
    {
     "id": "televiseurs-lg-electronics",
     "groupe": "LG Electronics",
-    "marques": [],
+    "marques": [
+     "LG Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -22,7 +24,10 @@
    {
     "id": "televiseurs-sony",
     "groupe": "Sony",
-    "marques": [],
+    "marques": [
+     "Sony",
+     "Bravia"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "vigilance",
@@ -39,7 +44,9 @@
    {
     "id": "televiseurs-panasonic",
     "groupe": "Panasonic",
-    "marques": [],
+    "marques": [
+     "Panasonic"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "vigilance",
@@ -55,7 +62,9 @@
    {
     "id": "televiseurs-tp-vision-tpv-technology",
     "groupe": "TP Vision (TPV Technology)",
-    "marques": [],
+    "marques": [
+     "Philips (téléviseurs)"
+    ],
     "siege": "Pays-Bas (siège de TP Vision)",
     "siege_pays": "NL",
     "statut": "a_ecarter",
@@ -79,20 +88,6 @@
       "note": "TP Vision fabrique les TV Philips [18] ."
      }
     ]
-   },
-   {
-    "id": "televiseurs-hisense-tcl",
-    "groupe": "Hisense, TCL",
-    "marques": [],
-    "siege": "Chine",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Marques de téléviseurs",
-    "commentaire": "Groupes chinois.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
    }
   ],
   "sous_categories": [

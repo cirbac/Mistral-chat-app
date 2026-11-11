@@ -8,7 +8,9 @@
    {
     "id": "informatique-et-telephonie-fairphone",
     "groupe": "Fairphone",
-    "marques": [],
+    "marques": [
+     "Fairphone"
+    ],
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
@@ -24,7 +26,9 @@
    {
     "id": "informatique-et-telephonie-samsung",
     "groupe": "Samsung",
-    "marques": [],
+    "marques": [
+     "Galaxy Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -38,7 +42,9 @@
    {
     "id": "informatique-et-telephonie-sony",
     "groupe": "Sony",
-    "marques": [],
+    "marques": [
+     "Xperia"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -50,37 +56,12 @@
     "produits": []
    },
    {
-    "id": "informatique-et-telephonie-apple-google",
-    "groupe": "Apple, Google",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Smartphones",
-    "commentaire": "Hors de vos zones. Xiaomi, Oppo,",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "informatique-et-telephonie-huawei-honor",
-    "groupe": "Huawei, Honor",
-    "marques": [],
-    "siege": "Chine",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Ordinateurs",
-    "commentaire": "Groupes chinois.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "informatique-et-telephonie-acer",
     "groupe": "Acer",
-    "marques": [],
+    "marques": [
+     "Acer",
+     "Predator Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -94,7 +75,9 @@
    {
     "id": "informatique-et-telephonie-msi",
     "groupe": "MSI",
-    "marques": [],
+    "marques": [
+     "MSI Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -108,7 +91,10 @@
    {
     "id": "informatique-et-telephonie-gigabyte",
     "groupe": "Gigabyte",
-    "marques": [],
+    "marques": [
+     "Gigabyte",
+     "Aorus Taïwan"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -122,7 +108,9 @@
    {
     "id": "informatique-et-telephonie-samsung",
     "groupe": "Samsung",
-    "marques": [],
+    "marques": [
+     "Galaxy Book Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -136,7 +124,9 @@
    {
     "id": "informatique-et-telephonie-lg-electronics",
     "groupe": "LG Electronics",
-    "marques": [],
+    "marques": [
+     "LG gram Corée du Sud"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -150,7 +140,9 @@
    {
     "id": "informatique-et-telephonie-fujitsu-client-computing",
     "groupe": "Fujitsu Client Computing",
-    "marques": [],
+    "marques": [
+     "Fujitsu (PC)"
+    ],
     "siege": "Japon (marque)",
     "siege_pays": "JP",
     "statut": "a_ecarter",
@@ -166,7 +158,10 @@
    {
     "id": "informatique-et-telephonie-lenovo",
     "groupe": "Lenovo",
-    "marques": [],
+    "marques": [
+     "Lenovo",
+     "ThinkPad"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -178,23 +173,11 @@
     "produits": []
    },
    {
-    "id": "informatique-et-telephonie-hp-dell-apple",
-    "groupe": "HP, Dell, Apple",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Ordinateurs",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "informatique-et-telephonie-kobo",
     "groupe": "Kobo",
-    "marques": [],
+    "marques": [
+     "Canada (Toronto) /"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -208,7 +191,9 @@
    {
     "id": "informatique-et-telephonie-amazon",
     "groupe": "Amazon",
-    "marques": [],
+    "marques": [
+     "Kindle États-Unis"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "hors_zones",
@@ -222,7 +207,9 @@
    {
     "id": "informatique-et-telephonie-onyx-international",
     "groupe": "Onyx International",
-    "marques": [],
+    "marques": [
+     "Boox"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -236,7 +223,10 @@
    {
     "id": "informatique-et-telephonie-sennheiser-sonova",
     "groupe": "Sennheiser / Sonova",
-    "marques": [],
+    "marques": [
+     "Sennheiser",
+     "Sonova Consumer Hearing"
+    ],
     "siege": "Allemagne / Suisse",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -250,7 +240,9 @@
    {
     "id": "informatique-et-telephonie-gn-store-nord",
     "groupe": "GN Store Nord",
-    "marques": [],
+    "marques": [
+     "Jabra"
+    ],
     "siege": "Danemark",
     "siege_pays": "DK",
     "statut": "rang1",
@@ -264,7 +256,10 @@
    {
     "id": "informatique-et-telephonie-bang-olufsen",
     "groupe": "Bang & Olufsen",
-    "marques": [],
+    "marques": [
+     "Bang & Olufsen",
+     "Beoplay"
+    ],
     "siege": "Danemark",
     "siege_pays": "DK",
     "statut": "rang1",
@@ -278,7 +273,9 @@
    {
     "id": "informatique-et-telephonie-devialet",
     "groupe": "Devialet",
-    "marques": [],
+    "marques": [
+     "Devialet"
+    ],
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
@@ -292,7 +289,9 @@
    {
     "id": "informatique-et-telephonie-marshall-group",
     "groupe": "Marshall Group",
-    "marques": [],
+    "marques": [
+     "Marshall Suède"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang1",
@@ -306,7 +305,10 @@
    {
     "id": "informatique-et-telephonie-sony-audio-photo",
     "groupe": "Sony (audio, photo)",
-    "marques": [],
+    "marques": [
+     "Alpha",
+     "WH-1000X"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -320,7 +322,11 @@
    {
     "id": "informatique-et-telephonie-harman-samsung",
     "groupe": "Harman (Samsung)",
-    "marques": [],
+    "marques": [
+     "JBL",
+     "Harman Kardon",
+     "AKG États-Unis (siège)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "rang2",
@@ -334,7 +340,9 @@
    {
     "id": "informatique-et-telephonie-audio-technica",
     "groupe": "Audio-Technica",
-    "marques": [],
+    "marques": [
+     "Audio-Technica"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -348,7 +356,9 @@
    {
     "id": "informatique-et-telephonie-canon",
     "groupe": "Canon",
-    "marques": [],
+    "marques": [
+     "Canon"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -362,7 +372,9 @@
    {
     "id": "informatique-et-telephonie-nikon",
     "groupe": "Nikon",
-    "marques": [],
+    "marques": [
+     "Nikon"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -376,7 +388,9 @@
    {
     "id": "informatique-et-telephonie-fujifilm",
     "groupe": "Fujifilm",
-    "marques": [],
+    "marques": [
+     "Fujifilm"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -390,7 +404,9 @@
    {
     "id": "informatique-et-telephonie-brother",
     "groupe": "Brother",
-    "marques": [],
+    "marques": [
+     "Brother"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -404,7 +420,9 @@
    {
     "id": "informatique-et-telephonie-epson",
     "groupe": "Epson",
-    "marques": [],
+    "marques": [
+     "Epson"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
@@ -416,23 +434,11 @@
     "produits": []
    },
    {
-    "id": "informatique-et-telephonie-bose-sonos-hp",
-    "groupe": "Bose, Sonos, HP",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Audio, photo et impression",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "informatique-et-telephonie-lexmark",
     "groupe": "Lexmark",
-    "marques": [],
+    "marques": [
+     "Lexmark États-Unis (siège)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "a_ecarter",
@@ -446,7 +452,9 @@
    {
     "id": "informatique-et-telephonie-hasselblad-dji",
     "groupe": "Hasselblad (DJI)",
-    "marques": [],
+    "marques": [
+     "Hasselblad Suède (marque)"
+    ],
     "siege": "",
     "siege_pays": "??",
     "statut": "a_ecarter",
@@ -460,7 +468,9 @@
    {
     "id": "informatique-et-telephonie-avm",
     "groupe": "AVM",
-    "marques": [],
+    "marques": [
+     "Fritz!Box"
+    ],
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
@@ -472,37 +482,11 @@
     "produits": []
    },
    {
-    "id": "informatique-et-telephonie-samsung-sk-hynix-kioxia",
-    "groupe": "Samsung, SK hynix, Kioxia",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Réseau et stockage",
-    "commentaire": "Mémoire et stockage.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "informatique-et-telephonie-synology-qnap-d-link-zyxel",
-    "groupe": "Synology, QNAP, D-Link, Zyxel",
-    "marques": [],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Réseau et stockage",
-    "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "informatique-et-telephonie-tp-link",
     "groupe": "TP-Link",
-    "marques": [],
+    "marques": [
+     "TP-Link"
+    ],
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
@@ -531,6 +515,12 @@
    "audio",
    "photo",
    "réseau"
+  ],
+  "aliases": [
+   "Netgear",
+   "Ubiquiti",
+   "Western Digital",
+   "routeur"
   ]
  }
 ]

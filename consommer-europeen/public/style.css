@@ -543,6 +543,43 @@ button:hover {
   font-size: 0.9rem;
 }
 
+#add-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+#add-form label {
+  font-size: 0.8rem;
+  color: var(--texte-doux);
+  margin-top: 6px;
+}
+
+#add-form input,
+#add-form select {
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+#add-form button {
+  margin-top: 10px;
+  padding: 11px;
+  background: var(--cirba-noir);
+  color: var(--cirba-blanc);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+[data-theme='dark'] #add-form input,
+[data-theme='dark'] #add-form select {
+  background: #1b1b1d;
+  color: #f2f2f2;
+  border-color: #444;
+}
+
 #pw-form {
   display: flex;
   flex-direction: column;

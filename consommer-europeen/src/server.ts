@@ -1,7 +1,7 @@
 import express, { NextFunction, Request, Response } from 'express';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import { existsSync, readFileSync, readdirSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
 const rootDir = path.join(__dirname, '..');
 const envPath = path.join(rootDir, '.env');
@@ -28,6 +28,7 @@ interface Groupe {
   id: string;
   groupe: string;
   marques: string[];
+  aliases?: string[];
   siege: string;
   siege_pays: string;
   statut: string;
@@ -43,6 +44,7 @@ interface Secteur {
   num: string;
   nom: string;
   keywords?: string[];
+  aliases?: string[];
   note?: string;
   sous_categories?: string[];
   groupes: Groupe[];
@@ -69,6 +71,40 @@ if (existsSync(extensionsPath)) {
     const secteur = secteurs.find((s) => s.num === num);
     if (secteur) secteur.groupes.push(...ext.groupes);
   }
+}
+
+const pharesPath = path.join(dataDir, 'produits-phares.json');
+if (existsSync(pharesPath)) {
+  const phares = JSON.parse(readFileSync(pharesPath, 'utf8')) as Record<string, Produit[]>;
+  for (const [gid, produits] of Object.entries(phares)) {
+    for (const s of secteurs) {
+      const g = s.groupes.find((x) => x.id === gid);
+      if (g) {
+        const existing = new Set(g.produits.map((p) => p.id));
+        g.produits.push(...produits.filter((p) => !existing.has(p.id)));
+      }
+    }
+  }
+}
+
+const ajoutsPath = path.join(dataDir, 'ajouts.json');
+let ajouts: { num: string; groupe: Groupe }[] = [];
+if (existsSync(ajoutsPath)) {
+  ajouts = JSON.parse(readFileSync(ajoutsPath, 'utf8')) as { num: string; groupe: Groupe }[];
+}
+for (const a of ajouts) {
+  const secteur = secteurs.find((s) => s.num === a.num);
+  if (secteur) secteur.groupes.push(a.groupe);
+}
+
+function slugify(s: string): string {
+  return s
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 60);
 }
 const sources: Record<string, string> = Object.assign(
   {},
@@ -241,14 +277,17 @@ app.get('/api/search', requireAuth, (req, res) => {
     return;
   }
   const secteursMatch = secteurs.filter(
-    (s) => norm(s.nom).includes(q) || (s.keywords ?? []).some((k) => norm(k).includes(q)),
+    (s) =>
+      norm(s.nom).includes(q) ||
+      (s.keywords ?? []).some((k) => norm(k).includes(q)) ||
+      (s.aliases ?? []).some((a) => norm(a).includes(q)),
   );
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
   let masquees = 0;
   for (const s of secteurs) {
     for (const g of s.groupes) {
       const hay = norm(
-        [g.groupe, ...g.marques, s.nom, ...(s.keywords ?? []), g.commentaire, g.siege, ...g.produits.map((p) => p.nom)].join(' '),
+        [g.groupe, ...g.marques, ...(g.aliases ?? []), s.nom, ...(s.keywords ?? []), ...(s.aliases ?? []), g.commentaire, g.siege, ...g.produits.map((p) => p.nom)].join(' '),
       );
       if (!hay.includes(q)) continue;
       const item = withStatut(g, pref, s);
@@ -301,6 +340,47 @@ app.get('/api/groupes/:id', requireAuth, (req, res) => {
     return;
   }
   res.status(404).json({ error: 'Groupe introuvable.' });
+});
+
+app.post('/api/produits', requireAuth, (req, res) => {
+  const { q, num, marque, note } = req.body ?? {};
+  if (typeof q !== 'string' || q.trim().length < 2 || q.trim().length > 80) {
+    res.status(400).json({ error: 'Champ "q" requis (2 à 80 caractères).' });
+    return;
+  }
+  const secteur = secteurs.find((s) => s.num === String(num)) ?? secteurs[0];
+  const nom = q.trim();
+  const gid = secteur.id + '-propose-' + slugify(nom);
+  const groupe: Groupe = {
+    id: gid,
+    groupe: marque && typeof marque === 'string' && marque.trim() ? marque.trim() : nom,
+    marques: [nom],
+    siege: 'À vérifier',
+    siege_pays: '??',
+    statut: 'propose',
+    commentaire: `Ajout proposé par un utilisateur le ${new Date().toISOString().slice(0, 10)} : « ${nom} »${note && typeof note === 'string' ? ' — ' + note.slice(0, 200) : ''}. En attente de vérification (statut, détention, production, source).`,
+    sources: [],
+    lieux_production: [],
+    certifications: [],
+    produits: [
+      {
+        id: gid + '-' + slugify(nom),
+        nom,
+        assemblage: null,
+        origine_pieces: null,
+        certifications: [],
+        note: 'Produit proposé par un utilisateur — origine à vérifier.',
+      },
+    ],
+  };
+  ajouts.push({ num: secteur.num, groupe });
+  secteur.groupes.push(groupe);
+  try {
+    writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+  } catch (err) {
+    console.error(err);
+  }
+  res.status(201).json({ ok: true, groupe: withStatut(groupe, getPref(req), secteur) });
 });
 
 app.get('/api/produits/:id', requireAuth, (req, res) => {

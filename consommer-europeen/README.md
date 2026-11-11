@@ -83,6 +83,10 @@ Identité visuelle depuis les fichiers officiels du Drive, servis dans `public/a
 
 Palette extraite du logo : **noir `#040405`**, **anthracite `#282828`**, gris clair `#e5e5e5` / `#f1f1f1`, blanc — variables CSS `--cirba-*` dans `public/style.css`.
 
+## Extensions web (sources trouvées en ligne)
+
+`data/extensions-web.json` : ajouts de marques **hors document v4**, sourcés individuellement (recherche web 2026 : communiqués officiels, Wikipedia, presse éco). Chaque entrée référence des sources numérotées à partir de [147] dans `data/sources-web.json`. Le serveur fusionne ces groupes dans les secteurs correspondants au chargement. Pour ajouter une marque : ajouter une entrée dans `extensions-web.json` + sa source dans `sources-web.json`.
+
 ## Avertissement
 
 Document d'information générale — ni conseil en investissement ni recommandation d'achat de titres (repris du document source).
