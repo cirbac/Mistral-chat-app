@@ -109,6 +109,20 @@ const imagesOff: Record<string, string> = existsSync(imagesOffPath)
   ? (JSON.parse(readFileSync(imagesOffPath, 'utf8')) as Record<string, string>)
   : {};
 
+const motsClesPath = path.join(dataDir, 'mots-cles-marques.json');
+if (existsSync(motsClesPath)) {
+  const motsCles = JSON.parse(readFileSync(motsClesPath, 'utf8')) as Record<string, string[]>;
+  for (const s of secteurs) {
+    for (const g of s.groupes) {
+      const kws = motsCles[g.id];
+      if (kws && kws.length > 0) {
+        const set = new Set([...(g.aliases ?? []), ...kws]);
+        g.aliases = [...set];
+      }
+    }
+  }
+}
+
 const ajoutsPath = path.join(dataDir, 'ajouts.json');
 let ajouts: { num: string; groupe: Groupe }[] = [];
 if (existsSync(ajoutsPath)) {
@@ -305,11 +319,18 @@ app.get('/api/search', (req, res) => {
   }
   const matchAny = (hay: string) =>
     hay.includes(q) || variants.slice(1).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
+  const mots = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  const matchTousMots = (hay: string) =>
+    mots.length > 1 &&
+    mots.every(
+      (m) => hay.includes(m) || (SYNONYMES[m] ?? []).some((v) => hay.split(/[^a-z0-9]+/).includes(norm(v))),
+    );
+  const matchGroupe = (hay: string) => matchAny(hay) || matchTousMots(hay);
   const secteursMatch = secteurs.filter(
     (s) =>
-      matchAny(norm(s.nom)) ||
-      (s.keywords ?? []).some((k) => matchAny(norm(k))) ||
-      (s.aliases ?? []).some((a) => matchAny(norm(a))),
+      matchGroupe(norm(s.nom)) ||
+      (s.keywords ?? []).some((k) => matchGroupe(norm(k))) ||
+      (s.aliases ?? []).some((a) => matchGroupe(norm(a))),
   );
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
   const produitsMatch: { produit: Produit; groupe: ReturnType<typeof withStatut>; secteur: { id: string; num: string; nom: string } }[] = [];
@@ -322,14 +343,14 @@ app.get('/api/search', (req, res) => {
       );
       const haySecteur = norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' '));
       const hayProduits = g.produits.map((p) => norm([p.nom, p.note ?? ''].join(' ')));
-      const matchContexte = matchAny(hayContexte);
-      const matchSecteur = matchAny(haySecteur);
-      const matchProduit = hayProduits.some((h) => matchAny(h));
+      const matchContexte = matchGroupe(hayContexte);
+      const matchSecteur = matchGroupe(haySecteur);
+      const matchProduit = hayProduits.some((h) => matchGroupe(h));
       if (!matchContexte && !matchSecteur && !matchProduit) continue;
       if (item.recommande) {
         groupesMatch.push(item);
         for (let i = 0; i < g.produits.length; i++) {
-          if (matchContexte || matchAny(hayProduits[i])) {
+          if (matchContexte || matchGroupe(hayProduits[i])) {
             produitsMatch.push({ produit: g.produits[i], groupe: item, secteur: { id: s.id, num: s.num, nom: s.nom } });
           }
         }
