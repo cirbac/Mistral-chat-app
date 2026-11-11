@@ -287,16 +287,25 @@ app.get('/api/search', requireAuth, (req, res) => {
       (s.aliases ?? []).some((a) => norm(a).includes(q)),
   );
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
+  const produitsMatch: { produit: Produit; groupe: ReturnType<typeof withStatut>; secteur: { id: string; num: string; nom: string } }[] = [];
   let masquees = 0;
   for (const s of secteurs) {
     for (const g of s.groupes) {
+      const item = withStatut(g, pref, s);
       const hay = norm(
         [g.groupe, ...g.marques, ...(g.aliases ?? []), s.nom, ...(s.keywords ?? []), ...(s.aliases ?? []), g.commentaire, g.siege, ...g.produits.map((p) => p.nom)].join(' '),
       );
       if (!hay.includes(q)) continue;
-      const item = withStatut(g, pref, s);
-      if (item.recommande) groupesMatch.push(item);
-      else masquees++;
+      if (item.recommande) {
+        groupesMatch.push(item);
+        for (const p of g.produits) {
+          if (norm(p.nom).includes(q) || norm(p.note ?? '').includes(q)) {
+            produitsMatch.push({ produit: p, groupe: item, secteur: { id: s.id, num: s.num, nom: s.nom } });
+          }
+        }
+      } else {
+        masquees++;
+      }
     }
   }
   res.json({
@@ -304,6 +313,7 @@ app.get('/api/search', requireAuth, (req, res) => {
     pref,
     secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
     groupes: sortGroupes(groupesMatch),
+    produits: produitsMatch,
     masquees,
   });
 });
