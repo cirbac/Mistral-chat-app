@@ -262,23 +262,23 @@ h1, h2, h3 {
   background: rgba(255, 255, 255, 0.18);
 }
 
-.hero-pref {
-  margin-top: 20px;
+.topbar-pref {
   display: flex;
-  gap: 8px;
-  justify-content: center;
   align-items: center;
-  font-size: 0.85rem;
-  color: var(--cirba-gris);
+  gap: 8px;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.85);
+  white-space: nowrap;
 }
 
-.hero-pref select {
-  padding: 6px 10px;
+.topbar-pref select {
+  padding: 5px 10px;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.25);
   background: rgba(255, 255, 255, 0.08);
   color: var(--cirba-blanc);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
+  cursor: pointer;
 }
 
 .controls {
@@ -286,6 +286,7 @@ h1, h2, h3 {
   justify-self: end;
   display: flex;
   align-items: center;
+  gap: 12px;
   gap: 10px;
   flex-wrap: wrap;
 }
