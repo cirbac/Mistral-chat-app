@@ -11,14 +11,13 @@ const el = {
   pref: document.getElementById('pref'),
   user: document.getElementById('user'),
   logout: document.getElementById('logout'),
-  legende: document.getElementById('legende'),
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
+  contenu: document.querySelector('.contenu'),
   footer: document.getElementById('footer'),
-  metaSource: document.getElementById('meta-source'),
 };
 
 async function api(path) {
@@ -52,16 +51,9 @@ function show(view) {
   state.view = view;
   el.home.classList.toggle('hidden', view !== 'home');
   el.results.classList.toggle('hidden', view === 'home');
+  el.detail.classList.add('hidden');
+  el.contenu.classList.remove('avec-detail');
   if (view === 'home') el.search.value = '';
-}
-
-function renderLegend() {
-  el.legende.textContent = '';
-  for (const st of state.meta.statuts) {
-    const b = badge(st.label, st.couleur);
-    b.title = st.description;
-    el.legende.appendChild(b);
-  }
 }
 
 function renderPrefSelect() {
@@ -79,6 +71,7 @@ function renderPrefSelect() {
 function renderHome() {
   show('home');
   el.detail.classList.add('hidden');
+  el.contenu.classList.remove('avec-detail');
   el.results.textContent = '';
   el.chips.textContent = '';
   el.home.textContent = '';
@@ -138,7 +131,6 @@ async function showSecteur(id) {
   const s = await api(`/api/secteurs/${id}?pref=${state.pref}`);
   state.secteurId = id;
   show('sector');
-  el.detail.classList.add('hidden');
   el.chips.textContent = '';
   el.results.textContent = '';
 
@@ -259,13 +251,17 @@ function listeSources(container, sourcesResolues) {
 async function showGroupe(id) {
   const g = await api(`/api/groupes/${id}?pref=${state.pref}`);
   el.detail.classList.remove('hidden');
+  el.contenu.classList.add('avec-detail');
   el.detail.innerHTML = '';
 
   const retour = document.createElement('button');
   retour.className = 'retour';
   retour.type = 'button';
   retour.textContent = '← Fermer la fiche';
-  retour.addEventListener('click', () => el.detail.classList.add('hidden'));
+  retour.addEventListener('click', () => {
+    el.detail.classList.add('hidden');
+    el.contenu.classList.remove('avec-detail');
+  });
   el.detail.appendChild(retour);
 
   const h = document.createElement('h2');
@@ -347,6 +343,7 @@ async function showProduit(id) {
   const p = data.produit;
   const g = data.groupe;
   el.detail.classList.remove('hidden');
+  el.contenu.classList.add('avec-detail');
   el.detail.innerHTML = '';
 
   const retour = document.createElement('button');
@@ -422,9 +419,7 @@ async function init() {
     return;
   }
   state.meta = await api('/api/meta');
-  el.metaSource.textContent = `Source : ${state.meta.meta.source_document} — version ${state.meta.meta.version} du ${state.meta.meta.date}`;
   renderPrefSelect();
-  renderLegend();
   const stats = state.meta.meta.stats;
   if (stats) {
     el.footer.textContent = `Grille v${state.meta.meta.version} : ${stats.lignes} lignes · ${stats.secteurs} secteurs · ${stats.rang1} Rang 1 · ${stats.rang2} Rang 2 · ${stats.vigilance} Vigilance · ${stats.hors_zones} Hors zones · ${stats.a_ecarter} À écarter. ${state.meta.meta.disclaimer}`;
