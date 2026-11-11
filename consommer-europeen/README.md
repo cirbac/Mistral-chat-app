@@ -23,7 +23,7 @@ Connexion démo par défaut : `demo@consommer-europeen.fr` / `demo1234` (voir `.
 
 ## Utilisation
 
-- Se connecter, puis taper un mot dans la barre de recherche : `voiture` → toutes les marques du secteur Automobile, `pneu`, `café`…
+- Taper un mot dans la barre de recherche (accès libre, sans connexion) : `voiture` → toutes les marques du secteur Automobile, `pneu`, `café`…
 - Choisir sa **préférence d'achat** en haut à droite : les résultats sont filtrés (les lignes hors périmètre sont masquées, avec leur nombre affiché ; « Tout afficher » les montre avec leur badge)
 - Cliquer une marque/groupe → **fiche** : statut, siège, marques, détention/actionnariat (commentaire), lieux de production, produits/modèles, certifications, sources
 - Cliquer un **produit/modèle** → pays d'assemblage, origine des pièces, certifications, note
@@ -32,9 +32,6 @@ Connexion démo par défaut : `demo@consommer-europeen.fr` / `demo1234` (voir `.
 
 | Endpoint | Description |
 |---|---|
-| `POST /api/login` | `{email, password}` → cookie de session HttpOnly |
-| `POST /api/logout` | termine la session |
-| `GET /api/me` | utilisateur courant |
 | `GET /api/meta` | métadonnées, statuts, préférences, liste des secteurs |
 | `GET /api/search?q=...&pref=fr\|ue\|hautes_democraties\|all` | recherche secteurs + groupes filtrés par préférence |
 | `GET /api/secteurs/:id?pref=...` | détail d'un secteur et ses groupes |
@@ -46,8 +43,8 @@ Connexion démo par défaut : `demo@consommer-europeen.fr` / `demo1234` (voir `.
 ```
 consommer-europeen/
 ├── data/                    # grille.json + secteurs-XX.json (un par secteur) + sources-*.json
-├── src/server.ts            # Express : auth démo (cookie HttpOnly) + API + statique
-├── public/                  # UI vanilla (login.html, index.html, app.js, style.css)
+├── src/server.ts            # Express : API ouverte (sans authentification) + statique
+├── public/                  # UI vanilla (index.html, app.js, style.css, admin.html)
 └── tools/parse_docx.py      # parser docx -> JSON (pour rafraîchir les données)
 ```
 

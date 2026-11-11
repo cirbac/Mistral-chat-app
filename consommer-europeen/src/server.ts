@@ -1,6 +1,5 @@
-import express, { NextFunction, Request, Response } from 'express';
+import express, { Request, Response } from 'express';
 import path from 'node:path';
-import crypto from 'node:crypto';
 import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
 const rootDir = path.join(__dirname, '..');
@@ -10,10 +9,6 @@ if (existsSync(envPath)) {
 }
 
 const PORT = Number(process.env.PORT ?? 3000);
-const DEMO_EMAIL = (process.env.DEMO_USER_EMAIL ?? 'demo@consommer-europeen.fr').toLowerCase();
-const DEMO_PASSWORD = process.env.DEMO_USER_PASSWORD ?? 'demo1234';
-const SESSION_SECRET = process.env.SESSION_SECRET ?? crypto.randomUUID();
-const SESSION_TTL_MS = 7 * 24 * 3600 * 1000;
 
 interface Produit {
   id: string;
@@ -166,108 +161,16 @@ function sortGroupes<T extends { statut: string; groupe: string; recommande: boo
   });
 }
 
-const sessions = new Map<string, { email: string; createdAt: number }>();
-
-function hashPassword(p: string): string {
-  return crypto.createHash('sha256').update(SESSION_SECRET + p).digest('hex');
-}
-
-let demoPasswordHash = hashPassword(DEMO_PASSWORD);
-
-function getCookie(req: Request, name: string): string | undefined {
-  const raw = req.headers.cookie ?? '';
-  for (const part of raw.split(';')) {
-    const idx = part.indexOf('=');
-    if (idx === -1) continue;
-    if (part.slice(0, idx).trim() === name) return decodeURIComponent(part.slice(idx + 1).trim());
-  }
-  return undefined;
-}
-
-declare global {
-  // eslint-disable-next-line @typescript-eslint/no-namespace
-  namespace Express {
-    interface Request {
-      sessionUser?: string;
-    }
-  }
-}
-
 const app = express();
 app.use(express.json({ limit: '64kb' }));
 
-app.use((req, _res, next) => {
-  const token = getCookie(req, 'session');
-  const session = token ? sessions.get(token) : undefined;
-  if (session && Date.now() - session.createdAt < SESSION_TTL_MS) {
-    req.sessionUser = session.email;
-  } else if (token) {
-    sessions.delete(token);
-  }
-  next();
-});
-
-function requireAuth(req: Request, res: Response, next: NextFunction) {
-  if (req.sessionUser) return next();
-  res.status(401).json({ error: 'Non authentifié.' });
-}
-
 app.use(express.static(path.join(rootDir, 'public'), { index: false }));
 
-app.get('/', (req, res) => {
-  if (req.sessionUser) {
-    res.sendFile(path.join(rootDir, 'public', 'index.html'));
-  } else {
-    res.redirect('/login.html');
-  }
+app.get('/', (_req, res) => {
+  res.sendFile(path.join(rootDir, 'public', 'index.html'));
 });
 
-app.post('/api/login', (req, res) => {
-  const { email, password } = req.body ?? {};
-  if (typeof email !== 'string' || typeof password !== 'string') {
-    res.status(400).json({ error: 'Corps attendu : { "email": "...", "password": "..." }.' });
-    return;
-  }
-  const ok = email.toLowerCase() === DEMO_EMAIL && hashPassword(password) === demoPasswordHash;
-  if (!ok) {
-    res.status(401).json({ error: 'Identifiants invalides.' });
-    return;
-  }
-  const token = crypto.randomBytes(32).toString('hex');
-  sessions.set(token, { email: DEMO_EMAIL, createdAt: Date.now() });
-  res.setHeader(
-    'Set-Cookie',
-    `session=${token}; HttpOnly; SameSite=Lax; Path=/; MaxAge=${SESSION_TTL_MS / 1000}`,
-  );
-  res.json({ ok: true, email: DEMO_EMAIL });
-});
-
-app.post('/api/logout', (req, res) => {
-  const token = getCookie(req, 'session');
-  if (token) sessions.delete(token);
-  res.setHeader('Set-Cookie', 'session=; HttpOnly; SameSite=Lax; Path=/; MaxAge=0');
-  res.json({ ok: true });
-});
-
-app.get('/api/me', requireAuth, (req, res) => {
-  res.json({ email: req.sessionUser });
-});
-
-app.post('/api/account/password', requireAuth, (req, res) => {
-  const { currentPassword, newPassword } = req.body ?? {};
-  if (typeof currentPassword !== 'string' || typeof newPassword !== 'string' || newPassword.length < 8) {
-    res.status(400).json({ error: 'Mot de passe actuel requis et nouveau mot de passe de 8 caractères minimum.' });
-    return;
-  }
-  if (hashPassword(currentPassword) !== demoPasswordHash) {
-    res.status(401).json({ error: 'Mot de passe actuel incorrect.' });
-    return;
-  }
-  demoPasswordHash = hashPassword(newPassword);
-  res.json({ ok: true });
-});
-
-app.get('/api/meta', requireAuth, (_req, res) => {
+app.get('/api/meta', (_req, res) => {
   res.json({
     meta: grille.meta,
     methode: grille.methode,
@@ -291,7 +194,7 @@ function getPref(req: Request): string {
   return grille.preferences.some((p) => p.id === pref) ? pref : 'ue';
 }
 
-app.get('/api/search', requireAuth, (req, res) => {
+app.get('/api/search', (req, res) => {
   const q = norm(String(req.query.q ?? '').trim());
   const pref = getPref(req);
   if (!q) {
@@ -341,7 +244,7 @@ app.get('/api/search', requireAuth, (req, res) => {
   });
 });
 
-app.get('/api/secteurs/:id', requireAuth, (req, res) => {
+app.get('/api/secteurs/:id', (req, res) => {
   const pref = getPref(req);
   const s = secteurs.find((x) => x.id === req.params.id);
   if (!s) {
@@ -363,7 +266,7 @@ app.get('/api/secteurs/:id', requireAuth, (req, res) => {
   });
 });
 
-app.get('/api/groupes/:id', requireAuth, (req, res) => {
+app.get('/api/groupes/:id', (req, res) => {
   const pref = getPref(req);
   for (const s of secteurs) {
     const g = s.groupes.find((x) => x.id === req.params.id);
@@ -379,7 +282,7 @@ app.get('/api/groupes/:id', requireAuth, (req, res) => {
   res.status(404).json({ error: 'Groupe introuvable.' });
 });
 
-app.post('/api/produits', requireAuth, (req, res) => {
+app.post('/api/produits', (req, res) => {
   const { q, num, marque, note } = req.body ?? {};
   if (typeof q !== 'string' || q.trim().length < 2 || q.trim().length > 80) {
     res.status(400).json({ error: 'Champ "q" requis (2 à 80 caractères).' });
@@ -420,11 +323,11 @@ app.post('/api/produits', requireAuth, (req, res) => {
   res.status(201).json({ ok: true, groupe: withStatut(groupe, getPref(req), secteur) });
 });
 
-app.get('/admin', requireAuth, (req, res) => {
+app.get('/admin', (req, res) => {
   res.sendFile(path.join(rootDir, 'public', 'admin.html'));
 });
 
-app.get('/api/admin/ajouts', requireAuth, (_req, res) => {
+app.get('/api/admin/ajouts', (_req, res) => {
   res.json({
     ajouts: ajouts
       .filter((a) => !(a.groupe as { valide?: boolean }).valide)
@@ -436,7 +339,7 @@ app.get('/api/admin/ajouts', requireAuth, (_req, res) => {
   });
 });
 
-app.post('/api/admin/ajouts/:id/valider', requireAuth, (req, res) => {
+app.post('/api/admin/ajouts/:id/valider', (req, res) => {
   const a = ajouts.find((x) => x.groupe.id === req.params.id);
   if (!a) {
     res.status(404).json({ error: 'Ajout introuvable.' });
@@ -461,7 +364,7 @@ app.post('/api/admin/ajouts/:id/valider', requireAuth, (req, res) => {
   res.json({ ok: true, groupe: withStatut(a.groupe, 'all', secteur) });
 });
 
-app.delete('/api/admin/ajouts/:id', requireAuth, (req, res) => {
+app.delete('/api/admin/ajouts/:id', (req, res) => {
   const idx = ajouts.findIndex((x) => x.groupe.id === req.params.id);
   if (idx === -1) {
     res.status(404).json({ error: 'Ajout introuvable.' });
@@ -478,7 +381,7 @@ app.delete('/api/admin/ajouts/:id', requireAuth, (req, res) => {
   res.json({ ok: true });
 });
 
-app.get('/api/produits/:id', requireAuth, (req, res) => {
+app.get('/api/produits/:id', (req, res) => {
   const pref = getPref(req);
   for (const s of secteurs) {
     for (const g of s.groupes) {
@@ -498,7 +401,4 @@ app.get('/api/produits/:id', requireAuth, (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Consommer européen démarré sur http://localhost:${PORT}`);
-  if (process.env.SESSION_SECRET === undefined) {
-    console.log('SESSION_SECRET non défini : secret aléatoire généré (les sessions seront perdues au redémarrage).');
-  }
 });

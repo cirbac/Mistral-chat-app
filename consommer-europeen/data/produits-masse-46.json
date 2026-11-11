@@ -1,0 +1,3632 @@
+{
+ "alimentation-et-boissons-kelloggs": [
+  {
+   "id": "alimentation-et-boissons-kelloggs-5059321007743",
+   "nom": "Almond and Salted Caramel Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5059321007743"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5059319037103",
+   "nom": "Kellogg’s Fruit N Fibre Cereal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5059319037103"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053827193894",
+   "nom": "Bran flakes kellogg's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 375g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053827193894"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5000127404038",
+   "nom": "Country strore",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000127404038"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053827142229",
+   "nom": "Kellogg's Special K Peach & Apricot Cereal 360G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053827142229"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-6001306015501",
+   "nom": "Kelloggs Corn Flakes 500 GR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6001306015501"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-9310055122994",
+   "nom": "All Bran",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310055122994"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990156009",
+   "nom": "Pringles Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990156009"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990155354",
+   "nom": "Sour Cream & Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990155354"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990161669",
+   "nom": "Paprika Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990161669"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990127726",
+   "nom": "Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990127726"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990107339",
+   "nom": "Pringles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990107339"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990101573",
+   "nom": "Pringles originale",
+   "assemblage": "belgique",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990101573"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990127740",
+   "nom": "Pringles Sour Cream Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990127740"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990161966",
+   "nom": "Texas BBQ Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990161966"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990162703",
+   "nom": "Pringles paprika",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990162703"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167807",
+   "nom": "Pringles Original Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167807"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990101542",
+   "nom": "pringles hot & spicy",
+   "assemblage": "belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990101542"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990164158",
+   "nom": "Texas BBQ - Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990164158"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990106981",
+   "nom": "Pringles Cheesy Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990106981"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990161935",
+   "nom": "Pringles barbecue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990161935"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990175888",
+   "nom": "Pringles hot cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990175888"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182077",
+   "nom": "Mystery flavour Super Mario",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182077"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990101535",
+   "nom": "Cheese & Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990101535"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990127733",
+   "nom": "Snack salé au goût sel et vinaigre",
+   "assemblage": "Kutno",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990127733"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990101566",
+   "nom": "Pringles Potatoes chips Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990101566"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990162734",
+   "nom": "Pringles paprika 175 gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990162734"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990162765",
+   "nom": "Pringles Smokey Bacon Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990162765"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990127641",
+   "nom": "Pringles Cheese & onion",
+   "assemblage": "belgica",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990127641"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990176007",
+   "nom": "Pringles sweet chili",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990176007"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990179039",
+   "nom": "Sour Cream and Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990179039"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167692",
+   "nom": "Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167692"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182862",
+   "nom": "cream cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1.89 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182862"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990101580",
+   "nom": "Sel et vinaigre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990101580"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138430",
+   "nom": "Original Light",
+   "assemblage": "jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5 oz / 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138430"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990157075",
+   "nom": "Pringles Pizza Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990157075"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167883",
+   "nom": "Pringles classic paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score F · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167883"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167531",
+   "nom": "Pringles Salt & Vinegar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167531"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182596",
+   "nom": "Thai Style Green Curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182596"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182909",
+   "nom": "Pringles - Blazin Fried chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182909"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990125050",
+   "nom": "Pringles Sour Cream & Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990125050"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167913",
+   "nom": "Hot & Spicy",
+   "assemblage": "Polen",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167913"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138577",
+   "nom": "Pringles Cheddar Cheese flavored",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5 oz / 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138577"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990175123",
+   "nom": "Pringles Sweet Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990175123"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138416",
+   "nom": "Original Potato Crisps",
+   "assemblage": "jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.2 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138416"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122408",
+   "nom": "Pringles Sour Cream & Onion Flavour Potato Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 107g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122408"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182480",
+   "nom": "black truffle & butter flavour",
+   "assemblage": "polen",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182480"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990119325",
+   "nom": "Tuiles Pringles Emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990119325"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000183713",
+   "nom": "Pringles barbecue large",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000183713"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990121922",
+   "nom": "Pringles Ketchup GR. 165",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990121922"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122439",
+   "nom": "Pringles Desi Masala Tadka Flavour",
+   "assemblage": "malaysia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 107 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122439"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182534",
+   "nom": "Chinese Style Sweet & Sticky Wings Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182534"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167494",
+   "nom": "Pringels cheese & onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167494"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467103407",
+   "nom": "Original Flavour Savoury Snack / POTATO CRISPS",
+   "assemblage": "malaysia",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 134 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467103407"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122446",
+   "nom": "Pringles - South African Style Periperi Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122446"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-03808306",
+   "nom": "Snack Stacks Original",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 0.67oz (19g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03808306"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122392",
+   "nom": "PRINGLES ( ORIGINAL )",
+   "assemblage": "Maharastra",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 107g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122392"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138607",
+   "nom": "Salt & Vinegar",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5 oz (158 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138607"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990125111",
+   "nom": "Pringles sour cream&onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990125111"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167739",
+   "nom": "Prawn Cocktail Flavour",
+   "assemblage": "Belgium",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167739"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122415",
+   "nom": "Pringles Pizza Flavour Potato Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 102g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122415"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-7896004006277",
+   "nom": "Salgadinho De Batata Original Pringles Tubo 104g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 104g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896004006277"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990185764",
+   "nom": "Passport Flavours Japanese Style Stir Fry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990185764"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990162345",
+   "nom": "Chips Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990162345"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990172320",
+   "nom": "Snack salé au goût crème acidulée et oignon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 195g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990172320"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000184932",
+   "nom": "Pringles - Original",
+   "assemblage": "México",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 124 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000184932"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990164110",
+   "nom": "Pringles Jamón",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990164110"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138638",
+   "nom": "Crujientes Pringles Papa Pizza",
+   "assemblage": "jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138638"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990183197",
+   "nom": "Pringles Hot Fiery Paprika Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990183197"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467100031",
+   "nom": "Pringles Chessy Cheese Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 134 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467100031"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-7896004006239",
+   "nom": "Salgadinho De Batata Creme E Cebola Pringles Tubo 109g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 109g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896004006239"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990120659",
+   "nom": "Moroccan Style Roasted Pepper & Hummus",
+   "assemblage": "irland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990120659"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0034994101573",
+   "nom": "Pringles orginal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034994101573"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990168675",
+   "nom": "tzatziki flaviur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990168675"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138812",
+   "nom": "Original Lightly Salted",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 149g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138812"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990107315",
+   "nom": "Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990107315"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990180332",
+   "nom": "Classic Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990180332"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467127977",
+   "nom": "Pringles desi masala tadka 40g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467127977"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-03808403",
+   "nom": "Sour Cream & Onion Flavored Potato Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03808403"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990107322",
+   "nom": "عي Almo طاج حليب PRINGLES CHEESY CHEESE از اصفر e4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990107322"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167760",
+   "nom": "Smokey Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 185g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167760"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990185825",
+   "nom": "принглс синя кебаб",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990185825"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990185719",
+   "nom": "LINITED EDITION PRINGLE PASSPORT FLAVOURS MEXICAN",
+   "assemblage": "belgium",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990185719"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467100260",
+   "nom": "pringles original 42g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 42",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467100260"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990168637",
+   "nom": "Pringles Passport flavours Italian style peperoni pizza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 165gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990168637"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990137787",
+   "nom": "Original Tub",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990137787"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990161638",
+   "nom": "Pringles paprika 70g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990161638"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000184949",
+   "nom": "Pringles crema y cebolla",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 124 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000184949"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990163892",
+   "nom": "Pringles texas bbq sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990163892"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-4004019073129",
+   "nom": "Prime Goalberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4004019073129"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990179534",
+   "nom": "Passport Flavours French Fries Style",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990179534"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990188956",
+   "nom": "LIMITED EDITION PRINGLES SANTA'S SECRET FLAVOUR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990188956"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467100253",
+   "nom": "มันฝรั่งแผ่นทอดกรอบ รสซาวครีมและหัวหอม",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467100253"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100123984",
+   "nom": "Pringles original mega format",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 194 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100123984"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138720",
+   "nom": "Pringles Ranch",
+   "assemblage": "jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138720"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000138973",
+   "nom": "Cheddar & Sour Cream",
+   "assemblage": "jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5 oz (158 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000138973"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990157259",
+   "nom": "Passport Italian Style Focaccia Flavour",
+   "assemblage": "polen",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990157259"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-6958652300761",
+   "nom": "Pringles spicy crayfish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6958652300761"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000276453",
+   "nom": "Hot Honey Pringles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000276453"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-7896004006406",
+   "nom": "Pringles churrasco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896004006406"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000272264",
+   "nom": "ELOTE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000272264"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000279201",
+   "nom": "Pringles Chili Cheese Fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 5.5oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000279201"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000302633",
+   "nom": "Carnitas Taco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000302633"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122873",
+   "nom": "pringls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122873"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990186105",
+   "nom": "Pringles Texas BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990186105"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990162062",
+   "nom": "BBQ Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990162062"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000845260",
+   "nom": "Cheddar Cheese",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 71 g (2.5 oz)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000845260"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467103469",
+   "nom": "BBQ Flavour Savoury Snack / POTATO CRISPS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 134 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467103469"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990170371",
+   "nom": "Jamón",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990170371"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000846755",
+   "nom": "Pringles Queso",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000846755"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100852617",
+   "nom": "Potato Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100852617"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0034994107339",
+   "nom": "Pringle originals",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0034994107339"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-7896004008998",
+   "nom": "Sabor Cheddar e Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896004008998"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467125614",
+   "nom": "Pringles Tangy Tomato Twist Flavour Potato Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 102g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467125614"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000305009",
+   "nom": "Hot Ones",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000305009"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000302367",
+   "nom": "Mingles Dill Pickle & Ranch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5,5 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000302367"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000293108",
+   "nom": "Hot Ones Barbacoa Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000293108"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100150607",
+   "nom": "Pringles Street Taco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100150607"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990182947",
+   "nom": "Flame Grilled Steak Flavour Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990182947"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100150546",
+   "nom": "Hot Ones Barbacoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100150546"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467128127",
+   "nom": "Pringles desi masala tadka 134g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467128127"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990119004",
+   "nom": "Tuiles Pringles Original",
+   "assemblage": "Belgium",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990119004"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990160075",
+   "nom": "Flame Spicy BBQ",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990160075"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990160037",
+   "nom": "Flame Medium Kickin' Sour Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990160037"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990145058",
+   "nom": "Pizza Flavour Chips",
+   "assemblage": "Belgien",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990145058"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990171354",
+   "nom": "Пикантен снакс с вкус на пататас бравас",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 г",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990171354"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-06400118",
+   "nom": "Pringles Original 19g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06400118"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467100062",
+   "nom": "PRINGLES SALT & SEAWEED",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 102g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467100062"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000846748",
+   "nom": "Crema y Cebolla",
+   "assemblage": "jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000846748"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467100048",
+   "nom": "8886467100048",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467100048"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000183690",
+   "nom": "Pringles BBQ (small)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 2.5oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000183690"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467112874",
+   "nom": "MINIS ORIGINAL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 19g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467112874"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000845772",
+   "nom": "SNACK CUPS ORIGINAL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 8 oz, 228 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000845772"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000184956",
+   "nom": "Papas Pringles Sabor A Queso",
+   "assemblage": "mexico",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 124 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000184956"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990156979",
+   "nom": "Pringles ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990156979"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000245565",
+   "nom": "Pringles Scorchin BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000245565"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467122767",
+   "nom": "Pringles  spicy garlic prawns",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467122767"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000276477",
+   "nom": "Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000276477"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100111370",
+   "nom": "Pringles BBQ chips",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 156g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100111370"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100852686",
+   "nom": "Saveur de Crème Sure et Oignon",
+   "assemblage": "Etats-Unis d'Amérique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 39 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100852686"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000245534",
+   "nom": "Pringles Scorchin' Hot Cheddar imp",
+   "assemblage": "jackson tn",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 5.5oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000245534"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000298356",
+   "nom": "Papas Pringles Sabor Miel Mostaza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 158 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000298356"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000280177",
+   "nom": "Harvest Blends Sweet Potato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000280177"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467127434",
+   "nom": "Chilli & Lime Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 118 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467127434"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000301636",
+   "nom": "Loaded Hot Dog Pringles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000301636"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000100697",
+   "nom": "Original snack stacks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 32 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000100697"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467105814",
+   "nom": "pringles cheesycheese 42g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467105814"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-6958652306541",
+   "nom": "PRINGLE LIME & TART",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6958652306541"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000301902",
+   "nom": "All Dressed",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 5.5 oz (158g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000301902"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990178551",
+   "nom": "Prawn cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 165",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990178551"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990178469",
+   "nom": "299 ROP £2.99 P PRINGLES SALT & VINEGAR 18 kcal ri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990178469"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000293221",
+   "nom": "7 Layer Dip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000293221"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-7896004009582",
+   "nom": "Pringles Original 109g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896004009582"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000301810",
+   "nom": "Grilled Beer Brat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000301810"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990183951",
+   "nom": "Pringles - Flame Grilled Steak",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990183951"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467128875",
+   "nom": "Pringles Korean Crispy Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467128875"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990185917",
+   "nom": "Pringles Sour and Cream Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 70g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990185917"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990188246",
+   "nom": "Pigs N blankets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990188246"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-6958652300013",
+   "nom": "SOUR CREAM & ONION FLAVOUR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6958652300013"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990139552",
+   "nom": "Klassische Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990139552"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990149513",
+   "nom": "Rice fusion",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990149513"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990160112",
+   "nom": "Pringles Flame - Cheese and Chili",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990160112"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990138685",
+   "nom": "Patatas fritas Sabor queso y cebolla envase 200 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990138685"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990127627",
+   "nom": "Pringles BBQ barbecue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990127627"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990138708",
+   "nom": "Patatas fritas sabor Paprika envase 200 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990138708"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990107278",
+   "nom": "Tuiles Pringles Barbecue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990107278"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5050083943652",
+   "nom": "Pringles SCO Sour Cream & Onion 130",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5050083943652"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990123865",
+   "nom": "Tuiles Pringles Paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990123865"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990167067",
+   "nom": "Sizzln medium sweet chilli flavour",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 180g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990167067"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000845536",
+   "nom": "Pringles Cheddar Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000845536"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990138715",
+   "nom": "Pringles cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990138715"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000280238",
+   "nom": "Pringles Harvest Blend - Farmhouse Cheddar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000280238"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000180606",
+   "nom": "Pringles scorchin chili lime large imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000180606"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100124028",
+   "nom": "Pringles BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 203 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100124028"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467112881",
+   "nom": "Sour Cream & Onion Flavour Savoury Snack / POTATO CRISPS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467112881"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990123988",
+   "nom": "Pringles original 210g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 210g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990123988"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100118690",
+   "nom": "Pringles au Ketchup",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100118690"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000149917",
+   "nom": "Bulk single serve packs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000149917"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-6958652300778",
+   "nom": "Super Hot Scorchin' Spicy Strips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6958652300778"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100118270",
+   "nom": "buffalo ranch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100118270"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100852662",
+   "nom": "Croustilles Pringles Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 37 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100852662"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100111394",
+   "nom": "Pringles fromage cheddar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100111394"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990143290",
+   "nom": "Hot Chilli sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990143290"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467100109",
+   "nom": "pringles saucy bbq 134g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 134g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467100109"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467105760",
+   "nom": "Pringgless Cheesy Cheese 42g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467105760"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467117886",
+   "nom": "Pringles 100g Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467117886"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-6958652302789",
+   "nom": "Super Hot Chili Lemon Crab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6958652302789"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467125607",
+   "nom": "Sizzlin' Chipotle Sour Cream Flavour Savoury Snack / Potato Crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 118 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467125607"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990145263",
+   "nom": "Pringles sea salt & herbs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990145263"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-03873407",
+   "nom": "Snack Cups BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 0.74 OZ (21g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03873407"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000182631",
+   "nom": "Snack Cups",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000182631"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100852624",
+   "nom": "Pringles - Sour Cream & Onion (Recieved Order: 06/30/21)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100852624"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000249341",
+   "nom": "Potatoes chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000249341"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-5053990113057",
+   "nom": "pringles Crab Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990113057"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100146204",
+   "nom": "Ranch Pringles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100146204"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000284472",
+   "nom": "Las Meras Meras Habaneras",
+   "assemblage": "Jackson",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5.5 oz (158 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000284472"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0064100147973",
+   "nom": "All Dressed Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064100147973"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-8886467126239",
+   "nom": "MINIS SALT & VINEGAR POTATO CRISPS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467126239"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000249396",
+   "nom": "Pringles Scorchin' Hot Sour Cream & Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5.5oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000249396"
+  },
+  {
+   "id": "alimentation-et-boissons-kelloggs-0038000281426",
+   "nom": "Sharp White Cheddar & Ranch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 56 g.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0038000281426"
+  }
+ ],
+ "alimentation-et-boissons-monster-beverage": [
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635808",
+   "nom": "Monster Ultra White",
+   "assemblage": "Union Européenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635808"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896625409",
+   "nom": "Lewis Hamilton Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896625409"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751216520",
+   "nom": "Energy Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751216520"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546844",
+   "nom": "Monster nitro cosmic peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546844"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013947565",
+   "nom": "Monster Energy - Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013947565"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547483",
+   "nom": "Ultra Peachy Keen",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547483"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784902578",
+   "nom": "Rio punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784902578"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215011",
+   "nom": "Monster zéro mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215011"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784901090",
+   "nom": "Monster Punch - Rio Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784901090"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545724",
+   "nom": "Ultra Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545724"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214847",
+   "nom": "Monster Energy Pacific Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214847"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122899",
+   "nom": "Pacific Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122899"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544215",
+   "nom": "Monster Juiced Tropical Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544215"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847896210",
+   "nom": "Monster Energy Ultra Fantasia Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847896210"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947543508",
+   "nom": "Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947543508"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639128051",
+   "nom": "monster energy ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639128051"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784901007",
+   "nom": "Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784901007"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-6974497110051",
+   "nom": "Pink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6974497110051"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126125",
+   "nom": "Monster pacific punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126125"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639128709",
+   "nom": "Monster - Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639128709"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517883560",
+   "nom": "Mega Monster Energy Ultra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 553ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517883560"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847022015",
+   "nom": "monster energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 473 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847022015"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866000772",
+   "nom": "Monster Pipeline Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866000772"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847813088",
+   "nom": "Java coffre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 444 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847813088"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847027249",
+   "nom": "Java Monster Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 444 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847027249"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038436",
+   "nom": "Strawberry Lemonade Monster Rehab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 15.5 ounce",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038436"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5056784900000",
+   "nom": "Nitro Super Dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056784900000"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-00050050",
+   "nom": "Monster punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00050050"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751216193",
+   "nom": "energy drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751216193"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013944656",
+   "nom": "Bad Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013944656"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546110",
+   "nom": "Monster reserve watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546110"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544451",
+   "nom": "Ultra fiesta mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544451"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013949828",
+   "nom": "E MONARCH PEACH NECTARINE JUICE TONST ERGY + JUICE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013949828"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847890300",
+   "nom": "Monster Juice Monarch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847890300"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337501972",
+   "nom": "Monster Energy Ultra (zero zucker)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337501972"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896621814",
+   "nom": "Monster ultra watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896621814"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060608745449",
+   "nom": "Monster Reign Total Body Fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060608745449"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896623832",
+   "nom": "Monster Energy Ultra Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896623832"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060608745470",
+   "nom": "Monster Reign Razzle Berry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060608745470"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212812",
+   "nom": "Monster Energy Ultra Fiesta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212812"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896627014",
+   "nom": "White pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896627014"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624990",
+   "nom": "monster juiced",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624990"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847037989",
+   "nom": "Monster Energy Ultra Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847037989"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896620145",
+   "nom": "Monster Energy Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896620145"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947540620",
+   "nom": "aussie style lemonade energy +juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947540620"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542419",
+   "nom": "Juiced Monster Aussie Style Lemonade Energy + Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542419"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335634153",
+   "nom": "Mega monster energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 553ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335634153"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624426",
+   "nom": "Ultra Gold Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624426"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896624808",
+   "nom": "Ultra Golden Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896624808"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542440",
+   "nom": "Ultra Black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542440"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896625607",
+   "nom": "Monster Energy - Lewis Hamilton Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896625607"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335638878",
+   "nom": "Ministerio cero azúcar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335638878"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947548800",
+   "nom": "Monster Energy Reserve Orange Dreamsicle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947548800"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947543447",
+   "nom": "Ultra paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947543447"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847018926",
+   "nom": "Ultra Red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847018926"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847033967",
+   "nom": "monster energy mango loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847033967"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9323795000071",
+   "nom": "Monster Health Food Monster Muesli Sports Muesli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 700g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9323795000071"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214854",
+   "nom": "Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214854"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947541405",
+   "nom": "Ultra Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947541405"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544277",
+   "nom": "monster energie ultra watermelon 500ml can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544277"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847021520",
+   "nom": "Rehab Monster Peach Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 15.5 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847021520"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751210665",
+   "nom": "Ultra Violet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751210665"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947540040",
+   "nom": "Pipeline punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947540040"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544574",
+   "nom": "Monster Energy Ultra Gold Ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544574"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013940221",
+   "nom": "monster Orange Dreamsicle Reserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013940221"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038672",
+   "nom": "Bebida Monster Energy Mango Loco x 473Ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 473Ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038672"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699239",
+   "nom": "Rehab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 5dl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699239"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847028147",
+   "nom": "Monster Aussie Style Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847028147"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847026662",
+   "nom": "Monster java loca moca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847026662"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847890805",
+   "nom": "Orange Creams Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 16 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847890805"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001267",
+   "nom": "Monster Energy Drink Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001267"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546172",
+   "nom": "Munster energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546172"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547360",
+   "nom": "Monster KHAOTIC tropical orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547360"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545960",
+   "nom": "Pacific punch monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545960"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036694343",
+   "nom": "Monster Energy Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036694343"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001120",
+   "nom": "Java Monster Super Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001120"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013942607",
+   "nom": "Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013942607"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5940568000072",
+   "nom": "Juiced Monster Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5940568000072"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847036272",
+   "nom": "Monster mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847036272"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896626741",
+   "nom": "The Doctor Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896626741"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847897781",
+   "nom": "Juice Pipeline Punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847897781"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546578",
+   "nom": "Monster Energy Ultra Fiesta Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546578"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212041",
+   "nom": "Monster Energy 10er-Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 5 L (10 x 0,5 L)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212041"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517883638",
+   "nom": "Energydrink &quot;Ultra Violet&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517883638"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1007084701235",
+   "nom": "Bebida Energética",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1007084701235"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751213901",
+   "nom": "Monster Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751213901"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126712",
+   "nom": "Monster HydroSport Super Fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126712"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500609",
+   "nom": "Monster Energy Ultra Red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500609"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166697549",
+   "nom": "Monster Absolutely zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166697549"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126743",
+   "nom": "Monster Hydrosport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126743"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-1007084703703",
+   "nom": "Monster  Energy - Ultra Bunrise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 473ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1007084703703"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122646",
+   "nom": "Monster zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122646"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751218616",
+   "nom": "Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751218616"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517885069",
+   "nom": "Monster hydro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517885069"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337506533",
+   "nom": "energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337506533"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507639",
+   "nom": "Monster Energy Ultra Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507639"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517888237",
+   "nom": "Bebida de café expreso con leche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517888237"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639120949",
+   "nom": "Espresso Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639120949"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751216070",
+   "nom": "Monarch",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751216070"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635273",
+   "nom": "Monster Rehab",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635273"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126804",
+   "nom": "Punch monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126804"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896622644",
+   "nom": "Monster Juiced Khaotic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896622644"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542921",
+   "nom": "Aussie Lemonade Juiced",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542921"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751213383",
+   "nom": "Monster Energy Monarch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751213383"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500456",
+   "nom": "Energy Ultra Sunrise",
+   "assemblage": "Europäische Union",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500456"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639120918",
+   "nom": "Espresso triple shot",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639120918"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517889241",
+   "nom": "Monster Ultra Blue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517889241"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639123797",
+   "nom": "Monster Energy - Ultra Paradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639123797"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751218036",
+   "nom": "Monster Energy - Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751218036"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517880613",
+   "nom": "Monster Punch MIXXD",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517880613"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639124541",
+   "nom": "Hydrosport super fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639124541"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215691",
+   "nom": "Mango loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215691"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751219002",
+   "nom": "Monster Mule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751219002"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751210986",
+   "nom": "Monster Super Fuel Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751210986"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547674",
+   "nom": "Monster Nitro Pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547674"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947549074",
+   "nom": "Monster Zero Sugar (green)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947549074"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751211174",
+   "nom": "Monster super fuel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751211174"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896628790",
+   "nom": "Reserve Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896628790"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896628851",
+   "nom": "Reserve white Pinneapple",
+   "assemblage": "Ireland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896628851"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896622309",
+   "nom": "Assault",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 5 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896622309"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517884567",
+   "nom": "Rehab Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517884567"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335636263",
+   "nom": "Mega Monster Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 553ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335636263"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639122387",
+   "nom": "Vanilla Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639122387"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508988",
+   "nom": "Monster Energy Lewis Hamilton",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508988"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335633521",
+   "nom": "Monster Energy The Doctor",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335633521"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335634849",
+   "nom": "Monster Energy - The doctor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335634849"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751211525",
+   "nom": "Monster Energy Juiced - 4 Pack",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 4 x 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751211525"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166696498",
+   "nom": "Monster Energy - 4 Pack",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 4 x 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166696498"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126187",
+   "nom": "Expresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126187"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751211662",
+   "nom": "Monstre Mule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751211662"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9557062403795",
+   "nom": "Monster Rice Sticks Cheese Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9557062403795"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166696269",
+   "nom": "Monster 0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166696269"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896621869",
+   "nom": "Ultra Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896621869"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215844",
+   "nom": "monster energy drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215844"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947542983",
+   "nom": "Monster aussie lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947542983"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847896753",
+   "nom": "Zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847896753"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545489",
+   "nom": "Aussie lemonade monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545489"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639121823",
+   "nom": "Juiced",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639121823"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507332",
+   "nom": "Monster Ultra Citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507332"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508872",
+   "nom": "Monster - Lewis Hamilton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508872"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847022022",
+   "nom": "Juice Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847022022"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517887575",
+   "nom": "Punch mønster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517887575"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507202",
+   "nom": "Monster Bebida energetica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 355 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507202"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517889210",
+   "nom": "Monster Energy Ultra Blue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517889210"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847009559",
+   "nom": "Monster Ripper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847009559"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166692537",
+   "nom": "Monster energy juiced ripper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166692537"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508810",
+   "nom": "Lewis hamilton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508810"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508155",
+   "nom": "Monster Energy Ultra 4 Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 4 x 500ml e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508155"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847038450",
+   "nom": "Boisson énergisante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 473 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847038450"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896623894",
+   "nom": "Monster Ultra Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896623894"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545694",
+   "nom": "energy zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545694"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-7090042481625",
+   "nom": "Ultra White, Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7090042481625"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013944717",
+   "nom": "Monster Bad Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013944717"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166696382",
+   "nom": "Monster Assault",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166696382"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947547278",
+   "nom": "Nitro Cosmic Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947547278"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546028",
+   "nom": "Monster Energy Ultra Black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546028"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335635747",
+   "nom": "Monster Energy Ultra Sunrise",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335635747"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337507035",
+   "nom": "Monster rehab tea lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337507035"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517882709",
+   "nom": "Hydro Manic Melon(R)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 550ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517882709"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517888329",
+   "nom": "Espresso Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517888329"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639124848",
+   "nom": "hydrosport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639124848"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639126866",
+   "nom": "Monster energy sero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639126866"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639127498",
+   "nom": "Monster Energy Juiced Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639127498"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060608743155",
+   "nom": "Reign Melon Mania",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060608743155"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751215813",
+   "nom": "punch monster mixxd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751215813"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847039020",
+   "nom": "Monster rehab strawberry lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847039020"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-15756596",
+   "nom": "Juiced Monster Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15756596"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751217459",
+   "nom": "Ultra Fiesta Mango 4 Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751217459"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631121",
+   "nom": "Monster Energy Absolutely Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 0,5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631121"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847030386",
+   "nom": "Reserve white pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 473 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847030386"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060296681326",
+   "nom": "Monster zéro Watermelon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060296681326"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947546462",
+   "nom": "Energy Ultra Pradise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947546462"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214069",
+   "nom": "Mulle Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214069"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751214106",
+   "nom": "Punch Energy Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751214106"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947544604",
+   "nom": "Aussie Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947544604"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060296688790",
+   "nom": "Reserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060296688790"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060896621708",
+   "nom": "Monster Assault energy drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060896621708"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060751212065",
+   "nom": "MONSTER ENERGY - Mango Loco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060751212065"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545939",
+   "nom": "Monster monarch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545939"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-9342866001243",
+   "nom": "Monster Energy Ultra Strawberry Dreams",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9342866001243"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-4897036691083",
+   "nom": "khaos japon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4897036691083"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545816",
+   "nom": "Monster RESERVE White Pineapple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545816"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060947545458",
+   "nom": "Mixxd punch energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060947545458"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517884659",
+   "nom": "Monster ultra red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517884659"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060639125760",
+   "nom": "Monster HidroSport (verde)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060639125760"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337508759",
+   "nom": "Monster - Lewis Hamilton - 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337508759"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5061013943772",
+   "nom": "Monster Ultra Peachy Keen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5061013943772"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-2000000059816",
+   "nom": "Monster Juiced Energy + Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000059816"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699260",
+   "nom": "ABSOLUTELY ZERO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699260"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631275",
+   "nom": "Monster Energy Assault Cans 50CL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631275"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337500753",
+   "nom": "Monster Ultra Sunrise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337500753"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337501507",
+   "nom": "Monster-energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337501507"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337509862",
+   "nom": "hydro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337509862"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060337509954",
+   "nom": "Hydro Tropical Thunder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060337509954"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517887544",
+   "nom": "Monster Energy Ultra Violet",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517887544"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517882730",
+   "nom": "Monster hydro mean green",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 550 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517882730"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060166699956",
+   "nom": "Monster Absolute Zero Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060166699956"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060335631008",
+   "nom": "Monster zero 50cl édition call of duty",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060335631008"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-0070847027867",
+   "nom": "Caffé Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070847027867"
+  },
+  {
+   "id": "alimentation-et-boissons-monster-beverage-5060517888350",
+   "nom": "Expresso Monster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060517888350"
+  }
+ ]
+}

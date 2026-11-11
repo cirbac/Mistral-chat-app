@@ -2,10 +2,6 @@ const el = { ajouts: document.getElementById('ajouts'), vide: document.getElemen
 
 async function api(path, opts = {}) {
   const res = await fetch(path, opts);
-  if (res.status === 401) {
-    window.location.href = '/login.html';
-    throw new Error('Non authentifié');
-  }
   if (!res.ok) {
     const data = await res.json().catch(() => ({}));
     throw new Error(data.error || `Erreur ${res.status}`);
@@ -84,8 +80,6 @@ async function load(meta) {
 }
 
 (async () => {
-  const me = await api('/api/me').catch(() => null);
-  if (!me) return;
   const meta = await api('/api/meta');
   load(meta);
 })();

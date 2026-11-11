@@ -35,11 +35,7 @@ const el = {
   accountBtn: document.getElementById('account-btn'),
   accountModal: document.getElementById('account-modal'),
   accountClose: document.getElementById('account-close'),
-  accountEmail: document.getElementById('account-email'),
-  pwForm: document.getElementById('pw-form'),
-  pwMsg: document.getElementById('pw-msg'),
   themeToggle: document.getElementById('theme-toggle'),
-  logout: document.getElementById('logout'),
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
@@ -72,10 +68,6 @@ function currentTheme() {
 
 async function api(path) {
   const res = await fetch(path);
-  if (res.status === 401) {
-    window.location.href = '/login.html';
-    throw new Error('Non authentifié');
-  }
   if (!res.ok) {
     const data = await res.json().catch(() => ({}));
     throw new Error(data.error || `Erreur ${res.status}`);
@@ -305,26 +297,39 @@ async function doSearch() {
     tp.className = 'cat-sous-titre';
     tp.textContent = `Produits (${data.produits.length})`;
     el.results.appendChild(tp);
-    for (const r of data.produits) {
-      const card = document.createElement('div');
-      card.className = 'carte';
-      const h = document.createElement('h3');
-      h.textContent = r.produit.nom;
-      const meta = document.createElement('div');
-      meta.className = 'meta-ligne';
-      meta.appendChild(badge(r.groupe.statutLabel, r.groupe.statutCouleur));
-      const marque = document.createElement('span');
-      marque.textContent = `${r.groupe.groupe} · ${r.secteur.nom}`;
-      meta.appendChild(marque);
-      if (r.produit.assemblage) {
-        const ass = document.createElement('span');
-        ass.textContent = `Assemblage : ${r.produit.assemblage}`;
-        meta.appendChild(ass);
+    const PAGE = 50;
+    let shown = 0;
+    const plusBtn = document.createElement('button');
+    plusBtn.type = 'button';
+    plusBtn.className = 'chip';
+    const renderLot = () => {
+      for (const r of data.produits.slice(shown, shown + PAGE)) {
+        const card = document.createElement('div');
+        card.className = 'carte';
+        const h = document.createElement('h3');
+        h.textContent = r.produit.nom;
+        const meta = document.createElement('div');
+        meta.className = 'meta-ligne';
+        meta.appendChild(badge(r.groupe.statutLabel, r.groupe.statutCouleur));
+        const marque = document.createElement('span');
+        marque.textContent = `${r.groupe.groupe} · ${r.secteur.nom}`;
+        meta.appendChild(marque);
+        if (r.produit.assemblage) {
+          const ass = document.createElement('span');
+          ass.textContent = `Assemblage : ${r.produit.assemblage}`;
+          meta.appendChild(ass);
+        }
+        card.append(h, meta);
+        card.addEventListener('click', () => showProduit(r.produit.id));
+        el.results.insertBefore(card, plusBtn);
       }
-      card.append(h, meta);
-      card.addEventListener('click', () => showProduit(r.produit.id));
-      el.results.appendChild(card);
-    }
+      shown += PAGE;
+      if (shown >= data.produits.length) plusBtn.remove();
+      else plusBtn.textContent = `Afficher ${Math.min(PAGE, data.produits.length - shown)} produits de plus (${shown}/${data.produits.length})`;
+    };
+    plusBtn.addEventListener('click', renderLot);
+    el.results.appendChild(plusBtn);
+    renderLot();
   }
   if (data.groupes.length > 0) {
     const tg = document.createElement('h3');
@@ -576,36 +581,6 @@ el.accountModal.addEventListener('click', (e) => {
   if (e.target === el.accountModal) el.accountModal.classList.add('hidden');
 });
 
-el.pwForm.addEventListener('submit', async (e) => {
-  e.preventDefault();
-  const pwCurrent = document.getElementById('pw-current');
-  const pwNew = document.getElementById('pw-new');
-  const pwConfirm = document.getElementById('pw-confirm');
-  el.pwMsg.hidden = true;
-  el.pwMsg.className = 'pw-msg';
-  if (pwNew.value !== pwConfirm.value) {
-    el.pwMsg.textContent = 'Les deux nouveaux mots de passe ne correspondent pas.';
-    el.pwMsg.classList.add('ko');
-    el.pwMsg.hidden = false;
-    return;
-  }
-  const res = await fetch('/api/account/password', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ currentPassword: pwCurrent.value, newPassword: pwNew.value }),
-  });
-  const data = await res.json().catch(() => ({}));
-  el.pwMsg.textContent = res.ok ? 'Mot de passe enregistré.' : (data.error || 'Erreur.');
-  el.pwMsg.classList.add(res.ok ? 'ok' : 'ko');
-  el.pwMsg.hidden = false;
-  if (res.ok) el.pwForm.reset();
-});
-
-el.logout.addEventListener('click', async () => {
-  await fetch('/api/logout', { method: 'POST' });
-  window.location.href = '/login.html';
-});
-
 el.logoHome.addEventListener('click', () => renderHome());
 
 function ouvrirAjout(q) {
@@ -648,14 +623,6 @@ el.addForm.addEventListener('submit', async (e) => {
 });
 
 async function init() {
-  let me;
-  try {
-    me = await api('/api/me');
-    el.accountEmail.dataset.email = me.email;
-    el.accountEmail.textContent = me.email;
-  } catch {
-    return;
-  }
   state.meta = await api('/api/meta');
   if (!state.meta.preferences.some((p) => p.id === state.pref)) state.pref = 'ue';
   renderPrefSelect();
