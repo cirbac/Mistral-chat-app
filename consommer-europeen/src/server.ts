@@ -261,6 +261,9 @@ app.get('/api/meta', requireAuth, (_req, res) => {
       keywords: s.keywords ?? [],
       nbGroupes: s.groupes.length,
     })),
+    nbGroupes: secteurs.reduce((a, s) => a + s.groupes.length, 0),
+    nbProduits: secteurs.reduce((a, s) => a + s.groupes.reduce((b, g) => b + g.produits.length, 0), 0),
+    nbSources: Object.keys(sources).length,
   });
 });
 

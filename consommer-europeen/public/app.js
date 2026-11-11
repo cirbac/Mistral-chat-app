@@ -43,6 +43,8 @@ const el = {
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
+  homeGrid: document.getElementById('home-grid'),
+  heroStats: document.getElementById('hero-stats'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
   contenu: document.querySelector('.contenu'),
@@ -122,34 +124,29 @@ function renderHome() {
   el.contenu.classList.remove('avec-detail');
   el.results.textContent = '';
   el.chips.textContent = '';
-  el.home.textContent = '';
-  const titre = document.createElement('h2');
-  titre.className = 'home-titre';
-  titre.textContent = 'Par quoi commencez-vous ?';
-  el.home.appendChild(titre);
-  const grid = document.createElement('div');
-  grid.className = 'home-grid';
+  el.homeGrid.textContent = '';
   for (const s of state.meta.secteurs) {
     const card = document.createElement('button');
     card.type = 'button';
     card.className = 'cat-card';
+    const imgWrap = document.createElement('div');
+    imgWrap.className = 'cat-img';
     const icone = document.createElement('img');
-    icone.className = 'cat-icone';
     icone.src = IMAGES[s.num] || '';
     icone.alt = '';
     icone.loading = 'lazy';
-    const corps = document.createElement('span');
-    corps.className = 'cat-corps';
+    imgWrap.appendChild(icone);
+    const corps = document.createElement('div');
+    corps.className = 'cat-body';
     const nom = document.createElement('strong');
     nom.textContent = s.nom;
     const count = document.createElement('small');
     count.textContent = `${s.nbGroupes} marque${s.nbGroupes > 1 ? 's' : ''} référencée${s.nbGroupes > 1 ? 's' : ''}`;
     corps.append(nom, count);
-    card.append(icone, corps);
+    card.append(imgWrap, corps);
     card.addEventListener('click', () => showSecteur(s.id));
-    grid.appendChild(card);
+    el.homeGrid.appendChild(card);
   }
-  el.home.appendChild(grid);
 }
 
 function carteGroupe(g) {
@@ -591,8 +588,9 @@ async function init() {
   }
   applyTheme(currentTheme());
   const stats = state.meta.meta.stats;
+  el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbProduits} produits · ${state.meta.nbSources} sources`;
   if (stats) {
-    el.footer.textContent = `Grille v${state.meta.meta.version} : ${stats.lignes} lignes · ${stats.secteurs} secteurs · ${stats.rang1} Rang 1 · ${stats.rang2} Rang 2 · ${stats.vigilance} Vigilance · ${stats.hors_zones} Hors zones · ${stats.a_ecarter} À écarter. ${state.meta.meta.disclaimer}`;
+    el.footer.textContent = `Grille v${state.meta.meta.version} — Cirba Consult · ${stats.lignes} lignes · ${stats.secteurs} secteurs · ${stats.rang1} Rang 1 · ${stats.rang2} Rang 2 · ${stats.vigilance} Vigilance · ${stats.hors_zones} Hors zones · ${stats.a_ecarter} À écarter. ${state.meta.meta.disclaimer}`;
   }
   renderHome();
 }
