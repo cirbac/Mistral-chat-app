@@ -1,3 +1,15 @@
+:root {
+  --cirba-noir: #040405;
+  --cirba-anthracite: #282828;
+  --cirba-gris: #e5e5e5;
+  --cirba-gris-clair: #f5f5f5;
+  --cirba-blanc: #ffffff;
+  --texte: #1a1a1a;
+  --texte-doux: #6b7280;
+  --bordure: #e5e7eb;
+  --accent: #282828;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -5,30 +17,45 @@
 body {
   margin: 0;
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-  background: #f4f5f7;
-  color: #1a1a1a;
+  background: var(--cirba-gris-clair);
+  color: var(--texte);
 }
 
 .topbar {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   gap: 16px;
   flex-wrap: wrap;
-  padding: 16px 24px;
-  background: #fff;
-  border-bottom: 1px solid #e5e7eb;
+  padding: 14px 24px;
+  background: var(--cirba-anthracite);
+  border-bottom: 3px solid var(--cirba-noir);
+  color: var(--cirba-blanc);
 }
 
-.topbar h1 {
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand img.logo {
+  height: 34px;
+  width: auto;
+  display: block;
+}
+
+.brand h1 {
   margin: 0;
-  font-size: 1.3rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--cirba-blanc);
 }
 
 .source {
-  margin: 4px 0 0;
-  font-size: 0.78rem;
-  color: #6b7280;
+  margin: 2px 0 0;
+  font-size: 0.75rem;
+  color: var(--cirba-gris);
 }
 
 .controls {
@@ -40,33 +67,45 @@ body {
 
 .controls label {
   font-size: 0.8rem;
-  color: #6b7280;
+  color: var(--cirba-gris);
 }
 
 .controls select,
 .recherche input {
   padding: 9px 12px;
-  border: 1px solid #d1d5db;
+  border: 1px solid var(--bordure);
   border-radius: 8px;
   font-size: 0.95rem;
+  background: var(--cirba-blanc);
 }
 
 .user {
   font-size: 0.8rem;
-  color: #6b7280;
+  color: var(--cirba-gris);
 }
 
 button {
   padding: 9px 14px;
-  border: 1px solid #d1d5db;
+  border: 1px solid var(--bordure);
   border-radius: 8px;
-  background: #fff;
+  background: var(--cirba-blanc);
+  color: var(--texte);
   cursor: pointer;
   font-size: 0.9rem;
 }
 
 button:hover {
-  background: #f3f4f6;
+  background: var(--cirba-gris);
+}
+
+.controls button {
+  background: transparent;
+  border-color: var(--cirba-gris);
+  color: var(--cirba-blanc);
+}
+
+.controls button:hover {
+  background: rgba(255, 255, 255, 0.12);
 }
 
 .legende {
@@ -74,8 +113,8 @@ button:hover {
   gap: 8px;
   flex-wrap: wrap;
   padding: 10px 24px;
-  background: #fff;
-  border-bottom: 1px solid #e5e7eb;
+  background: var(--cirba-blanc);
+  border-bottom: 1px solid var(--bordure);
 }
 
 .legende .badge {
@@ -100,6 +139,12 @@ button:hover {
   width: 100%;
   padding: 13px 16px;
   font-size: 1.05rem;
+  border-radius: 10px;
+}
+
+.recherche input:focus {
+  outline: 2px solid var(--cirba-anthracite);
+  outline-offset: 1px;
 }
 
 .chips {
@@ -110,8 +155,8 @@ button:hover {
 }
 
 .chip {
-  border: 1px solid #d1d5db;
-  background: #fff;
+  border: 1px solid var(--bordure);
+  background: var(--cirba-blanc);
   border-radius: 999px;
   padding: 6px 14px;
   cursor: pointer;
@@ -119,8 +164,8 @@ button:hover {
 }
 
 .chip:hover {
-  background: #eef2ff;
-  border-color: #2f6fed;
+  background: var(--cirba-gris);
+  border-color: var(--cirba-anthracite);
 }
 
 .contenu {
@@ -144,15 +189,17 @@ button:hover {
 }
 
 .carte {
-  background: #fff;
-  border: 1px solid #e5e7eb;
+  background: var(--cirba-blanc);
+  border: 1px solid var(--bordure);
+  border-left: 4px solid var(--cirba-anthracite);
   border-radius: 12px;
   padding: 14px 16px;
   cursor: pointer;
 }
 
 .carte:hover {
-  border-color: #2f6fed;
+  border-color: var(--cirba-noir);
+  border-left-color: var(--cirba-noir);
 }
 
 .carte h3 {
@@ -163,7 +210,7 @@ button:hover {
 .carte .marques {
   margin: 0 0 6px;
   font-size: 0.85rem;
-  color: #4b5563;
+  color: var(--texte-doux);
 }
 
 .carte .meta-ligne {
@@ -172,7 +219,7 @@ button:hover {
   align-items: center;
   flex-wrap: wrap;
   font-size: 0.8rem;
-  color: #6b7280;
+  color: var(--texte-doux);
 }
 
 .tag-recommande {
@@ -184,8 +231,8 @@ button:hover {
 .detail {
   position: sticky;
   top: 16px;
-  background: #fff;
-  border: 1px solid #e5e7eb;
+  background: var(--cirba-blanc);
+  border: 1px solid var(--bordure);
   border-radius: 12px;
   padding: 18px;
 }
@@ -204,7 +251,7 @@ button:hover {
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #6b7280;
+  color: var(--texte-doux);
 }
 
 .detail dl {
@@ -216,7 +263,7 @@ button:hover {
 }
 
 .detail dt {
-  color: #6b7280;
+  color: var(--texte-doux);
 }
 
 .detail dd {
@@ -234,20 +281,20 @@ button:hover {
   width: 100%;
   text-align: left;
   margin: 4px 0;
-  border: 1px solid #e5e7eb;
+  border: 1px solid var(--bordure);
   border-radius: 8px;
   padding: 8px 10px;
-  background: #f9fafb;
+  background: var(--cirba-gris-clair);
   cursor: pointer;
 }
 
 .detail .produit:hover {
-  border-color: #2f6fed;
-  background: #eef2ff;
+  border-color: var(--cirba-anthracite);
+  background: var(--cirba-gris);
 }
 
 .detail .produit small {
-  color: #6b7280;
+  color: var(--texte-doux);
 }
 
 .sources {
@@ -261,7 +308,7 @@ button:hover {
 
 .sources .num {
   font-weight: 700;
-  color: #1a1a1a;
+  color: var(--texte);
 }
 
 .retour {
@@ -271,9 +318,9 @@ button:hover {
 .footer {
   padding: 14px 24px 28px;
   font-size: 0.78rem;
-  color: #6b7280;
-  border-top: 1px solid #e5e7eb;
-  background: #fff;
+  color: var(--texte-doux);
+  border-top: 1px solid var(--bordure);
+  background: var(--cirba-blanc);
 }
 
 .login-page {
@@ -281,14 +328,22 @@ button:hover {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  background: var(--cirba-gris-clair);
 }
 
 .login-card {
-  background: #fff;
-  border: 1px solid #e5e7eb;
+  background: var(--cirba-blanc);
+  border: 1px solid var(--bordure);
+  border-top: 4px solid var(--cirba-noir);
   border-radius: 14px;
   padding: 28px;
-  width: min(380px, 92vw);
+  width: min(400px, 92vw);
+}
+
+.login-card img.logo {
+  height: 40px;
+  width: auto;
+  margin-bottom: 14px;
 }
 
 .login-card h1 {
@@ -298,7 +353,7 @@ button:hover {
 
 .sous-titre {
   margin: 0 0 18px;
-  color: #6b7280;
+  color: var(--texte-doux);
   font-size: 0.9rem;
 }
 
@@ -318,12 +373,16 @@ button:hover {
 .login-card button {
   margin-top: 8px;
   padding: 11px;
-  background: #2f6fed;
-  color: #fff;
+  background: var(--cirba-noir);
+  color: var(--cirba-blanc);
   border: none;
   border-radius: 8px;
   font-size: 1rem;
   cursor: pointer;
+}
+
+.login-card button:hover {
+  background: var(--cirba-anthracite);
 }
 
 .erreur {
@@ -335,11 +394,11 @@ button:hover {
 .astuce {
   margin-top: 16px;
   font-size: 0.75rem;
-  color: #6b7280;
+  color: var(--texte-doux);
 }
 
 .vide {
-  color: #6b7280;
+  color: var(--texte-doux);
   font-size: 0.9rem;
   padding: 12px 4px;
 }
