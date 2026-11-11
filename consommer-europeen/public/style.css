@@ -52,10 +52,11 @@ body {
   background-color: #1e3a8a;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    url('assets/eu-stars-pixel.png'),
     url('assets/eu-flag-pixel.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-size: cover, auto 30%, cover;
+  background-position: center, right 7% top 16%, center;
+  background-repeat: no-repeat, no-repeat, no-repeat;
   image-rendering: pixelated;
   border-bottom: 3px solid var(--cirba-noir);
   color: var(--cirba-blanc);
