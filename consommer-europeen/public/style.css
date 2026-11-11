@@ -50,8 +50,11 @@ body {
 
 .hero {
   background:
-    radial-gradient(1200px 400px at 50% -10%, rgba(255, 255, 255, 0.08), transparent 60%),
-    var(--cirba-anthracite);
+    linear-gradient(rgba(40, 40, 40, 0.86), rgba(4, 4, 5, 0.93)),
+    url('assets/eu-flag-pixel.png');
+  background-size: cover;
+  background-position: center 30%;
+  image-rendering: pixelated;
   border-bottom: 3px solid var(--cirba-noir);
   color: var(--cirba-blanc);
   padding: 52px 24px 40px;
