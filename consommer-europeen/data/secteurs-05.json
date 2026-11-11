@@ -1,0 +1,106 @@
+[
+ {
+  "num": "05",
+  "id": "televiseurs",
+  "nom": "Téléviseurs",
+  "note": "",
+  "groupes": [
+   {
+    "id": "televiseurs-lg-electronics",
+    "groupe": "LG Electronics",
+    "marques": [
+     "LG Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-sony",
+    "groupe": "Sony",
+    "marques": [
+     "Sony",
+     "Bravia"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "vigilance",
+    "commentaire": "Activité TV et home cinéma transférée à une coentreprise détenue à 51 % par TCL (Chine) et 49 % par Sony [15] , démarrage prévu en avril 2027 sous réserve d'autorisations [16] .",
+    "sources": [
+     15,
+     16
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-panasonic",
+    "groupe": "Panasonic",
+    "marques": [
+     "Panasonic"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "vigilance",
+    "commentaire": "Skyworth (Chine) prend en charge fabrication, distribution et marketing des TV Panasonic ; Panasonic conserve la marque et le service après-vente [17] .",
+    "sources": [
+     17
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-tp-vision-tpv-technology",
+    "groupe": "TP Vision (TPV Technology)",
+    "marques": [
+     "Philips (téléviseurs)"
+    ],
+    "siege": "Pays-Bas (siège de TP Vision)",
+    "siege_pays": "NL",
+    "statut": "a_ecarter",
+    "commentaire": "TP Vision fabrique les TV Philips [18] . TP Vision est une filiale à 100 % de TPV [19] , dont le contrôle est détenu par China Electronics Corporation, entreprise publique chinoise [61] via Nanjing CEC Panda [60] .",
+    "sources": [
+     18,
+     19,
+     61,
+     60
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-hisense-tcl",
+    "groupe": "Hisense, TCL",
+    "marques": [
+     "Hisense",
+     "TCL"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupes chinois.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Marques de téléviseurs"
+  ],
+  "keywords": [
+   "téléviseur",
+   "tv",
+   "télévision",
+   "écran"
+  ]
+ }
+]

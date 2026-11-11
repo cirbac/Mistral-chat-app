@@ -1,0 +1,167 @@
+[
+ {
+  "num": "20",
+  "id": "medias-streaming-et-culture",
+  "nom": "Médias, streaming et culture",
+  "note": "",
+  "groupes": [
+   {
+    "id": "medias-streaming-et-culture-arte",
+    "groupe": "Arte",
+    "marques": [
+     "Arte"
+    ],
+    "siege": "France / Allemagne",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Chaîne publique franco-allemande.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-groupe-tf1",
+    "groupe": "Groupe TF1",
+    "marques": [
+     "TF1",
+     "TF1+"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Groupe Bouygues selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-groupe-m6",
+    "groupe": "Groupe M6",
+    "marques": [
+     "M6",
+     "6play"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié. Groupe Canal+ Canal+, myCanal France Rang 1 Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-sony-crunchyroll",
+    "groupe": "Sony (Crunchyroll)",
+    "marques": [
+     "Crunchyroll"
+    ],
+    "siege": "Japon (groupe)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Crunchyroll appartient à Sony selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-netflix",
+    "groupe": "Netflix",
+    "marques": [
+     "Netflix États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-disney-amazon-apple",
+    "groupe": "Disney, Amazon, Apple",
+    "marques": [
+     "Disney+",
+     "Prime Video",
+     "Apple TV+ États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-paramount-warner-bros-discovery",
+    "groupe": "Paramount, Warner Bros. Discovery",
+    "marques": [
+     "Paramount+",
+     "Max États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Musique, livres audio et radio",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-apple-google-amazon",
+    "groupe": "Apple, Google, Amazon",
+    "marques": [
+     "Apple Music",
+     "YouTube Music",
+     "Amazon Music États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-tencent-music",
+    "groupe": "Tencent Music",
+    "marques": [
+     "QQ Music",
+     "Kugou"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe chinois. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Télévision et vidéo en ligne"
+  ],
+  "keywords": [
+   "média",
+   "streaming",
+   "musique",
+   "film",
+   "série",
+   "livre",
+   "culture",
+   "presse",
+   "recherche en ligne"
+  ]
+ }
+]

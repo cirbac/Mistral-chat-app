@@ -1,0 +1,172 @@
+[
+ {
+  "num": "16",
+  "id": "hotellerie-et-hebergement",
+  "nom": "Hôtellerie et hébergement",
+  "note": "",
+  "groupes": [
+   {
+    "id": "hotellerie-et-hebergement-barriere",
+    "groupe": "Barrière",
+    "marques": [
+     "Hôtels et casinos Barrière"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-ihg",
+    "groupe": "IHG",
+    "marques": [
+     "Holiday Inn",
+     "InterContinental",
+     "Crowne Plaza"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-accor",
+    "groupe": "Accor",
+    "marques": [
+     "Ibis",
+     "Novotel",
+     "Mercure",
+     "Sofitel",
+     "Fairmont"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "commentaire": "Jin Jiang (Chine) était premier actionnaire en 2018 avec 12,4 %, devant le Qatar (10,22 %) et l'Arabie saoudite (5,71 %) [133] . Répartition actuelle non revérifiée.",
+    "sources": [
+     133
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-nh-hotel-group-minor",
+    "groupe": "NH Hotel Group (Minor)",
+    "marques": [
+     "NH",
+     "NH Collection"
+    ],
+    "siege": "Espagne (siège)",
+    "siege_pays": "ES",
+    "statut": "hors_zones",
+    "commentaire": "Contrôlé par Minor International (Thaïlande) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-hilton-marriott-hyatt",
+    "groupe": "Hilton, Marriott, Hyatt",
+    "marques": [
+     "Hilton",
+     "Marriott",
+     "Hyatt États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-louvre-hotels-group",
+    "groupe": "Louvre Hotels Group",
+    "marques": [
+     "Campanile",
+     "Kyriad",
+     "Première Classe",
+     "Golden Tulip"
+    ],
+    "siege": "France (siège)",
+    "siege_pays": "FR",
+    "statut": "a_ecarter",
+    "commentaire": "Propriété à 100 % de Jin Jiang (Chine) depuis 2015 [134] . Situation actuelle non revérifiée.",
+    "sources": [
+     134
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-radisson-hotel-group",
+    "groupe": "Radisson Hotel Group",
+    "marques": [
+     "Radisson",
+     "Radisson Blu"
+    ],
+    "siege": "Belgique (siège)",
+    "siege_pays": "BE",
+    "statut": "a_ecarter",
+    "commentaire": "Contrôlé par Jin Jiang (Chine) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-club-med",
+    "groupe": "Club Med",
+    "marques": [
+     "Club Med"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "a_ecarter",
+    "commentaire": "Contrôlé par Fosun (Chine) selon mes informations. Non revérifié. Hébergement entre particuliers et réservation",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-trivago",
+    "groupe": "Trivago",
+    "marques": [
+     "Trivago"
+    ],
+    "siege": "Allemagne (siège)",
+    "siege_pays": "DE",
+    "statut": "hors_zones",
+    "commentaire": "Expedia Group (États-Unis) majoritaire selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Groupes hôteliers"
+  ],
+  "keywords": [
+   "hôtel",
+   "hébergement",
+   "logement",
+   "auberge",
+   "gîte"
+  ]
+ }
+]

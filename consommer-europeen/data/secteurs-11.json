@@ -1,0 +1,418 @@
+[
+ {
+  "num": "11",
+  "id": "voyage-et-plein-air",
+  "nom": "Voyage et plein air",
+  "note": "",
+  "groupes": [
+   {
+    "id": "voyage-et-plein-air-lvmh",
+    "groupe": "LVMH",
+    "marques": [
+     "Rimowa"
+    ],
+    "siege": "Allemagne (origine)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "LVMH a acquis 80 % du capital, le petit-fils du fondateur Dieter Morszeck conservant la direction [115] . Structure actuelle non revérifiée.",
+    "sources": [
+     115
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-longchamp",
+    "groupe": "Longchamp",
+    "marques": [
+     "Longchamp"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Maison familiale.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-delsey",
+    "groupe": "Delsey",
+    "marques": [
+     "Delsey Paris"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "commentaire": "Passé en juillet 2018 sous le contrôle de fonds créanciers : Pemberton, Permira et Avenue Capital [116] , Avenue Capital ayant ensuite cédé ses parts à Pemberton [117] . Une base de données mentionne une cession le 1er septembre 2025 sans nommer l'acquéreur aujourd'hui.",
+    "sources": [
+     116,
+     117
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-samsonite-group",
+    "groupe": "Samsonite Group",
+    "marques": [
+     "Samsonite",
+     "Tumi",
+     "American Tourister",
+     "Lipault",
+     "Gregory",
+     "High Sierra"
+    ],
+    "siege": "Luxembourg (siège légal)",
+    "siege_pays": "LU",
+    "statut": "hors_zones",
+    "commentaire": "Société de droit luxembourgeois [113] , cotée à Hong Kong, avec un siège opérationnel à Mansfield (Massachusetts) [112] . Marques du groupe, dont Lipault [114] . Répartition du capital non vérifiée. Sacs à dos et vêtements de montagne",
+    "sources": [
+     113,
+     112,
+     114
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-fenix-outdoor",
+    "groupe": "Fenix Outdoor",
+    "marques": [
+     "Fjällräven",
+     "Hanwag",
+     "Tierra",
+     "Royal Robbins",
+     "Devold"
+    ],
+    "siege": "Suisse (siège), Suède",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Siège en Suisse, cotée à Stockholm [104] . Martin Nordin détient 15,4 % du capital et 52,9 % des voix au 30 décembre 2025 ; Bestseller United (Danemark) 10,0 % du capital [103] . Devold repris à 65 % [106] .",
+    "sources": [
+     104,
+     103,
+     106
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-schwan-stabilo",
+    "groupe": "Schwan-Stabilo",
+    "marques": [
+     "Deuter"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Siège à Gersthofen, marque rachetée par le groupe Schwan-Stabilo ; fabrication confiée à des partenaires en Asie [109] .",
+    "sources": [
+     109
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-vaude",
+    "groupe": "Vaude",
+    "marques": [
+     "Vaude"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Entreprise familiale. Petzl Petzl France Rang 1 Entreprise familiale.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-millet-mountain-group",
+    "groupe": "Millet Mountain Group",
+    "marques": [
+     "Millet",
+     "Lafuma Outdoor"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Vendu par Calida en février 2022 à Jean-Pierre Millet et Inspiring Sport Capital : retour à la famille fondatrice [110] .",
+    "sources": [
+     110
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-decathlon",
+    "groupe": "Decathlon",
+    "marques": [
+     "Quechua",
+     "Forclaz"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-k2-group",
+    "groupe": "K2 Group",
+    "marques": [
+     "Eider Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Eider, marque française de montagne, cédée par Calida au sud-coréen K2 [111] .",
+    "sources": [
+     111
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-mammut",
+    "groupe": "Mammut",
+    "marques": [
+     "Mammut"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "vigilance",
+    "commentaire": "Cession par Jacobs Capital au fonds chinois CPE annoncée fin juillet 2026, sous réserve d'autorisations réglementaires [107] [108] .",
+    "sources": [
+     107,
+     108
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-kontoor-brands",
+    "groupe": "Kontoor Brands",
+    "marques": [
+     "Helly Hansen Norvège (marque)"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Cédée par Canadian Tire à Kontoor Brands (États-Unis, propriétaire de Wrangler et Lee), clôture le 2 juin 2025 [101] .",
+    "sources": [
+     101
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-helen-of-troy",
+    "groupe": "Helen of Troy",
+    "marques": [
+     "Osprey États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Vendue à Helen of Troy (El Paso, Texas) pour 414 millions de dollars [102] .",
+    "sources": [
+     102
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-vf-columbia-patagonia",
+    "groupe": "VF, Columbia, Patagonia",
+    "marques": [
+     "The North Face",
+     "Columbia",
+     "Patagonia États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-amer-sports",
+    "groupe": "Amer Sports",
+    "marques": [
+     "Salomon",
+     "Arc'teryx",
+     "Atomic",
+     "Wilson"
+    ],
+    "siege": "Finlande (origine)",
+    "siege_pays": "FI",
+    "statut": "a_ecarter",
+    "commentaire": "Anta Sports (Chine) est le premier actionnaire d'Amer Sports [25] [26] .",
+    "sources": [
+     25,
+     26
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-anta-sports",
+    "groupe": "Anta Sports",
+    "marques": [
+     "Jack Wolfskin"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Jack Wolfskin appartient à Anta [25] . Chaussures de randonnée",
+    "sources": [
+     25
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-fenix-outdoor",
+    "groupe": "Fenix Outdoor",
+    "marques": [
+     "Hanwag"
+    ],
+    "siege": "Allemagne (marque)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Marque du groupe Fenix Outdoor [104] .",
+    "sources": [
+     104
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-meindl",
+    "groupe": "Meindl",
+    "marques": [
+     "Meindl"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Entreprise familiale. Scarpa Scarpa Italie Rang 1 La Sportiva La Sportiva Italie Rang 1 Asics Asics (trail) Japon Rang 2 Deckers Hoka États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-amer-sports",
+    "groupe": "Amer Sports",
+    "marques": [
+     "Salomon Finlande (origine) Tentes",
+     "couchage et cuisine de camp"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "a_ecarter",
+    "commentaire": "Voir la ligne Amer Sports de la sous-catégorie précédente.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-silva-sweden",
+    "groupe": "Silva Sweden",
+    "marques": [
+     "Primus Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Primus a été cédée par Fenix Outdoor à Silva Sweden au quatrième trimestre 2022 [105] .",
+    "sources": [
+     105
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-trangia",
+    "groupe": "Trangia",
+    "marques": [
+     "Trangia Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Decathlon Quechua France Rang 1 Groupe familial. Newell Brands Coleman États-Unis Hors zones Hors de vos zones. Accessoires électroniques de voyage",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-foxconn",
+    "groupe": "Foxconn",
+    "marques": [
+     "Belkin Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Belkin appartient à Foxconn selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-et-plein-air-gopro",
+    "groupe": "GoPro",
+    "marques": [
+     "GoPro États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Anker Innovations Anker Chine À écarter Groupe chinois. DJI DJI Chine À écarter Groupe chinois. Arashi Vision Insta360 Chine À écarter Groupe chinois.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Valises et bagagerie"
+  ],
+  "keywords": [
+   "voyage",
+   "valise",
+   "bagage",
+   "randonnée",
+   "camping",
+   "plein air"
+  ]
+ }
+]

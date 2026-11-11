@@ -61,7 +61,13 @@ const secteurs: Secteur[] = readdirSync(dataDir)
   .filter((f) => f.startsWith('secteurs-') && f.endsWith('.json'))
   .sort()
   .flatMap((f) => JSON.parse(readFileSync(path.join(dataDir, f), 'utf8')) as Secteur[]);
-const sources: Record<string, string> = JSON.parse(readFileSync(path.join(dataDir, 'sources.json'), 'utf8'));
+const sources: Record<string, string> = Object.assign(
+  {},
+  ...readdirSync(dataDir)
+    .filter((f) => /^sources.*\.json$/.test(f))
+    .sort()
+    .map((f) => JSON.parse(readFileSync(path.join(dataDir, f), 'utf8'))),
+);
 
 const STATUT_ORDRE = ['rang1', 'rang2', 'vigilance', 'hors_zones', 'a_ecarter'];
 const statutsById = new Map(grille.statuts.map((s) => [s.id, s]));

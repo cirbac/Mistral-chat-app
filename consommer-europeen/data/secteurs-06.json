@@ -1,0 +1,435 @@
+[
+ {
+  "num": "06",
+  "id": "informatique-et-telephonie",
+  "nom": "Informatique et téléphonie",
+  "note": "",
+  "groupes": [
+   {
+    "id": "informatique-et-telephonie-fairphone",
+    "groupe": "Fairphone",
+    "marques": [
+     "Fairphone"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Capital européen. Assemblage historiquement confié à Hi-P à Suzhou, en Chine [20] . Site exact du Gen. 6 non confirmé par une source.",
+    "sources": [
+     20
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-samsung",
+    "groupe": "Samsung",
+    "marques": [
+     "Galaxy Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-sony",
+    "groupe": "Sony",
+    "marques": [
+     "Xperia"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-apple-google",
+    "groupe": "Apple, Google",
+    "marques": [
+     "iPhone",
+     "Pixel États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-xiaomi-oppo",
+    "groupe": "Xiaomi, Oppo,",
+    "marques": [
+     "Ordinateurs Xiaomi",
+     "Oppo",
+     "Huawei",
+     "Honor"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupes chinois.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-acer",
+    "groupe": "Acer",
+    "marques": [
+     "Acer",
+     "Predator Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-msi",
+    "groupe": "MSI",
+    "marques": [
+     "MSI Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-gigabyte",
+    "groupe": "Gigabyte",
+    "marques": [
+     "Gigabyte",
+     "Aorus Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-samsung",
+    "groupe": "Samsung",
+    "marques": [
+     "Galaxy Book Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-lg-electronics",
+    "groupe": "LG Electronics",
+    "marques": [
+     "LG gram Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-huawei-honor",
+    "groupe": "Huawei, Honor",
+    "marques": [
+     "Fujitsu (PC)"
+    ],
+    "siege": "Japon (marque)",
+    "siege_pays": "JP",
+    "statut": "a_ecarter",
+    "commentaire": "Lenovo contrôle 51 % de la coentreprise, Fujitsu 44 % et la Banque de développement du Japon",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-lenovo",
+    "groupe": "Lenovo",
+    "marques": [
+     "Lenovo",
+     "ThinkPad"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe chinois. HP, Dell, Apple HP, Dell, MacBook États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-fujitsu-client-computing",
+    "groupe": "Fujitsu Client Computing",
+    "marques": [
+     "5 % [21] . Liseuses"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Kobo appartient à Rakuten (Japon) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-amazon",
+    "groupe": "Amazon",
+    "marques": [
+     "Kindle États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Onyx International Boox Chine À écarter Groupe chinois. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-rakuten-kobo",
+    "groupe": "Rakuten (Kobo)",
+    "marques": [
+     "Kobo Canada (Toronto) / Audio",
+     "photo et impression"
+    ],
+    "siege": "Allemagne / Suisse",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "L'activité audio grand public de Sennheiser a été cédée au groupe suisse Sonova selon mes",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-gn-store-nord",
+    "groupe": "GN Store Nord",
+    "marques": [
+     "Jabra"
+    ],
+    "siege": "Danemark",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Bang & Olufsen Bang & Olufsen, Beoplay Danemark Rang 1 Actionnariat non revérifié. Devialet Devialet France Rang 1 Actionnariat non revérifié. Marshall Group Marshall Suède Rang 1 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-sony-audio-photo",
+    "groupe": "Sony (audio, photo)",
+    "marques": [
+     "Alpha",
+     "WH-1000X"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Les téléviseurs Sony suivent une règle distincte (voir Téléviseurs).",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-sennheiser-sonova",
+    "groupe": "Sennheiser / Sonova",
+    "marques": [
+     "Sennheiser",
+     "Sonova Consumer Hearing informations. Non revérifié."
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Harman appartient à Samsung Electronics (Corée du Sud) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-audio-technica",
+    "groupe": "Audio-Technica",
+    "marques": [
+     "Audio-Technica"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Non revérifié. Canon Canon Japon Rang 2 Nikon Nikon Japon Rang 2 Fujifilm Fujifilm Japon Rang 2 Brother Brother Japon Rang 2 Epson Epson Japon Rang 2 Bose, Sonos, HP Bose, Sonos, HP États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-harman-samsung",
+    "groupe": "Harman (Samsung)",
+    "marques": [
+     "JBL",
+     "Harman Kardon",
+     "AKG États-Unis (siège)"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "a_ecarter",
+    "commentaire": "Rachat par un consortium chinois selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-hasselblad-dji",
+    "groupe": "Hasselblad (DJI)",
+    "marques": [
+     "Hasselblad Suède (marque)"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "a_ecarter",
+    "commentaire": "Marque détenue par DJI (Chine) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-avm",
+    "groupe": "AVM",
+    "marques": [
+     "Fritz!Box"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Entreprise non cotée. Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-lexmark",
+    "groupe": "Lexmark",
+    "marques": [
+     "Lexmark États-Unis (siège) Réseau et stockage Samsung",
+     "SK hynix",
+     "Kioxia Corée du Sud / Japon"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Mémoire et stockage.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-samsung-sk-hynix-kioxia",
+    "groupe": "Samsung, SK hynix, Kioxia",
+    "marques": [
+     "Synology",
+     "QNAP",
+     "D-Link",
+     "Zyxel Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-synology-qnap-d-link-zyxel",
+    "groupe": "Synology, QNAP, D-Link, Zyxel",
+    "marques": [
+     "Netgear",
+     "Ubiquiti",
+     "WD États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-tp-link",
+    "groupe": "TP-Link",
+    "marques": [
+     "TP-Link"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe d'origine chinoise selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Smartphones"
+  ],
+  "keywords": [
+   "ordinateur",
+   "pc",
+   "téléphone",
+   "smartphone",
+   "tablette",
+   "liseuse",
+   "audio",
+   "photo",
+   "réseau"
+  ]
+ }
+]

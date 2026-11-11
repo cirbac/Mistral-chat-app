@@ -1,0 +1,596 @@
+[
+ {
+  "num": "08",
+  "id": "alimentation-et-boissons",
+  "nom": "Alimentation et boissons",
+  "note": "",
+  "groupes": [
+   {
+    "id": "alimentation-et-boissons-savencia",
+    "groupe": "Savencia",
+    "marques": [
+     "Caprice des Dieux",
+     "Saint Agur",
+     "Elle & Vire"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-danone",
+    "groupe": "Danone",
+    "marques": [
+     "Danone",
+     "Évian",
+     "Blédina",
+     "Alpro"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-lactalis",
+    "groupe": "Lactalis",
+    "marques": [
+     "Président",
+     "Lactel",
+     "Galbani",
+     "Société"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-bonduelle",
+    "groupe": "Bonduelle",
+    "marques": [
+     "Bonduelle",
+     "Cassegrain"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Fleury",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-bel",
+    "groupe": "Bel",
+    "marques": [
+     "La Vache qui rit",
+     "Babybel",
+     "Kiri",
+     "Boursin"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-nestle",
+    "groupe": "Nestlé",
+    "marques": [
+     "Nescafé",
+     "Nespresso",
+     "Maggi",
+     "Purina"
+    ],
+    "siege": "Italie / Luxembourg",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-barilla",
+    "groupe": "Barilla",
+    "marques": [
+     "Barilla",
+     "Harrys"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Groupe familial. Unilever Knorr, Hellmann's",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-carlsberg",
+    "groupe": "Carlsberg",
+    "marques": [
+     "Carlsberg",
+     "Kronenbourg",
+     "1664"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Danemark Rang 1",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-remy-cointreau",
+    "groupe": "Rémy Cointreau",
+    "marques": [
+     "Rémy Martin",
+     "Cointreau"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-pernod-ricard",
+    "groupe": "Pernod Ricard",
+    "marques": [
+     "Ricard",
+     "Pastis 51",
+     "Absolut",
+     "Jameson Moët & Chandon",
+     "Hennessy",
+     "Veuve Clicquot"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-haribo",
+    "groupe": "Haribo",
+    "marques": [
+     "Haribo"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-savencia-valrhona",
+    "groupe": "Savencia (Valrhona)",
+    "marques": [
+     "Valrhona"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Valrhona appartient à Savencia selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-andros",
+    "groupe": "Andros",
+    "marques": [
+     "Bonne Maman",
+     "Andros"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Groupe familial. Cémoi Cémoi France Rang 1 Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-ebro-foods",
+    "groupe": "Ebro Foods",
+    "marques": [
+     "Panzani",
+     "Lustucru"
+    ],
+    "siege": "Espagne",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "commentaire": "Panzani appartient à Ebro Foods (Espagne) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-de-cecco",
+    "groupe": "De Cecco",
+    "marques": [
+     "De Cecco"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-nissin-foods",
+    "groupe": "Nissin Foods",
+    "marques": [
+     "Nissin",
+     "Cup Noodles"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-kikkoman",
+    "groupe": "Kikkoman",
+    "marques": [
+     "Kikkoman"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-nongshim",
+    "groupe": "Nongshim",
+    "marques": [
+     "Nongshim",
+     "Shin Ramyun Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-cj-cheiljedang",
+    "groupe": "CJ CheilJedang",
+    "marques": [
+     "Bibigo",
+     "CJ Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-lvmh-moet-hennessy",
+    "groupe": "LVMH (Moët Hennessy)",
+    "marques": [],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-uni-president",
+    "groupe": "Uni-President",
+    "marques": [
+     "Uni-President Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-saputo",
+    "groupe": "Saputo",
+    "marques": [
+     "Saputo"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Montréal selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-mccain-foods",
+    "groupe": "McCain Foods",
+    "marques": [
+     "McCain"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Florenceville-Bristol (Nouveau-Brunswick) selon mes informations.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-lotte",
+    "groupe": "Lotte",
+    "marques": [
+     "Lotte Corée du Sud / Japon Groupe familial. Non revérifié. Milka",
+     "Oreo",
+     "Heinz",
+     "M&M's États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-general-mills",
+    "groupe": "General Mills,",
+    "marques": [
+     "Häagen-Dazs",
+     "Lay's",
+     "Coca-Cola États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-ab-inbev",
+    "groupe": "AB InBev",
+    "marques": [
+     "Leffe",
+     "Stella Artois",
+     "Hoegaarden"
+    ],
+    "siege": "Belgique",
+    "siege_pays": "BE",
+    "statut": "rang1",
+    "commentaire": "Royaume-Uni Rang 1",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-campari-group",
+    "groupe": "Campari Group",
+    "marques": [
+     "Campari",
+     "Aperol"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Lavazza Lavazza Italie Rang 1 Groupe familial. Illy Illy Italie Rang 1 Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-diageo",
+    "groupe": "Diageo",
+    "marques": [
+     "Guinness",
+     "Johnnie Walker",
+     "Smirnoff Segafredo"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-roxane",
+    "groupe": "Roxane",
+    "marques": [
+     "Cristaline"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-massimo-zanetti-beverage",
+    "groupe": "Massimo Zanetti Beverage",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Suntory contrôle Orangina Schweppes selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-asahi-group",
+    "groupe": "Asahi Group",
+    "marques": [
+     "Asahi",
+     "Peroni"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-suntory",
+    "groupe": "Suntory",
+    "marques": [
+     "Orangina",
+     "Schweppes",
+     "Suntory L'OR",
+     "Jacobs",
+     "Douwe Egberts",
+     "Kenco",
+     "Peet's États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Keurig Dr Pepper a finalisé le 1er avril 2026 le rachat de JDE Peet's [144] [145] . Marques citées",
+    "sources": [
+     144,
+     145
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-red-bull",
+    "groupe": "Red Bull",
+    "marques": [
+     "Red Bull"
+    ],
+    "siege": "Autriche (siège)",
+    "siege_pays": "AT",
+    "statut": "hors_zones",
+    "commentaire": "La famille Yoovidhya (Thaïlande) détient la majorité du capital selon mes informations. Non",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-bacardi",
+    "groupe": "Bacardi,",
+    "marques": [
+     "Bacardi",
+     "Jack Daniel's"
+    ],
+    "siege": "Bermudes / États-Unis",
+    "siege_pays": "BM",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-monster-beverage",
+    "groupe": "Monster Beverage",
+    "marques": [
+     "Monster États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Produits alimentaires"
+  ],
+  "keywords": [
+   "nourriture",
+   "alimentation",
+   "boissons",
+   "manger",
+   "courses",
+   "supermarché",
+   "épicerie",
+   "bio",
+   "café",
+   "chocolat"
+  ]
+ }
+]
