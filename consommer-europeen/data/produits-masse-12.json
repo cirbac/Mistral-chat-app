@@ -1,0 +1,3453 @@
+{
+ "alimentation-boissons-mondelez": [
+  {
+   "id": "alimentation-boissons-mondelez-7622201698256",
+   "nom": "OREO ORIGINAL Favourite Playful Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 147g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201698256"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000038199",
+   "nom": "Handi-Snacks Cookies 1X1 Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000038199"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000006174",
+   "nom": "Thin crisps calorie packs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000006174"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0072554363887",
+   "nom": "OREO sandwiches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072554363887"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201693190",
+   "nom": "Oreo tubo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 14",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201693190"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8436615681204",
+   "nom": "Oreo Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8436615681204"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202204258",
+   "nom": "Oreo Chocolate Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202204258"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5415049001201",
+   "nom": "Oreo Mousse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 55 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5415049001201"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202308727",
+   "nom": "Gingerbread Flavor Cookie & Vanilla Flavour Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202308727"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300453893",
+   "nom": "Double Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 185 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300453893"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201425050",
+   "nom": "Crunchies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201425050"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210830043",
+   "nom": "نستله مليكا Oreo Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 92g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210830043"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201774998",
+   "nom": "Oreos Crunchies Dipped",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201774998"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300761363",
+   "nom": "Oreo Chocolate Minis Cup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300761363"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7702133006661",
+   "nom": "Cookies and Cream Oreo",
+   "assemblage": "Lima",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 36 g / 1.29 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7702133006661"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300425050",
+   "nom": "Biscuits Cacaotés fourrés goût vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 22 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300425050"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6901668005939",
+   "nom": "Oreo grape n peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 97 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6901668005939"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060459",
+   "nom": "Dark Chocolate Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060459"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-4027939003502",
+   "nom": "Oreo Cookies & Cream Torte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 570 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4027939003502"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7702133009037",
+   "nom": "Galleta Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 54 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7702133009037"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210851505",
+   "nom": "Birthday Party",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 154",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210851505"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6901668005946",
+   "nom": "奥利奥生日蛋糕味",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6901668005946"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-77976307",
+   "nom": "Alfajor",
+   "assemblage": "Argentina",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 56 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/77976307"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8934680045971",
+   "nom": "Oreo cabury",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 6 packs x 30g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934680045971"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8606018616077",
+   "nom": "Ice Cream with Oreo pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8606018616077"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000073206",
+   "nom": "Halloween Oreos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000073206"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210462534",
+   "nom": "Oreo Mini Strawberry Biscuit",
+   "assemblage": "australie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 67 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210462534"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300335809",
+   "nom": "Bolu oreo soft cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300335809"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000073329",
+   "nom": "Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000073329"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-9300650452824",
+   "nom": "OREO Double Stuf Choc Cookie Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300650452824"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201385316",
+   "nom": "اوريو اصلي 2×",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201385316"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-3697364336738",
+   "nom": "The batman",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3697364336738"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000045432",
+   "nom": "Golden Oreo Sandwich Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000045432"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0066721025456",
+   "nom": "Oreo méga crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066721025456"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300873554",
+   "nom": "Oreo saveur chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 90g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300873554"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000066970",
+   "nom": "Thins lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 11.78 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000066970"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7702133006647",
+   "nom": "Cookies and cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 432g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7702133006647"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000058449",
+   "nom": "Chocolate fudge covered cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000058449"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0066721009401",
+   "nom": "Oreo - Enrobés de fudge blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066721009401"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0066721026613",
+   "nom": "Oreos Golden",
+   "assemblage": "Ontario",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066721026613"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201791933",
+   "nom": "Milka Snowballs - Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 112 g (4 x 28 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201791933"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8992760221066",
+   "nom": "Oreo Original 12 packs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 331.2g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8992760221066"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6901668934925",
+   "nom": "Oreo Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6901668934925"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-9300650452763",
+   "nom": "OREO CKIE CHOC 128GM",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 20 x 128 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300650452763"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201698997",
+   "nom": "Chocolate Creme Flavoured",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 128g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201698997"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000007492",
+   "nom": "Nabisco oreo cookies-convenience pack chocolate 1x5.2 oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 5.2 oz (147 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000007492"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060107",
+   "nom": "Oreo The Most Stuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060107"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000069919",
+   "nom": "Cakesters",
+   "assemblage": "Hanover",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 3.03 oz (86 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000069919"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201792879",
+   "nom": "Lacta oreo cookies",
+   "assemblage": "Μεταμορφωση Αττικης",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 156 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201792879"
+  }
+ ],
+ "alimentation-boissons-mars": [
+  {
+   "id": "alimentation-boissons-mars-5900951311321",
+   "nom": "Mars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 51 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951311321"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159557702",
+   "nom": "Twix chocolate bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159557702"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159500258",
+   "nom": "Celebrations",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 186g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159500258"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159556637",
+   "nom": "Bounty x 9",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 256.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159556637"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159492904",
+   "nom": "M&M's Peanut 900g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159492904"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159541435",
+   "nom": "Barres Glacées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159541435"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159557658",
+   "nom": "Twix 10 lineal campo naciones",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 4 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159557658"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159555753",
+   "nom": "Maltesers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159555753"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159419376",
+   "nom": "Balisto x2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 37g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159419376"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159557665",
+   "nom": "Twix minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 227g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159557665"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900544078",
+   "nom": "extra Professional White Citrus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900544078"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159570701",
+   "nom": "Celebrations Box",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159570701"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900383097",
+   "nom": "Hubba Bubba Mega Long",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 56 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900383097"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159560313",
+   "nom": "snekers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 45g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159560313"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951311123",
+   "nom": "chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951311123"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951310843",
+   "nom": "Snickers супер з бр 112,5 г",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951310843"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159558518",
+   "nom": "Mars Mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 333g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159558518"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159561204",
+   "nom": "Minis mars Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159561204"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900552554",
+   "nom": "Chewing-gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 56 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900552554"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900544177",
+   "nom": "extra Professional White Himbeere Granatapfel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900544177"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159562263",
+   "nom": "M&M's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 77 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159562263"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159559065",
+   "nom": "2 Snickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 80 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159559065"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159500296",
+   "nom": "Celebrations 269G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 269g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159500296"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159555524",
+   "nom": "Maltesers Maxi Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159555524"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159443753",
+   "nom": "Mars glacé caramel au beurre salé x6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 270 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159443753"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159471725",
+   "nom": "m&ms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159471725"
+  },
+  {
+   "id": "alimentation-boissons-mars-3487400006356",
+   "nom": "Express-Reis - Curryreis Indien",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3487400006356"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159541473",
+   "nom": "Barre glacée Mars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 12st",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159541473"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159523752",
+   "nom": "maltesers 310g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 310g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159523752"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900543705",
+   "nom": "extra Professional White Bubblemint",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 50 Dragees",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900543705"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159551823",
+   "nom": "Mars Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 157.6g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159551823"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060122036849",
+   "nom": "Boisson Snickers Shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060122036849"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159562577",
+   "nom": "Bounty Minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 275g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159562577"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159509633",
+   "nom": "Snickers glacé white",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 44.6 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159509633"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159487566",
+   "nom": "Balisto goût miel-Amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 148 g (8 * 18,5 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159487566"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951290718",
+   "nom": "M&M's Salted Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 367 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951290718"
+  },
+  {
+   "id": "alimentation-boissons-mars-8906002484003",
+   "nom": "Snickers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 12g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8906002484003"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000580270",
+   "nom": "Peanut M&Ms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 512.6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000580270"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065000790",
+   "nom": "Драже M&M с арахисом и молочным шоколадом",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 45г",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065000790"
+  },
+  {
+   "id": "alimentation-boissons-mars-8906002482450",
+   "nom": "Snickers Chocolate Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 and 45g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8906002482450"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159566971",
+   "nom": "Celebration",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159566971"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402902130",
+   "nom": "Twix Shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402902130"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159562294",
+   "nom": "Mars Minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159562294"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159561723",
+   "nom": "M&M's Crispy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 128g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159561723"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900545662",
+   "nom": "Orbit Refreshers Strawberry Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 17.9 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900545662"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357903360",
+   "nom": "Pâte à tartiner Mars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357903360"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159516198",
+   "nom": "Mars Protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159516198"
+  },
+  {
+   "id": "alimentation-boissons-mars-4002359015229",
+   "nom": "Süss-Sauer-Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4002359015229"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159491297",
+   "nom": "Balisto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 15",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159491297"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900510813",
+   "nom": "Skittles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900510813"
+  },
+  {
+   "id": "alimentation-boissons-mars-4002359018671",
+   "nom": "Miracoli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 610.4g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4002359018671"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951140310",
+   "nom": "Mars MM Orzechowe 45G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 45 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951140310"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900379564",
+   "nom": "Hubba Bubba Bubble Tape Fancy Fruit imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 56g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900379564"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900550062",
+   "nom": "Sugar-free chewing gum, eucalyptus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 46 units, 64 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900550062"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159460293",
+   "nom": "M &M'S Cacahuète",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 45 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159460293"
+  },
+  {
+   "id": "alimentation-boissons-mars-4607065001490",
+   "nom": "Mars Max",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 81 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4607065001490"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357912683",
+   "nom": "Mars Hiprotein Chocolate & Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357912683"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914397",
+   "nom": "Bounty chocolat chaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914397"
+  },
+  {
+   "id": "alimentation-boissons-mars-4002359654404",
+   "nom": "Sauce soja",
+   "assemblage": "Union Européenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4002359654404"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159501071",
+   "nom": "Celebrations diamant 288g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 285g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159501071"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402905285",
+   "nom": "Milky Way Brotaufstrich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402905285"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159544511",
+   "nom": "Mars x12",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 480 g (12 x 40 g, 594 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159544511"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900542128",
+   "nom": "Fruits skittles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900542128"
+  },
+  {
+   "id": "alimentation-boissons-mars-3487400006363",
+   "nom": "Reis mit Mascarpone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3487400006363"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159561730",
+   "nom": "M&Ms Crispy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 213 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159561730"
+  },
+  {
+   "id": "alimentation-boissons-mars-4008429037894",
+   "nom": "Dreamies med kylling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4008429037894"
+  },
+  {
+   "id": "alimentation-boissons-mars-3461180541085",
+   "nom": "Mars Donut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 114 g (2 x 57 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3461180541085"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900548915",
+   "nom": "Wrigley‘s Extra Refresher‘s bubblemint zuckerfrei",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900548915"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159560542",
+   "nom": "snickers 4+1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 5 x 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159560542"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357999424",
+   "nom": "Mars HiProtein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 57g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357999424"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159568807",
+   "nom": "Hollow milk chocolate egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159568807"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402901928",
+   "nom": "Pâte à Tartiner avec Morceaux de Biscuits Twix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402901928"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159530750",
+   "nom": "Galaxy Minstrels Pouch Bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159530750"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060122034401",
+   "nom": "Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060122034401"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402907203",
+   "nom": "Mars Hot Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 140g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402907203"
+  },
+  {
+   "id": "alimentation-boissons-mars-6294001815266",
+   "nom": "Galaxy SMOOTH DARK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6294001815266"
+  },
+  {
+   "id": "alimentation-boissons-mars-3487400006134",
+   "nom": "Ebly mit Olivenöl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3487400006134"
+  },
+  {
+   "id": "alimentation-boissons-mars-0064900423987",
+   "nom": "Watermelon Prism Gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 37.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0064900423987"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357900697",
+   "nom": "Mars Caramel Centres",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 144g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357900697"
+  },
+  {
+   "id": "alimentation-boissons-mars-5410673004307",
+   "nom": "Langkorn-Reis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410673004307"
+  },
+  {
+   "id": "alimentation-boissons-mars-3487400007346",
+   "nom": "Express Basmatireis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3487400007346"
+  },
+  {
+   "id": "alimentation-boissons-mars-4101540710612",
+   "nom": "Croissant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4101540710612"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159561532",
+   "nom": "Minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159561532"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496464929",
+   "nom": "Peanut m&m’s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496464929"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357999639",
+   "nom": "Protein Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357999639"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134013696",
+   "nom": "Bounty Crispy rolls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134013696"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159571067",
+   "nom": "Revels",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159571067"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159571425",
+   "nom": "Malteser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 93g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159571425"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951314827",
+   "nom": "Mars x5 Spécial Offer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 225g (5x45g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951314827"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159572088",
+   "nom": "More to share! WHITE NEW Maltesers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 126g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159572088"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159473279",
+   "nom": "Bounty",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 7 mini Bounty",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159473279"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159500593",
+   "nom": "Celebrations X-mas Tree",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 215 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159500593"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159473385",
+   "nom": "Barres glacées caramel beurre salé les 12 barres de 45",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 447,6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159473385"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402902697",
+   "nom": "Mars Milkshake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402902697"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951262579",
+   "nom": "M&m chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951262579"
+  },
+  {
+   "id": "alimentation-boissons-mars-5010034015180",
+   "nom": "Express Reis - Mexikanisch Scharf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010034015180"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402906961",
+   "nom": "Mars protéine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 57 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402906961"
+  },
+  {
+   "id": "alimentation-boissons-mars-0725181105015",
+   "nom": "Skwinkles Clásicos Mars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 19.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0725181105015"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159541497",
+   "nom": "Ice Cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 720 g (18 x 40 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159541497"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000505310",
+   "nom": "3 Musketeers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 10.48 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000505310"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000482239",
+   "nom": "Minis Milk Chocolate Candies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000482239"
+  },
+  {
+   "id": "alimentation-boissons-mars-6221134013801",
+   "nom": "Twix  11.25 g 241kJ 57kcal TWIX OCPV ROLLS 2x",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 22,5g (2x11,25g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221134013801"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951311260",
+   "nom": "батончик Mars карамель у молочному шоколаді",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951311260"
+  },
+  {
+   "id": "alimentation-boissons-mars-5998749142394",
+   "nom": "Dreamies med Kattemynte Smak",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5998749142394"
+  },
+  {
+   "id": "alimentation-boissons-mars-5410673000859",
+   "nom": "Riz cuisson rapide Uncle Ben's 500g",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410673000859"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402907685",
+   "nom": "M&M'S COOKIES DOUBLE CHOCOLAT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402907685"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900484152",
+   "nom": "Chewing gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 84 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900484152"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900533591",
+   "nom": "extra chewing gum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 50pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900533591"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159470292",
+   "nom": "Galaxy Smooth Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 42g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159470292"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402908286",
+   "nom": "Mars Hi Protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 59g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402908286"
+  },
+  {
+   "id": "alimentation-boissons-mars-5060402909542",
+   "nom": "Mars HIPROTEIN Salted Caramel imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 59g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060402909542"
+  },
+  {
+   "id": "alimentation-boissons-mars-10048597",
+   "nom": "Snickers mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10048597"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159363914",
+   "nom": "Assortiment de chocolats au lait fourrés et de biscuits enrobés de chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159363914"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159529518",
+   "nom": "Pot Mars Glaçé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 280 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159529518"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900519281",
+   "nom": "Airwaves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900519281"
+  },
+  {
+   "id": "alimentation-boissons-mars-04022309",
+   "nom": "M&M'S Peanut Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2.83oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04022309"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000422082",
+   "nom": "3 Musketeers Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1.92oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000422082"
+  },
+  {
+   "id": "alimentation-boissons-mars-0022000021908",
+   "nom": "Extra Refreshers Spearmint",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0022000021908"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000505273",
+   "nom": "Fun Size Milk Way Bars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 10.65 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000505273"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357905654",
+   "nom": "Triple Treat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357905654"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159553674",
+   "nom": "Chocolate Bunny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159553674"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000586104",
+   "nom": "M&M Cold Brew",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2.83oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000586104"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357912539",
+   "nom": "HiProtein Raspberry Smash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357912539"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900548861",
+   "nom": "extra Refreshers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 stück",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900548861"
+  },
+  {
+   "id": "alimentation-boissons-mars-4008429037962",
+   "nom": "Dreamies med Laks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4008429037962"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496352769",
+   "nom": "Twix Caramel Mill Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496352769"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159561464",
+   "nom": "MilkyWay",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159561464"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357912485",
+   "nom": "Mars fudge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357912485"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951315480",
+   "nom": "Chocolat m & m’s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951315480"
+  },
+  {
+   "id": "alimentation-boissons-mars-5998749123614",
+   "nom": "Dreamies Mix med kylling & and",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5998749123614"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000017448",
+   "nom": "M &M'S Peanut Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000017448"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159558440",
+   "nom": "6000231",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159558440"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159553704",
+   "nom": "Twix fun size",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159553704"
+  },
+  {
+   "id": "alimentation-boissons-mars-9300682065283",
+   "nom": "Mars Bar Strawberry Smash (Au)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 47g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300682065283"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000602040",
+   "nom": "Milky Way",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000602040"
+  },
+  {
+   "id": "alimentation-boissons-mars-6285835001338",
+   "nom": "snicker mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6285835001338"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357914458",
+   "nom": "Hot Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357914458"
+  },
+  {
+   "id": "alimentation-boissons-mars-5900951321092",
+   "nom": "m&m's Chocolate Germany",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 363g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900951321092"
+  },
+  {
+   "id": "alimentation-boissons-mars-0040000608585",
+   "nom": "Peanut Butter M&Ms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000608585"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159404259",
+   "nom": "Chocolat au lait fourré de confiserie (16%) et de caramel (27%), avec des cacahuètes grillées (22%)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 300 g, 6 x 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159404259"
+  },
+  {
+   "id": "alimentation-boissons-mars-4002359361104",
+   "nom": "Sauce soja sucrée Suzi Wan 125 ml",
+   "assemblage": "Union Européenne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4002359361104"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159404235",
+   "nom": "Mars x6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 270g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159404235"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159417983",
+   "nom": "Balisto Korn",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159417983"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159317955",
+   "nom": "M&m's Peanut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159317955"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159471794",
+   "nom": "Con relleno de chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159471794"
+  },
+  {
+   "id": "alimentation-boissons-mars-5010034012004",
+   "nom": "Express - Sweet Chili",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010034012004"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159429115",
+   "nom": "Snickers (12 Stück)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159429115"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159474412",
+   "nom": "Snickers minis 403g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159474412"
+  },
+  {
+   "id": "alimentation-boissons-mars-5010034011915",
+   "nom": "Express-Reis & Korn - 3-Korn-Mix mit Quinoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010034011915"
+  },
+  {
+   "id": "alimentation-boissons-mars-5010034011984",
+   "nom": "Curryreis mit Linsen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010034011984"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159554657",
+   "nom": "Maltesers Bunny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159554657"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159427074",
+   "nom": "Goût Noisettes Raisins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159427074"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900412056",
+   "nom": "Orbit Apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 64 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900412056"
+  },
+  {
+   "id": "alimentation-boissons-mars-3487400006424",
+   "nom": "Riz Basmati",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3487400006424"
+  },
+  {
+   "id": "alimentation-boissons-mars-10408780",
+   "nom": "starburst jelly beans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10408780"
+  },
+  {
+   "id": "alimentation-boissons-mars-7502226815084",
+   "nom": "Lucas muecas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1 24g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7502226815084"
+  },
+  {
+   "id": "alimentation-boissons-mars-05480142",
+   "nom": "bens origi al ready rice roasted chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05480142"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900539302",
+   "nom": "Starburst Minis Original Unwrapped",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 137 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900539302"
+  },
+  {
+   "id": "alimentation-boissons-mars-4009900533942",
+   "nom": "Saurer mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009900533942"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496329884",
+   "nom": "Snickers 2 Pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 93 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496329884"
+  },
+  {
+   "id": "alimentation-boissons-mars-5010034014756",
+   "nom": "Ben‘s Bunter Paprika-Reis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010034014756"
+  },
+  {
+   "id": "alimentation-boissons-mars-5056357909409",
+   "nom": "Milk Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056357909409"
+  },
+  {
+   "id": "alimentation-boissons-mars-0058496434175",
+   "nom": "Bites snack size chocolate candy pieces pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 193 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0058496434175"
+  },
+  {
+   "id": "alimentation-boissons-mars-5000159397353",
+   "nom": "Mars Eiscreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 24×41,8g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000159397353"
+  }
+ ],
+ "alimentation-boissons-herta": [
+  {
+   "id": "alimentation-boissons-herta-3154230040286",
+   "nom": "Bacon 15T - 150g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g (15 x 10 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230040286"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036337342",
+   "nom": "GARDEN GOURMET Pavé Gourmand Fromage Soja et Blé 180g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036337342"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800484",
+   "nom": "Tendre Croc' L'original Jambon et Fromage x2",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800484"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036278560",
+   "nom": "GARDEN GOURMET Escalope Soja et Blé 150g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036278560"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613037398083",
+   "nom": "GARDEN GOURMET Sensational Haché Cru Soja à Cuisiner 200g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037398083"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230809593",
+   "nom": "le bon paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230809593"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230810926",
+   "nom": "le bon paris lot de 3 paquets 3154230809869",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 2 x 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230810926"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230804475",
+   "nom": "blanc de poulet à la broche sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230804475"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230814085",
+   "nom": "Spekreepjes Allumettes de lardons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230814085"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230802822",
+   "nom": "Herta jambon superieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230802822"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230813798",
+   "nom": "Lardons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 260",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230813798"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582310395",
+   "nom": "Saftschinken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582310395"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230809654",
+   "nom": "Le Bon Paris au torchon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230809654"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230812494",
+   "nom": "Herta bacon dés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230812494"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230812401",
+   "nom": "Bacon Petit-Déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230812401"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230802013",
+   "nom": "Jambon Superieur fumé au miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 133 g (4 x 33,25 gr)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230802013"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230804550",
+   "nom": "Blanc de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 210",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230804550"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230815259",
+   "nom": "Toasties ham and cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 240g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230815259"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230813545",
+   "nom": "Herta Knacki original bel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230813545"
+  },
+  {
+   "id": "alimentation-boissons-herta-0205856013093",
+   "nom": "Neggets soja et blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205856013093"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230806103",
+   "nom": "Tarte brisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230806103"
+  },
+  {
+   "id": "alimentation-boissons-herta-5615634684875",
+   "nom": "Cervelas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5615634684875"
+  },
+  {
+   "id": "alimentation-boissons-herta-8133230805984",
+   "nom": "Tarte en pr feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8133230805984"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230814115",
+   "nom": "Allumettes de lardons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230814115"
+  },
+  {
+   "id": "alimentation-boissons-herta-4673445937420",
+   "nom": "Knacks veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 210g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4673445937420"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036855723",
+   "nom": "Le Bon Paris à l'Étouffée sans nitrite",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 280 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036855723"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036213127",
+   "nom": "HERTA Lardons allumettes fumés sans antibiotique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036213127"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613037406955",
+   "nom": "Le Bon Paris Sans Nitrite -25% de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037406955"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036761130",
+   "nom": "Allumettes fumées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036761130"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230600275",
+   "nom": "Pate feuilletée Tarte en or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230600275"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036761390",
+   "nom": "Allumettes Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 208 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036761390"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036594233",
+   "nom": "Filet de poulet fumé sans nitrite",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036594233"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582189298",
+   "nom": "Herta Finesse Putenbrust - hauchzart mit honig",
+   "assemblage": "D-45697 Herten",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582189298"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582189397",
+   "nom": "Putenbrust, Gepökelt Und Gegart, Gegrillt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582189397"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035217157",
+   "nom": "Pâte brisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035217157"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034960382",
+   "nom": "6 Original Knacki, Happy Birthday (Sel Réduit de 25 %)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034960382"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613038437460",
+   "nom": "KNACKI saucisses conservation sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038437460"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036593816",
+   "nom": "Blanc de poulet Braisé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 4 x 30g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036593816"
+  },
+  {
+   "id": "alimentation-boissons-herta-05249565",
+   "nom": "trésor de grand mère",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05249565"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800279",
+   "nom": "Engagé et bon à la broche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800279"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036637282",
+   "nom": "Le bon Végétal Escalope soja & blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036637282"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230807261",
+   "nom": "Salami 100 pur porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230807261"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800842",
+   "nom": "Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 110",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800842"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582189496",
+   "nom": "Finesse Putenbrust geräuchert",
+   "assemblage": "45697 Herten",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582189496"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036602341",
+   "nom": "Escalope soja & blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036602341"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034163783",
+   "nom": "Lard Petit Déjeuner fumé",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034163783"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230035305",
+   "nom": "knacki gourmande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230035305"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582370993",
+   "nom": "Hähnchenbrust im Ofen gegrillt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582370993"
+  },
+  {
+   "id": "alimentation-boissons-herta-3023296773943",
+   "nom": "Pâte Feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3023296773943"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613039155806",
+   "nom": "Superieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039155806"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230805847",
+   "nom": "Jambon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230805847"
+  },
+  {
+   "id": "alimentation-boissons-herta-5410573032813",
+   "nom": "Jambon Supérieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410573032813"
+  },
+  {
+   "id": "alimentation-boissons-herta-01741377",
+   "nom": "le bon vegetal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01741377"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034625540",
+   "nom": "Superieur Jambon Cuit, Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034625540"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800361",
+   "nom": "Filet de poulet  -25% de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 120 g (4 x 30 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800361"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613033816932",
+   "nom": "Jambon Supérieur -25% de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033816932"
+  },
+  {
+   "id": "alimentation-boissons-herta-01390623",
+   "nom": "Allumettes lardons fumés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01390623"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800187",
+   "nom": "Engage et bon à l'étouffée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 70 g (2 x 35 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800187"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034965387",
+   "nom": "Knacki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 210.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034965387"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800637",
+   "nom": "Croque-monsieur poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800637"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036706193",
+   "nom": "Jambon nature Superieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score D · 60g, 2 tranches",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036706193"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613039791998",
+   "nom": "Le bon Paris à l'etouffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039791998"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613038120980",
+   "nom": "tendre croc'",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038120980"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036092579",
+   "nom": "Le bon paris -25% de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 22 x 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036092579"
+  },
+  {
+   "id": "alimentation-boissons-herta-5410573000577",
+   "nom": "Fumé au miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410573000577"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036704885",
+   "nom": "Blanc de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036704885"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582372591",
+   "nom": "Finesse Hähnchen mit Spinat",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582372591"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582186792",
+   "nom": "Finesse Bruschetta Sytle Schinken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582186792"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800873",
+   "nom": "Poulet à la broche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800873"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582189090",
+   "nom": "Putenbrust mild geräuchert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582189090"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582370498",
+   "nom": "Hähnchenbrust",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582370498"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582332496",
+   "nom": "Hähnchenfleisch Plus Spinat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582332496"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230034339",
+   "nom": "Knacki Hertz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230034339"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582184392",
+   "nom": "Hähnchenbrust Gepökelt Und Gegart",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582184392"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582379798",
+   "nom": "Genuss Momente, Kochschinken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582379798"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034163820",
+   "nom": "Lard Petit Déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034163820"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035623859",
+   "nom": "Tendre Croque Croque monsieur poulet & fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 2 x 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035623859"
+  },
+  {
+   "id": "alimentation-boissons-herta-3023296773936",
+   "nom": "Pâte Brisée Herta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3023296773936"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035694934",
+   "nom": "Boulettes aux légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035694934"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582187294",
+   "nom": "Hähnchenbrust 1001 Nacht Style",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582187294"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230600152",
+   "nom": "Tarte en Or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230600152"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582372690",
+   "nom": "Finesse Mageres Hähnchenfleisch mit Tomate und Basilikum",
+   "assemblage": "Deutschland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582372690"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582317196",
+   "nom": "Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582317196"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582309399",
+   "nom": "Rustico Schinken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582309399"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035212855",
+   "nom": "Pâte  feuilletée  Herta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035212855"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036068406",
+   "nom": "Trésor de grand-mère feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036068406"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582332397",
+   "nom": "Schweinefleisch Plus Brokkoli-Karotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582332397"
+  },
+  {
+   "id": "alimentation-boissons-herta-8613041989566",
+   "nom": "Jambon à l’étouffée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8613041989566"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230600602",
+   "nom": "Pâte à pizza fine et rectangulaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 390 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230600602"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230034513",
+   "nom": "Cookies Choco - Noix de Pécan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230034513"
+  },
+  {
+   "id": "alimentation-boissons-herta-3700090000078",
+   "nom": "Crème fraîche épaisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700090000078"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036103657",
+   "nom": "Croque Monsieur 3 fromages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036103657"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036704809",
+   "nom": "Poulet fumè",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036704809"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036504706",
+   "nom": "Dés de lardons fumés",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 2x 75 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036504706"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034014696",
+   "nom": "Lardons nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034014696"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036956840",
+   "nom": "HERTA SAUCISSES de STRASBOURG BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score E · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036956840"
+  },
+  {
+   "id": "alimentation-boissons-herta-990530101003134558",
+   "nom": "Le bon végétal - palet gourmand",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/990530101003134558"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582244393",
+   "nom": "Fleischwurst",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582244393"
+  },
+  {
+   "id": "alimentation-boissons-herta-3095754491010",
+   "nom": "Le Tranché fin à l'italienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 270 g (180g+90g gratuit)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3095754491010"
+  },
+  {
+   "id": "alimentation-boissons-herta-3602826497292",
+   "nom": "Pain pour burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3602826497292"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582184491",
+   "nom": "Hähnchenbrust mit curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582184491"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582185597",
+   "nom": "Schinken Gegart mit Buchenholz geräuchert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582185597"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035623941",
+   "nom": "Tendre croc' chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035623941"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035865976",
+   "nom": "Jambon Le Bon Paris au torchon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 480 g (320g+160g gratuit)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035865976"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582184293",
+   "nom": "Herta Finesse Hähnchenbrust im Ofen gegrillt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582184293"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582365593",
+   "nom": "Finesse, Farmer Schinken Mit Honig Verfeinert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582365593"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036695091",
+   "nom": "Saucisses de Strasbourg fumée BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score E · 4 x 35 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036695091"
+  },
+  {
+   "id": "alimentation-boissons-herta-2016979011983",
+   "nom": "Galette gourmande lentilles et carottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2016979011983"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036723503",
+   "nom": "Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036723503"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035615137",
+   "nom": "Saucisse de campagne fumée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035615137"
+  },
+  {
+   "id": "alimentation-boissons-herta-7633636021366",
+   "nom": "Escalope de soja & blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7633636021366"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613037451948",
+   "nom": "Allumette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 2 x 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037451948"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613038534121",
+   "nom": "Effilochés de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038534121"
+  },
+  {
+   "id": "alimentation-boissons-herta-990530101011712984",
+   "nom": "Carré gourmand",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/990530101011712984"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613039508114",
+   "nom": "Superieur sans nitrite -25%sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039508114"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613039156285",
+   "nom": "Supérieur nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039156285"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613037974867",
+   "nom": "Bacon tradicion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037974867"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613039161524",
+   "nom": "Jambon supérieur à la broche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039161524"
+  },
+  {
+   "id": "alimentation-boissons-herta-00134552",
+   "nom": "tendre noix   broche",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 160 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00134552"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582382699",
+   "nom": "Ofengebackenes Hähnchenbrustfilet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582382699"
+  },
+  {
+   "id": "alimentation-boissons-herta-12255146",
+   "nom": "tarte or feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 230g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/12255146"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582031191",
+   "nom": "Herta Edel Salami über Buchenholz Geräuchert, Sala...",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582031191"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613037134063",
+   "nom": "Herta Chicken Frankfurter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037134063"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230806219",
+   "nom": "Supérieur fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230806219"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613287546890",
+   "nom": "Escalope soja blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287546890"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035656949",
+   "nom": "Boulettes de légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035656949"
+  },
+  {
+   "id": "alimentation-boissons-herta-8445290286970",
+   "nom": "Pâte à Mini pizza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290286970"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230600633",
+   "nom": "Pâte à pizza à l'huile d'olive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230600633"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582189991",
+   "nom": "Finesse Salsa Style Hähnchenbrust",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582189991"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230812234",
+   "nom": "Knacki veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230812234"
+  },
+  {
+   "id": "alimentation-boissons-herta-553154230810896",
+   "nom": "Jambon Le bon paris cuit a l’étouffée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/553154230810896"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230032854",
+   "nom": "Edelham Tendre Noix, Schinken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230032854"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230036906",
+   "nom": "Tendre croque classic teneur en sel reduit x2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230036906"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582185993",
+   "nom": "Herta Finess",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582185993"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613032996666",
+   "nom": "Saucisson de Jambon",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032996666"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034763778",
+   "nom": "Kip poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 120g 5 tranches",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034763778"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613034915375",
+   "nom": "Cake Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034915375"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035617575",
+   "nom": "Pate A Tarte Herta Sans Gluten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035617575"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613035845282",
+   "nom": "Tendre noix a l'etouffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035845282"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036100984",
+   "nom": "Filet de poulet au miel, cuit et fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036100984"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036561693",
+   "nom": "Tendre Croc' Pain de mie de Campagne Jambon Fumé & Fromage (3+1 gratuit)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036561693"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582186396",
+   "nom": "Finesse Schinken gegart Minze-Limette",
+   "assemblage": "D-45697 Herten",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582186396"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036574082",
+   "nom": "Jambon blanc fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036574082"
+  },
+  {
+   "id": "alimentation-boissons-herta-5614936021265",
+   "nom": "Nuggets Soja & Blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5614936021265"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036915021",
+   "nom": "Gran tradicion chorizo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036915021"
+  },
+  {
+   "id": "alimentation-boissons-herta-2652037665141",
+   "nom": "Pâte à pizza épaisse et rectangulaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 540 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2652037665141"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613036344234",
+   "nom": "Knacki sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036344234"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613037041804",
+   "nom": "Tradicion superieur grillé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037041804"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582382897",
+   "nom": "Herta Genuss Momente zartes Hähnchenbrustfile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582382897"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613038520292",
+   "nom": "Pulled pork",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038520292"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230013198",
+   "nom": "Herta pâte à pizza sans additif",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230013198"
+  },
+  {
+   "id": "alimentation-boissons-herta-61360433",
+   "nom": "Herta le bon Paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 210g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/61360433"
+  },
+  {
+   "id": "alimentation-boissons-herta-19297813",
+   "nom": "feuilles de brick",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 136g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19297813"
+  },
+  {
+   "id": "alimentation-boissons-herta-5365036635837",
+   "nom": "Blanc de poulet sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5365036635837"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613039116319",
+   "nom": "Pâte brisée sans additif",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039116319"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800392",
+   "nom": "Tendre Croc’ 3 fromages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800392"
+  },
+  {
+   "id": "alimentation-boissons-herta-2689750026706",
+   "nom": "Le bon vegetal, hache cru de soja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2689750026706"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230800781",
+   "nom": "Le bon paris virginie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230800781"
+  },
+  {
+   "id": "alimentation-boissons-herta-7613038419572",
+   "nom": "Le bon végétal saucisse crue nature au soja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038419572"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230803218",
+   "nom": "Tendre croq",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 2 x 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230803218"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230803393",
+   "nom": "Tendre croc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230803393"
+  },
+  {
+   "id": "alimentation-boissons-herta-52739538",
+   "nom": "Pate herta brisee + legere",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/52739538"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582187393",
+   "nom": "Roast Turkey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582187393"
+  },
+  {
+   "id": "alimentation-boissons-herta-4000582309696",
+   "nom": "Hertz Grillschinken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000582309696"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230600664",
+   "nom": "Pâte à pizza giant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 540 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230600664"
+  },
+  {
+   "id": "alimentation-boissons-herta-3154230809807",
+   "nom": "Le bon Paris à l'étouffer tranche épaisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3154230809807"
+  }
+ ]
+}

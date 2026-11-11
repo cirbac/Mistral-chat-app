@@ -1,0 +1,3649 @@
+{
+ "alimentation-et-boissons-kikkoman": [
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390024313",
+   "nom": "Orange Sauce, Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 290 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390024313"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390014543",
+   "nom": "Original Teriyaki Sauce, Original Teriyaki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 476 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390014543"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390001604",
+   "nom": "Soy Sauce, Soy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 gAL/3.79 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390001604"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390014680",
+   "nom": "Teriyaki Garlic & Green Onion Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390014680"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390010453",
+   "nom": "Less Sodium Teriyaki Marinade & Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390010453"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4901515349621",
+   "nom": "Tempura and Noodle Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901515349621"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4901515013454",
+   "nom": "Chickpea Noodle Kit Shoyu-Mazesoba",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901515013454"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4901515013461",
+   "nom": "Chickpea Noodle Kit Japanese Curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901515013461"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4901515013478",
+   "nom": "Chickpea Noodle Kit Sansho-Mala",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 184 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901515013478"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390011092",
+   "nom": "Takumi Teriyaki Sauce Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390011092"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0041390000799",
+   "nom": "Gluten Free Soy Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041390000799"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4930726607947",
+   "nom": "Chocolate Mint Soy milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4930726607947"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-0004139006186",
+   "nom": "Pearl Organic Soymilk Unsweetened",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0004139006186"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4901515342912",
+   "nom": "Bbq Sauce Medium Hot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901515342912"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4580017860188",
+   "nom": "Crushed Almond Topping",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4580017860188"
+  },
+  {
+   "id": "alimentation-et-boissons-kikkoman-4901515001215",
+   "nom": "Sushi And Teriyaki Sauce (thick & Sweet)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901515001215"
+  }
+ ],
+ "alimentation-et-boissons-nongshim": [
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043015714",
+   "nom": "shinramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043015714"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146027033",
+   "nom": "SOON Veggie Noodle Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146027033"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146271245",
+   "nom": "Melange pour soupe aux nouilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146271245"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043150606",
+   "nom": "Shin Ramyeon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043150606"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146066353",
+   "nom": "Vegan Curry Noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 101g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146066353"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146027668",
+   "nom": "Creamy Chicken Noodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146027668"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043157766",
+   "nom": "Seafood Ramyun",
+   "assemblage": "Südkorea",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043157766"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146262748",
+   "nom": "Noodle bowl soup spicy shrimp flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146262748"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043036436",
+   "nom": "Potato Stick (포스틱)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043036436"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238011132",
+   "nom": "Nongshim Udon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238011132"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043029315",
+   "nom": "Neoguri spicy seafood",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043029315"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238066101",
+   "nom": "Nongshim Shrimp Cup Noodle 72g English Version",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238066101"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238087014",
+   "nom": "Nongshim KamjaTangMyun Ramyun 120g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238087014"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043059640",
+   "nom": "chapa guri ramdon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043059640"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146017096",
+   "nom": "Cup noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146017096"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043016094",
+   "nom": "무파마 큰사발",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 112 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043016094"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146215560",
+   "nom": "Craquelins de crevettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146215560"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146035779",
+   "nom": "Tempura udo noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146035779"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146254019",
+   "nom": "Spicy shimp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146254019"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146032013",
+   "nom": "Potato noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146032013"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146020393",
+   "nom": "Tempura udon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146020393"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043036337",
+   "nom": "Snack saveur calmar rôti au beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043036337"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146009251",
+   "nom": "Bae Hong Dong",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 129g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146009251"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043036597",
+   "nom": "Original Onion Ring",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043036597"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146023318",
+   "nom": "spicy and creamy toomba",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146023318"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146033607",
+   "nom": "AnSungTangMyun Noodle Soup (Instant Noodle Hot & Spicy)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146033607"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146063383",
+   "nom": "Shin Noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146063383"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238093237",
+   "nom": "Seafood Bulgogi Flavor - Fried Noodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 105g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238093237"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043060370",
+   "nom": "Baehongdong Bibimmyeon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043060370"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146170203",
+   "nom": "Choice chicken flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146170203"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043157506",
+   "nom": "NONGSHIM Ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043157506"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146029679",
+   "nom": "Red Chili Pepper Powder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146029679"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146271214",
+   "nom": "Nouilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146271214"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146033515",
+   "nom": "Kimchi noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146033515"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146157334",
+   "nom": "Japanese style udon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 9.73 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146157334"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8436558546981",
+   "nom": "Soon veggie cup noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8436558546981"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0846034000575",
+   "nom": "Hong Ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0846034000575"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146018987",
+   "nom": "Chapagetti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · big",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146018987"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146058594",
+   "nom": "Tomate et chili soupe aux nouilles",
+   "assemblage": "California",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146058594"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146017072",
+   "nom": "Nongshim Neoguri, Spicy Seafood 62g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 62g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146017072"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146007592",
+   "nom": "Savory noodle bowl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146007592"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0073217060112",
+   "nom": "Tung-1 instant rice noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0073217060112"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043263092",
+   "nom": "Soupe De Nouilles épicée Et Qiquante 86G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043263092"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146034802",
+   "nom": "Chal Bibim Myun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146034802"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146215782",
+   "nom": "Postick snack 70",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 70",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146215782"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238087106",
+   "nom": "Curry Ramyun ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 116 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238087106"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-16117174",
+   "nom": "Honey Flavoured Twist snack",
+   "assemblage": "Korea",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16117174"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043024075",
+   "nom": "Nongshim Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043024075"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146271238",
+   "nom": "Oolong Men Saveur Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146271238"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043040136",
+   "nom": "Mr.BIBIM Korean Spicy Chicken Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043040136"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146017034",
+   "nom": "Bowl Noodle Soup Lobster Artificial flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146017034"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043952965",
+   "nom": "Nongshim Kimchi Noodle Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043952965"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-17343367",
+   "nom": "Tonkotsu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17343367"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146216192",
+   "nom": "Potato snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146216192"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238081067",
+   "nom": "Nong Shim Korean Clay Pot Ramyun 70G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238081067"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043035514",
+   "nom": "Koreanische Gemüse Ramen Suppe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043035514"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146055333",
+   "nom": "ChapaGuri Jjajng Noodles (Spicy seafood flavor)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146055333"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146060733",
+   "nom": "Buckwheat in noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146060733"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146032686",
+   "nom": "Cuttlefish Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146032686"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146034321",
+   "nom": "Champong Spicy Seafood Flavored Noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146034321"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146033041",
+   "nom": "Shin Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146033041"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146852307",
+   "nom": "Bowl noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1.03 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146852307"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146056705",
+   "nom": "Miso and tofu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146056705"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146850013",
+   "nom": "Kimchi bowl noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146850013"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146020416",
+   "nom": "Spicy Shrimp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146020416"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146058648",
+   "nom": "Soon miso and tofu noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146058648"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043036498",
+   "nom": "Korean Onion Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043036498"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043036139",
+   "nom": "감자깡 (potato crunch)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043036139"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146021963",
+   "nom": "Shin Ramyun Black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146021963"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043049672",
+   "nom": "Shin light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 88 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043049672"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146850105",
+   "nom": "hot and spicy noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146850105"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043042734",
+   "nom": "Nongshim Ramyun Shin Black Bone Broth Bowl 105g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043042734"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146063475",
+   "nom": "Nongshim premium udon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146063475"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146018659",
+   "nom": "Banana Kick banana snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146018659"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146062263",
+   "nom": "Guksu with Beef Bone Extract, Umami Dashi Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 3.24 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146062263"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-35983538",
+   "nom": "Nongshim Vegie Ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/35983538"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043263597",
+   "nom": "OoLongmen Seafood Flavour Cup Noodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043263597"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146158164",
+   "nom": "Nongshim Authentic Korean Cold Noodles In Chilled Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146158164"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146157358",
+   "nom": "Nong Shim Lamen Kal Gook Soo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146157358"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043029001",
+   "nom": "China Nudeln",
+   "assemblage": "Korea",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 6 x 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043029001"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043053358",
+   "nom": "Tempura Udon Flavour Noodle Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043053358"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043062862",
+   "nom": "shin ramyum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 480g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043062862"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0412032028158",
+   "nom": "Kimichi Nudeln Suppe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0412032028158"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146216208",
+   "nom": "choching u-gua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146216208"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146064694",
+   "nom": "Nouilles style UDON tempura de crevettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146064694"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-2010434157728",
+   "nom": "Chapagetthi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2010434157728"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146155200",
+   "nom": "Seafood Flavor Noodle soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146155200"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8809061679529",
+   "nom": "Red Pepper Powder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8809061679529"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146006786",
+   "nom": "Shin Red",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146006786"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146011964",
+   "nom": "Shin Stir Fry Ramyun Beef Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146011964"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0007460300592",
+   "nom": "Champong",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0007460300592"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146070916",
+   "nom": "Soon Tofu Noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146070916"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146014255",
+   "nom": "YukGaeJang Ramyun Noodle Soup Spicy Beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146014255"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146064663",
+   "nom": "White jjamppong instant noodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146064663"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146009282",
+   "nom": "Bae Hong Dong xxx-spicy ramen noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146009282"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043137782",
+   "nom": "Kimchi Ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043137782"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043014090",
+   "nom": "NONGSHIM SHIN RAMYUN",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043014090"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238091257",
+   "nom": "Super spicy chicken flavor instant noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238091257"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8809832940803",
+   "nom": "Rabokki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8809832940803"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043157612",
+   "nom": "noguri ramen bag noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043157612"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146017195",
+   "nom": "YukGaeJang",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146017195"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146065080",
+   "nom": "Nongshim Shin Gold Ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146065080"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146048601",
+   "nom": "Beef Flavor With Seaweed Soo Air Dried Noodles With Soup Mix, Beef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 12.9 oz/368 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146048601"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043070973",
+   "nom": "辛ラーメン　トムヤムクン味",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043070973"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043019217",
+   "nom": "ゴムタン",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043019217"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043028448",
+   "nom": "Noodle Fit Fried Udon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043028448"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146027569",
+   "nom": "Nongshim Creamy Chicken Stir Fry Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146027569"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146021024",
+   "nom": "Chocolate Flavored Roll Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146021024"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146033010",
+   "nom": "Premium Spicy & Creamy Toomba Stir Fry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146033010"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238091684",
+   "nom": "Beef Bulgogi Flavor Fried Noodle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 525 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238091684"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146012381",
+   "nom": "Shrimp Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146012381"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043012379",
+   "nom": "Shrimp Flavoured Cracker",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043012379"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146029433",
+   "nom": "Bibim Myun Ramyun Noodles With Spicy Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146029433"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146158218",
+   "nom": "Squid Champon Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146158218"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043036559",
+   "nom": "Fried Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043036559"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146041169",
+   "nom": "Melon Kick",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146041169"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043031196",
+   "nom": "Melon Kick Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043031196"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146072552",
+   "nom": "Banana Kick Corn Puffs Banana",
+   "assemblage": "China",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 45g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146072552"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-6920238066095",
+   "nom": "Curry Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 116 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6920238066095"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146043729",
+   "nom": "Shin Ramyun Black With Beef Bone Broth",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146043729"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146016129",
+   "nom": "Udon Instant Premium",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146016129"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146044801",
+   "nom": "Shrimp Cracker Wasabi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146044801"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031108044856",
+   "nom": "Shin Ramyum Black with Beef Bone Broth",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031108044856"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043043496",
+   "nom": "Sarigomtang the Slow Cooked Mild Beef Noodle Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043043496"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146045884",
+   "nom": "Nong Shim Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146045884"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043044400",
+   "nom": "Wasabi Saeukkang",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043044400"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146037995",
+   "nom": "Shin Ramyun - Tom Yum Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146037995"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146046829",
+   "nom": "Shrimp Crackers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146046829"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-02114170",
+   "nom": "Premium tonkotsu ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 3.56 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02114170"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146042296",
+   "nom": "Budae Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146042296"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801046403631",
+   "nom": "Pizza Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801046403631"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043022163",
+   "nom": "shin ramen stirfry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043022163"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146043255",
+   "nom": "Shin Ramyum Tom Yum Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146043255"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043028622",
+   "nom": "B29",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043028622"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146048960",
+   "nom": "Matcha Flavoured Roll",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146048960"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146050130",
+   "nom": "Mira shin ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 2.64 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146050130"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-40380810",
+   "nom": "Korean Claypot Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40380810"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-5761059697852",
+   "nom": "Nongshim Snacks m. løgsmag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5761059697852"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146158171",
+   "nom": "Doong Ji Authentic Korean Cold Noodles in Beef Broth",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146158171"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043054881",
+   "nom": "Onion Flavoured Rings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043054881"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-11460275",
+   "nom": "Creamy Chicken Stirfry Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11460275"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0841603157773",
+   "nom": "Neoguri Ramyun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0841603157773"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-7801006056953",
+   "nom": "Shin Ramyun Gold",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7801006056953"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043047357",
+   "nom": "Ppang BuJang Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043047357"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0087703605336",
+   "nom": "Doshik Japjae",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0087703605336"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146055814",
+   "nom": "Zoey Shin Ramyun Burger Hero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146055814"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043263191",
+   "nom": "Шин рамен",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043263191"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146055746",
+   "nom": "Shin Ramyun Superstar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146055746"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-8801043022699",
+   "nom": "STIR FRY",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801043022699"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-0031146069248",
+   "nom": "Shin Ramyun With Beef Bone Broth",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0031146069248"
+  },
+  {
+   "id": "alimentation-et-boissons-nongshim-4582214631295",
+   "nom": "닭개장 사발면",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4582214631295"
+  }
+ ],
+ "alimentation-et-boissons-cj-cheiljedang": [
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392044892",
+   "nom": "Gochujang",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392044892"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176706923",
+   "nom": "Mini wontons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 48 oz 1.36kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176706923"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337960074",
+   "nom": "Tiefgekühlte Teigtaschen gefüllt mit Hühnerfleisch und Gemüse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337960074"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337912417",
+   "nom": "Gyoza",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337912417"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176724101",
+   "nom": "Vegetable Spring Rolls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 48 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176724101"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392107504",
+   "nom": "Sliced Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392107504"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714027",
+   "nom": "COOKED STICKY WHITE RICE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714027"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176711446",
+   "nom": "Steamed Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176711446"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176769645",
+   "nom": "Sticky White Rice Medium Grain Rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 210g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176769645"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337982502",
+   "nom": "Gyoza Vegan Korean Style",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337982502"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337920887",
+   "nom": "Gyoza Beef Bulgogi",
+   "assemblage": "Korea",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337920887"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337911618",
+   "nom": "Gyoza Tofu & Légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337911618"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176706381",
+   "nom": "Crispy Seaweed Snacks Korean BBQ Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176706381"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712733",
+   "nom": "Steamed Dumplings Chicken & Vegetable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 6.6oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712733"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176711705",
+   "nom": "Mini Wontons Chicken & Vegetable Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 24 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176711705"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712818",
+   "nom": "Chicken rice bowl with teriyaki sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 364g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712818"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392065934",
+   "nom": "Sliced Napa Cabbage Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392065934"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337915050",
+   "nom": "Korean style fried chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337915050"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337911205",
+   "nom": "Gyoza kimchi chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337911205"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007949109",
+   "nom": "Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007949109"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392051050",
+   "nom": "Seaweed snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392051050"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176703748",
+   "nom": "Savoryroasted korean seawed",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 30g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176703748"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712580",
+   "nom": "Mandu Bulgogi Chicken Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 24 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712580"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8935297103122",
+   "nom": "Hot jang",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 260g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8935297103122"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337960135",
+   "nom": "Fried Chicken Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337960135"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540701",
+   "nom": "SOBABA Crunchy Glazed Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 48 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540701"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540541",
+   "nom": "Chicken Bibimbap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 10 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540541"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712467",
+   "nom": "BEEF BULGOGI MANDU",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 3 lbs (48 oz)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712467"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392002748",
+   "nom": "Mandu Japchae Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 100 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392002748"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712986",
+   "nom": "Dumpling à la vapeur au porc et aux légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 1.1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712986"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176711873",
+   "nom": "Organic Potstickers Chicken & Vegetable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 48 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176711873"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712535",
+   "nom": "Mandu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712535"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392051135",
+   "nom": "Seaweed Snack Hot Chilli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 4g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392051135"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337911199",
+   "nom": "Mandu Kimchi and Pork dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337911199"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176541005",
+   "nom": "Cooked Sticky White Rice Medium Grain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176541005"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392036590",
+   "nom": "Rice Balls Bulgogi Style",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392036590"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337900414",
+   "nom": "Korean Style Fried Chicken With Sweet And Spicy Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337900414"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337915043",
+   "nom": "Soy Honey Fried Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337915043"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713808",
+   "nom": "Mini wonton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713808"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007561677",
+   "nom": "bibigo seaweed soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007561677"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007121680",
+   "nom": "Soft Tofu bibigo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007121680"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176711965",
+   "nom": "MANDU PORK&VEGETABLE DUMPLING",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176711965"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714140",
+   "nom": "Bibigo Korean Style Fried Rice with Vegetables and Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 18 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714140"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007945132",
+   "nom": "Mandy mushroom dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 420g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007945132"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713600",
+   "nom": "Steamed Soup Dumplings - Beef Bulgogi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 24 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713600"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007957968",
+   "nom": "Mandu vegetable dumplings original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007957968"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007760322",
+   "nom": "Sweet Pumpkin Porridge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007760322"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007526492",
+   "nom": "Beef Stock Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007526492"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540275",
+   "nom": "Wasabi Flavor Seaweed Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540275"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176704387",
+   "nom": "Mini Wontons Bibigo Boulettes au poulet et aux légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176704387"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540046",
+   "nom": "Sesame Flavor Seaweed Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 10 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540046"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540510",
+   "nom": "Kimchi & Cheese Rice Balls",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540510"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007737089",
+   "nom": "牛肉テンジャンチゲ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007737089"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176740453",
+   "nom": "Spring Rolls",
+   "assemblage": "Korea",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 277g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176740453"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540084",
+   "nom": "Potstickers Chicken & Vegetable Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 680g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540084"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4601870004233",
+   "nom": "Pork & Vegetable Dumpling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4601870004233"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540305",
+   "nom": "Fried Rice Korean BBQ Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540305"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337900315",
+   "nom": "Korean Style Chicken Skewers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337900315"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392042959",
+   "nom": "TTEOK BOKKI Rice Cakes with Cheese Flavored Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392042959"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392061349",
+   "nom": "Tteokbokki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392061349"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807576714023",
+   "nom": "Cooked Sticky Rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807576714023"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392067167",
+   "nom": "Whole Shrimp Mandu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392067167"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392070921",
+   "nom": "Gimbap Seaweed Rice Roll",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392070921"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540534",
+   "nom": "Chicken Japchae Noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540534"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392097928",
+   "nom": "Korean Style Udon Noodles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392097928"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392090455",
+   "nom": "Sweet And spicy Tteobokki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392090455"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007917320",
+   "nom": "비비고 순살 삼치구이",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007917320"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007685632",
+   "nom": "Korean-Style Seasoned Seaweed",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 48 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007685632"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337993416",
+   "nom": "Mini mandu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337993416"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337982458",
+   "nom": "Brioches vapeur poulet & légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337982458"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337982403",
+   "nom": "Kimchi et porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337982403"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337916002",
+   "nom": "Gyoza dumplings shrimp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337916002"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007234588",
+   "nom": "Korean SOYBEAN Paste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007234588"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712740",
+   "nom": "Steamed Dumplings Pork & Vegetable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712740"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007499468",
+   "nom": "Seaweed crisps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007499468"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007232744",
+   "nom": "Bulgogi bbq sauce hot & spicy 290 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007232744"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007232652",
+   "nom": "Bibigo Bulgogi Barbecue Sauce Original 290G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007232652"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337982397",
+   "nom": "Mandu kimchi & porc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337982397"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713228",
+   "nom": "Mandu Pork & Vegetable Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 24 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713228"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007995458",
+   "nom": "Seaweed snack - hot chilli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007995458"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007940519",
+   "nom": "Doen-Jang Korean soybean paste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007940519"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392042157",
+   "nom": "Kimchi Flavoured Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392042157"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007556543",
+   "nom": "Chips d'Algues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007556543"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-14141344",
+   "nom": "Seaweed crisps -  Chips d'algues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/14141344"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007817408",
+   "nom": "Crousti nori Feuille d'algue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007817408"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007796277",
+   "nom": "Crousti Nori",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007796277"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007813738",
+   "nom": "100 %sesame oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007813738"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337992426",
+   "nom": "MINI MANDU Pork & vegetables",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337992426"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712481",
+   "nom": "Mandu chicken & vegetable dumpling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712481"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8938508547500",
+   "nom": "kimchi bibigo",
+   "assemblage": "hiệp phước",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1,2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8938508547500"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-6955797201076",
+   "nom": "餃皇",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6955797201076"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713693",
+   "nom": "Savory Potstickers Chucken and Vegetable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713693"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714317",
+   "nom": "Crispy Dumpling Bites Bulgogi Chicken & Vegetable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714317"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007499505",
+   "nom": "Bibigo Seaweed Snack Honey & Corn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007499505"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337812373",
+   "nom": "Korean BBQ flavoured meat patties",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337812373"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713006",
+   "nom": "Bol de riz au poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713006"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176710920",
+   "nom": "Kimchi stew with tofu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16.23 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176710920"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-00799898",
+   "nom": "Reduced Fat Milk",
+   "assemblage": "Corée du Sud",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00799898"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337972398",
+   "nom": "Mandu Kimchi & Pork",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337972398"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337972404",
+   "nom": "MANDU KOREAN BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337972404"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-3848007164311",
+   "nom": "Bibigo Sliced Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3848007164311"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337912493",
+   "nom": "GYOZA DUMPLINGS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337912493"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337982465",
+   "nom": "Brioche vapeur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337982465"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176720424",
+   "nom": "전복죽 Rice Porridge with Abalone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176720424"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007848709",
+   "nom": "Japchae",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007848709"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176720561",
+   "nom": "Beef Bone Flavored Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176720561"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-89414735",
+   "nom": "Brioches Vapeur Porc & Légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/89414735"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176704868",
+   "nom": "Roasted seaweed for wrap & roll",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 10 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176704868"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337912509",
+   "nom": "Crispy Dumplings - pork & vegetables",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337912509"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713624",
+   "nom": "Korean Style Cruncy Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713624"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176712474",
+   "nom": "pork & vegetable mandu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176712474"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007814247",
+   "nom": "Nouille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007814247"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176292303",
+   "nom": "Rice Wrapper Potstickers Beef, Pork & Vegetable Dumpling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176292303"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337910659",
+   "nom": "Empanadillas Koreanas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337910659"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-16525500",
+   "nom": "Gyoza tofu légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16525500"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713570",
+   "nom": "steamed soup dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 36.9 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713570"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337910970",
+   "nom": "Gyosas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337910970"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176711682",
+   "nom": "Organic Potstickers vegetable dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 16 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176711682"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176710944",
+   "nom": "Korean spicy beef soup with mushroom",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176710944"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007826011",
+   "nom": "팥죽",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007826011"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713983",
+   "nom": "Korean Style Crunchy Chicken Battered Chicken with Sweet & Spicy Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 18 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713983"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007922010",
+   "nom": "Kimchi Diced Radish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007922010"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713280",
+   "nom": "SHRIMP FRIED RICE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713280"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0434350070657",
+   "nom": "Crispy seaweed snacks wasabi .",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0434350070657"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713914",
+   "nom": "Sweet soicy chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713914"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176720585",
+   "nom": "Korean beef bone broth soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176720585"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-3955297444976",
+   "nom": "Korean Style Spicy Rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3955297444976"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-6921524178720",
+   "nom": "Gâteau de riz frit au fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6921524178720"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-6955797201632",
+   "nom": "Shrimp bamboo dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6955797201632"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714300",
+   "nom": "Vegetable Fried Rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714300"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714256",
+   "nom": "Mini Wontons (pork & vegetables dumplings)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 32 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714256"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007995069",
+   "nom": "Seaweed Snack Sea Salt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007995069"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337900179",
+   "nom": "Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337900179"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007965161",
+   "nom": "Rice Balls Kimchi & Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007965161"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007996752",
+   "nom": "Gotchu hot sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007996752"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4018737912455",
+   "nom": "Steamer dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4018737912455"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714133",
+   "nom": "Fried Rice Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 18 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714133"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714324",
+   "nom": "Crispy Dumpling Bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 218 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714324"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4016337911472",
+   "nom": "Gyoza beef bulgogi, Bibigo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4016337911472"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392045905",
+   "nom": "Korean Bulgogi Sauce Hot & Spicy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392045905"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714485",
+   "nom": "Korean BBQ Drizzle Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714485"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176101537",
+   "nom": "Sesame Seaweed Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176101537"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540299",
+   "nom": "Gochujang Hot & Sweet Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 345 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540299"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-4589897453688",
+   "nom": "GIMBAP SEAWEED RICE ROLL Bulgogi-Flavoured",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4589897453688"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8935297103085",
+   "nom": "Bulgogi Marinade",
+   "assemblage": "Vietnam",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8935297103085"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176713976",
+   "nom": "Korean Style Crunchy Chicken Battered Chicken with Soy Garlic Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 18 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176713976"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0803406713594",
+   "nom": "Steamed Soup Dumplings Pork & Ginger  Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0803406713594"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-3204316711705",
+   "nom": "Korean style mini wontons chicken and vegetable dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3204316711705"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176720905",
+   "nom": "Chicken soup with ginseng",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176720905"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-9360319000131",
+   "nom": "Mandu Pork & Kimchi Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9360319000131"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-00006507",
+   "nom": "Bibigo kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500gms",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00006507"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0841007812773",
+   "nom": "Sesame oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0841007812773"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714409",
+   "nom": "Mandy Fully Cooked Pork & Vegetable Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714409"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714492",
+   "nom": "Frozen Korean Fried Rice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714492"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8935297103078",
+   "nom": "Bulgodi Marinade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8935297103078"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8935297104464",
+   "nom": "Whole Shrimp Mandu Shrimp Dumplings",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8935297104464"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801392042775",
+   "nom": "TEOK BOKKI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 360g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801392042775"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176540695",
+   "nom": "TteokBokki Sweet & Spicy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176540695"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-8801007987798",
+   "nom": "Korean-Style Corn Dog",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801007987798"
+  },
+  {
+   "id": "alimentation-et-boissons-cj-cheiljedang-0807176714508",
+   "nom": "Korean Style Fried Rice Vegetable With Kimchi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0807176714508"
+  }
+ ],
+ "alimentation-et-boissons-saputo": [
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331790",
+   "nom": "Fromage mozzarellissima",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 500 grams",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331790"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549991024",
+   "nom": "Feta traditionel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549991024"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549109979",
+   "nom": "Provolone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549109979"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549104912",
+   "nom": "Ricotta di campagna",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549104912"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066800000152",
+   "nom": "2% M.F. Fresh Partly Skimmed Milk",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 4 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066800000152"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700045066",
+   "nom": "Butter unsalted",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700045066"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549115000",
+   "nom": "Fromage Bocconcini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549115000"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589050416",
+   "nom": "Lait 1%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589050416"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549112092",
+   "nom": "Ricotta Fiorella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549112092"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549109443",
+   "nom": "Feta Lactose-Free Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549109443"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549120042",
+   "nom": "Mini Friulano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549120042"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549110364",
+   "nom": "boisson a lavoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549110364"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-5000295157859",
+   "nom": "Clover Simply made with Buttermilk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000295157859"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549301007",
+   "nom": "Beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549301007"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549510836",
+   "nom": "Fromage Bocconcini Cocktail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549510836"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589020228",
+   "nom": "NutriLait 2%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589020228"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549027648",
+   "nom": "Mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2 x 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549027648"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549510850",
+   "nom": "Bobboncini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549510850"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0061120100766",
+   "nom": "Tranche Melts",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0061120100766"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549993844",
+   "nom": "Feta origan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549993844"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589100142",
+   "nom": "Nutri lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589100142"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549332063",
+   "nom": "Sapato PARMESAN",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549332063"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549873733",
+   "nom": "Cheddar marble",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549873733"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0040900162958",
+   "nom": "Dairy Star",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040900162958"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549103557",
+   "nom": "Fromage ricota",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549103557"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589020419",
+   "nom": "Nutri Lait 2% m.g.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589020419"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700122002",
+   "nom": "3.25% homogenized milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700122002"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0060879000037",
+   "nom": "Ricotta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0060879000037"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549115017",
+   "nom": "Bocconcini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549115017"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066529700333",
+   "nom": "nutrilait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 2l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066529700333"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549106190",
+   "nom": "Fromage suisse léger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549106190"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549991994",
+   "nom": "Taco Nacho",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549991994"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589080253",
+   "nom": "Nutri lait 10% mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589080253"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549873740",
+   "nom": "Fromage Tranché (gouda)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549873740"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068966100165",
+   "nom": "Mozzarella fresca",
+   "assemblage": "Montréal",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 250",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068966100165"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331301",
+   "nom": "Saputo Italiano 4 formaggi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331301"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068966100257",
+   "nom": "Cubes feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068966100257"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331202",
+   "nom": "Fromage Parmesan Rapé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331202"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549107517",
+   "nom": "Fromage suisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549107517"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549107548",
+   "nom": "Swiss cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549107548"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549106602",
+   "nom": "Fromage feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549106602"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549993738",
+   "nom": "Havarti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549993738"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331134",
+   "nom": "Parmesan pétales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331134"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0061483056977",
+   "nom": "Pizza mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0061483056977"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700103247",
+   "nom": "Evaporated Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 354 gm",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700103247"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549416008",
+   "nom": "Feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549416008"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-7794990879939",
+   "nom": "queso crema pouch la paulina x 4 kg",
+   "assemblage": "Argentina",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7794990879939"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549993400",
+   "nom": "Cheddar Cheese Slices",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549993400"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589020402",
+   "nom": "Nutrilait 2% Partially Skimmed Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589020402"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0075805726509",
+   "nom": "Freshly Shredded Asiago Medium Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0075805726509"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549240108",
+   "nom": "Mozzarellissima Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549240108"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700100277",
+   "nom": "1% M.F. Reduced Sugar Chocolate Milk Beverage",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 473 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700100277"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549100341",
+   "nom": "Fromage Havarti Cremeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 620g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549100341"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549632378",
+   "nom": "Produit de fromage avec parmesan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549632378"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589030128",
+   "nom": "Lait 0% sans gras",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589030128"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549100617",
+   "nom": "Fromage Feta émietté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549100617"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068700303227",
+   "nom": "1% chocolate milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068700303227"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549873757",
+   "nom": "Tranche de fromage naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549873757"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549511642",
+   "nom": "Fromage Bocconcini (perle)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549511642"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549103380",
+   "nom": "Boccincini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 126 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549103380"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549991536",
+   "nom": "Cheddar tres doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549991536"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068966100127",
+   "nom": "Trecce di mozzarella fresca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068966100127"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0069143417304",
+   "nom": "Doré-mi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0069143417304"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0068966100141",
+   "nom": "Mozarella fraiche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068966100141"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589080161",
+   "nom": "Crème à café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589080161"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549083569",
+   "nom": "Mozzarina du Bufala",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549083569"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549331219",
+   "nom": "Parmesan romano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549331219"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549105605",
+   "nom": "Burger a griller",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549105605"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549105100",
+   "nom": "Mozzarellissima",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549105100"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549991543",
+   "nom": "Mozzarella cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549991543"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0063549991529",
+   "nom": "Cheddar cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0063549991529"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066589010229",
+   "nom": "NutriLait 3.25%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066589010229"
+  },
+  {
+   "id": "alimentation-et-boissons-saputo-0066800106540",
+   "nom": "Crispy crunch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 310 MG",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066800106540"
+  }
+ ]
+}

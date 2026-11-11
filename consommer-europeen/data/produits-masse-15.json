@@ -1,0 +1,3658 @@
+{
+ "hygiene-beaute-et-sante-boiron": [
+  {
+   "id": "hygiene-beaute-et-sante-boiron-8470001782076",
+   "nom": "Magnesium Duo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001782076"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-3400936096875",
+   "nom": "Sportenine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 22",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3400936096875"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-3400930617694",
+   "nom": "pommade au calendula LHF boiron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3400930617694"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-00000244",
+   "nom": "RhinAllergy kids boiron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 60",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00000244"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-8470005442730",
+   "nom": "Arsenicum album 30 ch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470005442730"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-0306969998519",
+   "nom": "Oscillococcinum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0306969998519"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-8470005554228",
+   "nom": "Thuya occidentalis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470005554228"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-0306969057094",
+   "nom": "Cold Calm Baby",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0306969057094"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-boiron-3389132005334",
+   "nom": "Jus de fruit de la passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3389132005334"
+  }
+ ],
+ "hygiene-beaute-et-sante-bayer": [
+  {
+   "id": "hygiene-beaute-et-sante-bayer-3534510000641",
+   "nom": "Euphytose nuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 27 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3534510000641"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-3534510000696",
+   "nom": "berocca energie",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 30 comprimés",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3534510000696"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001643094",
+   "nom": "Supradyn Activo Gummies Adulto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 70 caramelos",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001643094"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-3534510001532",
+   "nom": "Berocca Gommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3534510001532"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0016500576082",
+   "nom": "Flintstones Complete Vitamins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 tablets",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0016500576082"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001690166",
+   "nom": "Supradyn Energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 120 uds (153.8 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001690166"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0041100568007",
+   "nom": "MiraLAX",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041100568007"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4057599000467",
+   "nom": "Vital 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 37.6g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4057599000467"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7501008498439",
+   "nom": "Redoxon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501008498439"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001952776",
+   "nom": "Supradyn Memory 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001952776"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470009695019",
+   "nom": "Propalgina plus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470009695019"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0312843393257",
+   "nom": "Milk of magnesia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0312843393257"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0016500554370",
+   "nom": "Flintstone Gummies Sour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 180 gummies",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0016500554370"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4057599004199",
+   "nom": "Berocca sport",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4057599004199"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8994591070011",
+   "nom": "Redoxon - Triple Action",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 x 4500mg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8994591070011"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8994591070073",
+   "nom": "Redoxon - Fortimun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 x 4900mg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8994591070073"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001716811",
+   "nom": "Berocca performance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 30",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001716811"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001667915",
+   "nom": "Supradyn",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001667915"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001556776",
+   "nom": "Berocca boost",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001556776"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-5010605402432",
+   "nom": "Sanatogen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010605402432"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-27221976",
+   "nom": "Brautaufstrich aus Senf und Kräutern",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/27221976"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-27238448",
+   "nom": "Brotaufstrich mit Senf und Gemüse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/27238448"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001716835",
+   "nom": "Berocca",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 144g (30 x 4.8g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001716835"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4008500129203",
+   "nom": "Bepanthen Kühlspray - Verbrennung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4008500129203"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-3534510000948",
+   "nom": "EUPHYTOSE Confort",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 2 x 14 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3534510000948"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7640109660793",
+   "nom": "Supradyn Pro Energy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 2.62g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640109660793"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-3401360235021",
+   "nom": "Berocca Sport Performance Physique Et Mentale 30 Comprimés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3401360235021"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-3401529463593",
+   "nom": "Berocca Boost Guarana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3401529463593"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7640109660533",
+   "nom": "Bepanthen Sensiderm Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640109660533"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7640109660601",
+   "nom": "Bepanthen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640109660601"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470003968799",
+   "nom": "Supradyn Activo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470003968799"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0056500363800",
+   "nom": "One A Day Adult Gummies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0056500363800"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7501008401651",
+   "nom": "Alka-Seltzer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 Tabelle",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501008401651"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7640109662629",
+   "nom": "Supradyn pro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640109662629"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8000560990355",
+   "nom": "Supradyn ricarica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000560990355"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0025866591998",
+   "nom": "Alive shelf 24 caplets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0025866591998"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001542670",
+   "nom": "Redoxon  complex",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001542670"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0016500088066",
+   "nom": "Flintstones complete",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0016500088066"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-04114918",
+   "nom": "Aspirin Complex",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04114918"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001678218",
+   "nom": "Funsol polvo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001678218"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-5010605151019",
+   "nom": "Berocca energy vitamin -C tablets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010605151019"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7640109660694",
+   "nom": "Vitamine boost",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 2 x 72 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640109660694"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-02563842",
+   "nom": "Lefax",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/02563842"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0056500370396",
+   "nom": "RestoraLAX",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 612g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0056500370396"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8713091028113",
+   "nom": "Priorin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8713091028113"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8056736705858",
+   "nom": "Cittrosodina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8056736705858"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-01578818",
+   "nom": "Bepanthen Wundsalbe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01578818"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0016500566762",
+   "nom": "Alka Seltzer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0016500566762"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-5010605401121",
+   "nom": "Energy release",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010605401121"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-16507540",
+   "nom": "Iberogast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16507540"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-5907778388949",
+   "nom": "Vitagrip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5907778388949"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4034278553612",
+   "nom": "Lyoner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4034278553612"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0312843555365",
+   "nom": "Bayer Aspirin Bottle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0312843555365"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-9310160821546",
+   "nom": "Berocca vita orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310160821546"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7793640211242",
+   "nom": "Aspirina Adulto 500mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40 Comprimidos",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7793640211242"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-5010605400483",
+   "nom": "Rennie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 24",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010605400483"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4801962202763",
+   "nom": "Clotrimazole Canesten",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4801962202763"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0366715972620",
+   "nom": "Bayer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0366715972620"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470009549251",
+   "nom": "Actron compuesto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470009549251"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-8470001595607",
+   "nom": "Serenia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001595607"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-01578675",
+   "nom": "Bepanthen Augen/Nasensalbe 10mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01578675"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0056500372406",
+   "nom": "Restora Fibre Daily Gummies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0056500372406"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0312843544352",
+   "nom": "Asprin low dose 81 mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0312843544352"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4910020000002",
+   "nom": "Schinkenstück",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4910020000002"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-0011418240704",
+   "nom": "Alka-AD",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0011418240704"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-5908229301722",
+   "nom": "Bepanthen Baby 100 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5908229301722"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-2852103000023",
+   "nom": "Rindsbratwurst",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2852103000023"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7441003123045",
+   "nom": "Beducen Hidratante Revitalizante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7441003123045"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7702123010395",
+   "nom": "acid mantle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7702123010395"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-9088884226083",
+   "nom": "Aspirin + Forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088884226083"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-9088883515539",
+   "nom": "Aspirin +C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088883515539"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-9088883911799",
+   "nom": "Aspirin direkt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088883911799"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-9088881286172",
+   "nom": "ASPIRIN Kautablette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088881286172"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-2221929005671",
+   "nom": "Fleischwurst",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2221929005671"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-9018800420158",
+   "nom": "supradyn Forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9018800420158"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-04175113",
+   "nom": "Midol Complete",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04175113"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-7680438910039",
+   "nom": "Bepanthen Plus Crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7680438910039"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-bayer-4008500123270",
+   "nom": "aspirine cardio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4008500123270"
+  }
+ ],
+ "hygiene-beaute-et-sante-novartis": [
+  {
+   "id": "hygiene-beaute-et-sante-novartis-6118000220046",
+   "nom": "cataflam",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 25 mg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6118000220046"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-novartis-6118000220404",
+   "nom": "Voltarène",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 Mg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6118000220404"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-novartis-0886790018872",
+   "nom": "Benefiber",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0886790018872"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-novartis-8470009062149",
+   "nom": "Venoruton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470009062149"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-novartis-75011389",
+   "nom": "Ritanine L.P .30mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 28 gélules",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/75011389"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-novartis-7680128060198",
+   "nom": "Resyl plus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7680128060198"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-novartis-10127360",
+   "nom": "Voltaren",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10127360"
+  }
+ ],
+ "hygiene-beaute-et-sante-roche": [
+  {
+   "id": "hygiene-beaute-et-sante-roche-3521334420007",
+   "nom": "Bifidus nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3521334420007"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-roche-3521334413450",
+   "nom": "Yaourt vanille",
+   "assemblage": "Polynésie Française",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3521334413450"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-roche-05515542",
+   "nom": "Restex retard 100mg/25mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05515542"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-roche-0278537203991",
+   "nom": "Egg Bagel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0278537203991"
+  }
+ ],
+ "hygiene-beaute-et-sante-gsk": [
+  {
+   "id": "hygiene-beaute-et-sante-gsk-8901571004836",
+   "nom": "sensodyne rapid relief 80g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901571004836"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-5054563052766",
+   "nom": "Parodontax Mundspülung",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5054563052766"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-8901571005994",
+   "nom": "horlicks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901571005994"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-8470001526434",
+   "nom": "Rhinomer baby aspirador nasal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001526434"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-5000347098390",
+   "nom": "Horlicks Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000347098390"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-4501448003470",
+   "nom": "Excedrin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 24 tabletas",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4501448003470"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-4009864017007",
+   "nom": "Lampenöl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4009864017007"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-7046260070127",
+   "nom": "Alvedon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7046260070127"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-7501043100410",
+   "nom": "Amoxil susp 500 mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501043100410"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-7501070613549",
+   "nom": "Amoxil susp 250",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501070613549"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-7441026000354",
+   "nom": "Panadol Niño Jarabe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7441026000354"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-7501065085191",
+   "nom": "Voltaren Emulgel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501065085191"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-7680538980178",
+   "nom": "Ventolin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7680538980178"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-9088884951954",
+   "nom": "Fenistil Gel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 30g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088884951954"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-4026600150156",
+   "nom": "Odol PLUS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4026600150156"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-gsk-4800318001883",
+   "nom": "Robitussin dm",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4800318001883"
+  }
+ ],
+ "hygiene-beaute-et-sante-haleon": [
+  {
+   "id": "hygiene-beaute-et-sante-haleon-5054563206688",
+   "nom": "sensodyne soin gencives",
+   "assemblage": "Slovaquie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5054563206688"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-haleon-8901571004836",
+   "nom": "sensodyne rapid relief 80g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901571004836"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-haleon-5054563211019",
+   "nom": "Zahnpasta Fuorid",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5054563211019"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-haleon-5054563084378",
+   "nom": "Sensitive Fluorid Doppelpack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5054563084378"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-haleon-5054563105264",
+   "nom": "proschmelz mineralboost",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5054563105264"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-haleon-4026600110044",
+   "nom": "Zahncreme 3er",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4026600110044"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-haleon-5054563063151",
+   "nom": "Zahnpasta Reisegrösse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5054563063151"
+  }
+ ],
+ "hygiene-beaute-et-sante-takeda": [
+  {
+   "id": "hygiene-beaute-et-sante-takeda-8470006543870",
+   "nom": "Mastical limón",
+   "assemblage": "Spain",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 60, 500mg/400 UI",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470006543870"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-takeda-9088881255000",
+   "nom": "Riopan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088881255000"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-takeda-4802985000008",
+   "nom": "Kani Flavored Stick",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4802985000008"
+  }
+ ],
+ "hygiene-beaute-sante-chanel": [
+  {
+   "id": "hygiene-beaute-sante-chanel-3145891073706",
+   "nom": "Bleu de Chanel 150 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3145891073706"
+  },
+  {
+   "id": "hygiene-beaute-sante-chanel-3145891264203",
+   "nom": "Chance Eau De Parfum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3145891264203"
+  }
+ ],
+ "hygiene-beaute-sante-hermes": [
+  {
+   "id": "hygiene-beaute-sante-hermes-5901068037319",
+   "nom": "Woda źródlana",
+   "assemblage": "64-140 Włoszakowice",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901068037319"
+  },
+  {
+   "id": "hygiene-beaute-sante-hermes-5908235943404",
+   "nom": "Niegazowana woda źródlana nienasycona CO2",
+   "assemblage": "Polska",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5908235943404"
+  },
+  {
+   "id": "hygiene-beaute-sante-hermes-5908235942766",
+   "nom": "Napój gazowany o smaku pomarańczowym na bazie wody źródlanej.",
+   "assemblage": "PL 64-140",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5908235942766"
+  },
+  {
+   "id": "hygiene-beaute-sante-hermes-2000000109323",
+   "nom": "Heisser Holunder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 14 x 5,5g = 77g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000109323"
+  },
+  {
+   "id": "hygiene-beaute-sante-hermes-13986563",
+   "nom": "Biolectra Magnesium 300mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13986563"
+  }
+ ],
+ "hygiene-sante-sanofi": [
+  {
+   "id": "hygiene-sante-sanofi-8470001643322",
+   "nom": "Pharmaton complex",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470001643322"
+  },
+  {
+   "id": "hygiene-sante-sanofi-8470007043980",
+   "nom": "Primperan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 50",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470007043980"
+  },
+  {
+   "id": "hygiene-sante-sanofi-8901083012114",
+   "nom": "ALLEGRA 120 TAB",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120mg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901083012114"
+  },
+  {
+   "id": "hygiene-sante-sanofi-8470006562451",
+   "nom": "Mucosan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470006562451"
+  },
+  {
+   "id": "hygiene-sante-sanofi-01138979",
+   "nom": "Bisolvon mucolítico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01138979"
+  },
+  {
+   "id": "hygiene-sante-sanofi-8470006990575",
+   "nom": "Bisolgrip",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8470006990575"
+  },
+  {
+   "id": "hygiene-sante-sanofi-7680381331011",
+   "nom": "Aspégic Forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7680381331011"
+  },
+  {
+   "id": "hygiene-sante-sanofi-9088884200045",
+   "nom": "allegra 120mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9088884200045"
+  },
+  {
+   "id": "hygiene-sante-sanofi-00102573",
+   "nom": "Crestor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 28",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00102573"
+  },
+  {
+   "id": "hygiene-sante-sanofi-7501165001718",
+   "nom": "Allegra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501165001718"
+  },
+  {
+   "id": "hygiene-sante-sanofi-00889357",
+   "nom": "doliprane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00889357"
+  },
+  {
+   "id": "hygiene-sante-sanofi-3582910034995",
+   "nom": "Maalox Plus Aluminium oxide hydrated 200mg Magnesium hydroxide 200 mg Dimethicone 25 mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "40",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3582910034995"
+  },
+  {
+   "id": "hygiene-sante-sanofi-5909990102211",
+   "nom": "Mucosolvan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5909990102211"
+  },
+  {
+   "id": "hygiene-sante-sanofi-5909990880522",
+   "nom": "No-Spa Max",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "20",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5909990880522"
+  }
+ ],
+ "hygiene-sante-upsa": [
+  {
+   "id": "hygiene-sante-upsa-3400935291035",
+   "nom": "Dafalgan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 8 comprimés",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3400935291035"
+  },
+  {
+   "id": "hygiene-sante-upsa-09133011",
+   "nom": "UPSA-C Vitamine C  1000mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 10",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/09133011"
+  }
+ ],
+ "hygiene-beaute-et-sante-l-oreal": [
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522410874",
+   "nom": "Huile extraordinaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522410874"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600521137840",
+   "nom": "Studio Line Remix Pâte Fibre Remodelable 24H",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600521137840"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3610340653667",
+   "nom": "L’orale paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3610340653667"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522632665",
+   "nom": "L'Oréal men Expert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522632665"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523232475",
+   "nom": "Gel douche Total Clean 5 en 1 (format XL)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523232475"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522263685",
+   "nom": "L'Oréal Paris Elvive Extraordinary Oil Hair Oil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522263685"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523082254",
+   "nom": "Revitalift Soin hydratant nuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523082254"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524138851",
+   "nom": "Shampooing Total Repair 5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524138851"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522892472",
+   "nom": "Revitalift Filler [HA] - Soin revolumisant anti-âge jour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522892472"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3054080074342",
+   "nom": "Age Perfect Tonique Frais Peaux Matures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3054080074342"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523232468",
+   "nom": "Hydra Energetic Gel douche Taurine 100mg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523232468"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523526048",
+   "nom": "BarberClub Nettoyant 3 en 1 Barbe + Visage + Cheveux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523526048"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3054080074335",
+   "nom": "Age Perfect Lait Nettoyant Peaux Matures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3054080074335"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3610340670978",
+   "nom": "Elvive Shampoo Hyaluron Pure",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3610340670978"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600520301174",
+   "nom": "Stop Rides Soin Hydratant Anti-rides d'expression Boswelox",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600520301174"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600521309810",
+   "nom": "Studio Line Cire Sculptante Indestructible",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600521309810"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524059156",
+   "nom": "L’Oréal Paris Elseve Hydra [Hyaluronic] Nem ile Dolgunlaştıran Serum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524059156"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523370931",
+   "nom": "Rose & Géranium Shampooing Eclat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523370931"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524138561",
+   "nom": "Elseve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524138561"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-8901526102655",
+   "nom": "Fall Resist 3X Anti-Hairfall Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "650 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901526102655"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523036349",
+   "nom": "L’Oréal Paris Elseve Mucizevi Yağ Saç Güzelleştirici Krem",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523036349"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523214464",
+   "nom": "Elseve Argile Extraordinaire Shampooing beauté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523214464"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3054080063780",
+   "nom": "Démaquillant Express Yeux et Lèvres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3054080063780"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523183630",
+   "nom": "Age expertise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523183630"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-4037900013041",
+   "nom": "Make-up Entferner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4037900013041"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0071249629024",
+   "nom": "heat slayer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0071249629024"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600520977775",
+   "nom": "Casting Crème Gloss 515 Chocolat Glacé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600520977775"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600521708514",
+   "nom": "Mascarilla de pelo protectora Color Vive",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600521708514"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7509552817393",
+   "nom": "Elvive Color Vive Shampoo protector",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "680ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7509552817393"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523925544",
+   "nom": "Shampooing Traitant Antipelliculaire",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 290 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523925544"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-4037900926013",
+   "nom": "Voluminous Waterproof Black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 7.5ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4037900926013"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522839019",
+   "nom": "Accord Parfait 2.R. Vanille Rosé - Fond de teint fondant unifiant perfecteur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522839019"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524103934",
+   "nom": "L'Oréal Paris Revitalift %5 Saf Glikolik Asit Peeling Etkili Tonik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "180 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524103934"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523473977",
+   "nom": "L'Oréal Paris Yaş Uzmanı 45+ Retino Peptit Kırışıklık Karşıtı Sıkılaştırıcı Gündüz Kremi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523473977"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0604454914892",
+   "nom": "Elvital Extraordinary oil Sublime Hair Serum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0604454914892"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523319862",
+   "nom": "L’Oréal Paris Elseve 3 Mucizevi Kil Banyo Öncesi Kil Maskesi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523319862"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523443970",
+   "nom": "Elseve Phytoclear Antipelliculaire Cure 7 Jours",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523443970"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524066536",
+   "nom": "Age Perfect Midningt Crème anti-âge régénérante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524066536"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524069827",
+   "nom": "Sérum anti-âge Revitalift Vitamine C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "30 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524069827"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524229085",
+   "nom": "Telescopic Extensionist Waterproof Mascara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 9,9ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524229085"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524229092",
+   "nom": "L'Oréal Paris Telescopic Extensionist Mascara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 9 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524229092"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3610340651410",
+   "nom": "Elvive Color Protect",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "600 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3610340651410"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522470540",
+   "nom": "EXTRAORDINARY OIL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522470540"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524163808",
+   "nom": "ULTRA-FINE HAIRSPRAY SHINE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524163808"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522838876",
+   "nom": "Accord Parfait fond de teint unifiant sur-mesure Lin",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "30 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522838876"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3054080004349",
+   "nom": "Excellence Crème 1 Noir - Crème colorante triple soin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3054080004349"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522214892",
+   "nom": "Sublime hair enhancer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522214892"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3610340232459",
+   "nom": "Elseve Liss-intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3610340232459"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0071249153789",
+   "nom": "Elnett Satin Strong Hairspray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "11 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0071249153789"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523699148",
+   "nom": "L'Oréal Paris Elseve Color Vive Turunculaşma Karşıtı Mor Şampuan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523699148"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600523708017",
+   "nom": "L'Oreal Paris Men Expert Pure Charcoal Wash 100mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600523708017"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-8901526641758",
+   "nom": "Elvive Dream Lengths Detangling Conditioner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "340 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901526641758"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-7506078928565",
+   "nom": "Desmaquillante Bifásico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7506078928565"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-0604504035416",
+   "nom": "Ballsack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0604504035416"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600522716136",
+   "nom": "Casting Sunkiss Jelly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600522716136"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-8024417011215",
+   "nom": "L'Oréal Paris Studio Line Invisi Fix Gel Mineral 24h Fissaggio Iperforte 8",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8024417011215"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524246853",
+   "nom": "Elvital Glycolic Gloss Shine Boosting Mask",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524246853"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-l-oreal-3600524139537",
+   "nom": "Shampooing Liss Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3600524139537"
+  }
+ ],
+ "hygiene-beaute-et-sante-pierre-fabre": [
+  {
+   "id": "hygiene-beaute-et-sante-pierre-fabre-3282770397697",
+   "nom": "Ultra Fluid Radiance SPF 50+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3282770397697"
+  }
+ ],
+ "hygiene-beaute-et-sante-beiersdorf": [
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900755483",
+   "nom": "NIVEA Pearl & Beauty Deodorant Spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 200ml - Alle huidtypen",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900755483"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-8412300801072",
+   "nom": "Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8412300801072"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005808643127",
+   "nom": "baume riche réparateur et soin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005808643127"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005800137679",
+   "nom": "nivea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005800137679"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900598721",
+   "nom": "nivea sun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900598721"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-9005800291871",
+   "nom": "soothing care",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN · 75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9005800291871"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900259615",
+   "nom": "protector solar Nivea 50 fps 200 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900259615"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900259974",
+   "nom": "protector solar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900259974"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900111456",
+   "nom": "nivea men crene",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900111456"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900732583",
+   "nom": "Control de brillo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900732583"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005808760466",
+   "nom": "nivea cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005808760466"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005808680252",
+   "nom": "crema corporal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005808680252"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900691521",
+   "nom": "NIVEA Sun Protect & Dry Touch SPF50 Verfrissende Zonnebrandmist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900691521"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-42390077",
+   "nom": "hand crem",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42390077"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-42417774",
+   "nom": "hand cream - intensive moisture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42417774"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900985712",
+   "nom": "black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900985712"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-7501054500193",
+   "nom": "Nivea creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501054500193"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900436931",
+   "nom": "med repair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900436931"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-7501054503095",
+   "nom": "Crema Nivea 100 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501054503095"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900681973",
+   "nom": "nivea oogmake- up remover",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900681973"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900911568",
+   "nom": "nivea sun babies & kids",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900911568"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-7501054549819",
+   "nom": "crema",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501054549819"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-7702003006265",
+   "nom": "agua micelar suavizante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7702003006265"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005808304172",
+   "nom": "nivea men silver protect",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005808304172"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900036049",
+   "nom": "nivea men black and white",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900036049"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4006000086705",
+   "nom": "nivea idratante express",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4006000086705"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4005900242020",
+   "nom": "nivea sun protect and fresh",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4005900242020"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-4006000219417",
+   "nom": "Summer hapines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4006000219417"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-beiersdorf-8712561844482",
+   "nom": "Rexona invisible aqua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561844482"
+  }
+ ],
+ "hygiene-beaute-et-sante-henkel": [
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041354493",
+   "nom": "Gd Hamamelis 300ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041354493"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3178041349925",
+   "nom": "Savon de Marseille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 335g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178041349925"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-henkel-3354901702189",
+   "nom": "Rosé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3354901702189"
+  }
+ ],
+ "hygiene-beaute-et-sante-unilever": [
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163997345",
+   "nom": "Dove Original Anti-persperant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163997345"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163004869",
+   "nom": "Go fresh",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250m",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163004869"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-80466437",
+   "nom": "Dove Déodorant Stick Anti-Transpirant Original Protection 48h 40ml",
+   "assemblage": "Russie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80466437"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561538077",
+   "nom": "refreshing beauty cream bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561538077"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-4800888196477",
+   "nom": "Dove original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4800888196477"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8886467010323",
+   "nom": "Dove",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467010323"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720182264664",
+   "nom": "Beauty cream bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182264664"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8886467020124",
+   "nom": "Nourishing body cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467020124"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447244647",
+   "nom": "Anti-perspirant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447244647"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8718114216478",
+   "nom": "Antiperspirant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718114216478"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8886467049514",
+   "nom": "DOVE Beauty cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467049514"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163607268",
+   "nom": "Dove Savon Pain de Toilette Exfoliating Anti-Bactérien x1",
+   "assemblage": "allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 pièce (0.1 kg)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163607268"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163997383",
+   "nom": "Invisible Dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163997383"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0067238891190",
+   "nom": "Original beauty bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067238891190"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720182262417",
+   "nom": "Pampering Moisturising Cream Beauty Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "90g, 1 Std. (1 Piece)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182262417"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0859581006532",
+   "nom": "dove nourishing body care",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0859581006532"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163476789",
+   "nom": "Dove Body Love Bodycrème Rich Nourishment 150 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163476789"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-3014230000201",
+   "nom": "Dove original 200ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3014230000201"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-4000388177000",
+   "nom": "Crème lavante de beauté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000388177000"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447185186",
+   "nom": "Dove intensiva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447185186"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711600368804",
+   "nom": "Dove Crema Corpo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711600368804"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163627099",
+   "nom": "Dove men",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163627099"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59084051",
+   "nom": "Déodorant bille anti-transpirant 48h advanced care invisible dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59084051"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711700927536",
+   "nom": "Dove Gel Douche Amande 750ml Lot de 6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711700927536"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163972717",
+   "nom": "Body love rich nourishment cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163972717"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447275313",
+   "nom": "hand cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447275313"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181594830",
+   "nom": "Déodorant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181594830"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-4000388179004",
+   "nom": "Dove Deeply nourishing handzeep navulzak",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000388179004"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8000700000050",
+   "nom": "Dove Savon Lavant Antibactérien Hydratant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 100 g (4 pièces)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000700000050"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8901030795589",
+   "nom": "Dove Cream Beauty Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030795589"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561488280",
+   "nom": "Intensive Repair Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561488280"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711600453975",
+   "nom": "Dove Intense care bodylotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711600453975"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-50220021",
+   "nom": "Dove men care stick clean comfort 50 m",
+   "assemblage": "Russia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50220021"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710847963469",
+   "nom": "Dove Body Love Essential Care Handcrème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710847963469"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561593335",
+   "nom": "DOVE Gel Douche Nutrition Intense 250ml",
+   "assemblage": "Europe",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561593335"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181466458",
+   "nom": "Gel hidratante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 720 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181466458"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447289327",
+   "nom": "Pink Soap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447289327"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561254595",
+   "nom": "Dove Men+Care Déodorant Homme Spray Clean Comfort",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561254595"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710908778230",
+   "nom": "Restoring ritual body lotion",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710908778230"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181481239",
+   "nom": "Dove Original Beauty Cream Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 stuks",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181481239"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59092629",
+   "nom": "Dove Deodorant roller invisible dry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59092629"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-50287062",
+   "nom": "Dove Women Invisible Dry Deodorant Stick",
+   "assemblage": "Russia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 40ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50287062"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163965276",
+   "nom": "Dove Anti-Transpirant Femme Spray Invisible Dry 200ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163965276"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59092575",
+   "nom": "Deo Men Roller, 72h",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59092575"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8901030824968",
+   "nom": "Dove soap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030824968"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-4000388563902",
+   "nom": "Dove Body Love Light Care Bodylotion",
+   "assemblage": "Duitsland",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000388563902"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59092582",
+   "nom": "Dove Advanced Anti-Transpirant Deodorant Roller Clean Comfort 50 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59092582"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181313424",
+   "nom": "Dove Men+Care 3-in-1 Douchegel Extra Fresh 400 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181313424"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711600456877",
+   "nom": "Dove essential care body lotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711600456877"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181313417",
+   "nom": "Dove Men+care clean comfort douchegel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181313417"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163605776",
+   "nom": "Dove Verzorgende Handzeep Nourishing Silk 250 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163605776"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-96137161",
+   "nom": "Dove - Go Fresh -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 40ml -",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96137161"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561611145",
+   "nom": "Dove cucumber and green tea scent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561611145"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-50096190",
+   "nom": "Roll-on antiperspirant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50096190"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59095316",
+   "nom": "Dove Advanced Care Pomegranate & Lemon Antitranspirant Deodorant Roller",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59095316"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000459842",
+   "nom": "Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000459842"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0079400122643",
+   "nom": "Bâton antisudorifique",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "76 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079400122643"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181375194",
+   "nom": "Duschgel clean Comfort",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181375194"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59099703",
+   "nom": "Dove Men+Care Clean Comfort Antitranspirant Deostick",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59099703"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181340550",
+   "nom": "Anti-Transpirant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181340550"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-80466444",
+   "nom": "Dove Déodorant Anti-transpirant Femme Bille Original 50ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80466444"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-4000388563209",
+   "nom": "Lait pour le corps nutrition essentielle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000388563209"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447217054",
+   "nom": "Peeling macadamia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447217054"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710908778322",
+   "nom": "Dove Nourishing Secrets Lait Corps Restoring Coco 250ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710908778322"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561384261",
+   "nom": "Dove Savon Liquide Mains Nutrition Intense Recharge 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561384261"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711700921565",
+   "nom": "Beauty Cream Wash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711700921565"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8901030899768",
+   "nom": "8901030899768&gt;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030899768"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181287831",
+   "nom": "Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181287831"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-78928503",
+   "nom": "tono uniforme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/78928503"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-7891150097124",
+   "nom": "Dove bifasico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891150097124"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181457500",
+   "nom": "Dove Advanced Care Deeply Nourishing Douchegel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400ml - Droge huid",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181457500"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59092681",
+   "nom": "Déodorant Dove advanced care Coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59092681"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-93569507",
+   "nom": "Invisible Dry White Freesia & Violet Flower Scent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/93569507"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8886467010415",
+   "nom": "Dove Original moisturing cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "50ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8886467010415"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-96095027",
+   "nom": "Dove original 100ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96095027"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-96032435",
+   "nom": "Roll On Deodorant Pomegranate And Lemon Verbena Scent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96032435"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163994252",
+   "nom": "Invisible Dry Spray Deodorant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163994252"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000597575",
+   "nom": "Dove dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000597575"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-96095065",
+   "nom": "DOVE Déodorant Femme Anti-Transpirant Spray Compressé Beauty Finish 100ml",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96095065"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561384841",
+   "nom": "Daily Moisture Shampoo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561384841"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561384025",
+   "nom": "Dove Savon Liquide Mains Nutrition Intense Pompe 250ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561384025"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-96130339",
+   "nom": "Dove zero original 50ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96130339"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717644682944",
+   "nom": "Dove Men+Care Body Wash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717644682944"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163965030",
+   "nom": "Dove Original Anti-Perspirant Deodorant 48h",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163965030"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-7501056371159",
+   "nom": "Exfolación suave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "135 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501056371159"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-4000388176904",
+   "nom": "Dove Original Bain Beauté Hydratant 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4000388176904"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-60028006",
+   "nom": "even tone moisturising cream",
+   "assemblage": "lu lucia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/60028006"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711700841252",
+   "nom": "Dove Lait Corps Peau Seche Beurre de Cajou",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711700841252"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181085710",
+   "nom": "Kokos Lotion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181085710"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59092711",
+   "nom": "Dove Advanced Care Go Fresh Anti-Transpirant Deodorant Roller Cucumber 50 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59092711"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0079400386410",
+   "nom": "Dove Women Caring Coconut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079400386410"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447362945",
+   "nom": "Sensitive Skin Care Lotion",
+   "assemblage": "Pologne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447362945"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-87343533",
+   "nom": "Dove zero invi care 100ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/87343533"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181457418",
+   "nom": "Creme de douche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181457418"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717644683149",
+   "nom": "Dove Men Body Face and Hair Wash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717644683149"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-7506306241183",
+   "nom": "Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 89g/150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7506306241183"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181085659",
+   "nom": "Body Love",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181085659"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0079400352972",
+   "nom": "Dove Women Cool Essentials",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 74g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079400352972"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-59013976",
+   "nom": "Dove ato nat ging 75ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59013976"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000459859",
+   "nom": "dark chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 40.8 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000459859"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0072392017232",
+   "nom": "Milk Chocolate Silky Smooth Pudding & Pie Filling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072392017232"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181191558",
+   "nom": "Sapone detergente idratante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181191558"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181218279",
+   "nom": "Soap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181218279"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000525448",
+   "nom": "Silky smooth promises dark chocolate & sea salt caramel bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000525448"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0079400462213",
+   "nom": "dove 0%",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079400462213"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0011111396494",
+   "nom": "dove sensitive skin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0011111396494"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0011111124257",
+   "nom": "dove deep moisture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN · 24",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0011111124257"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711700887922",
+   "nom": "03/03",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711700887922"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710447169186",
+   "nom": "Reichhaltige Pflege",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710447169186"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0841636100005",
+   "nom": "Hot Chocolate Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0.66 OZ (18.7 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0841636100005"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561609647",
+   "nom": "Shea butter & vanilla body wash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561609647"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710847972720",
+   "nom": "DOVE Gel Douche Pouvoir des Plantes Arbre à Thé 250ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710847972720"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181172120",
+   "nom": "One cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181172120"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711600322080",
+   "nom": "Dive anti perspiration",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711600322080"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000416524",
+   "nom": "Easter dark chocolate candy eggs ounce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000416524"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561387002",
+   "nom": "nourishing body care",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561387002"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0072392017256",
+   "nom": "Dove Dark Chocolat pudding",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0072392017256"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000595724",
+   "nom": "Dark chocolate and sea salt carmel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 6.74 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000595724"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000597056",
+   "nom": "Silky Smooth Promises Dark Chocolate & Almond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000597056"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000595823",
+   "nom": "Dark Chocolate Peanut Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000595823"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-7891150026001",
+   "nom": "loção",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891150026001"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181172137",
+   "nom": "Bodylotiom",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181172137"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-6281006443617",
+   "nom": "conditioner color protect",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6281006443617"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163974520",
+   "nom": "deo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163974520"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0011111010406",
+   "nom": "Relaxing Lavender Oil & Chamomile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0011111010406"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0011111396500",
+   "nom": "refreshing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0011111396500"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181286902",
+   "nom": "Deodorante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181286902"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720182265623",
+   "nom": "Handseife",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182265623"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8720181277801",
+   "nom": "Invisible care",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720181277801"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8711600786226",
+   "nom": "(Limited Edition) Pommegranate & Lemon Verbena Scent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711600786226"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717163964965",
+   "nom": "dove body spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 150ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163964965"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000525424",
+   "nom": "Milk chocolate & caramel candy, milk chocolate & caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 215.7 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000525424"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-01117172",
+   "nom": "go fresh cucumber & green tea scent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01117172"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-50099610",
+   "nom": "Dove - Original -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 75ml -",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/50099610"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0079400342188",
+   "nom": "Dove Women Cool Essentials Spray",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079400342188"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561594424",
+   "nom": "Dove nutr int 12x750 hd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561594424"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-27082515",
+   "nom": "Wine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/27082515"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000498018",
+   "nom": "DOVE PROMISES Dark Chocolate Gift",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000498018"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561571333",
+   "nom": "Intenstive Repair Conditioner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561571333"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000558125",
+   "nom": "Dove Deepest Dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000558125"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000525400",
+   "nom": "Promises dark chocolate almond candy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000525400"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000526766",
+   "nom": "Milk Chocolate Peanut Butter Eggs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 2.12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000526766"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000595700",
+   "nom": "Milk Chocolate & Caramel Promises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000595700"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-7891150095984",
+   "nom": "Serum fluido",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891150095984"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8712561626569",
+   "nom": "Dove silk glow",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "750 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712561626569"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8710522394823",
+   "nom": "Dove Men+Care Sport Care 3-in-1 Douchegel Active+Fresh 250 ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522394823"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-8717644566237",
+   "nom": "Dove Déodorant Femme Stick Antibactérien Maximum Protection Original",
+   "assemblage": "Philippines",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 45 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717644566237"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-6914973600072",
+   "nom": "Dove(德芙) 榛仁巧克力",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 43 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973600072"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-6914973604223",
+   "nom": "Dove Silky Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 18 x 14 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6914973604223"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000529460",
+   "nom": "Cashews",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000529460"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-unilever-0040000500506",
+   "nom": "Dove Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040000500506"
+  }
+ ],
+ "hygiene-beaute-et-sante-reckitt": [
+  {
+   "id": "hygiene-beaute-et-sante-reckitt-5038483962657",
+   "nom": "2 in 1 Massage- + Gleitgel Aloe Vera",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 ml e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5038483962657"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-reckitt-8901396388487",
+   "nom": "Durex extra thin intense chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pc",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901396388487"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-reckitt-5010232967847",
+   "nom": "Durex extra safe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 szt",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010232967847"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-reckitt-5900627068351",
+   "nom": "Durex intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900627068351"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-reckitt-5052197048988",
+   "nom": "Durex invisible",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5052197048988"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-reckitt-5010232967472",
+   "nom": "condoms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010232967472"
+  }
+ ],
+ "hygiene-beaute-et-sante-essity": [
+  {
+   "id": "hygiene-beaute-et-sante-essity-8437006088022",
+   "nom": "Agua de azahar Tena",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8437006088022"
+  }
+ ],
+ "hygiene-beaute-et-sante-shiseido": [
+  {
+   "id": "hygiene-beaute-et-sante-shiseido-0729238141698",
+   "nom": "Refreshing cleansing sheets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0729238141698"
+  }
+ ],
+ "hygiene-beaute-et-sante-kao": [
+  {
+   "id": "hygiene-beaute-et-sante-kao-0019100228825",
+   "nom": "limpiador de poros",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0019100228825"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-kao-0019100222571",
+   "nom": "pore cleaner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0019100222571"
+  },
+  {
+   "id": "hygiene-beaute-et-sante-kao-8992727005135",
+   "nom": "facial wash",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8992727005135"
+  }
+ ]
+}

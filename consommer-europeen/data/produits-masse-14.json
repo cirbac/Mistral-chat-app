@@ -1,0 +1,1854 @@
+{
+ "restauration-livraison-starbucks": [
+  {
+   "id": "restauration-livraison-starbucks-0762111341136",
+   "nom": "Café Espresso Rich&Caramelly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111341136"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953050169",
+   "nom": "Fairtrade Frappuccino Coffee Drink Caramel Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953050169"
+  },
+  {
+   "id": "restauration-livraison-starbucks-3700365098892",
+   "nom": "Club Poulet Cajun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700365098892"
+  },
+  {
+   "id": "restauration-livraison-starbucks-43966238",
+   "nom": "Starbucks capuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/43966238"
+  },
+  {
+   "id": "restauration-livraison-starbucks-06419677",
+   "nom": "latte macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 129g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06419677"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613039399828",
+   "nom": "Starbucks Holiday Blend - Limited Editions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 190g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039399828"
+  },
+  {
+   "id": "restauration-livraison-starbucks-3178530421941",
+   "nom": "Madeleines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530421941"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613038175584",
+   "nom": "Starbucks cafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 53 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038175584"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111490872",
+   "nom": "Dark Chocolate Peanut Butter Cups",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · Net Weight 34g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111490872"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953153198",
+   "nom": "Daily Brew-Less Sugar (Coffee with Milk)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953153198"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613037575583",
+   "nom": "Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037575583"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171038979",
+   "nom": "Jus de pomme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171038979"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953079443",
+   "nom": "Starbucks Doubleshot Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953079443"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171013273",
+   "nom": "Juice cloudy apple",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171013273"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953149641",
+   "nom": "coconut based cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953149641"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8422388063286",
+   "nom": "Focaccia de pollo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 215 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422388063286"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111836977",
+   "nom": "Raspberry & Coconut Brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 55 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111836977"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953104572",
+   "nom": "Starbucks double shot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953104572"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953118296",
+   "nom": "ALMOND BASED ICED COFFEE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953118296"
+  },
+  {
+   "id": "restauration-livraison-starbucks-14062396045105",
+   "nom": "Lait d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/14062396045105"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0625691120006",
+   "nom": "Hipsnk Coconut Clusters Sesame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0625691120006"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111016126",
+   "nom": "Sure as Eggs is Eggs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111016126"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111141798",
+   "nom": "Capsules café arabica espresso kenya",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111141798"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111141804",
+   "nom": "Capsules de café  arabica espresso guatemala",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55 g (10 capsules)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111141804"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111078872",
+   "nom": "Mini caramel waffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111078872"
+  }
+ ],
+ "restauration-livraison-yum": [
+  {
+   "id": "restauration-livraison-yum-5901947667651",
+   "nom": "Kfd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5901947667651"
+  },
+  {
+   "id": "restauration-livraison-yum-3800500175768",
+   "nom": "KFC Tzatziki Salad",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3800500175768"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035288",
+   "nom": "Twister® Tenders",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035288"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035292",
+   "nom": "Tower® Original",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 259 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035292"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035320",
+   "nom": "Tenders® 4",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035320"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000010019",
+   "nom": "Frites Grandes salées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000010019"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035312",
+   "nom": "Maxi Tenders® *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035312"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035294",
+   "nom": "Boxmaster® OR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035294"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035300",
+   "nom": "Double Stacker Cheese & Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035300"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116561",
+   "nom": "ITWIST® CHEESE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 119.4 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116561"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035305",
+   "nom": "Duo Tenders® *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035305"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035324",
+   "nom": "Wings Hot 9",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035324"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035279",
+   "nom": "i-Twist cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 119,3 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035279"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035297",
+   "nom": "Boxmaster® Legend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035297"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035306",
+   "nom": "Duo Wings Hot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035306"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035333",
+   "nom": "Frites petites salées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035333"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035348",
+   "nom": "Kream Ball® saveur chocolat noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035348"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116557",
+   "nom": "COLONEL® ORIGINAL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 231.2 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116557"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035281",
+   "nom": "i-Twist 2hot4u",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035281"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035293",
+   "nom": "Tower® Zinger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035293"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035303",
+   "nom": "Salade Caesar Poulet cuit au four (sans sauce)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035303"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035322",
+   "nom": "Wings Hot 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035322"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035347",
+   "nom": "Kream Ball® Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035347"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035354",
+   "nom": "Sweet Imperial",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035354"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035355",
+   "nom": "Original Recipe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035355"
+  },
+  {
+   "id": "restauration-livraison-yum-8711577130909",
+   "nom": "Tiramisu KFC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711577130909"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035296",
+   "nom": "Boxmaster® Fish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035296"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035299",
+   "nom": "Boxmaster® Maxx Zinger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035299"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035308",
+   "nom": "Duo Mix* + Pièces Hot (Pièces et Wings Hot)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035308"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035309",
+   "nom": "Duo Mix* + Pièces Hot (Pièces et Tenders® )",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035309"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035310",
+   "nom": "Duo Mix* + Pièces OR (Pièces et Wings Hot)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035310"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035314",
+   "nom": "Big Mix *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035314"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035317",
+   "nom": "Bucket Super Pilons & Tenders 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035317"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035323",
+   "nom": "Wings Hot 6",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035323"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035326",
+   "nom": "Wings Original 9",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035326"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035328",
+   "nom": "Pièces Hot 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035328"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035329",
+   "nom": "Fish 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035329"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035331",
+   "nom": "4 Tomates cerises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035331"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035334",
+   "nom": "Frites normales salées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035334"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035342",
+   "nom": "Sundae Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035342"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035349",
+   "nom": "Kream Ball® caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035349"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035351",
+   "nom": "Sauce 2HOT4U®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035351"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035357",
+   "nom": "Salade - Balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035357"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000036816",
+   "nom": "Cream & Onion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036816"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116553",
+   "nom": "DOUBLE STACKER®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 344.4 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116553"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116558",
+   "nom": "COLONEL® ORIGINAL BACON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 236 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116558"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116560",
+   "nom": "DOUBLE KRUNCH BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 205.6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116560"
+  },
+  {
+   "id": "restauration-livraison-yum-4030969807514",
+   "nom": "26382694",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 155g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4030969807514"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000010020",
+   "nom": "Sundae Saveur Chocolat-Noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000010020"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035287",
+   "nom": "Original Krunch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035287"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035289",
+   "nom": "Twister® Poulet cuit au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035289"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035290",
+   "nom": "The B.O.S.S® Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035290"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035291",
+   "nom": "Brazer®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035291"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035298",
+   "nom": "Boxmaster® Maxx OR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035298"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035302",
+   "nom": "Double Stacker Zinger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035302"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035307",
+   "nom": "Duo Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035307"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035313",
+   "nom": "Maxi Wings Hot *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035313"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035311",
+   "nom": "Duo Mix* + Pièces OR (Pièces et Tenders® )",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035311"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035315",
+   "nom": "Big Mix + Pièces Hot *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035315"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035316",
+   "nom": "Big Mix + Pièces OR *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035316"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035318",
+   "nom": "Bucket Super Pilons & Tenders 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035318"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035319",
+   "nom": "Tenders® 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035319"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035325",
+   "nom": "Wings Original 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035325"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035327",
+   "nom": "Pièces OR 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035327"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035330",
+   "nom": "Pilons 2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035330"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035335",
+   "nom": "Petite salade (sans sauce)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035335"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035336",
+   "nom": "Cookie cuit au chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035336"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035337",
+   "nom": "Sundae nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035337"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035338",
+   "nom": "P'tit Yaourt Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035338"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035339",
+   "nom": "Andros Pocket",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035339"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035340",
+   "nom": "Sundae saveur choc noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035340"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035341",
+   "nom": "Sundae caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035341"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035343",
+   "nom": "Moelleux chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035343"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035344",
+   "nom": "Tiramisu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035344"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035345",
+   "nom": "Muffin aux myrtilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035345"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035346",
+   "nom": "P'tit Flan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035346"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035356",
+   "nom": "Salade - Nature (allégée)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035356"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035350",
+   "nom": "Kream Ball® façon Tarte citron meringué",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035350"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035353",
+   "nom": "Moutarde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035353"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116554",
+   "nom": "BOXMASTER® MAXX ORIGINAL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 376 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116554"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000116559",
+   "nom": "KRUNCHY®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 102.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116559"
+  },
+  {
+   "id": "restauration-livraison-yum-8716893021573",
+   "nom": "Spicy kip zinger bitterballen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8716893021573"
+  },
+  {
+   "id": "restauration-livraison-yum-8716893021559",
+   "nom": "Crunchy Kip Bitterballen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8716893021559"
+  },
+  {
+   "id": "restauration-livraison-yum-0990739144666",
+   "nom": "Kfc chocolate shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0990739144666"
+  },
+  {
+   "id": "restauration-livraison-yum-5997788144666",
+   "nom": "Csokis shake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5997788144666"
+  },
+  {
+   "id": "restauration-livraison-yum-3728620019208",
+   "nom": "Bucket 10 tenders",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3728620019208"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000035304",
+   "nom": "Salade Chèvre Noix Tenders® (sans sauce)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000035304"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000152886",
+   "nom": "KFC Boneless Dinner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000152886"
+  },
+  {
+   "id": "restauration-livraison-yum-5902533424528",
+   "nom": "Lody Truskawkowe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5902533424528"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000155629",
+   "nom": "Regular fries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000155629"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000156201",
+   "nom": "KFC Boneless Banquet (Box Meal)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156201"
+  },
+  {
+   "id": "restauration-livraison-yum-9317224405216",
+   "nom": "Corn Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9317224405216"
+  },
+  {
+   "id": "restauration-livraison-yum-4902778315729",
+   "nom": "Chicken Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902778315729"
+  },
+  {
+   "id": "restauration-livraison-yum-2000000162511",
+   "nom": "KFC Mash Potato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000162511"
+  }
+ ],
+ "restauration-livraison-rbi": [
+  {
+   "id": "restauration-livraison-rbi-4650351000301",
+   "nom": "Приправа ароматная «Вкусная штука «Пармезан и чеснок»»",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4650351000301"
+  },
+  {
+   "id": "restauration-livraison-rbi-07321283",
+   "nom": "King fusion brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/07321283"
+  },
+  {
+   "id": "restauration-livraison-rbi-52276712",
+   "nom": "Patatas fritas (medianas)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 116 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/52276712"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036046",
+   "nom": "Onion Rings (petite)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 89 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036046"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000116063",
+   "nom": "Double Cheese Bacon XXL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 339 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116063"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036032",
+   "nom": "Frites (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036032"
+  },
+  {
+   "id": "restauration-livraison-rbi-19927978",
+   "nom": "Cono helado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 100gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19927978"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036016",
+   "nom": "BIG KING XXL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 361gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036016"
+  },
+  {
+   "id": "restauration-livraison-rbi-5410556197904",
+   "nom": "Huile de friture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 15l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410556197904"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000031101",
+   "nom": "Ketchup Burger King",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000031101"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036023",
+   "nom": "Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 115 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036023"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036030",
+   "nom": "Frites (petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036030"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036014",
+   "nom": "Double WHOPPER",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036014"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036031",
+   "nom": "Frites (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 116 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036031"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036025",
+   "nom": "Whopper Junior",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 141 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036025"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036027",
+   "nom": "Crispy Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036027"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000031103",
+   "nom": "BBQ DIP Burger King",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 25 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000031103"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036020",
+   "nom": "Double Chili Cheese Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036020"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036028",
+   "nom": "Little Grilled Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036028"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036047",
+   "nom": "King Shake (petit)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036047"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000056054",
+   "nom": "King Fish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000056054"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000116062",
+   "nom": "BUFFALO CHICKEN FRIES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 91 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116062"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000129217",
+   "nom": "Burger King French Fries (Large)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000129217"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000111315",
+   "nom": "King Fusion M&M's®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000111315"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036019",
+   "nom": "Double Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036019"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036029",
+   "nom": "Chicken Nugget Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036029"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036035",
+   "nom": "Satisfries (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036035"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036037",
+   "nom": "King Wings (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036037"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036039",
+   "nom": "King Nuggets (petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036039"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036043",
+   "nom": "Chili Cheese Nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036043"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036049",
+   "nom": "King Sunday",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036049"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000041830",
+   "nom": "Curry Mango Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 25 g (23 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000041830"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000063556",
+   "nom": "King Deal Double BBQ Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000063556"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000116058",
+   "nom": "PETIT TEXAS BACON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 117.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116058"
+  },
+  {
+   "id": "restauration-livraison-rbi-3665468200231",
+   "nom": "Wrap crousty chevre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3665468200231"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036017",
+   "nom": "X-Tra Long Chili Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036017"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036022",
+   "nom": "Bacon Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036022"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036033",
+   "nom": "Satisfries (petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036033"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036034",
+   "nom": "Satisfries (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036034"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036036",
+   "nom": "King Wings (ailes de poulet – petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036036"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036038",
+   "nom": "King Wings (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036038"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036040",
+   "nom": "King Nuggets (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036040"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036041",
+   "nom": "King Nuggets (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036041"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036042",
+   "nom": "King Nuggets (très grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036042"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036044",
+   "nom": "Chili Cheese Nuggets (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036044"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036045",
+   "nom": "Chili Cheese Nuggets (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036045"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036048",
+   "nom": "X-Cream Sunday",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036048"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036050",
+   "nom": "Glace en cornet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036050"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036051",
+   "nom": "Brownie chaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036051"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036052",
+   "nom": "Muffin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036052"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036053",
+   "nom": "Donut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036053"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036054",
+   "nom": "Smoothie Glacé ou Frappé (petit)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036054"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036055",
+   "nom": "Smoothie Glacé ou Frappé (moyen)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036055"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036056",
+   "nom": "Smoothie Glacé ou Frappé (grand)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036056"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036057",
+   "nom": "Salade Delight",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036057"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036058",
+   "nom": "Frites aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036058"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036059",
+   "nom": "Country Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036059"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036060",
+   "nom": "Veggie steakhouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036060"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036061",
+   "nom": "Burger petit déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036061"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036062",
+   "nom": "Oeufs et bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036062"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036063",
+   "nom": "Mini pancakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036063"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000036064",
+   "nom": "Croc-monsieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036064"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000116059",
+   "nom": "CROUSTY CHEESE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 108 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116059"
+  },
+  {
+   "id": "restauration-livraison-rbi-9005266298728",
+   "nom": "Steak house veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9005266298728"
+  },
+  {
+   "id": "restauration-livraison-rbi-0555000006380",
+   "nom": "Salade energy chicken bowl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0555000006380"
+  },
+  {
+   "id": "restauration-livraison-rbi-8437006451604",
+   "nom": "Cookie Dough Erdbeere Eis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8437006451604"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000133442",
+   "nom": "Master Cantal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 315 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000133442"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151275",
+   "nom": "Smoky BBQ Lover",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 268 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151275"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151276",
+   "nom": "Chicken Smoky BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 289 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151276"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151277",
+   "nom": "Veggie Chicken Smoky BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 278 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151277"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151278",
+   "nom": "Petit Toasté Chèvre Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151278"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151279",
+   "nom": "King Fusion Maltesers Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151279"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151280",
+   "nom": "King Fusion Maltesers Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151280"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151281",
+   "nom": "King Fusion Maltesers Saveur Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151281"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151282",
+   "nom": "KING FUSION au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 172 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151282"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151283",
+   "nom": "Mini KING FUSION au NUTELLA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 67 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151283"
+  },
+  {
+   "id": "restauration-livraison-rbi-3456770004002",
+   "nom": "King yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3456770004002"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000151463",
+   "nom": "Chocolate flavoured ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151463"
+  },
+  {
+   "id": "restauration-livraison-rbi-57548704134558226142192569",
+   "nom": "Burger King, Crispy Chicken Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/57548704134558226142192569"
+  },
+  {
+   "id": "restauration-livraison-rbi-817887904560266310319",
+   "nom": "Burger King, Sprite, 20 Fl Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 20 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/817887904560266310319"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000152602",
+   "nom": "Plant-based Whopper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 292 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000152602"
+  },
+  {
+   "id": "restauration-livraison-rbi-2000000153257",
+   "nom": "Burger King, Coca Cola, Medium, 22 oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 22 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000153257"
+  },
+  {
+   "id": "restauration-livraison-rbi-7391605003200",
+   "nom": "BK Äppelklyftor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7391605003200"
+  },
+  {
+   "id": "restauration-livraison-rbi-4606993000728",
+   "nom": "Наггетсы Замороженные",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4606993000728"
+  },
+  {
+   "id": "restauration-livraison-rbi-3757905379059",
+   "nom": "Mini King Fusion M&M’s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3757905379059"
+  }
+ ]
+}

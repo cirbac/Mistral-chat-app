@@ -1,0 +1,3662 @@
+{
+ "restauration-et-livraison-de-repas-groupe-holder": [
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3556420291506",
+   "nom": "Confiture de fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3556420291506"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-9310036175308",
+   "nom": "Paul’s cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310036175308"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-2061000000283",
+   "nom": "Salade fermier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2061000000283"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-25537666",
+   "nom": "pain grainé Paul",
+   "assemblage": "la défense",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/25537666"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3275179244853",
+   "nom": "Billes Céréales Chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3275179244853"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8435000100894",
+   "nom": "tomates cerise rondes bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435000100894"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8718885745627",
+   "nom": "Meal mild curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885745627"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8718885745665",
+   "nom": "Meal tajine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885745665"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8718885748376",
+   "nom": "Quinoa crunchy pops chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885748376"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8718885744613",
+   "nom": "Quinoa buts et dark chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885744613"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8718885747690",
+   "nom": "Paul's Finest Quinoa Soup Tomato & Basil 290G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885747690"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-8718885747478",
+   "nom": "Quinoa au curry doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885747478"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-36184453",
+   "nom": "L’onctueux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/36184453"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3556420304701",
+   "nom": "Bircher fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3556420304701"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3770007109477",
+   "nom": "Multigraines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3770007109477"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3556420332612",
+   "nom": "Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3556420332612"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3279232045005",
+   "nom": "Yaourt au lait entier sucré infusé à la gousse de Vanille naturelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 6 x 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3279232045005"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-3770007109460",
+   "nom": "Banane & framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3770007109460"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-0837654369012",
+   "nom": "Raspberry macaroons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0837654369012"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-2099901370228",
+   "nom": "Salade paul",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2099901370228"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-groupe-holder-4260433770871",
+   "nom": "Hühnersuppe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 440g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260433770871"
+  }
+ ],
+ "restauration-et-livraison-de-repas-restaurant-brands-international": [
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-4650351000301",
+   "nom": "Приправа ароматная «Вкусная штука «Пармезан и чеснок»»",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4650351000301"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-07321283",
+   "nom": "King fusion brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/07321283"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-52276712",
+   "nom": "Patatas fritas (medianas)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 116 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/52276712"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036046",
+   "nom": "Onion Rings (petite)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 89 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036046"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000116063",
+   "nom": "Double Cheese Bacon XXL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 339 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116063"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036032",
+   "nom": "Frites (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036032"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-19927978",
+   "nom": "Cono helado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 100gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19927978"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036016",
+   "nom": "BIG KING XXL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 361gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036016"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-5410556197904",
+   "nom": "Huile de friture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 15l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410556197904"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000031101",
+   "nom": "Ketchup Burger King",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000031101"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036023",
+   "nom": "Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 115 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036023"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036030",
+   "nom": "Frites (petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036030"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036014",
+   "nom": "Double WHOPPER",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036014"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036031",
+   "nom": "Frites (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 116 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036031"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036025",
+   "nom": "Whopper Junior",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 141 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036025"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036027",
+   "nom": "Crispy Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036027"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000031103",
+   "nom": "BBQ DIP Burger King",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 25 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000031103"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036020",
+   "nom": "Double Chili Cheese Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036020"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036028",
+   "nom": "Little Grilled Chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036028"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036047",
+   "nom": "King Shake (petit)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036047"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000056054",
+   "nom": "King Fish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000056054"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000116062",
+   "nom": "BUFFALO CHICKEN FRIES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 91 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116062"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000129217",
+   "nom": "Burger King French Fries (Large)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 190 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000129217"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000111315",
+   "nom": "King Fusion M&M's®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000111315"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036019",
+   "nom": "Double Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036019"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036029",
+   "nom": "Chicken Nugget Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036029"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036035",
+   "nom": "Satisfries (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036035"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036037",
+   "nom": "King Wings (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036037"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036039",
+   "nom": "King Nuggets (petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036039"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036043",
+   "nom": "Chili Cheese Nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036043"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036049",
+   "nom": "King Sunday",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036049"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000041830",
+   "nom": "Curry Mango Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 25 g (23 ml)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000041830"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000063556",
+   "nom": "King Deal Double BBQ Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000063556"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000116058",
+   "nom": "PETIT TEXAS BACON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 117.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116058"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-3665468200231",
+   "nom": "Wrap crousty chevre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3665468200231"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036017",
+   "nom": "X-Tra Long Chili Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036017"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036022",
+   "nom": "Bacon Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036022"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036033",
+   "nom": "Satisfries (petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036033"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036034",
+   "nom": "Satisfries (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036034"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036036",
+   "nom": "King Wings (ailes de poulet – petite)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036036"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036038",
+   "nom": "King Wings (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036038"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036040",
+   "nom": "King Nuggets (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036040"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036041",
+   "nom": "King Nuggets (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036041"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036042",
+   "nom": "King Nuggets (très grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036042"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036044",
+   "nom": "Chili Cheese Nuggets (moyenne)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036044"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036045",
+   "nom": "Chili Cheese Nuggets (grande)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036045"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036048",
+   "nom": "X-Cream Sunday",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036048"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036050",
+   "nom": "Glace en cornet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036050"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036051",
+   "nom": "Brownie chaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036051"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036052",
+   "nom": "Muffin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036052"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036053",
+   "nom": "Donut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036053"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036054",
+   "nom": "Smoothie Glacé ou Frappé (petit)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036054"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036055",
+   "nom": "Smoothie Glacé ou Frappé (moyen)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036055"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036056",
+   "nom": "Smoothie Glacé ou Frappé (grand)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036056"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036057",
+   "nom": "Salade Delight",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036057"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036058",
+   "nom": "Frites aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036058"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036059",
+   "nom": "Country Burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036059"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036060",
+   "nom": "Veggie steakhouse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036060"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036061",
+   "nom": "Burger petit déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036061"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036062",
+   "nom": "Oeufs et bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036062"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036063",
+   "nom": "Mini pancakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036063"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000036064",
+   "nom": "Croc-monsieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000036064"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000116059",
+   "nom": "CROUSTY CHEESE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 108 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116059"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-9005266298728",
+   "nom": "Steak house veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9005266298728"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-0555000006380",
+   "nom": "Salade energy chicken bowl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0555000006380"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-8437006451604",
+   "nom": "Cookie Dough Erdbeere Eis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8437006451604"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000133442",
+   "nom": "Master Cantal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 315 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000133442"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151275",
+   "nom": "Smoky BBQ Lover",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 268 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151275"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151276",
+   "nom": "Chicken Smoky BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 289 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151276"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151277",
+   "nom": "Veggie Chicken Smoky BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 278 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151277"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151278",
+   "nom": "Petit Toasté Chèvre Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151278"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151279",
+   "nom": "King Fusion Maltesers Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151279"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151280",
+   "nom": "King Fusion Maltesers Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151280"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151281",
+   "nom": "King Fusion Maltesers Saveur Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 167 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151281"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151282",
+   "nom": "KING FUSION au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 172 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151282"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151283",
+   "nom": "Mini KING FUSION au NUTELLA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 67 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151283"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-3456770004002",
+   "nom": "King yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3456770004002"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000151463",
+   "nom": "Chocolate flavoured ice cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151463"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-57548704134558226142192569",
+   "nom": "Burger King, Crispy Chicken Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/57548704134558226142192569"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-817887904560266310319",
+   "nom": "Burger King, Sprite, 20 Fl Oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 20 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/817887904560266310319"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000152602",
+   "nom": "Plant-based Whopper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 292 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000152602"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-2000000153257",
+   "nom": "Burger King, Coca Cola, Medium, 22 oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 22 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000153257"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-7391605003200",
+   "nom": "BK Äppelklyftor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7391605003200"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-4606993000728",
+   "nom": "Наггетсы Замороженные",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4606993000728"
+  },
+  {
+   "id": "restauration-et-livraison-de-repas-restaurant-brands-international-3757905379059",
+   "nom": "Mini King Fusion M&M’s",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3757905379059"
+  }
+ ],
+ "restauration-livraison-paul": [
+  {
+   "id": "restauration-livraison-paul-3556420291506",
+   "nom": "Confiture de fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3556420291506"
+  },
+  {
+   "id": "restauration-livraison-paul-9310036175308",
+   "nom": "Paul’s cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9310036175308"
+  },
+  {
+   "id": "restauration-livraison-paul-2061000000283",
+   "nom": "Salade fermier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2061000000283"
+  },
+  {
+   "id": "restauration-livraison-paul-25537666",
+   "nom": "pain grainé Paul",
+   "assemblage": "la défense",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/25537666"
+  },
+  {
+   "id": "restauration-livraison-paul-3275179244853",
+   "nom": "Billes Céréales Chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3275179244853"
+  },
+  {
+   "id": "restauration-livraison-paul-8435000100894",
+   "nom": "tomates cerise rondes bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435000100894"
+  },
+  {
+   "id": "restauration-livraison-paul-8718885745627",
+   "nom": "Meal mild curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885745627"
+  },
+  {
+   "id": "restauration-livraison-paul-8718885745665",
+   "nom": "Meal tajine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885745665"
+  },
+  {
+   "id": "restauration-livraison-paul-8718885748376",
+   "nom": "Quinoa crunchy pops chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885748376"
+  },
+  {
+   "id": "restauration-livraison-paul-8718885744613",
+   "nom": "Quinoa buts et dark chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885744613"
+  },
+  {
+   "id": "restauration-livraison-paul-8718885747690",
+   "nom": "Paul's Finest Quinoa Soup Tomato & Basil 290G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885747690"
+  },
+  {
+   "id": "restauration-livraison-paul-8718885747478",
+   "nom": "Quinoa au curry doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718885747478"
+  },
+  {
+   "id": "restauration-livraison-paul-36184453",
+   "nom": "L’onctueux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/36184453"
+  },
+  {
+   "id": "restauration-livraison-paul-3556420304701",
+   "nom": "Bircher fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3556420304701"
+  },
+  {
+   "id": "restauration-livraison-paul-3770007109477",
+   "nom": "Multigraines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3770007109477"
+  },
+  {
+   "id": "restauration-livraison-paul-3556420332612",
+   "nom": "Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3556420332612"
+  },
+  {
+   "id": "restauration-livraison-paul-3279232045005",
+   "nom": "Yaourt au lait entier sucré infusé à la gousse de Vanille naturelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 6 x 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3279232045005"
+  },
+  {
+   "id": "restauration-livraison-paul-3770007109460",
+   "nom": "Banane & framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3770007109460"
+  },
+  {
+   "id": "restauration-livraison-paul-0837654369012",
+   "nom": "Raspberry macaroons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0837654369012"
+  },
+  {
+   "id": "restauration-livraison-paul-2099901370228",
+   "nom": "Salade paul",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2099901370228"
+  },
+  {
+   "id": "restauration-livraison-paul-4260433770871",
+   "nom": "Hühnersuppe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 440g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260433770871"
+  }
+ ],
+ "restauration-livraison-sodexo": [
+  {
+   "id": "restauration-livraison-sodexo-0014564441234",
+   "nom": "Bocadillo de jamon serrano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0014564441234"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0404000356189",
+   "nom": "Hard Cooked Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0404000356189"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0477008062741",
+   "nom": "Chicken Salad Cup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0477008062741"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0404000733423",
+   "nom": "Egg Salad Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0404000733423"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0886721545767",
+   "nom": "Garden salad Balsamic Dressing",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0886721545767"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0477088237541",
+   "nom": "Chicken Cesar Wrap Work",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0477088237541"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0477088126111",
+   "nom": "Mango Chia overnight oats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0477088126111"
+  },
+  {
+   "id": "restauration-livraison-sodexo-9317224402604",
+   "nom": "10in Plain Tortilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 756 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9317224402604"
+  },
+  {
+   "id": "restauration-livraison-sodexo-0205066302291",
+   "nom": "Kaiser Roll",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205066302291"
+  }
+ ],
+ "restauration-livraison-mcdonalds": [
+  {
+   "id": "restauration-livraison-mcdonalds-08822222",
+   "nom": "McNuggetd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/08822222"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-5028941313978",
+   "nom": "Mc Spicy Chicken Fillet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 900g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5028941313978"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003762",
+   "nom": "9 Chicken McNuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003762"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116369",
+   "nom": "McFIRST™ POISSON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 191 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116369"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003755",
+   "nom": "Liste des produits Mcdonald's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003755"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000055578",
+   "nom": "MC DONALDS - PANCAKE CON SCIROPPO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000055578"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116370",
+   "nom": "McFIRST™ POULET",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 210.7 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116370"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116374",
+   "nom": "LE P'TIT RANCH™",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 128 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116374"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000032181",
+   "nom": "Frucht-Quatsch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000032181"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116373",
+   "nom": "LE McMUFFIN™ EGG & BACON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 141 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116373"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003786",
+   "nom": "Fanta Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 40 cl / 416 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003786"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116377",
+   "nom": "LE TRIPLE CHEESEBURGER",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 223 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116377"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116396",
+   "nom": "LA VEGGIE PASTA & MOZZA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 271 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116396"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-11819424",
+   "nom": "Choson au pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11819424"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000139838",
+   "nom": "Double Chicken BBQ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 215.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000139838"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003768",
+   "nom": "Casse Croûte Poulet Curry ***",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 309 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003768"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003784",
+   "nom": "Coca Cola Zero (40cl)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 402 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003784"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-4006824000345",
+   "nom": "Tomato Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4006824000345"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000111463",
+   "nom": "Erdbeerkuchen mit Buttermilchcreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 167g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000111463"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116390",
+   "nom": "LE DONUT NATURE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 65 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116390"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116391",
+   "nom": "LE DONUT CONFETTI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 57.2 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116391"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116392",
+   "nom": "LE MUFFIN AUX MYRTILLES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 127 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116392"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000132217",
+   "nom": "Chicken Big Tasty",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 1 sandwich",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000132217"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000002692",
+   "nom": "Cheddar & Smoky Bacon - 1 viande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000002692"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-5010482167561",
+   "nom": "Big tasty burger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010482167561"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2040000113428",
+   "nom": "Maple BBQ Quarter Pounder - 1 steak haché",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 213 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2040000113428"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-20400001134292",
+   "nom": "Maple BBQ Quarter Pounder - 2 steaks hachés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20400001134292"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-00622222",
+   "nom": "Filet-o-fish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100.0g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00622222"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003767",
+   "nom": "Casse Croûte Bœuf Moutarde **",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 283 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003767"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000003775",
+   "nom": "Salade Farmer **",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 278 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000003775"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000058789",
+   "nom": "P'tit Italien™",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 129 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000058789"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116375",
+   "nom": "LE P'TIT WRAP CHÈVRE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 142.1 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116375"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116398",
+   "nom": "LA SAUCE CLASSIC BARBECUE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 25 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116398"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000116399",
+   "nom": "LA SAUCE POMMES-FRITES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 14 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000116399"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-23645776",
+   "nom": "Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 119g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/23645776"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000131644",
+   "nom": "McDonald's Bacon Double Cheeseburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000131644"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000132298",
+   "nom": "Chicken Mayo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000132298"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-90004149140004077564",
+   "nom": "Nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90004149140004077564"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000137593",
+   "nom": "Chickenburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 127 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000137593"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-7896046607258",
+   "nom": "McDouble®",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896046607258"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-7899682739734",
+   "nom": "Classic McDonald's Hamburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7899682739734"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-0684742615113",
+   "nom": "Bacon deluxe McCrispy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0684742615113"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000148126",
+   "nom": "Hamburger McDonald's",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000148126"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000148127",
+   "nom": "Patatine McDonald's Regolari",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000148127"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-350000007414373",
+   "nom": "McWrap® con petto di pollo croccante e Parmigiano Reggiano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 225g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/350000007414373"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-54000000274206",
+   "nom": "Homestyle Chargrill Veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 210g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54000000274206"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000149793",
+   "nom": "Frytki duże",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000149793"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151028",
+   "nom": "Große Pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151028"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151027",
+   "nom": "Mittlere Pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 114 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151027"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000083450",
+   "nom": "Brioche al cioccolato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 72 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000083450"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000083452",
+   "nom": "Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 1 porzione",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000083452"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151285",
+   "nom": "Boîte de 20 Chicken McNuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151285"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151286",
+   "nom": "McFlurry Popcorn Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 159 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151286"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151287",
+   "nom": "Coca-Cola McFloat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 506 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151287"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151290",
+   "nom": "McFish Mayo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 113 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151290"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151289",
+   "nom": "Filet-O-Fish Deluxe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151289"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-9780385660075",
+   "nom": "6 piece Chicken Nugget Combo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9780385660075"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151303",
+   "nom": "McFlurry vanille KitKat nappage chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 206 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151303"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151305",
+   "nom": "McFlurry vanille nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 145 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151305"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151307",
+   "nom": "McFlurry vanille nappage chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 186 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151307"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151304",
+   "nom": "McFlurry vanille Daim nappage caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 211 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151304"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151306",
+   "nom": "McFlurry vanille coulis fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 166 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151306"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151308",
+   "nom": "McFlurry vanille nappage caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 188 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151308"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151309",
+   "nom": "McFlurry vanille KitKat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 164 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151309"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151310",
+   "nom": "McFlurry vanille KitKat coulis fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 192 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151310"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151312",
+   "nom": "McFlurry vanille KitKat nappage caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 205 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151312"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151313",
+   "nom": "McFlurry vanille Daim",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151313"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151314",
+   "nom": "McFlurry vanille Daim nappage chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151314"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151316",
+   "nom": "McFlurry vanille M&Ms coulis fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151316"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151317",
+   "nom": "McFlurry vanille M&Ms nappage chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151317"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151318",
+   "nom": "McFlurry vanille M&Ms nappage caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151318"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151315",
+   "nom": "McFlurry vanille M&Ms",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151315"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151319",
+   "nom": "Sundae vanille nappage chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151319"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151322",
+   "nom": "Sundae vanille nappage caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151322"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151320",
+   "nom": "Sundae vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151320"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000151321",
+   "nom": "Sundae vanille coulis fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000151321"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-0000568754341",
+   "nom": "Menu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0000568754341"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-41401101",
+   "nom": "Everthing bagels With Regular Cream Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/41401101"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-6381650428653907407",
+   "nom": "McDonald's, Bacon, Egg & Cheese McGriddles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1 serving(s)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6381650428653907407"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2899134125988548",
+   "nom": "McDonald's, Baked Hot Apple Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 serving(s)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2899134125988548"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-35694738580550334",
+   "nom": "Mcdonald's, French Fries, Large",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 serving(s)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/35694738580550334"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-9683576447163465369192",
+   "nom": "Mcdonald's, Fruit & Maple Oatmeal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 serving(s)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9683576447163465369192"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000152334",
+   "nom": "Bio Apfeltüte",
+   "assemblage": "Bayern",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000152334"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-01472580",
+   "nom": "Chicken Breakfast Wrap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01472580"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-5028941350669",
+   "nom": "Cheese & Garlic Bites",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5028941350669"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-0663447609207",
+   "nom": "McCafé Dark Roast Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0663447609207"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000153260",
+   "nom": "Hamburger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000153260"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000153372",
+   "nom": "Double Quarter Pounder with Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000153372"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000154828",
+   "nom": "5 Chicken Selects",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000154828"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000155451",
+   "nom": "McPuişor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 94 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000155451"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156199",
+   "nom": "Cheesy Bacon Flatbread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156199"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156241",
+   "nom": "Senf Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 28g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156241"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-59478553",
+   "nom": "Taba",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59478553"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156291",
+   "nom": "Big Tasty Bacon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 359g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156291"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156292",
+   "nom": "McFlurry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 142g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156292"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156293",
+   "nom": "McFlurry Wahlzutat Hanuta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 25g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156293"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156294",
+   "nom": "McSundae Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 113g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156294"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000156295",
+   "nom": "Wahlzutat Karamell-Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 41g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000156295"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-0611247398913",
+   "nom": "McCafé - Horchata Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0611247398913"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157042",
+   "nom": "Mcdonald's - vanilla cone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157042"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-5010909008095",
+   "nom": "Shortbread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010909008095"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157103",
+   "nom": "McDonald's Chicken McNuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157103"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157104",
+   "nom": "4 Piece Chicken McNuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 4",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157104"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157152",
+   "nom": "Egg McMuffin",
+   "assemblage": "usa",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157152"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157154",
+   "nom": "McDonald's round egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157154"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157156",
+   "nom": "Folded Egg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157156"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157172",
+   "nom": "Apple Pie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157172"
+  },
+  {
+   "id": "restauration-livraison-mcdonalds-2000000157804",
+   "nom": "Infinity Stars",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000157804"
+  }
+ ],
+ "restauration-livraison-starbucks": [
+  {
+   "id": "restauration-livraison-starbucks-7613287417817",
+   "nom": "STARBUCKS By Nespresso Blonde Espresso Roast x18",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 94 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287417817"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036943765",
+   "nom": "STARBUCKS by NESCAFE DOLCE GUSTO Caramel Macchiato 127,8g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 127.8 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036943765"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036957083",
+   "nom": "STARBUCKS By Nespresso House Blend 10 capsules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 57 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036957083"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036961561",
+   "nom": "STARBUCKS By Nespresso Blonde Espresso Roast 10 capsules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 53g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036961561"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613287335524",
+   "nom": "STARBUCKS by NESCAFE DOLCE GUSTO Vanille Macchiatto 12 capsules 132g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 132 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287335524"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445290156044",
+   "nom": "Creamy vanilla café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 51 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290156044"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036961684",
+   "nom": "Colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 57 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036961684"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613287414298",
+   "nom": "Capsules STARBUCKS By NESPRESSO Colombia x18",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 101 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287414298"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445290154187",
+   "nom": "STARBUCKS by NESPRESSO Caramel 10 capsules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 51 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290154187"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036943673",
+   "nom": "STARBUCKS by NESCAFE DOLCE GUSTO Cappuccino 120g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036943673"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036939980",
+   "nom": "STARBUCKS by NESCAFE DOLCE GUSTO Espresso Colombia 66g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 66 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036939980"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613287418890",
+   "nom": "House Blend Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 103 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287418890"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111490896",
+   "nom": "ALL BUTTER SHORTBREAD BISCUITS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111490896"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5060510581821",
+   "nom": "Classic oatmeal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060510581821"
+  },
+  {
+   "id": "restauration-livraison-starbucks-4250950113749",
+   "nom": "Very Berry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4250950113749"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953194429",
+   "nom": "Protein Drink with Coffee - Chocolate Mocha Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953194429"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171039006",
+   "nom": "SMOOTHIE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171039006"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111795755",
+   "nom": "Starbucks Pike Place Roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111795755"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111341204",
+   "nom": "Café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111341204"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613287607577",
+   "nom": "Signature chocolate 42%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287607577"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036959049",
+   "nom": "STARBUCKS Sumatra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036959049"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953095528",
+   "nom": "Fairtrade Almond Plant-Based Iced Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953095528"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613287414236",
+   "nom": "STARBUCKS By Nespresso Espresso Roast X18",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 101 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287414236"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111614902",
+   "nom": "French roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111614902"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613037290806",
+   "nom": "COLOMBIA SINGLE-ORIGIN COFFEE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037290806"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8422388068151",
+   "nom": "Croque monsieur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 155 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422388068151"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5056238600708",
+   "nom": "Raspberry Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5056238600708"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171013280",
+   "nom": "Smooth Orange Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171013280"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0055000206600",
+   "nom": "Chocolat chaud caramel salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055000206600"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0050000979677",
+   "nom": "Vanilla Latte Creamer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050000979677"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111144355",
+   "nom": "Madeleine Cakes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111144355"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0098100100553",
+   "nom": "Pink Drink - Strawberry Acai",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0098100100553"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410071109281",
+   "nom": "Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410071109281"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953192920",
+   "nom": "Blissful Retreat [Lim. Edition Mocha]",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 220 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953192920"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953192982",
+   "nom": "starbucks edicion limitada moca chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953192982"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111157812",
+   "nom": "Apple And Mango Juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111157812"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0050000850938",
+   "nom": "House Blend/True Blend/Caffe Verona Keurig Pod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050000850938"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445291452657",
+   "nom": "Cápsula café Ristretto shot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291452657"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111467072",
+   "nom": "Mexican-Style Three Bean Wrap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111467072"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8422388100363",
+   "nom": "Yogur Mango Y Maracuyá",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422388100363"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5201360531332",
+   "nom": "Croissant cream & cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5201360531332"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036940498",
+   "nom": "Espresso café arábica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036940498"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171039013",
+   "nom": "Smoothie apple kiwi smoothie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171039013"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0050000538003",
+   "nom": "HAZELNUT LATTE INSPIRED FLAVOR ALMONDMILK & OATMILK CREAMER",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050000538003"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953161896",
+   "nom": "Smores frappuccino coffe drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953161896"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613037290691",
+   "nom": "Starbucks Blonde Espresso Roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037290691"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953173325",
+   "nom": "Chocolate hazelnut flavor cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953173325"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0098100100119",
+   "nom": "paradise drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0098100100119"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111341150",
+   "nom": "Cafe natural",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111341150"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111341143",
+   "nom": "Café descafeinado espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111341143"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111337931",
+   "nom": "Espresso roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111337931"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111301826",
+   "nom": "coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111301826"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111008343",
+   "nom": "Mélange petit déjeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111008343"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5614187598967",
+   "nom": "Signature chcolate 70% cocoa powder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5614187598967"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111206091",
+   "nom": "Starbucks decaf house blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111206091"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8422388091845",
+   "nom": "Bagel Vuna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422388091845"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111010551",
+   "nom": "pike place roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111010551"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111126719",
+   "nom": "Starbucks Vanilla Almond Biscotti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111126719"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111206121",
+   "nom": "french Roast dark",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111206121"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613037275544",
+   "nom": "Caffè Verona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037275544"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036927611",
+   "nom": "Dolce Gusto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036927611"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613036927017",
+   "nom": "Cappuccino dolce gusto capsule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036927017"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111338037",
+   "nom": "Guatemala",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111338037"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7630477890816",
+   "nom": "pike place nespresso vertuo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477890816"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613038631066",
+   "nom": "Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038631066"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8934804043005",
+   "nom": "คาเฟ่ลาเต้ กาแฟปรุงสำเร็จผสมกาแฟคั่วบด",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 121.2 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934804043005"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111491954",
+   "nom": "Starbucks Veranda Blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111491954"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171038993",
+   "nom": "Lemonade lemon citrus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171038993"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171038962",
+   "nom": "Smootie Tropical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171038962"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111165435",
+   "nom": "Italian roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111165435"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0098100100324",
+   "nom": "Starbucks cold brew chocolate cream can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0098100100324"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111614568",
+   "nom": "Berry crunch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111614568"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8801037067897",
+   "nom": "Pike Place Roast Black Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801037067897"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953173332",
+   "nom": "Chocolate Hazelnut Flavour Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953173332"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0054467502621",
+   "nom": "Salted caramel hot cocoa mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0054467502621"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111050847",
+   "nom": "Starbucks instant sweetened iced coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111050847"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0050000264735",
+   "nom": "Premium Instant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050000264735"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111427342",
+   "nom": "PEPPERMINT MOCHA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111427342"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111840028",
+   "nom": "Colombia medium rost coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111840028"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111301970",
+   "nom": "vanilla flavored coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111301970"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0012000101151",
+   "nom": "Bottled coffee drink frappuccino chilled with",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000101151"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613038176239",
+   "nom": "Starbucks by Nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038176239"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445290021342",
+   "nom": "Starbucks House Blend Lungo Capsules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 36 pack",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290021342"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111182883",
+   "nom": "Starbucks french roast coffee pod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111182883"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613038175973",
+   "nom": "Single-origin coffee columbia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038175973"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111054951",
+   "nom": "Via instant medium roast coffee colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111054951"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111470546",
+   "nom": "Pumpkin Spice Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 17 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111470546"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8680050314221",
+   "nom": "Starbucks Izgara Tavuklu Salata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 321 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8680050314221"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111892683",
+   "nom": "Cafe Verona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111892683"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0050000456765",
+   "nom": "Decaf Veranda Blend Blonde Roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050000456765"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111972224",
+   "nom": "Holiday Blend Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 4 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111972224"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613039399569",
+   "nom": "Holiday Blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039399569"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111472519",
+   "nom": "Holiday Blend Coffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111472519"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0012000028465",
+   "nom": "Doubleshot energy mocha energy coffee beverage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000028465"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0050000105335",
+   "nom": "Kcup brown sugar cinnamon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0050000105335"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0098100010067",
+   "nom": "Brown Sugar Cold Brew",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0098100010067"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111561589",
+   "nom": "Cold Brew Dark Chocolate Hazelnut Concentrate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111561589"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613037561197",
+   "nom": "House Blend Grande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037561197"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8690632014999",
+   "nom": "Starbucks Cappuccino 10x18g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8690632014999"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445290388506",
+   "nom": "Smooth Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290388506"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0012000210822",
+   "nom": "Dark Chocolate Brownie with Oat Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000210822"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8683813380112",
+   "nom": "Kuru Meyveli Yogurtlu Granola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8683813380112"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111995384",
+   "nom": "Tomato & mozzarella wrap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111995384"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0055000211802",
+   "nom": "starbucks non dairy vanilla creamer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0055000211802"
+  },
+  {
+   "id": "restauration-livraison-starbucks-4250950120358",
+   "nom": "Jogurt Very Berry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4250950120358"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445291061330",
+   "nom": "capuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445291061330"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0054467502775",
+   "nom": "Starbucks HOT COCOA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0054467502775"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445290216816",
+   "nom": "Starbucks Caramel Latte Pre Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290216816"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8422388096925",
+   "nom": "Bowl De Te Matcha Y Chia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422388096925"
+  },
+  {
+   "id": "restauration-livraison-starbucks-4524785343665",
+   "nom": "Via tea essence chai",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4524785343665"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0098100101017",
+   "nom": "iced energy - watermelon twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 12 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0098100101017"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111504340",
+   "nom": "Chicken Salad",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111504340"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953192951",
+   "nom": "Blissful Retreat Limited Edition Mocha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953192951"
+  },
+  {
+   "id": "restauration-livraison-starbucks-3760266595906",
+   "nom": "Buddha bowl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760266595906"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0722070024860",
+   "nom": "Starbucks TripleShot Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0722070024860"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111157911",
+   "nom": "Vitamin D Shot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111157911"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111639363",
+   "nom": "Vintage Cheddar Cheese & Caramelised Onion Quiche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111639363"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953077951",
+   "nom": "Signature chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 22 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953077951"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953116643",
+   "nom": "Coconut Cocoa Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 220 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953116643"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0705044029825",
+   "nom": "Eggs soude vide",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 21 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0705044029825"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5760466998659",
+   "nom": "Frappuccino bebida de café baja grasa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466998659"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953118463",
+   "nom": "Oat based vanilla macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953118463"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5060096693239",
+   "nom": "Gluten Free Fruit & Nut Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060096693239"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953162992",
+   "nom": "Dark chocolate mocha flavour chilled coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 220 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953162992"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7501031303632",
+   "nom": "FRAPPUCCINO CAFE",
+   "assemblage": "EUA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 281 ML",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501031303632"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953079504",
+   "nom": "Doubleshot café espresso con leche sin azúcar añadido",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953079504"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953118265",
+   "nom": "Coconut Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953118265"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111490889",
+   "nom": "Dark chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111490889"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953149702",
+   "nom": "Frappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953149702"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8445290183439",
+   "nom": "Blonde Espresso Roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290183439"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111078896",
+   "nom": "Ginger Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111078896"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5391501306391",
+   "nom": "Chococaramel, Chocolate, Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5391501306391"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5760466998697",
+   "nom": "Frappuccino bebida de café con vainilla baja grasa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466998697"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111301161",
+   "nom": "Caramel Waffles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111301161"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953095504",
+   "nom": "Iced coffee",
+   "assemblage": "Dinamarca",
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 220 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953095504"
+  },
+  {
+   "id": "restauration-livraison-starbucks-3700365098311",
+   "nom": "Salade caesar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 245 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700365098311"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111341211",
+   "nom": "Starbucks pike place  roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111341211"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111341198",
+   "nom": "Kenya",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111341198"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5060510581470",
+   "nom": "Chicken acocado wrap",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060510581470"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953101151",
+   "nom": "DoubleShot intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953101151"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5060096692720",
+   "nom": "Galleta de jengibre con glaseado de azucar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 44 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060096692720"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953148392",
+   "nom": "daily brew",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953148392"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953173318",
+   "nom": "Starbucks  cappuccino  chocolate  hazelnut - Starbucks - Starbucks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953173318"
+  },
+  {
+   "id": "restauration-livraison-starbucks-7613038919225",
+   "nom": "Dark roast premium instant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038919225"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111614643",
+   "nom": "Mango And Pineapple Overnight Oats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111614643"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111000231",
+   "nom": "Starbucks Columbia Nariño Whole Bean Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111000231"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111141811",
+   "nom": "Capsules de café  arabica espresso colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111141811"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0762111106766",
+   "nom": "Peppermint mocha caffe latte kcup pods count package",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0762111106766"
+  },
+  {
+   "id": "restauration-livraison-starbucks-3700365096812",
+   "nom": "Club légumes grilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 165 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700365096812"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5711953065705",
+   "nom": "Frappucino Starbucks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5711953065705"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5760466997263",
+   "nom": "doubleshot espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466997263"
+  },
+  {
+   "id": "restauration-livraison-starbucks-0042852000098",
+   "nom": "Café froid caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0042852000098"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171013198",
+   "nom": "Juice smooth orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171013198"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8422388047446",
+   "nom": "Crudites con hummus de lentejas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8422388047446"
+  },
+  {
+   "id": "restauration-livraison-starbucks-5760466976282",
+   "nom": "Fairtrade Frappuccino Coffee Drink Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466976282"
+  },
+  {
+   "id": "restauration-livraison-starbucks-8410171013488",
+   "nom": "Juice : orange, pineapple, mango, passion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410171013488"
+  }
+ ]
+}

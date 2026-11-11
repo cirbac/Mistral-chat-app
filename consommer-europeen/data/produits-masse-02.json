@@ -1,0 +1,3716 @@
+{
+ "alimentation-et-boissons-unilever": [
+  {
+   "id": "alimentation-et-boissons-unilever-8710908953767",
+   "nom": "Knorr Soupe Velouté de 12 Légumes au Fromage Frais 30cl",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710908953767"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8001080030743",
+   "nom": "Purée de pomme de terre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 225g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8001080030743"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8000830000999",
+   "nom": "Bouillon De Légume",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 12x",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000830000999"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182646903",
+   "nom": "Moulinet de légumes verts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 0,3 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182646903"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8901030919305",
+   "nom": "pizza & pasta sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030919305"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3011360001252",
+   "nom": "Knorr Secret d'Arômes Bouillon Ail Persil 9 Tablettes 90g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3011360001252"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182394019",
+   "nom": "Knorr Bouillon de Légumes 15 Tablettes Offre Saisonnière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182394019"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182333247",
+   "nom": "Knorr Secret d'Arômes Assaisonnement en Poudre aux Fines Herbes Tube 60g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182333247"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182444905",
+   "nom": "Gemüse Bouillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182444905"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182907653",
+   "nom": "Knorr Riz Risotto aux Champignons des Bois Cuisson 12min 2 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182907653"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182933065",
+   "nom": "Knorr Soupe Déshydratée Tomates aux Vermicelles 4 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 67 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182933065"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-4013300031328",
+   "nom": "Cocktail Soße",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4013300031328"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8722700122821",
+   "nom": "Knorr Bouillon Cube Herbes et Huile D'Olive 15 Tablettes Offre Saisonnière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8722700122821"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8712100567360",
+   "nom": "Knorr Soupe Liquide Légumes du Pot-au-Feu 1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1000 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712100567360"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182332974",
+   "nom": "Knorr Secret d'Arômes Assaisonnement en Poudre Épices douces Tube 60g Offre Saisonnière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182332974"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710522983966",
+   "nom": "Risotto Porcini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522983966"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8901030902383",
+   "nom": "Manchow Veg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 11g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030902383"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182646231",
+   "nom": "Douceur d’automne à la crème fraîche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 2 x 30 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182646231"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3011360005564",
+   "nom": "Knorr Court-Bouillon Fines Herbes 9 Tablettes 107g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 107.1 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3011360005564"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182648051",
+   "nom": "Douceur de champignons bolets et cèpes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 2 x 30 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182648051"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182648044",
+   "nom": "Douceurs de legumes du soleil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 2 x 30 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182648044"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182921222",
+   "nom": "Delikatess Brühe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182921222"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8722700056874",
+   "nom": "Knorr Sauce Déshydratée Beurre Citron 42g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 42 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8722700056874"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-4038700102515",
+   "nom": "Kräuterlinge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4038700102515"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-4013300031380",
+   "nom": "Steak Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4013300031380"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710522890943",
+   "nom": "Paprikasauce Ungarische Art",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522890943"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710522941058",
+   "nom": "Knorr zero salt chicken stock cubes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522941058"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182721167",
+   "nom": "Caldo de pollo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 12 x",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182721167"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182921840",
+   "nom": "Knorr Soupe Déshydratée Petit Salé aux Lentilles 3 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 133 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182921840"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182916631",
+   "nom": "Knorr Soupe Déshydratée Pâtes Alphabet 4 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 82 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182916631"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710522718636",
+   "nom": "Knorr Soupe Liquide Carottes Jaunes et Lait de Coco 450ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 450 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522718636"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8718114825199",
+   "nom": "Knorr Soupe Déshydratée Douceur Poireaux & Pommes de Terre 3 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718114825199"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8714100762714",
+   "nom": "KNORR Soupe Bio Mouliné de Tomates Oignons et Pointe de Thym 30cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8714100762714"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3011360031938",
+   "nom": "Knorr Préparation pour Jus de Rôti 8 Tablettes 72g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 72 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3011360031938"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-4013300031281",
+   "nom": "Chili Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4013300031281"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-5948517603503",
+   "nom": "Moutarde classique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5948517603503"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-4038700102522",
+   "nom": "Kräuterlinge - Italienische Kräuter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4038700102522"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8717163830994",
+   "nom": "Brodo Granulare Vegetale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163830994"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8000830001156",
+   "nom": "Il dado vegetale dadi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 x 10g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000830001156"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8714100838136",
+   "nom": "Bouillon - Légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 109g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8714100838136"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-0048001011595",
+   "nom": "Chicken Flavor Bouillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0048001011595"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8711200364657",
+   "nom": "Bouillon poule",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711200364657"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182761019",
+   "nom": "Wortel Wraps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score B · 240 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182761019"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8901030976735",
+   "nom": "Korean Ramen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 96 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030976735"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8901030902390",
+   "nom": "knorr sweet corn Veg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 9",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030902390"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8712100630040",
+   "nom": "Knorr Sauce Liquide Champignons à la Crème Fraîche Brique 30cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712100630040"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8722700268741",
+   "nom": "Beef stock pot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8722700268741"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710604722209",
+   "nom": "Kip poule bouillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710604722209"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8711200503896",
+   "nom": "Beef Gravy Pot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 4 x 28 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711200503896"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-6001038071554",
+   "nom": "Aromat Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6001038071554"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182402776",
+   "nom": "Knorr Soupe Liquide Velouté de Légumes Français 2x30cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 600 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182402776"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182394422",
+   "nom": "Mouliné de légumes français",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 600 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182394422"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710522983997",
+   "nom": "Risotteria asparagi",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522983997"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182777294",
+   "nom": "Asia Noodels Beef Taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182777294"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3274935000603",
+   "nom": "Velouté Pois cassés à la paysanne lardons fumés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 75cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274935000603"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3274930002121",
+   "nom": "Mouliné Légumes verts riz complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274930002121"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182671325",
+   "nom": "Pasta en rijst Bouillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182671325"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-96199923",
+   "nom": "SINCE 1838 Knorr Slow cooked Beef Know 33998A 8x P",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/96199923"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8412200020504",
+   "nom": "Caldo vegetal con un toque de aceite de oliva virgen extra 12 pastillas paquete 120 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 12 pastillas",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8412200020504"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-7611100053112",
+   "nom": "Knorritsch: Petits flocons d'avoine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score C · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7611100053112"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8712566479481",
+   "nom": "Rich Beef Stock Pot 8 x",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 224 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712566479481"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-5601038300077",
+   "nom": "Caldo de Galinha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5601038300077"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710522941263",
+   "nom": "Cubes bouillon légumes zéro sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710522941263"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182428271",
+   "nom": "Knorr Soupe Déshydratée Bouillon Légumes Reine des Neiges 2 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182428271"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182395788",
+   "nom": "Knorr Bouillon Saveur Boeuf Offre Saisonnière 150g 15 tablettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182395788"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182780027",
+   "nom": "Knorr Secret d'Arômes Bouillon Saveur Champignon 10 Tablettes 100g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182780027"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182945211",
+   "nom": "Soupe de tomate et riz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 74 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182945211"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182921819",
+   "nom": "Knorr Gourmet Soupe Déshydratée Velours de Légumes d'Automne aux 5 Épices 3 Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 93 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182921819"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3274935203103",
+   "nom": "Mouliné façon Tajine Abricots secs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 litre",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274935203103"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8712566332090",
+   "nom": "Suppenliebe Buchstaben Suppe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8712566332090"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3011360011657",
+   "nom": "Sauce Echalote",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 33 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3011360011657"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-40387444",
+   "nom": "Würzmittel Aromat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/40387444"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8710908937552",
+   "nom": "Marmite de bouillon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 8 x 28 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710908937552"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-7611100053860",
+   "nom": "Stocki 3x3",
+   "assemblage": "Suisse",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 330g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7611100053860"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8711327414921",
+   "nom": "Knorr Pasta Snack Brokkoli-Käse-Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 62g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327414921"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8717163861769",
+   "nom": "GeMi - Chili con Carne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 33g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163861769"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3011360020826",
+   "nom": "Knorr Sauce Déshydratée Chasseur aux Petits Champignons 23g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 23 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3011360020826"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-5201080102713",
+   "nom": "Knorr Original Greek Vegetable Bouillonl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 10g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5201080102713"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8717163885772",
+   "nom": "Zuppa di ceci",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 545g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8717163885772"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182078889",
+   "nom": "Rahm Soße",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182078889"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8901030902376",
+   "nom": "Mixed Vegetable Soup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 9.5g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030902376"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8720182848734",
+   "nom": "Asia noodles vegetable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 65g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8720182848734"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8901030976742",
+   "nom": "Knorr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 110",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901030976742"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3274935020106",
+   "nom": "Velouté patate douce & chèvre miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 2 x 30 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274935020106"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-3274935000504",
+   "nom": "Lentilles Blondes A L’indienne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3274935000504"
+  },
+  {
+   "id": "alimentation-et-boissons-unilever-8714100770009",
+   "nom": "Knorr Soupe Liquide Mouliné de Légumes Variés du Potager 50cl",
+   "assemblage": "Alsace",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8714100770009"
+  }
+ ],
+ "alimentation-et-boissons-pernod-ricard": [
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937834005",
+   "nom": "Pastis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937834005"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163932601794",
+   "nom": "Ricard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163932601794"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163932395648",
+   "nom": "Alcool",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163932395648"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3379974200011",
+   "nom": "Absente 55% - Absinthe",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3379974200011"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937187156",
+   "nom": "Pastis de Marseille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937187156"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937104641",
+   "nom": "Ricard citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937104641"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937032012",
+   "nom": "Pacific",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937032012"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937032043",
+   "nom": "Pacific sensation saveur fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937032043"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937032050",
+   "nom": "Pacific sensation anis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937032050"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-3163937104139",
+   "nom": "Ricard plantes fraîches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3163937104139"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-75635275",
+   "nom": "Ricard plantes vertes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/75635275"
+  },
+  {
+   "id": "alimentation-et-boissons-pernod-ricard-2110520008559",
+   "nom": "Raclette Suisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2110520008559"
+  }
+ ],
+ "alimentation-et-boissons-remy-cointreau": [
+  {
+   "id": "alimentation-et-boissons-remy-cointreau-3024480001781",
+   "nom": "1738 Accord Royal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B · 0,7 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3024480001781"
+  },
+  {
+   "id": "alimentation-et-boissons-remy-cointreau-3024480010233",
+   "nom": "1738",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3024480010233"
+  },
+  {
+   "id": "alimentation-et-boissons-remy-cointreau-3024480008766",
+   "nom": "Remy Martin Vsop Mature Cask Finish",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 700ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3024480008766"
+  },
+  {
+   "id": "alimentation-et-boissons-remy-cointreau-3024482235108",
+   "nom": "Fine Champagne Cocnac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3024482235108"
+  }
+ ],
+ "alimentation-et-boissons-lvmh-moet-hennessy": [
+  {
+   "id": "alimentation-et-boissons-lvmh-moet-hennessy-3185370001233",
+   "nom": "Moët & Chandon Brut Impérial",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 0,75 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3185370001233"
+  },
+  {
+   "id": "alimentation-et-boissons-lvmh-moet-hennessy-3185370061503",
+   "nom": "Rosé Imperial",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 75 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3185370061503"
+  },
+  {
+   "id": "alimentation-et-boissons-lvmh-moet-hennessy-3185370585023",
+   "nom": "Moet chandon nir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score E · 750ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3185370585023"
+  },
+  {
+   "id": "alimentation-et-boissons-lvmh-moet-hennessy-3185370772454",
+   "nom": "Grand Vintage Rosé 2016 Jahrgangschampagner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 0.75l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3185370772454"
+  },
+  {
+   "id": "alimentation-et-boissons-lvmh-moet-hennessy-8719587155127",
+   "nom": "Moët & Chandon Champagne brut impérial 6 flessen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score F · 6 stuks",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8719587155127"
+  }
+ ],
+ "alimentation-et-boissons-haribo": [
+  {
+   "id": "alimentation-et-boissons-haribo-3103220046159",
+   "nom": "Chamallows L'original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220046159"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220044544",
+   "nom": "Tagada",
+   "assemblage": "Fabrication France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220044544"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220048658",
+   "nom": "300G DRAGIBUS SOFT HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220048658"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220035214",
+   "nom": "280G HARIBO CROCO",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220035214"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220035771",
+   "nom": "275G SCHTROUMPF PIK HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220035771"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009635",
+   "nom": "300G ROTELLA HARIBO",
+   "assemblage": "marseille",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009635"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045640",
+   "nom": "300G SCHTROUMPFS HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045640"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220033838",
+   "nom": "600G HAPPY BOX HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 600 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220033838"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220034804",
+   "nom": "275G HARIBO HAPPY LIFE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220034804"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220040409",
+   "nom": "Haribo dragibus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220040409"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220006603",
+   "nom": "200G STARMINT HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220006603"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220048665",
+   "nom": "Haribo dragolo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220048665"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220033371",
+   "nom": "Tagada, L'originale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220033371"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045633",
+   "nom": "POLKA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045633"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045657",
+   "nom": "750G TIRLIBIBI BOX HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045657"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-9002975301558",
+   "nom": "Haribo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9002975301558"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220025956",
+   "nom": "Zanzigliss 300g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220025956"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220006658",
+   "nom": "Mao Croqui",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220006658"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220033784",
+   "nom": "275G HARIBO CROCO PIK HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220033784"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220022696",
+   "nom": "300G DRAGÖLO HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220022696"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220037249",
+   "nom": "Delir P!k",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 275 g e (40 unités)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220037249"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220047453",
+   "nom": "220G DRAGIBUS DOYPACK HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220047453"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009802",
+   "nom": "300G GOLDBEARS HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009802"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220034941",
+   "nom": "Haribo Dragibus Soft",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 25 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220034941"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220030431",
+   "nom": "L'ours d'or",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220030431"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322840",
+   "nom": "Goldbären",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322840"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220034774",
+   "nom": "200G MIAMI PIK HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 200 g (48 unités)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220034774"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686580332",
+   "nom": "Maoam",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686580332"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686120132",
+   "nom": "Pico-Balla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686120132"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220030455",
+   "nom": "Shtourmpfs mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220030455"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220040072",
+   "nom": "Haribo Berries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220040072"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220044797",
+   "nom": "Fan of P!k",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220044797"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220025338",
+   "nom": "Dragibus haribo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220025338"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220059531",
+   "nom": "300G COCOBAT HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220059531"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686522424",
+   "nom": "Stripes Bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686522424"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220037218",
+   "nom": "Happy'Life",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220037218"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224007149",
+   "nom": "Dragibus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224007149"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220061688",
+   "nom": "Fraizibus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220061688"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220050422",
+   "nom": "Car en Sac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220050422"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009079",
+   "nom": "Fraises Tagada Haribo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009079"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220041468",
+   "nom": "World Mix",
+   "assemblage": "Marseille",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220041468"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220041734",
+   "nom": "The Pik box",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 550 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220041734"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220025994",
+   "nom": "Haribo World Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220025994"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5012035927608",
+   "nom": "Tangfastics",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012035927608"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009659",
+   "nom": "Banan's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 900 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009659"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322963",
+   "nom": "Haribo Tropifrutti",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322963"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220048672",
+   "nom": "250G HARIBO DRAGIBUS MULTIPACK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220048672"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5410358464815",
+   "nom": "Chamallows minis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410358464815"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686327517",
+   "nom": "Happy Cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686327517"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220049297",
+   "nom": "Haribo Pik Langue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220049297"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009581",
+   "nom": "300G OEUFS AU PLAT HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009581"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220035580",
+   "nom": "ORANGINA PIK 250G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220035580"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220037867",
+   "nom": "Dragibus P!k",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 230 g (53 unités)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220037867"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5012035927592",
+   "nom": "Haribo Starmix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012035927592"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045626",
+   "nom": "Croco Baby",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 165g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045626"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686372586",
+   "nom": "Haribo Mega-Roulette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 45 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686372586"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009901",
+   "nom": "Tirlibibi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009901"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220033913",
+   "nom": "Haribo délir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220033913"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220043158",
+   "nom": "160G CHAMALLOWS CHOCO HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220043158"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009130",
+   "nom": "CROCO 120G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009130"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220062470",
+   "nom": "NOU Grands et papier Mum HARIBO Packet Haribo, c'e",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 340gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220062470"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322659",
+   "nom": "Saft Goldbären",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322659"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5012035952174",
+   "nom": "Maoam stripes Pouch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012035952174"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220084014",
+   "nom": "bonbon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220084014"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8711327667525",
+   "nom": "Haribo Push Up Eis Einzeln",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8711327667525"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045374",
+   "nom": "squidgies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045374"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220035726",
+   "nom": "Orangina P!k",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220035726"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686327609",
+   "nom": "Primavera",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686327609"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224008962",
+   "nom": "180G FLASH PIK HARIBO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 180unknown",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224008962"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224009136",
+   "nom": "Les Ptit's Pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224009136"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224009884",
+   "nom": "Croco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224009884"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220038529",
+   "nom": "Tutti candi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220038529"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5410358457114",
+   "nom": "Chamallows Rubino-fraises 175G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410358457114"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220037881",
+   "nom": "Dragibus Pik",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220037881"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220035719",
+   "nom": "Les Schtroumpfs pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220035719"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686372234",
+   "nom": "Haribo Roulette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 25 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686372234"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220030462",
+   "nom": "Bonbon Haribo croco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220030462"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-9002975323369",
+   "nom": "Haribo Happy-Cola 100g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9002975323369"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8691216020627",
+   "nom": "Haribo Goldbaren",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8691216020627"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686730195",
+   "nom": "CandyMix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686730195"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686376829",
+   "nom": "Rainbow Pixel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686376829"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686011249",
+   "nom": "Color-Rado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686011249"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220033807",
+   "nom": "Croco pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220033807"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220035221",
+   "nom": "Rainbow Pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220035221"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322901",
+   "nom": "Fantasia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322901"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686120163",
+   "nom": "Rainbow Sauer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686120163"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220063880",
+   "nom": "Pixel Pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220063880"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686510032",
+   "nom": "Bloxx",
+   "assemblage": "UE",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 220 g (10 x 22 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686510032"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686102701",
+   "nom": "Lakritz Schnecken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686102701"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5410358459187",
+   "nom": "Chamallows Barbecue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410358459187"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686327487",
+   "nom": "Saure Goldbären",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686327487"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322871",
+   "nom": "Happy Cherries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322871"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-9002975405157",
+   "nom": "Primavera Erdbeeren",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9002975405157"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686327722",
+   "nom": "Schlümpfe veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686327722"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220043325",
+   "nom": "180G HARIBO PAILLES PIK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 180g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220043325"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220036082",
+   "nom": "Miami Pik",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220036082"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8691216014909",
+   "nom": "Haribo Chamallows Pink & White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 70g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8691216014909"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220036211",
+   "nom": "Happy Cherry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220036211"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220006511",
+   "nom": "Chamallows",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220006511"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045886",
+   "nom": "Flanbolo goût caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045886"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220045244",
+   "nom": "Haribo happy'box",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 850 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220045244"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220044216",
+   "nom": "Happy-cola pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220044216"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220036075",
+   "nom": "Haribo Rainbow Pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220036075"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322536",
+   "nom": "Haribo Frösche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322536"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686151105",
+   "nom": "Haribo Konfekt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686151105"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686327814",
+   "nom": "fruitmania",
+   "assemblage": "Europäische Union",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686327814"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220049099",
+   "nom": "Crocoween Pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220049099"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686329870",
+   "nom": "Saure Pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686329870"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224007163",
+   "nom": "Mini’ween",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 40g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224007163"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686002407",
+   "nom": "Balla-Balla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686002407"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224008726",
+   "nom": "Harry Potter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224008726"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-26055510",
+   "nom": "Néon PIK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/26055510"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220060964",
+   "nom": "la p’tite tagada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220060964"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220043363",
+   "nom": "Chamallows choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 9 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220043363"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617359850",
+   "nom": "Haribo Miami Fizz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617359850"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686002490",
+   "nom": "Haribo Phantasia Dose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 750g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686002490"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686011263",
+   "nom": "Tropifrutti XXL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686011263"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009055",
+   "nom": "haribo rollela",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009055"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686120224",
+   "nom": "Balla Stixx",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686120224"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220080009",
+   "nom": "Zan Aromatise Anis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 12g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220080009"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5012035963002",
+   "nom": "Supermix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012035963002"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220063040",
+   "nom": "Haribo chauve qui peut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220063040"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224009921",
+   "nom": "Schtroumpfs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224009921"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686327425",
+   "nom": "Bunte Tüte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686327425"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220049266",
+   "nom": "Pastèques",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 220g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220049266"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5012035963484",
+   "nom": "Haribo Tangfastics",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 12",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012035963484"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-9002975378895",
+   "nom": "Ingwer, Zitrone",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9002975378895"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220062401",
+   "nom": "Tagada pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220062401"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-0042238302211",
+   "nom": "Goldbears",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 5oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0042238302211"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8691216095519",
+   "nom": "Haribo mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 70g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8691216095519"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8691216016972",
+   "nom": "Haribo Phantasia 80 g",
+   "assemblage": "turikia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8691216016972"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686329757",
+   "nom": "Haribo Süße Mäuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686329757"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686002421",
+   "nom": "Bunte Schnecken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686002421"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686003398",
+   "nom": "Nimm Sir Sours",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 750 Gramm",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686003398"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220062425",
+   "nom": "Tagada piquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220062425"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224007224",
+   "nom": "Floppie's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224007224"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220044209",
+   "nom": "Haribo Peaches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220044209"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686301524",
+   "nom": "Haribo Goldbären Minis 250G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686301524"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009260",
+   "nom": "Les schtroumpfs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009260"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617002510",
+   "nom": "Ositos D'oro 100 GRS Estuche 18 Bolsas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617002510"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220030493",
+   "nom": "Mini sachet banane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220030493"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686505021",
+   "nom": "Maoam original",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 5 x 22g (110g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686505021"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617005061",
+   "nom": "Ositos de oro caramelos de goma con zumo de frutas",
+   "assemblage": "Cornella del Terri",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617005061"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220046807",
+   "nom": "Bandz Pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220046807"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5410358442448",
+   "nom": "Chamallows Pink & White Bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 140g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410358442448"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-9002975726481",
+   "nom": "Haribo Starmix 100G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9002975726481"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220047781",
+   "nom": "The P!k Box",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 730 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220047781"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220009420",
+   "nom": "Haribo Polka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220009420"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617119478",
+   "nom": "Balla Stixx - Himbeere",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617119478"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322628",
+   "nom": "Milchbären",
+   "assemblage": "EU",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322628"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617119461",
+   "nom": "Balla Stixx - Kirsche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617119461"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5996379357348",
+   "nom": "Goudbeertjes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5996379357348"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686010075",
+   "nom": "Haribo Harry Potter - Harry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686010075"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686011256",
+   "nom": "Phantasia XXL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 340g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686011256"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617119515",
+   "nom": "Haribo Spaghetti Fizz - Happy-Cola Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617119515"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686013960",
+   "nom": "Pico-Balla Sauer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686013960"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220030417",
+   "nom": "Fraise🍓Tagada",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220030417"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5012035963101",
+   "nom": "Giant Straws",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 175",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5012035963101"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686705315",
+   "nom": "Berries",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686705315"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220080016",
+   "nom": "Zan Original aromatisé menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 12 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220080016"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686322567",
+   "nom": "Haribo fruitmania Joghurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686322567"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686328941",
+   "nom": "Kinder Schnuller",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686328941"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-5996379376097",
+   "nom": "Złote Misie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5996379376097"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617651312",
+   "nom": "Tégreen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617651312"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8426617119492",
+   "nom": "Haribo Balla Stixx - Erdbeere",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8426617119492"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-8691216097537",
+   "nom": "Haribo Veggy Mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 80g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8691216097537"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103224006999",
+   "nom": "Schtroumpf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103224006999"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-4001686806746",
+   "nom": "Easter fun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4001686806746"
+  },
+  {
+   "id": "alimentation-et-boissons-haribo-3103220063125",
+   "nom": "Best of pik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3103220063125"
+  }
+ ],
+ "alimentation-et-boissons-savencia-valrhona": [
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328457450",
+   "nom": "Cocoa Powder",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328457450"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328093757",
+   "nom": "Noir GUANAJA70 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328093757"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328349625",
+   "nom": "Valrhona andoa noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328349625"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328354025",
+   "nom": "Araguani pur Venezuela - 100% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328354025"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328124710",
+   "nom": "Poudre de cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328124710"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348987",
+   "nom": "Guanaja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348987"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348925",
+   "nom": "Chocolat Caraïbe 66%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348925"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328489277",
+   "nom": "Instant dégustation les essentiels",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328489277"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328349014",
+   "nom": "Dulcey blond 35%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328349014"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328489338",
+   "nom": "Instants degustation",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328489338"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320032099",
+   "nom": "Celaya - Boisson chocolatée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320032099"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328365991",
+   "nom": "PRALINÉ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328365991"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348581",
+   "nom": "Guanaja 70%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348581"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328715727",
+   "nom": "Valrhona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328715727"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321046538",
+   "nom": "Chocolat De Couverture Noir 70% En Fèves Guanaja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321046538"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328366080",
+   "nom": "Pepites de chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328366080"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328376393",
+   "nom": "Chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328376393"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328489215",
+   "nom": "Instants dégustation 32 carrés de chocolat noir & lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328489215"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328834534",
+   "nom": "Dark Chocolate 66%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328834534"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321075163",
+   "nom": "Caraîbe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321075163"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321075156",
+   "nom": "Chocolat Lait Jivara 40%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321075156"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321075170",
+   "nom": "Blanc Ivoire 35%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321075170"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328332047",
+   "nom": "Oriado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328332047"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328379264",
+   "nom": "Pâte à tartiner Noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328379264"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328733554",
+   "nom": "Komuntu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328733554"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066803",
+   "nom": "Noir Manjari 64% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066803"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348611",
+   "nom": "manjari pur madagascar chocolat  noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348611"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348895",
+   "nom": "Valrhona Manjari",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348895"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328365977",
+   "nom": "Dulcey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328365977"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328349656",
+   "nom": "Oriado 60%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328349656"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321046583",
+   "nom": "Chocolat De Couverture Au Lait 40% En Fève Jivara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321046583"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328715659",
+   "nom": "Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328715659"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321046552",
+   "nom": "Pistoles grand cru de terroir Manjari",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 6 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321046552"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321046613",
+   "nom": "Chocolat De Couverture Noir 55% En Fève Equatoriale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321046613"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348529",
+   "nom": "Caramelia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348529"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328482025",
+   "nom": "Moments croquants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328482025"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328481981",
+   "nom": "Amande & noisettes enrobées de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328481981"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321070984",
+   "nom": "Valrhona Caramelia, Karamel-vollmilch Couverture Als Callets, 36% Kakao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321070984"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129531",
+   "nom": "Eclat de valrhona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129531"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129685",
+   "nom": "Chocolat noir Guajana",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129685"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129418",
+   "nom": "Extra brut pâte cacaosucre tainori 200 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129418"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328163634",
+   "nom": "Bâtonnet de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328163634"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328870471",
+   "nom": "8 mini tablettes noir et lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328870471"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328217542",
+   "nom": "Cabossés de Valrhona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328217542"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328971208",
+   "nom": "Praliné craquant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328971208"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-00002922",
+   "nom": "Caranoa 55%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00002922"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328981542",
+   "nom": "Calendario de Adviento",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328981542"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066797",
+   "nom": "Noir Guanaja 70%",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066797"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120897",
+   "nom": "Blond Dulcey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120897"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066780",
+   "nom": "Noir Caraïbe 66% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066780"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120941",
+   "nom": "Chocolat Noir Manjari à l'orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120941"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328147382",
+   "nom": "Valrhona Praliné pate à tartiner",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328147382"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120989",
+   "nom": "Noir Araguani",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120989"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320067572",
+   "nom": "Noir Abinao 85%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320067572"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321081973",
+   "nom": "Éclat Andoa Noire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321081973"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120910",
+   "nom": "Noir guanaja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120910"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328121009",
+   "nom": "32 Carrés De Chocolat Noir Et Chocolat Au Lait - Dégustation Grands Crus",
+   "assemblage": "26600 Tain l'Hermitage",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328121009"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066742",
+   "nom": "Lait Jivara 40%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066742"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066759",
+   "nom": "Lait Tanariva 33%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066759"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328093788",
+   "nom": "Lait caramelia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328093788"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328144145",
+   "nom": "Amandes & Noisettes - Grands Crus Chocolat Noir Au Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328144145"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328354056",
+   "nom": "Chocolat noir 75% Tulakalum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328354056"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348468",
+   "nom": "lvoire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348468"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066773",
+   "nom": "Noir Alpaco 66%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066773"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328117019",
+   "nom": "Chocolat Noir à Pâtisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328117019"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120958",
+   "nom": "Tablette Chocolat Au Lait Aux éclats De Noix De Pécan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120958"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328474372",
+   "nom": "Guanajua - Éclats de cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328474372"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066810",
+   "nom": "Initiation grands crus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 30 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066810"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066865",
+   "nom": "Valrhona - Les Coffret Degustation Grands Crus - Decouverte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066865"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320067107",
+   "nom": "Le noir à pâtisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320067107"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328144152",
+   "nom": "Valrhona - Amandes & Noisettes - Grand Cru Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328144152"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348437",
+   "nom": "Jivara, chocolat au lait 40%cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348437"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348499",
+   "nom": "azélia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348499"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348956",
+   "nom": "Bahibé chocolat au lait 46%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348956"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328474433",
+   "nom": "Bahibé 46% éclats d'amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328474433"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066766",
+   "nom": "Noir Taïnori 64 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066766"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328117002",
+   "nom": "Noir Guajana for baking 70% cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328117002"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328119570",
+   "nom": "Collection Dégustation",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 8x70g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328119570"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120927",
+   "nom": "Valrhona Lait Caramelia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120927"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120934",
+   "nom": "Noir caraibe noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120934"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328144169",
+   "nom": "Coffret Amandes Et Noisettes Enrobées De Chocolat Au Lait Ou De Chocolat Blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328144169"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328145784",
+   "nom": "Amandes et noisettes blond dulcey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328145784"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328147399",
+   "nom": "Perles De Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328147399"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328164822",
+   "nom": "Pistole de chocolat Ariaga Noir 59%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 5kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328164822"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328353073",
+   "nom": "Fraise inspiration",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328353073"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328474396",
+   "nom": "Caraïbes 66% noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328474396"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328860069",
+   "nom": "Douceurs de Noël",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328860069"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321046545",
+   "nom": "Chocolat De Couverture Noir 66% En Fève Caraibe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321046545"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321046606",
+   "nom": "Valrhona Ivoire 35%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321046606"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328106785",
+   "nom": "Chocolat dulcey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328106785"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120903",
+   "nom": "Tablette Andoa Noir 70% - Chocolat Noir Biologique Et équitable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120903"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328121023",
+   "nom": "Tablette Bahibe Chocolat Au Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328121023"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328128336",
+   "nom": "Orangette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328128336"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129388",
+   "nom": "Fantaisie Amande Gianduja Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129388"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328183618",
+   "nom": "Chocolat Blond dulcey 32%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328183618"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328326312",
+   "nom": "Pâte à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328326312"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328330876",
+   "nom": "Chocolat à patisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328330876"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321020514",
+   "nom": "Absolu nappage tendre au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321020514"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328348376",
+   "nom": "Chocolat noir Caraïbe grands crus à pâtisser et à déguster",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328348376"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328349496",
+   "nom": "Jivara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328349496"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328376331",
+   "nom": "Inspiration yuzu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328376331"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328474693",
+   "nom": "Chocolat pécan 40",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328474693"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-0726120205902",
+   "nom": "Valrhona Le Noir Amer 71% Cacao Dark Bittersweet Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0726120205902"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066858",
+   "nom": "66 Carrés De Chocolat Noir Collection Grands Crus",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066858"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066872",
+   "nom": "Chocolat Noir Et Chocolat Au Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066872"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066889",
+   "nom": "Valrhona Tanariva, 33%, 20 G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066889"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066896",
+   "nom": "Valrhona - Chocolat Baton - Chocolat Au Lait - Jivara 40%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066896"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320067176",
+   "nom": "Chocolat Noir Guanaja 70%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320067176"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320067190",
+   "nom": "18 Carrés De Chocolat Au Lait - Jivara Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320067190"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320067206",
+   "nom": "18 Carrés De Chocolat Noir - Abinao Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320067206"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321051129",
+   "nom": "Bâton De Chocolat Noir Eclat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321051129"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321070250",
+   "nom": "Valrhona-chocolat noir 70%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321070250"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321071127",
+   "nom": "Gianduja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321071127"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321074579",
+   "nom": "Valrhona Schokoladen-stäbchen Eclat Lacte, Vollmilch, 39% Kakao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321074579"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328116920",
+   "nom": "Chocolats grands crus intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328116920"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328116982",
+   "nom": "Chocolat Au Lait à Pâtisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328116982"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328117033",
+   "nom": "Chocolat De Couverture Au Lait Caramelia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328117033"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328117965",
+   "nom": "Chocolat noir (70% de cacao)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328117965"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120965",
+   "nom": "Tablette Chocolat Blanc Aux Pépites De Framboise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 85 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120965"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120972",
+   "nom": "Tablette Chocolat Au Lait Biologique Et équitable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120972"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328120996",
+   "nom": "Blanc opalys",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328120996"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129395",
+   "nom": "Fantaisie amande Gianduja cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129395"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129555",
+   "nom": "Fèves Dulcey Valrhona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129555"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328130094",
+   "nom": "Andoa Lactée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328130094"
+  }
+ ]
+}

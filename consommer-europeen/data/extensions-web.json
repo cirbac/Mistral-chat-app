@@ -1,4 +1,1377 @@
 {
+ "10": {
+  "groupes": [
+   {
+    "id": "vetements-chaussures-sport-nike",
+    "groupe": "Nike",
+    "marques": [
+     "Nike"
+    ],
+    "siege": "États-Unis (Beaverton)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Sport",
+    "commentaire": "Équipementier américain, n°1 mondial [164]. Hors de vos zones.",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam",
+     "Indonésie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-adidas",
+    "groupe": "Adidas",
+    "marques": [
+     "Adidas",
+     "Adidas Originals"
+    ],
+    "siege": "Allemagne (Herzogenaurach)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Sport",
+    "commentaire": "Équipementier allemand, n°2 mondial [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-puma",
+    "groupe": "Puma",
+    "marques": [
+     "Puma"
+    ],
+    "siege": "Allemagne (Herzogenaurach)",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "sous_categorie": "Sport",
+    "commentaire": "Anta Sports (Chine) est devenu premier actionnaire avec 29,06 % en janvier 2026 [162][163].",
+    "sources": [
+     162,
+     163
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-decathlon",
+    "groupe": "Decathlon",
+    "marques": [
+     "Decathlon",
+     "Quechua",
+     "Domyos",
+     "Kipsta",
+     "B'Twin"
+    ],
+    "siege": "France (Lille)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Sport",
+    "commentaire": "Groupe familial français, n°3 mondial du sport [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "France",
+     "Chine",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-asics",
+    "groupe": "Asics",
+    "marques": [
+     "Asics",
+     "Onitsuka Tiger"
+    ],
+    "siege": "Japon (Kobe)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Sport",
+    "commentaire": "Équipementier japonais [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-sport-lacoste",
+    "groupe": "Lacoste",
+    "marques": [
+     "Lacoste"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Marque française fondée par René Lacoste [164].",
+    "sources": [
+     164
+    ],
+    "lieux_production": [
+     "France",
+     "Pérou"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-primark",
+    "groupe": "Primark (Associated British Foods)",
+    "marques": [
+     "Primark"
+    ],
+    "aliases": [
+     "primark"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Enseigne britannique du groupe ABF (famille Weston britannique) [209]. Contrôle européen (Royaume-Uni).",
+    "sources": [
+     209
+    ],
+    "lieux_production": [
+     "Turquie",
+     "Inde",
+     "Chine",
+     "Bangladesh"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "11": {
+  "groupes": [
+   {
+    "id": "voyage-plein-air-booking",
+    "groupe": "Booking.com (Booking Holdings)",
+    "marques": [
+     "Booking.com"
+    ],
+    "siege": "Pays-Bas (Amsterdam)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "commentaire": "Plateforme néerlandaise (Booking Holdings, cotée US mais siège Amsterdam) [181].",
+    "sources": [
+     181
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-plein-air-airbnb",
+    "groupe": "Airbnb",
+    "marques": [
+     "Airbnb"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "commentaire": "Plateforme américaine [182]. Hors de vos zones.",
+    "sources": [
+     182
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "12": {
+  "groupes": [
+   {
+    "id": "distribution-paiement-carrefour",
+    "groupe": "Carrefour",
+    "marques": [
+     "Carrefour",
+     "Carrefour Market",
+     "Carrefour Bio"
+    ],
+    "siege": "France (Massy)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Multinationale française cotée ; 1er actionnaire Galfa (famille Moulin) ~9,5 % du capital [155][156].",
+    "sources": [
+     155,
+     156
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-leclerc",
+    "groupe": "E.Leclerc",
+    "marques": [
+     "E.Leclerc",
+     "Leclerc Drive",
+     "Marque Repère"
+    ],
+    "siege": "France (Ivry-sur-Seine)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Coopérative de commerçants français fondée par Michel-Édouard Leclerc [165].",
+    "sources": [
+     165
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-casino",
+    "groupe": "Casino",
+    "marques": [
+     "Casino",
+     "Monoprix",
+     "Franprix",
+     "Vival",
+     "Cora"
+    ],
+    "siege": "France (Saint-Étienne)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Grande distribution alimentaire",
+    "commentaire": "Groupe français historiquement contrôlé par Jean-Charles Naouri (Rallye) ; restructuration financière en cours depuis 2024, cessions (Cora, GPA Brésil) [156].",
+    "sources": [
+     156
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-amazon",
+    "groupe": "Amazon",
+    "marques": [
+     "Amazon",
+     "Amazon Prime",
+     "AWS"
+    ],
+    "aliases": [
+     "amazon",
+     "prime",
+     "aws"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Groupe américain [189]. Hors de vos zones.",
+    "sources": [
+     189
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-paiement-action",
+    "groupe": "Action",
+    "marques": [
+     "Action"
+    ],
+    "aliases": [
+     "action"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Enseigne hard-discount néerlandaise, forte croissance en France. Contrôle européen (Pays-Bas).",
+    "sources": [],
+    "lieux_production": [
+     "France",
+     "Pays-Bas",
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "13": {
+  "groupes": [
+   {
+    "id": "telecoms-numerique-energie-orange",
+    "groupe": "Orange",
+    "marques": [
+     "Orange"
+    ],
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Opérateur français coté ; l'État français détient ~22,6 % du capital (33,8 % des droits de vote) [155].",
+    "sources": [
+     155
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-sfr",
+    "groupe": "SFR (Altice France)",
+    "marques": [
+     "SFR",
+     "RED by SFR",
+     "Prixtel"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Filiale d'Altice France (Patrick Drahi). Protocole 2026 : rachat par le consortium Bouygues Telecom / Free-Iliad / Orange (20,35 Md€) [158].",
+    "sources": [
+     158
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-totalenergies",
+    "groupe": "TotalEnergies",
+    "marques": [
+     "TotalEnergies",
+     "Total",
+     "EREN"
+    ],
+    "siege": "France (Courbevoie)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Groupe français coté ; l'État n'y contrôle pas (≈1,3 % via CDC), siège et décision en France [159].",
+    "sources": [
+     159
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-veolia",
+    "groupe": "Veolia",
+    "marques": [
+     "Veolia Eau",
+     "Veolia Propreté",
+     "Veolia Énergies"
+    ],
+    "aliases": [
+     "veolia"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Multinationale française cotée au CAC 40 ; CDC ~6 %, BlackRock ~5,7 %, actionnariat dispersé mais siège et décision en France [197][198]. A absorbé Suez en 2022.",
+    "sources": [
+     197,
+     198
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-suez",
+    "groupe": "Suez",
+    "marques": [
+     "Suez Eau France",
+     "Suez Recyclage"
+    ],
+    "aliases": [
+     "suez",
+     "lyonnaise des eaux"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Multinationale française ; nouveau Suez détenu par le consortium Meridiam / GIP / CDC / CNP [199].",
+    "sources": [
+     199
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-energie-enercoop",
+    "groupe": "Enercoop",
+    "marques": [
+     "Enercoop"
+    ],
+    "siege": "France (Paris 19e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Fournisseur coopératif (SCIC) français 100 % renouvelable fondé en 2005 ; labellisé VertVolt « très engagé » (ADEME). Gouvernance « une personne = une voix », ~64 000 sociétaires.",
+    "sources": [
+     226
+    ],
+    "lieux_production": [
+     "France (siège Paris ; réseau de 12 coopératives régionales)"
+    ],
+    "certifications": [
+     "VertVolt très engagé (ADEME)"
+    ],
+    "produits": []
+   },
+   {
+    "id": "telecoms-energie-octopus-energy",
+    "groupe": "Octopus Energy",
+    "marques": [
+     "Octopus Energy",
+     "Plüm Énergie (racheté en 2022)"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Fournisseur et producteur d'énergie renouvelable britannique fondé en 2015 (fonds Octopus Group, Londres) ; présent en France depuis 2022 via le rachat de Plüm Énergie (Paris).",
+    "sources": [
+     227
+    ],
+    "lieux_production": [
+     "Royaume-Uni (Londres)",
+     "France (Paris, ex-Plüm Énergie)"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "14": {
+  "groupes": [
+   {
+    "id": "banque-assurance-epargne-bnp",
+    "groupe": "BNP Paribas",
+    "marques": [
+     "BNP Paribas",
+     "Hello bank!",
+     "Boursorama"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Première banque française, siège 16 bd des Italiens, Paris [160][161].",
+    "sources": [
+     160,
+     161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-epargne-ca",
+    "groupe": "Crédit Agricole",
+    "marques": [
+     "Crédit Agricole",
+     "LCL",
+     "BforBank"
+    ],
+    "siege": "France (Montrouge)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Groupe bancaire coopératif français (Caisses régionales).",
+    "sources": [
+     161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-epargne-axa",
+    "groupe": "AXA",
+    "marques": [
+     "AXA"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance",
+    "commentaire": "Assureur français coté, n°1 mondial de l'assurance dommages.",
+    "sources": [
+     161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "15": {
+  "groupes": [
+   {
+    "id": "transport-mobilite-sncf",
+    "groupe": "SNCF",
+    "marques": [
+     "SNCF",
+     "TGV",
+     "Ouigo",
+     "TER"
+    ],
+    "siege": "France (Saint-Denis)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Société nationale à capitaux publics [166].",
+    "sources": [
+     166
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-mobilite-blablacar",
+    "groupe": "BlaBlaCar",
+    "marques": [
+     "BlaBlaCar"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Plateforme française de covoiturage [167].",
+    "sources": [
+     167
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-mobilite-flix",
+    "groupe": "Flix SE (FlixBus, FlixTrain)",
+    "marques": [
+     "FlixBus",
+     "FlixTrain"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Groupe allemand de mobilité longue distance [168].",
+    "sources": [
+     168
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-mobilite-transavia",
+    "groupe": "Transavia (Air France-KLM)",
+    "marques": [
+     "Transavia",
+     "Transavia France"
+    ],
+    "aliases": [
+     "transavia"
+    ],
+    "siege": "Pays-Bas / France (Orly)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
+    "commentaire": "Filiale à 100 % d'Air France-KLM (holding franco-néerlandaise) depuis 2004 [205][206].",
+    "sources": [
+     205,
+     206
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "16": {
+  "groupes": [
+   {
+    "id": "hotellerie-bb-hotels",
+    "groupe": "B&B Hotels",
+    "marques": [
+     "B&B Hotels"
+    ],
+    "siege": "France (Brest)",
+    "siege_pays": "FR",
+    "statut": "hors_zones",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Chaîne française fondée à Brest en 1990 (950+ hôtels en Europe) ; contrôlée depuis 2019 par des fonds de Goldman Sachs (États-Unis) pour 1,9 Md€. Siège resté à Brest.",
+    "sources": [
+     216
+    ],
+    "lieux_production": [
+     "France (Brest, siège)",
+     "Europe (19 pays)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-pierre-vacances-center-parcs",
+    "groupe": "Pierre & Vacances-Center Parcs",
+    "marques": [
+     "Pierre & Vacances",
+     "Center Parcs",
+     "Sunparks",
+     "Adagio",
+     "Maeva",
+     "Villages Nature"
+    ],
+    "siege": "France (Paris 19e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Groupe touristique français fondé en 1967 par Gérard Brémond, coté à Paris et contrôlé par la famille Brémond (via holdings) ; 330 sites en Europe. Restructuré en 2022 avec soutien de l'État.",
+    "sources": [
+     217
+    ],
+    "lieux_production": [
+     "France (Paris, siège)",
+     "Europe (France, Espagne, Allemagne, Belgique, Pays-Bas...)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-booking-holdings",
+    "groupe": "Booking Holdings (Booking.com)",
+    "marques": [
+     "Booking.com",
+     "Priceline",
+     "Agoda",
+     "Kayak",
+     "OpenTable"
+    ],
+    "siege": "États-Unis (Norwalk, Connecticut)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "commentaire": "Multinationale américaine de réservation en ligne (cotée Nasdaq) ; Booking.com fondé à Amsterdam en 1996, racheté en 2005. Siège du groupe à Norwalk (US).",
+    "sources": [
+     218
+    ],
+    "lieux_production": [
+     "États-Unis (Norwalk)",
+     "Pays-Bas (Amsterdam, Booking.com)"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "17": {
+  "groupes": [
+   {
+    "id": "jouets-jeux-video-lego",
+    "groupe": "LEGO",
+    "marques": [
+     "LEGO"
+    ],
+    "siege": "Danemark (Billund)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Groupe danois familial [169].",
+    "sources": [
+     169
+    ],
+    "lieux_production": [
+     "Danemark",
+     "Tchéquie",
+     "Hongrie",
+     "Mexique",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-nintendo",
+    "groupe": "Nintendo",
+    "marques": [
+     "Nintendo",
+     "Switch"
+    ],
+    "siege": "Japon (Kyoto)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Consoles, plateformes et éditeurs",
+    "commentaire": "Éditeur/constructeur japonais [170].",
+    "sources": [
+     170
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-ravensburger",
+    "groupe": "Ravensburger",
+    "marques": [
+     "Ravensburger"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Éditeur allemand familial [171].",
+    "sources": [
+     171
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Tchéquie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-xbox",
+    "groupe": "Microsoft (Xbox)",
+    "marques": [
+     "Xbox"
+    ],
+    "siege": "États-Unis (Redmond)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Consoles, plateformes et éditeurs",
+    "commentaire": "Console américaine. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-playmobil",
+    "groupe": "Playmobil (Brandstätter)",
+    "marques": [
+     "Playmobil"
+    ],
+    "aliases": [
+     "playmobil"
+    ],
+    "siege": "Allemagne (Zirndorf)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Groupe familial allemand ; production en Europe (Malte, Tchéquie, Espagne), usine allemande de Dietenhofen fermée en juin 2026 [203][204].",
+    "sources": [
+     203,
+     204
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Malte",
+     "Tchéquie",
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "jouets-jeux-video-playmobil-figurine",
+      "nom": "Figurine Playmobil (7,5 cm)",
+      "assemblage": "Malte / Tchéquie / Espagne",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Production déplacée hors d'Allemagne mais reste en Europe [204]."
+     }
+    ]
+   }
+  ]
+ },
+ "18": {
+  "groupes": [
+   {
+    "id": "maison-bricolage-jardin-dyson",
+    "groupe": "Dyson",
+    "marques": [
+     "Dyson"
+    ],
+    "siege": "Royaume-Uni (Malmesbury)",
+    "siege_pays": "GB",
+    "statut": "vigilance",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Société britannique (fondateur James Dyson) ; siège administratif déplacé à Singapour en 2019 [178].",
+    "sources": [
+     178
+    ],
+    "lieux_production": [
+     "Malaisie",
+     "Singapour",
+     "Philippines"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-jardin-adeo",
+    "groupe": "Adeo (Leroy Merlin)",
+    "marques": [
+     "Leroy Merlin",
+     "Bricoman",
+     "Weldom"
+    ],
+    "aliases": [
+     "leroy merlin",
+     "adeo",
+     "bricoman"
+    ],
+    "siege": "France (Ronchin)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Distribution bricolage et jardin",
+    "commentaire": "Groupe Adeo, propriété de l'Association familiale Mulliez (AFM, France) [200][201].",
+    "sources": [
+     200,
+     201
+    ],
+    "lieux_production": [
+     "France",
+     "Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-jardin-kingfisher",
+    "groupe": "Kingfisher (Castorama)",
+    "marques": [
+     "Castorama",
+     "Brico Dépôt",
+     "Screwfix"
+    ],
+    "aliases": [
+     "castorama",
+     "kingfisher",
+     "brico depot",
+     "screwfix"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Distribution bricolage et jardin",
+    "commentaire": "Groupe britannique ; Castorama enseigne française historique [202]. Contrôle européen (Royaume-Uni).",
+    "sources": [
+     202
+    ],
+    "lieux_production": [
+     "France",
+     "Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "19": {
+  "groupes": [
+   {
+    "id": "montres-bijoux-optique-richemont",
+    "groupe": "Richemont",
+    "marques": [
+     "Cartier",
+     "Van Cleef & Arpels",
+     "IWC",
+     "Piaget",
+     "Montblanc",
+     "Baume & Mercier"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Groupe suisse de luxe (horlogerie, joaillerie) [172].",
+    "sources": [
+     172
+    ],
+    "lieux_production": [
+     "Suisse",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-garmin",
+    "groupe": "Garmin",
+    "marques": [
+     "Garmin"
+    ],
+    "siege": "États-Unis (Olathe) / Suisse",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Montres et objets connectés",
+    "commentaire": "Objets connectés américains [173]. Hors de vos zones.",
+    "sources": [
+     173
+    ],
+    "lieux_production": [
+     "Chine",
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "medias-streaming-culture-spotify",
+    "groupe": "Spotify",
+    "marques": [
+     "Spotify"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Plateforme suédoise [174].",
+    "sources": [
+     174
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-radiofrance",
+    "groupe": "Radio France",
+    "marques": [
+     "France Inter",
+     "France Culture",
+     "franceinfo",
+     "France Musique"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Service public audiovisuel français [175].",
+    "sources": [
+     175
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-francetelevisions",
+    "groupe": "France Télévisions",
+    "marques": [
+     "France 2",
+     "France 3",
+     "France 4",
+     "France 5",
+     " france.tv"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Service public audiovisuel français.",
+    "sources": [
+     175
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-disney",
+    "groupe": "The Walt Disney Company",
+    "marques": [
+     "Disney",
+     "Disney+",
+     "Pixar",
+     "Marvel",
+     "Lucasfilm"
+    ],
+    "aliases": [
+     "disney",
+     "disney+",
+     "pixar",
+     "marvel"
+    ],
+    "siege": "États-Unis (Burbank)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Groupe américain [188]. Hors de vos zones.",
+    "sources": [
+     188
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-qobuz",
+    "groupe": "Qobuz",
+    "marques": [
+     "Qobuz"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Plateforme française de streaming et téléchargement musical haute résolution (Hi-Res 24-bit) fondée en 2007 ; détenue par Xandrie SA (France, Denis Thebaud).",
+    "sources": [
+     219
+    ],
+    "lieux_production": [
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-dailymotion",
+    "groupe": "Dailymotion",
+    "marques": [
+     "Dailymotion"
+    ],
+    "siege": "France (Paris 17e)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Plateforme française de vidéo fondée en 2005 à Paris ; filiale d'Orange (2011-2015), de Vivendi (2015), puis transférée au groupe Canal+ fin 2024.",
+    "sources": [
+     220
+    ],
+    "lieux_production": [
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-groupe-madrigall",
+    "groupe": "Groupe Madrigall (Gallimard)",
+    "marques": [
+     "Gallimard",
+     "Flammarion",
+     "Casterman",
+     "P.O.L",
+     "Folio",
+     "J'ai lu",
+     "Denoël",
+     "Éditions de Minuit"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Premier éditeur français indépendant, holding familiale contrôlée à 98 % par la famille Gallimard (Antoine Gallimard) depuis 2003, avec LVMH à 9,5 % (2013). 3e pôle éditorial français (~612 M€ de CA en 2023).",
+    "sources": [
+     221
+    ],
+    "lieux_production": [
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "21": {
+  "groupes": [
+   {
+    "id": "restauration-livraison-paul",
+    "groupe": "Paul",
+    "marques": [
+     "Paul"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Boulangerie française historique [176].",
+    "sources": [
+     176,
+     210
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/paul"
+   },
+   {
+    "id": "restauration-livraison-brioche-doree",
+    "groupe": "Brioche Dorée",
+    "marques": [
+     "Brioche Dorée"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne française de restauration rapide (groupe Le Duff ? non — Brioche Dorée est indépendante, famille) — à vérifier.",
+    "sources": [
+     176,
+     210
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/brioche-doree"
+   },
+   {
+    "id": "restauration-livraison-sodexo",
+    "groupe": "Sodexo",
+    "marques": [
+     "Sodexo",
+     "Sodexo Live!",
+     "Pluxee"
+    ],
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Groupe français de restauration collective, n°1 mondial [177].",
+    "sources": [
+     177,
+     210
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/sodexo"
+   },
+   {
+    "id": "restauration-livraison-mcdonalds",
+    "groupe": "McDonald's",
+    "marques": [
+     "McDonald's"
+    ],
+    "aliases": [
+     "mcdonald",
+     "big mac",
+     "mcdonalds"
+    ],
+    "siege": "États-Unis (Chicago)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne américaine [186]. Produit phare : Big Mac (viande UE en France).",
+    "sources": [
+     186,
+     210
+    ],
+    "lieux_production": [
+     "France (fournisseurs UE)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-livraison-mcdonalds-big-mac",
+      "nom": "Big Mac",
+      "assemblage": "France (préparé en restaurant)",
+      "origine_pieces": "Union européenne (viande)",
+      "certifications": [],
+      "note": "Produit phare [186].",
+      "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000002603/big-mac-mcdonald-s"
+     }
+    ],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mcdonald-s"
+   },
+   {
+    "id": "restauration-livraison-starbucks",
+    "groupe": "Starbucks",
+    "marques": [
+     "Starbucks"
+    ],
+    "aliases": [
+     "starbucks",
+     "frappuccino",
+     "café latte"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne américaine [187].",
+    "sources": [
+     187,
+     210
+    ],
+    "lieux_production": [
+     "France (cafés)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-livraison-starbucks-latte",
+      "nom": "Caffè Latte",
+      "assemblage": "France (préparé en magasin)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit phare [187].",
+      "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466995931/caffe-latte-starbucks"
+     }
+    ],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/starbucks"
+   },
+   {
+    "id": "restauration-livraison-yum",
+    "groupe": "Yum! Brands (KFC)",
+    "marques": [
+     "KFC",
+     "Pizza Hut",
+     "Taco Bell"
+    ],
+    "aliases": [
+     "kfc",
+     "pizza hut",
+     "taco bell",
+     "yum"
+    ],
+    "siege": "États-Unis (Louisville)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Groupe américain n°2 mondial du fast-food [207]. Hors de vos zones.",
+    "sources": [
+     207,
+     210
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/kfc"
+   },
+   {
+    "id": "restauration-livraison-rbi",
+    "groupe": "Restaurant Brands International (Burger King)",
+    "marques": [
+     "Burger King",
+     "Tim Hortons",
+     "Popeyes"
+    ],
+    "aliases": [
+     "burger king",
+     "tim hortons",
+     "popeyes",
+     "rbi"
+    ],
+    "siege": "Canada (Toronto)",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Holding canadienne ; 3G Capital (Brésil) détient ~26-32 % [208]. Rang 2 (Canada).",
+    "sources": [
+     208,
+     210
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": [],
+    "openfoodfacts": "https://fr.openfoodfacts.org/marque/burger-king"
+   },
+   {
+    "id": "restauration-flunch-agapes",
+    "groupe": "Flunch (Agapes Restauration)",
+    "marques": [
+     "Flunch",
+     "Pizza Paï",
+     "Les 3 Brasseurs",
+     "Amarine",
+     "Salad&Co"
+    ],
+    "siege": "France (Nord, groupe Mulliez)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne de restauration en libre-service française fondée en 1971 (Englos, Nord) ; exploitée par Agapes Restauration, branche restauration de l'Association familiale Mulliez (Auchan, Decathlon, Leroy Merlin...).",
+    "sources": [
+     228
+    ],
+    "lieux_production": [
+     "France (Englos/Lille, Nord)",
+     "Espagne, Italie, Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-deliveroo",
+    "groupe": "Deliveroo",
+    "marques": [
+     "Deliveroo"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Livraison de repas et anti-gaspillage",
+    "commentaire": "Entreprise britannique de livraison de repas fondée en 2013, cotée à la Bourse de Londres (2021) ; opère au Royaume-Uni, en France, Suisse, Belgique, Irlande, Italie, EAU, Singapour.",
+    "sources": [
+     229
+    ],
+    "lieux_production": [
+     "Royaume-Uni (Londres)",
+     "France (Paris)"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
  "01": {
   "groupes": [
    {
@@ -768,1300 +2141,58 @@
     ],
     "certifications": [],
     "produits": []
-   }
-  ]
- },
- "10": {
-  "groupes": [
+   },
    {
-    "id": "vetements-chaussures-sport-nike",
-    "groupe": "Nike",
+    "id": "hygiene-sante-colgate-palmolive",
+    "groupe": "Colgate-Palmolive",
     "marques": [
-     "Nike"
+     "Colgate",
+     "Palmolive",
+     "Ajax",
+     "Elmex",
+     "Meridol",
+     "Parodontax"
     ],
-    "siege": "États-Unis (Beaverton)",
+    "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Sport",
-    "commentaire": "Équipementier américain, n°1 mondial [164]. Hors de vos zones.",
+    "sous_categorie": "Santé grand public",
+    "commentaire": "Géant américain de l'hygiène (Colgate, Palmolive) et des soins bucco-dentaires (Elmex, Meridol, Parodontax). Hors zones (contrôle US).",
     "sources": [
-     164
+     233
     ],
     "lieux_production": [
-     "Chine",
-     "Vietnam",
-     "Indonésie"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-adidas",
-    "groupe": "Adidas",
-    "marques": [
-     "Adidas",
-     "Adidas Originals"
-    ],
-    "siege": "Allemagne (Herzogenaurach)",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Sport",
-    "commentaire": "Équipementier allemand, n°2 mondial [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "Allemagne",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-puma",
-    "groupe": "Puma",
-    "marques": [
-     "Puma"
-    ],
-    "siege": "Allemagne (Herzogenaurach)",
-    "siege_pays": "DE",
-    "statut": "vigilance",
-    "sous_categorie": "Sport",
-    "commentaire": "Anta Sports (Chine) est devenu premier actionnaire avec 29,06 % en janvier 2026 [162][163].",
-    "sources": [
-     162,
-     163
-    ],
-    "lieux_production": [
-     "Chine",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-decathlon",
-    "groupe": "Decathlon",
-    "marques": [
-     "Decathlon",
-     "Quechua",
-     "Domyos",
-     "Kipsta",
-     "B'Twin"
-    ],
-    "siege": "France (Lille)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Sport",
-    "commentaire": "Groupe familial français, n°3 mondial du sport [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "France",
-     "Chine",
-     "Inde"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-asics",
-    "groupe": "Asics",
-    "marques": [
-     "Asics",
-     "Onitsuka Tiger"
-    ],
-    "siege": "Japon (Kobe)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Sport",
-    "commentaire": "Équipementier japonais [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "Chine",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-lacoste",
-    "groupe": "Lacoste",
-    "marques": [
-     "Lacoste"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Prêt-à-porter grand public",
-    "commentaire": "Marque française fondée par René Lacoste [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "France",
-     "Pérou"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "fashion-primark",
-    "groupe": "Primark (Associated British Foods)",
-    "marques": [
-     "Primark"
-    ],
-    "aliases": [
-     "primark"
-    ],
-    "siege": "Royaume-Uni (Londres)",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Prêt-à-porter grand public",
-    "commentaire": "Enseigne britannique du groupe ABF (famille Weston britannique) [209]. Contrôle européen (Royaume-Uni).",
-    "sources": [
-     209
-    ],
-    "lieux_production": [
-     "Turquie",
-     "Inde",
-     "Chine",
-     "Bangladesh"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "11": {
-  "groupes": [
-   {
-    "id": "voyage-plein-air-booking",
-    "groupe": "Booking.com (Booking Holdings)",
-    "marques": [
-     "Booking.com"
-    ],
-    "siege": "Pays-Bas (Amsterdam)",
-    "siege_pays": "NL",
-    "statut": "rang1",
-    "sous_categorie": "Hébergement entre particuliers et réservation",
-    "commentaire": "Plateforme néerlandaise (Booking Holdings, cotée US mais siège Amsterdam) [181].",
-    "sources": [
-     181
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "voyage-plein-air-airbnb",
-    "groupe": "Airbnb",
-    "marques": [
-     "Airbnb"
-    ],
-    "siege": "États-Unis (San Francisco)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Hébergement entre particuliers et réservation",
-    "commentaire": "Plateforme américaine [182]. Hors de vos zones.",
-    "sources": [
-     182
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "12": {
-  "groupes": [
-   {
-    "id": "distribution-paiement-carrefour",
-    "groupe": "Carrefour",
-    "marques": [
-     "Carrefour",
-     "Carrefour Market",
-     "Carrefour Bio"
-    ],
-    "siege": "France (Massy)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Grande distribution alimentaire",
-    "commentaire": "Multinationale française cotée ; 1er actionnaire Galfa (famille Moulin) ~9,5 % du capital [155][156].",
-    "sources": [
-     155,
-     156
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-paiement-leclerc",
-    "groupe": "E.Leclerc",
-    "marques": [
-     "E.Leclerc",
-     "Leclerc Drive",
-     "Marque Repère"
-    ],
-    "siege": "France (Ivry-sur-Seine)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Grande distribution alimentaire",
-    "commentaire": "Coopérative de commerçants français fondée par Michel-Édouard Leclerc [165].",
-    "sources": [
-     165
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-paiement-casino",
-    "groupe": "Casino",
-    "marques": [
-     "Casino",
-     "Monoprix",
-     "Franprix",
-     "Vival",
-     "Cora"
-    ],
-    "siege": "France (Saint-Étienne)",
-    "siege_pays": "FR",
-    "statut": "vigilance",
-    "sous_categorie": "Grande distribution alimentaire",
-    "commentaire": "Groupe français historiquement contrôlé par Jean-Charles Naouri (Rallye) ; restructuration financière en cours depuis 2024, cessions (Cora, GPA Brésil) [156].",
-    "sources": [
-     156
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-paiement-amazon",
-    "groupe": "Amazon",
-    "marques": [
-     "Amazon",
-     "Amazon Prime",
-     "AWS"
-    ],
-    "aliases": [
-     "amazon",
-     "prime",
-     "aws"
-    ],
-    "siege": "États-Unis (Seattle)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Équipement, maison et commerce en ligne",
-    "commentaire": "Groupe américain [189]. Hors de vos zones.",
-    "sources": [
-     189
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-paiement-action",
-    "groupe": "Action",
-    "marques": [
-     "Action"
-    ],
-    "aliases": [
-     "action"
-    ],
-    "siege": "Pays-Bas",
-    "siege_pays": "NL",
-    "statut": "rang1",
-    "sous_categorie": "Équipement, maison et commerce en ligne",
-    "commentaire": "Enseigne hard-discount néerlandaise, forte croissance en France. Contrôle européen (Pays-Bas).",
-    "sources": [],
-    "lieux_production": [
-     "France",
-     "Pays-Bas",
-     "Allemagne"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "13": {
-  "groupes": [
-   {
-    "id": "telecoms-numerique-energie-orange",
-    "groupe": "Orange",
-    "marques": [
-     "Orange"
-    ],
-    "siege": "France (Issy-les-Moulineaux)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Opérateurs télécoms",
-    "commentaire": "Opérateur français coté ; l'État français détient ~22,6 % du capital (33,8 % des droits de vote) [155].",
-    "sources": [
-     155
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "telecoms-numerique-energie-sfr",
-    "groupe": "SFR (Altice France)",
-    "marques": [
-     "SFR",
-     "RED by SFR",
-     "Prixtel"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "vigilance",
-    "sous_categorie": "Opérateurs télécoms",
-    "commentaire": "Filiale d'Altice France (Patrick Drahi). Protocole 2026 : rachat par le consortium Bouygues Telecom / Free-Iliad / Orange (20,35 Md€) [158].",
-    "sources": [
-     158
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "telecoms-numerique-energie-totalenergies",
-    "groupe": "TotalEnergies",
-    "marques": [
-     "TotalEnergies",
-     "Total",
-     "EREN"
-    ],
-    "siege": "France (Courbevoie)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Énergie",
-    "commentaire": "Groupe français coté ; l'État n'y contrôle pas (≈1,3 % via CDC), siège et décision en France [159].",
-    "sources": [
-     159
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "telecoms-numerique-energie-veolia",
-    "groupe": "Veolia",
-    "marques": [
-     "Veolia Eau",
-     "Veolia Propreté",
-     "Veolia Énergies"
-    ],
-    "aliases": [
-     "veolia"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Énergie",
-    "commentaire": "Multinationale française cotée au CAC 40 ; CDC ~6 %, BlackRock ~5,7 %, actionnariat dispersé mais siège et décision en France [197][198]. A absorbé Suez en 2022.",
-    "sources": [
-     197,
-     198
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "telecoms-numerique-energie-suez",
-    "groupe": "Suez",
-    "marques": [
-     "Suez Eau France",
-     "Suez Recyclage"
-    ],
-    "aliases": [
-     "suez",
-     "lyonnaise des eaux"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Énergie",
-    "commentaire": "Multinationale française ; nouveau Suez détenu par le consortium Meridiam / GIP / CDC / CNP [199].",
-    "sources": [
-     199
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "telecoms-energie-enercoop",
-    "groupe": "Enercoop",
-    "marques": [
-     "Enercoop"
-    ],
-    "siege": "France (Paris 19e)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Énergie",
-    "commentaire": "Fournisseur coopératif (SCIC) français 100 % renouvelable fondé en 2005 ; labellisé VertVolt « très engagé » (ADEME). Gouvernance « une personne = une voix », ~64 000 sociétaires.",
-    "sources": [
-     226
-    ],
-    "lieux_production": [
-     "France (siège Paris ; réseau de 12 coopératives régionales)"
-    ],
-    "certifications": [
-     "VertVolt très engagé (ADEME)"
-    ],
-    "produits": []
-   },
-   {
-    "id": "telecoms-energie-octopus-energy",
-    "groupe": "Octopus Energy",
-    "marques": [
-     "Octopus Energy",
-     "Plüm Énergie (racheté en 2022)"
-    ],
-    "siege": "Royaume-Uni (Londres)",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Énergie",
-    "commentaire": "Fournisseur et producteur d'énergie renouvelable britannique fondé en 2015 (fonds Octopus Group, Londres) ; présent en France depuis 2022 via le rachat de Plüm Énergie (Paris).",
-    "sources": [
-     227
-    ],
-    "lieux_production": [
-     "Royaume-Uni (Londres)",
-     "France (Paris, ex-Plüm Énergie)"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "14": {
-  "groupes": [
-   {
-    "id": "banque-assurance-epargne-bnp",
-    "groupe": "BNP Paribas",
-    "marques": [
-     "BNP Paribas",
-     "Hello bank!",
-     "Boursorama"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Banques, banques en ligne et courtiers",
-    "commentaire": "Première banque française, siège 16 bd des Italiens, Paris [160][161].",
-    "sources": [
-     160,
-     161
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-epargne-ca",
-    "groupe": "Crédit Agricole",
-    "marques": [
-     "Crédit Agricole",
-     "LCL",
-     "BforBank"
-    ],
-    "siege": "France (Montrouge)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Banques, banques en ligne et courtiers",
-    "commentaire": "Groupe bancaire coopératif français (Caisses régionales).",
-    "sources": [
-     161
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-assurance-epargne-axa",
-    "groupe": "AXA",
-    "marques": [
-     "AXA"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Assurance",
-    "commentaire": "Assureur français coté, n°1 mondial de l'assurance dommages.",
-    "sources": [
-     161
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "15": {
-  "groupes": [
-   {
-    "id": "transport-mobilite-sncf",
-    "groupe": "SNCF",
-    "marques": [
-     "SNCF",
-     "TGV",
-     "Ouigo",
-     "TER"
-    ],
-    "siege": "France (Saint-Denis)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Rail, autocar et location",
-    "commentaire": "Société nationale à capitaux publics [166].",
-    "sources": [
-     166
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "transport-mobilite-blablacar",
-    "groupe": "BlaBlaCar",
-    "marques": [
-     "BlaBlaCar"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Rail, autocar et location",
-    "commentaire": "Plateforme française de covoiturage [167].",
-    "sources": [
-     167
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "transport-mobilite-flix",
-    "groupe": "Flix SE (FlixBus, FlixTrain)",
-    "marques": [
-     "FlixBus",
-     "FlixTrain"
-    ],
-    "siege": "Allemagne (Munich)",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Rail, autocar et location",
-    "commentaire": "Groupe allemand de mobilité longue distance [168].",
-    "sources": [
-     168
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "transport-mobilite-transavia",
-    "groupe": "Transavia (Air France-KLM)",
-    "marques": [
-     "Transavia",
-     "Transavia France"
-    ],
-    "aliases": [
-     "transavia"
-    ],
-    "siege": "Pays-Bas / France (Orly)",
-    "siege_pays": "NL",
-    "statut": "rang1",
-    "sous_categorie": "Compagnies aériennes européennes",
-    "commentaire": "Filiale à 100 % d'Air France-KLM (holding franco-néerlandaise) depuis 2004 [205][206].",
-    "sources": [
-     205,
-     206
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "17": {
-  "groupes": [
-   {
-    "id": "jouets-jeux-video-lego",
-    "groupe": "LEGO",
-    "marques": [
-     "LEGO"
-    ],
-    "siege": "Danemark (Billund)",
-    "siege_pays": "DK",
-    "statut": "rang1",
-    "sous_categorie": "Jouets et jeux de société",
-    "commentaire": "Groupe danois familial [169].",
-    "sources": [
-     169
-    ],
-    "lieux_production": [
-     "Danemark",
-     "Tchéquie",
-     "Hongrie",
+     "États-Unis",
      "Mexique",
-     "Chine"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "jouets-jeux-video-nintendo",
-    "groupe": "Nintendo",
-    "marques": [
-     "Nintendo",
-     "Switch"
-    ],
-    "siege": "Japon (Kyoto)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Consoles, plateformes et éditeurs",
-    "commentaire": "Éditeur/constructeur japonais [170].",
-    "sources": [
-     170
-    ],
-    "lieux_production": [
      "Chine",
-     "Vietnam"
+     "Brésil"
     ],
     "certifications": [],
     "produits": []
    },
    {
-    "id": "jouets-jeux-video-ravensburger",
-    "groupe": "Ravensburger",
+    "id": "hygiene-sante-procter-gamble",
+    "groupe": "Procter & Gamble",
     "marques": [
-     "Ravensburger"
+     "Oral-B",
+     "Gillette",
+     "Pampers",
+     "Always",
+     "Head & Shoulders"
     ],
-    "siege": "Allemagne",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Jouets et jeux de société",
-    "commentaire": "Éditeur allemand familial [171].",
-    "sources": [
-     171
-    ],
-    "lieux_production": [
-     "Allemagne",
-     "Tchéquie"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "jouets-jeux-video-xbox",
-    "groupe": "Microsoft (Xbox)",
-    "marques": [
-     "Xbox"
-    ],
-    "siege": "États-Unis (Redmond)",
+    "siege": "États-Unis (Cincinnati, Ohio)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Consoles, plateformes et éditeurs",
-    "commentaire": "Console américaine. Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [
-     "Chine"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "jouets-jeux-video-playmobil",
-    "groupe": "Playmobil (Brandstätter)",
-    "marques": [
-     "Playmobil"
-    ],
-    "aliases": [
-     "playmobil"
-    ],
-    "siege": "Allemagne (Zirndorf)",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Jouets et jeux de société",
-    "commentaire": "Groupe familial allemand ; production en Europe (Malte, Tchéquie, Espagne), usine allemande de Dietenhofen fermée en juin 2026 [203][204].",
+    "sous_categorie": "Santé grand public",
+    "commentaire": "Géant américain des produits de grande consommation (Oral-B, Gillette, Pampers...). Hors zones (contrôle US).",
     "sources": [
-     203,
-     204
+     234
     ],
     "lieux_production": [
-     "Allemagne",
-     "Malte",
-     "Tchéquie",
-     "Espagne"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "jouets-jeux-video-playmobil-figurine",
-      "nom": "Figurine Playmobil (7,5 cm)",
-      "assemblage": "Malte / Tchéquie / Espagne",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Production déplacée hors d'Allemagne mais reste en Europe [204]."
-     }
-    ]
-   }
-  ]
- },
- "18": {
-  "groupes": [
-   {
-    "id": "maison-bricolage-jardin-dyson",
-    "groupe": "Dyson",
-    "marques": [
-     "Dyson"
-    ],
-    "siege": "Royaume-Uni (Malmesbury)",
-    "siege_pays": "GB",
-    "statut": "vigilance",
-    "sous_categorie": "Outillage, jardin et entretien",
-    "commentaire": "Société britannique (fondateur James Dyson) ; siège administratif déplacé à Singapour en 2019 [178].",
-    "sources": [
-     178
-    ],
-    "lieux_production": [
-     "Malaisie",
-     "Singapour",
-     "Philippines"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "maison-bricolage-jardin-adeo",
-    "groupe": "Adeo (Leroy Merlin)",
-    "marques": [
-     "Leroy Merlin",
-     "Bricoman",
-     "Weldom"
-    ],
-    "aliases": [
-     "leroy merlin",
-     "adeo",
-     "bricoman"
-    ],
-    "siege": "France (Ronchin)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Distribution bricolage et jardin",
-    "commentaire": "Groupe Adeo, propriété de l'Association familiale Mulliez (AFM, France) [200][201].",
-    "sources": [
-     200,
-     201
-    ],
-    "lieux_production": [
-     "France",
-     "Pologne"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "maison-bricolage-jardin-kingfisher",
-    "groupe": "Kingfisher (Castorama)",
-    "marques": [
-     "Castorama",
-     "Brico Dépôt",
-     "Screwfix"
-    ],
-    "aliases": [
-     "castorama",
-     "kingfisher",
-     "brico depot",
-     "screwfix"
-    ],
-    "siege": "Royaume-Uni (Londres)",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Distribution bricolage et jardin",
-    "commentaire": "Groupe britannique ; Castorama enseigne française historique [202]. Contrôle européen (Royaume-Uni).",
-    "sources": [
-     202
-    ],
-    "lieux_production": [
-     "France",
-     "Pologne"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "19": {
-  "groupes": [
-   {
-    "id": "montres-bijoux-optique-richemont",
-    "groupe": "Richemont",
-    "marques": [
-     "Cartier",
-     "Van Cleef & Arpels",
-     "IWC",
-     "Piaget",
-     "Montblanc",
-     "Baume & Mercier"
-    ],
-    "siege": "Suisse (Genève)",
-    "siege_pays": "CH",
-    "statut": "rang1",
-    "sous_categorie": "Horlogerie",
-    "commentaire": "Groupe suisse de luxe (horlogerie, joaillerie) [172].",
-    "sources": [
-     172
-    ],
-    "lieux_production": [
-     "Suisse",
-     "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "montres-bijoux-optique-garmin",
-    "groupe": "Garmin",
-    "marques": [
-     "Garmin"
-    ],
-    "siege": "États-Unis (Olathe) / Suisse",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Montres et objets connectés",
-    "commentaire": "Objets connectés américains [173]. Hors de vos zones.",
-    "sources": [
-     173
-    ],
-    "lieux_production": [
+     "États-Unis",
+     "Mexique",
      "Chine",
-     "Taïwan"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "20": {
-  "groupes": [
-   {
-    "id": "medias-streaming-culture-spotify",
-    "groupe": "Spotify",
-    "marques": [
-     "Spotify"
-    ],
-    "siege": "Suède (Stockholm)",
-    "siege_pays": "SE",
-    "statut": "rang1",
-    "sous_categorie": "Musique, livres audio et radio",
-    "commentaire": "Plateforme suédoise [174].",
-    "sources": [
-     174
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-streaming-culture-radiofrance",
-    "groupe": "Radio France",
-    "marques": [
-     "France Inter",
-     "France Culture",
-     "franceinfo",
-     "France Musique"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Musique, livres audio et radio",
-    "commentaire": "Service public audiovisuel français [175].",
-    "sources": [
-     175
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-streaming-culture-francetelevisions",
-    "groupe": "France Télévisions",
-    "marques": [
-     "France 2",
-     "France 3",
-     "France 4",
-     "France 5",
-     " france.tv"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Service public audiovisuel français.",
-    "sources": [
-     175
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-streaming-culture-disney",
-    "groupe": "The Walt Disney Company",
-    "marques": [
-     "Disney",
-     "Disney+",
-     "Pixar",
-     "Marvel",
-     "Lucasfilm"
-    ],
-    "aliases": [
-     "disney",
-     "disney+",
-     "pixar",
-     "marvel"
-    ],
-    "siege": "États-Unis (Burbank)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Groupe américain [188]. Hors de vos zones.",
-    "sources": [
-     188
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-qobuz",
-    "groupe": "Qobuz",
-    "marques": [
-     "Qobuz"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Musique, livres audio et radio",
-    "commentaire": "Plateforme française de streaming et téléchargement musical haute résolution (Hi-Res 24-bit) fondée en 2007 ; détenue par Xandrie SA (France, Denis Thebaud).",
-    "sources": [
-     219
-    ],
-    "lieux_production": [
-     "France (Paris)"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-dailymotion",
-    "groupe": "Dailymotion",
-    "marques": [
-     "Dailymotion"
-    ],
-    "siege": "France (Paris 17e)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Plateforme française de vidéo fondée en 2005 à Paris ; filiale d'Orange (2011-2015), de Vivendi (2015), puis transférée au groupe Canal+ fin 2024.",
-    "sources": [
-     220
-    ],
-    "lieux_production": [
-     "France (Paris)"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-groupe-madrigall",
-    "groupe": "Groupe Madrigall (Gallimard)",
-    "marques": [
-     "Gallimard",
-     "Flammarion",
-     "Casterman",
-     "P.O.L",
-     "Folio",
-     "J'ai lu",
-     "Denoël",
-     "Éditions de Minuit"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Musique, livres audio et radio",
-    "commentaire": "Premier éditeur français indépendant, holding familiale contrôlée à 98 % par la famille Gallimard (Antoine Gallimard) depuis 2003, avec LVMH à 9,5 % (2013). 3e pôle éditorial français (~612 M€ de CA en 2023).",
-    "sources": [
-     221
-    ],
-    "lieux_production": [
-     "France (Paris)"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "21": {
-  "groupes": [
-   {
-    "id": "restauration-livraison-paul",
-    "groupe": "Paul",
-    "marques": [
-     "Paul"
-    ],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Boulangerie française historique [176].",
-    "sources": [
-     176,
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/paul"
-   },
-   {
-    "id": "restauration-livraison-brioche-doree",
-    "groupe": "Brioche Dorée",
-    "marques": [
-     "Brioche Dorée"
-    ],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Chaîne française de restauration rapide (groupe Le Duff ? non — Brioche Dorée est indépendante, famille) — à vérifier.",
-    "sources": [
-     176,
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/brioche-doree"
-   },
-   {
-    "id": "restauration-livraison-sodexo",
-    "groupe": "Sodexo",
-    "marques": [
-     "Sodexo",
-     "Sodexo Live!",
-     "Pluxee"
-    ],
-    "siege": "France (Issy-les-Moulineaux)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Groupe français de restauration collective, n°1 mondial [177].",
-    "sources": [
-     177,
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/sodexo"
-   },
-   {
-    "id": "restauration-livraison-mcdonalds",
-    "groupe": "McDonald's",
-    "marques": [
-     "McDonald's"
-    ],
-    "aliases": [
-     "mcdonald",
-     "big mac",
-     "mcdonalds"
-    ],
-    "siege": "États-Unis (Chicago)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Chaîne américaine [186]. Produit phare : Big Mac (viande UE en France).",
-    "sources": [
-     186,
-     210
-    ],
-    "lieux_production": [
-     "France (fournisseurs UE)"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "restauration-livraison-mcdonalds-big-mac",
-      "nom": "Big Mac",
-      "assemblage": "France (préparé en restaurant)",
-      "origine_pieces": "Union européenne (viande)",
-      "certifications": [],
-      "note": "Produit phare [186].",
-      "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000002603/big-mac-mcdonald-s"
-     }
-    ],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mcdonald-s"
-   },
-   {
-    "id": "restauration-livraison-starbucks",
-    "groupe": "Starbucks",
-    "marques": [
-     "Starbucks"
-    ],
-    "aliases": [
-     "starbucks",
-     "frappuccino",
-     "café latte"
-    ],
-    "siege": "États-Unis (Seattle)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Chaîne américaine [187].",
-    "sources": [
-     187,
-     210
-    ],
-    "lieux_production": [
-     "France (cafés)"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "restauration-livraison-starbucks-latte",
-      "nom": "Caffè Latte",
-      "assemblage": "France (préparé en magasin)",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Produit phare [187].",
-      "openfoodfacts": "https://fr.openfoodfacts.org/produit/5760466995931/caffe-latte-starbucks"
-     }
-    ],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/starbucks"
-   },
-   {
-    "id": "restauration-livraison-yum",
-    "groupe": "Yum! Brands (KFC)",
-    "marques": [
-     "KFC",
-     "Pizza Hut",
-     "Taco Bell"
-    ],
-    "aliases": [
-     "kfc",
-     "pizza hut",
-     "taco bell",
-     "yum"
-    ],
-    "siege": "États-Unis (Louisville)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Groupe américain n°2 mondial du fast-food [207]. Hors de vos zones.",
-    "sources": [
-     207,
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/kfc"
-   },
-   {
-    "id": "restauration-livraison-rbi",
-    "groupe": "Restaurant Brands International (Burger King)",
-    "marques": [
-     "Burger King",
-     "Tim Hortons",
-     "Popeyes"
-    ],
-    "aliases": [
-     "burger king",
-     "tim hortons",
-     "popeyes",
-     "rbi"
-    ],
-    "siege": "Canada (Toronto)",
-    "siege_pays": "CA",
-    "statut": "rang2",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Holding canadienne ; 3G Capital (Brésil) détient ~26-32 % [208]. Rang 2 (Canada).",
-    "sources": [
-     208,
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/burger-king"
-   },
-   {
-    "id": "restauration-flunch-agapes",
-    "groupe": "Flunch (Agapes Restauration)",
-    "marques": [
-     "Flunch",
-     "Pizza Paï",
-     "Les 3 Brasseurs",
-     "Amarine",
-     "Salad&Co"
-    ],
-    "siege": "France (Nord, groupe Mulliez)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Chaîne de restauration en libre-service française fondée en 1971 (Englos, Nord) ; exploitée par Agapes Restauration, branche restauration de l'Association familiale Mulliez (Auchan, Decathlon, Leroy Merlin...).",
-    "sources": [
-     228
-    ],
-    "lieux_production": [
-     "France (Englos/Lille, Nord)",
-     "Espagne, Italie, Pologne"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "restauration-deliveroo",
-    "groupe": "Deliveroo",
-    "marques": [
-     "Deliveroo"
-    ],
-    "siege": "Royaume-Uni (Londres)",
-    "siege_pays": "GB",
-    "statut": "rang1",
-    "sous_categorie": "Livraison de repas et anti-gaspillage",
-    "commentaire": "Entreprise britannique de livraison de repas fondée en 2013, cotée à la Bourse de Londres (2021) ; opère au Royaume-Uni, en France, Suisse, Belgique, Irlande, Italie, EAU, Singapour.",
-    "sources": [
-     229
-    ],
-    "lieux_production": [
-     "Royaume-Uni (Londres)",
-     "France (Paris)"
+     "Pologne"
     ],
     "certifications": [],
     "produits": []
@@ -2204,82 +2335,6 @@
       "note": "Produit phare [185]."
      }
     ]
-   }
-  ]
- },
- "16": {
-  "groupes": [
-   {
-    "id": "hotellerie-bb-hotels",
-    "groupe": "B&B Hotels",
-    "marques": [
-     "B&B Hotels"
-    ],
-    "siege": "France (Brest)",
-    "siege_pays": "FR",
-    "statut": "hors_zones",
-    "sous_categorie": "Groupes hôteliers",
-    "commentaire": "Chaîne française fondée à Brest en 1990 (950+ hôtels en Europe) ; contrôlée depuis 2019 par des fonds de Goldman Sachs (États-Unis) pour 1,9 Md€. Siège resté à Brest.",
-    "sources": [
-     216
-    ],
-    "lieux_production": [
-     "France (Brest, siège)",
-     "Europe (19 pays)"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hotellerie-pierre-vacances-center-parcs",
-    "groupe": "Pierre & Vacances-Center Parcs",
-    "marques": [
-     "Pierre & Vacances",
-     "Center Parcs",
-     "Sunparks",
-     "Adagio",
-     "Maeva",
-     "Villages Nature"
-    ],
-    "siege": "France (Paris 19e)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Groupes hôteliers",
-    "commentaire": "Groupe touristique français fondé en 1967 par Gérard Brémond, coté à Paris et contrôlé par la famille Brémond (via holdings) ; 330 sites en Europe. Restructuré en 2022 avec soutien de l'État.",
-    "sources": [
-     217
-    ],
-    "lieux_production": [
-     "France (Paris, siège)",
-     "Europe (France, Espagne, Allemagne, Belgique, Pays-Bas...)"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hotellerie-booking-holdings",
-    "groupe": "Booking Holdings (Booking.com)",
-    "marques": [
-     "Booking.com",
-     "Priceline",
-     "Agoda",
-     "Kayak",
-     "OpenTable"
-    ],
-    "siege": "États-Unis (Norwalk, Connecticut)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Hébergement entre particuliers et réservation",
-    "commentaire": "Multinationale américaine de réservation en ligne (cotée Nasdaq) ; Booking.com fondé à Amsterdam en 1996, racheté en 2005. Siège du groupe à Norwalk (US).",
-    "sources": [
-     218
-    ],
-    "lieux_production": [
-     "États-Unis (Norwalk)",
-     "Pays-Bas (Amsterdam, Booking.com)"
-    ],
-    "certifications": [],
-    "produits": []
    }
   ]
  }

@@ -1,0 +1,3649 @@
+{
+ "alimentation-et-boissons-savencia-valrhona": [
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328144190",
+   "nom": "Valrhona - Amandes & Noisettes - Chocolat Gianduja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328144190"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328145234",
+   "nom": "Chouchou amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328145234"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328145814",
+   "nom": "Amande et noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328145814"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328153468",
+   "nom": "Perles craquantes au chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328153468"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328190265",
+   "nom": "Sélection Chocolats Fins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328190265"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328207017",
+   "nom": "Orelys",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328207017"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328224083",
+   "nom": "ABINAHO 85% Cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328224083"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328222133",
+   "nom": "Etnao praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328222133"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328224090",
+   "nom": "Jivara 40% grand cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328224090"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328232118",
+   "nom": "Orangettes chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328232118"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328222775",
+   "nom": "Valrhona chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328222775"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328247662",
+   "nom": "Tablette lavande noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328247662"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328215524",
+   "nom": "Chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328215524"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328222782",
+   "nom": "assortiment chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328222782"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321070267",
+   "nom": "Chocolat 39%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321070267"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129616",
+   "nom": "Chardon alcool assorti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129616"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328366141",
+   "nom": "Perles craquantes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328366141"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328366110",
+   "nom": "Pepites chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328366110"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328366059",
+   "nom": "Coeurs fondants pralinés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328366059"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328297131",
+   "nom": "Œufs de printemps",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328297131"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328236109",
+   "nom": "Orangettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 130g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328236109"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328376423",
+   "nom": "Chocolat Millot 74%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328376423"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328474426",
+   "nom": "Ivoire (framboise)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328474426"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328474402",
+   "nom": "Dulcey (café)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328474402"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328481790",
+   "nom": "Creations chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328481790"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328710814",
+   "nom": "Chocolat noir Caraïbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328710814"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328481769",
+   "nom": "Les petits délices",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328481769"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328715789",
+   "nom": "Andoa Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328715789"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328718827",
+   "nom": "Assorted Chocolates",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328718827"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328129548",
+   "nom": "Eclat Andoa noire 70%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328129548"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328575260",
+   "nom": "Chocolat valrhona",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328575260"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-0726120839640",
+   "nom": "Valrhona El Pedregal Porcelana Dark Chocolate Bar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0726120839640"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-2000000073542",
+   "nom": "Initiation Grand Crus : Guanaia, Alpaco, Jigara",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 15 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000073542"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-2002264005652",
+   "nom": "Noisette noir 34% bloc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2002264005652"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321005108",
+   "nom": "Valrhona Noir Guanaja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321005108"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321075477",
+   "nom": "Valrhona Guanaja Grand Cru 41% Kakao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321075477"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328084458",
+   "nom": "Coffret De 4 Tablettes Grands Crus Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328084458"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328121313",
+   "nom": "Tablette Ampamakia Chocolat Noir De Domaine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 70 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328121313"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320034468",
+   "nom": "Valrhona Poudre de cacao 250 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320034468"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320066988",
+   "nom": "Chocolat Blanc à Pâtisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320066988"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320067138",
+   "nom": "Manjari Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320067138"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320078646",
+   "nom": "Ballotin Orangettes Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320078646"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320078653",
+   "nom": "Mendiants Noir Et Lait - Bonbons De Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320078653"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320079018",
+   "nom": "Bonbons De Chocolat Assortis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320079018"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320079025",
+   "nom": "Ballotin De Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320079025"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395320079032",
+   "nom": "Ballotin De Chocolats Assortis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395320079032"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321055714",
+   "nom": "Valrhona Tainori - Grand Cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321055714"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321055721",
+   "nom": "Alpaco 66 Feves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321055721"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321056148",
+   "nom": "Abinao 85%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321056148"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395321067250",
+   "nom": "Ashanti 76%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395321067250"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328116913",
+   "nom": "52 Carrés De Chocolat Noir Grands Crus Origine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328116913"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328117026",
+   "nom": "Chocolat Blond Dulcey à Pâtisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328117026"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328117484",
+   "nom": "Le lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328117484"
+  },
+  {
+   "id": "alimentation-et-boissons-savencia-valrhona-3395328121016",
+   "nom": "Dégustation Grands Crus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3395328121016"
+  }
+ ],
+ "alimentation-et-boissons-andros": [
+  {
+   "id": "alimentation-et-boissons-andros-3608580065340",
+   "nom": "Pâte à tartiner noisettes et cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 360 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580065340"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530402728",
+   "nom": "La Madeleine Pur beurre",
+   "assemblage": "41700",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g (12 sachets individuels)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530402728"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580142966",
+   "nom": "Pâte à tartiner cacahuètes et cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580142966"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823445",
+   "nom": "Confiture de fraise Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823445"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580758686",
+   "nom": "Confiture extra de Fraises",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580758686"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530407396",
+   "nom": "Petit Cookies Pépites de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530407396"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530405736",
+   "nom": "Bonne Maman - Quatre Quarts, 500g (17.6oz)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 500 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530405736"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823490",
+   "nom": "Myrtille Intense",
+   "assemblage": "biars-sur-ceres",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823490"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823476",
+   "nom": "Framboise Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 335g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823476"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530405743",
+   "nom": "Gâteau marbré au chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 475g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530405743"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823452",
+   "nom": "Confiture Abricot INTENSE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823452"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001570",
+   "nom": "Confiture Framboises",
+   "assemblage": "Biars-sur-Cere",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001570"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530404050",
+   "nom": "La Madeleine chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530404050"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530404678",
+   "nom": "biscuits a la cuillere",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530404678"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580135791",
+   "nom": "Bonne maman pate a tartiner noisettes et cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 725 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580135791"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530402988",
+   "nom": "Tartelettes citron",
+   "assemblage": "contres",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 125g (9 sachets)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530402988"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530411492",
+   "nom": "Gaufres au sucre perlé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 300g (6x50g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530411492"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530408515",
+   "nom": "Petits Muffins Chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 235 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530408515"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823513",
+   "nom": "Confiture fruits rouges intenses",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823513"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320057294",
+   "nom": "Galettes pur beurre",
+   "assemblage": "Contres",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320057294"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530404142",
+   "nom": "Bonne Maman - Le petit Quatre-Quarts pur beurre, 300g (10 sachets fraîcheur)",
+   "assemblage": "41700 Le Contois-en-Sologne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530404142"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530423136",
+   "nom": "Petits chocos Chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530423136"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580758693",
+   "nom": "Confiture Abricots",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 320g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580758693"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530408379",
+   "nom": "Financiers amandes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530408379"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580765653",
+   "nom": "Mousse au chocolat intense",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 4*50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580765653"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530409840",
+   "nom": "Sablés tout chocolat",
+   "assemblage": "41700",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530409840"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001587",
+   "nom": "Confiture Extra de Myrtilles",
+   "assemblage": "46130 Biars sur Cere",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001587"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530402995",
+   "nom": "Tartelettes framboise",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 135 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530402995"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530403022",
+   "nom": "Tartelettes chocolat caramel",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 135g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530403022"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094008",
+   "nom": "Strawberry Conserve",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094008"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530407402",
+   "nom": "Petits Cakes aux Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530407402"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530414431",
+   "nom": "MADELEINE CITRON",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530414431"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001525",
+   "nom": "Confiture Fraises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001525"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580065319",
+   "nom": "Pâte à tartiner aux noisettes et au cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580065319"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530421224",
+   "nom": "La madeleine cœur framboise",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530421224"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580140559",
+   "nom": "Compotée pêches nouvelle recette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 590 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580140559"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530421064",
+   "nom": "Petites tartelettes Chocolat caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530421064"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530405781",
+   "nom": "Cookies Chocolat Noisettes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530405781"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823537",
+   "nom": "Confiture Cerise INTENSE",
+   "assemblage": "46130 Biars sur Cere",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823537"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320009293",
+   "nom": "Confiture de figues violettes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320009293"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580884170",
+   "nom": "Coeur coulant au chocolat🍫",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 160 g (2 * 80g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580884170"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530412741",
+   "nom": "Bonne Maman - Mini Marble Cake Chocolat, 300g (10.6oz)",
+   "assemblage": "41700",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530412741"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530412840",
+   "nom": "Sablés framboise sésame",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530412840"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320008920",
+   "nom": "Confiture châtaigne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320008920"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001679",
+   "nom": "Gelée de groseilles",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001679"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580765684",
+   "nom": "Mousse aux oeufs frais chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200 g (4 * 50 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580765684"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580017257",
+   "nom": "Confitures moins sucrée - Fraise & framboise intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580017257"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320074895",
+   "nom": "marmelade bonne maman oranges amères",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320074895"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094084",
+   "nom": "Confiture de Framboise",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094084"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580908197",
+   "nom": "riz au lait a la vanille naturelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580908197"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001594",
+   "nom": "Bonne Maman - Mirabelle Plum Jam, 370g (13oz)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001594"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530423839",
+   "nom": "Petites Madeleines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 235 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530423839"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530420395",
+   "nom": "La madelein coeur chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530420395"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001655",
+   "nom": "confiture bonne maman 4 fruits",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001655"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530425208",
+   "nom": "Le moelleux au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530425208"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530427011",
+   "nom": "Petits Muffins Myrtilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 235 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530427011"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580140498",
+   "nom": "Compotée fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 590g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580140498"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320517699",
+   "nom": "Crème caramel aux œufs frais",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 400 g (4 * 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320517699"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530421392",
+   "nom": "La Madeleine coeur myrtille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530421392"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823469",
+   "nom": "Orange amère, intense - Confiture moins sucrée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823469"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580931546",
+   "nom": "Compotée fraises & framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 260 g, 2 pots de 130 g ℮",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580931546"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001716",
+   "nom": "Gelée Mûres",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001716"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001532",
+   "nom": "Confiture Extra d'Abricots",
+   "assemblage": "46131 Biars",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001532"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530424928",
+   "nom": "Petits feuilletés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530424928"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530407983",
+   "nom": "Madeleine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530407983"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580908319",
+   "nom": "Ma semoule au lait et à la Vanille Naturelle",
+   "assemblage": "FR 28.015.011 CE",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 400 g (4 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580908319"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580113867",
+   "nom": "Liégeois Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 210 g (2 x 105 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580113867"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001693",
+   "nom": "Gelée de Coing",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001693"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580142935",
+   "nom": "Pâte à tartiner aux cacahouètes et au cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 560 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580142935"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320082074",
+   "nom": "Bonne Maman - French Strawberry & Wild Strawberry Jam, 370g (13oz)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320082074"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580893240",
+   "nom": "fraise intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580893240"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580023562",
+   "nom": "Confiture myrtille et cassis intenses",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580023562"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001518",
+   "nom": "Confiture Bonne Maman Cerises Griottes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001518"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580088486",
+   "nom": "Hazelnut Chocolate Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580088486"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580118886",
+   "nom": "Bonne Maman Hazelnut Chocolate Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 360g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580118886"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530426915",
+   "nom": "Petits Carrés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530426915"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580931584",
+   "nom": "Compotée pêches & abricots",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 100 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580931584"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001549",
+   "nom": "Confiture de Pêches",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001549"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823506",
+   "nom": "Confiture Figue INTENSE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823506"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001686",
+   "nom": "Gelée Framboise",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001686"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530416589",
+   "nom": "Sablés noisette chocolat",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530416589"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320023275",
+   "nom": "Confiture Cerises noires",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320023275"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580787631",
+   "nom": "mousse au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 200 g (4 * 50 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580787631"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580024408",
+   "nom": "Lemon curd",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580024408"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580745372",
+   "nom": "Confiture Myrtilles et Cassis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580745372"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320022247",
+   "nom": "confiture mures",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320022247"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094015",
+   "nom": "Bonne Maman Strawberry And Wild Strawberry 370G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094015"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823520",
+   "nom": "Confiture pêche intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823520"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094053",
+   "nom": "Bitter orange fine shred marmalade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094053"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580934783",
+   "nom": "Baba au rhum à la chantilly",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 2x140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580934783"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580023531",
+   "nom": "Confiture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580023531"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530409857",
+   "nom": "Bonne Maman - Coconut Croquants, 150g (5.3oz)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530409857"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530424881",
+   "nom": "Petits croquants speculoos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530424881"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001709",
+   "nom": "Gelée de Cassis",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001709"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580124887",
+   "nom": "Crunchy Hazelnut Chocolate Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580124887"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580759638",
+   "nom": "Confiture Extra Abricots",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580759638"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580070764",
+   "nom": "Pates a tartiner noisettes / hazelnootpasta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 - 360g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580070764"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580823544",
+   "nom": "Mirabelle intense",
+   "assemblage": "46130 Biars sur Cere",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580823544"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580777182",
+   "nom": "Confiture de Fraises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 680 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580777182"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580113836",
+   "nom": "Liégeois café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 105 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580113836"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530408485",
+   "nom": "Madeleine pur beurre",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530408485"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580745358",
+   "nom": "Confiture Extra d'Abricots et de Pêches",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580745358"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580128670",
+   "nom": "Caramel beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 275 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580128670"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580017288",
+   "nom": "Confiture nectarine & abricot - Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580017288"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530424904",
+   "nom": "Petits sablés caramel beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530424904"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580085690",
+   "nom": "Fraise et yaourt au lait entier frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 250g (2x125g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580085690"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530427219",
+   "nom": "Tendres cœurs chocolat vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530427219"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530426878",
+   "nom": "Le brownie chocolat, noix de pécan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 6 brownies de 35g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530426878"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320090024",
+   "nom": "Erdbeer-Konfitüre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320090024"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580101932",
+   "nom": "Haselnuss  schokocreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580101932"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580776765",
+   "nom": "bbonne maman abricot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580776765"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094022",
+   "nom": "Apricot Conserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094022"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580007203",
+   "nom": "Confiture fraises et framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580007203"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530423853",
+   "nom": "La pause chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 6x2 235 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530423853"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320512823",
+   "nom": "Bonne Maman Black Cherry Conserve 370G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320512823"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580113898",
+   "nom": "Liégeois vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 2x105 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580113898"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580140528",
+   "nom": "Compotée de pommes vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 590g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580140528"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320026771",
+   "nom": "Confiture 4 Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320026771"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580797180",
+   "nom": "Confitures extra de myrtilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 320 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580797180"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580968597",
+   "nom": "Reduced sugar raspberry extra jam",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 335g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580968597"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580966128",
+   "nom": "Semoule au lait Vanille",
+   "assemblage": "46130 Biars sur Cère",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580966128"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-0088702015607",
+   "nom": "Strawberry Preserves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0088702015607"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320525137",
+   "nom": "Tarte au citron meringuée",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320525137"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320517620",
+   "nom": "Yaourt à la Vanille naturelle",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 8 x 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320517620"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580968580",
+   "nom": "Bonne Maman Strawberry Intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580968580"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094169",
+   "nom": "Bonne Maman Blackcurrant Conserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094169"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094091",
+   "nom": "Wild Blueberry Conserve",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094091"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580966111",
+   "nom": "Riz au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580966111"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-0088702024982",
+   "nom": "Fruit Fruits Preserves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0088702024982"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580776772",
+   "nom": "Confiture de 4 fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580776772"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580907831",
+   "nom": "Tarte tatin aux pommes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 240g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580907831"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320525106",
+   "nom": "Fraisier",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 200 g (2 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320525106"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580034438",
+   "nom": "Confiture de pêche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580034438"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320074123",
+   "nom": "Prunes - Confiture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320074123"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320082586",
+   "nom": "Aardbeien Confiture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320082586"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320518283",
+   "nom": "Crème Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320518283"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580776741",
+   "nom": "Confiture fraise bonne maman",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580776741"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580150497",
+   "nom": "Erdnuss & Kakao Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580150497"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580169871",
+   "nom": "Raspberry Yogurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580169871"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-0088702015669",
+   "nom": "Wild Blueberry Preserves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 13oz (370g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0088702015669"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580776857",
+   "nom": "Confiture de myrtille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580776857"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530403459",
+   "nom": "Bonne Maman Petits muffins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 235g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530403459"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320001563",
+   "nom": "Bonne Maman - Plum Jam Reine Claude, 13oz (370g) Jar",
+   "assemblage": "46131 Biars",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320001563"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580776796",
+   "nom": "Confiture de mûres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580776796"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580172215",
+   "nom": "Confiture fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580172215"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530426861",
+   "nom": "Tendres coeurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530426861"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580158127",
+   "nom": "Pâte à tartiner aux cacahuètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580158127"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580128397",
+   "nom": "Caramelised Apple Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 275g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580128397"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580023807",
+   "nom": "Bonne Maman Yoghurt Rubarb and Strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580023807"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580893257",
+   "nom": "Orange amère intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 335 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580893257"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-0088702015652",
+   "nom": "Raspberry Preserves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 13 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0088702015652"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580150251",
+   "nom": "Confiture bonne maman myrtilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580150251"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580169840",
+   "nom": "rhubarb yoghurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 460g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580169840"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580729082",
+   "nom": "Crème brûlée",
+   "assemblage": "Bonne Maman - BP1 - 46130 Biars",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 200 g (2 pots de 96 g + 2 sachets de caramel de 4 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580729082"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320528572",
+   "nom": "Moka",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g (2 x 100 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320528572"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580070924",
+   "nom": "Haselnuss-Aufstrich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 360g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580070924"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320090048",
+   "nom": "Marmelade Aprikose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320090048"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580116585",
+   "nom": "orange amere",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 335g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580116585"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580163985",
+   "nom": "Sweet And Crunchy Peanut Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 230g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580163985"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580931591",
+   "nom": "Compotée ananas au rhum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 2 x 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580931591"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320007190",
+   "nom": "Confiture Fruits des bois",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320007190"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530422757",
+   "nom": "Tendre cœur chocolat",
+   "assemblage": "Le controis-en-Sologne France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530422757"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580002543",
+   "nom": "Confiture Fraises (offre généreuse)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 680 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580002543"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530414448",
+   "nom": "La madeleine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 175g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530414448"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580062790",
+   "nom": "Raspberry & blackberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580062790"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580125419",
+   "nom": "Pâte à tartiner Cacahuètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 325 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580125419"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580125358",
+   "nom": "Erdnuss Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score E · 325g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580125358"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580011026",
+   "nom": "compotée nectarines blanches",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 2x130g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580011026"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320097337",
+   "nom": "confiture de lait",
+   "assemblage": "Biars-sur-Cère",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320097337"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580766858",
+   "nom": "Gelée de Fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580766858"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094114",
+   "nom": "Damson plum conserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094114"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320092066",
+   "nom": "Kirsch-Konfitüre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 370g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320092066"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580128427",
+   "nom": "Bonne Maman Chocolate and Orange Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 275g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580128427"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580169819",
+   "nom": "Apricot Yogurt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 4 x 115 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580169819"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580144601",
+   "nom": "confiture fraises et goyave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580144601"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530421057",
+   "nom": "Petites galettes chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 324 g (27 x 8.9 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530421057"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3045320094145",
+   "nom": "Berries and Cherries Jam",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3045320094145"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580782063",
+   "nom": "Bonne Maman Chocolate Mousse 2 X",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 140g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580782063"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580002536",
+   "nom": "Confiture d'abricots",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 680 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580002536"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580085751",
+   "nom": "Abricot et Yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580085751"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3178530409734",
+   "nom": "Cakes aux fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3178530409734"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580085737",
+   "nom": "Framboises et yaourt au lait entier frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580085737"
+  },
+  {
+   "id": "alimentation-et-boissons-andros-3608580917762",
+   "nom": "Confiture Myrtilles sauvages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3608580917762"
+  }
+ ],
+ "alimentation-et-boissons-cemoi": [
+  {
+   "id": "alimentation-et-boissons-cemoi-3173289213847",
+   "nom": "oursons guimauve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173289213847"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173289232503",
+   "nom": "Petit ourson guimauve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 920 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173289232503"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286827306",
+   "nom": "Petits oeufs vichy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286827306"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-6186000316458",
+   "nom": "Choco Fun",
+   "assemblage": "zone industrielle abidjan",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 85g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6186000316458"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286832706",
+   "nom": "Mega t’oeufs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286832706"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173280246608",
+   "nom": "Ourson guimauve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173280246608"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281764309",
+   "nom": "Cémoi pro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281764309"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281710252",
+   "nom": "Désir noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281710252"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173282450607",
+   "nom": "Chocolat au lait français",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173282450607"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287753307",
+   "nom": "Cheverny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287753307"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287739806",
+   "nom": "Le Temps des Fêtes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287739806"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287739707",
+   "nom": "Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287739707"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287740901",
+   "nom": "Assortiment de chocolats au lait et noirs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287740901"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287756209",
+   "nom": "Cheverny chocolat noirs",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 459 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287756209"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173289217593",
+   "nom": "Petit Ourson Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173289217593"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287510108",
+   "nom": "Papillote grand assortiment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287510108"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284319001",
+   "nom": "Oeuf chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284319001"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287504206",
+   "nom": "Papillotes Suprême de Lait",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 370 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287504206"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286634508",
+   "nom": "Les oeufs vichy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286634508"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287723706",
+   "nom": "Poule chocolat noir cemoi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287723706"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-7340191100695",
+   "nom": "70%kakao mørk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7340191100695"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284318905",
+   "nom": "Cémoi l'oeuf chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284318905"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287715008",
+   "nom": "Les irrésistibles Guimauves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287715008"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287741007",
+   "nom": "Mes gourmandises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287741007"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284283753",
+   "nom": "Cloche Lait S / Cello 125G,",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284283753"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287712502",
+   "nom": "Decouverte de nos regions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 350 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287712502"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286767602",
+   "nom": "Méga t'oeuf lait fondant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286767602"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286784906",
+   "nom": "Chocolat noir praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286784906"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173289227004",
+   "nom": "Petit ourson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173289227004"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-0813601026306",
+   "nom": "Chocolat 80 % de cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 3 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0813601026306"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281603172",
+   "nom": "Chocolat noir 50%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281603172"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281603660",
+   "nom": "Chocolat noir 44%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281603660"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286617280",
+   "nom": "Les oeufs Vichy en chocolat lait fourre praline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286617280"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286667841",
+   "nom": "Assortiment vichy chocolat lait CEMOI sous aluminium",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286667841"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286687641",
+   "nom": "CÉMOI",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286687641"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287700080",
+   "nom": "Quadro Crousti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287700080"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281413252",
+   "nom": "Chocolat noir aux pepites de cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281413252"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286680796",
+   "nom": "CHOCOLAT EN POUDRE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286680796"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287289981",
+   "nom": "Cemoi Almond Truffes 200G Mantelin Makuinen Tryffelirasia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287289981"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284507002",
+   "nom": "Dragées au chocolat noir 70% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284507002"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281737501",
+   "nom": "Succession",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281737501"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-0052302142209",
+   "nom": "Chocolat noir",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0052302142209"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286828501",
+   "nom": "Cemoi mega oeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286828501"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286796107",
+   "nom": "Oeufs dégustation",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286796107"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281458888",
+   "nom": "Nature noir 64% de cacao côte d'ivoire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281458888"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284359335",
+   "nom": "Dragées Amandes Douces 35% amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284359335"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284782300",
+   "nom": "Assortiment De Pâtes De Fruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284782300"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286620310",
+   "nom": "Chocolatier francais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286620310"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286674696",
+   "nom": "Assortiment vichy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286674696"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286678731",
+   "nom": "Cloche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286678731"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286687801",
+   "nom": "Les Fritures Dégustation Lait Praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286687801"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286695646",
+   "nom": "Oeufs chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 420 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286695646"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286724506",
+   "nom": "Mix glouton",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286724506"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287653409",
+   "nom": "Joyeusement Pétillant !",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287653409"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173288092696",
+   "nom": "TARTICAO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173288092696"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281723108",
+   "nom": "Chocolat noir intense 90%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281723108"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281861503",
+   "nom": "Chocolat de couverture noir 64%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281861503"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287541355",
+   "nom": "Cemoi Ta&#231;as De Chocolate Sabores Diversos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287541355"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173283228267",
+   "nom": "Choocolat au lait au praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173283228267"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287092406",
+   "nom": "Truffes au chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287092406"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287738304",
+   "nom": "Oeuf chocolat au lait extra-fin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287738304"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281774506",
+   "nom": "Bio noir 72% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281774506"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-09046401",
+   "nom": "L'authentique petit Ourson guimauve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 421g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/09046401"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286142973",
+   "nom": "Poudre chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286142973"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287404148",
+   "nom": "Petit herisson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287404148"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281730885",
+   "nom": "Bâtons chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281730885"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287742509",
+   "nom": "Cémoi le temps des fêtes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 183 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287742509"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287427833",
+   "nom": "Coeur guimauve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287427833"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3113886487333",
+   "nom": "Poule Vichy",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 175 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3113886487333"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281604735",
+   "nom": "Palets Chocolat Noir 70% Bio Origine Equateur-carton 2KG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281604735"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281689633",
+   "nom": "Pépite de chocolat à cuisiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281689633"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281689893",
+   "nom": "Cémoi palets noirs 55%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281689893"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281711815",
+   "nom": "Accompagnements Chocolat Noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281711815"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281715950",
+   "nom": "Barres Gouter Flowpackees - Chocolat Au Lait Bio - Boite 2KG",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281715950"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281741515",
+   "nom": "Chocolat Noir 72% équateur guayas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281741515"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281858350",
+   "nom": "Empreinte origine Equateur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 2,5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281858350"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281859005",
+   "nom": "Chocolat 2kg5 empreinte 72",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281859005"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173282903127",
+   "nom": "Chocolat Blanc 30 % En Palet Suprême",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173282903127"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173282911122",
+   "nom": "Chocolat blanc caramélisé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173282911122"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173283480115",
+   "nom": "Chocolat noir fourrage menthe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 135g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173283480115"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284507347",
+   "nom": "Dragées amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284507347"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286410768",
+   "nom": "Moulage Lapin Vichy en chocolat au lait garni d'oeufs au praline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286410768"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286619260",
+   "nom": "Bonheur d'enfance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 210g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286619260"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286620983",
+   "nom": "Secrets de Chocolat Friture Praline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286620983"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286668268",
+   "nom": "Mega t'oeufs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · Paquet",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286668268"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286668671",
+   "nom": "Assortiment de bonbons au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286668671"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286678243",
+   "nom": "La boite  à oeufs vichy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286678243"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286692348",
+   "nom": "Les Oeufs Degustation",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286692348"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286692591",
+   "nom": "Les Œufs Dégustation",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286692591"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286693666",
+   "nom": "Quadro croustillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 890 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286693666"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286695493",
+   "nom": "Mega oeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286695493"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286927648",
+   "nom": "Assortiment de chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286927648"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287288083",
+   "nom": "Truffes fantaisie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287288083"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287309375",
+   "nom": "Les teuffes créatives",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287309375"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287329090",
+   "nom": "Les truffes creatives",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287329090"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287329335",
+   "nom": "Cemoi Etui Truffe Sao Tom250g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287329335"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287333868",
+   "nom": "Chocolat lait praliné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287333868"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287428175",
+   "nom": "Assortiment Rochers Guimauves",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 405 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287428175"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287473113",
+   "nom": "Méga t'oeufs choco' pétille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287473113"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287473373",
+   "nom": "Mega Oeufs Croistillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287473373"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287506040",
+   "nom": "Friture chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287506040"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287611638",
+   "nom": "Assortiment chocolatier",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 945 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287611638"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287652303",
+   "nom": "Decouverte grands cacaos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287652303"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287656363",
+   "nom": "Coffret poule chocolat au lait avec oeufs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 375 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287656363"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287683253",
+   "nom": "ROCHER Guimauve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125 grammes ",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287683253"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287699438",
+   "nom": "Quadro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287699438"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287701230",
+   "nom": "Assortiment de chocolats Cheverny Gourmand",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287701230"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173289100758",
+   "nom": "Gaufrette Fourrée Au Praliné Quadro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173289100758"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3328864169402",
+   "nom": "Pâte a tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3328864169402"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281723009",
+   "nom": "Dark chocolate 50% almond pieces",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281723009"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287092307",
+   "nom": "Véritables truffes chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287092307"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173282370240",
+   "nom": "Bonheurs d’enfance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173282370240"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281467606",
+   "nom": "Chocolat noir 72% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281467606"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281466906",
+   "nom": "Dark chocolate 64% Almond pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281466906"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173282913775",
+   "nom": "Chocolat blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173282913775"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287328918",
+   "nom": "Truffes façon tarte citron meringuée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287328918"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287333523",
+   "nom": "Boîte de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287333523"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281736108",
+   "nom": "Empreinte 72",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281736108"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287325603",
+   "nom": "Véritables truffe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287325603"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281858190",
+   "nom": "empreinte 100",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281858190"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287637973",
+   "nom": "OEUFS DUNE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287637973"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287329908",
+   "nom": "Truffes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287329908"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284507422",
+   "nom": "Dragée amandes douces 35 % amandes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284507422"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287611706",
+   "nom": "Assortiment chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287611706"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287812295",
+   "nom": "Papillotes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287812295"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287283293",
+   "nom": "La sélection chocolatière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287283293"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286793328",
+   "nom": "Chocolat en poudre lactée Cémoi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286793328"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173286401308",
+   "nom": "Cacao en poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173286401308"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-57955957",
+   "nom": "Bio noisettes entières",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/57955957"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173282802062",
+   "nom": "Chocolat noir 74% cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173282802062"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173287510320",
+   "nom": "Cémoi Fritures chocolat lait - Bonbons de chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173287510320"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173280134905",
+   "nom": "Cémoi chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173280134905"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281753150",
+   "nom": "Baton de chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281753150"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-0052302749316",
+   "nom": "Calendrier de l’avent",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 75 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0052302749316"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-16580436",
+   "nom": "Cheverny cemoi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16580436"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281609105",
+   "nom": "Empreinte 50",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281609105"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281612242",
+   "nom": "Chocolat de couverture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281612242"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-16565081",
+   "nom": "Cheverny en Fête",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16565081"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173284785301",
+   "nom": "Pâtes de fruit aromatisées",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173284785301"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173281863507",
+   "nom": "Chocolat de couverture au lait 38%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173281863507"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3015470000822",
+   "nom": "Le Vrai Petit Ourson",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3015470000822"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-3173289218040",
+   "nom": "Petit hérisson guimauve & caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3173289218040"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-0173281403840",
+   "nom": "Grands crus cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0173281403840"
+  },
+  {
+   "id": "alimentation-et-boissons-cemoi-0052302735401",
+   "nom": "Truffles Fantaisie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0052302735401"
+  }
+ ],
+ "alimentation-et-boissons-ebro-foods": [
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038354199603",
+   "nom": "Panzani sauce pesto basilic 200g",
+   "assemblage": "italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038354199603"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038350205001",
+   "nom": "Panzani capellini 500g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038350205001"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038351480100",
+   "nom": "Pâtes Lasagne Panzani (500G)",
+   "assemblage": "Ciudad de México",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038351480100"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038351483804",
+   "nom": "Pâtes Penne Rigate Panzani",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038351483804"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038356507604",
+   "nom": "Panzani Cous Cous Paste Fainoase",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038356507604"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359002182",
+   "nom": "Penne rigate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359002182"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359004964",
+   "nom": "Panzani torti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359004964"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359912504",
+   "nom": "Tagliatelles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359912504"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359912382",
+   "nom": "Gnocchi A Poeler Fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 280g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359912382"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-5948990120405",
+   "nom": "Panzani Mălai pentru mămăliga",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 500 g,",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5948990120405"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-5948990120689",
+   "nom": "panzani",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5948990120689"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359912368",
+   "nom": "Gnocchi A Poeler",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359912368"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359912412",
+   "nom": "Girasoli - 3 fromages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359912412"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359003899",
+   "nom": "Macaroni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 1,5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359003899"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359912436",
+   "nom": "Girasoli Pesto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359912436"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-5948990120825",
+   "nom": "Orez Rizotto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5948990120825"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359002335",
+   "nom": "Sauce tomate cuisinée aux petits légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359002335"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-3038359006920",
+   "nom": "Panzani Pizza Sauce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 390 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3038359006920"
+  },
+  {
+   "id": "alimentation-et-boissons-ebro-foods-5948990120276",
+   "nom": "Orez Prefiert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 2 x 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5948990120276"
+  }
+ ]
+}

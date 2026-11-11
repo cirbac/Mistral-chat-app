@@ -1,0 +1,3622 @@
+{
+ "alimentation-boissons-coca-cola": [
+  {
+   "id": "alimentation-boissons-coca-cola-7771609000205",
+   "nom": "Coca Cola Bo",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 2.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7771609000205"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7771609002377",
+   "nom": "Sprite sabor Lima Limón",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 3 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7771609002377"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000081169",
+   "nom": "Sprite cranberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000081169"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7771605000124",
+   "nom": "Fanta sabor Naranja",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7771605000124"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7771609003794",
+   "nom": "Manzana",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 300 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7771609003794"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102141239",
+   "nom": "やかんの、麦茶",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 600ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102141239"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9555589200620",
+   "nom": "Vanila",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 320ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9555589200620"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7790895646935",
+   "nom": "Coca Cola Cero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 237ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7790895646935"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0067000112430",
+   "nom": "Fresca sans sucre Pamplemousse",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 6 x 222 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0067000112430"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900700398",
+   "nom": "Coca cola zero mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220 ML",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900700398"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000029796",
+   "nom": "Pibb Xtra",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 20oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000029796"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0784562010553",
+   "nom": "Coca- Cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0784562010553"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5449000103079",
+   "nom": "Stoney Tangawizi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5449000103079"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8992761136178",
+   "nom": "Sprite 1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8992761136178"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7702535023761",
+   "nom": "Coca Cola con café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7702535023761"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-4902102137089",
+   "nom": "Coca Cola Original Taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 700ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4902102137089"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6415600563727",
+   "nom": "Coke Zero Vanilja",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6415600563727"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9555589211190",
+   "nom": "Coca-Cola Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 180ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9555589211190"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9555589200644",
+   "nom": "Coca cola Vanilla 1.5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9555589200644"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90311161",
+   "nom": "Römerquelle still 1l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 12pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90311161"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000000375",
+   "nom": "Coca  Cola (16.9oz)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000000375"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7501055329359",
+   "nom": "Power Ade",
+   "assemblage": "Estado de Mexico",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501055329359"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-5940541539339",
+   "nom": "Cola Cherry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 330",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5940541539339"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7894900702217",
+   "nom": "Coca-cola Zero sem Açúcar 12 Garrafas 200 mL",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2,4 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7894900702217"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-9416216283068",
+   "nom": "coca cola classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 1250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9416216283068"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-3348630001132",
+   "nom": "Coca cola zero sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3348630001132"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-6901939621257",
+   "nom": "无糖可口可乐汽水",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6901939621257"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-90370281",
+   "nom": "Rani",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/90370281"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8851959108079",
+   "nom": "โค๊กสูตรไม่มีน้ำตาล",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 180 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8851959108079"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54000971",
+   "nom": "Coca cola mure et genévrier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54000971"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000093148",
+   "nom": "Sprite ginger",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000093148"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-8901764011023",
+   "nom": "200ml Coca-Cola Original Taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8901764011023"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0883315090290",
+   "nom": "Edgy orange burst",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0883315090290"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000547436",
+   "nom": "Starlight - Limited Edition",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 7.5 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000547436"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000043006",
+   "nom": "Coca cola zero calorie cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000043006"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-0049000031249",
+   "nom": "Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0049000031249"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7750236552035",
+   "nom": "Inka kola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7750236552035"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-7501055361137",
+   "nom": "Mineral Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501055361137"
+  },
+  {
+   "id": "alimentation-boissons-coca-cola-54007666",
+   "nom": "Coca cola light nrb",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/54007666"
+  }
+ ],
+ "alimentation-boissons-pepsico": [
+  {
+   "id": "alimentation-boissons-pepsico-5601151974049",
+   "nom": "Refrigerante aromatizado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,75 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5601151974049"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6111252420479",
+   "nom": "Mirinda pomme slim",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252420479"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6111252422114",
+   "nom": "Sting",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252422114"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4870001570095",
+   "nom": "Unknown",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4870001570095"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4770477231608",
+   "nom": "Pepsi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4770477231608"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139025336",
+   "nom": "Pepsi Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139025336"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7501022013861",
+   "nom": "Pepsi black",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501022013861"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6111252421759",
+   "nom": "Pepsi Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252421759"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5601151971444",
+   "nom": "Lima",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5601151971444"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139025848",
+   "nom": "Pepsi Electric Blue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139025848"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800001771",
+   "nom": "Pepsi-cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800001771"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4770477231547",
+   "nom": "pepsi max",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4770477231547"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6130743018346",
+   "nom": "Pepsi 2L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130743018346"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497048477",
+   "nom": "Pepsi zero cytryna",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497048477"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4823063122641",
+   "nom": "Напій &quot;Пепсі-кола&quot; безалкогольний, сильногазований, на ароматизаторах, з цукром та підсолоджувачами",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4823063122641"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497301503",
+   "nom": "Pepsi Max 1.5",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497301503"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5741000155264",
+   "nom": "Pepsi MAX lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5741000155264"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4770477231875",
+   "nom": "kola be cukraus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4770477231875"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-01229707",
+   "nom": "Mtn dew",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01229707"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7591031001980",
+   "nom": "MINALBA 600ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 600",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7591031001980"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8934588063176",
+   "nom": "Nước uống đóng chai Aquafina 5L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 5L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934588063176"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5285000325406",
+   "nom": "Pepsi Diet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285000325406"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7791813888376",
+   "nom": "PEPSI LATA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 354ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7791813888376"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6111252421780",
+   "nom": "Pepsi citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111252421780"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800154842",
+   "nom": "Schwip Schwap Zero - Cola & Orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800154842"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8858998581115",
+   "nom": "เป๊ปซี่แม๊ก",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 550 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8858998581115"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8410494301408",
+   "nom": "MAX ZERO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 1,75L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410494301408"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6223001360186",
+   "nom": "Diet Pepsi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 320ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6223001360186"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800309112",
+   "nom": "Pepsi Max Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800309112"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000567490",
+   "nom": "brisk fruit punch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000567490"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0069000204252",
+   "nom": "Diet Caffeine Free Cola",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 355 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0069000204252"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000018794",
+   "nom": "Zero sugar Pepsi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000018794"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800304827",
+   "nom": "Pepsi max no caffeine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800304827"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7501031302819",
+   "nom": "Mirinda",
+   "assemblage": "México",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score NOT-APPLICABLE · 400 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501031302819"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000171970",
+   "nom": "Diet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 7.5 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000171970"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8715600248869",
+   "nom": "Pepsi Zero Cherry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8715600248869"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497048491",
+   "nom": "Pepsi Max Cytrynowe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497048491"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-01266805",
+   "nom": "Crystal Pepsi",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 12 fl oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01266805"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6917277021024",
+   "nom": "Вода с добавлением вкусом ароматических веществ PEPSI-COLA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1x330ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6917277021024"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5949000505342",
+   "nom": "Pepsi Cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949000505342"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8410494300012",
+   "nom": "Pepsi.Ligth",
+   "assemblage": "Vitoria",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410494300012"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800305930",
+   "nom": "Max Lime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800305930"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8719128117454",
+   "nom": "Light Mirinda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 440 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8719128117454"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6130743003243",
+   "nom": "Mirinda orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1.5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130743003243"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6221031490132",
+   "nom": "Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6221031490132"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139016600",
+   "nom": "Pepsi Electric",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139016600"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8858998581559",
+   "nom": "เป๊ปซี่",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 325 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8858998581559"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800168788",
+   "nom": "Diet Caffeine Free 2 Litres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800168788"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8606003341250",
+   "nom": "Pepsi Lime",
+   "assemblage": "Dobanovci",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8606003341250"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8902080365029",
+   "nom": "Mountain dew 250ml",
+   "assemblage": "varun beverages maharastra",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 6",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8902080365029"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8001160005142",
+   "nom": "Max zero caffeina",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8001160005142"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6223001360582",
+   "nom": "LOW CALORIE CARBONATED BEVERAGE SWEETENED WITH ASPARTAME AND ACESULFAME K",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 320ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6223001360582"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000172007",
+   "nom": "Pepsi diet cola soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000172007"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4260231225559",
+   "nom": "Pepsi Mango flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4260231225559"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8594008049328",
+   "nom": "Mango příchuť",
+   "assemblage": "Česko",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 330 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594008049328"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8594008040905",
+   "nom": "Pepsi Sklo F / PVC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594008040905"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7591031003229",
+   "nom": "plaza Refresco Pepsi lata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 355cm³",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7591031003229"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0069000202616",
+   "nom": "Pepsi diète sans caféine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0069000202616"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000203206",
+   "nom": "pepsi zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000203206"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8410494301378",
+   "nom": "Refresco cola light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,75 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410494301378"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000801914",
+   "nom": "Pepsi Cola Diet Drink -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000801914"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497041157",
+   "nom": "Pepsi ananas 0.85",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497041157"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139015894",
+   "nom": "Max Mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139015894"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5741000224533",
+   "nom": "Soda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5741000224533"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-3830065020388",
+   "nom": "Pepsi max taste no sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3830065020388"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000057489",
+   "nom": "diet pepsi 16days",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000057489"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7401005912696",
+   "nom": "Pepsi 8 oz",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7401005912696"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6430057695715",
+   "nom": "Peach Oolong",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6430057695715"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139025404",
+   "nom": "Cola &quot;Zero Zucker Lemon Geschmack&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1.25l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139025404"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497036634",
+   "nom": "Pepsi zero mango",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497036634"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-9414789154495",
+   "nom": "Pepsi Max Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9414789154495"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000062148",
+   "nom": "Mountain Dew Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000062148"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7791813222507",
+   "nom": "Twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1.5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7791813222507"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-9556404119325",
+   "nom": "Mug sarsaparilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 320ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556404119325"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139018413",
+   "nom": "Pepsi zero sugar - starwberries 'n' cream flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139018413"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139010363",
+   "nom": "MAXIMUM TASTE NO SUGAR PEPSI MAX",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139010363"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-6917277000173",
+   "nom": "Напиток безалкогольный газированный",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6917277000173"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139007929",
+   "nom": "Pepsi max cans",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8.3kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139007929"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8715600248920",
+   "nom": "Zero Sugar Lemon Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8715600248920"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0012000063442",
+   "nom": "Mrinda Citru zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 330",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0012000063442"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5900497048613",
+   "nom": "Pepsi twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5900497048613"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-0069000162774",
+   "nom": "Electric Zesty Citrus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0069000162774"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8595723300640",
+   "nom": "Lemon Zero Sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8595723300640"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5690542008142",
+   "nom": "Pepsi max Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5690542008142"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8934588462115",
+   "nom": "Rasberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934588462115"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-7772116030976",
+   "nom": "Black",
+   "assemblage": "Bolivia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7772116030976"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-8801056175955",
+   "nom": "Pepsi Zero Sugar Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801056175955"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139020874",
+   "nom": "max cheery",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 2ltr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139020874"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139026302",
+   "nom": "Pepsi Gingerbread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139026302"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5741000232507",
+   "nom": "PEPSI MAX LEMON FLAVOUR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5741000232507"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5949000500040",
+   "nom": "CU GUST DE LAM",
+   "assemblage": "Romania",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 3",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949000500040"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4062139001729",
+   "nom": "Cola - Max Cherry Zero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4062139001729"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5949000505359",
+   "nom": "Pepsi twist lamaie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949000505359"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5949000022047",
+   "nom": "Max",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949000022047"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800157416",
+   "nom": "Schwip Schwap Zero - Lemon Taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800157416"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5949000506400",
+   "nom": "Green Ice Tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5949000506400"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800158956",
+   "nom": "Schwip Schwap Zero ohne Koffein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800158956"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800151360",
+   "nom": "Pepsi, Cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 1,5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800151360"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5942204004598",
+   "nom": "7 up zero sugar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5942204004598"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800123084",
+   "nom": "Pepsi Light without caffeine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800123084"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800139658",
+   "nom": "Personen Cola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score NOT-APPLICABLE · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800139658"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-5410188037272",
+   "nom": "Pepsi Max Zero Caffeine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score NOT-APPLICABLE · 33 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410188037272"
+  },
+  {
+   "id": "alimentation-boissons-pepsico-4060800157331",
+   "nom": "Mirinda light Orange Geschmack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score NOT-APPLICABLE · 1,5 Liter",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4060800157331"
+  }
+ ],
+ "alimentation-boissons-suntory": [
+  {
+   "id": "alimentation-boissons-suntory-4901777185319",
+   "nom": "Rich Malt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777185319"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777411760",
+   "nom": "緑茶 伊右衛門 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 500mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777411760"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777376946",
+   "nom": "三得利布兰迪瓶装黑咖啡",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 950ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777376946"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777316539",
+   "nom": "GREAN DA・KA・RA 温和麦茶 600毫升瓶装",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 600ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777316539"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777205109",
+   "nom": "Baumkuchen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777205109"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686958031",
+   "nom": "Roku gin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686958031"
+  },
+  {
+   "id": "alimentation-boissons-suntory-9316417007886",
+   "nom": "Double Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9316417007886"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777077416",
+   "nom": "Dekavita C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 210ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777077416"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686934073",
+   "nom": "Hibiki Master‘s Select",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 700ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686934073"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777064461",
+   "nom": "C.C. Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777064461"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777211926",
+   "nom": "All Free Non-Alcoholic Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777211926"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777201439",
+   "nom": "Kaku Highball",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777201439"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777364585",
+   "nom": "Sparkling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1050ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777364585"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777435315",
+   "nom": "星巴克 咖啡拿铁",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 450ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777435315"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777435032",
+   "nom": "家庭饮料吧 无糖百事可乐浓缩液",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 340ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777435032"
+  },
+  {
+   "id": "alimentation-boissons-suntory-8934588870101",
+   "nom": "Oolong Tea+",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934588870101"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777349926",
+   "nom": "Craft Boss微糖500ml塑料瓶装",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777349926"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777254800",
+   "nom": "The Yamazaki Single Malt Whisky",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 700 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777254800"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777261433",
+   "nom": "Honey and lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777261433"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777317376",
+   "nom": "Iemon Green tea with matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 525 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777317376"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777254695",
+   "nom": "The Hakushu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777254695"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777308725",
+   "nom": "Oolong tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 600 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777308725"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777192607",
+   "nom": "Strong zero double lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777192607"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777279421",
+   "nom": "The chita",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 700 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777279421"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777272187",
+   "nom": "Grape Natural Water",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score NOT-APPLICABLE · 280 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777272187"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777137738",
+   "nom": "C.C.Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777137738"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777266339",
+   "nom": "Strong Zéro Saveur Pèche",
+   "assemblage": "Japon",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score C · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777266339"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0088857019932",
+   "nom": "Boss Coffee Rainbow Mountain Blend",
+   "assemblage": "Japan",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 179 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0088857019932"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777340183",
+   "nom": "Grape",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777340183"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777301092",
+   "nom": "Japanese apple juice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777301092"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777392885",
+   "nom": "Japanese Ale the premium malt's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777392885"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777360136",
+   "nom": "ほろよいシュワビタサワー",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score NOT-APPLICABLE · 350ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777360136"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777385610",
+   "nom": "Lemonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777385610"
+  },
+  {
+   "id": "alimentation-boissons-suntory-8858998584116",
+   "nom": "Tasty oolong",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8858998584116"
+  },
+  {
+   "id": "alimentation-boissons-suntory-9933788293108",
+   "nom": "Tea +",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9933788293108"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777368644",
+   "nom": "Horoyoi Acerola",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777368644"
+  },
+  {
+   "id": "alimentation-boissons-suntory-9415767068216",
+   "nom": "Iced Late",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 237 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9415767068216"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777126039",
+   "nom": "Suntory Japanese Whisky Yamazaki 18 Jahre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777126039"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777376243",
+   "nom": "Non-alcoholic Red Wine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777376243"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777376403",
+   "nom": "Non-alcoholic White Wine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 350 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777376403"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777292321",
+   "nom": "Hibiki",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777292321"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777412385",
+   "nom": "Cc Lemon Concentrate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777412385"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777432277",
+   "nom": "超すっぱ！C.C.Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777432277"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777393387",
+   "nom": "Premium Malts Beer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777393387"
+  },
+  {
+   "id": "alimentation-boissons-suntory-5010278104763",
+   "nom": "微醉白桃",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010278104763"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777428386",
+   "nom": "C.C Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777428386"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777375345",
+   "nom": "Iemon Houjicha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777375345"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686004585",
+   "nom": "-196 Lemon Vodka Seltzer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686004585"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686009276",
+   "nom": "-196 Grapefruit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686009276"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777400795",
+   "nom": "The Brew 糖質0",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777400795"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777416772",
+   "nom": "白州ハイボール9%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777416772"
+  },
+  {
+   "id": "alimentation-boissons-suntory-94173826",
+   "nom": "伊右衛門　特茶",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/94173826"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777432208",
+   "nom": "Apple sparkling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777432208"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686009108",
+   "nom": "-196 Lemon Seltzer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686009108"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777422414",
+   "nom": "C.C. Lemon Plus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777422414"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777385115",
+   "nom": "Honey & Lemon Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777385115"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686010814",
+   "nom": "TOKI SUNTORY WHISKY BLACK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686010814"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777423312",
+   "nom": "Oolong Mango And Mandarin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777423312"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777439504",
+   "nom": "Corn soup Boss Deli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777439504"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777416239",
+   "nom": "The Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777416239"
+  },
+  {
+   "id": "alimentation-boissons-suntory-0080686025429",
+   "nom": "Vodka Soda Peach",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0080686025429"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777278035",
+   "nom": "Premium Boss Light Sugar Rich Canned Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777278035"
+  },
+  {
+   "id": "alimentation-boissons-suntory-8858998589265",
+   "nom": "Yuzu Flavored Water With Vitamin And Minerals",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8858998589265"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777441835",
+   "nom": "-天然水-きりっと果実スカッシュ！1本500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777441835"
+  },
+  {
+   "id": "alimentation-boissons-suntory-5010278104893",
+   "nom": "Strong Zero Lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010278104893"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777439702",
+   "nom": "Craft Boss カフェモカ Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777439702"
+  },
+  {
+   "id": "alimentation-boissons-suntory-4901777429772",
+   "nom": "Craft Boss ミルクラテ",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4901777429772"
+  }
+ ],
+ "alimentation-et-boissons-ferrero": [
+  {
+   "id": "alimentation-et-boissons-ferrero-3017620421006",
+   "nom": "Pâte à tartiner Nutella noisettes et cacao - 750g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620421006"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3017620420702",
+   "nom": "Nutella pâte à tartiner aux noisettes et au cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620420702"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80135876",
+   "nom": "Nutella Hazelnut Spread with Cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80135876"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500310397",
+   "nom": "Biscuits NUTELLA Biscuits Noisettes et Cacao x12 - 166g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 166 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500310397"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500227848",
+   "nom": "Biscuits NUTELLA B-ready Noisettes et Cacao x6 - 132g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 132 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500227848"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500217078",
+   "nom": "B-ready",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500217078"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500425183",
+   "nom": "Glace au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 230 g / 470 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500425183"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500390306",
+   "nom": "Nutella Biscuits t14",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 193.2g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500390306"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80809180",
+   "nom": "Nutella pate a tartiner noisettes-cacao 25g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 25g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80809180"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80751151",
+   "nom": "Nutella pate a tartiner noisettes-cacao barquette 15 gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 15 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80751151"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3017620420078",
+   "nom": "Nutella pate a tartiner noisettes-cacao t.825 150g gratuit pot de 975 gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 975 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620420078"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800800056",
+   "nom": "Nutella & Go",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 52 g (1.8 OZ)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800800056"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500382769",
+   "nom": "Nutella biscuits🍪",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 207 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500382769"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500131329",
+   "nom": "Nutella pate a tartiner noisettes-cacao t3000 pot de 3 kg",
+   "assemblage": "Ferrero S.p.A",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 3000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500131329"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800895250",
+   "nom": "Hazelnut Spread With Cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800895250"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500045497",
+   "nom": "Biscuits Nutella & Go x2 packs - 104g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 2 x 52 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500045497"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500264850",
+   "nom": "Biscuits Nutella B-ready x2 gaufrettes fourrées - 44g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 44 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500264850"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500413654",
+   "nom": "Nutella Croissant",
+   "assemblage": "Fresystem S.p.a.",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 340 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500413654"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80051671",
+   "nom": "15000585 Nutella Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80051671"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500450918",
+   "nom": "Nutella donut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 240g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500450918"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500436967",
+   "nom": "Nutella crêpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 240 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500436967"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500090046",
+   "nom": "KREM DO SMAROWANIA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 825 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500090046"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500392935",
+   "nom": "Nutella-Muffin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 172 g (2 x 86 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500392935"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500310007",
+   "nom": "biscuitts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 304g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500310007"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80946458",
+   "nom": "Nutella Monoporzioni",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 90 g (6 x 15 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80946458"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800820016",
+   "nom": "Nutella B-ready",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 22 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800820016"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80768937",
+   "nom": "Nutella Mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 30 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80768937"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800892303",
+   "nom": "Nutella Food Service",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 6.6 lb",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800892303"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500400807",
+   "nom": "Nutella Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 193 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500400807"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800800094",
+   "nom": "nutella & GO! Hazelnut Spread + Pretzel Sticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 54 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800800094"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80050346",
+   "nom": "Nutelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 825 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80050346"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8025620422003",
+   "nom": "Pate a tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8025620422003"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800800162",
+   "nom": "Hazelnut Spread + Breadsticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 16 x 1.8 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800800162"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500418208",
+   "nom": "Nutella Hazelnut Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500418208"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-9300698501454",
+   "nom": "نوتيلا جالون 3 كجم",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300698501454"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80956631",
+   "nom": "Nutella&go",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 48 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80956631"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-9416470242016",
+   "nom": "Pâte à tartiner aux noisettes et au cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9416470242016"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0062020050526",
+   "nom": "nutella &GO!",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 52 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0062020050526"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-01112117",
+   "nom": "Vegetarische Eierspätzle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01112117"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0062020182203",
+   "nom": "Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 276 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0062020182203"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-9300698000148",
+   "nom": "NUTELLA H/NUT CHOC SPRD 1Kg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300698000148"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-7896002301077",
+   "nom": "Bisnaguinha Nutrellinhas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7896002301077"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3017620406003",
+   "nom": "Nutella pâte à tartiner aux noisettes et au cacao 600g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620406003"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80050100",
+   "nom": "Biscuits Nutella & Go pack - 52g",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 52 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80050100"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500278802",
+   "nom": "Nutella GR950 Gran Formato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 950g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500278802"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3760008851956",
+   "nom": "4 mini beignets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760008851956"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80051657",
+   "nom": "Nutella 30g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 30 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80051657"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-6135847000259",
+   "nom": "Tartinella goût Bueno",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6135847000259"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0009800801107",
+   "nom": "Nutella Mini Cups",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 10 x 5.2 OZ (150 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0009800801107"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500358696",
+   "nom": "Chocolate spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500358696"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500310465",
+   "nom": "Nutella Ferrero biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500310465"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500408797",
+   "nom": "Calendrier de l’avant nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 528,6 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500408797"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3017620402678",
+   "nom": "Nutella pâte à tartiner aux noisettes et au cacao 220g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620402678"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500295137",
+   "nom": "Ferrero - Pâte à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500295137"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-36454860",
+   "nom": "Nutella glass",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/36454860"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-5020411121182",
+   "nom": "Nutella & Go!",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 48 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5020411121182"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3400930219997",
+   "nom": "vitamine d",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3400930219997"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-00000024",
+   "nom": "Croccante con pistacchi e miele",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00000024"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500292310",
+   "nom": "Nutella pate a tartiner noisettes-cacao pot 1,35 kg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 1350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500292310"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3760008851963",
+   "nom": "Mini Muffins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 104g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760008851963"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0260150013125",
+   "nom": "Mini beignets au nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260150013125"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500847848",
+   "nom": "Nutella b ready",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500847848"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500259634",
+   "nom": "Biscuits B Ready noisettes/cacao Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 573 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500259634"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3308841694684",
+   "nom": "Crepe au nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3308841694684"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3760113471773",
+   "nom": "Biscuits nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760113471773"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500106877",
+   "nom": "Nutella 120 x 15gr",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 120x15g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500106877"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0201711049207",
+   "nom": "Galette des rois au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0201711049207"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500349816",
+   "nom": "Nutella  cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500349816"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80758785",
+   "nom": "Nutella & Go With Estathe Limone Drink",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80758785"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-00988639",
+   "nom": "Nutella, hazelnut spread with cocoa, hazelnut",
+   "assemblage": "Germany",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0,52 oz (15 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00988639"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0261603024279",
+   "nom": "Muffins au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0261603024279"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500281420",
+   "nom": "Nutella 1 kg piping bag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1000 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500281420"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3017620420467",
+   "nom": "Nutella Coffret",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620420467"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-5413548015613",
+   "nom": "Hazelnootpasta met Cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 15 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5413548015613"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3498844055855",
+   "nom": "Madeleines recettes au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3498844055855"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-2836768013123",
+   "nom": "Mini beignet nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2836768013123"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3760275841254",
+   "nom": "Cookie nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760275841254"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-8000500337806",
+   "nom": "Hazelnut speard with cocoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000500337806"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-3478920033342",
+   "nom": "Galette au nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3478920033342"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0209551035756",
+   "nom": "Galette Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0209551035756"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0260274071506",
+   "nom": "Gâteau nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0260274071506"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-2000000286730",
+   "nom": "Donut nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000286730"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-93698535",
+   "nom": "Hazelnut Spread With Cocoa + Breadsticks",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 48 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/93698535"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-80901211",
+   "nom": "Nutella Break",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/80901211"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-42095811",
+   "nom": "Nutella mignature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/42095811"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-2836712022966",
+   "nom": "Chausson au Nutella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2836712022966"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-2836772020995",
+   "nom": "2 Madeleines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2836772020995"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0202109045597",
+   "nom": "Galette chocolat noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0202109045597"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-0062020000347",
+   "nom": "Tartinade aux noisettes avec cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0062020000347"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-6956732008323",
+   "nom": "Chocolate brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6956732008323"
+  },
+  {
+   "id": "alimentation-et-boissons-ferrero-20067472",
+   "nom": "Ausweishülle 180X130MM Klapphülle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20067472"
+  }
+ ],
+ "alimentation-boissons-mondelez": [
+  {
+   "id": "alimentation-boissons-mondelez-6111031005576",
+   "nom": "original  oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 55g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005576"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6111031005590",
+   "nom": "Oreo chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005590"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300744663",
+   "nom": "Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 220 g (5 x 44 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300744663"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6111031005194",
+   "nom": "Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005194"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5010029227062",
+   "nom": "Oreo o's",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 350g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010029227062"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202211041",
+   "nom": "Milka Oreo 20g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202211041"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210707284",
+   "nom": "Oreo Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 462 g (3 * 154 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210707284"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300617820",
+   "nom": "Milka Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300617820"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210477439",
+   "nom": "Oreo Golden",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 500 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210477439"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5010029227451",
+   "nom": "OREO O'S Cereal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5010029227451"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-84100733",
+   "nom": "Original Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 66g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/84100733"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210653031",
+   "nom": "Cookies with cocoa and vanilla flavored cream filling Oreo Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 95 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210653031"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210625243",
+   "nom": "Oreo golden biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210625243"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300650353",
+   "nom": "Milka - Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 200 g (2 x 100g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300650353"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300491215",
+   "nom": "Oreo bañadas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 6x41g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300491215"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300491161",
+   "nom": "Bañadas chocolate blanco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 246g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300491161"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210956163",
+   "nom": "s ib m Oreo Brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210956163"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8934680033428",
+   "nom": "Wafer Roll",
+   "assemblage": "wietnam",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 54g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8934680033428"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8436575298764",
+   "nom": "ice cream with oreo cookie pieces",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8436575298764"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-00551281",
+   "nom": "Oreo dark chocolate creme flavored",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00551281"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201120931",
+   "nom": "Oreo White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 100 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201120931"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060251",
+   "nom": "Chocolate Sandwich Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 530 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060251"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210785114",
+   "nom": "Cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210785114"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000047009",
+   "nom": "OREO Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 2.4oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000047009"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210309358",
+   "nom": "Печенье Oreo Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 95 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210309358"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210826053",
+   "nom": "מילקה אוריאו סנדוויץ'",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 92 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210826053"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210575401",
+   "nom": "Galleta Oreo original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 63 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210575401"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202298714",
+   "nom": "Oreo Doble Crema",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 157 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202298714"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202309236",
+   "nom": "Gingerbread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202309236"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210277503",
+   "nom": "Milka MMMAX Oreo",
+   "assemblage": "28078 Bremen",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210277503"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202252396",
+   "nom": "OREO 30/-",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202252396"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-3040400220193",
+   "nom": "Donut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 144 g e",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3040400220193"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8410128670733",
+   "nom": "Milkshake oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 200 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410128670733"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210991881",
+   "nom": "MMMAX Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210991881"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0066721026590",
+   "nom": "The Original Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 270 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066721026590"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6111031005200",
+   "nom": "6111031005200",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005200"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-9300650452701",
+   "nom": "OREO Original Choc Cookie Sandwich with Sweet Vanilla Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300650452701"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201388515",
+   "nom": "Oreo remix tiramisu et vanilla flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 157g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201388515"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6111031005224",
+   "nom": "oreo chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111031005224"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210384362",
+   "nom": "s ib ib oreo 300",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210384362"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5413321002045",
+   "nom": "OREO muffin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5413321002045"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210707253",
+   "nom": "Double Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 471 g, 3 rouleaux de 157 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210707253"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210575395",
+   "nom": "Chopeo espacial",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 252g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210575395"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201391300",
+   "nom": "OREO OREO REMIX FLAVOUR OREO UNLO ReMix TIRAMISU &",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201391300"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210704740",
+   "nom": "Milka+oreo Riegel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 32g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210704740"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201756741",
+   "nom": "Sandwich Biscuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201756741"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201802028",
+   "nom": "Mini Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 6 x 19 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201802028"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201735258",
+   "nom": "Galletitas Oreo pack ahorro x3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 354 g (3 paquetes)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201735258"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-6901668005892",
+   "nom": "Galleta de trigo sabor matcha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 97g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6901668005892"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-4893049150012",
+   "nom": "Oreo Sandwich Cookies",
+   "assemblage": "Indonesia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 248.4g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4893049150012"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201388683",
+   "nom": "Vanilla Latte Flavour Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201388683"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201123888",
+   "nom": "Crunchies original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201123888"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210766175",
+   "nom": "t ib oreo blag",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210766175"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300830151",
+   "nom": "Biscoito Original Batman Oreo Pacote 90g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 90g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300830151"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201413705",
+   "nom": "Oreo Spooky - Sabor vainilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 154g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201413705"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060138",
+   "nom": "Double stuff",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 29 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060138"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300442507",
+   "nom": "Crème glacée Oreo à la myrtille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 119.6g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300442507"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000069957",
+   "nom": "Oreo Snacksters",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000069957"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000077082",
+   "nom": "Golden Gluten Free Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000077082"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0066721028921",
+   "nom": "Oreo à l'érable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 261g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066721028921"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201820275",
+   "nom": "Biscuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201820275"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000081423",
+   "nom": "Oreo Loaded",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000081423"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210544926",
+   "nom": "Milka Oreo White",
+   "assemblage": "Neprecizat",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210544926"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300722197",
+   "nom": "Galletas Oreo 126 GR",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300722197"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210785145",
+   "nom": "Oreo cake",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 288 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210785145"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210835338",
+   "nom": "Oreo choco Brownie",
+   "assemblage": "Spania",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 176 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210835338"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201505059",
+   "nom": "t ib Oreo remix малина ваниль",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 157g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201505059"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210635105",
+   "nom": "Oreo Strawberry Cheesecake Sandwich Biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 154 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210635105"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622300761349",
+   "nom": "Oreo Mini Stuffed With Vanilla Cream Cookies imp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 58.4g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300761349"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0066721026606",
+   "nom": "Oreo double creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0066721026606"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201391270",
+   "nom": "Oreo Remix - Tiramisu & Vanilla Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 157 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201391270"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-5060811383247",
+   "nom": "Grenade Carb Killa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060811383247"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201402686",
+   "nom": "Oreo Dutch Cocoa Wafer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 117 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201402686"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000006808",
+   "nom": "mini",
+   "assemblage": "México",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 3 oz (85 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000006808"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060244",
+   "nom": "Golden Double Stuf Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 lb",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060244"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202045615",
+   "nom": "Oreo Gingerbread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 154 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202045615"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000014735",
+   "nom": "WHITE FUDGE COVERED SANDWICH COOKIES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 8.5 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000014735"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8051369003791",
+   "nom": "OREO ICE CREAM MINI SANDWICHES",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8051369003791"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210717986",
+   "nom": "Lacta Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 37g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210717986"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0814109021343",
+   "nom": "Cookie pop popcorn oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0814109021343"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201384821",
+   "nom": "OREO بالشوكو لا تة 4قطع",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201384821"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202245664",
+   "nom": "oreos night twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202245664"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8051369005306",
+   "nom": "Oreo Ice Cream Sandwitch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8051369005306"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-8051369005320",
+   "nom": "Kanapka lodowa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8051369005320"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622202252372",
+   "nom": "Oreo strawberry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622202252372"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210501240",
+   "nom": "Oreo - Alpen Gold Oreo - 95 G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 95 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210501240"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201501143",
+   "nom": "Oreo Remix Fresa-Nata",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 157g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201501143"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210708434",
+   "nom": "Oreo Dark and White Chocolate Flavoured Cream Sandwich Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 133g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210708434"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-4007993017547",
+   "nom": "Oreo Ice Cream Sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 80 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4007993017547"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201413736",
+   "nom": "Oreo Spooky Vanilla Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201413736"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210799548",
+   "nom": "lacta strawberry oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 105 γρ",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210799548"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201500047",
+   "nom": "OREO Remix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201500047"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000068424",
+   "nom": "Java Chip Flavor Creme Oreo",
+   "assemblage": "East Hanover",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 lb 1 oz (482 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000068424"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060282",
+   "nom": "OREO Lemon Flavor Creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060282"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-0044000060398",
+   "nom": "Peanut butter oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0044000060398"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210110244",
+   "nom": "Vanilla Oreo Cookies",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 36 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210110244"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201402709",
+   "nom": "Double Choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 117 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201402709"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622210994745",
+   "nom": "My lacta oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622210994745"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201699031",
+   "nom": "Milk Oreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 128 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201699031"
+  },
+  {
+   "id": "alimentation-boissons-mondelez-7622201389215",
+   "nom": "Mkp2 Oreo tiramisu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622201389215"
+  }
+ ]
+}
