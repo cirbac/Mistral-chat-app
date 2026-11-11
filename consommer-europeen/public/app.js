@@ -601,6 +601,69 @@ async function showProduit(id) {
     a.rel = 'noopener noreferrer';
     a.textContent = 'Voir le produit sur Open Food Facts ↗';
     el.detail.appendChild(a);
+
+    const hOff = document.createElement('h3');
+    hOff.textContent = 'Données Open Food Facts';
+    el.detail.appendChild(hOff);
+    const box = document.createElement('div');
+    box.className = 'off-box';
+    box.textContent = 'Chargement des données Open Food Facts…';
+    el.detail.appendChild(box);
+    fetch(`/api/produits/${p.id}/off`)
+      .then((r) => r.json())
+      .then((off) => {
+        box.textContent = '';
+        if (!off || !off.disponible) {
+          box.textContent = 'Données Open Food Facts indisponibles pour ce produit.';
+          return;
+        }
+        if (off.image) {
+          const img = document.createElement('img');
+          img.className = 'off-img';
+          img.src = off.image;
+          img.alt = off.nom || p.nom;
+          box.appendChild(img);
+        }
+        const scores = document.createElement('div');
+        scores.className = 'off-scores';
+        const mk = (label, grade) => {
+          if (!grade) return;
+          const b = document.createElement('span');
+          b.className = `off-score off-${String(grade).toLowerCase()}`;
+          b.textContent = `${label} ${String(grade).toUpperCase()}`;
+          scores.appendChild(b);
+        };
+        mk('Nutri-Score', off.nutriscore);
+        mk('Green-Score', off.green);
+        if (off.nova) {
+          const b = document.createElement('span');
+          b.className = 'off-score off-nova';
+          b.textContent = `NOVA ${off.nova}`;
+          scores.appendChild(b);
+        }
+        if (scores.childNodes.length) box.appendChild(scores);
+        const dlOff = document.createElement('dl');
+        if (off.marques) ligneDtDd(dlOff, 'Marques (OFF)', off.marques);
+        if (off.quantite) ligneDtDd(dlOff, 'Quantité', off.quantite);
+        if (off.origines) ligneDtDd(dlOff, 'Origine des ingrédients', off.origines);
+        if (off.fabrication) ligneDtDd(dlOff, 'Lieu de fabrication', off.fabrication);
+        if (off.emballage) ligneDtDd(dlOff, 'Emballage', off.emballage);
+        if (off.pays) ligneDtDd(dlOff, 'Pays de vente', off.pays);
+        if (off.allergenes && off.allergenes.length) ligneDtDd(dlOff, 'Allergènes', off.allergenes.join(', '));
+        if (off.labels && off.labels.length) ligneDtDd(dlOff, 'Labels (OFF)', off.labels.map((l) => l.replace(/^en:/, '')).join(', '));
+        if (dlOff.childNodes.length) box.appendChild(dlOff);
+        if (off.ingredients) {
+          const hi = document.createElement('h4');
+          hi.textContent = 'Ingrédients';
+          const pi = document.createElement('p');
+          pi.className = 'off-ingredients';
+          pi.textContent = off.ingredients;
+          box.append(hi, pi);
+        }
+      })
+      .catch(() => {
+        box.textContent = 'Données Open Food Facts indisponibles pour le moment.';
+      });
   }
 
   if (p.certifications.length > 0) {

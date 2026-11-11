@@ -452,6 +452,87 @@ app.get('/api/produits/:id', (req, res) => {
   res.status(404).json({ error: 'Produit introuvable.' });
 });
 
+const offCache = new Map<string, Record<string, unknown>>();
+
+app.get('/api/produits/:id/off', async (req, res) => {
+  try {
+    let found: Produit | undefined;
+    for (const s of secteurs) {
+      for (const g of s.groupes) {
+        const p = g.produits.find((x) => x.id === req.params.id);
+        if (p) {
+          found = p;
+          break;
+        }
+      }
+      if (found) break;
+    }
+    if (!found) {
+      res.status(404).json({ error: 'Produit introuvable.' });
+      return;
+    }
+    const m = (found.openfoodfacts ?? '').match(/produit\/(\d+)/);
+    if (!m) {
+      res.json({ disponible: false });
+      return;
+    }
+    const code = m[1];
+    const cached = offCache.get(code);
+    if (cached) {
+      res.json(cached);
+      return;
+    }
+    const fields =
+      'code,product_name,brands,quantity,nutriscore_grade,ecoscore_grade,nova_group,ingredients_text,allergens_tags,labels_tags,origins,manufacturing_places,packaging,countries,image_front_url';
+    for (let attempt = 0; attempt < 5; attempt++) {
+      try {
+        const r = await fetch(
+          `https://world.openfoodfacts.org/api/v0/product/${code}.json?fields=${fields}`,
+          { headers: { 'User-Agent': 'CirbaConsult/1.0 (contact alexis.abric@cirbaconsult.com)' } },
+        );
+        if (r.status === 200) {
+          const j = (await r.json()) as { status?: number; product?: Record<string, unknown> };
+          if (j.status === 1 && j.product) {
+            const p = j.product as Record<string, any>;
+            const out = {
+              disponible: true,
+              code,
+              nom: p.product_name ?? null,
+              marques: p.brands ?? null,
+              quantite: p.quantity ?? null,
+              nutriscore: p.nutriscore_grade ?? null,
+              green: p.ecoscore_grade ?? null,
+              nova: p.nova_group ?? null,
+              ingredients: p.ingredients_text ?? null,
+              allergenes: (p.allergens_tags ?? []).map((t: string) => t.replace(/^en:/, '')),
+              labels: p.labels_tags ?? [],
+              origines: p.origins ?? null,
+              fabrication: p.manufacturing_places ?? null,
+              emballage: p.packaging ?? null,
+              pays: p.countries ?? null,
+              image: p.image_front_url ?? null,
+            };
+            offCache.set(code, out);
+            res.json(out);
+            return;
+          }
+        }
+        if (r.status === 404) {
+          res.json({ disponible: false });
+          return;
+        }
+        await new Promise((r2) => setTimeout(r2, 1500 + attempt * 1000));
+      } catch {
+        await new Promise((r2) => setTimeout(r2, 1500 + attempt * 1000));
+      }
+    }
+    res.json({ disponible: false });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: 'Erreur serveur.' });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`Consommer européen démarré sur http://localhost:${PORT}`);
 });
