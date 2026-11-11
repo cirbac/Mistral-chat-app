@@ -39,7 +39,6 @@ const el = {
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
   homeGrid: document.getElementById('home-grid'),
-  catsNav: document.getElementById('cats-nav'),
   pharesWrap: document.getElementById('phares-wrap'),
   pharesPrev: document.getElementById('phares-prev'),
   pharesNext: document.getElementById('phares-next'),
@@ -178,16 +177,6 @@ function renderHome() {
   el.results.textContent = '';
   el.chips.textContent = '';
   el.homeGrid.textContent = '';
-  el.catsNav.textContent = '';
-  const MAIN_CATS = ['01', '04', '06', '08', '09', '10'];
-  for (const s of state.meta.secteurs.filter((x) => MAIN_CATS.includes(x.num))) {
-    const navBtn = document.createElement('button');
-    navBtn.type = 'button';
-    navBtn.className = 'cats-nav-btn';
-    navBtn.textContent = s.nom;
-    navBtn.addEventListener('click', () => showSecteur(s.id));
-    el.catsNav.appendChild(navBtn);
-  }
   for (const s of state.meta.secteurs) {
     const card = document.createElement('button');
     card.type = 'button';
