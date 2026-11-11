@@ -185,7 +185,7 @@ function renderHome() {
     const navBtn = document.createElement('button');
     navBtn.type = 'button';
     navBtn.className = 'cats-nav-btn';
-    navBtn.textContent = `${s.num} · ${s.nom}`;
+    navBtn.textContent = s.nom;
     navBtn.addEventListener('click', () => showSecteur(s.id));
     el.catsNav.appendChild(navBtn);
   }
