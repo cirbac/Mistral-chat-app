@@ -20,6 +20,11 @@ body {
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   background: #11204c;
   color: var(--texte);
+  line-height: 1.55;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
 }
 
 .page {
@@ -154,10 +159,14 @@ body {
   background-position: center, right 6% top 12%, center;
   background-repeat: no-repeat, no-repeat, no-repeat;
   image-rendering: pixelated;
-  border-bottom: 3px solid var(--cirba-noir);
   color: var(--cirba-blanc);
-  padding: 52px 24px 40px;
+  padding: 64px 24px 52px;
   text-align: center;
+}
+
+.hero-inner {
+  max-width: 780px;
+  margin: 0 auto;
 }
 
 .hero-kicker {
@@ -170,21 +179,21 @@ body {
 
 .hero h1 {
   margin: 0;
-  font-size: 2.3rem;
+  font-size: 2.5rem;
   font-weight: 700;
   letter-spacing: -0.01em;
 }
 
 .hero-sub {
-  margin: 10px auto 0;
+  margin: 14px auto 0;
   max-width: 60ch;
   color: var(--cirba-gris);
   font-size: 1.02rem;
 }
 
 .hero-search {
-  margin: 26px auto 0;
-  max-width: 640px;
+  margin: 30px auto 0;
+  max-width: 660px;
 }
 
 .hero-search input {
@@ -227,7 +236,7 @@ body {
 }
 
 .hero-stats {
-  margin-top: 22px;
+  margin-top: 26px;
   font-size: 0.85rem;
   color: var(--cirba-gris);
 }
@@ -254,7 +263,7 @@ body {
 }
 
 .hero-pref {
-  margin-top: 14px;
+  margin-top: 20px;
   display: flex;
   gap: 8px;
   justify-content: center;
@@ -357,9 +366,9 @@ button:hover {
 
 .chips {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   flex-wrap: wrap;
-  padding: 10px 0;
+  padding: 12px 0;
 }
 
 .chip {
@@ -380,8 +389,10 @@ button:hover {
 .contenu {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 20px;
-  padding: 12px 24px 32px;
+  gap: 28px;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 28px 24px 56px;
   align-items: start;
 }
 
@@ -399,15 +410,15 @@ button:hover {
 .results {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 12px;
 }
 
 .carte {
   background: var(--carte-bg);
   border: 1px solid var(--bordure);
   border-left: 4px solid var(--cirba-anthracite);
-  border-radius: 12px;
-  padding: 14px 16px;
+  border-radius: 14px;
+  padding: 16px 18px;
   cursor: pointer;
 }
 
@@ -435,19 +446,19 @@ button:hover {
 }
 
 .carte h3 {
-  margin: 0 0 4px;
-  font-size: 1rem;
+  margin: 0 0 6px;
+  font-size: 1.05rem;
 }
 
 .carte .marques {
-  margin: 0 0 6px;
+  margin: 0 0 8px;
   font-size: 0.85rem;
   color: var(--texte-doux);
 }
 
 .carte .meta-ligne {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   align-items: center;
   flex-wrap: wrap;
   font-size: 0.8rem;
@@ -486,14 +497,14 @@ button:hover {
 
 .detail {
   position: sticky;
-  top: 16px;
+  top: 20px;
   min-width: 0;
   max-width: 100%;
   overflow-wrap: anywhere;
   background: var(--carte-bg);
   border: 1px solid var(--bordure);
-  border-radius: 12px;
-  padding: 18px;
+  border-radius: 14px;
+  padding: 20px 22px;
 }
 
 .detail.hidden {
@@ -501,12 +512,12 @@ button:hover {
 }
 
 .detail h2 {
-  margin: 0 0 2px;
-  font-size: 1.15rem;
+  margin: 4px 0 12px;
+  font-size: 1.5rem;
 }
 
 .detail h3 {
-  margin: 18px 0 6px;
+  margin: 22px 0 10px;
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -516,9 +527,9 @@ button:hover {
 .detail dl {
   margin: 0;
   display: grid;
-  grid-template-columns: 110px 1fr;
-  gap: 4px 12px;
-  font-size: 0.9rem;
+  grid-template-columns: 120px 1fr;
+  gap: 8px 16px;
+  font-size: 0.92rem;
 }
 
 .detail dt {
@@ -579,8 +590,8 @@ button:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 14px;
-  padding: 44px 24px;
+  gap: 16px;
+  padding: 52px 24px;
   background: #11204c;
   border-top: 4px solid #ffd200;
 }
@@ -678,7 +689,7 @@ button:hover {
 .vide {
   color: var(--texte-doux);
   font-size: 0.9rem;
-  padding: 12px 4px;
+  padding: 16px 4px;
 }
 
 .hidden {
@@ -686,14 +697,18 @@ button:hover {
 }
 
 .home-titre {
-  margin: 8px 0 16px;
-  font-size: 1.15rem;
+  margin: 36px 0 18px;
+  font-size: 1.4rem;
+}
+
+.home > .home-titre:first-child {
+  margin-top: 4px;
 }
 
 .home-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
 }
 
 .cat-card {
@@ -732,8 +747,8 @@ button:hover {
 .cat-body {
   display: flex;
   flex-direction: column;
-  gap: 3px;
-  padding: 13px 15px 15px;
+  gap: 4px;
+  padding: 14px 16px 16px;
 }
 
 .cat-body strong {
@@ -746,12 +761,12 @@ button:hover {
 }
 
 .cat-header {
-  margin-bottom: 14px;
+  margin-bottom: 20px;
 }
 
 .cat-header h2 {
-  margin: 8px 0 4px;
-  font-size: 1.25rem;
+  margin: 0 0 8px;
+  font-size: 1.5rem;
 }
 
 .cat-note {
@@ -763,10 +778,10 @@ button:hover {
 
 .sous-cats {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   flex-wrap: wrap;
   align-items: center;
-  margin-bottom: 14px;
+  margin-bottom: 20px;
 }
 
 .sous-cats-label {
@@ -787,9 +802,13 @@ button:hover {
 }
 
 .cat-sous-titre {
-  margin: 4px 0 10px;
-  font-size: 0.9rem;
-  color: var(--texte-doux);
+  margin: 24px 0 12px;
+  font-size: 1.05rem;
+  color: var(--texte);
+}
+
+.results .cat-sous-titre:first-of-type {
+  margin-top: 0;
 }
 
 .modal {
