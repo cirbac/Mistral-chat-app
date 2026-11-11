@@ -35,7 +35,9 @@ body {
   align-items: center;
   gap: 16px;
   padding: 12px 24px;
-  background: transparent;
+  background: rgba(17, 32, 76, 0.6);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   color: var(--cirba-blanc);
 }
 
@@ -144,7 +146,7 @@ body {
 .hero {
   background-color: #1e3a8a;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.45) 60%),
+    linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
     url('assets/eu-stars-pixel.png'),
     url('assets/eu-flag-pixel.png');
   background-size: cover, auto 38%, cover;
