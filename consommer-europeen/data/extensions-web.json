@@ -98,6 +98,82 @@
     "lieux_production": [],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "automobile-byd",
+    "groupe": "BYD",
+    "marques": [
+     "BYD",
+     "Dolphin",
+     "Atto 3",
+     "Seal",
+     "Han"
+    ],
+    "aliases": [
+     "byd",
+     "dolphin",
+     "atto",
+     "seal"
+    ],
+    "siege": "Chine (Shenzhen)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques sous contrôle chinois",
+    "commentaire": "Constructeur chinois, n°1 mondial des VE en 2024-2025 (a dépassé Tesla) [190][191].",
+    "sources": [
+     190,
+     191
+    ],
+    "lieux_production": [
+     "Chine",
+     "Hongrie",
+     "Brésil",
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-tesla",
+    "groupe": "Tesla",
+    "marques": [
+     "Tesla",
+     "Model 3",
+     "Model Y",
+     "Model S",
+     "Model X",
+     "Cybertruck"
+    ],
+    "aliases": [
+     "tesla",
+     "model 3",
+     "model y",
+     "cybertruck"
+    ],
+    "siege": "États-Unis (Austin, Texas)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Constructeur américain dirigé par Elon Musk [192]. Hors de vos zones.",
+    "sources": [
+     192
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Chine (Shanghai)",
+     "Allemagne (Berlin)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "automobile-tesla-model-3",
+      "nom": "Model 3",
+      "assemblage": "Chine (Shanghai) / Allemagne (Berlin)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produite à Shanghai et Berlin [192]."
+     }
+    ]
    }
   ]
  },
@@ -353,6 +429,100 @@
       "note": "Produit en France (site de Villeneuve-d'Ascq) et dans plusieurs usines européennes [183]."
      }
     ]
+   },
+   {
+    "id": "alimentation-boissons-mondelez",
+    "groupe": "Mondelez International",
+    "marques": [
+     "Oreo",
+     "Cadbury",
+     "LU",
+     "Milka",
+     "Toblerone",
+     "Côte d'Or",
+     "Belvita"
+    ],
+    "aliases": [
+     "oreo",
+     "cadbury",
+     "lu",
+     "milka",
+     "toblerone",
+     "cote d'or"
+    ],
+    "siege": "États-Unis (Chicago)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Multinationale américaine (biscuits/chocolat) [193]. Hors de vos zones.",
+    "sources": [
+     193
+    ],
+    "lieux_production": [
+     "France",
+     "Belgique",
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-mars",
+    "groupe": "Mars",
+    "marques": [
+     "Mars",
+     "Snickers",
+     "Twix",
+     "M&M's",
+     "Uncle Ben's",
+     "Pedigree",
+     "Whiskas"
+    ],
+    "aliases": [
+     "mars",
+     "snickers",
+     "twix",
+     "mms"
+    ],
+    "siege": "États-Unis (McLean, Virginie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Groupe familial américain [194]. Hors de vos zones.",
+    "sources": [
+     194
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-boissons-herta",
+    "groupe": "Herta (Casa Tarradellas)",
+    "marques": [
+     "Herta"
+    ],
+    "aliases": [
+     "herta",
+     "tarradellas"
+    ],
+    "siege": "Espagne (Catalogne) — marque française",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Produits alimentaires",
+    "commentaire": "Marque française de charcuterie ; contrôle passé de Nestlé au groupe familial catalan Casa Tarradellas (60 % en 2019, 100 % en déc. 2025) [195][196]. Contrôle européen (Espagne).",
+    "sources": [
+     195,
+     196
+    ],
+    "lieux_production": [
+     "France",
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -536,6 +706,32 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "fashion-primark",
+    "groupe": "Primark (Associated British Foods)",
+    "marques": [
+     "Primark"
+    ],
+    "aliases": [
+     "primark"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Enseigne britannique du groupe ABF (famille Weston britannique) [209]. Contrôle européen (Royaume-Uni).",
+    "sources": [
+     209
+    ],
+    "lieux_production": [
+     "Turquie",
+     "Inde",
+     "Chine",
+     "Bangladesh"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -668,6 +864,29 @@
     "lieux_production": [],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "distribution-paiement-action",
+    "groupe": "Action",
+    "marques": [
+     "Action"
+    ],
+    "aliases": [
+     "action"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Enseigne hard-discount néerlandaise, forte croissance en France. Contrôle européen (Pays-Bas).",
+    "sources": [],
+    "lieux_production": [
+     "France",
+     "Pays-Bas",
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -728,6 +947,57 @@
      159
     ],
     "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-veolia",
+    "groupe": "Veolia",
+    "marques": [
+     "Veolia Eau",
+     "Veolia Propreté",
+     "Veolia Énergies"
+    ],
+    "aliases": [
+     "veolia"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Multinationale française cotée au CAC 40 ; CDC ~6 %, BlackRock ~5,7 %, actionnariat dispersé mais siège et décision en France [197][198]. A absorbé Suez en 2022.",
+    "sources": [
+     197,
+     198
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-energie-suez",
+    "groupe": "Suez",
+    "marques": [
+     "Suez Eau France",
+     "Suez Recyclage"
+    ],
+    "aliases": [
+     "suez",
+     "lyonnaise des eaux"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Multinationale française ; nouveau Suez détenu par le consortium Meridiam / GIP / CDC / CNP [199].",
+    "sources": [
+     199
+    ],
+    "lieux_production": [
+     "France"
+    ],
     "certifications": [],
     "produits": []
    }
@@ -855,6 +1125,29 @@
     "lieux_production": [],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "transport-mobilite-transavia",
+    "groupe": "Transavia (Air France-KLM)",
+    "marques": [
+     "Transavia",
+     "Transavia France"
+    ],
+    "aliases": [
+     "transavia"
+    ],
+    "siege": "Pays-Bas / France (Orly)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Compagnies aériennes européennes",
+    "commentaire": "Filiale à 100 % d'Air France-KLM (holding franco-néerlandaise) depuis 2004 [205][206].",
+    "sources": [
+     205,
+     206
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -944,6 +1237,42 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "jouets-jeux-video-playmobil",
+    "groupe": "Playmobil (Brandstätter)",
+    "marques": [
+     "Playmobil"
+    ],
+    "aliases": [
+     "playmobil"
+    ],
+    "siege": "Allemagne (Zirndorf)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Groupe familial allemand ; production en Europe (Malte, Tchéquie, Espagne), usine allemande de Dietenhofen fermée en juin 2026 [203][204].",
+    "sources": [
+     203,
+     204
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Malte",
+     "Tchéquie",
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "jouets-jeux-video-playmobil-figurine",
+      "nom": "Figurine Playmobil (7,5 cm)",
+      "assemblage": "Malte / Tchéquie / Espagne",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Production déplacée hors d'Allemagne mais reste en Europe [204]."
+     }
+    ]
    }
   ]
  },
@@ -967,6 +1296,64 @@
      "Malaisie",
      "Singapour",
      "Philippines"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-jardin-adeo",
+    "groupe": "Adeo (Leroy Merlin)",
+    "marques": [
+     "Leroy Merlin",
+     "Bricoman",
+     "Weldom"
+    ],
+    "aliases": [
+     "leroy merlin",
+     "adeo",
+     "bricoman"
+    ],
+    "siege": "France (Ronchin)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Distribution bricolage et jardin",
+    "commentaire": "Groupe Adeo, propriété de l'Association familiale Mulliez (AFM, France) [200][201].",
+    "sources": [
+     200,
+     201
+    ],
+    "lieux_production": [
+     "France",
+     "Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-jardin-kingfisher",
+    "groupe": "Kingfisher (Castorama)",
+    "marques": [
+     "Castorama",
+     "Brico Dépôt",
+     "Screwfix"
+    ],
+    "aliases": [
+     "castorama",
+     "kingfisher",
+     "brico depot",
+     "screwfix"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Distribution bricolage et jardin",
+    "commentaire": "Groupe britannique ; Castorama enseigne française historique [202]. Contrôle européen (Royaume-Uni).",
+    "sources": [
+     202
+    ],
+    "lieux_production": [
+     "France",
+     "Pologne"
     ],
     "certifications": [],
     "produits": []
@@ -1248,6 +1635,62 @@
       "note": "Produit phare [187]."
      }
     ]
+   },
+   {
+    "id": "restauration-livraison-yum",
+    "groupe": "Yum! Brands (KFC)",
+    "marques": [
+     "KFC",
+     "Pizza Hut",
+     "Taco Bell"
+    ],
+    "aliases": [
+     "kfc",
+     "pizza hut",
+     "taco bell",
+     "yum"
+    ],
+    "siege": "États-Unis (Louisville)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Groupe américain n°2 mondial du fast-food [207]. Hors de vos zones.",
+    "sources": [
+     207
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-livraison-rbi",
+    "groupe": "Restaurant Brands International (Burger King)",
+    "marques": [
+     "Burger King",
+     "Tim Hortons",
+     "Popeyes"
+    ],
+    "aliases": [
+     "burger king",
+     "tim hortons",
+     "popeyes",
+     "rbi"
+    ],
+    "siege": "Canada (Toronto)",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Holding canadienne ; 3G Capital (Brésil) détient ~26-32 % [208]. Rang 2 (Canada).",
+    "sources": [
+     208
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
