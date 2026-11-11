@@ -296,6 +296,13 @@ button:hover {
   border-left-color: var(--cirba-noir);
 }
 
+.carte-produit {
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+}
+
 .carte h3 {
   margin: 0 0 4px;
   font-size: 1rem;

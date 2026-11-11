@@ -71,8 +71,11 @@ if (existsSync(extensionsPath)) {
 }
 
 const pharesPath = path.join(dataDir, 'produits-phares.json');
-if (existsSync(pharesPath)) {
-  const phares = JSON.parse(readFileSync(pharesPath, 'utf8')) as Record<string, Produit[]>;
+const pharesData: Record<string, Produit[]> = existsSync(pharesPath)
+  ? (JSON.parse(readFileSync(pharesPath, 'utf8')) as Record<string, Produit[]>)
+  : {};
+{
+  const phares = pharesData;
   for (const [gid, produits] of Object.entries(phares)) {
     for (const s of secteurs) {
       const g = s.groupes.find((x) => x.id === gid);
@@ -193,6 +196,45 @@ function getPref(req: Request): string {
   const pref = String(req.query.pref ?? 'ue');
   return grille.preferences.some((p) => p.id === pref) ? pref : 'ue';
 }
+
+app.get('/api/accueil', (req, res) => {
+  const pref = getPref(req);
+  const wrap = (p: Produit, g: Groupe, s: Secteur) => ({
+    produit: p,
+    groupe: withStatut(g, pref, s),
+    secteur: { id: s.id, num: s.num, nom: s.nom },
+  });
+  const phares: ReturnType<typeof wrap>[] = [];
+  const seen = new Set<string>();
+  for (const [gid, ps] of Object.entries(pharesData)) {
+    for (const s of secteurs) {
+      const g = s.groupes.find((x) => x.id === gid);
+      if (!g) continue;
+      if (!withStatut(g, pref, s).recommande) continue;
+      for (const p of g.produits) {
+        if (!ps.some((y) => y.id === p.id) || seen.has(p.id)) continue;
+        seen.add(p.id);
+        phares.push(wrap(p, g, s));
+      }
+    }
+  }
+  const nouveaux: ReturnType<typeof wrap>[] = [];
+  const recents: [string, Produit][] = [];
+  for (const f of [...masseFiles].reverse()) {
+    const m = JSON.parse(readFileSync(path.join(dataDir, f), 'utf8')) as Record<string, Produit[]>;
+    for (const [gid, ps] of Object.entries(m)) for (const p of ps) recents.push([gid, p]);
+  }
+  for (const [gid, p] of recents.slice(0, 24)) {
+    for (const s of secteurs) {
+      const g = s.groupes.find((x) => x.id === gid);
+      if (!g) continue;
+      if (!withStatut(g, pref, s).recommande) break;
+      nouveaux.push(wrap(p, g, s));
+      break;
+    }
+  }
+  res.json({ phares: phares.slice(0, 24), nouveaux });
+});
 
 app.get('/api/search', (req, res) => {
   const q = norm(String(req.query.q ?? '').trim());
