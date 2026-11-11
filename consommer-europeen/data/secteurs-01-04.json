@@ -1,87 +1,1161 @@
 [
-  {
-    "id": "automobile", "num": "01", "nom": "Automobile",
-    "keywords": ["voiture", "auto", "automobile", "véhicule", "constructeur", "voiture électrique"],
-    "note": "Le statut porte sur le contrôle du groupe. Pour un véhicule donné, vérifier le pays d'assemblage indiqué sur la fiche technique ou le certificat de conformité.",
-    "groupes": [
-      { "id": "renault-group", "groupe": "Renault Group", "marques": ["Renault", "Dacia", "Alpine"], "siege": "France", "siege_pays": "FR", "statut": "rang1", "commentaire": "Contrôle européen. La Dacia Spring est produite en Chine [1].", "sources": [1], "lieux_production": [], "certifications": [], "produits": [ { "id": "renault-group-dacia-spring", "nom": "Dacia Spring", "assemblage": "Chine", "origine_pieces": null, "certifications": [], "note": "Produite en Chine [1]." } ] },
-      { "id": "stellantis", "groupe": "Stellantis", "marques": ["Peugeot", "Citroën", "DS", "Opel", "Fiat", "Alfa Romeo", "Lancia"], "siege": "Pays-Bas (siège légal)", "siege_pays": "NL", "statut": "rang1", "commentaire": "Contrôle européen. Site d'assemblage à vérifier modèle par modèle.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "volkswagen-group", "groupe": "Volkswagen Group", "marques": ["Volkswagen", "Audi", "Škoda", "Seat", "Cupra", "Porsche"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "bmw-group", "groupe": "BMW Group", "marques": ["BMW", "Mini"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "commentaire": "Contrôle européen. Le BMW iX3 est produit en Chine depuis 2021 [1] et des Mini électriques y sont assemblées [2].", "sources": [1, 2], "lieux_production": [], "certifications": [], "produits": [ { "id": "bmw-group-ix3", "nom": "BMW iX3", "assemblage": "Chine", "origine_pieces": null, "certifications": [], "note": "Produit en Chine depuis 2021 [1]." }, { "id": "bmw-group-mini-electrique", "nom": "Mini électriques", "assemblage": "Chine", "origine_pieces": null, "certifications": [], "note": "Assemblées en Chine [2]." } ] },
-      { "id": "mercedes-benz-group", "groupe": "Mercedes-Benz Group", "marques": ["Mercedes-Benz", "Mercedes-AMG"], "siege": "Allemagne", "siege_pays": "DE", "statut": "vigilance", "commentaire": "BAIC (constructeur public chinois) détient 9,98 % et Li Shufu (fondateur de Geely) environ 9,7 % [3], soit près de 20 % du capital en cumulé.", "sources": [3], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "toyota", "groupe": "Toyota", "marques": ["Toyota", "Lexus"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "Produit notamment la Yaris à Onnaing (Nord).", "sources": [], "lieux_production": ["France (Onnaing, Nord)"], "certifications": [], "produits": [ { "id": "toyota-yaris", "nom": "Yaris", "assemblage": "France (Onnaing, Nord)", "origine_pieces": null, "certifications": [], "note": "Produite à Onnaing (Nord)." } ] },
-      { "id": "honda", "groupe": "Honda", "marques": ["Honda"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "nissan", "groupe": "Nissan", "marques": ["Nissan"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "Partenaire de Renault au sein de l'Alliance.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "mazda", "groupe": "Mazda", "marques": ["Mazda"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "suzuki", "groupe": "Suzuki", "marques": ["Suzuki"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "subaru", "groupe": "Subaru", "marques": ["Subaru"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "hyundai-motor-group", "groupe": "Hyundai Motor Group", "marques": ["Hyundai", "Kia", "Genesis"], "siege": "Corée du Sud", "siege_pays": "KR", "statut": "rang2", "commentaire": "Usines européennes : Nošovice (Tchéquie) pour Hyundai, Žilina (Slovaquie) pour Kia.", "sources": [], "lieux_production": ["Tchéquie (Nošovice)", "Slovaquie (Žilina)"], "certifications": [], "produits": [ { "id": "hyundai-nosovice", "nom": "Hyundai (usine de Nošovice)", "assemblage": "Tchéquie (Nošovice)", "origine_pieces": null, "certifications": [], "note": "Usine européenne." }, { "id": "kia-zilina", "nom": "Kia (usine de Žilina)", "assemblage": "Slovaquie (Žilina)", "origine_pieces": null, "certifications": [], "note": "Usine européenne." } ] },
-      { "id": "volvo-cars", "groupe": "Volvo Cars", "marques": ["Volvo"], "siege": "Suède (siège)", "siege_pays": "SE", "statut": "a_ecarter", "commentaire": "Actionnaire majoritaire : Geely (Chine). Plusieurs modèles électriques produits en Chine, dont l'EX30 [1].", "sources": [1], "lieux_production": ["Chine"], "certifications": [], "produits": [ { "id": "volvo-cars-ex30", "nom": "EX30", "assemblage": "Chine", "origine_pieces": null, "certifications": [], "note": "Produite en Chine [1]." } ] },
-      { "id": "lotus", "groupe": "Lotus", "marques": ["Lotus"], "siege": "Royaume-Uni (siège)", "siege_pays": "GB", "statut": "a_ecarter", "commentaire": "Groupe Geely. Les nouvelles Lotus électriques sont toutes fabriquées en Chine [1].", "sources": [1], "lieux_production": ["Chine"], "certifications": [], "produits": [] },
-      { "id": "mg", "groupe": "MG", "marques": ["MG"], "siege": "Royaume-Uni (origine)", "siege_pays": "GB", "statut": "a_ecarter", "commentaire": "Marque du groupe SAIC (Chine). Toutes les MG vendues sont fabriquées en Chine [1].", "sources": [1], "lieux_production": ["Chine"], "certifications": [], "produits": [] }
+ {
+  "id": "automobile",
+  "num": "01",
+  "nom": "Automobile",
+  "keywords": [
+   "voiture",
+   "auto",
+   "automobile",
+   "véhicule",
+   "constructeur",
+   "voiture électrique"
+  ],
+  "note": "Le statut porte sur le contrôle du groupe. Pour un véhicule donné, vérifier le pays d'assemblage indiqué sur la fiche technique ou le certificat de conformité.",
+  "groupes": [
+   {
+    "id": "renault-group",
+    "groupe": "Renault Group",
+    "marques": [
+     "Renault",
+     "Dacia",
+     "Alpine"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen. La Dacia Spring est produite en Chine [1].",
+    "sources": [
+     1
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "renault-group-dacia-spring",
+      "nom": "Dacia Spring",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produite en Chine [1]."
+     }
     ]
-  },
-  {
-    "id": "motos-scooters", "num": "02", "nom": "Motos et scooters",
-    "keywords": ["moto", "scooter", "deux-roues", "deux roues"],
-    "note": "Le statut porte sur le contrôle du groupe. Pour une moto ou un scooter donné, vérifier le lieu d'assemblage sur la fiche produit.",
-    "groupes": [
-      { "id": "piaggio-group", "groupe": "Piaggio Group", "marques": ["Vespa", "Aprilia", "Moto Guzzi", "Gilera", "Derbi"], "siege": "Italie", "siege_pays": "IT", "statut": "rang1", "commentaire": "IMMSI (famille Colaninno) détient 50,69 % [37]. Usines en Italie, en Espagne (Derbi), en Inde et au Vietnam, avec une coentreprise en Chine [38].", "sources": [37, 38], "lieux_production": ["Italie", "Espagne (Derbi)", "Inde", "Vietnam", "Chine (coentreprise)"], "certifications": [], "produits": [] },
-      { "id": "bmw-motorrad", "groupe": "BMW Motorrad", "marques": ["BMW", "BMW Motorrad"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "triumph", "groupe": "Triumph", "marques": ["Triumph"], "siege": "Royaume-Uni", "siege_pays": "GB", "statut": "rang1", "commentaire": "Groupe 100 % britannique, contrôlé par Bloor Holdings [36]. Usines au Royaume-Uni et au Brésil [36], filiale en Thaïlande [35]. Les Speed 400 et Scrambler 400 sont fabriquées par Bajaj en Inde [36].", "sources": [35, 36], "lieux_production": ["Royaume-Uni", "Brésil", "Thaïlande (filiale)"], "certifications": [], "produits": [ { "id": "triumph-speed-400", "nom": "Speed 400 / Scrambler 400", "assemblage": "Inde (Bajaj)", "origine_pieces": null, "certifications": [], "note": "Fabriquées par Bajaj en Inde [36]." } ] },
-      { "id": "ducati", "groupe": "Ducati", "marques": ["Ducati"], "siege": "Italie", "siege_pays": "IT", "statut": "vigilance", "commentaire": "Groupe Audi (Volkswagen) depuis 2012 [39]. Volkswagen étudie la cession de Ducati, parmi environ 600 activités en revue, sans décision à ce jour [40]. Une usine en Thaïlande est mentionnée dans une source de 2012, à confirmer [41].", "sources": [39, 40, 41], "lieux_production": ["Thaïlande (à confirmer)"], "certifications": [], "produits": [] },
-      { "id": "peugeot-motocycles", "groupe": "Peugeot Motocycles", "marques": ["Peugeot (scooters et motos légères)"], "siege": "France", "siege_pays": "FR", "statut": "vigilance", "commentaire": "Propriété du fonds allemand Mutares depuis 2023. Une offre irrévocable de la direction prévoit la reprise au second semestre 2026 [42]. Siège à Mandeure [43].", "sources": [42, 43], "lieux_production": ["France (Mandeure)"], "certifications": [], "produits": [] },
-      { "id": "mv-agusta", "groupe": "MV Agusta", "marques": ["MV Agusta"], "siege": "Italie", "siege_pays": "IT", "statut": "vigilance", "commentaire": "Contrôle détenu par Art of Mobility S.A. (famille Sardarov) depuis janvier 2025 [44]. Procédure de négociation de crise en cours [44]. Siège de la holding : non précisé.", "sources": [44], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "energica", "groupe": "Energica", "marques": ["Energica"], "siege": "Italie", "siege_pays": "IT", "statut": "vigilance", "commentaire": "Liquidée en 2024, puis reprise en 2025 par des investisseurs de Singapour dont l'identité n'a pas été publiée [45] [46]. Détenteur réel du capital non identifié.", "sources": [45, 46], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "pierer-mobility", "groupe": "Pierer Mobility (KTM, GasGas, Husqvarna)", "marques": ["KTM", "GasGas", "Husqvarna"], "siege": "Autriche", "siege_pays": "AT", "statut": "hors_zones", "commentaire": "Bajaj Auto (Inde) détient 74,9 % depuis novembre 2025 [33]. Bajaj fabrique notamment toutes les KTM Duke de 125 à 390 cc [34]. L'assemblée a approuvé le renommage en Bajaj Mobility AG [33].", "sources": [33, 34], "lieux_production": ["Inde (Bajaj)"], "certifications": [], "produits": [ { "id": "ktm-duke-125-390", "nom": "KTM Duke 125 à 390 cc", "assemblage": "Inde (Bajaj)", "origine_pieces": null, "certifications": [], "note": "Fabriquées par Bajaj [34]." } ] },
-      { "id": "royal-enfield", "groupe": "Royal Enfield", "marques": ["Royal Enfield"], "siege": "Inde", "siege_pays": "IN", "statut": "hors_zones", "commentaire": "Marque du groupe indien Eicher Motors [47]. Hors de vos zones.", "sources": [47], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "harley-davidson", "groupe": "Harley-Davidson", "marques": ["Harley-Davidson", "X350RA"], "siege": "États-Unis", "siege_pays": "US", "statut": "hors_zones", "commentaire": "Le X350RA figure dans la fiche fabricant de Qianjiang, groupe chinois [48]. Hors de vos zones pour la maison mère.", "sources": [48], "lieux_production": [], "certifications": [], "produits": [ { "id": "harley-x350ra", "nom": "X350RA", "assemblage": "Chine (Qianjiang)", "origine_pieces": null, "certifications": [], "note": "Mentionné dans la fiche fabricant de Qianjiang [48]." } ] },
-      { "id": "honda-moto", "groupe": "Honda", "marques": ["Honda"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "yamaha", "groupe": "Yamaha", "marques": ["Yamaha"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "kawasaki", "groupe": "Kawasaki", "marques": ["Kawasaki"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "suzuki-moto", "groupe": "Suzuki", "marques": ["Suzuki"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "kymco", "groupe": "Kymco", "marques": ["Kymco"], "siege": "Taïwan", "siege_pays": "TW", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "sym", "groupe": "SYM", "marques": ["SYM"], "siege": "Taïwan", "siege_pays": "TW", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "brp", "groupe": "BRP", "marques": ["Can-Am (Ryker, Spyder)", "Sea-Doo", "Ski-Doo"], "siege": "Canada", "siege_pays": "CA", "statut": "rang2", "commentaire": "Siège à Valcourt (Québec) selon les informations disponibles. Lieu d'assemblage des véhicules à trois roues à vérifier sur la fiche produit. Non revérifié.", "sources": [], "lieux_production": ["Canada (Valcourt, Québec)"], "certifications": [], "produits": [] },
-      { "id": "benelli", "groupe": "Benelli", "marques": ["Benelli"], "siege": "Italie (marque)", "siege_pays": "IT", "statut": "a_ecarter", "commentaire": "Racheté en 2005 par Qianjiang, groupe chinois dont Geely est le premier actionnaire [49] [50]. Conception et marketing à Pesaro [49].", "sources": [49, 50], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "qianjiang", "groupe": "Qianjiang (QJMotor, Keeway)", "marques": ["QJMotor", "Keeway"], "siege": "Chine", "siege_pays": "CN", "statut": "a_ecarter", "commentaire": "Groupe Geely (premier actionnaire) [50]. Marques déclarées par Qianjiang auprès de la NHTSA [48].", "sources": [48, 50], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "moto-morini", "groupe": "Moto Morini", "marques": ["Moto Morini"], "siege": "Italie (marque)", "siege_pays": "IT", "statut": "a_ecarter", "commentaire": "Racheté en 2018 par Zhongneng Vehicle Group, groupe chinois [51]. Les sources divergent sur le lieu de fabrication : conçues et fabriquées en Italie selon [52], production passée en Chine selon [53].", "sources": [51, 52, 53], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "swm", "groupe": "SWM", "marques": ["SWM"], "siege": "Italie (marque)", "siege_pays": "IT", "statut": "a_ecarter", "commentaire": "Racheté en 2014 par Shineray, groupe chinois [54]. Une partie des pièces vient de Chine, l'assemblage reste en Lombardie [55].", "sources": [54, 55], "lieux_production": ["Italie (Lombardie)"], "certifications": [], "produits": [ { "id": "swm-assemblage", "nom": "SWM (assemblage)", "assemblage": "Italie (Lombardie)", "origine_pieces": "Chine (en partie)", "certifications": [], "note": "Une partie des pièces vient de Chine [55]." } ] },
-      { "id": "cfmoto-voge-zontes", "groupe": "CFMOTO, Voge, Zontes", "marques": ["CFMOTO", "Voge", "Zontes"], "siege": "Chine", "siege_pays": "CN", "statut": "a_ecarter", "commentaire": "Marques chinoises présentes en Italie [56].", "sources": [56], "lieux_production": ["Chine"], "certifications": [], "produits": [] },
-      { "id": "segway-ninebot", "groupe": "Segway-Ninebot", "marques": ["Segway", "Ninebot"], "siege": "Chine", "siege_pays": "CN", "statut": "a_ecarter", "commentaire": "Entreprise chinoise. Plus de 10 millions de véhicules électriques à deux roues livrés dans le monde, selon l'entreprise [57].", "sources": [57], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "niu", "groupe": "Niu", "marques": ["Niu"], "siege": "Chine", "siege_pays": "CN", "statut": "a_ecarter", "commentaire": "Entreprise chinoise. Près de 1,2 million de deux-roues électriques vendus en 2025 [58].", "sources": [58], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "yadea", "groupe": "Yadea", "marques": ["Yadea"], "siege": "Chine", "siege_pays": "CN", "statut": "a_ecarter", "commentaire": "Marque chinoise, décrite comme leader du marché des deux-roues électriques [59].", "sources": [59], "lieux_production": [], "certifications": [], "produits": [] }
+   },
+   {
+    "id": "stellantis",
+    "groupe": "Stellantis",
+    "marques": [
+     "Peugeot",
+     "Citroën",
+     "DS",
+     "Opel",
+     "Fiat",
+     "Alfa Romeo",
+     "Lancia"
+    ],
+    "siege": "Pays-Bas (siège légal)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen. Site d'assemblage à vérifier modèle par modèle.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "volkswagen-group",
+    "groupe": "Volkswagen Group",
+    "marques": [
+     "Volkswagen",
+     "Audi",
+     "Škoda",
+     "Seat",
+     "Cupra",
+     "Porsche"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bmw-group",
+    "groupe": "BMW Group",
+    "marques": [
+     "BMW",
+     "Mini"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen. Le BMW iX3 est produit en Chine depuis 2021 [1] et des Mini électriques y sont assemblées [2].",
+    "sources": [
+     1,
+     2
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "bmw-group-ix3",
+      "nom": "BMW iX3",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit en Chine depuis 2021 [1]."
+     },
+     {
+      "id": "bmw-group-mini-electrique",
+      "nom": "Mini électriques",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Assemblées en Chine [2]."
+     }
     ]
-  },
-  {
-    "id": "pneumatiques", "num": "03", "nom": "Pneumatiques",
-    "keywords": ["pneu", "pneus", "pneumatique", "pneumatiques"],
-    "note": "",
-    "groupes": [
-      { "id": "michelin", "groupe": "Michelin", "marques": ["Michelin", "BFGoodrich", "Kléber"], "siege": "France", "siege_pays": "FR", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "continental", "groupe": "Continental", "marques": ["Continental", "Barum", "Semperit"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "nokian-tyres", "groupe": "Nokian Tyres", "marques": ["Nokian"], "siege": "Finlande", "siege_pays": "FI", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "pirelli", "groupe": "Pirelli", "marques": ["Pirelli"], "siege": "Italie", "siege_pays": "IT", "statut": "vigilance", "commentaire": "Sinochem ramené à 20 % après la cession de 14 % au tchèque Lumina Crown ; le bloc italien redevient premier actionnaire avec 26,5 % [4]. Restrictions de gouvernance (golden power) tant que Sinochem reste au-dessus de 10 % [5].", "sources": [4, 5], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "bridgestone", "groupe": "Bridgestone", "marques": ["Bridgestone", "Firestone"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "yokohama", "groupe": "Yokohama", "marques": ["Yokohama"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "toyo-tires", "groupe": "Toyo Tires", "marques": ["Toyo"], "siege": "Japon", "siege_pays": "JP", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "hankook", "groupe": "Hankook", "marques": ["Hankook", "Laufenn"], "siege": "Corée du Sud", "siege_pays": "KR", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "nexen-tire", "groupe": "Nexen Tire", "marques": ["Nexen"], "siege": "Corée du Sud", "siege_pays": "KR", "statut": "rang2", "commentaire": "", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "kumho-tire", "groupe": "Kumho Tire", "marques": ["Kumho"], "siege": "Corée du Sud (siège)", "siege_pays": "KR", "statut": "a_ecarter", "commentaire": "Le groupe chinois Qingdao Doublestar en détient indirectement 45 % (avril 2026) [6].", "sources": [6], "lieux_production": [], "certifications": [], "produits": [] }
+   },
+   {
+    "id": "mercedes-benz-group",
+    "groupe": "Mercedes-Benz Group",
+    "marques": [
+     "Mercedes-Benz",
+     "Mercedes-AMG"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "commentaire": "BAIC (constructeur public chinois) détient 9,98 % et Li Shufu (fondateur de Geely) environ 9,7 % [3], soit près de 20 % du capital en cumulé.",
+    "sources": [
+     3
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "toyota",
+    "groupe": "Toyota",
+    "marques": [
+     "Toyota",
+     "Lexus"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Produit notamment la Yaris à Onnaing (Nord).",
+    "sources": [],
+    "lieux_production": [
+     "France (Onnaing, Nord)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "toyota-yaris",
+      "nom": "Yaris",
+      "assemblage": "France (Onnaing, Nord)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produite à Onnaing (Nord)."
+     }
     ]
-  },
-  {
-    "id": "electromenager", "num": "04", "nom": "Électroménager",
-    "keywords": ["électroménager", "lave-linge", "lave-vaisselle", "réfrigérateur", "congélateur", "four", "plaque de cuisson", "gros électroménager"],
-    "note": "Sous-catégorie « Gros électroménager » extraite du document v4.",
-    "sous_categories": ["Gros électroménager"],
-    "groupes": [
-      { "id": "bsh", "groupe": "BSH (groupe Bosch)", "marques": ["Bosch", "Siemens", "Neff", "Gaggenau"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "miele", "groupe": "Miele", "marques": ["Miele"], "siege": "Allemagne", "siege_pays": "DE", "statut": "rang1", "commentaire": "Groupe familial.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "liebherr", "groupe": "Liebherr", "marques": ["Liebherr"], "siege": "Suisse / Allemagne", "siege_pays": "CH", "statut": "rang1", "commentaire": "Groupe familial.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "electrolux", "groupe": "Electrolux", "marques": ["Electrolux", "AEG", "Zanussi"], "siege": "Suède", "siege_pays": "SE", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "smeg", "groupe": "Smeg", "marques": ["Smeg"], "siege": "Italie", "siege_pays": "IT", "statut": "rang1", "commentaire": "Groupe familial.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] },
-      { "id": "amica", "groupe": "Amica", "marques": ["Amica"], "siege": "Pologne", "siege_pays": "PL", "statut": "rang1", "commentaire": "Contrôle européen.", "sources": [], "lieux_production": [], "certifications": [], "produits": [] }
+   },
+   {
+    "id": "honda",
+    "groupe": "Honda",
+    "marques": [
+     "Honda"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "nissan",
+    "groupe": "Nissan",
+    "marques": [
+     "Nissan"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Partenaire de Renault au sein de l'Alliance.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "mazda",
+    "groupe": "Mazda",
+    "marques": [
+     "Mazda"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "suzuki",
+    "groupe": "Suzuki",
+    "marques": [
+     "Suzuki"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "subaru",
+    "groupe": "Subaru",
+    "marques": [
+     "Subaru"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hyundai-motor-group",
+    "groupe": "Hyundai Motor Group",
+    "marques": [
+     "Hyundai",
+     "Kia",
+     "Genesis"
+    ],
+    "siege": "Corée du Sud",
+    "siege_pays": "KR",
+    "statut": "rang2",
+    "commentaire": "Usines européennes : Nošovice (Tchéquie) pour Hyundai, Žilina (Slovaquie) pour Kia.",
+    "sources": [],
+    "lieux_production": [
+     "Tchéquie (Nošovice)",
+     "Slovaquie (Žilina)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hyundai-nosovice",
+      "nom": "Hyundai (usine de Nošovice)",
+      "assemblage": "Tchéquie (Nošovice)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Usine européenne."
+     },
+     {
+      "id": "kia-zilina",
+      "nom": "Kia (usine de Žilina)",
+      "assemblage": "Slovaquie (Žilina)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Usine européenne."
+     }
     ]
-  }
+   },
+   {
+    "id": "volvo-cars",
+    "groupe": "Volvo Cars",
+    "marques": [
+     "Volvo"
+    ],
+    "siege": "Suède (siège)",
+    "siege_pays": "SE",
+    "statut": "a_ecarter",
+    "commentaire": "Actionnaire majoritaire : Geely (Chine). Plusieurs modèles électriques produits en Chine, dont l'EX30 [1].",
+    "sources": [
+     1
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "volvo-cars-ex30",
+      "nom": "EX30",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produite en Chine [1]."
+     }
+    ]
+   },
+   {
+    "id": "lotus",
+    "groupe": "Lotus",
+    "marques": [
+     "Lotus"
+    ],
+    "siege": "Royaume-Uni (siège)",
+    "siege_pays": "GB",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe Geely. Les nouvelles Lotus électriques sont toutes fabriquées en Chine [1].",
+    "sources": [
+     1
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "mg",
+    "groupe": "MG",
+    "marques": [
+     "MG"
+    ],
+    "siege": "Royaume-Uni (origine)",
+    "siege_pays": "GB",
+    "statut": "a_ecarter",
+    "commentaire": "Marque du groupe SAIC (Chine). Toutes les MG vendues sont fabriquées en Chine [1].",
+    "sources": [
+     1
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Constructeurs européens",
+   "Constructeurs japonais et sud-coréens",
+   "Marques sous contrôle chinois"
+  ]
+ },
+ {
+  "id": "motos-scooters",
+  "num": "02",
+  "nom": "Motos et scooters",
+  "keywords": [
+   "moto",
+   "scooter",
+   "deux-roues",
+   "deux roues"
+  ],
+  "note": "Le statut porte sur le contrôle du groupe. Pour une moto ou un scooter donné, vérifier le lieu d'assemblage sur la fiche produit.",
+  "groupes": [
+   {
+    "id": "piaggio-group",
+    "groupe": "Piaggio Group",
+    "marques": [
+     "Vespa",
+     "Aprilia",
+     "Moto Guzzi",
+     "Gilera",
+     "Derbi"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "IMMSI (famille Colaninno) détient 50,69 % [37]. Usines en Italie, en Espagne (Derbi), en Inde et au Vietnam, avec une coentreprise en Chine [38].",
+    "sources": [
+     37,
+     38
+    ],
+    "lieux_production": [
+     "Italie",
+     "Espagne (Derbi)",
+     "Inde",
+     "Vietnam",
+     "Chine (coentreprise)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bmw-motorrad",
+    "groupe": "BMW Motorrad",
+    "marques": [
+     "BMW",
+     "BMW Motorrad"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "triumph",
+    "groupe": "Triumph",
+    "marques": [
+     "Triumph"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "Groupe 100 % britannique, contrôlé par Bloor Holdings [36]. Usines au Royaume-Uni et au Brésil [36], filiale en Thaïlande [35]. Les Speed 400 et Scrambler 400 sont fabriquées par Bajaj en Inde [36].",
+    "sources": [
+     35,
+     36
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Brésil",
+     "Thaïlande (filiale)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "triumph-speed-400",
+      "nom": "Speed 400 / Scrambler 400",
+      "assemblage": "Inde (Bajaj)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Fabriquées par Bajaj en Inde [36]."
+     }
+    ]
+   },
+   {
+    "id": "ducati",
+    "groupe": "Ducati",
+    "marques": [
+     "Ducati"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "commentaire": "Groupe Audi (Volkswagen) depuis 2012 [39]. Volkswagen étudie la cession de Ducati, parmi environ 600 activités en revue, sans décision à ce jour [40]. Une usine en Thaïlande est mentionnée dans une source de 2012, à confirmer [41].",
+    "sources": [
+     39,
+     40,
+     41
+    ],
+    "lieux_production": [
+     "Thaïlande (à confirmer)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "peugeot-motocycles",
+    "groupe": "Peugeot Motocycles",
+    "marques": [
+     "Peugeot (scooters et motos légères)"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "commentaire": "Propriété du fonds allemand Mutares depuis 2023. Une offre irrévocable de la direction prévoit la reprise au second semestre 2026 [42]. Siège à Mandeure [43].",
+    "sources": [
+     42,
+     43
+    ],
+    "lieux_production": [
+     "France (Mandeure)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "mv-agusta",
+    "groupe": "MV Agusta",
+    "marques": [
+     "MV Agusta"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "commentaire": "Contrôle détenu par Art of Mobility S.A. (famille Sardarov) depuis janvier 2025 [44]. Procédure de négociation de crise en cours [44]. Siège de la holding : non précisé.",
+    "sources": [
+     44
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "energica",
+    "groupe": "Energica",
+    "marques": [
+     "Energica"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "commentaire": "Liquidée en 2024, puis reprise en 2025 par des investisseurs de Singapour dont l'identité n'a pas été publiée [45] [46]. Détenteur réel du capital non identifié.",
+    "sources": [
+     45,
+     46
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pierer-mobility",
+    "groupe": "Pierer Mobility (KTM, GasGas, Husqvarna)",
+    "marques": [
+     "KTM",
+     "GasGas",
+     "Husqvarna"
+    ],
+    "siege": "Autriche",
+    "siege_pays": "AT",
+    "statut": "hors_zones",
+    "commentaire": "Bajaj Auto (Inde) détient 74,9 % depuis novembre 2025 [33]. Bajaj fabrique notamment toutes les KTM Duke de 125 à 390 cc [34]. L'assemblée a approuvé le renommage en Bajaj Mobility AG [33].",
+    "sources": [
+     33,
+     34
+    ],
+    "lieux_production": [
+     "Inde (Bajaj)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "ktm-duke-125-390",
+      "nom": "KTM Duke 125 à 390 cc",
+      "assemblage": "Inde (Bajaj)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Fabriquées par Bajaj [34]."
+     }
+    ]
+   },
+   {
+    "id": "royal-enfield",
+    "groupe": "Royal Enfield",
+    "marques": [
+     "Royal Enfield"
+    ],
+    "siege": "Inde",
+    "siege_pays": "IN",
+    "statut": "hors_zones",
+    "commentaire": "Marque du groupe indien Eicher Motors [47]. Hors de vos zones.",
+    "sources": [
+     47
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "harley-davidson",
+    "groupe": "Harley-Davidson",
+    "marques": [
+     "Harley-Davidson",
+     "X350RA"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "commentaire": "Le X350RA figure dans la fiche fabricant de Qianjiang, groupe chinois [48]. Hors de vos zones pour la maison mère.",
+    "sources": [
+     48
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "harley-x350ra",
+      "nom": "X350RA",
+      "assemblage": "Chine (Qianjiang)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Mentionné dans la fiche fabricant de Qianjiang [48]."
+     }
+    ]
+   },
+   {
+    "id": "honda-moto",
+    "groupe": "Honda",
+    "marques": [
+     "Honda"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "yamaha",
+    "groupe": "Yamaha",
+    "marques": [
+     "Yamaha"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "kawasaki",
+    "groupe": "Kawasaki",
+    "marques": [
+     "Kawasaki"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "suzuki-moto",
+    "groupe": "Suzuki",
+    "marques": [
+     "Suzuki"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "kymco",
+    "groupe": "Kymco",
+    "marques": [
+     "Kymco"
+    ],
+    "siege": "Taïwan",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "sym",
+    "groupe": "SYM",
+    "marques": [
+     "SYM"
+    ],
+    "siege": "Taïwan",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "brp",
+    "groupe": "BRP",
+    "marques": [
+     "Can-Am (Ryker, Spyder)",
+     "Sea-Doo",
+     "Ski-Doo"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Valcourt (Québec) selon les informations disponibles. Lieu d'assemblage des véhicules à trois roues à vérifier sur la fiche produit. Non revérifié.",
+    "sources": [],
+    "lieux_production": [
+     "Canada (Valcourt, Québec)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "benelli",
+    "groupe": "Benelli",
+    "marques": [
+     "Benelli"
+    ],
+    "siege": "Italie (marque)",
+    "siege_pays": "IT",
+    "statut": "a_ecarter",
+    "commentaire": "Racheté en 2005 par Qianjiang, groupe chinois dont Geely est le premier actionnaire [49] [50]. Conception et marketing à Pesaro [49].",
+    "sources": [
+     49,
+     50
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "qianjiang",
+    "groupe": "Qianjiang (QJMotor, Keeway)",
+    "marques": [
+     "QJMotor",
+     "Keeway"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe Geely (premier actionnaire) [50]. Marques déclarées par Qianjiang auprès de la NHTSA [48].",
+    "sources": [
+     48,
+     50
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "moto-morini",
+    "groupe": "Moto Morini",
+    "marques": [
+     "Moto Morini"
+    ],
+    "siege": "Italie (marque)",
+    "siege_pays": "IT",
+    "statut": "a_ecarter",
+    "commentaire": "Racheté en 2018 par Zhongneng Vehicle Group, groupe chinois [51]. Les sources divergent sur le lieu de fabrication : conçues et fabriquées en Italie selon [52], production passée en Chine selon [53].",
+    "sources": [
+     51,
+     52,
+     53
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "swm",
+    "groupe": "SWM",
+    "marques": [
+     "SWM"
+    ],
+    "siege": "Italie (marque)",
+    "siege_pays": "IT",
+    "statut": "a_ecarter",
+    "commentaire": "Racheté en 2014 par Shineray, groupe chinois [54]. Une partie des pièces vient de Chine, l'assemblage reste en Lombardie [55].",
+    "sources": [
+     54,
+     55
+    ],
+    "lieux_production": [
+     "Italie (Lombardie)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "swm-assemblage",
+      "nom": "SWM (assemblage)",
+      "assemblage": "Italie (Lombardie)",
+      "origine_pieces": "Chine (en partie)",
+      "certifications": [],
+      "note": "Une partie des pièces vient de Chine [55]."
+     }
+    ]
+   },
+   {
+    "id": "cfmoto-voge-zontes",
+    "groupe": "CFMOTO, Voge, Zontes",
+    "marques": [
+     "CFMOTO",
+     "Voge",
+     "Zontes"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Marques chinoises présentes en Italie [56].",
+    "sources": [
+     56
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "segway-ninebot",
+    "groupe": "Segway-Ninebot",
+    "marques": [
+     "Segway",
+     "Ninebot"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Entreprise chinoise. Plus de 10 millions de véhicules électriques à deux roues livrés dans le monde, selon l'entreprise [57].",
+    "sources": [
+     57
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "niu",
+    "groupe": "Niu",
+    "marques": [
+     "Niu"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Entreprise chinoise. Près de 1,2 million de deux-roues électriques vendus en 2025 [58].",
+    "sources": [
+     58
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "yadea",
+    "groupe": "Yadea",
+    "marques": [
+     "Yadea"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Marque chinoise, décrite comme leader du marché des deux-roues électriques [59].",
+    "sources": [
+     59
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Marques européennes",
+   "Marques hors zones",
+   "Marques japonaises, taïwanaises et canadiennes",
+   "Marques chinoises ou sous contrôle chinois",
+   "Scooters électriques"
+  ]
+ },
+ {
+  "id": "pneumatiques",
+  "num": "03",
+  "nom": "Pneumatiques",
+  "keywords": [
+   "pneu",
+   "pneus",
+   "pneumatique",
+   "pneumatiques"
+  ],
+  "note": "",
+  "groupes": [
+   {
+    "id": "michelin",
+    "groupe": "Michelin",
+    "marques": [
+     "Michelin",
+     "BFGoodrich",
+     "Kléber"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "continental",
+    "groupe": "Continental",
+    "marques": [
+     "Continental",
+     "Barum",
+     "Semperit"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "nokian-tyres",
+    "groupe": "Nokian Tyres",
+    "marques": [
+     "Nokian"
+    ],
+    "siege": "Finlande",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pirelli",
+    "groupe": "Pirelli",
+    "marques": [
+     "Pirelli"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "vigilance",
+    "commentaire": "Sinochem ramené à 20 % après la cession de 14 % au tchèque Lumina Crown ; le bloc italien redevient premier actionnaire avec 26,5 % [4]. Restrictions de gouvernance (golden power) tant que Sinochem reste au-dessus de 10 % [5].",
+    "sources": [
+     4,
+     5
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bridgestone",
+    "groupe": "Bridgestone",
+    "marques": [
+     "Bridgestone",
+     "Firestone"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "yokohama",
+    "groupe": "Yokohama",
+    "marques": [
+     "Yokohama"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "toyo-tires",
+    "groupe": "Toyo Tires",
+    "marques": [
+     "Toyo"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hankook",
+    "groupe": "Hankook",
+    "marques": [
+     "Hankook",
+     "Laufenn"
+    ],
+    "siege": "Corée du Sud",
+    "siege_pays": "KR",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "nexen-tire",
+    "groupe": "Nexen Tire",
+    "marques": [
+     "Nexen"
+    ],
+    "siege": "Corée du Sud",
+    "siege_pays": "KR",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "kumho-tire",
+    "groupe": "Kumho Tire",
+    "marques": [
+     "Kumho"
+    ],
+    "siege": "Corée du Sud (siège)",
+    "siege_pays": "KR",
+    "statut": "a_ecarter",
+    "commentaire": "Le groupe chinois Qingdao Doublestar en détient indirectement 45 % (avril 2026) [6].",
+    "sources": [
+     6
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Manufacturiers européens",
+   "Manufacturiers japonais et sud-coréens"
+  ]
+ },
+ {
+  "id": "electromenager",
+  "num": "04",
+  "nom": "Électroménager",
+  "keywords": [
+   "électroménager",
+   "lave-linge",
+   "lave-vaisselle",
+   "réfrigérateur",
+   "congélateur",
+   "four",
+   "plaque de cuisson",
+   "gros électroménager"
+  ],
+  "note": "Sous-catégorie « Gros électroménager » extraite du document v4.",
+  "sous_categories": [
+   "Gros électroménager",
+   "Petit électroménager"
+  ],
+  "groupes": [
+   {
+    "id": "bsh",
+    "groupe": "BSH (groupe Bosch)",
+    "marques": [
+     "Bosch",
+     "Siemens",
+     "Neff",
+     "Gaggenau"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "miele",
+    "groupe": "Miele",
+    "marques": [
+     "Miele"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "liebherr",
+    "groupe": "Liebherr",
+    "marques": [
+     "Liebherr"
+    ],
+    "siege": "Suisse / Allemagne",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electrolux",
+    "groupe": "Electrolux",
+    "marques": [
+     "Electrolux",
+     "AEG",
+     "Zanussi"
+    ],
+    "siege": "Suède",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "smeg",
+    "groupe": "Smeg",
+    "marques": [
+     "Smeg"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "amica",
+    "groupe": "Amica",
+    "marques": [
+     "Amica"
+    ],
+    "siege": "Pologne",
+    "siege_pays": "PL",
+    "statut": "rang1",
+    "commentaire": "Contrôle européen.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
 ]
