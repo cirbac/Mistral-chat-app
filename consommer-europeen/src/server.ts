@@ -247,18 +247,43 @@ app.get('/api/accueil', (req, res) => {
   res.json({ phares: phares.slice(0, 24), nouveaux });
 });
 
+const SYNONYMES: Record<string, string[]> = {
+  the: ['thé', 'tea'], 'thé': ['the', 'tea'], tea: ['thé', 'the'],
+  cafe: ['café', 'coffee'], 'café': ['cafe', 'coffee'], coffee: ['café', 'cafe'],
+  voiture: ['auto', 'automobile', 'car', 'vehicule'], auto: ['voiture', 'automobile', 'car'], automobile: ['voiture', 'auto', 'car'], car: ['voiture', 'auto', 'automobile'], vehicule: ['voiture', 'auto'],
+  pneu: ['pneumatique', 'tire', 'tyre'], pneumatique: ['pneu', 'tire', 'tyre'], tire: ['pneu', 'pneumatique'],
+  shampoing: ['shampoo'], shampoo: ['shampoing'],
+  dentifrice: ['toothpaste'], toothpaste: ['dentifrice'],
+  yaourt: ['yogurt', 'yoghurt'], yogurt: ['yaourt'], yoghurt: ['yaourt'],
+  lait: ['milk'], milk: ['lait'],
+  eau: ['water'], water: ['eau'],
+  jus: ['juice'], juice: ['jus'],
+  pain: ['bread'], bread: ['pain'],
+  beurre: ['butter'], butter: ['beurre'],
+  fromage: ['cheese'], cheese: ['fromage'],
+  chocolat: ['chocolate'], chocolate: ['chocolat'],
+  lessive: ['detergent', 'laundry'], detergent: ['lessive'],
+  biere: ['bière', 'beer'], 'bière': ['biere', 'beer'], beer: ['bière', 'biere'],
+  vin: ['wine'], wine: ['vin'],
+  moto: ['scooter', 'deux-roues'], scooter: ['moto', 'deux-roues'],
+  telephonie: ['telephone', 'smartphone', 'mobile'], telephone: ['telephonie', 'smartphone'], smartphone: ['telephone', 'mobile'],
+  ordinateur: ['computer', 'pc'], computer: ['ordinateur', 'pc'], pc: ['ordinateur'],
+};
+
 app.get('/api/search', (req, res) => {
   const q = norm(String(req.query.q ?? '').trim());
   const pref = getPref(req);
+  const variants = [q, ...(SYNONYMES[q] ?? []).map((v) => norm(v))];
   if (!q) {
     res.json({ q: '', pref, secteurs: [], groupes: [], masquees: 0 });
     return;
   }
+  const matchAny = (hay: string) => variants.some((v) => v.length >= 2 && hay.includes(v));
   const secteursMatch = secteurs.filter(
     (s) =>
-      norm(s.nom).includes(q) ||
-      (s.keywords ?? []).some((k) => norm(k).includes(q)) ||
-      (s.aliases ?? []).some((a) => norm(a).includes(q)),
+      matchAny(norm(s.nom)) ||
+      (s.keywords ?? []).some((k) => matchAny(norm(k))) ||
+      (s.aliases ?? []).some((a) => matchAny(norm(a))),
   );
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
   const produitsMatch: { produit: Produit; groupe: ReturnType<typeof withStatut>; secteur: { id: string; num: string; nom: string } }[] = [];
@@ -271,14 +296,14 @@ app.get('/api/search', (req, res) => {
       );
       const haySecteur = norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' '));
       const hayProduits = g.produits.map((p) => norm([p.nom, p.note ?? ''].join(' ')));
-      const matchContexte = hayContexte.includes(q);
-      const matchSecteur = haySecteur.includes(q);
-      const matchProduit = hayProduits.some((h) => h.includes(q));
+      const matchContexte = matchAny(hayContexte);
+      const matchSecteur = matchAny(haySecteur);
+      const matchProduit = hayProduits.some((h) => matchAny(h));
       if (!matchContexte && !matchSecteur && !matchProduit) continue;
       if (item.recommande) {
         groupesMatch.push(item);
         for (let i = 0; i < g.produits.length; i++) {
-          if (matchContexte || hayProduits[i].includes(q)) {
+          if (matchContexte || matchAny(hayProduits[i])) {
             produitsMatch.push({ produit: g.produits[i], groupe: item, secteur: { id: s.id, num: s.num, nom: s.nom } });
           }
         }
