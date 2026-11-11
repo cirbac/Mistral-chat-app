@@ -58,6 +58,31 @@ body {
   grid-column: 2;
 }
 
+.cats-nav {
+  grid-column: 1 / -1;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 8px 0 2px;
+  scrollbar-width: thin;
+}
+
+.cats-nav-btn {
+  flex: 0 0 auto;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--cirba-blanc);
+  font-size: 0.8rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.cats-nav-btn:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
 .hero {
   background-color: #1e3a8a;
   background-image:
@@ -152,10 +177,38 @@ body {
   border-radius: 999px;
 }
 
-.account-btn svg {
-  display: block;
-  fill: #ffffff;
-  filter: drop-shadow(0 1px 2px rgba(107, 114, 128, 0.9));
+.theme-btn {
+  font-size: 1.15rem;
+  line-height: 1;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--cirba-blanc);
+  cursor: pointer;
+}
+
+.theme-btn:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.hero-pref {
+  margin-top: 14px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.85rem;
+  color: var(--cirba-gris);
+}
+
+.hero-pref select {
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--cirba-blanc);
+  font-size: 0.85rem;
 }
 
 .controls {
@@ -301,6 +354,17 @@ button:hover {
   text-align: left;
   font: inherit;
   color: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+.prod-img {
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  background: var(--bordure);
 }
 
 .carte h3 {
@@ -440,11 +504,23 @@ button:hover {
 
 .footer {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 14px;
   padding: 44px 24px;
   background: var(--cirba-noir);
   border-top: 4px solid #ffd200;
+}
+
+.footer-admin {
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
+.footer-admin:hover {
+  color: #ffd200;
 }
 
 .footer-logo {

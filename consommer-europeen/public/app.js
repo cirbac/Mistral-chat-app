@@ -34,14 +34,12 @@ const IMAGES = {
 
 const el = {
   pref: document.getElementById('pref'),
-  accountBtn: document.getElementById('account-btn'),
-  accountModal: document.getElementById('account-modal'),
-  accountClose: document.getElementById('account-close'),
-  themeToggle: document.getElementById('theme-toggle'),
+  themeBtn: document.getElementById('theme-btn'),
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
   homeGrid: document.getElementById('home-grid'),
+  catsNav: document.getElementById('cats-nav'),
   pharesTitre: document.getElementById('phares-titre'),
   pharesGrid: document.getElementById('phares-grid'),
   nouveauxTitre: document.getElementById('nouveaux-titre'),
@@ -65,7 +63,8 @@ const el = {
 function applyTheme(theme) {
   document.documentElement.dataset.theme = theme;
   try { localStorage.setItem('ce-theme', theme); } catch {}
-  el.themeToggle.textContent = theme === 'dark' ? '☀️ Passer en mode jour' : '🌙 Passer en mode nuit';
+  el.themeBtn.textContent = theme === 'dark' ? '☀️' : '🌙';
+  el.themeBtn.title = theme === 'dark' ? 'Passer en mode jour' : 'Passer en mode nuit';
 }
 
 function currentTheme() {
@@ -116,10 +115,24 @@ function renderPrefSelect() {
   }
 }
 
+function imageProduit(r) {
+  return r.produit.image || IMAGES[r.secteur.num] || '';
+}
+
 function carteProduit(r) {
   const card = document.createElement('button');
   card.type = 'button';
   card.className = 'carte carte-produit';
+  const img = document.createElement('img');
+  img.className = 'prod-img';
+  img.loading = 'lazy';
+  img.alt = '';
+  img.src = imageProduit(r);
+  img.onerror = () => {
+    if (IMAGES[r.secteur.num] && img.src !== IMAGES[r.secteur.num]) img.src = IMAGES[r.secteur.num];
+    else img.remove();
+  };
+  card.appendChild(img);
   const h = document.createElement('h3');
   h.textContent = r.produit.nom;
   const meta = document.createElement('div');
@@ -162,6 +175,15 @@ function renderHome() {
   el.results.textContent = '';
   el.chips.textContent = '';
   el.homeGrid.textContent = '';
+  el.catsNav.textContent = '';
+  for (const s of state.meta.secteurs) {
+    const navBtn = document.createElement('button');
+    navBtn.type = 'button';
+    navBtn.className = 'cats-nav-btn';
+    navBtn.textContent = `${s.num} · ${s.nom}`;
+    navBtn.addEventListener('click', () => showSecteur(s.id));
+    el.catsNav.appendChild(navBtn);
+  }
   for (const s of state.meta.secteurs) {
     const card = document.createElement('button');
     card.type = 'button';
@@ -608,23 +630,13 @@ el.search.addEventListener('input', () => {
 el.pref.addEventListener('change', () => {
   state.pref = el.pref.value;
   try { localStorage.setItem('ce-pref', state.pref); } catch {}
+  state.accueilPref = null;
   if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
   else doSearch();
 });
 
-el.themeToggle.addEventListener('click', () => {
+el.themeBtn.addEventListener('click', () => {
   applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
-});
-
-el.accountBtn.addEventListener('click', () => {
-  el.accountEmail.textContent = el.accountEmail.dataset.email || '';
-  el.accountModal.classList.remove('hidden');
-});
-
-el.accountClose.addEventListener('click', () => el.accountModal.classList.add('hidden'));
-
-el.accountModal.addEventListener('click', (e) => {
-  if (e.target === el.accountModal) el.accountModal.classList.add('hidden');
 });
 
 el.logoHome.addEventListener('click', () => renderHome());
