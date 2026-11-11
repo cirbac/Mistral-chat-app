@@ -435,8 +435,12 @@ button:hover {
 }
 
 .cat-icone {
-  font-size: 1.7rem;
-  line-height: 1;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 10px;
+  flex-shrink: 0;
+  background: var(--cirba-gris);
 }
 
 .cat-corps {
@@ -590,6 +594,10 @@ button:hover {
 [data-theme='dark'] body {
   background: #0f0f10;
   color: #f2f2f2;
+}
+
+[data-theme='dark'] .cat-icone {
+  background: #242426;
 }
 
 [data-theme='dark'] .cat-card,
