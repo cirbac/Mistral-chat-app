@@ -508,17 +508,32 @@ button:hover {
 
 
 .detail {
-  position: sticky;
-  top: 20px;
   min-width: 0;
-  max-width: 100%;
   overflow-wrap: anywhere;
-  background: var(--glass);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+}
+
+.detail-card {
+  position: relative;
+  width: min(680px, 94vw);
+}
+
+.detail-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 2;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
   border: 1px solid var(--glass-border);
-  border-radius: 14px;
-  padding: 20px 22px;
+  background: var(--glass);
+  color: #ffffff;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.detail-close:hover {
+  background: rgba(255, 255, 255, 0.2);
 }
 
 .detail.hidden {

@@ -49,6 +49,8 @@ const el = {
   heroStats: document.getElementById('hero-stats'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
+  detailModal: document.getElementById('detail-modal'),
+  detailClose: document.getElementById('detail-close'),
   contenu: document.querySelector('.contenu'),
   footer: document.getElementById('footer'),
   logoHome: document.getElementById('logo-home'),
@@ -71,6 +73,25 @@ async function api(path) {
   return res.json();
 }
 
+function openDetail() {
+  el.detailModal.classList.remove('hidden');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeDetail() {
+  el.detailModal.classList.add('hidden');
+  document.body.style.overflow = '';
+  el.contenu.classList.remove('avec-detail');
+}
+
+el.detailClose.addEventListener('click', closeDetail);
+el.detailModal.addEventListener('click', (e) => {
+  if (e.target === el.detailModal) closeDetail();
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && !el.detailModal.classList.contains('hidden')) closeDetail();
+});
+
 function badge(statutLabel, couleur) {
   const s = document.createElement('span');
   s.className = 'badge';
@@ -89,8 +110,7 @@ function show(view) {
   state.view = view;
   el.home.classList.toggle('hidden', view !== 'home');
   el.results.classList.toggle('hidden', view === 'home');
-  el.detail.classList.add('hidden');
-  el.contenu.classList.remove('avec-detail');
+  closeDetail();
   if (view === 'home') el.search.value = '';
 }
 
@@ -162,8 +182,7 @@ async function renderAccueil() {
 function renderHome() {
   state.precedent = { type: 'home' };
   show('home');
-  el.detail.classList.add('hidden');
-  el.contenu.classList.remove('avec-detail');
+  closeDetail();
   el.results.textContent = '';
   el.chips.textContent = '';
   el.homeGrid.textContent = '';
@@ -442,8 +461,7 @@ function listeSources(container, sourcesResolues) {
 
 async function showGroupe(id) {
   const g = await api(`/api/groupes/${id}?pref=${state.pref}`);
-  el.detail.classList.remove('hidden');
-  el.contenu.classList.add('avec-detail');
+  openDetail();
   el.detail.innerHTML = '';
 
   const retour = document.createElement('button');
@@ -451,8 +469,7 @@ async function showGroupe(id) {
   retour.type = 'button';
   retour.textContent = '← Fermer la fiche';
   retour.addEventListener('click', () => {
-    el.detail.classList.add('hidden');
-    el.contenu.classList.remove('avec-detail');
+    closeDetail();
   });
   el.detail.appendChild(retour);
 
@@ -537,15 +554,14 @@ async function showGroupe(id) {
   }
 
   listeSources(el.detail, g.sourcesResolues);
-  el.detail.scrollIntoView({ behavior: 'smooth' });
+  el.detailModal.querySelector('.detail-card').scrollTop = 0;
 }
 
 async function showProduit(id) {
   const data = await api(`/api/produits/${id}?pref=${state.pref}`);
   const p = data.produit;
   const g = data.groupe;
-  el.detail.classList.remove('hidden');
-  el.contenu.classList.add('avec-detail');
+  openDetail();
   el.detail.innerHTML = '';
 
   const retour = document.createElement('button');
@@ -554,8 +570,7 @@ async function showProduit(id) {
   retour.textContent = '← Retour';
   retour.addEventListener('click', () => {
     const prec = state.precedent;
-    el.detail.classList.add('hidden');
-    el.contenu.classList.remove('avec-detail');
+    closeDetail();
     if (!prec || prec.type === 'home') renderHome();
     else if (prec.type === 'sector') showSecteur(prec.id);
     else {
@@ -676,7 +691,7 @@ async function showProduit(id) {
   }
 
   listeSources(el.detail, data.sourcesResolues);
-  el.detail.scrollIntoView({ behavior: 'smooth' });
+  el.detailModal.querySelector('.detail-card').scrollTop = 0;
 }
 
 let debounce;
