@@ -295,12 +295,14 @@ app.get('/api/search', requireAuth, (req, res) => {
     for (const g of s.groupes) {
       const item = withStatut(g, pref, s);
       const hayContexte = norm(
-        [g.groupe, ...g.marques, ...(g.aliases ?? []), s.nom, ...(s.keywords ?? []), ...(s.aliases ?? []), g.commentaire, g.siege].join(' '),
+        [g.groupe, ...g.marques, ...(g.aliases ?? []), g.commentaire, g.siege].join(' '),
       );
+      const haySecteur = norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' '));
       const hayProduits = g.produits.map((p) => norm([p.nom, p.note ?? ''].join(' ')));
       const matchContexte = hayContexte.includes(q);
+      const matchSecteur = haySecteur.includes(q);
       const matchProduit = hayProduits.some((h) => h.includes(q));
-      if (!matchContexte && !matchProduit) continue;
+      if (!matchContexte && !matchSecteur && !matchProduit) continue;
       if (item.recommande) {
         groupesMatch.push(item);
         for (let i = 0; i < g.produits.length; i++) {
