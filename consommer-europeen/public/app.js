@@ -1,6 +1,5 @@
 const state = {
-  accueil: null,
-  accueilPref: null,
+  catalogueFiltres: { secteur: '', statut: '', page: 0 },
   precedent: null,
   meta: null,
   pref: (() => { try { return localStorage.getItem('ce-pref') || 'ue'; } catch { return 'ue'; } })(),
@@ -40,13 +39,14 @@ const el = {
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
   homeGrid: document.getElementById('home-grid'),
-  pharesWrap: document.getElementById('phares-wrap'),
-  pharesPrev: document.getElementById('phares-prev'),
-  pharesNext: document.getElementById('phares-next'),
-  pharesTitre: document.getElementById('phares-titre'),
-  pharesGrid: document.getElementById('phares-grid'),
-  nouveauxTitre: document.getElementById('nouveaux-titre'),
-  nouveauxGrid: document.getElementById('nouveaux-grid'),
+  catalogue: document.getElementById('catalogue'),
+  catalogueRetour: document.getElementById('catalogue-retour'),
+  catalogueCount: document.getElementById('catalogue-count'),
+  catFiltresStatuts: document.getElementById('cat-filtres-statuts'),
+  catFiltresSecteurs: document.getElementById('cat-filtres-secteurs'),
+  catalogueResults: document.getElementById('catalogue-results'),
+  cataloguePlus: document.getElementById('catalogue-plus'),
+  btnCatalogue: document.getElementById('btn-catalogue'),
   heroStats: document.getElementById('hero-stats'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
@@ -110,7 +110,8 @@ function esc(text) {
 function show(view) {
   state.view = view;
   el.home.classList.toggle('hidden', view !== 'home');
-  el.results.classList.toggle('hidden', view === 'home');
+  el.results.classList.toggle('hidden', view === 'home' || view === 'catalogue');
+  el.catalogue.classList.toggle('hidden', view !== 'catalogue');
   closeDetail();
   if (view === 'home') el.search.value = '';
 }
@@ -125,59 +126,6 @@ function renderPrefSelect() {
     if (p.id === state.pref) opt.selected = true;
     el.pref.appendChild(opt);
   }
-}
-
-function imageProduit(r) {
-  return r.produit.image || IMAGES[r.secteur.num] || '';
-}
-
-function carteProduit(r) {
-  const card = document.createElement('button');
-  card.type = 'button';
-  card.className = 'carte carte-produit';
-  const img = document.createElement('img');
-  img.className = 'prod-img';
-  img.loading = 'lazy';
-  img.alt = '';
-  img.src = imageProduit(r);
-  img.onerror = () => {
-    if (IMAGES[r.secteur.num] && img.src !== IMAGES[r.secteur.num]) img.src = IMAGES[r.secteur.num];
-    else img.remove();
-  };
-  card.appendChild(img);
-  const h = document.createElement('h3');
-  h.textContent = r.produit.nom;
-  const meta = document.createElement('div');
-  meta.className = 'meta-ligne';
-  meta.appendChild(badge(r.groupe.statutLabel, r.groupe.statutCouleur));
-  const marque = document.createElement('span');
-  marque.textContent = `${r.groupe.groupe} · ${r.secteur.nom}`;
-  meta.appendChild(marque);
-  if (r.produit.assemblage) {
-    const ass = document.createElement('span');
-    ass.textContent = `Assemblage : ${r.produit.assemblage}`;
-    meta.appendChild(ass);
-  }
-  card.append(h, meta);
-  card.addEventListener('click', () => showProduit(r.produit.id));
-  return card;
-}
-
-async function renderAccueil() {
-  if (state.accueilPref !== state.pref) {
-    state.accueil = await api(`/api/accueil?pref=${state.pref}`);
-    state.accueilPref = state.pref;
-  }
-  const a = state.accueil;
-  if (!a) return;
-  el.pharesGrid.textContent = '';
-  for (const r of a.phares) el.pharesGrid.appendChild(carteProduit(r));
-  el.pharesTitre.hidden = a.phares.length === 0;
-  el.pharesWrap.hidden = a.phares.length === 0;
-  el.nouveauxGrid.textContent = '';
-  for (const r of a.nouveaux) el.nouveauxGrid.appendChild(carteProduit(r));
-  el.nouveauxTitre.hidden = a.nouveaux.length === 0;
-  el.nouveauxGrid.hidden = a.nouveaux.length === 0;
 }
 
 function renderHome() {
@@ -209,7 +157,6 @@ function renderHome() {
     card.addEventListener('click', () => showSecteur(s.id));
     el.homeGrid.appendChild(card);
   }
-  renderAccueil();
 }
 
 function carteGroupe(g) {
@@ -772,16 +719,81 @@ async function showSuggestions() {
 el.pref.addEventListener('change', () => {
   state.pref = el.pref.value;
   try { localStorage.setItem('ce-pref', state.pref); } catch {}
-  state.accueilPref = null;
   if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
+  else if (state.view === 'catalogue') showCatalogue(true);
   else doSearch();
 });
 
 
 el.logoHome.addEventListener('click', () => renderHome());
 
-el.pharesPrev.addEventListener('click', () => el.pharesGrid.scrollBy({ left: -520, behavior: 'smooth' }));
-el.pharesNext.addEventListener('click', () => el.pharesGrid.scrollBy({ left: 520, behavior: 'smooth' }));
+el.btnCatalogue.addEventListener('click', () => showCatalogue(true));
+el.catalogueRetour.addEventListener('click', () => renderHome());
+
+function renderFiltresCatalogue() {
+  el.catFiltresStatuts.textContent = '';
+  const statuts = [{ id: '', label: 'Tous statuts' }, ...state.meta.statuts];
+  for (const st of statuts) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'chip' + (state.catalogueFiltres.statut === st.id ? ' chip-active' : '');
+    b.textContent = st.label;
+    b.addEventListener('click', () => {
+      state.catalogueFiltres.statut = st.id;
+      state.catalogueFiltres.page = 0;
+      showCatalogue();
+    });
+    el.catFiltresStatuts.appendChild(b);
+  }
+  el.catFiltresSecteurs.textContent = '';
+  const tous = document.createElement('button');
+  tous.type = 'button';
+  tous.className = 'chip' + (state.catalogueFiltres.secteur === '' ? ' chip-active' : '');
+  tous.textContent = 'Tous secteurs';
+  tous.addEventListener('click', () => {
+    state.catalogueFiltres.secteur = '';
+    state.catalogueFiltres.page = 0;
+    showCatalogue();
+  });
+  el.catFiltresSecteurs.appendChild(tous);
+  for (const s of state.meta.secteurs) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'chip' + (state.catalogueFiltres.secteur === s.id ? ' chip-active' : '');
+    b.textContent = `${s.num} · ${s.nom}`;
+    b.addEventListener('click', () => {
+      state.catalogueFiltres.secteur = s.id;
+      state.catalogueFiltres.page = 0;
+      showCatalogue();
+    });
+    el.catFiltresSecteurs.appendChild(b);
+  }
+}
+
+async function showCatalogue(reset) {
+  if (reset) {
+    state.catalogueFiltres = { secteur: '', statut: '', page: 0 };
+  }
+  state.precedent = { type: 'home' };
+  show('catalogue');
+  renderFiltresCatalogue();
+  const f = state.catalogueFiltres;
+  const data = await api(`/api/catalogue?pref=${state.pref}&secteur=${f.secteur}&statut=${f.statut}&page=${f.page}`);
+  if (f.page === 0) el.catalogueResults.textContent = '';
+  el.catalogueCount.textContent = `${data.total} marque${data.total > 1 ? 's' : ''} référencée${data.total > 1 ? 's' : ''}`;
+  for (const g of data.groupes) el.catalogueResults.appendChild(carteGroupe(g));
+  const hasMore = (f.page + 1) * data.pageSize < data.total;
+  el.cataloguePlus.hidden = !hasMore;
+  el.cataloguePlus.textContent = `Charger plus (${el.catalogueResults.childElementCount}/${data.total})`;
+  window.scrollTo({ top: 0 });
+}
+
+el.cataloguePlus.addEventListener('click', () => {
+  state.catalogueFiltres.page++;
+  showCatalogue(false);
+});
+
+
 
 function ouvrirAjout(q) {
   el.addQ.value = q;

@@ -270,6 +270,29 @@ const SYNONYMES: Record<string, string[]> = {
   ordinateur: ['computer', 'pc'], computer: ['ordinateur', 'pc'], pc: ['ordinateur'],
 };
 
+app.get('/api/catalogue', (req, res) => {
+  const pref = getPref(req);
+  const secteurId = String(req.query.secteur ?? '');
+  const statut = String(req.query.statut ?? '');
+  const page = Math.max(0, Number(req.query.page ?? 0));
+  const PAGE = 48;
+  let list = secteurs.flatMap((s) => s.groupes.map((g) => ({ g, s })));
+  if (secteurId) list = list.filter((x) => x.s.id === secteurId);
+  let items = list.map((x) => ({
+    ...withStatut(x.g, pref, x.s),
+    secteur: { id: x.s.id, num: x.s.num, nom: x.s.nom },
+  }));
+  if (statut) items = items.filter((x) => x.statut === statut);
+  else items = items.filter((x) => x.recommande);
+  items = sortGroupes(items);
+  res.json({
+    total: items.length,
+    page,
+    pageSize: PAGE,
+    groupes: items.slice(page * PAGE, (page + 1) * PAGE),
+  });
+});
+
 app.get('/api/search', (req, res) => {
   const q = norm(String(req.query.q ?? '').trim());
   const pref = getPref(req);
