@@ -1,0 +1,3793 @@
+{
+ "distribution-et-paiement-auchan": [
+  {
+   "id": "distribution-et-paiement-auchan-3596710178780",
+   "nom": "100% pur jus POMME",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710178780"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710411177",
+   "nom": "Amande Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710411177"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710423903",
+   "nom": "Lait de coco",
+   "assemblage": "Indonésie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 0.2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710423903"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710509980",
+   "nom": "Petits Pains Grillés à la farine de blé complet sans sucres ajoutés*",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 0.225 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710509980"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710538102",
+   "nom": "pain de mie complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710538102"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710481194",
+   "nom": "Oméga 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710481194"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494200",
+   "nom": "Fourrés chocolat noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 0.375 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494200"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710357307",
+   "nom": "6 wraps de blé",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.37 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710357307"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710348961",
+   "nom": "Fromage frais de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710348961"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710364435",
+   "nom": "4 galettes de blé noirissues de l'agriculture biologique",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710364435"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710368259",
+   "nom": "Bouillon aux légumes déshydraté",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 0.08 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710368259"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710540631",
+   "nom": "Tartines Croustillantes - Seigle et sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710540631"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710512904",
+   "nom": "Chocolat noir 80% bio equateur",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 0.1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710512904"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710335596",
+   "nom": "Cancoillotte NatureIndication Géographique Protégée",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710335596"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710335534",
+   "nom": "Tranche de Fromage au lait de brebis",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710335534"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710524501",
+   "nom": "Mon moment fromager",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710524501"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710530311",
+   "nom": "4 galettes Bretonnes au ble noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710530311"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710528530",
+   "nom": "Filets de Maquereaux blancs nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 0.11 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710528530"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710396900",
+   "nom": "Riz complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710396900"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710472024",
+   "nom": "Sauce tomate basilic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710472024"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483938",
+   "nom": "Thon entier au naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F · 0.14 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483938"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710492046",
+   "nom": "Pop'apéro, lentilles, pois cassés et quinoa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.07 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710492046"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3245678049396",
+   "nom": "100% Cacao Boissons et Préparations",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245678049396"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710548835",
+   "nom": "Müesli croustillant fruits rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710548835"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-06137970",
+   "nom": "Mini cakes fourrés à la fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 210g 6 sachets",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06137970"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710409556",
+   "nom": "Miel liquide",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710409556"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710538898",
+   "nom": "SKYR NATURE0% NATURE4x100g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710538898"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710434961",
+   "nom": "Pain de mie complet sans croute",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710434961"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710384396",
+   "nom": "Lentilles corail",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710384396"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710451395",
+   "nom": "Sablés nappés Chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710451395"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710459070",
+   "nom": "Biscuits P'tit Déj 5 Céréales Complètes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710459070"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710331086",
+   "nom": "8 Tortillas de blé et maïs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.32 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710331086"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710484140",
+   "nom": "Carottes râpées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710484140"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710355952",
+   "nom": "Chips paysannes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710355952"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710465019",
+   "nom": "Tortillas Chips nature bio 150g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710465019"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710496976",
+   "nom": "Pétales riz, blé, orge, avoine et miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710496976"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710543823",
+   "nom": "Fromage blanc nature au lait demi-écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710543823"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710548859",
+   "nom": "Muesli croustillant 3 chocolats",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710548859"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710379903",
+   "nom": "100% Pur jusOrangesans pulpeRiche en vitamine C",
+   "assemblage": "centre-val-de-loire",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710379903"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710435029",
+   "nom": "VERY VEGGIE BOUCHEES PANEES BLE et OIGNONS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710435029"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710424627",
+   "nom": "Fromage de Chèvreà tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710424627"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710476091",
+   "nom": "Tortellini Ricotta Épinards",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710476091"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3245678046432",
+   "nom": "Noir Corsé Dessert 64%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245678046432"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710481736",
+   "nom": "Pain de seigle complet",
+   "assemblage": "Allemagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710481736"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710467075",
+   "nom": "Epeautre Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710467075"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494163",
+   "nom": "Muesli croustillant chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494163"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710537754",
+   "nom": "Grand padano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.12 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710537754"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254565065487",
+   "nom": "Vinaigre Balsamique de Modène 6% d'acidité",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 0.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254565065487"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710198153",
+   "nom": "Petit beurre",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710198153"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710464722",
+   "nom": "Crackers Emmental et Graines de courge 200g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710464722"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710327423",
+   "nom": "Pain d'épices au miel bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710327423"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710432677",
+   "nom": "Bâtonnets de filets de Colin d'Alaska panés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710432677"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710548828",
+   "nom": "Muesli croustillant chocolat noir et noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710548828"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710273461",
+   "nom": "8 tortillas de blé",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.32 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710273461"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710018987",
+   "nom": "Emmental râpé",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710018987"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560028715",
+   "nom": "Galettes Bretonnes pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560028715"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710347100",
+   "nom": "Sel fin de Guérande",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710347100"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710481057",
+   "nom": "Huile de colzanaturellement Riche en Oméga 3*",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710481057"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710214716",
+   "nom": "Ravioles du DauphinéAux œufs frais",
+   "assemblage": "Romans-sur-Isère",
+   "origine_pieces": null,
+   "certifications": [
+    "Label Rouge"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 0.24 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710214716"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3245678046395",
+   "nom": "Noir dessert 52%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245678046395"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710022694",
+   "nom": "Nouilles aux oeufs",
+   "assemblage": "belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710022694"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710337576",
+   "nom": "Mozzarella",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710337576"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710535651",
+   "nom": "Very veggie panés blé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.18 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710535651"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710346479",
+   "nom": "olives vertes dénoyautées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.16 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710346479"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710364787",
+   "nom": "Tortilla Chips Nature à l'huile de tournesol",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710364787"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710307579",
+   "nom": "Soja vanille Bio",
+   "assemblage": "Centre-Val de Loire",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710307579"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710324385",
+   "nom": "Tuiles saveur crème oignon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 0.17 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710324385"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710346783",
+   "nom": "Mayonnaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 0.238 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710346783"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710338450",
+   "nom": "gnocchi aux pommes de terreissus de l'agriculture biologique logo AB logo feuille FR-BIO-01 Agriculture UE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710338450"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710475117",
+   "nom": "Barres de céréalesChocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 0.138 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710475117"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710467396",
+   "nom": "Auchan yaourt grec nature 1kg",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710467396"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710531585",
+   "nom": "Tartines croquantes au froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710531585"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-20562328",
+   "nom": "Avocats Hass",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C · 3 pz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20562328"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560893610",
+   "nom": "Pains au lait",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.35 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560893610"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710336739",
+   "nom": "Pâte feuilletée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 0.23 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710336739"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710459186",
+   "nom": "Galettes pur beurre biologiques.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710459186"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710466023",
+   "nom": "BIOBeurre DOUX",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710466023"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710474417",
+   "nom": "Farine de blé biologique T65 cylindre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710474417"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710360123",
+   "nom": "Mini cakes pépites chocolat BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 0.175 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710360123"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710463824",
+   "nom": "Avoine",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710463824"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710461004",
+   "nom": "Yaourts à la grecque nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.6 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710461004"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710466450",
+   "nom": "Very veggie falafels menthex10",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710466450"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494637",
+   "nom": "velouté de légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494637"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710535675",
+   "nom": "Very veggie tofu nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710535675"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494880",
+   "nom": "Mouliné de légumes du potager Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494880"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3505625014397",
+   "nom": "Filets de merlu blanc façon fish & chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3505625014397"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710538904",
+   "nom": "SKYR Vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 400g (4x100g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710538904"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710310210",
+   "nom": "Ratatouille cuisinée",
+   "assemblage": "84170 Monteux",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 0.65 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710310210"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710396139",
+   "nom": "Sardines marinade citron",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 0.095 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710396139"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710430987",
+   "nom": "Hachés de cabillaud et colin d'Alaska au citron",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710430987"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710479726",
+   "nom": "Sirop d'érable Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710479726"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710472734",
+   "nom": "Fromage frais nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710472734"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710509973",
+   "nom": "Petits Pains Grillés complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.225 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710509973"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710497102",
+   "nom": "Barres de céréales framboise et fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.108 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710497102"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710528516",
+   "nom": "Filets de maquereaux blancs grillés nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 0.11 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710528516"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560044050",
+   "nom": "TOURNESOLTartine et Cuisine - DOUX",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560044050"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710447350",
+   "nom": "Sauce tomate provençale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.42 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710447350"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710485284",
+   "nom": "Tortilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710485284"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710490318",
+   "nom": "Ketchup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 0.56 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710490318"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710492572",
+   "nom": "Pomme Poire sans sucres ajoutés**Contient des sucres naturellement présents dans les fruits.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.71 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710492572"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710524662",
+   "nom": "Gazpacho",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710524662"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3663219009737",
+   "nom": "Nem Au Légume",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 260 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3663219009737"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710537853",
+   "nom": "Parmigiano ReggianoGrattugiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.06 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710537853"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710540846",
+   "nom": "BIO Sao Tomé Noir 76% Boisé et épicé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 0.1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710540846"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710444991",
+   "nom": "Comté",
+   "assemblage": "CP 39570 VERGES INSEE 39550 Jura Bourgogne-Franche-Comté",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710444991"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710465156",
+   "nom": "Lait demi-écrémé",
+   "assemblage": "F-59244 PETIT -FAYT",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710465156"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710002481",
+   "nom": "Barre de céréales chocolat noir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.126 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710002481"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710450923",
+   "nom": "Miel liquide Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710450923"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710299911",
+   "nom": "Pâte à pizzaRonde et Fine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.26 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710299911"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710346684",
+   "nom": "Douceur à base d'\"Aceto Balsamico di Modena IGP\"",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 0.25 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710346684"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710451357",
+   "nom": "Bâtonnets chocolat au lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710451357"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710458103",
+   "nom": "Tartines au seigle et graines de sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710458103"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710484294",
+   "nom": "Ravioli ricotta epinard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710484294"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710491810",
+   "nom": "Very veggie boulettes panees facon thai",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710491810"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494705",
+   "nom": "Velouté potiron pointe de crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494705"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710461387",
+   "nom": "Skyr nature0%nature450g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710461387"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710457120",
+   "nom": "Mayonnaise à la moutarde de Dijon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.425 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710457120"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710002467",
+   "nom": "Barres de céréales pomme verte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.126 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710002467"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560267350",
+   "nom": "Chorizo dulce",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0.225 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560267350"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710335510",
+   "nom": "Mozzarella di Bufala Campana A.O.P.",
+   "assemblage": "Italia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710335510"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560618855",
+   "nom": "Chips à l'ancienne",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560618855"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560683600",
+   "nom": "Lentilles Cuisinées à la graisse d'Oie",
+   "assemblage": "-",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560683600"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710508600",
+   "nom": "Biscottes aux 6 céréalesblé, orge, seigle, avoine, riz, sarrasin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710508600"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710477753",
+   "nom": "Palets Bretons pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710477753"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560889392",
+   "nom": "Boules chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.375 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560889392"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710525089",
+   "nom": "Huile d'olive vierge extra Fruitée. Assemblage d'huiles d'olive originaires de l'Union européenne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 0.75 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710525089"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710535965",
+   "nom": "Chocolat intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710535965"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710547623",
+   "nom": "72% Noir fèves de cacao",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710547623"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710548880",
+   "nom": "Kéfir doux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 0.75 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710548880"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710466061",
+   "nom": "Œufs",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 12 pièces (0.932 kg)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710466061"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560208186",
+   "nom": "Fromage frais nature 0% matiere grasse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 800 g (2 x (4 x 100 g))",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560208186"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710074686",
+   "nom": "Brisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 0.23 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710074686"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254566095452",
+   "nom": "100% Pur jus orange avec pulpeRiche en vitamine C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254566095452"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710015900",
+   "nom": "Cheddar",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710015900"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710466597",
+   "nom": "Sucre en poudre",
+   "assemblage": "F-80700 Royes Hauts de France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710466597"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710431090",
+   "nom": "Nachos Chips Saveur Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710431090"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710497713",
+   "nom": "Pain de mie nature spécial sandwich",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.825 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710497713"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710522125",
+   "nom": "Fromage fouetté nature au sel de mer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710522125"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-2030508084545",
+   "nom": "Pain complet intégral",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2030508084545"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710537389",
+   "nom": "Yaourt brebis nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.46 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710537389"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710537860",
+   "nom": "Ricotta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710537860"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560046429",
+   "nom": "Purée nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560046429"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710465408",
+   "nom": "Auchan bio lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710465408"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710423811",
+   "nom": "Sauce soja salée",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 0.15 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710423811"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710327416",
+   "nom": "gressins sésame Allégés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710327416"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710057436",
+   "nom": "Pomme",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.72 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710057436"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710417469",
+   "nom": "Cornichons extra-fins aux 5 aromates",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 0.185 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710417469"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710473205",
+   "nom": "100% Pur jus Pomme trouble BioSans sucres ajoutés** Comme tous les jus de fruits. Contient les sucres naturellement présents dans les fruits.",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710473205"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560013568",
+   "nom": "Filets de maquereaux Vin blanc et aromates",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.176 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560013568"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560079458",
+   "nom": "Le Camembert",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 250 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560079458"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710484157",
+   "nom": "Salade carottes râpées citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710484157"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710470150",
+   "nom": "Filets de maquereaux zestes de citron et olives",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.176 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710470150"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483525",
+   "nom": "Puree de pomme",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.58 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483525"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710451364",
+   "nom": "Biscuits fourrés chocolat au lait BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 0.185 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710451364"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710481118",
+   "nom": "Boisson amande sans sucres ajoutés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710481118"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710477760",
+   "nom": "Sauce soja Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 0.15 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710477760"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710532636",
+   "nom": "very veggie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710532636"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710074709",
+   "nom": "Feuilletée",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.23 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710074709"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710011629",
+   "nom": "Truite fumée - fumée au bois de hêtre, salage traditionnel - élevée en eau douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 0.1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710011629"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710349210",
+   "nom": "Pulpe de tomates concassées",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710349210"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710421923",
+   "nom": "Barre de céréales figue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.126 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710421923"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710425860",
+   "nom": "Produits de boulangerie à la farine de blé complet",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.32 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710425860"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710021369",
+   "nom": "Brioche tressée, AUCHAN 600g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.6 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710021369"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710308927",
+   "nom": "Chair de tomates",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710308927"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710435005",
+   "nom": "Pain Maxi Burger classic",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.33 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710435005"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710017010",
+   "nom": "Fromage blancnatureau lait entier7,8% mat gr.",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710017010"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560171541",
+   "nom": "La Pointe de Brie",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560171541"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710408092",
+   "nom": "Barres de céréales chocolat au lait et noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.126 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710408092"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710471263",
+   "nom": "BIOCRÈME ENTIÈRE ÉPAISSE 30% Mat. Gr.",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A · 0.196 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710471263"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494392",
+   "nom": "Salade coleslaw",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494392"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483549",
+   "nom": "Puree de pomme poire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.58 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483549"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710492039",
+   "nom": "Chips sans sel ajouté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710492039"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483204",
+   "nom": "Creme legere semi-épaisse18% mat. gr.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.6 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483204"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710492947",
+   "nom": "Nectar multiruits à base de concentrés BIO-Sans sucres ajoutés** **contient les sucres naturellement présents. teneur en fruits 81% minimum",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710492947"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-2030508084521",
+   "nom": "Pain multicéréales",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2030508084521"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710408269",
+   "nom": "Brownies chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0.24 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710408269"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560020955",
+   "nom": "Haricots rouges",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 400 g (250 g egoutté)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560020955"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560034709",
+   "nom": "Lentilles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 0.265 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560034709"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710513871",
+   "nom": "Noir dessert 52% Faible teneur en sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710513871"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710541621",
+   "nom": "La piquante à griller",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710541621"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710387779",
+   "nom": "Eau de source de montagne",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710387779"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710176205",
+   "nom": "Pâte à Tartiner aux Noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0.75 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710176205"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710396115",
+   "nom": "Sardines à l'huile d'olive vierge extra",
+   "assemblage": "Maroc",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 0.095 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710396115"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710330959",
+   "nom": "Mayonnaise allégée *",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710330959"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710035922",
+   "nom": "Beurre tendre demi-sel",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score D · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710035922"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560041264",
+   "nom": "Boudoirs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B · 0.175 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560041264"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710347117",
+   "nom": "Mélange de 4 céréales blé, soja, avoine et orge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710347117"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710336722",
+   "nom": "Bio pâte brisée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 0.23 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710336722"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710475643",
+   "nom": "Confiture extra abricots",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.36 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710475643"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710396429",
+   "nom": "Morceaux de thon au naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 185 g net",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710396429"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710471485",
+   "nom": "Crème dessert au chocolat bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 0.38 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710471485"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710484485",
+   "nom": "Jambon Supérieur sans couenne sans nitrite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 0.24 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710484485"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494743",
+   "nom": "Mouliné légumes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494743"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710486717",
+   "nom": "Mozzarella en cossettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710486717"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710509966",
+   "nom": "Petits Pains Grillés Froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710509966"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710475490",
+   "nom": "Pétales au chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 0.375 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710475490"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494859",
+   "nom": "Velouté de légumes du potager",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494859"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494934",
+   "nom": "Gressins Sésame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score A-PLUS · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494934"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494774",
+   "nom": "Velouté poireaux pommes de terre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494774"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710523085",
+   "nom": "Boisson coco sans sucres bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710523085"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710527892",
+   "nom": "Riz 3 couleurs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710527892"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710529636",
+   "nom": "Foie de morue fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 0.12 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710529636"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710540624",
+   "nom": "Tartines croustillantes seigle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710540624"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710355082",
+   "nom": "100% Pur JusOrange - sans pulpe. Riche en vitamine C.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710355082"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710340118",
+   "nom": "Sticks et Bretzels",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710340118"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-8436019097045",
+   "nom": "Bebida de Avena",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8436019097045"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560079533",
+   "nom": "Le Coulommiers",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 350 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560079533"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710307562",
+   "nom": "Soja chocolat biologique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)",
+    "Vegan"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710307562"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710324392",
+   "nom": "Saveur paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 0.17 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710324392"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254566524624",
+   "nom": "Fromage fraisnature",
+   "assemblage": "50260 Sottevast",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 0.72 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254566524624"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710016105",
+   "nom": "Mimolette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710016105"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710337583",
+   "nom": "BIOFeta Appellation d'Origine Protégée",
+   "assemblage": "Grèce",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710337583"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710274536",
+   "nom": "Poêlée Catalane Haricots plats + courgettes + aubergines préfrites + poivrons + oignons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.75 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710274536"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710465385",
+   "nom": "AUCHAN BIO LAIT ECREMEorigine France SOLIDAIRES POUR SOUTENIR NOS PRODUCTEURS1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710465385"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710423804",
+   "nom": "Sauce de piment sriracha",
+   "assemblage": "Vietnam",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 0.18 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710423804"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710430857",
+   "nom": "Yaourt saveur citrons au lait entier BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710430857"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710393831",
+   "nom": "Madeleines Coquilles aux oeufs frais",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 0.6 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710393831"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710414765",
+   "nom": "YAOURT A LA GRECQUE NATURE 4x125g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710414765"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710413454",
+   "nom": "BIOEmmental français râpé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710413454"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710307975",
+   "nom": "Lentilles vertes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710307975"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710435111",
+   "nom": "Lasagnes aux légumes et au tofu // lasanha com legumes e tofu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710435111"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710488230",
+   "nom": "Sardines au naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 0.095 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710488230"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710337552",
+   "nom": "BIO Parmigiano Reggiano râpé",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 0.05 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710337552"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560223721",
+   "nom": "Crème légère fluide15% mat. gr.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.6 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560223721"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710481750",
+   "nom": "Sardines à l'huile d'olive bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 0.08 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710481750"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710490035",
+   "nom": "Blanc de poulet supérieurConservation sans nitrite*",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 0.12 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710490035"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710493371",
+   "nom": "Biscuit cacao saveur orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 0.13 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710493371"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494149",
+   "nom": "Muesli croustillant graines Courge, Tournesol",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494149"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710465064",
+   "nom": "Snacks Pois chiches",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 0.06 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710465064"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710491704",
+   "nom": "Surimi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710491704"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710495825",
+   "nom": "Lait facile à digérersans lactose **lait à 1.2 % de M.G** dont lactose (<0.1g/L/100ml)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710495825"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710462308",
+   "nom": "Bio - Nectar pomme sans sucres ajoutés*A base de concentréteneur en fruits 75% minimum*Contient les sucres naturellement présents dans les fruits.",
+   "assemblage": "Alsace",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710462308"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710466931",
+   "nom": "Houmous Extra - aux pois chiches et graines de sésame - sans conservateur",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 0.18 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710466931"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710526901",
+   "nom": "Biscottes au froment",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score A · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710526901"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710526550",
+   "nom": "Citron à diluer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710526550"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710492237",
+   "nom": "Pomme Sans Sucres Ajoutés**Conformément à la règlementation. Contient des sucres naturellement présents.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 1.08 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710492237"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710485109",
+   "nom": "P'tit dej animaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710485109"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710530526",
+   "nom": "Muffins Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710530526"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710537648",
+   "nom": "Very Veggie Hachés Blé & Pois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710537648"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710406449",
+   "nom": "12 p'tits carréscrémeux",
+   "assemblage": "EMB 39300F",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.24 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710406449"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710035915",
+   "nom": "Beurre tendre doux",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710035915"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710284542",
+   "nom": "100% Pur jus Orangesans pulpeRiche en vitamine C",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710284542"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710178308",
+   "nom": "100% Pur jus multifruits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710178308"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710433155",
+   "nom": "Pain de mie nature extra moelleux nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710433155"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710466818",
+   "nom": "Tzatziki Fromage frais et concombre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710466818"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710475971",
+   "nom": "Confiture de fraises allégée en sucres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.34 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710475971"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710448630",
+   "nom": "Vinaigrette vinaigre balsamique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score D · 0.35 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710448630"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560032989",
+   "nom": "Ravioli pur boeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.8 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560032989"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710435647",
+   "nom": "Miel liquide - Boisé et parfumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710435647"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560013575",
+   "nom": "Filets de maquereaux sauce moutarde à l'ancienne",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C · 0.169 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560013575"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710471010",
+   "nom": "Wraps nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.37 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710471010"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710391882",
+   "nom": "Grains de Blé nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710391882"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710453689",
+   "nom": "Boisson végétale NOISETTE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710453689"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710337392",
+   "nom": "Le BleuFabriqué en Bresse",
+   "assemblage": "Ain",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710337392"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710307999",
+   "nom": "Couscous semi complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710307999"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710344031",
+   "nom": "12 surimi",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710344031"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710477685",
+   "nom": "Huile vierge noix de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 0.164 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710477685"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560267244",
+   "nom": "Chorizo picante",
+   "assemblage": "Espagne",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 0.225 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560267244"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710393077",
+   "nom": "Shortbreads pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710393077"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710488834",
+   "nom": "Miel de châtaignier de Midi-Pyrénées",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 0.375 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710488834"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483730",
+   "nom": "Cookies pépites de chocolat et quinoa BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 0.175 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483730"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710516001",
+   "nom": "Fusilli au blé complet",
+   "assemblage": "Italie",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710516001"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710510276",
+   "nom": "100% pj ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710510276"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710473199",
+   "nom": "pur jus d'orange issu de l'agriculture biologiqueSans pulpe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710473199"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710495139",
+   "nom": "Brisée pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.23 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710495139"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710488919",
+   "nom": "Légumes pour couscous",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN · 0.8 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710488919"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-8435177077845",
+   "nom": "Amandes décortiquées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8435177077845"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-8432022001710",
+   "nom": "Queso fresco cottage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8432022001710"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710524730",
+   "nom": "Haricots rouges façon chili",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710524730"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710536597",
+   "nom": "Thon en Morceaux au naturel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 0.112 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710536597"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560272828",
+   "nom": "Beurre doux",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560272828"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710462186",
+   "nom": "LAIT DEMI ECREMESOLIDAIRES POUR SOUTENIR NOS PRODUCTEURS*Plus juste rémunération*Vaches nourries sans OGM* -* &lt;0.9%1L",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710462186"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3245677722320",
+   "nom": "PASTA CAO au cacao et noisettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 0.75 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245677722320"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710317660",
+   "nom": "Riste d'aubergines",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.65 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710317660"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710309658",
+   "nom": "Fromage blanc issu de l'agriculture biologique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710309658"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710427321",
+   "nom": "Pain de mie aux céréales et graines",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710427321"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710402328",
+   "nom": "spécialité soja naturePicto Soja Origine France",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score B · Green-Score D · 0.6 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710402328"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560079519",
+   "nom": "Lait en poudre écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 0.3 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560079519"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560269446",
+   "nom": "PETIT SUISSENATURE 12X60 g",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 0.72 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560269446"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710470488",
+   "nom": "Bûche de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.18 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710470488"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710464807",
+   "nom": "Blanc de poulet doré au four",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 0.12 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710464807"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710055968",
+   "nom": "Fromage blanc3% matières grasses",
+   "assemblage": "29260 PLOUDANIEL",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710055968"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3245678046647",
+   "nom": "Noir fleur de sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 0.1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3245678046647"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710484461",
+   "nom": "Jambon SupérieurSans couenneConservation Sans Nitrite grâce aux extraits végétaux et antioxydant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 0.08 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710484461"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710293100",
+   "nom": "Yaourt a lagrecque nature 4x150",
+   "assemblage": "59553 Cuincy",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.6 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710293100"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254565194293",
+   "nom": "Brioche tranchée",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254565194293"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560057487",
+   "nom": "Souffles miel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.375 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560057487"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710421237",
+   "nom": "Truite fumée salage traditionnel fumée au bois de hêtre-élevée en eau douce",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710421237"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710396023",
+   "nom": "Tomates Entières Pelées au Jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 0.238 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710396023"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483198",
+   "nom": "Crème légère semi épaisse 18%",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.2 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483198"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710446742",
+   "nom": "Pain de mie extra moelleux complet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.28 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710446742"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-8423266010705",
+   "nom": "Crema de cacahuete",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D · 500g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8423266010705"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710379569",
+   "nom": "Cuillers dégustation",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710379569"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710457489",
+   "nom": "Tomates pelées entières au jus",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 0.24 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710457489"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-06172200",
+   "nom": "Brownies Gluten free",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06172200"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710492602",
+   "nom": "Les frites bistro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.6 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710492602"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710496945",
+   "nom": "Pétales riz, blé, orge",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710496945"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710484508",
+   "nom": "Ananas en morceaux au jus d'ananas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 0.34 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710484508"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710490639",
+   "nom": "4 Huiles riches en vitamine D",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710490639"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710495122",
+   "nom": "Feuilletée pur beurre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.23 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710495122"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710483983",
+   "nom": "Bio fluide15% mat. gr. légère",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score B · 0.6 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710483983"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494521",
+   "nom": "Jambon supérieur issu de l'agriculture biologique - 25% de sel**",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score D · 0.14 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494521"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710508549",
+   "nom": "Muesli Croustillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 0.375 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710508549"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494767",
+   "nom": "Velouté légumes verts",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494767"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710494903",
+   "nom": "Velouté de carottes et pointe de crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710494903"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710536412",
+   "nom": "Pesto rosso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 0.19 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710536412"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710548866",
+   "nom": "Muesli croustillant chocolat lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710548866"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710387762",
+   "nom": "Eau de source de montagne - Source Pyrénéa",
+   "assemblage": "64680 Ogeu-les-Bains",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score NOT-APPLICABLE · 1.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710387762"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710465286",
+   "nom": "Auchan lait demi écrémé origine France",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710465286"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3254560011397",
+   "nom": "100% huile de tournesol raffinée",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3254560011397"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710461370",
+   "nom": "Skyr myrtilles0%myrtilles450g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 0.45 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710461370"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710467792",
+   "nom": "Guacamole - morceaux d'avocat et poivron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710467792"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710364510",
+   "nom": "Sauce tomate petits légumes",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.18 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710364510"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710399888",
+   "nom": "Crème entière épaisse30% Mat. Gr.",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.494 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710399888"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710348442",
+   "nom": "Toasts briochés",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710348442"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-0112121111111",
+   "nom": "Petits pois carotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0112121111111"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710386291",
+   "nom": "Vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710386291"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710431564",
+   "nom": "Galettes flocons d'avoine chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 0.15 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710431564"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710424566",
+   "nom": "Crème SucréeLégèreA la vanille",
+   "assemblage": "Belgique",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.25 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710424566"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710404179",
+   "nom": "Les gourmands - Cookies cœur fondant chocolat noisette",
+   "assemblage": "Oosterhout",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 0.2 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710404179"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710407934",
+   "nom": "Gressins sésame pavot",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 0.125 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710407934"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710474424",
+   "nom": "Farine de blé semi complète biologique (T110)",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710474424"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710327874",
+   "nom": "Dessert soja chocolatPicto Soja Origine France",
+   "assemblage": "Bretagne",
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score C · 0.4 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710327874"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710082919",
+   "nom": "Toasts - nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 0.28 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710082919"
+  },
+  {
+   "id": "distribution-et-paiement-auchan-3596710338108",
+   "nom": "Betteraves rouges – cuites à la vapeur",
+   "assemblage": "rocal-sas",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 0.5 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596710338108"
+  }
+ ],
+ "alimentation-et-boissons-bel": [
+  {
+   "id": "alimentation-et-boissons-bel-3073781106497",
+   "nom": "Mini Babybel Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 7x20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781106497"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781181654",
+   "nom": "Queso Babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 9 unidades 180grs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781181654"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781150780",
+   "nom": "MINI Babybel Unser Würziger",
+   "assemblage": "Suresnes Codex",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781150780"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757019358",
+   "nom": "Semisoft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757019358"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781181630",
+   "nom": "Babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781181630"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780855358",
+   "nom": "Babybel Scheiben",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780855358"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781123784",
+   "nom": "Mini Babybel +1grt",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781123784"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757031442",
+   "nom": "Babybel Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757031442"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781150285",
+   "nom": "Babybel Mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 18 x 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781150285"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781179750",
+   "nom": "Brânză Cu Proteine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781179750"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781010978",
+   "nom": "Babybel Cheddar Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781010978"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757026004",
+   "nom": "Gouda Semisoft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 9.9 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757026004"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757024680",
+   "nom": "Plant-Based Cheese Alternative",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757024680"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781137910",
+   "nom": "Mini babybell light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 22 x 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781137910"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781099225",
+   "nom": "Mini babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 484 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781099225"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780917001",
+   "nom": "Mini Babybel light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 132 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780917001"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781086416",
+   "nom": "Cheese y crackers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781086416"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781021783",
+   "nom": "Mini Fromage Affiné Original",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781021783"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780085731",
+   "nom": "Babybel Cheese Mini Portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780085731"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781163582",
+   "nom": "Babybell Protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781163582"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781140699",
+   "nom": "Babybel Mini rico en proteínas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781140699"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781086430",
+   "nom": "Cheese & crackers mini + mini crackers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781086430"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781169706",
+   "nom": "Babybell",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 9pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781169706"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781136814",
+   "nom": "Babybel protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 25x20g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781136814"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781085495",
+   "nom": "Mini Babybel Léger Light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781085495"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781102727",
+   "nom": "Mini Babybel Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781102727"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781196993",
+   "nom": "Mini gouda taste",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781196993"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781089974",
+   "nom": "Babybel x9 mix pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781089974"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781101157",
+   "nom": "Babybel Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781101157"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781137514",
+   "nom": "Mini Babybel MIX PACK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781137514"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781158106",
+   "nom": "Top djathi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781158106"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781181746",
+   "nom": "Mini light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781181746"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757001094",
+   "nom": "Babybel Mini Original Semisoft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757001094"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757018627",
+   "nom": "Mini Light Semisoft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 21 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757018627"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781082920",
+   "nom": "Babybel Cheese & Crackers",
+   "assemblage": "Frankreich",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 40 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781082920"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781098389",
+   "nom": "Mini roule babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781098389"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780869492",
+   "nom": "Mini Babybel à L'emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780869492"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781092745",
+   "nom": "Mini Babybel quesos",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781092745"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781101171",
+   "nom": "Mini pack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781101171"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781112498",
+   "nom": "Fromage Babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 20 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781112498"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-11795526",
+   "nom": "Cheese & protein mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11795526"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781114591",
+   "nom": "Babybel cheese et fruit et nut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781114591"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781126631",
+   "nom": "Mini Babybel Light (3 portions)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781126631"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781083613",
+   "nom": "Babybel queso Mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781083613"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781061277",
+   "nom": "Frimage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781061277"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781153309",
+   "nom": "Babybel minu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781153309"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780971799",
+   "nom": "Mini Original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780971799"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-1088708001405",
+   "nom": "Mini cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1088708001405"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781178227",
+   "nom": "Plus vitamins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781178227"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757023645",
+   "nom": "Cheese white cheddar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757023645"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757026660",
+   "nom": "Babybel vegetal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757026660"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-5055933302214",
+   "nom": "baby bel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5055933302214"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757027179",
+   "nom": "Original Semi Soft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1.4 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757027179"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6023721178609",
+   "nom": "Babybel High Protein",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6023721178609"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757028152",
+   "nom": "Mini White Cheddar Variety",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 14 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757028152"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-00431403",
+   "nom": "Minibabybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 132 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00431403"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781215465",
+   "nom": "Τυράκι",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781215465"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781215489",
+   "nom": "CHEESE mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781215489"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0040057026066",
+   "nom": "Reduced Fat Semisoft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0040057026066"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757029487",
+   "nom": "Fiery Hot Babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757029487"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8801155834708",
+   "nom": "Mini Light Firm Ripened Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801155834708"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0401011245204",
+   "nom": "queso babybell",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0401011245204"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757029760",
+   "nom": "Babybel Snack Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757029760"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757028251",
+   "nom": "Variety Pack Semisoft Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757028251"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781088120",
+   "nom": "Original Babybel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781088120"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4412420252536",
+   "nom": "Cheese Alternative",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4412420252536"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781131963",
+   "nom": "Kiri® Crème 24 portions",
+   "assemblage": "sable-sur-sarthe",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 24 x 18g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781131963"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781139259",
+   "nom": "Kiri pot tartne et cuisine na",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781139259"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111028001314",
+   "nom": "Yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111028001314"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111028000591",
+   "nom": "Kiri",
+   "assemblage": "Lait",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 576 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111028000591"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781190908",
+   "nom": "Kiri Fresh Cream & Milk 2x24 Promo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781190908"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073786863111",
+   "nom": "Kiri Spreadable Cream Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 108g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073786863111"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781194586",
+   "nom": "Fromage Kiri x18",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781194586"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781180497",
+   "nom": "Kiri クリーミーポーション",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781180497"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781099379",
+   "nom": "Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781099379"
+  }
+ ]
+}

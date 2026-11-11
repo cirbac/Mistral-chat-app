@@ -1,0 +1,3647 @@
+{
+ "alimentation-et-boissons-bel": [
+  {
+   "id": "alimentation-et-boissons-bel-3073781116847",
+   "nom": "Kiri Brassé (Fraise)",
+   "assemblage": "Fqih Ben Saleh",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 110g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781116847"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111028000577",
+   "nom": "Kiri à la Crème de Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 192 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111028000577"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781144239",
+   "nom": "Kiri 80 portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781144239"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781121308",
+   "nom": "Kiri professionnel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781121308"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781171624",
+   "nom": "Labne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781171624"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781216592",
+   "nom": "Spreadable Cream Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781216592"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781097252",
+   "nom": "kiri8  1050",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 10",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781097252"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781116823",
+   "nom": "Yaourt kiri",
+   "assemblage": "Beni Mellal Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781116823"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781099058",
+   "nom": "Kiri à tartiner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781099058"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781116861",
+   "nom": "Kiri mamzouj",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score A · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781116861"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781116908",
+   "nom": "Kiri nature sucré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781116908"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111028000324",
+   "nom": "kiti yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score B · 110",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111028000324"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781117806",
+   "nom": "Lait frais et creme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781117806"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781125283",
+   "nom": "Kiri (18x)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781125283"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781083903",
+   "nom": "Délice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781083903"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-01526524",
+   "nom": "Kiri Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01526524"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780896979",
+   "nom": "Kiri Crème Coffret Présentoir",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780896979"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781090444",
+   "nom": "La vache quirite 190 g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781090444"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0628817010045",
+   "nom": "Pain",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0628817010045"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781116946",
+   "nom": "Kiri Duo Yaourt - Mûre et Myrtille",
+   "assemblage": "Morocco",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A · 110 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781116946"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781158687",
+   "nom": "Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781158687"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3273228183542",
+   "nom": "Sojasun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 216 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3273228183542"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781162745",
+   "nom": "Creme cheese product",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 18 x 18 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781162745"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111028000430",
+   "nom": "Pack kiri nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 3",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111028000430"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780969185",
+   "nom": "Les gourmandises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780969185"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780969475",
+   "nom": "Recreo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780969475"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780907194",
+   "nom": "Douceur de jben",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780907194"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781093902",
+   "nom": "Kiri Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781093902"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781093865",
+   "nom": "Kirk Snack",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781093865"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073780967457",
+   "nom": "Kiri gouter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780967457"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781106701",
+   "nom": "Cubes de fromages aromatisé tarte framboises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 78 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781106701"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781106725",
+   "nom": "Kiri petit sweets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781106725"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-9782017054566",
+   "nom": "Kiri Dippi crème et fraises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9782017054566"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-01588378",
+   "nom": "Kiri lait frais & crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01588378"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781138320",
+   "nom": "Kiri Dippi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781138320"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781014068",
+   "nom": "Kiri cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781014068"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781156126",
+   "nom": "Fromage cube Kiri",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781156126"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6023721101812",
+   "nom": "Kiri Przekaska",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6023721101812"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781163308",
+   "nom": "Pâte a tartiner duo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781163308"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-01525790",
+   "nom": "Kiri Lait Frais & Crème BIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01525790"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-23588752",
+   "nom": "Kiri Délicieusement Fouetté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score C · 210 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/23588752"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3358880300435",
+   "nom": "Kiri cheese cream",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3358880300435"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3036770935997",
+   "nom": "Kiri bâtonnets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3036770935997"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781208580",
+   "nom": "Kiri fouetté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 125g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781208580"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6111028000447",
+   "nom": "Kiri yaourt",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111028000447"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781054941",
+   "nom": "Cheese creamy spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781054941"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-00039830",
+   "nom": "Gouter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00039830"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-30737815470269",
+   "nom": "Frischkäse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/30737815470269"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781209587",
+   "nom": "Sýr a Křup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781209587"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781193527",
+   "nom": "Cheese Cube",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781193527"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781214659",
+   "nom": "Phô mai Kiri MiniSweet Raspberry Tart Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781214659"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781215298",
+   "nom": "Cream Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781215298"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781129229",
+   "nom": "Creamy Cheese Triangles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781129229"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781279269",
+   "nom": "Fromage Frais Fouetté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781279269"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8801104952774",
+   "nom": "빙또아 블루베리 크림치즈",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8801104952774"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781057027",
+   "nom": "Boursin Apéritif Les roulés Jambon fumé Echalote Ciboulette",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781057027"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781212365",
+   "nom": "Boursin Olive and Rosemary",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781212365"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813000477",
+   "nom": "Fromage frais - Canmeberges et poivre",
+   "assemblage": "Canada",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813000477"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175460000864",
+   "nom": "Boursin nature",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175460000864"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813085481",
+   "nom": "Basil & Chive Gournay Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813085481"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-4571440450015",
+   "nom": "ガーリック＆ハーブ",
+   "assemblage": "日本",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4571440450015"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0779566111061",
+   "nom": "Ravioli - Boursin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 2 x 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0779566111061"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813085610",
+   "nom": "Rosemary & Black Garlic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813085610"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781143898",
+   "nom": "fromage au citron et romarin edition limitee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781143898"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781155754",
+   "nom": "Bourrin nature touche de sel de gerande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781155754"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781134414",
+   "nom": "Carotte orange",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781134414"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757024154",
+   "nom": "Tartine Végétale Avec Ail & Fines Herbes Sans Produits Latiers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score A · 425 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757024154"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781157314",
+   "nom": "Boursin à tartiner lentilles corail, poivron et tomate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781157314"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813000163",
+   "nom": "Boursin Cracked Black Pepper Soft White Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813000163"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781088571",
+   "nom": "Boursin apéritif tomates et herbes méditerranéennes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781088571"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-8722700058847",
+   "nom": "Salade & apéritif au chèvre et fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 120g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8722700058847"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-05787322",
+   "nom": "Salade & apéritif    échalote et ciboulette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05787322"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-18757873",
+   "nom": "Boursin ail et fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/18757873"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3175460000895",
+   "nom": "Boursin Nature 42 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3175460000895"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781112917",
+   "nom": "Boursin portions echalote et ciboulette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781112917"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781158168",
+   "nom": "Spécialiste culinaire à la tomate et herbes méditerranée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781158168"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781158144",
+   "nom": "Boursin cuisine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781158144"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781165968",
+   "nom": "Boursin Oignons rissolés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781165968"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781157512",
+   "nom": "Boursin mini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781157512"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813085580",
+   "nom": "Caramelized onion and herbs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 5.3 oz",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813085580"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781095838",
+   "nom": "Fromage à l'ail et aux fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 160g (10 x 16 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781095838"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0201999008866",
+   "nom": "Boursin basilic et pignon de pin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0201999008866"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781020977",
+   "nom": "Tartine Et Création Boursin Ail & Fines Herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781020977"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781088311",
+   "nom": "Boursin figue et noix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781088311"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781088649",
+   "nom": "Roulés de jambon fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781088649"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781091595",
+   "nom": "Boursin apéritif",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 100",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781091595"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781091908",
+   "nom": "Billes ail & fines herbes coeur tomate confite",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781091908"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781108743",
+   "nom": "Boursin ail & fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781108743"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781112894",
+   "nom": "Portion",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781112894"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781123005",
+   "nom": "Lot boursin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 2 x 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781123005"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781123043",
+   "nom": "Lot de 2 boursin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 2 x 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781123043"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0816475020326",
+   "nom": "Fromageboursin ail et fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0816475020326"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-1073564910923",
+   "nom": "Aperif roulés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1073564910923"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0206244013732",
+   "nom": "Burger de cabaillaud",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0206244013732"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0334622170002",
+   "nom": "Boursin canneberge et poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0334622170002"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-31319843",
+   "nom": "Pois chiche ail et fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/31319843"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-1073585159196",
+   "nom": "Patate Douce & Romarin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1073585159196"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781177282",
+   "nom": "Hot cheese bites with red pepper",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781177282"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-1073565099641",
+   "nom": "boursin ail et fines herbed",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/1073565099641"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0205663014634",
+   "nom": "ROULES AU SPECK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0205663014634"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781166392",
+   "nom": "Fromage nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781166392"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0798137146028",
+   "nom": "Canneberge & poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0798137146028"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3934460001604",
+   "nom": "Fromage Ail & Fines herbes - 6 portions",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3934460001604"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781166286",
+   "nom": "Boursin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781166286"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-6023721045796",
+   "nom": "Boursin boules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6023721045796"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781177299",
+   "nom": "Hot cheese bites with mushroom",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781177299"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3076881034806",
+   "nom": "Boursin noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3076881034806"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781017731",
+   "nom": "Boursin tartine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781017731"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-09725959",
+   "nom": "salade&apéritif",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/09725959"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781182880",
+   "nom": "Boursin mini ails et fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 260g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781182880"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-01525922",
+   "nom": "Boursin ail & fine herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D · 150",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01525922"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-01526089",
+   "nom": "Boursin végétal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01526089"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813085443",
+   "nom": "Garlic and fine herbs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813085443"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073781179804",
+   "nom": "Croustillants de fromage et poivrons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073781179804"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-41481271",
+   "nom": "Delice de tzatziki et boyrsin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/41481271"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813085498",
+   "nom": "BLACK TRUFFLE & SEA SALT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813085498"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-3073381174452",
+   "nom": "Saumon et boursin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 150 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073381174452"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0073781034769",
+   "nom": "salade et apéritif",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0073781034769"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0073781116090",
+   "nom": "AIL ET FINES HERBES 150 GRS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0073781116090"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0307381134452",
+   "nom": "Boursin saumon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0307381134452"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813064004",
+   "nom": "Garlic & Fine Herbs Crumbles",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813064004"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0041757028688",
+   "nom": "Dairy-Free Tomato & Herb Spread",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0041757028688"
+  },
+  {
+   "id": "alimentation-et-boissons-bel-0079813064028",
+   "nom": "crumbles CARAMELIZED ONION & HERBS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0079813064028"
+  }
+ ],
+ "alimentation-et-boissons-nestle": [
+  {
+   "id": "alimentation-et-boissons-nestle-7613287162366",
+   "nom": "Grande intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 144g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287162366"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036118149",
+   "nom": "Espresso generoso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036118149"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036869058",
+   "nom": "Dolce Gusto Grande Mornin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 160 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036869058"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3023290025611",
+   "nom": "Shakissimo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3023290025611"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036562812",
+   "nom": "Nescafé Dolce Gusto Cápsulas de Café con Leche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 18 x 10 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036562812"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7891000110416",
+   "nom": "Kirma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891000110416"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287359056",
+   "nom": "Recharge 170g nescafé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287359056"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033024290",
+   "nom": "Caramel Latte Macchiato Capsules Of Roast And Ground Coffee Milk Mix, Caramel",
+   "assemblage": "ESPAÑA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 1 milk capsule",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033024290"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8410100020853",
+   "nom": "Café soluble descafeinado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410100020853"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8410100020808",
+   "nom": "Alta rica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410100020808"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9556001249128",
+   "nom": "Soluble Coffee Nescafe Classic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9556001249128"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036318167",
+   "nom": "DOLCE GUSTO BIO Espresso Honduras",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036318167"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613032870638",
+   "nom": "3 x Nescafé Dolce Gusto Capsules Latte Macchiato Vanilla (je 16 Capsules) Ea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032870638"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8000300197815",
+   "nom": "Gold mocaccino preparato solubile pe caffè al",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8000300197815"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8850124012869",
+   "nom": "Coffee 3 In 1 Espresso Roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 17.5 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8850124012869"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630030359163",
+   "nom": "10 Nespresso Volluto Capsules",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630030359163"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613032836641",
+   "nom": "Decaf DESCAFEINADO",
+   "assemblage": "Chile",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032836641"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5000243800653",
+   "nom": "Coconut Flat White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000243800653"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290779991",
+   "nom": "Dolce Gusto café con leche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290779991"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290634795",
+   "nom": "chocolate carmel Brownie mocha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 149.8g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290634795"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033112973",
+   "nom": "Sical",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 16",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033112973"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-3023290232538",
+   "nom": "Shakissimo espresso latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3023290232538"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5410001291003",
+   "nom": "Nescafé Gold Decaf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410001291003"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058629135",
+   "nom": "CAPPUCCINO ORIGINAL",
+   "assemblage": "MEXICO",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058629135"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058619891",
+   "nom": "Dolca canela",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058619891"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058624161",
+   "nom": "Nescafé Reserva XIAPAN Café puro soluble",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058624161"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477879774",
+   "nom": "Africas Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477879774"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-03786185",
+   "nom": "Nestlé Nesquik",
+   "assemblage": "España",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 256 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03786185"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290771414",
+   "nom": "Sticky Toffee Pudding Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290771414"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5011546405971",
+   "nom": "Cappucino Mocha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5011546405971"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033024030",
+   "nom": "Nestea lemon",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033024030"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5613234542854",
+   "nom": "Nescafe cappucino noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5613234542854"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5400113609087",
+   "nom": "Café Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 78 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5400113609087"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8718657493398",
+   "nom": "Latte Macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8718657493398"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036943529",
+   "nom": "Starbucks caramel macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036943529"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038877044",
+   "nom": "Almond Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · 96g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038877044"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058642646",
+   "nom": "Nescafé Taster's Choice Decaffeinated Blend",
+   "assemblage": "USA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058642646"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6294017105979",
+   "nom": "NESCAFE Gold Cappuccino unsweetened taste",
+   "assemblage": "Dubai",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 142",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6294017105979"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290183965",
+   "nom": "Salted caramel mocha",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 19 gram",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290183965"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290760197",
+   "nom": "Nescafe Gold Caramel Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 5x17g (85g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290760197"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287946638",
+   "nom": "Classic Mocha instant coffee mix",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 15g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287946638"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9300605114180",
+   "nom": "blend 43 coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300605114180"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-4613448568436",
+   "nom": "Nescafé cappucino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4613448568436"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036323864",
+   "nom": "Dolce Gusto Perú espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036323864"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058629111",
+   "nom": "Nescafé Cappuccino Light",
+   "assemblage": "Ciudad de México",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN · (6 x 20 g) 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058629111"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058629173",
+   "nom": "CAPPUCCINO MOKA",
+   "assemblage": "MEXICO",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 132 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058629173"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035705746",
+   "nom": "Toffee nut latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035705746"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036639682",
+   "nom": "Nescafe Dolce Gusto Bio Mexico Grande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036639682"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7617014188414",
+   "nom": "Ristretto string édition",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7617014188414"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036880206",
+   "nom": "Dolce Gusto Americano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036880206"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033735257",
+   "nom": "Cafè soluble 3 a 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033735257"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036318105",
+   "nom": "Colombia lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036318105"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-43863226",
+   "nom": "Cappucino dolce gusto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/43863226"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038086774",
+   "nom": "Cold brew coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038086774"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5000243800554",
+   "nom": "Almond Flat White",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000243800554"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477880015",
+   "nom": "Nescafé Colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477880015"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5000243800158",
+   "nom": "Café latte Amande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000243800158"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613039910023",
+   "nom": "Coconut macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613039910023"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477879699",
+   "nom": "Farmers Origins India Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477879699"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9300605143982",
+   "nom": "Iced cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9300605143982"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035511576",
+   "nom": "Bracafé",
+   "assemblage": "Brasil",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035511576"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720483",
+   "nom": "Nepresso Roma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720483"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287953155",
+   "nom": "Nescafe dolca suave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287953155"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290758156",
+   "nom": "Nescafé 2in1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290758156"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6111018501572",
+   "nom": "Café Soluble Nescafé Classic (90G)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6111018501572"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613031314072",
+   "nom": "Nescafé capuccino international",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613031314072"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033523113",
+   "nom": "Nescafé Espresso 100% arabica",
+   "assemblage": "United Kingdom",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033523113"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613034941718",
+   "nom": "3in1 warmy caramel",
+   "assemblage": "Hungary",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 16g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034941718"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035675773",
+   "nom": "Nescafé Xpress Latte Macchiato Dose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035675773"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036304801",
+   "nom": "Americano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036304801"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8594002786441",
+   "nom": "Nescafe Shakissimo Latte Macchiato 190ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594002786441"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-9002100110413",
+   "nom": "Nescafe Classic, Mild 200 Glas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9002100110413"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8850127003819",
+   "nom": "Expresso roast",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8850127003819"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035697508",
+   "nom": "CHOCOCINO",
+   "assemblage": "INGLATERRA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 256 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035697508"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6001068328703",
+   "nom": "Ricoffy Décaf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6001068328703"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-59463344",
+   "nom": "Nescafe 3 In 1 Original Cafea Instant Plic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 15 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/59463344"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8690632038407",
+   "nom": "nescafe 2x1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 paket",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8690632038407"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036532655",
+   "nom": "Nescafe Gold Choco Caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 168 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036532655"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035988576",
+   "nom": "Cappuccino skinny",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035988576"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613032629878",
+   "nom": "Cappucino unsweetened taste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032629878"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037209587",
+   "nom": "Nescafe Classic Descafeinado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037209587"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-43843470",
+   "nom": "Marrakech tea",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/43843470"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038575773",
+   "nom": "Neacafe Original 2 in 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038575773"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037787801",
+   "nom": "Cáspulas de Café Latte Macchiato Vainilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037787801"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-10101517",
+   "nom": "Lustucru ricotta epinards",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 349,5",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10101517"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036943659",
+   "nom": "Starbucks Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · x 6 portions",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036943659"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-19365617",
+   "nom": "Nesquik",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19365617"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5000243800738",
+   "nom": "Coconut café late",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000243800738"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477879859",
+   "nom": "Nescafé 3 Americas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477879859"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037312249",
+   "nom": "Nescafé Dolca capuchino light",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037312249"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287184085",
+   "nom": "Chocolate & caramelised hazelnut latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287184085"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287290403",
+   "nom": "café instantáneo",
+   "assemblage": "Argentina",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 170 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287290403"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5000243800028",
+   "nom": "Oat caffe latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Vegan"
+   ],
+   "note": "Nutri-Score E · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5000243800028"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290780140",
+   "nom": "Cortado espresso macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290780140"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477879651",
+   "nom": "Kapsel Kaffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477879651"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613287587381",
+   "nom": "Espresso Barista",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613287587381"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036941150",
+   "nom": "HOUSE BLEND Americano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036941150"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-06136567",
+   "nom": "Nescafe Gold Blend 100g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/06136567"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-13695634",
+   "nom": "Nescafé café viennois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 306 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/13695634"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5410001328006",
+   "nom": "Nescafe Espresso Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410001328006"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-6137802541470",
+   "nom": "Catuai Do Brasil",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6137802541470"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613034679642",
+   "nom": "70X1.8G Stick Espresso Nescafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 70 dosettes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034679642"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7610100026782",
+   "nom": "GOLD DE LUXE",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610100026782"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613032937676",
+   "nom": "16 Doses Tea Latte Dolce Gusto Nescafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032937676"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033188244",
+   "nom": "Nescafe Gold Blend Coffee 200G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033188244"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033670282",
+   "nom": "Nescafé Gold Crema",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033670282"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613034926289",
+   "nom": "Nescafé  espresso macchiato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034926289"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7891000076392",
+   "nom": "Cappuccino Solúvel Tradicional Nescafé Lata 200g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7891000076392"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8594002786595",
+   "nom": "Nescafé shakissimo latte decaf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 190ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8594002786595"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033596995",
+   "nom": "Lactrofree UHT",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033596995"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0028000301101",
+   "nom": "Nescafé Toaster's choice, house blend",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0028000301101"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613032864491",
+   "nom": "Chai Tea Latte Spice Flavored Tea Beverage Mix And Milk Powder With Sugar, Chai Tea Latte",
+   "assemblage": "ESPAÑA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 8 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032864491"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035953789",
+   "nom": "Gold Cappuccino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035953789"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-56434385",
+   "nom": "Nescafé sélection corsé et intense",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/56434385"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035987524",
+   "nom": "Nescafé GOLD Cappuccino DECAF",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035987524"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613032870652",
+   "nom": "Vanilla Flavor Latte Macchiato, Vanilla",
+   "assemblage": "ESPAÑA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 1 milk capsule",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613032870652"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613034590565",
+   "nom": "CAPPUCCINO ICE",
+   "assemblage": "INGLATERRA",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 216 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613034590565"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501791669184",
+   "nom": "CAPPUCCINO DESCAFEINADO",
+   "assemblage": "MEXICO",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501791669184"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058629159",
+   "nom": "CAPPUCCINO VAINILLA",
+   "assemblage": "MEXICO",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 132 G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058629159"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036950923",
+   "nom": "Nescafé Dolce Gusto - Café au lait -",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036950923"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036554176",
+   "nom": "3 en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 18 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036554176"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035488625",
+   "nom": "Nescafé Gold 100G Luomu Pikakahvi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable",
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035488625"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613033527180",
+   "nom": "Nescafe Doble Choca Moka",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613033527180"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7501058628480",
+   "nom": "Decaf extra suave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501058628480"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036065900",
+   "nom": "Azera Nitro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036065900"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7617014188391",
+   "nom": "Espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7617014188391"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036601528",
+   "nom": "MILK TEA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 184 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036601528"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-14197545",
+   "nom": "Nescafe espresso original",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/14197545"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-5601988076251",
+   "nom": "Latte macchiato caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5601988076251"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613035854079",
+   "nom": "Cappuccino WHITE CHOCO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613035854079"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037051339",
+   "nom": "Café descafeinado expresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037051339"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038046365",
+   "nom": "Dulce Gusto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038046365"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038098920",
+   "nom": "Grande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038098920"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037472202",
+   "nom": "Dolce gusto espresso intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037472202"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036460408",
+   "nom": "Nescafé Original Caramel 3 en 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036460408"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613037564860",
+   "nom": "Cappucino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613037564860"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613036318075",
+   "nom": "Peru espresso",
+   "assemblage": "Angleterre",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score F · 336 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613036318075"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613031794348",
+   "nom": "Lungo Decaffeinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613031794348"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-11016489",
+   "nom": "nescafe shakissimo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 190 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11016489"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720643",
+   "nom": "Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720643"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493614",
+   "nom": "Capsule Nespresso the original collection volluto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493614"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720070",
+   "nom": "Livanto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 53g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720070"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585382746",
+   "nom": "India",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585382746"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585370859",
+   "nom": "Caramello",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585370859"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585326054",
+   "nom": "ALTISSIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585326054"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585382982",
+   "nom": "Ethiopia Master Origins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585382982"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428718336",
+   "nom": "Napoli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 57g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428718336"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428719371",
+   "nom": "arpeggio coffee pods",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428719371"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630751792027",
+   "nom": "Nespresso Golden Caramel Vertuo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630751792027"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585384160",
+   "nom": "venezia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585384160"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585382357",
+   "nom": "Paris espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585382357"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311558674",
+   "nom": "Nespresso café",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311558674"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428719715",
+   "nom": "Arpeggio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 56 g (10 x 5.6 g)",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428719715"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428722678",
+   "nom": "Wordl exploration Nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 60g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428722678"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493492",
+   "nom": "Volluto decaffeinato Cafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493492"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311538232",
+   "nom": "Dosette cafe leggero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311538232"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428700843",
+   "nom": "COLOMBIA ORGANIC",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428700843"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585326627",
+   "nom": "Orafio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585326627"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585383958",
+   "nom": "Colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 57g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585383958"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290188281",
+   "nom": "Dark Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290188281"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311573127",
+   "nom": "Active",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311573127"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585377490",
+   "nom": "nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585377490"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493652",
+   "nom": "Cosi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493652"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493935",
+   "nom": "Café CAPRICCIO",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493935"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290627230",
+   "nom": "nespresso dark chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290627230"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428705534",
+   "nom": "Nespresso Double Espresso Scuro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428705534"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311550050",
+   "nom": "Indonesia Master Origins",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311550050"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630030392467",
+   "nom": "Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630030392467"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428718312",
+   "nom": "NESPRESSO Napoli",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428718312"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428733025",
+   "nom": "Café noisette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428733025"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428717995",
+   "nom": "Capsule Nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4.8 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428717995"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477846097",
+   "nom": "Descaling",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 200ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477846097"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311537785",
+   "nom": "Ristretto Intenso Kaffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311537785"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630751706598",
+   "nom": "Barista creations Nocciola flavoured",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630751706598"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428788841",
+   "nom": "Spécial réserve",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428788841"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720469",
+   "nom": "Roma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720469"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630099203315",
+   "nom": "Tokyo Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630099203315"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720667",
+   "nom": "Ispirazione Italiana Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720667"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493812",
+   "nom": "Capriccio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493812"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311511761",
+   "nom": "Rio de Janeiro espresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311511761"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585316949",
+   "nom": "Inizio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585316949"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585378213",
+   "nom": "Palermo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585378213"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290188625",
+   "nom": "Nespresso Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290188625"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585327402",
+   "nom": "Intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585327402"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585325705",
+   "nom": "Vertuo Melozio Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585325705"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630751791945",
+   "nom": "Golden Caramel Vertuo Nespresso Pods",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630751791945"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585383309",
+   "nom": "World Explorations Cape Town Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585383309"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585384641",
+   "nom": "Buenos aires lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 56g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585384641"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585327679",
+   "nom": "Nespresso Coffee",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585327679"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585371030",
+   "nom": "Cioccolatino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585371030"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585396422",
+   "nom": "White Chocolate & Strawberry Vertuo Pod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585396422"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-0659585393900",
+   "nom": "Nespresso Pistachio Vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1 capsule 80ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0659585393900"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585383545",
+   "nom": "Ispirazione Italians arpeggio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 53g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585383545"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585312422",
+   "nom": "Espressl Bianco Piccolo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585312422"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630585396187",
+   "nom": "Pistachio Vanilla Flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630585396187"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047676086",
+   "nom": "Nespresso napoli intensité 13",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047676086"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054475481",
+   "nom": "Expresso ristretto décaféiné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054475481"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039695521",
+   "nom": "Capsule café ethiopia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 57 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039695521"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047652875",
+   "nom": "Double Espresso Chiaro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10 dosettes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047652875"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039685416",
+   "nom": "NESPRESSO livanto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039685416"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039686116",
+   "nom": "Caramelito Variations",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039686116"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047675867",
+   "nom": "Chiaro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 48 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047675867"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047663987",
+   "nom": "Cadeau 10 boites achetées",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 76 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047663987"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054474804",
+   "nom": "Cápsulas Café Ispirazione Ristretto Italiano",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054474804"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039685614",
+   "nom": "Nespresso Kazaar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039685614"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039686857",
+   "nom": "Nespresso Ristretto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039686857"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047653032",
+   "nom": "Nespresso Melozio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047653032"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039687144",
+   "nom": "Espresso leggero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039687144"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311549795",
+   "nom": "café  Nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311549795"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039686598",
+   "nom": "Nespresso ristretto decafeine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 55.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039686598"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047652899",
+   "nom": "Double Espresso Scuro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10 dosettes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047652899"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047675768",
+   "nom": "Corto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047675768"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054475665",
+   "nom": "Cápsula café  Ispirazione  Roma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054475665"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054494154",
+   "nom": "Nespresso Shanghai Lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054494154"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428723033",
+   "nom": "vienna lungo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428723033"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039688127",
+   "nom": "Lungo leggero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039688127"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047652677",
+   "nom": "Café Altissio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10 capsules",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047652677"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054457067",
+   "nom": "Scuro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 55.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054457067"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039687229",
+   "nom": "Capsules ristretto professionnelle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039687229"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047675225",
+   "nom": "Variation nordic  nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047675225"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047680588",
+   "nom": "Nespresso vanilla eclair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047680588"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311509645",
+   "nom": "Reviving origins organic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311509645"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039688042",
+   "nom": "Capsules de café Lungo Forte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039688042"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7640140333151",
+   "nom": "Earl Grey",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640140333151"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047653070",
+   "nom": "Colombia Vertuo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047653070"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054475542",
+   "nom": "Nespreso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054475542"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054480072",
+   "nom": "Caramel Cookie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054480072"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493010",
+   "nom": "Nespresso india",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493010"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054494642",
+   "nom": "Linizio Lungo 4 Stangen",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054494642"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311509317",
+   "nom": "Nespresso Forest Fruit Flavor",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311509317"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428712112",
+   "nom": "Fortado",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428712112"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630751741223",
+   "nom": "Ispirazione Aosta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10 unités 48g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630751741223"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428735166",
+   "nom": "Barista creations rick chocolate flavoured",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428735166"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630030301704",
+   "nom": "Milk Chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630030301704"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047675928",
+   "nom": "Café chiaro",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047675928"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039695682",
+   "nom": "Master Origin Colombia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039695682"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047652714",
+   "nom": "Nespresso Alto Intenso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047652714"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054476280",
+   "nom": "Ispirazione firenze arpeggio decafeinatto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054476280"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054476167",
+   "nom": "Palermo Kazaar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054476167"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054465536",
+   "nom": "Coffre nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054465536"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477886062",
+   "nom": "Master Origins Peru Organic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477886062"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477849272",
+   "nom": "Capsule La Cumplida Refinda",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477849272"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311542338",
+   "nom": "Nespreasso vanilla éclaire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311542338"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311549634",
+   "nom": "Nicaragua",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 50g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311549634"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477895934",
+   "nom": "Toccanto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477895934"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720483",
+   "nom": "Nepresso Roma",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720483"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-8445290188519",
+   "nom": "Dark Chocolate Square",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 30g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8445290188519"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054493331",
+   "nom": "Volluto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054493331"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428705053",
+   "nom": "Nespresso voltesso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428705053"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428735326",
+   "nom": "Barista Creations Roasted Hazelnut flavoured",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 125 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428735326"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039686215",
+   "nom": "Ciocattino",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039686215"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039686079",
+   "nom": "Camilo variations Nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039686079"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630039685478",
+   "nom": "Café Livanto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 53 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630039685478"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047607356",
+   "nom": "Alto Intenso 414ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047607356"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7640159925552",
+   "nom": "Capsulas nesspreso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7640159925552"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047653117",
+   "nom": "Solelio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047653117"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047680762",
+   "nom": "Capsulas Nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047680762"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054480539",
+   "nom": "Espresso hazelino muffin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054480539"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630047680649",
+   "nom": "Cápsulas Nespresso Vainilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630047680649"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630054482526",
+   "nom": "Cocoa truffle",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 50 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630054482526"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477843096",
+   "nom": "Nespresso ethiopa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477843096"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311510139",
+   "nom": "Sirops",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311510139"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630477893602",
+   "nom": "Barista Creations Coconut Flavour over Ice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630477893602"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7613038175584",
+   "nom": "Starbucks cafe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F · 53 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7613038175584"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311541317",
+   "nom": "Café Costa Rica",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311541317"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311541942",
+   "nom": "Barista creations cocoa flavour",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311541942"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428720797",
+   "nom": "cialde nespresso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428720797"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428722876",
+   "nom": "Vanilla eclair",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428722876"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311592081",
+   "nom": "Capsules café Nespresso Mexico",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311592081"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428721862",
+   "nom": "Caramel crème brûlée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428721862"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428723996",
+   "nom": "Café Toccanto",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428723996"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630311511563",
+   "nom": "Café Nespresso Paris",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630311511563"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428785109",
+   "nom": "Orange Flavoured biscuits",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428785109"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428726317",
+   "nom": "Altissio Decaffeinato",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428726317"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428734565",
+   "nom": "sweet vanilla",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 10pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428734565"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428735067",
+   "nom": "Golden caramel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428735067"
+  },
+  {
+   "id": "alimentation-et-boissons-nestle-7630428772499",
+   "nom": "Ethiopia organic",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7630428772499"
+  }
+ ]
+}

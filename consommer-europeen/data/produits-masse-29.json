@@ -1,0 +1,1651 @@
+{
+ "alimentation-boissons-ldc": [
+  {
+   "id": "alimentation-boissons-ldc-0217410028603",
+   "nom": "Brochette de dinde a la mexicaine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217410028603"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217515057133",
+   "nom": "Brochettes de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217515057133"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217827020474",
+   "nom": "Les Milanaises chapelure tomate origan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217827020474"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2255956018762",
+   "nom": "Hauts de cuisse de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2255956018762"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2262445040937",
+   "nom": "Aiguillette de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2262445040937"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628028271",
+   "nom": "Filets de Poulet Rôtis",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628028271"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628032933",
+   "nom": "Filet de poulets rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628032933"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320067090",
+   "nom": "Blancs d’oeufs",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320067090"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320145040",
+   "nom": "6 œufs Sol Extra-Frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 6 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320145040"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320145064",
+   "nom": "12 œufs Sol Extra-frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 12 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320145064"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217650041066",
+   "nom": "La belle escaloppe de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217650041066"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320205287",
+   "nom": "10 œufs Disney Cuisine & Le Gaulois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 10 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320205287"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0208519008344",
+   "nom": "Pané façon pizza",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0208519008344"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980212919",
+   "nom": "Pilons de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980212919"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320070410",
+   "nom": "Plein air 4 œufs de poules élevées en plein air",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 4 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320070410"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628032087",
+   "nom": "filet poulet le gaulois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628032087"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2614143027756",
+   "nom": "Tranches de dindes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2614143027756"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2000000000220",
+   "nom": "Pané milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000000220"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217650000000",
+   "nom": "La belle escalope de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217650000000"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2449376043750",
+   "nom": "Fillets de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2449376043750"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980715595",
+   "nom": "filet de poulet blanc x1 s/at",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980715595"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638027037",
+   "nom": "dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638027037"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2245349032215",
+   "nom": "Aiguillettes de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2245349032215"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320795023",
+   "nom": "Oeuf",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 8 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320795023"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276746032997",
+   "nom": "Filets de poulet l'extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276746032997"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431641029712",
+   "nom": "Les milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431641029712"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276752031090",
+   "nom": "Le Gaulois filet tranché de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276752031090"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2255956020734",
+   "nom": "Haut de cuisse de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2255956020734"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980013769",
+   "nom": "sauté de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980013769"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217017053",
+   "nom": "Escalope de dinde à la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217017053"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217029858",
+   "nom": "Escalopes de dinde marinées à la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 0,316 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217029858"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217284017253",
+   "nom": "Foies de volaille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 381 gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217284017253"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217594027881",
+   "nom": "Tranche de filet de poulet rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217594027881"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637027489",
+   "nom": "Cuisses de poulet roôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637027489"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637032803",
+   "nom": "Cuisse de Poulet Rôties",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637032803"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637037785",
+   "nom": "Cuisse de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637037785"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217966016468",
+   "nom": "Aiguillettes de poulet grillé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217966016468"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2216398026968",
+   "nom": "Roulé de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2216398026968"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2225027050120",
+   "nom": "Cuisse de pouket paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2225027050120"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2255956017659",
+   "nom": "Haut de cuisse de pouket roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2255956017659"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2255956023612",
+   "nom": "Hauts de cuisse de poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2255956023612"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628020145",
+   "nom": "Filets De Poulets Roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628020145"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628021845",
+   "nom": "Poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628021845"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628025256",
+   "nom": "Filets de poulets rôtie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628025256"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628025454",
+   "nom": "Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628025454"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638023945",
+   "nom": "Escalope de dinde extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638023945"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638027295",
+   "nom": "Escalopes extra tendre marinees",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638027295"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431643027624",
+   "nom": "Brochette de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431643027624"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2454151028532",
+   "nom": "Filet mignon de dinde rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2454151028532"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2454151032089",
+   "nom": "Filet mignon dinde roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2454151032089"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2461071036479",
+   "nom": "La brochette de dinde Façon Bouchère",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2461071036479"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2850393016731",
+   "nom": "FILET DE DINDE - TRANCHE CUISSON EXPRESS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2850393016731"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3138980784614",
+   "nom": "Crousty chicken",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3138980784614"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320070601",
+   "nom": "6 œufs coque Plein Air Extra-frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score B · 6 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320070601"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320794606",
+   "nom": "Oeufs DJC TC le Gaulois eggyplay LOUE boîte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 8 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320794606"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266089781583",
+   "nom": "Pané façon Milanaise Finement Citronné",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266089781583"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980296612",
+   "nom": "Assortiment de Canard Cuisses + manchons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 1.2kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980296612"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980415891",
+   "nom": "Filet de canard fumé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score F · 90 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980415891"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980891527",
+   "nom": "Escalope fine de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980891527"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2255958025843",
+   "nom": "4 brochettes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2255958025843"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217024730",
+   "nom": "Escalope de Dinde Milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217024730"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2461070018100",
+   "nom": "Foie de lapin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 0,173 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2461070018100"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2202063024803",
+   "nom": "andouillettes de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2202063024803"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424503042110",
+   "nom": "Filet de poulet l’extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 2 filets",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424503042110"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2487391036272",
+   "nom": "le gaulois - filet de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2487391036272"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628027755",
+   "nom": "Filet poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628027755"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217030311",
+   "nom": "Escalopes les milanaises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217030311"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628025584",
+   "nom": "Filets poulet rôti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628025584"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424536027160",
+   "nom": "Les milanaises fromage frais et fine herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424536027160"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081023166",
+   "nom": "Les milanaises du chef au poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081023166"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2481831032541",
+   "nom": "Les Milanaises de Poulet Fromage Frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2481831032541"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2454151042248",
+   "nom": "Filet mignon de dinde rôti à partager",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2454151042248"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320422400",
+   "nom": "20 œufs Plein Air",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 20 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320422400"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424503024536",
+   "nom": "L extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424503024536"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431641021129",
+   "nom": "Escalope de dinde marine a la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431641021129"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217033855",
+   "nom": "Les milanaises escalopes poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217033855"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638027165",
+   "nom": "Escalopes de dinde l'extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638027165"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424503035037",
+   "nom": "filet de poulet l’extra tendre le gaulois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 376 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424503035037"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638028995",
+   "nom": "Escalope l'Extra Tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638028995"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2255100020863",
+   "nom": "Tranche de filet tendres fine de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2255100020863"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217817028732",
+   "nom": "Aiguillettes de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217817028732"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217686032144",
+   "nom": "Médaillons dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217686032144"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638024478",
+   "nom": "Escalope de dinde Gaulois Extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638024478"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424536031167",
+   "nom": "Escalopes de poulet milanaises fromage frais ail et fines herbes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424536031167"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980129460",
+   "nom": "cuisses de poulet blanc x4 s/at",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 1,000 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980129460"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638019610",
+   "nom": "Escalope de dinde l'extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638019610"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2205344043036",
+   "nom": "Le gaulois escalopes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2205344043036"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217019293",
+   "nom": "les milanais chapelure nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217019293"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638017586",
+   "nom": "Escalope de dinde : l'extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638017586"
+  },
+  {
+   "id": "alimentation-boissons-ldc-29001033",
+   "nom": "brochettes de dinde paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/29001033"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424503034900",
+   "nom": "Filet de poulet  extra tendre",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424503034900"
+  }
+ ],
+ "alimentation-boissons-teresos": [
+  {
+   "id": "alimentation-boissons-teresos-3165431691221",
+   "nom": "Bûchettes de sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 480 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165431691221"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165430501101",
+   "nom": "Cassonade grains",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Commerce équitable"
+   ],
+   "note": "Nutri-Score E · Green-Score B · 600g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165430501101"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437701009",
+   "nom": "feuilles de stevia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437701009"
+  },
+  {
+   "id": "alimentation-boissons-teresos-6105440100007",
+   "nom": "Demiom morceaux de sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6105440100007"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437010811",
+   "nom": "Sucre de fleur de coco bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437010811"
+  },
+  {
+   "id": "alimentation-boissons-teresos-08365824",
+   "nom": "Daddy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A-PLUS · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/08365824"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165430101202",
+   "nom": "Sucre demi rond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165430101202"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165277041006",
+   "nom": "Sirop d’agave bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165277041006"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165433633007",
+   "nom": "sucre brut",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165433633007"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437042003",
+   "nom": "Sirop d'agave brut Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D · 360 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437042003"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165430102001",
+   "nom": "Sucres ronds en demi-morceaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 244",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165430102001"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165432570204",
+   "nom": "Sucre glace",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165432570204"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165433784204",
+   "nom": "Daddy profil pack cassonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 200.0 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165433784204"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437100505",
+   "nom": "Daddy Oh !",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score UNKNOWN · 50 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437100505"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437200007",
+   "nom": "Daddy Stevia Sachet Truvi",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437200007"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165432480008",
+   "nom": "Cassonnade Ambréé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165432480008"
+  },
+  {
+   "id": "alimentation-boissons-teresos-72195710",
+   "nom": "sucre fleur de Coco",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS · 230 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/72195710"
+  },
+  {
+   "id": "alimentation-boissons-teresos-04301653",
+   "nom": "Sucre pure canne bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/04301653"
+  },
+  {
+   "id": "alimentation-boissons-teresos-4101034724019",
+   "nom": "Cassonade pur canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4101034724019"
+  },
+  {
+   "id": "alimentation-boissons-teresos-07011332",
+   "nom": "Daddy sucre pur canne bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/07011332"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165432481104",
+   "nom": "La poudre à Maurice",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165432481104"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3166432530000",
+   "nom": "Cassonade Pure Canne Daddy",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3166432530000"
+  },
+  {
+   "id": "alimentation-boissons-teresos-4101034734209",
+   "nom": "Daddy sucré extra fin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4101034734209"
+  },
+  {
+   "id": "alimentation-boissons-teresos-5410498973505",
+   "nom": "Glace Daddy Cool",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410498973505"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437441776",
+   "nom": "Sucre de Fleur de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437441776"
+  },
+  {
+   "id": "alimentation-boissons-teresos-8058454036825",
+   "nom": "Daddy Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8058454036825"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3370932900004",
+   "nom": "Sucre Candi Brun",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3370932900004"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437458446",
+   "nom": "Sirop d'agave bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437458446"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165433651704",
+   "nom": "Daddy cassonade pure canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165433651704"
+  },
+  {
+   "id": "alimentation-boissons-teresos-15630582",
+   "nom": "Daddy sucre de canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15630582"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437409301",
+   "nom": "Sucre poudre stévia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437409301"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437458996",
+   "nom": "Daddy sirop d'agave bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437458996"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165432490007",
+   "nom": "Cassonade cuivrée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165432490007"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437056444",
+   "nom": "Poudre d'agave bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437056444"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165432560946",
+   "nom": "Sucre glace à patisser",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165432560946"
+  },
+  {
+   "id": "alimentation-boissons-teresos-15679154",
+   "nom": "Sucre fleur de coco bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score E · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15679154"
+  },
+  {
+   "id": "alimentation-boissons-teresos-15007831",
+   "nom": "Demi sucre pure canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/15007831"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165437043444",
+   "nom": "Pouvre d’agave bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165437043444"
+  },
+  {
+   "id": "alimentation-boissons-teresos-83426001",
+   "nom": "Stevia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/83426001"
+  },
+  {
+   "id": "alimentation-boissons-teresos-4112168434507",
+   "nom": "Sucre canne bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4112168434507"
+  },
+  {
+   "id": "alimentation-boissons-teresos-16251911",
+   "nom": "Cassonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16251911"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165430501200",
+   "nom": "Cassonade brune",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165430501200"
+  },
+  {
+   "id": "alimentation-boissons-teresos-6105440421300",
+   "nom": "Sucre en morceaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6105440421300"
+  },
+  {
+   "id": "alimentation-boissons-teresos-36561131",
+   "nom": "Sucre Morceaux Prédécoupés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/36561131"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3165340100007",
+   "nom": "demi-morceaux de sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3165340100007"
+  },
+  {
+   "id": "alimentation-boissons-teresos-08314659",
+   "nom": "Sucre roux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/08314659"
+  },
+  {
+   "id": "alimentation-boissons-teresos-44685133",
+   "nom": "Daddy sucre en poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/44685133"
+  },
+  {
+   "id": "alimentation-boissons-teresos-70984101",
+   "nom": "Sucre de coco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/70984101"
+  },
+  {
+   "id": "alimentation-boissons-teresos-12532582",
+   "nom": "Daddy sucre pure canne bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/12532582"
+  },
+  {
+   "id": "alimentation-boissons-teresos-10365540",
+   "nom": "Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/10365540"
+  },
+  {
+   "id": "alimentation-boissons-teresos-16579385",
+   "nom": "Sirop d'agave",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16579385"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660076402",
+   "nom": "Sucre en grains, 500g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500G",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660076402"
+  },
+  {
+   "id": "alimentation-boissons-teresos-0717067230010",
+   "nom": "Pure Cane Rough Cubes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0717067230010"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660583665",
+   "nom": "sucre petits morceaux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660583665"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660109520",
+   "nom": "La Perruche Y Beghin Say Azãºcar Moreno",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660109520"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660081543",
+   "nom": "300 Buchettes Rations Petit Dejeuner",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660081543"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660003613",
+   "nom": "Sucre Candi roux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660003613"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660049758",
+   "nom": "Sucre vergeoise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660049758"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660097568",
+   "nom": "Special sorbet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660097568"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660113176",
+   "nom": "La perruche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660113176"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660116917",
+   "nom": "Zuchero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660116917"
+  },
+  {
+   "id": "alimentation-boissons-teresos-03636632",
+   "nom": "Séréline au sucre et aux extrait de stevia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03636632"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174634462316",
+   "nom": "Pure canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174634462316"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660000063",
+   "nom": "Sucre en morceaux long",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660000063"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660016262",
+   "nom": "Sucre de canne",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660016262"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660017252",
+   "nom": "Ligne Minceur Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660017252"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660091801",
+   "nom": "Sucre Poudre Béghin Say, 750g + 20% gratuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660091801"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660091818",
+   "nom": "Sucre Blond de canne Blonvilliers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660091818"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660101272",
+   "nom": "Stevia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660101272"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660113121",
+   "nom": "Sucre Brut De Canne Poudre En Buchettes La Perruche - 300X4G",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660113121"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660446441",
+   "nom": "Sucre confiture",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660446441"
+  },
+  {
+   "id": "alimentation-boissons-teresos-62683319",
+   "nom": "Sucre poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/62683319"
+  },
+  {
+   "id": "alimentation-boissons-teresos-8710649170027",
+   "nom": "Say Yes To No Sour Cream & Onion Toasted Bread Chips",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8710649170027"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660091832",
+   "nom": "La perruche cassonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 900 grammes",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660091832"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174634446422",
+   "nom": "Sucre glace",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174634446422"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660020221",
+   "nom": "5KG Environ 960 Rations 2 Morceaux Sucre Beghin Say",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660020221"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660058255",
+   "nom": "Cassonade",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660058255"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660102781",
+   "nom": "Sticks 4 saveurs Dosette de Sucre en Poudre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660102781"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660088474",
+   "nom": "Sucre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660088474"
+  },
+  {
+   "id": "alimentation-boissons-teresos-4411190666215",
+   "nom": "Séréline",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4411190666215"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3112860001114",
+   "nom": "Sucre en morceau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3112860001114"
+  },
+  {
+   "id": "alimentation-boissons-teresos-3174660100886",
+   "nom": "Sucre saveur vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3174660100886"
+  },
+  {
+   "id": "alimentation-boissons-teresos-16379312",
+   "nom": "Sucre poidre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16379312"
+  },
+  {
+   "id": "alimentation-boissons-teresos-19262963",
+   "nom": "Sucre blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19262963"
+  },
+  {
+   "id": "alimentation-boissons-teresos-34068403",
+   "nom": "Béghin Say",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/34068403"
+  },
+  {
+   "id": "alimentation-boissons-teresos-16586943",
+   "nom": "Sucre de canne & stévia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/16586943"
+  },
+  {
+   "id": "alimentation-boissons-teresos-19501048",
+   "nom": "Blonvilliers pur,, canne, blond",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/19501048"
+  },
+  {
+   "id": "alimentation-boissons-teresos-0174660084414",
+   "nom": "BLONVILIERS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0174660084414"
+  }
+ ]
+}

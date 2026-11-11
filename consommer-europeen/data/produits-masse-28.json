@@ -1,0 +1,3638 @@
+{
+ "alimentation-boissons-lactalis": [
+  {
+   "id": "alimentation-boissons-lactalis-3228023160069",
+   "nom": "Petits chevres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228023160069"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228024100026",
+   "nom": "La fromagerie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228024100026"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228024100033",
+   "nom": "Emmental la fromagerie bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score C · 180 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228024100033"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200329542",
+   "nom": "Dés De Chèvre 20 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200329542"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200383599",
+   "nom": "Dés De Tomme De Brebis 32 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200383599"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200386606",
+   "nom": "Préparation Créme Brulée Au Citron 1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200386606"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200387955",
+   "nom": "Tomme de chevre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200387955"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-62326513",
+   "nom": "Beurre tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/62326513"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285191638",
+   "nom": "Fromage frais sans lactose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285191638"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8595021607007",
+   "nom": "Emmental classic",
+   "assemblage": "Česká republika",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8595021607007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228023140030",
+   "nom": "RONDELÉ Mousse de Quesso",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228023140030"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228021880211",
+   "nom": "Râpée President",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228021880211"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200383438",
+   "nom": "Appareil a creme brulee au caramel beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200383438"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-7501669895240",
+   "nom": "Queso fundido manchego Président",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 140 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501669895240"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8383783567567",
+   "nom": "Bûche fondante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8383783567567"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200387399",
+   "nom": "Ganache & cuissons",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200387399"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228023180135",
+   "nom": "Le crémeux",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228023180135"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228022946060",
+   "nom": "gruyère (emmental)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228022946060"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228020290035",
+   "nom": "Edam - 192 MG De Calcium 24 % Coeur De Dame",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228020290035"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285191584",
+   "nom": "Leche sin lactosa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285191584"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3155250333563",
+   "nom": "Crème Légère 500ml",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155250333563"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0077901222909",
+   "nom": "President French Butter",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0077901222909"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8411610004272",
+   "nom": "Leche Président",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8411610004272"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285191607",
+   "nom": "Leche condensada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285191607"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285044996",
+   "nom": "Leche sin lactosa hostelería",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285044996"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8411610001943",
+   "nom": "Leche Entera President",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8411610001943"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8414700036061",
+   "nom": "Nata para montar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8414700036061"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3155251211853",
+   "nom": "beurre allégé demi-sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155251211853"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8411610001936",
+   "nom": "Leche hostelería semidesnatada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8411610001936"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-7753036749797",
+   "nom": "Ferme et onctueuse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7753036749797"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0070153290443",
+   "nom": "Pub Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0070153290443"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228023190295",
+   "nom": "Le palet Président",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228023190295"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-00397063",
+   "nom": "Beurre doux La Motte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/00397063"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-2901037003935",
+   "nom": "Queso brie president",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2901037003935"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3155250002643",
+   "nom": "Beurre Demi-sel Microbeurrier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155250002643"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200374160",
+   "nom": "beurre coloré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200374160"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0753759215804",
+   "nom": "MON CAFÉ Crème",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0753759215804"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0068200845401",
+   "nom": "Crumbled Feta",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0068200845401"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200374030",
+   "nom": "Queso para untar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200374030"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8595021607878",
+   "nom": "Maasdamer",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8595021607878"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-2968558003301",
+   "nom": "Mantequilla bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2968558003301"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228024060337",
+   "nom": "250G Camembert Cloche Saveur President",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228024060337"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3428200387269",
+   "nom": "Crème Fraiche Légère Epaisse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3428200387269"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0157170387087",
+   "nom": "Le motte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0157170387087"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-356470065113103",
+   "nom": "camembert réduit en sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/356470065113103"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-4820096018835",
+   "nom": "cottage cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4820096018835"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228022030011",
+   "nom": "Fundir y gratinar 4 quesod",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228022030011"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-2218116211106",
+   "nom": "beurre gastronomique 1/2 sel",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2218116211106"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8595021603627",
+   "nom": "Emmental gerieben",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E · 100 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8595021603627"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6281024114476",
+   "nom": "Natural Mozzarella & emmental",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 450g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6281024114476"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3073780821995",
+   "nom": "Mini Roitelet-150 MG Calcium 31 %",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3073780821995"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-2071015120104",
+   "nom": "cancoillotte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2071015120104"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3258130000866",
+   "nom": "Geschäfte Ziegen frisch käse 100% Ziegenmilch",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3258130000866"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0060383186166",
+   "nom": "Spaghettini",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 454g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0060383186166"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3155250357538",
+   "nom": "Nata montada",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155250357538"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228120215020",
+   "nom": "le beurre gastronomique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228120215020"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0211113006234",
+   "nom": "La brique fondante",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0211113006234"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5908275688266",
+   "nom": "Fromage frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5908275688266"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0060383046897",
+   "nom": "Raw pecan halves",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0060383046897"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285100081",
+   "nom": "Nata para cocinar",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285100081"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-20210910",
+   "nom": "Spreadable Cheese",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/20210910"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-9155140744794",
+   "nom": "Crème entière fluide bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9155140744794"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3155210341621",
+   "nom": "Beurre doux bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3155210341621"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-4220543214511",
+   "nom": "Beurre doux Bio engagé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/4220543214511"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-2965326573244",
+   "nom": "Les Crottins Fondants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 60 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2965326573244"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285190747",
+   "nom": "Leche entera enriquecida con vitaminas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 6 x 1.5l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285190747"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5908250800980",
+   "nom": "Serek Delikatny waniliowy",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5908250800980"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-9240164818511",
+   "nom": "Le beurre président Gastronomique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9240164818511"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228022004012",
+   "nom": "Crema de queso azul",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228022004012"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3228023030218",
+   "nom": "Boules De Mozzarella",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3228023030218"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-7501669895301",
+   "nom": "Queso manchego",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7501669895301"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-62581363",
+   "nom": "Tendrissime",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 225 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/62581363"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0221612940021",
+   "nom": "Emmental râpée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0221612940021"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-25652727",
+   "nom": "Ferme et onctueuse gastronomique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/25652727"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-9713734041479",
+   "nom": "Mimolette Cheese slices",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9713734041479"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-01381315",
+   "nom": "Beur tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01381315"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-7898955617564",
+   "nom": "Cottage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7898955617564"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-32853599",
+   "nom": "Beurrier saveur gastronomique présidé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/32853599"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-7610028002790",
+   "nom": "Le crémeux ambré",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7610028002790"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-01964387",
+   "nom": "Bio Engagé - Crème Entière Fluide 30% M.G.",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01964387"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-05252770",
+   "nom": "Crema de Brie con Trufa",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/05252770"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-7898955617694",
+   "nom": "Queijo Gouda Président 160g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 160g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7898955617694"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8410285191010",
+   "nom": "Salsa a las finas hierbas",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8410285191010"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3176571983008",
+   "nom": "Viva lait 1/2 écrémé",
+   "assemblage": "Candia (Filiale Sodiaal International) - 1040 Route Nationale - 59400 Awoingt",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score B · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176571983008"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3176571955005",
+   "nom": "Viva lait",
+   "assemblage": "38 VIENNE",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176571955005"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6130433000262",
+   "nom": "Candy Choco 1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130433000262"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631886004",
+   "nom": "Café Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 25 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631886004"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533636765007",
+   "nom": "Lait écrémé sans lactose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533636765007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-9501100460059",
+   "nom": "candia lait demi écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9501100460059"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631837006",
+   "nom": "Lait bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 50cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631837006"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630904501",
+   "nom": "Granlait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 0.5 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630904501"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631051006",
+   "nom": "Alta digeribilità senza lattosio grassi",
+   "assemblage": "Francia",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631051006"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631889005",
+   "nom": "Chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631889005"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631226008",
+   "nom": "Grand lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631226008"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631895006",
+   "nom": "Milk shake caramel beurre salé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631895006"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631478001",
+   "nom": "Granlatte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631478001"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001102341",
+   "nom": "Ayran",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 25cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001102341"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630900039",
+   "nom": "Candia doux et léger",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 6×1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630900039"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631245009",
+   "nom": "Canfia baby",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631245009"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630095971",
+   "nom": "Lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630095971"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3760315150414",
+   "nom": "Le fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 120 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760315150414"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631041007",
+   "nom": "Briquettes lait chocolat",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631041007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6181007424083",
+   "nom": "Le lait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6181007424083"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631042004",
+   "nom": "Candia gout choco brownie",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631042004"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3700342354423",
+   "nom": "Beurre Doux Allégé 40% Tartinable Spécial Sandwich",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700342354423"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6091002143189",
+   "nom": "Candia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6091002143189"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631905576",
+   "nom": "Lait demi ecreme Viva Can",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631905576"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6130433001023",
+   "nom": "Twist",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6130433001023"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001102655",
+   "nom": "Labneh entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001102655"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-9116571983008",
+   "nom": "Lait 1l",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9116571983008"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631434571",
+   "nom": "Grandlait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631434571"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630081141",
+   "nom": "Biolait Biologique Entier 6x1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score D · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630081141"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631988593",
+   "nom": "Pack lait Viva 7L (+1L offert)",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631988593"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6181007701740",
+   "nom": "Labneh candia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6181007701740"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3760113650024",
+   "nom": "Lait entier",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3760113650024"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001105748",
+   "nom": "Nectar Orange candia",
+   "assemblage": "Bekaa",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 180 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001105748"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6240000038014",
+   "nom": "Milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6240000038014"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001102358",
+   "nom": "Candia ayran",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001102358"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-03763704",
+   "nom": "Candy’up",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03763704"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631481001",
+   "nom": "Granlatte parzialmente scremato cl",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631481001"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001101900",
+   "nom": "Lait VIVA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001101900"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001102044",
+   "nom": "candy’up chocolate milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001102044"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631520007",
+   "nom": "Latte uht",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631520007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630094516",
+   "nom": "Baby croissance 4 de candia",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630094516"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-2952249882919",
+   "nom": "Candy up chocolaté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2952249882919"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630097234",
+   "nom": "Candy'up Fraise Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score C · Green-Score B · 125 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630097234"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3176571607003",
+   "nom": "Lait écrémé",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176571607003"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5060092013994",
+   "nom": "Candy’up fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5060092013994"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631175009",
+   "nom": "Lait infantile",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 1l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631175009"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533632114007",
+   "nom": "Crème entière",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533632114007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631248284",
+   "nom": "Baby croissance 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631248284"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3700342338287",
+   "nom": "Beurre Doux 15g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700342338287"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630095889",
+   "nom": "Lait &quot;Les Laitiers Responsables&quot;",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 500 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630095889"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631255008",
+   "nom": "Croissance Bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631255008"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631142001",
+   "nom": "Candia baby croissance des 10 mois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 24 x 250 ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631142001"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-01152593",
+   "nom": "Candy up bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/01152593"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631193003",
+   "nom": "Candia baby",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631193003"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630095841",
+   "nom": "Grandlait laitiers responsable",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630095841"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-9501100460172",
+   "nom": "Candy'up",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9501100460172"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6091002022200",
+   "nom": "Perette chocolate",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 250ml",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6091002022200"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630088485",
+   "nom": "Viva lait UHT vitamine slim 6x1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630088485"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631472009",
+   "nom": "Lait entier Candia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631472009"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-47505353",
+   "nom": "Candy up fraise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/47505353"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631804534",
+   "nom": "Lait demi ecreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631804534"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-5285001102662",
+   "nom": "Labneh Ecrémé 0% matière grasse",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5285001102662"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3700342338317",
+   "nom": "Beurre Demi-sel Micro-pain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E · 1 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700342338317"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630097302",
+   "nom": "Lait Les laitiers responsables",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630097302"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631788889",
+   "nom": "Candy num",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 20 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631788889"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631177003",
+   "nom": "Croissance 10mois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631177003"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630098903",
+   "nom": "Grand lait bio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630098903"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-0534051559007",
+   "nom": "le lait de ma région",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0534051559007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631030001",
+   "nom": "Baby croissance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score B",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631030001"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630081776",
+   "nom": "Grand Lait 1/2 écrémé léger et digeste",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630081776"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630088812",
+   "nom": "Candia Lait de suite liquide BIO 3, de 10 mois à 3 ans les 12 bouteilles de 250",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A-PLUS",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630088812"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630095933",
+   "nom": "Grandlait Bio Sans Lactose",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score B · Green-Score C · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630095933"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3700342338263",
+   "nom": "Beurre Doux Micro-pain",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700342338263"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630089659",
+   "nom": "DeMelk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D · 1L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630089659"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631176006",
+   "nom": "Croissance Nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631176006"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631786083",
+   "nom": "Candy up bannane",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 50 cl",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631786083"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-8003100090041",
+   "nom": "Latte uht intero",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score C · 1 L",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/8003100090041"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630901142",
+   "nom": "Croissance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630901142"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631187064",
+   "nom": "Lait croissance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631187064"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-6181007424076",
+   "nom": "Le lait candia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/6181007424076"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631442002",
+   "nom": "Latte senza lattosio",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631442002"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-52820779",
+   "nom": "Candia viva",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/52820779"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3176571679000",
+   "nom": "Lait Candia Silhouette, écrémé, Pack De 6 Briques D'un Litre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176571679000"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630086382",
+   "nom": "Candy up choco",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score E · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630086382"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631254001",
+   "nom": "Candia, Croissance Lait liquide BIO de 10 mois à 3 ans, les 24 bouteilles de 25",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631254001"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631269005",
+   "nom": "Lait de croissance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631269005"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631394288",
+   "nom": "Candy'up Chocolaté",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631394288"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631581060",
+   "nom": "Candy'Up Crème dessert Vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631581060"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631730284",
+   "nom": "Mleko Candy Up Czekolada 500ML Candia",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 500 mL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631730284"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630095766",
+   "nom": "Babycroissance",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630095766"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3700342303308",
+   "nom": "Beurre extra fin",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3700342303308"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-17567329",
+   "nom": "Grand Lait demi-écrémé 1L",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/17567329"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631029005",
+   "nom": "Lait de suite des 6 mois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631029005"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631330002",
+   "nom": "Lait de chèvre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631330002"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630902019",
+   "nom": "candia baby vanille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630902019"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-98163366",
+   "nom": "Candyup",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/98163366"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631856007",
+   "nom": "LOT CREME FRAICHE CANDIA",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631856007"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631360009",
+   "nom": "Crème Multi Usages",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631360009"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631688004",
+   "nom": "Just milk",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631688004"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631049003",
+   "nom": "Latte",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631049003"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630900589",
+   "nom": "Latte Candia alta digeribilità",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630900589"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3133671838003",
+   "nom": "GrandLait Bio",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 4 x 50 cL",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3133671838003"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3176571626448",
+   "nom": "Lait Grandlait",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176571626448"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3176571672001",
+   "nom": "Lait Demi-ecreme",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3176571672001"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3297565333019",
+   "nom": "Jao Orange Mangue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3297565333019"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630088515",
+   "nom": "Gdlt 1/2 ecreme bp",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630088515"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533630091348",
+   "nom": "Candia Viva lait U.H.T. vitaminé brique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533630091348"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631133009",
+   "nom": "Lait De Suite 2ème âge Babylait Dès 5 Mois 6 Fois 1 Litre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score NOT-APPLICABLE · Green-Score A · 6 x 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631133009"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631661571",
+   "nom": "Grand lait 1/2 ecreme brique",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631661571"
+  },
+  {
+   "id": "alimentation-boissons-lactalis-3533631685003",
+   "nom": "Candia Lactose Free - Just Milk semi skimmed",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score C · 1 l",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3533631685003"
+  }
+ ],
+ "alimentation-boissons-ldc": [
+  {
+   "id": "alimentation-boissons-ldc-3435660730948",
+   "nom": "Saucisses volaille",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660730948"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690794086",
+   "nom": "Crousti Nuggets de poulet extra croustillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690794086"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690794130",
+   "nom": "Cordon bleu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690794130"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660730955",
+   "nom": "Saucisses volaille Douce France",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660730955"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212549035492",
+   "nom": "filets de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212549035492"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690757371",
+   "nom": "Les ballotins du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690757371"
+  },
+  {
+   "id": "alimentation-boissons-ldc-11473432",
+   "nom": "nuggets aux filets de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11473432"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080028605",
+   "nom": "Escalope de poulet milanaise crue",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080028605"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212551021254",
+   "nom": "Aiguillettes de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 0.264kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212551021254"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660696077",
+   "nom": "Les grillades du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660696077"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690121707",
+   "nom": "Père dodu crousti nuggets de poulet lot de 3",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690121707"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081025450",
+   "nom": "Les Milanaises du Chef au poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081025450"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213339024207",
+   "nom": "Tranche de cuisse de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213339024207"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447180034117",
+   "nom": "Émincés de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447180034117"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660716164",
+   "nom": "Rôti de dinde farci aux pruneaux & à l'Armagnac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660716164"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660712852",
+   "nom": "brochette de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 0,760 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660712852"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690763471",
+   "nom": "Boulettes de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690763471"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660763533",
+   "nom": "Eminces de poulet provençale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 450 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660763533"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080024607",
+   "nom": "Escalope milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080024607"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660736162",
+   "nom": "Saute de dinde sans os sans peau",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660736162"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080026243",
+   "nom": "Escalopes poulets croustillants",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080026243"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3531937293007",
+   "nom": "Escalopes de dinde Extra fines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3531937293007"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690797933",
+   "nom": "Pané de poulet Spécial Burger panure épicée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690797933"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213340036213",
+   "nom": "Tranches de haut de cuisse de dinde avec os",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213340036213"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447173033264",
+   "nom": "Emincés de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447173033264"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2474355031688",
+   "nom": "Aiguillettes poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2474355031688"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660722097",
+   "nom": "Mes P'tites aiguillettes de poulet provençale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660722097"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660731389",
+   "nom": "P'tites Aiguillettes de Poulet rôties à la Provençale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660731389"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690247049",
+   "nom": "Pane de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690247049"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690753670",
+   "nom": "Les grillades du chef brochetyes de poulet chorizo et colombo",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690753670"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660727511",
+   "nom": "Pilons de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660727511"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447073029060",
+   "nom": "Le Canard du Chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 202 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447073029060"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690121554",
+   "nom": "Crousti nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 4 x 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690121554"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447075031290",
+   "nom": "P’tits pavés",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 172g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447075031290"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660763519",
+   "nom": "Emincés de poulet-Curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E · 220 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660763519"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227088027686",
+   "nom": "Cuisses de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227088027686"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0293535040737",
+   "nom": "Le canard du chef - aiguillettes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0293535040737"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690149701",
+   "nom": "Long  nugget",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690149701"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0293535025253",
+   "nom": "aiguillettes de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 152gr",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0293535025253"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080026373",
+   "nom": "Escalooe de poulet marinee milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080026373"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660727221",
+   "nom": "Pilons de Poulet jaune",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 1,000 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660727221"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660740305",
+   "nom": "Petit rôti  de pintade farci",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660740305"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3011250042044",
+   "nom": "Parmentier croustillant",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 8 portions individuelles",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3011250042044"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660727306",
+   "nom": "Cuisse Volaille Française Poulet blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660727306"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080031759",
+   "nom": "Les milanaises du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080031759"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081023425",
+   "nom": "Les milanaise du chef au poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081023425"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660765247",
+   "nom": "Émincées de dinde a l orientale",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660765247"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660727092",
+   "nom": "Saute de dinde sans peau sans os",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660727092"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660762888",
+   "nom": "P'tits Feuilletés du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660762888"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080021651",
+   "nom": "Escalopes de poulet panées crues",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080021651"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447038025199",
+   "nom": "Escalopes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447038025199"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690792341",
+   "nom": "Chicken wings rôties",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 380 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690792341"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690794123",
+   "nom": "Cordon bleu Dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690794123"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212549022171",
+   "nom": "2 filets de poulet jaune",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 0,412 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212549022171"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213340025842",
+   "nom": "Les cot'lettes du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213340025842"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213485058125",
+   "nom": "Paupiettes du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213485058125"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660613012",
+   "nom": "Le Choix du Chef : Poulet Jaune Prêt à Cuire",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660613012"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660759635",
+   "nom": "Poulet poivre vert",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660759635"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660759642",
+   "nom": "Les Steaks du Chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660759642"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690002525",
+   "nom": "Pere Dodu Codron Normande 400g",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690002525"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690110305",
+   "nom": "Cordon Bleu de Dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690110305"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690246042",
+   "nom": "CROUSTI STEAK",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690246042"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690759481",
+   "nom": "Les express de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690759481"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690759498",
+   "nom": "Les express de poulet curry",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690759498"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447038020330",
+   "nom": "Escalope de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447038020330"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660718588",
+   "nom": "filet de poulet blanc",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 1",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660718588"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447181040414",
+   "nom": "Les extra tendres du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447181040414"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212548031228",
+   "nom": "Filets de poulets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 2",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212548031228"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690004826",
+   "nom": "Nuggets de fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 400 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690004826"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660763526",
+   "nom": "Émincé de poulet thaï",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660763526"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0061490000079",
+   "nom": "Long nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 200g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0061490000079"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690763631",
+   "nom": "les intenses",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 2 x 130 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690763631"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660762895",
+   "nom": "Les aumonieres du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 280 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660762895"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3531937243002",
+   "nom": "roti chapon farci foie gras/cognac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F · 800 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3531937243002"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447073032343",
+   "nom": "Tranches de Filet de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447073032343"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0226015010760",
+   "nom": "Foies de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score B · 366g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0226015010760"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213485055438",
+   "nom": "Paupiettes de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213485055438"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690762719",
+   "nom": "Escalope Normande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690762719"
+  },
+  {
+   "id": "alimentation-boissons-ldc-03859738",
+   "nom": "Crousty croc' fromage",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/03859738"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081023685",
+   "nom": "Escalopes de poulet panées milanaise au poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081023685"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080024201",
+   "nom": "Milanaises du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080024201"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690784476",
+   "nom": "Escalopes normande",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690784476"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212549019553",
+   "nom": "Filets de poulet jaune",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 314g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212549019553"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080024140",
+   "nom": "Les milanaise du chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080024140"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212549036215",
+   "nom": "Le choix de chef-Filets de Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212549036215"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080021583",
+   "nom": "Escalope de poulet marinée",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080021583"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447033022506",
+   "nom": "Hauts de cuisse de Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447033022506"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660724589",
+   "nom": "Les pintades farcies du Chef",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660724589"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3531937403000",
+   "nom": "Poularde Douce France 1.8kg Semi desossee morilles/armagnac",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3531937403000"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212549030244",
+   "nom": "Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212549030244"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080022894",
+   "nom": "Escalope de poulet marinée milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080022894"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081027553",
+   "nom": "Escalope de poulet marinée milanaise crue poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081027553"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081023944",
+   "nom": "Escalope de poulet Milanaise au poivre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081023944"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212693024472",
+   "nom": "les escalopes de dindes extrafines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212693024472"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213122049073",
+   "nom": "les escalopes dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213122049073"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447038032937",
+   "nom": "Escalope",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447038032937"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217714032344",
+   "nom": "escalopes gourmandes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217714032344"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447038033521",
+   "nom": "Les escalopes gourmandes dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447038033521"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212693018372",
+   "nom": "Les escalopes extra fines dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212693018372"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212693025523",
+   "nom": "Escalopes de dinde extra fine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212693025523"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080025253",
+   "nom": "Escalopes de poulet milanaises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080025253"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660738678",
+   "nom": "Les émincés de filets de poulet rôtis au paprika",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660738678"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212700015684",
+   "nom": "Escalope de dinde  extra fine",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212700015684"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447038024079",
+   "nom": "Escalopes gourmandes dindes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447038024079"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080021910",
+   "nom": "Escalopes milanaises poulet pané cru",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080021910"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212693022706",
+   "nom": "2 Escalopes extra fines de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212693022706"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447038022631",
+   "nom": "Les escalopes gourmandes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447038022631"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0293495036276",
+   "nom": "L'escalope gourmande canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0293495036276"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212693025455",
+   "nom": "Les escalope extra fines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212693025455"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212693025066",
+   "nom": "Escalopes extra fines dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212693025066"
+  },
+  {
+   "id": "alimentation-boissons-ldc-11078364",
+   "nom": "Cordon bleu poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11078364"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212548025845",
+   "nom": "Les Filets  poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212548025845"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0212700014106",
+   "nom": "Escalope dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0212700014106"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0293531026896",
+   "nom": "Le filet de Canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0293531026896"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0226015010692",
+   "nom": "Foie de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 362g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0226015010692"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0213762076880",
+   "nom": "Cannette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0213762076880"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080030110",
+   "nom": "Escalopes Milanaises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080030110"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660728006",
+   "nom": "Découpe de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660728006"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447073033326",
+   "nom": "Les tranches gourmandes canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447073033326"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3435660785283",
+   "nom": "Rôti de dinde farci",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3435660785283"
+  },
+  {
+   "id": "alimentation-boissons-ldc-9045061788123",
+   "nom": "Saucisse de volaille herbes de Provence",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/9045061788123"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227080039168",
+   "nom": "Milanaise poulet pané",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227080039168"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0227081030706",
+   "nom": "Escalopes milanaises au poivres",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0227081030706"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0433544232758",
+   "nom": "Filet mignon de dinde en émincé thym et citron",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0433544232758"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0635000321420",
+   "nom": "Nuggets",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0635000321420"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690794109",
+   "nom": "L'escalope cordon bleu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690794109"
+  },
+  {
+   "id": "alimentation-boissons-ldc-36164325",
+   "nom": "Crousti tenders",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/36164325"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690799586",
+   "nom": "Crousti tenders provençal",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D · 460 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690799586"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3596690793973",
+   "nom": "Cordon Bleu Père Dodu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3596690793973"
+  },
+  {
+   "id": "alimentation-boissons-ldc-91115751",
+   "nom": "L’escalope cordon bleu",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/91115751"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2498694014690",
+   "nom": "Cuisse de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2498694014690"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447120040413",
+   "nom": "Cuisses de dindes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447120040413"
+  },
+  {
+   "id": "alimentation-boissons-ldc-33435633",
+   "nom": "Palets fromagers",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN · 150",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/33435633"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447104057130",
+   "nom": "Les filets poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447104057130"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0226487034837",
+   "nom": "Filets poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0226487034837"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2447104065739",
+   "nom": "Filet poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2447104065739"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980562281",
+   "nom": "Filets de poulet",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 600 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980562281"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628031493",
+   "nom": "Filets de poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628031493"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276746040015",
+   "nom": "Filet de poulet extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276746040015"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637031950",
+   "nom": "Cuisses de poulet roti",
+   "assemblage": "france",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E · 0.376 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637031950"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628036542",
+   "nom": "Rôti de Filet de Poulet Cuit",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628036542"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628041980",
+   "nom": "Filet de poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 0,280 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628041980"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638030570",
+   "nom": "Escalope de Dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638030570"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217028998",
+   "nom": "Escalopes milanaises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217028998"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2614156019946",
+   "nom": "Escalope extra-fine de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2614156019946"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0960690535438",
+   "nom": "Pané italien",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0960690535438"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628030632",
+   "nom": "Filets de poulet rôti chaud ou froid",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 200 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628030632"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980891381",
+   "nom": "Les decoupes de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980891381"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637040013",
+   "nom": "Cuisses de poulet le Gaulois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637040013"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638033328",
+   "nom": "La belle escalope",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638033328"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638029192",
+   "nom": "La belle escalope de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638029192"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980109752",
+   "nom": "Filet de canard x1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980109752"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276746039361",
+   "nom": "Le gaulois filet de poulet extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276746039361"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276746033857",
+   "nom": "L'extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276746033857"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980033330",
+   "nom": "Escalopes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980033330"
+  },
+  {
+   "id": "alimentation-boissons-ldc-11711384",
+   "nom": "Andouillettes de canard au piment d’espelette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/11711384"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217027755",
+   "nom": "Les milanaises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217027755"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217029582",
+   "nom": "Escalope Milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217029582"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217030960",
+   "nom": "Les milanaises chapelure nature",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217030960"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637035552",
+   "nom": "Cuisse de poulet roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637035552"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2202063022960",
+   "nom": "Andouillette de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2202063022960"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628034319",
+   "nom": "Blanc de Poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628034319"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217029780",
+   "nom": "Escalope Milanaises",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217029780"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638024340",
+   "nom": "2 escalopes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638024340"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217024808",
+   "nom": "Escalope dinde à la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217024808"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637035422",
+   "nom": "Cuisses de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637035422"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2487391024347",
+   "nom": "le-gaulois",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2487391024347"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217790031293",
+   "nom": "Andouillette au canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217790031293"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638032345",
+   "nom": "2 belles escalopes",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638032345"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217827022119",
+   "nom": "Escalope de dinde marinée à la milanaise tomate orignan",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217827022119"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2614156025657",
+   "nom": "Escalopes extra fine de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2614156025657"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217638026962",
+   "nom": "Le gaulois. la belle escalope de de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217638026962"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276746044679",
+   "nom": "Filet poulet blanc extra tendre x2",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276746044679"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276746027030",
+   "nom": "L'extra tendre filet de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276746027030"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217637037723",
+   "nom": "Cuisses de poulet rôties",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score D · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217637037723"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217033527",
+   "nom": "Escalope milanaise de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217033527"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638026304",
+   "nom": "L’extra tendre de dinfe",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638026304"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628041003",
+   "nom": "LE GAULOIS",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628041003"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638030639",
+   "nom": "L’extra tendre",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638030639"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276752032738",
+   "nom": "Filet tranché de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276752032738"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431638029855",
+   "nom": "L’extra tendre de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431638029855"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2614156020997",
+   "nom": "Escalope extra fine de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2614156020997"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2262447024409",
+   "nom": "Cuisse de canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 384g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2262447024409"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980039998",
+   "nom": "Medaillons de poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980039998"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2276756031881",
+   "nom": "Les Tenderfines",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2276756031881"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320071219",
+   "nom": "12 œufs Plein Air Extra-frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 12 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320071219"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320070618",
+   "nom": "6 œufs Plein Air Extra-frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score A · 6 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320070618"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980467128",
+   "nom": "Escalope de poulet Le Gaulois x2",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E · 0,240 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980467128"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980003555",
+   "nom": "Brochettes de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980003555"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320866075",
+   "nom": "Plein air 10 oeufs frais de poules élevées en plein air",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score A · 10 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320866075"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217021456",
+   "nom": "2 escalopes de dinde à la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217021456"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3251320868529",
+   "nom": "10 œufs Bio Extra-frais",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [
+    "Agriculture biologique (AB)"
+   ],
+   "note": "Nutri-Score A · Green-Score A-PLUS · 10 pcs",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3251320868529"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628035880",
+   "nom": "Filet de pouket roti",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 0,316 kg",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628035880"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980004309",
+   "nom": "cuisse de dinde x 1",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980004309"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628031035",
+   "nom": "Filet poulet",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628031035"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980117887",
+   "nom": "hauts de cuisses de poulet blanc x4 s/at",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score C · Green-Score D",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980117887"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980108229",
+   "nom": "cuisses de poulet blanc en caissette s/at",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980108229"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2614154019023",
+   "nom": "Escaloppe de dinde",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2614154019023"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980018122",
+   "nom": "Bouchées au comté AOP",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980018122"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2424503030179",
+   "nom": "Filets De Poulet Extra Tendre La Barquette",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2424503030179"
+  },
+  {
+   "id": "alimentation-boissons-ldc-2431628029919",
+   "nom": "Filet de Poulet Rôtis Chaud ou Froid",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score B · Green-Score E · 300 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/2431628029919"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980054502",
+   "nom": "morceaux assortis de poulet blanc PF 850g s/at",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score UNKNOWN",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980054502"
+  },
+  {
+   "id": "alimentation-boissons-ldc-3266980023003",
+   "nom": "Filet de piulet tranche",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3266980023003"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0016000006287",
+   "nom": "Nuggets Jambon de dinde Fromage",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score D · 750 g",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0016000006287"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217015684",
+   "nom": "Escalopes de dinde a la milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217015684"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217217018890",
+   "nom": "Escalope dinde milanaise",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score A · Green-Score E",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217217018890"
+  },
+  {
+   "id": "alimentation-boissons-ldc-0217239093806",
+   "nom": "Filet De Canard",
+   "assemblage": null,
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Nutri-Score UNKNOWN · Green-Score F",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/0217239093806"
+  }
+ ]
+}
