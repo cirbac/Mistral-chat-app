@@ -562,8 +562,11 @@ el.addForm.addEventListener('submit', async (e) => {
   el.addMsg.className = 'pw-msg ' + (res.ok ? 'ok' : 'ko');
   el.addMsg.hidden = false;
   if (res.ok) {
-    el.addForm.reset();
-    doSearch();
+    setTimeout(() => {
+      el.addModal.classList.add('hidden');
+      el.addForm.reset();
+      doSearch();
+    }, 900);
   }
 });
 
