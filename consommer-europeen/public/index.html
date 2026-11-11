@@ -40,18 +40,24 @@
 
     <main class="contenu">
       <section id="home" class="home">
-        <h2 class="home-titre" id="phares-titre" hidden>Produits phares</h2>
-        <div class="carousel-wrap" id="phares-wrap" hidden>
-          <button id="phares-prev" class="carousel-arrow" type="button" aria-label="Précédent">‹</button>
-          <div id="phares-grid" class="carousel"></div>
-          <button id="phares-next" class="carousel-arrow" type="button" aria-label="Suivant">›</button>
-        </div>
         <h2 class="home-titre">Explorez par catégorie</h2>
         <div id="home-grid" class="home-grid"></div>
-        <h2 class="home-titre" id="nouveaux-titre" hidden>Nouveaux produits</h2>
-        <div id="nouveaux-grid" class="home-grid" hidden></div>
+        <h2 class="home-titre">Catalogue</h2>
+        <p class="vide">Consultez l'ensemble des marques référencées, classées par secteur et par statut, avec le détail de détention, de production et les sources pour chacune.</p>
+        <button id="btn-catalogue" class="chip chip-active" type="button">Parcourir tout le catalogue →</button>
       </section>
       <section id="results" class="results hidden"></section>
+      <section id="catalogue" class="hidden">
+        <div class="cat-header">
+          <button class="retour" id="catalogue-retour" type="button">← Toutes les catégories</button>
+          <h2>Catalogue</h2>
+          <p class="cat-note" id="catalogue-count"></p>
+        </div>
+        <div class="sous-cats" id="cat-filtres-statuts"></div>
+        <div class="sous-cats" id="cat-filtres-secteurs"></div>
+        <div id="catalogue-results" class="results"></div>
+        <button id="catalogue-plus" class="chip" type="button" hidden>Charger plus</button>
+      </section>
       <div id="detail-modal" class="modal hidden">
         <div class="modal-card detail-card">
           <button id="detail-close" class="detail-close" type="button" aria-label="Fermer">✕</button>
