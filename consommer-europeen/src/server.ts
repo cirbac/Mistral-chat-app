@@ -118,6 +118,7 @@ const STATUT_ORDRE = ['rang1', 'rang2', 'vigilance', 'hors_zones', 'a_ecarter'];
 const statutsById = new Map(grille.statuts.map((s) => [s.id, s]));
 
 function recommande(statut: string, siegePays: string, pref: string): boolean {
+  if (statut === 'propose') return true; // acceptation temporaire : visible dans toutes les préférences, badge « Proposé »
   if (pref === 'fr') return (statut === 'rang1' || statut === 'vigilance') && siegePays === 'FR';
   if (pref === 'ue') return statut === 'rang1' || statut === 'vigilance';
   if (pref === 'hautes_democraties') return ['rang1', 'rang2', 'vigilance'].includes(statut);
@@ -384,6 +385,64 @@ app.post('/api/produits', requireAuth, (req, res) => {
     console.error(err);
   }
   res.status(201).json({ ok: true, groupe: withStatut(groupe, getPref(req), secteur) });
+});
+
+app.get('/admin', requireAuth, (req, res) => {
+  res.sendFile(path.join(rootDir, 'public', 'admin.html'));
+});
+
+app.get('/api/admin/ajouts', requireAuth, (_req, res) => {
+  res.json({
+    ajouts: ajouts
+      .filter((a) => !(a.groupe as { valide?: boolean }).valide)
+      .map((a) => ({
+        num: a.num,
+        secteurNom: secteurs.find((s) => s.num === a.num)?.nom ?? a.num,
+        groupe: a.groupe,
+      })),
+  });
+});
+
+app.post('/api/admin/ajouts/:id/valider', requireAuth, (req, res) => {
+  const a = ajouts.find((x) => x.groupe.id === req.params.id);
+  if (!a) {
+    res.status(404).json({ error: 'Ajout introuvable.' });
+    return;
+  }
+  const { statut, source } = req.body ?? {};
+  const statutsIds = grille.statuts.map((s) => s.id);
+  if (typeof statut !== 'string' || !statutsIds.includes(statut) || statut === 'propose') {
+    res.status(400).json({ error: `Statut invalide (attendu : ${statutsIds.filter((s) => s !== 'propose').join(', ')}).` });
+    return;
+  }
+  a.groupe.statut = statut;
+  a.groupe.siege = a.groupe.siege === 'À vérifier' ? 'À préciser' : a.groupe.siege;
+  a.groupe.commentaire += ` Validé le ${new Date().toISOString().slice(0, 10)} (statut ${statut})${typeof source === 'string' && source.trim() ? ' — source : ' + source.trim().slice(0, 300) : ''}.`;
+  (a.groupe as { valide?: boolean }).valide = true;
+  try {
+    writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+  } catch (err) {
+    console.error(err);
+  }
+  const secteur = secteurs.find((s) => s.num === a.num);
+  res.json({ ok: true, groupe: withStatut(a.groupe, 'all', secteur) });
+});
+
+app.delete('/api/admin/ajouts/:id', requireAuth, (req, res) => {
+  const idx = ajouts.findIndex((x) => x.groupe.id === req.params.id);
+  if (idx === -1) {
+    res.status(404).json({ error: 'Ajout introuvable.' });
+    return;
+  }
+  const [a] = ajouts.splice(idx, 1);
+  const secteur = secteurs.find((s) => s.num === a.num);
+  if (secteur) secteur.groupes = secteur.groupes.filter((g) => g.id !== a.groupe.id);
+  try {
+    writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+  } catch (err) {
+    console.error(err);
+  }
+  res.json({ ok: true });
 });
 
 app.get('/api/produits/:id', requireAuth, (req, res) => {

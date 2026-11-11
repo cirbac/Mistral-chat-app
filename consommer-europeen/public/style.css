@@ -702,9 +702,73 @@ button:hover {
 }
 
 #theme-toggle,
-#logout {
+#logout,
+.admin-link {
   width: 100%;
   text-align: left;
+}
+
+.admin-link {
+  display: block;
+  padding: 9px 14px;
+  border: 1px solid var(--bordure);
+  border-radius: 8px;
+  background: var(--cirba-blanc);
+  color: var(--texte);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.admin-link:hover {
+  background: var(--cirba-gris);
+}
+
+.admin-form {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.admin-form select,
+.admin-form input {
+  padding: 8px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.88rem;
+}
+
+.admin-form input {
+  flex: 1;
+  min-width: 200px;
+}
+
+.admin-form button,
+.btn-refuser {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.88rem;
+}
+
+.admin-form button {
+  background: #1a7f37;
+  color: #fff;
+}
+
+.btn-refuser {
+  background: #cf222e;
+  color: #fff;
+}
+
+[data-theme='dark'] .admin-form select,
+[data-theme='dark'] .admin-form input,
+[data-theme='dark'] .admin-link {
+  background: #1b1b1d;
+  color: #f2f2f2;
+  border-color: #444;
 }
 
 .modal-card select {

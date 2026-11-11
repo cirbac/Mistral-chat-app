@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Administration des ajouts — Consommer européen</title>
+    <link rel="icon" type="image/png" href="assets/favicon.png" />
+    <script>
+      try {
+        var t = localStorage.getItem('ce-theme');
+        if (t) document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-left">
+        <a href="/"><img class="logo" src="assets/logo-white.png" alt="Cirba Consult — accueil" /></a>
+      </div>
+      <div class="topbar-spacer"></div>
+      <div class="controls">
+        <button id="account-btn" class="account-btn" type="button" title="Mon compte" onclick="window.location.href='/'">👤</button>
+      </div>
+    </header>
+
+    <main class="contenu" style="display:block">
+      <h2 class="home-titre">Ajouts proposés par les utilisateurs</h2>
+      <p class="cat-note">Chaque ajout est <strong>accepté temporairement</strong> (visible partout, badge violet « Proposé »). Validez-le avec un statut définitif + une source pour le rendre officiel, ou refusez-le.</p>
+      <div id="ajouts" class="results"></div>
+      <p id="vide" class="vide hidden">Aucun ajout en attente. 👍</p>
+    </main>
+
+    <script src="admin.js"></script>
+  </body>
+</html>
