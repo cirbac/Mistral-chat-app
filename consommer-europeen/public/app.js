@@ -35,7 +35,6 @@ const IMAGES = {
 
 const el = {
   pref: document.getElementById('pref'),
-  themeBtn: document.getElementById('theme-btn'),
   search: document.getElementById('search'),
   chips: document.getElementById('secteur-chips'),
   home: document.getElementById('home'),
@@ -62,17 +61,6 @@ const el = {
   addNote: document.getElementById('add-note'),
   addMsg: document.getElementById('add-msg'),
 };
-
-function applyTheme(theme) {
-  document.documentElement.dataset.theme = theme;
-  try { localStorage.setItem('ce-theme', theme); } catch {}
-  el.themeBtn.textContent = theme === 'dark' ? '☀️' : '🌙';
-  el.themeBtn.title = theme === 'dark' ? 'Passer en mode jour' : 'Passer en mode nuit';
-}
-
-function currentTheme() {
-  return document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
-}
 
 async function api(path) {
   const res = await fetch(path);
@@ -705,9 +693,6 @@ el.pref.addEventListener('change', () => {
   else doSearch();
 });
 
-el.themeBtn.addEventListener('click', () => {
-  applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
-});
 
 el.logoHome.addEventListener('click', () => renderHome());
 
@@ -764,7 +749,6 @@ async function init() {
     opt.textContent = `${s.num} · ${s.nom}`;
     el.addSecteur.appendChild(opt);
   }
-  applyTheme(currentTheme());
   el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbProduits} produits · ${state.meta.nbSources} sources`;
   renderHome();
 }

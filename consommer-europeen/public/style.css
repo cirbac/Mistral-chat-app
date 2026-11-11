@@ -1021,7 +1021,7 @@ button:hover {
 }
 
 [data-theme='dark'] body {
-  background: #1e3a8a;
+  background: #11204c;
   color: #f2f2f2;
 }
 
@@ -1216,3 +1216,8 @@ button:hover {
 .off-score.off-d { background: #ee8100; }
 .off-score.off-e { background: #e63e11; }
 .off-score.off-nova { background: #4b5563; }
+
+select option {
+  background: #1d2f5e;
+  color: #eef2f7;
+}
