@@ -1,0 +1,322 @@
+[
+ {
+  "num": "17",
+  "id": "jouets-et-jeux-video",
+  "nom": "Jouets et jeux vidéo",
+  "note": "",
+  "groupes": [
+   {
+    "id": "jouets-et-jeux-video-schleich",
+    "groupe": "Schleich",
+    "marques": [
+     "Schleich"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-simba-dickie-group",
+    "groupe": "Simba Dickie Group",
+    "marques": [
+     "Smoby",
+     "Majorette",
+     "Dickie"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Groupe familial. Non revérifié. Asmodee Catan, Dobble, Ticket to Ride Suède (siège) Rang 1 Ancienne filiale d'Embracer. Non revérifié. Djeco Djeco France Rang 1 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-moulin-roty",
+    "groupe": "Moulin Roty",
+    "marques": [
+     "Moulin Roty"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-spin-master",
+    "groupe": "Spin Master",
+    "marques": [
+     "Pat'Patrouille",
+     "Bakugan",
+     "Meccano"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Toronto selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-bandai-namco",
+    "groupe": "Bandai Namco",
+    "marques": [
+     "Bandai",
+     "Tamagotchi"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Sega Sammy Sega Japon Rang 2 Takara Tomy Tomica,",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-mattel-hasbro",
+    "groupe": "Mattel, Hasbro",
+    "marques": [
+     "Barbie",
+     "Hot Wheels",
+     "Monopoly États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-pop-mart",
+    "groupe": "Pop Mart",
+    "marques": [
+     "Labubu",
+     "Molly"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe chinois. Non revérifié. Consoles, plateformes et éditeurs",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-paradox-interactive",
+    "groupe": "Paradox Interactive",
+    "marques": [
+     "Crusader Kings Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Remedy Alan Wake, Control Finlande Rang 1 Non revérifié. Embracer Group Embracer Suède Rang 1 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-pullup",
+    "groupe": "Pullup",
+    "marques": [
+     "Focus",
+     "Dotemu"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Ancien Focus Entertainment. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-larian-studios",
+    "groupe": "Larian Studios",
+    "marques": [
+     "Baldur's Gate 3"
+    ],
+    "siege": "Belgique",
+    "siege_pays": "BE",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié. Nintendo Switch, Mario,",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-entertainment",
+    "groupe": "Entertainment",
+    "marques": [
+     "PlayStation"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Filiale de Sony. Les téléviseurs Sony suivent une règle distincte (voir Téléviseurs).",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-sony-interactive-entertainment",
+    "groupe": "Sony Interactive Entertainment",
+    "marques": [],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-square-enix",
+    "groupe": "Square Enix",
+    "marques": [
+     "Final Fantasy",
+     "Dragon Quest"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Konami Konami, eFootball Japon Rang 2 Nexon MapleStory Japon Rang 2 Non revérifié. NCSoft Lineage, Guild Wars Corée du Sud Rang 2 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-capcom",
+    "groupe": "Capcom",
+    "marques": [
+     "Resident Evil",
+     "Monster Hunter"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "commentaire": "Tencent (Chine) détient 26,32 % de la filiale Vantage Studios, opération finalisée le 21",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-ubisoft",
+    "groupe": "Ubisoft",
+    "marques": [
+     "Assassin's Creed",
+     "Far Cry",
+     "Rainbow Six novembre 2025 [135] . Tencent détiendrait aussi environ 10 % d'Ubisoft [137] et 49",
+     "9 % de Guillemot Brothers Ltd",
+     "actionnaire majoritaire d'Ubisoft [136] . Ces deux derniers chiffres ne sont pas revérifiés à la source primaire. Xbox",
+     "Steam",
+     "FIFA/EA Sports États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Changement de contrôle d'Electronic Arts évoqué en 2025, non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-epic-games",
+    "groupe": "Epic Games",
+    "marques": [
+     "Fortnite",
+     "Epic Games Store États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Tencent (Chine) serait actionnaire minoritaire important selon mes informations. Non",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-microsoft-valve-electronic-arts",
+    "groupe": "Microsoft, Valve, Electronic Arts",
+    "marques": [
+     "revérifié. Rockstar",
+     "2K États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-take-two-interactive",
+    "groupe": "Take-Two Interactive",
+    "marques": [],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Tencent a racheté Sumo Digital pour 1,27 milliard de dollars selon [136] . Les autres filiales",
+    "sources": [
+     136
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-et-jeux-video-mihoyo-hoyoverse",
+    "groupe": "miHoYo (HoYoverse)",
+    "marques": [
+     "Genshin Impact"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe chinois. NetEase NetEase Games Chine À écarter Groupe chinois.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Jouets et jeux de société"
+  ],
+  "keywords": [
+   "jouet",
+   "jeu vidéo",
+   "console",
+   "jeu de société",
+   "gaming"
+  ]
+ }
+]

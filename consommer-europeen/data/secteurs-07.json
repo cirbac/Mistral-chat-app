@@ -1,0 +1,1163 @@
+[
+ {
+  "num": "07",
+  "id": "logiciels-et-applications",
+  "nom": "Logiciels et applications",
+  "note": "",
+  "groupes": [
+   {
+    "id": "logiciels-et-applications-here-technologies",
+    "groupe": "HERE Technologies",
+    "marques": [
+     "HERE WeGo"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Basée à Amsterdam [63] . Actionnaires cités en 2020 : Audi, Bosch, BMW, Continental, Intel Capital, Mercedes-Benz, Pioneer, ainsi que Mitsubishi et NTT pour 30 % [62] . Répartition actuelle non revérifiée.",
+    "sources": [
+     63,
+     62
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-tomtom",
+    "groupe": "TomTom",
+    "marques": [
+     "TomTom GO"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Société néerlandaise cotée.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-magic-lane",
+    "groupe": "Magic Lane",
+    "marques": [
+     "Magic Earth"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Société basée à Amsterdam, éditrice de Magic Earth [64] . Cartes OpenStreetMap, sans suivi des utilisateurs selon l'éditeur [65] . Gratuit un mois, puis 99 centimes par an selon l'éditeur",
+    "sources": [
+     64,
+     65
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-mappy",
+    "groupe": "Mappy",
+    "marques": [
+     "Mappy"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Cédée par Solocal au groupe RATP (public) en novembre 2020 [68] . Situation actuelle non revérifiée.",
+    "sources": [
+     68
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-komoot",
+    "groupe": "komoot",
+    "marques": [
+     "komoot"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Plateforme d'itinéraires allemande rachetée par Bending Spoons (Italie), clôture annoncée le 20 mars 2025 [67] .",
+    "sources": [
+     67
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-openstreetmap",
+    "groupe": "OpenStreetMap",
+    "marques": [
+     "Données cartographiques ouvertes"
+    ],
+    "siege": "Royaume-Uni (fondation)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "Base collaborative utilisée par Magic Earth [65] . Siège de la fondation non revérifié.",
+    "sources": [
+     65
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-kakao-naver",
+    "groupe": "Kakao, Naver",
+    "marques": [
+     "Kakao Map",
+     "Naver Maps Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-google-apple",
+    "groupe": "Google, Apple",
+    "marques": [
+     "Google Maps",
+     "Waze",
+     "Apple Plans États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-yandex",
+    "groupe": "Yandex",
+    "marques": [
+     "Yandex Maps"
+    ],
+    "siege": "Russie",
+    "siege_pays": "RU",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Baidu, Alibaba Baidu Maps, Amap Chine À écarter Groupes chinois. Messagerie instantanée",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-threema",
+    "groupe": "Threema",
+    "marques": [
+     "Threema"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Siège à Zurich. Racheté en janvier 2026 par Comitis Capital, fonds allemand, à Afinum et aux fondateurs [69] [70] .",
+    "sources": [
+     69,
+     70
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-olvid",
+    "groupe": "Olvid",
+    "marques": [
+     "Olvid"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Messagerie française certifiée par l'ANSSI, recommandée aux ministres par une circulaire du Premier ministre [71] . Répartition du capital non vérifiée.",
+    "sources": [
+     71
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-tchap-dinum",
+    "groupe": "Tchap (DINUM)",
+    "marques": [
+     "Tchap"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Messagerie de l'État réservée aux agents publics, obligatoire dans les ministères depuis septembre 2025 [72] . Intrusion via le compte d'un agent détectée le 7 juin 2026 [74] .",
+    "sources": [
+     72,
+     74
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-matrix-element",
+    "groupe": "Matrix, Element",
+    "marques": [
+     "Element",
+     "protocole Matrix"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "Tchap repose sur le protocole Matrix [73] . Siège des entités Element et Matrix.org Foundation non revérifié.",
+    "sources": [
+     73
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-wire",
+    "groupe": "Wire",
+    "marques": [
+     "Wire"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Siège légal à Zug, développement à Berlin, société mère allemande Wire Group Holding GmbH depuis août 2020, partenariat d'avril 2024 avec le groupe Schwarz [76] . Une holding américaine avait repris 100 % du capital en juillet 2019 [76] .",
+    "sources": [
+     76,
+     76
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-rakuten",
+    "groupe": "Rakuten",
+    "marques": [
+     "Viber"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Viber appartient à Rakuten. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-ly-corporation",
+    "groupe": "LY Corporation",
+    "marques": [
+     "LINE"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Exploitée par LY Corporation, détenue à environ 64 % par A Holdings, coentreprise à parts égales de SoftBank et de Naver (Corée du Sud) [78]",
+    "sources": [
+     78
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-kakao",
+    "groupe": "Kakao",
+    "marques": [
+     "KakaoTalk Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Concurrent coréen de LINE [77] .",
+    "sources": [
+     77
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-signal-foundation",
+    "groupe": "Signal Foundation",
+    "marques": [
+     "Signal États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Fondation à but non lucratif américaine. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-meta",
+    "groupe": "Meta",
+    "marques": [
+     "WhatsApp",
+     "Messenger États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-telegram",
+    "groupe": "Telegram",
+    "marques": [
+     "Telegram Émirats arabes unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Siège à Dubaï, non revérifié. Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-tencent",
+    "groupe": "Tencent",
+    "marques": [
+     "WeChat",
+     "QQ"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe chinois. Visioconférence et travail collaboratif",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-la-suite-numerique-etat",
+    "groupe": "La Suite numérique (État)",
+    "marques": [
+     "Visio",
+     "Tchap",
+     "Docs"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Suite des agents publics. Visio dépasse 60 000 utilisateurs mensuels fin 2025 ; assistant d'IA développé avec Mistral AI [75] . Accès réservé au secteur public.",
+    "sources": [
+     75
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-tixeo",
+    "groupe": "Tixeo",
+    "marques": [
+     "Tixeo"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Visioconférence sécurisée. Non revérifié. Infomaniak kMeet, kSuite Suisse Rang 1 Non revérifié. 8x8 Jitsi Meet États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-microsoft-google-zoom-cisco",
+    "groupe": "Microsoft, Google, Zoom, Cisco",
+    "marques": [
+     "Teams",
+     "Meet",
+     "Zoom",
+     "Webex États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Navigateurs web",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-vivaldi-technologies",
+    "groupe": "Vivaldi Technologies",
+    "marques": [
+     "Vivaldi Norvège"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Siège à Oslo [81] , société détenue par ses salariés selon une source de 2016 [82] . Navigateur reposant sur Chromium, le moteur de Google [83] .",
+    "sources": [
+     81,
+     82,
+     83
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-mullvad",
+    "groupe": "Mullvad",
+    "marques": [
+     "Mullvad Browser Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Navigateur du fournisseur de VPN Mullvad. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-samsung",
+    "groupe": "Samsung",
+    "marques": [
+     "Samsung Internet Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-naver",
+    "groupe": "Naver",
+    "marques": [
+     "Whale Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-mozilla",
+    "groupe": "Mozilla",
+    "marques": [
+     "Firefox États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-google-microsoft-apple",
+    "groupe": "Google, Microsoft, Apple",
+    "marques": [
+     "Chrome",
+     "Edge",
+     "Safari États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-brave-software",
+    "groupe": "Brave Software",
+    "marques": [
+     "Brave États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Yandex Yandex Browser Russie Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-opera-limited",
+    "groupe": "Opera Limited",
+    "marques": [
+     "Opera",
+     "Opera GX",
+     "Opera Mini Norvège (siège)"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "a_ecarter",
+    "commentaire": "Siège à Oslo, mais 67,9 % du capital détenus par Kunlun Tech (Chine) [79] [80] .",
+    "sources": [
+     79,
+     80
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-alibaba",
+    "groupe": "Alibaba",
+    "marques": [
+     "UC Browser"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupe chinois. Moteurs de recherche",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-qwant",
+    "groupe": "Qwant",
+    "marques": [
+     "Qwant"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Racheté par Synfonium (Octave et Miroslav Klaba 75 %, Caisse des Dépôts 25 %) [84] . Dépendait de l'infrastructure de Microsoft [85] .",
+    "sources": [
+     84,
+     85
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-ecosia",
+    "groupe": "Ecosia",
+    "marques": [
+     "Ecosia"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Moteur berlinois décrit comme à but non lucratif [87] . Avait basculé sur un mélange de résultats Google et Bing [85] .",
+    "sources": [
+     87,
+     85
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-european-search-perspective",
+    "groupe": "European Search Perspective",
+    "marques": [],
+    "siege": "Index Staan France",
+    "siege_pays": "IN",
+    "statut": "rang1",
+    "commentaire": "Coentreprise 50/50 de Qwant et d'Ecosia pour un index européen [85] , société dont le siège est à Paris [86] . Les deux moteurs ont commencé à servir des requêtes avec cet index en août 2025 [87] .",
+    "sources": [
+     85,
+     86,
+     87
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-naver",
+    "groupe": "Naver",
+    "marques": [
+     "Naver Search Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-startpage",
+    "groupe": "Startpage",
+    "marques": [
+     "Startpage"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "hors_zones",
+    "commentaire": "Moteur néerlandais, propriété de System1 (États-Unis) selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-duckduckgo-brave",
+    "groupe": "DuckDuckGo, Brave",
+    "marques": [
+     "DuckDuckGo",
+     "Brave Search États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Google, Microsoft Google Search, Bing États-Unis Hors zones Hors de vos zones. Courrier, stockage et bureautique",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-proton",
+    "groupe": "Proton",
+    "marques": [
+     "Proton Mail",
+     "Drive",
+     "Calendar"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Siège à Genève depuis 2014. Déplace une partie de son infrastructure hors de Suisse par crainte d'un projet de loi de surveillance, tout en précisant ne pas quitter le pays à ce stade [88] .",
+    "sources": [
+     88
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-tuta",
+    "groupe": "Tuta",
+    "marques": [
+     "Tuta Mail"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Mailo Mailo France Rang 1 Non revérifié. Infomaniak kSuite, Swiss Backup Suisse Rang 1 Non revérifié. Nextcloud Nextcloud Allemagne Rang 1 Stockage et collaboration. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-the-document-foundation",
+    "groupe": "The Document Foundation",
+    "marques": [
+     "LibreOffice"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Suite bureautique libre. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-collabora",
+    "groupe": "Collabora",
+    "marques": [
+     "Collabora Online"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Hancom Hancom Office Corée du Sud Rang 2 Non revérifié. Naver Naver Mail,",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-google-microsoft-apple",
+    "groupe": "Google, Microsoft, Apple",
+    "marques": [
+     "Gmail",
+     "Outlook",
+     "Microsoft 365",
+     "iCloud États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-dropbox",
+    "groupe": "Dropbox",
+    "marques": [
+     "Dropbox États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Kingsoft WPS Office Chine À écarter Non revérifié. Systèmes d'exploitation",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-murena",
+    "groupe": "Murena",
+    "marques": [
+     "/e/OS"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Système mobile sans services Google. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-jolla",
+    "groupe": "Jolla",
+    "marques": [
+     "Sailfish OS"
+    ],
+    "siege": "Finlande",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Canonical Ubuntu Royaume-Uni Rang 1 Non revérifié. SUSE SUSE Linux, openSUSE Allemagne Rang 1 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-samsung",
+    "groupe": "Samsung",
+    "marques": [
+     "One UI (sur Android) Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Surcouche reposant sur Android, donc dépendance à Google.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-grapheneos",
+    "groupe": "GrapheneOS",
+    "marques": [
+     "GrapheneOS"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Fondation à but non lucratif créée au Canada en mars 2023 [123] . Reclassé en Rang 2 avec l'ajout du Canada (version 4).",
+    "sources": [
+     123
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-google",
+    "groupe": "Google",
+    "marques": [
+     "Android États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Apple, Microsoft iOS, macOS, Windows États-Unis Hors zones Hors de vos zones. VPN, mots de passe et sécurité",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-proton",
+    "groupe": "Proton",
+    "marques": [
+     "Proton VPN",
+     "Proton Pass"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Voir la ligne Proton de la sous-catégorie précédente.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-passbolt",
+    "groupe": "Passbolt",
+    "marques": [
+     "Passbolt"
+    ],
+    "siege": "Luxembourg",
+    "siege_pays": "LU",
+    "statut": "rang1",
+    "commentaire": "Gestionnaire de mots de passe. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-1password",
+    "groupe": "1Password",
+    "marques": [
+     "1Password"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Toronto selon mes informations. Reclassé en Rang 2 avec l'ajout du Canada (version 4). Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-bitwarden",
+    "groupe": "Bitwarden",
+    "marques": [
+     "Bitwarden États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Réseaux sociaux et plateformes",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-mastodon-ggmbh",
+    "groupe": "Mastodon gGmbH",
+    "marques": [
+     "Mastodon"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Association allemande à but non lucratif. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-meta",
+    "groupe": "Meta",
+    "marques": [
+     "Facebook",
+     "Instagram",
+     "Threads États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-x-corp",
+    "groupe": "X Corp.",
+    "marques": [
+     "X États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Bluesky Bluesky États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-snap-microsoft-reddit",
+    "groupe": "Snap, Microsoft, Reddit",
+    "marques": [
+     "Snapchat",
+     "LinkedIn",
+     "Reddit États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-bytedance",
+    "groupe": "ByteDance",
+    "marques": [
+     "TikTok",
+     "Douyin",
+     "CapCut"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "ByteDance est la maison mère. La coentreprise TikTok USDS, finalisée le 22 janvier 2026, ne couvre que les opérations américaines, ByteDance y conservant 19,9 % [91] [92] .",
+    "sources": [
+     91,
+     92
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-xiaohongshu",
+    "groupe": "Xiaohongshu",
+    "marques": [
+     "RedNote"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Non revérifié. Assistants d'intelligence artificielle",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-mistral-ai",
+    "groupe": "Mistral AI",
+    "marques": [
+     "Le Chat"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "ASML premier actionnaire avec 11 % depuis septembre 2025 [89] . Tour de septembre 2026 mené par Samsung, avec Advent, des fonds gérés par BlackRock et le Luxembourg ; Mubadala (Abu Dhabi) est aussi actionnaire. Répartition exacte non communiquée [90] .",
+    "sources": [
+     89,
+     90
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-naver",
+    "groupe": "Naver",
+    "marques": [
+     "HyperCLOVA X Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-openai-anthropic-google-microsoft",
+    "groupe": "OpenAI, Anthropic, Google, Microsoft",
+    "marques": [
+     "ChatGPT",
+     "Claude",
+     "Gemini",
+     "Copilot États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-deepseek-alibaba-moonshot",
+    "groupe": "DeepSeek, Alibaba, Moonshot",
+    "marques": [
+     "DeepSeek",
+     "Qwen",
+     "Kimi"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Non revérifié. Applications de voyage et de mobilité",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-trainline",
+    "groupe": "Trainline",
+    "marques": [
+     "Trainline"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-omio",
+    "groupe": "Omio",
+    "marques": [
+     "Omio"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-bolt",
+    "groupe": "Bolt",
+    "marques": [
+     "Bolt"
+    ],
+    "siege": "Estonie",
+    "siege_pays": "EE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-edreams-odigeo",
+    "groupe": "eDreams ODIGEO",
+    "marques": [
+     "eDreams",
+     "Opodo",
+     "Go Voyages"
+    ],
+    "siege": "Espagne",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-booking-holdings",
+    "groupe": "Booking Holdings",
+    "marques": [
+     "Booking.com",
+     "Kayak États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Booking.com est exploité depuis Amsterdam, la société mère est américaine. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-et-applications-airbnb",
+    "groupe": "Airbnb",
+    "marques": [
+     "Airbnb États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Uber Uber États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Navigation et cartographie"
+  ],
+  "keywords": [
+   "logiciel",
+   "application",
+   "appli",
+   "navigateur",
+   "messagerie",
+   "système d'exploitation"
+  ]
+ }
+]

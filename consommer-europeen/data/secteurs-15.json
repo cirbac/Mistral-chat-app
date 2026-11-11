@@ -1,0 +1,491 @@
+[
+ {
+  "num": "15",
+  "id": "transport-et-mobilite",
+  "nom": "Transport et mobilité",
+  "note": "",
+  "groupes": [
+   {
+    "id": "transport-et-mobilite-air-france-klm",
+    "groupe": "Air France-KLM",
+    "marques": [
+     "Air France",
+     "KLM",
+     "Transavia"
+    ],
+    "siege": "France / Pays-Bas",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Après l'augmentation de capital de juin 2022 : État français 28,6 %, État néerlandais 9,3 %, China Eastern 4,7 %, Delta 2,9 % [131] . CMA CGM est entré au capital à cette occasion [132] . Répartition actuelle non revérifiée.",
+    "sources": [
+     131,
+     132
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-lufthansa-group",
+    "groupe": "Lufthansa Group",
+    "marques": [
+     "Lufthansa",
+     "Swiss",
+     "Austrian",
+     "Brussels Airlines",
+     "Eurowings"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-iag",
+    "groupe": "IAG",
+    "marques": [
+     "British Airways",
+     "Iberia",
+     "Vueling",
+     "Aer Lingus"
+    ],
+    "siege": "Espagne (siège légal)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-ryanair",
+    "groupe": "Ryanair",
+    "marques": [
+     "Ryanair"
+    ],
+    "siege": "Irlande",
+    "siege_pays": "IE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-easyjet",
+    "groupe": "easyJet",
+    "marques": [
+     "easyJet"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-finnair",
+    "groupe": "Finnair",
+    "marques": [
+     "Finnair"
+    ],
+    "siege": "Finlande",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "commentaire": "État finlandais actionnaire majoritaire selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-norwegian",
+    "groupe": "Norwegian",
+    "marques": [
+     "Norwegian Norvège"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Groupe Dubreuil Air Caraïbes, French bee France Rang 1 Groupe familial. Non revérifié. Volotea Volotea Espagne Rang 1 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-japan-airlines",
+    "groupe": "Japan Airlines",
+    "marques": [
+     "JAL"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-korean-air",
+    "groupe": "Korean Air",
+    "marques": [
+     "Korean Air Corée du Sud"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-eva-air",
+    "groupe": "EVA Air",
+    "marques": [
+     "EVA Air Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-china-airlines",
+    "groupe": "China Airlines",
+    "marques": [
+     "China Airlines Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "Compagnie taïwanaise. Ne pas confondre avec Air China.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-air-canada",
+    "groupe": "Air Canada",
+    "marques": [
+     "Air Canada"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Montréal selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-transat-a-t",
+    "groupe": "Transat A.T.",
+    "marques": [
+     "Air Transat"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Non revérifié. Compagnies hors zones ou chinoises",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-emirates-etihad",
+    "groupe": "Emirates, Etihad",
+    "marques": [
+     "Emirates",
+     "Etihad Émirats arabes unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-qatar-airways",
+    "groupe": "Qatar Airways",
+    "marques": [],
+    "siege": "Qatar Airways Qatar",
+    "siege_pays": "QA",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Turkish Airlines Turkish Airlines Turquie Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-delta-united-american",
+    "groupe": "Delta, United, American",
+    "marques": [
+     "Delta",
+     "United",
+     "American Airlines États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-singapore-airlines",
+    "groupe": "Singapore Airlines",
+    "marques": [
+     "Singapore Airlines"
+    ],
+    "siege": "Singapour",
+    "siege_pays": "SG",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-air-china-china-eastern-china-southern",
+    "groupe": "Air China, China Eastern, China Southern",
+    "marques": [
+     "Air China",
+     "China Eastern",
+     "China Southern"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupes chinois. China Eastern est aussi actionnaire d'Air France-KLM (voir la ligne correspondante). Rail, autocar et location",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-eurostar",
+    "groupe": "Eurostar",
+    "marques": [
+     "Eurostar"
+    ],
+    "siege": "France / Royaume-Uni",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "SNCF actionnaire majoritaire selon mes informations. Reste du capital : non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-flix",
+    "groupe": "Flix",
+    "marques": [
+     "FlixBus",
+     "FlixTrain"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-ada",
+    "groupe": "Ada",
+    "marques": [
+     "Ada"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-dott",
+    "groupe": "Dott",
+    "marques": [
+     "Dott"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Trottinettes et vélos en libre-service. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-voi",
+    "groupe": "Voi",
+    "marques": [
+     "Voi Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Trottinettes en libre-service. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-hertz-avis-budget-lime",
+    "groupe": "Hertz, Avis Budget, Lime",
+    "marques": [
+     "Hertz",
+     "Avis",
+     "Lime États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Cycles et mobilité douce",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-pon-holdings",
+    "groupe": "Pon Holdings",
+    "marques": [
+     "Gazelle",
+     "Batavus",
+     "Cannondale"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "Cannondale, marque américaine d'origine, appartient à Pon selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-cube-bikes",
+    "groupe": "Cube Bikes",
+    "marques": [
+     "Cube"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Canyon Canyon Allemagne Rang 1 Actionnariat non revérifié. Riese & Müller Riese & Müller Allemagne Rang 1 Non revérifié. Brompton Brompton Royaume-Uni Rang 1 Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-orbea",
+    "groupe": "Orbea",
+    "marques": [
+     "Orbea"
+    ],
+    "siege": "Espagne",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "commentaire": "Coopérative Mondragon selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-moustache-bikes",
+    "groupe": "Moustache Bikes",
+    "marques": [
+     "Moustache"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Non revérifié. Giant Giant,",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-merida",
+    "groupe": "Merida",
+    "marques": [
+     "Merida Taïwan"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-shimano",
+    "groupe": "Shimano",
+    "marques": [
+     "Shimano"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Composants de vélos. Trek, Specialized Trek, Specialized États-Unis Hors zones Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Compagnies aériennes européennes"
+  ],
+  "keywords": [
+   "transport",
+   "mobilité",
+   "train",
+   "avion",
+   "compagnie aérienne",
+   "covoiturage"
+  ]
+ }
+]

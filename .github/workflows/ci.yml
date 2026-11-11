@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [main, 'vibe/*']
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install + build de l'app consommer-europeen
+        if: hashFiles('consommer-europeen/package.json') != ''
+        working-directory: consommer-europeen
+        run: |
+          npm ci
+          npm run build
+      - name: Install + build de l'app racine (chat Mistral)
+        if: hashFiles('package.json') != ''
+        run: |
+          npm ci
+          npm run build

@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "titre": "Grille sectorielle · Consommation à préférence européenne",
+  "sous_titre": "Consommer européen — Les entreprises à privilégier, secteur par secteur",
+  "version": "4",
+  "date": "2026-10-11",
+  "source_document": "consommer_europeen_grille_sectorielle_v4_2026_10_11.pdf (Google Drive — dossier « Etudes et réflexions »)",
+  "source_drive_id": "1pb8aNsAFRlvOdk0WRrJ-TbPN-4d2gqrl",
+  "disclaimer": "Document d'information générale. Il ne constitue ni un conseil en investissement ni une recommandation d'achat de titres.",
+  "stats": {
+   "lignes": 615,
+   "secteurs": 21,
+   "sous_categories": 78,
+   "rang1": 322,
+   "rang2": 119,
+   "vigilance": 22,
+   "hors_zones": 90,
+   "a_ecarter": 62
+  },
+  "nouveautes_v4": [
+   "Canada ajouté aux pays de Rang 2 (1Password, GrapheneOS, BRP, Lululemon, Spin Master, Air Canada, McCain, Saputo, Kobo, Restaurant Brands International).",
+   "Huit nouveaux secteurs : banque et assurance, transport et mobilité, hôtellerie, jouets et jeux vidéo, maison et bricolage, montres et optique, médias et streaming, restauration et livraison."
+  ],
+  "import": {
+   "document": "consommer_europeen_grille_sectorielle_v4_2026_10_11.docx (Drive, converti depuis le PDF v4)",
+   "date_import": "2026-11-11",
+   "groupes_importes": 427,
+   "sources_importes": 146,
+   "anomalies_parse": 17,
+   "parser": "tools/parse_docx.py"
+  }
+ },
+ "methode": {
+  "criteres": [
+   "Critère 1 : capital et production en Europe.",
+   "Critère 2, à défaut : Japon, Corée du Sud, Taïwan, Canada."
+  ],
+  "texte": "Chaque entreprise est classée selon le pays qui contrôle son capital. Le premier choix va aux groupes européens, puis, lorsqu'aucune offre européenne n'existe, aux groupes japonais, sud-coréens, taïwanais ou canadiens. Une marque historiquement européenne peut être contrôlée ailleurs, et un groupe européen peut produire hors d'Europe : le pays de fabrication reste à vérifier sur l'étiquette ou la fiche produit."
+ },
+ "statuts": [
+  {
+   "id": "rang1",
+   "label": "Rang 1",
+   "couleur": "#1a7f37",
+   "description": "Capital et contrôle européens (Union européenne, Royaume-Uni, Suisse, Norvège). Le lieu de production peut varier selon le produit."
+  },
+  {
+   "id": "rang2",
+   "label": "Rang 2",
+   "couleur": "#0969da",
+   "description": "Capital et contrôle japonais, sud-coréens, taïwanais ou canadiens."
+  },
+  {
+   "id": "vigilance",
+   "label": "Vigilance",
+   "couleur": "#9a6700",
+   "description": "Groupe éligible mais avec un actionnaire chinois significatif, un transfert d'activité en cours, une production délocalisée ou un changement de contrôle récent."
+  },
+  {
+   "id": "hors_zones",
+   "label": "Hors zones",
+   "couleur": "#6e7781",
+   "description": "Contrôle hors de vos zones mais non chinois (Turquie, États-Unis). À arbitrer selon votre politique."
+  },
+  {
+   "id": "a_ecarter",
+   "label": "À écarter",
+   "couleur": "#cf222e",
+   "description": "Contrôle chinois, direct ou via un actionnaire majoritaire."
+  }
+ ],
+ "preferences": [
+  {
+   "id": "fr",
+   "label": "Préférence France",
+   "description": "Groupes contrôlés en France (siège en France, statut Rang 1 ou Vigilance)."
+  },
+  {
+   "id": "ue",
+   "label": "Préférence Union européenne",
+   "description": "Capital et contrôle européens : UE, Royaume-Uni, Suisse, Norvège (Rang 1 + Vigilance)."
+  },
+  {
+   "id": "hautes_democraties",
+   "label": "Hautes démocraties (annexe)",
+   "description": "Préférence UE + Japon, Corée du Sud, Taïwan, Canada (Rang 1 + Rang 2 + Vigilance)."
+  },
+  {
+   "id": "all",
+   "label": "Tout afficher",
+   "description": "Toutes les lignes, y compris Hors zones et À écarter (affichées barrées)."
+  }
+ ]
+}

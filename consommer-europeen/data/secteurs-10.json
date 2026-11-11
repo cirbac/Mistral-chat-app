@@ -1,0 +1,598 @@
+[
+ {
+  "num": "10",
+  "id": "vetements-chaussures-et-sport",
+  "nom": "Vêtements, chaussures et sport",
+  "note": "",
+  "groupes": [
+   {
+    "id": "vetements-chaussures-et-sport-inditex",
+    "groupe": "Inditex",
+    "marques": [
+     "Zara",
+     "Massimo Dutti",
+     "Bershka",
+     "Pull&Bear"
+    ],
+    "siege": "Espagne",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-h-m-group",
+    "groupe": "H&M Group",
+    "marques": [
+     "H&M",
+     "COS",
+     "Arket Suède"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "rang1",
+    "commentaire": "Kiabi Kiabi France Rang 1 Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-c-a",
+    "groupe": "C&A",
+    "marques": [
+     "C&A"
+    ],
+    "siege": "Pays-Bas / Allemagne",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-associated-british-foods",
+    "groupe": "Associated British Foods",
+    "marques": [
+     "Primark"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-armor-lux",
+    "groupe": "Armor Lux",
+    "marques": [
+     "Armor Lux"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-saint-james",
+    "groupe": "Saint James",
+    "marques": [
+     "Saint James"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-maus-freres",
+    "groupe": "Maus Frères",
+    "marques": [
+     "Lacoste"
+    ],
+    "siege": "France / Suisse",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Marque française détenue par le groupe suisse Maus Frères.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-hugo-boss",
+    "groupe": "Hugo Boss",
+    "marques": [
+     "Boss",
+     "Hugo"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-otb",
+    "groupe": "OTB",
+    "marques": [
+     "Diesel",
+     "Maison Margiela",
+     "Marni"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-fast-retailing",
+    "groupe": "Fast Retailing",
+    "marques": [
+     "Uniqlo",
+     "GU"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-ryohin-keikaku",
+    "groupe": "Ryohin Keikaku",
+    "marques": [
+     "Muji"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-levi-strauss-co",
+    "groupe": "Levi Strauss & Co.",
+    "marques": [
+     "Levi's États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. PVH Tommy Hilfiger, Calvin Klein États-Unis Hors zones Hors de vos zones. Luxe et mode haut de gamme",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-lvmh",
+    "groupe": "LVMH",
+    "marques": [
+     "Louis Vuitton",
+     "Dior",
+     "Celine",
+     "Kenzo",
+     "Rimowa"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "France Rang 1",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-hermes",
+    "groupe": "Hermès",
+    "marques": [
+     "Hermès"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Chanel Chanel France Rang 1 Groupe privé.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-kering",
+    "groupe": "Kering",
+    "marques": [
+     "Gucci",
+     "Saint Laurent",
+     "Balenciaga"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-moncler-group",
+    "groupe": "Moncler Group",
+    "marques": [
+     "Moncler",
+     "Stone Island"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-prada-group",
+    "groupe": "Prada Group",
+    "marques": [
+     "Prada",
+     "Miu Miu"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-richemont",
+    "groupe": "Richemont",
+    "marques": [
+     "Cartier",
+     "Van Cleef & Arpels",
+     "Chloé"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "commentaire": "Ancien actionnaire majoritaire : Shandong Ruyi (Chine), arrivé en 2016 [96] , défaillant depuis",
+    "sources": [
+     96
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-smcp",
+    "groupe": "SMCP",
+    "marques": [
+     "Sandro",
+     "Maje",
+     "Claudie Pierlot",
+     "Fursac 2021. Les créanciers réunis dans Glas ont récupéré une partie du capital",
+     "mise en vente de jusqu'à 51",
+     "2 % annoncée le 27 novembre 2025 [94] [95] . Je ne sais pas qui contrôle le capital aujourd'hui. Lanvin",
+     "Wolford",
+     "Sergio Rossi",
+     "Caruso",
+     "St. John"
+    ],
+    "siege": "Chine (groupe)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Contrôlé par le conglomérat chinois Fosun [97] [98] . Des sources du secteur citées par la presse",
+    "sources": [
+     97,
+     98
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-lanvin-group-fosun",
+    "groupe": "Lanvin Group (Fosun)",
+    "marques": [
+     "évoquent une recherche d'acheteurs",
+     "non confirmée [99] . Chaussures"
+    ],
+    "siege": "Chine (groupe)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Marques rachetées par Shandong Ruyi [99] . Situation actuelle non revérifiée.",
+    "sources": [
+     99
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-camper",
+    "groupe": "Camper",
+    "marques": [
+     "Camper"
+    ],
+    "siege": "Espagne",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-on-holding",
+    "groupe": "On Holding",
+    "marques": [
+     "On"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-dr-martens",
+    "groupe": "Dr. Martens",
+    "marques": [
+     "Dr. Martens"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-geox",
+    "groupe": "Geox",
+    "marques": [
+     "Geox"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-asics",
+    "groupe": "Asics",
+    "marques": [
+     "Asics",
+     "Onitsuka Tiger"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-mizuno",
+    "groupe": "Mizuno",
+    "marques": [
+     "Mizuno"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-clarks",
+    "groupe": "Clarks",
+    "marques": [
+     "Clarks"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "a_ecarter",
+    "commentaire": "LionRock Capital, fonds basé à Hong Kong, détient 51 % depuis mars 2021 [100] .",
+    "sources": [
+     100
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-shandong-ruyi",
+    "groupe": "Shandong Ruyi",
+    "marques": [
+     "Aquascutum",
+     "Gieves & Hawkes Sport Nike",
+     "Converse",
+     "Hoka",
+     "New Balance États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-nike-deckers-new-balance",
+    "groupe": "Nike, Deckers, New Balance",
+    "marques": [],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-adidas",
+    "groupe": "Adidas",
+    "marques": [
+     "Adidas"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-puma",
+    "groupe": "Puma",
+    "marques": [
+     "Puma"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "commentaire": "Anta Sports (Chine) rachète les 29,06 % de la famille Pinault et devient premier actionnaire,",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-decathlon",
+    "groupe": "Decathlon",
+    "marques": [
+     "Quechua",
+     "Kalenji",
+     "Domyos",
+     "Van Rysel sans viser le contrôle total [24] ."
+    ],
+    "siege": "Finlande (origine)",
+    "siege_pays": "FI",
+    "statut": "a_ecarter",
+    "commentaire": "Anta Sports est le premier actionnaire d'Amer Sports [25] [26] .",
+    "sources": [
+     25,
+     26
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-anta-sports",
+    "groupe": "Anta Sports",
+    "marques": [
+     "Jack Wolfskin",
+     "Anta"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Jack Wolfskin appartient à Anta [25] .",
+    "sources": [
+     25
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-lululemon",
+    "groupe": "Lululemon",
+    "marques": [
+     "Lululemon"
+    ],
+    "siege": "Canada (siège)",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "commentaire": "Siège à Vancouver, société constituée dans l'État du Delaware (États-Unis) [122] .",
+    "sources": [
+     122
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-canada-goose",
+    "groupe": "Canada Goose",
+    "marques": [],
+    "siege": "Canada Goose Canada (siège)",
+    "siege_pays": "CA",
+    "statut": "vigilance",
+    "commentaire": "Siège à Toronto. Bain Capital (États-Unis) contrôle la société, avec 60,5 % des actions à",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Prêt-à-porter grand public"
+  ],
+  "keywords": [
+   "habit",
+   "vêtement",
+   "habillement",
+   "textile",
+   "mode",
+   "chaussure",
+   "sport",
+   "sportwear"
+  ]
+ }
+]

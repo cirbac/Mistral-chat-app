@@ -1,0 +1,279 @@
+[
+ {
+  "num": "19",
+  "id": "montres-bijoux-optique-et-objets-connectes",
+  "nom": "Montres, bijoux, optique et objets connectés",
+  "note": "Le statut porte sur le contrôle de la marque. Le pays de fabrication est à vérifier sur la fiche produit.",
+  "groupes": [
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-swatch-group",
+    "groupe": "Swatch Group",
+    "marques": [
+     "Swatch",
+     "Omega",
+     "Longines",
+     "Tissot",
+     "Breguet"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-rolex",
+    "groupe": "Rolex",
+    "marques": [
+     "Rolex",
+     "Tudor"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Contrôlée par une fondation selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-patek-philippe",
+    "groupe": "Patek Philippe",
+    "marques": [
+     "Patek Philippe"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Groupe familial.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-breitling",
+    "groupe": "Breitling",
+    "marques": [
+     "Breitling"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié. Casio Casio,",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-seiko",
+    "groupe": "Seiko",
+    "marques": [
+     "Seiko",
+     "Grand Seiko"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-citizen",
+    "groupe": "Citizen",
+    "marques": [
+     "Citizen"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-fossil-group",
+    "groupe": "Fossil Group",
+    "marques": [
+     "Fossil États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones. Bijouterie",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-chopard",
+    "groupe": "Chopard",
+    "marques": [
+     "Chopard"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "commentaire": "Groupe familial. Mikimoto Mikimoto Japon Rang 2 Non revérifié. Optique",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-essilorluxottica",
+    "groupe": "EssilorLuxottica",
+    "marques": [
+     "Essilor",
+     "Varilux",
+     "Ray-Ban",
+     "Oakley"
+    ],
+    "siege": "France / Italie",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-safilo",
+    "groupe": "Safilo",
+    "marques": [
+     "Safilo"
+    ],
+    "siege": "Italie",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "commentaire": "Actionnariat non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-carl-zeiss",
+    "groupe": "Carl Zeiss",
+    "marques": [
+     "Zeiss"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "commentaire": "Contrôlée par une fondation selon mes informations. Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-krys-group",
+    "groupe": "Krys Group",
+    "marques": [
+     "Krys"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "commentaire": "Non revérifié.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-charmant",
+    "groupe": "Charmant",
+    "marques": [
+     "Charmant"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "commentaire": "Non revérifié. Montres et objets connectés",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-fitbit-google",
+    "groupe": "Fitbit (Google)",
+    "marques": [
+     "Fitbit",
+     "Pixel Watch États-Unis"
+    ],
+    "siege": "",
+    "siege_pays": "??",
+    "statut": "hors_zones",
+    "commentaire": "Hors de vos zones.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-suunto",
+    "groupe": "Suunto",
+    "marques": [
+     "Suunto"
+    ],
+    "siege": "Finlande (siège)",
+    "siege_pays": "FI",
+    "statut": "a_ecarter",
+    "commentaire": "Vendue par Amer Sports à Liesheng (Chine), transaction finalisée le 6 mai 2022 [138] . Liesheng a été fondée au Guangdong [139] . Le siège et l'usine restent en Finlande [138] .",
+    "sources": [
+     138,
+     139,
+     138
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-huawei-xiaomi-amazfit-coros",
+    "groupe": "Huawei, Xiaomi, Amazfit, Coros",
+    "marques": [
+     "Huawei Watch",
+     "Mi Band",
+     "Amazfit",
+     "Coros"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "commentaire": "Groupes chinois. Non revérifié pour Amazfit et Coros.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ],
+  "sous_categories": [
+   "Horlogerie"
+  ],
+  "keywords": [
+   "montre",
+   "bijou",
+   "optique",
+   "lunettes",
+   "objet connecté",
+   "montre connectée",
+   "casque"
+  ]
+ }
+]
