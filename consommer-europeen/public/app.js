@@ -164,7 +164,6 @@ async function renderAccueil() {
   el.pharesGrid.textContent = '';
   for (const r of a.phares) el.pharesGrid.appendChild(carteProduit(r));
   el.pharesTitre.hidden = a.phares.length === 0;
-  el.pharesGrid.hidden = a.phares.length === 0;
   el.pharesWrap.hidden = a.phares.length === 0;
   el.nouveauxGrid.textContent = '';
   for (const r of a.nouveaux) el.nouveauxGrid.appendChild(carteProduit(r));
