@@ -2,11 +2,12 @@
   --cirba-noir: #040405;
   --cirba-anthracite: #282828;
   --cirba-gris: #e5e5e5;
-  --cirba-gris-clair: #f5f5f5;
+  --cirba-gris-clair: #11204c;
   --cirba-blanc: #ffffff;
-  --texte: #1a1a1a;
-  --texte-doux: #6b7280;
-  --bordure: #e5e7eb;
+  --texte: #eef2f7;
+  --texte-doux: #aeb9d4;
+  --bordure: rgba(255, 255, 255, 0.14);
+  --carte-bg: #1d2f5e;
   --accent: #282828;
 }
 
@@ -17,7 +18,7 @@
 body {
   margin: 0;
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-  background: #1e3a8a;
+  background: #11204c;
   color: var(--texte);
 }
 
@@ -286,12 +287,17 @@ body {
 }
 
 .controls select,
-.recherche input {
+.recherche input,
+#add-form input,
+#add-form select,
+.admin-form select,
+.admin-form input {
   padding: 9px 12px;
   border: 1px solid var(--bordure);
   border-radius: 8px;
   font-size: 0.95rem;
   background: var(--cirba-blanc);
+  color: #11204c;
 }
 
 .user {
@@ -304,7 +310,7 @@ button {
   border: 1px solid var(--bordure);
   border-radius: 8px;
   background: var(--cirba-blanc);
-  color: var(--texte);
+  color: #11204c;
   cursor: pointer;
   font-size: 0.9rem;
 }
@@ -357,8 +363,9 @@ button:hover {
 }
 
 .chip {
-  border: 1px solid var(--bordure);
-  background: var(--cirba-blanc);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
   border-radius: 999px;
   padding: 6px 14px;
   cursor: pointer;
@@ -396,7 +403,7 @@ button:hover {
 }
 
 .carte {
-  background: var(--cirba-blanc);
+  background: var(--carte-bg);
   border: 1px solid var(--bordure);
   border-left: 4px solid var(--cirba-anthracite);
   border-radius: 12px;
@@ -448,7 +455,7 @@ button:hover {
 }
 
 .tag-recommande {
-  color: #1a7f37;
+  color: #4ade80;
   font-weight: 600;
   font-size: 0.75rem;
 }
@@ -463,32 +470,24 @@ button:hover {
   margin-top: 10px;
   padding: 8px 14px;
   border-radius: 999px;
-  border: 1px solid var(--cirba-anthracite);
-  color: var(--cirba-noir);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: #ffffff;
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
 }
 
 .lien-externe:hover {
-  background: var(--cirba-noir);
-  color: var(--cirba-blanc);
+  background: #ffffff;
+  color: #11204c;
 }
 
-[data-theme='dark'] .lien-externe {
-  border-color: #4b5563;
-  color: #f2f2f2;
-}
 
-[data-theme='dark'] .lien-externe:hover {
-  background: #f2f2f2;
-  color: #111;
-}
 
 .detail {
   position: sticky;
   top: 16px;
-  background: var(--cirba-blanc);
+  background: var(--carte-bg);
   border: 1px solid var(--bordure);
   border-radius: 12px;
   padding: 18px;
@@ -700,7 +699,7 @@ button:hover {
   text-align: left;
   padding: 0;
   overflow: hidden;
-  background: var(--cirba-blanc);
+  background: var(--carte-bg);
   border: 1px solid var(--bordure);
   border-radius: 14px;
   cursor: pointer;
@@ -802,7 +801,7 @@ button:hover {
 }
 
 .modal-card {
-  background: var(--cirba-blanc);
+  background: var(--carte-bg);
   border: 1px solid var(--bordure);
   border-top: 4px solid var(--cirba-noir);
   border-radius: 14px;
@@ -985,7 +984,7 @@ button:hover {
 }
 
 [data-theme='dark'] .page {
-  background: #0f0f10;
+  background: #0c1834;
 }
 
 [data-theme='dark'] .cat-img {
