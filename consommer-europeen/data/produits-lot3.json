@@ -1,0 +1,654 @@
+{
+ "alimentation-mondelez": [
+  {
+   "id": "alimentation-mondelez-milka-alpenmilch",
+   "nom": "Milka Alpenmilch",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Lait UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-mondelez-c-te-d-or-noir",
+   "nom": "Côte d'Or Noir",
+   "assemblage": "France",
+   "origine_pieces": "Cacao Côte d'Ivoire",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-mondelez-lu-p-pito",
+   "nom": "LU Pépito",
+   "assemblage": "France",
+   "origine_pieces": null,
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-mondelez-oreo-original",
+   "nom": "Oreo Original",
+   "assemblage": "États-Unis",
+   "origine_pieces": "Farine USA",
+   "certifications": [],
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/7622300336738"
+  }
+ ],
+ "alimentation-kelloggs": [
+  {
+   "id": "alimentation-kelloggs-kellogg-s-corn-flakes",
+   "nom": "Kellogg's Corn Flakes",
+   "assemblage": "France/UK",
+   "origine_pieces": "Maïs UE",
+   "certifications": [],
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3159470000120"
+  },
+  {
+   "id": "alimentation-kelloggs-pringles-original",
+   "nom": "Pringles Original",
+   "assemblage": "Belgique/UK",
+   "origine_pieces": "Pommes de terre UE",
+   "certifications": [],
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5053990156009"
+  }
+ ],
+ "alimentation-general-mills": [
+  {
+   "id": "alimentation-general-mills-cheerios",
+   "nom": "Cheerios",
+   "assemblage": "USA",
+   "origine_pieces": "Avoine USA",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-kraftheinz": [
+  {
+   "id": "alimentation-kraftheinz-heinz-ketchup",
+   "nom": "Heinz Ketchup",
+   "assemblage": "USA/UK",
+   "origine_pieces": "Tomates USA",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-kraftheinz-kraft-mac-cheese",
+   "nom": "Kraft Mac & Cheese",
+   "assemblage": "USA",
+   "origine_pieces": "Pâtes USA",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-heineken": [
+  {
+   "id": "alimentation-heineken-heineken-lager",
+   "nom": "Heineken Lager",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": "Malt UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-heineken-amstel",
+   "nom": "Amstel",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": "Malt UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-carlsberg": [
+  {
+   "id": "alimentation-carlsberg-carlsberg-pilsner",
+   "nom": "Carlsberg Pilsner",
+   "assemblage": "Danemark",
+   "origine_pieces": "Malt DK",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-carlsberg-tuborg",
+   "nom": "Tuborg",
+   "assemblage": "Danemark",
+   "origine_pieces": "Malt DK",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-ab-inbev": [
+  {
+   "id": "alimentation-ab-inbev-stella-artois",
+   "nom": "Stella Artois",
+   "assemblage": "Belgique",
+   "origine_pieces": "Malt BE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-ab-inbev-leffe-blonde",
+   "nom": "Leffe Blonde",
+   "assemblage": "Belgique",
+   "origine_pieces": "Malt BE",
+   "certifications": [],
+   "note": "Produit phare de la marque.",
+   "openfoodfacts": "https://fr.openfoodfacts.org/produit/5410228142218"
+  },
+  {
+   "id": "alimentation-ab-inbev-kronenbourg-1664",
+   "nom": "Kronenbourg 1664",
+   "assemblage": "France (Strasbourg)",
+   "origine_pieces": "Malt FR",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-lindt": [
+  {
+   "id": "alimentation-lindt-lindt-excellence-noir-70",
+   "nom": "Lindt Excellence Noir 70%",
+   "assemblage": "Suisse",
+   "origine_pieces": "Cacao Amérique latine",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-lindt-lindor-boules",
+   "nom": "Lindor Boules",
+   "assemblage": "Suisse",
+   "origine_pieces": "Noisette Italie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-ritter-sport": [
+  {
+   "id": "alimentation-ritter-sport-ritter-sport-chocolat-au-lait-entier",
+   "nom": "Ritter Sport Chocolat au lait entier",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Lait Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-findus": [
+  {
+   "id": "alimentation-findus-findus-epinards-hach-s",
+   "nom": "Findus Epinards hachés",
+   "assemblage": "France",
+   "origine_pieces": "Épinards France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  },
+  {
+   "id": "alimentation-findus-iglo-poisson-pan",
+   "nom": "Iglo Poisson pané",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Cabillaud Nordique",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-florette": [
+  {
+   "id": "alimentation-florette-florette-salade-iceberg-sachet",
+   "nom": "Florette Salade Iceberg sachet",
+   "assemblage": "France (Normandie)",
+   "origine_pieces": "France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-herta": [
+  {
+   "id": "alimentation-herta-herta-jambon-blanc",
+   "nom": "Herta Jambon blanc",
+   "assemblage": "France",
+   "origine_pieces": "Porc France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beaute-puig": [
+  {
+   "id": "beaute-puig-paco-rabanne-phantom",
+   "nom": "Paco Rabanne Phantom",
+   "assemblage": "Espagne",
+   "origine_pieces": "Alcool UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beaute-estee-lauder": [
+  {
+   "id": "beaute-estee-lauder-est-e-lauder-advanced-night-repair",
+   "nom": "Estée Lauder Advanced Night Repair",
+   "assemblage": "USA",
+   "origine_pieces": "Sérum USA",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beaute-coty": [
+  {
+   "id": "beaute-coty-burberry-her-eau-de-parfum",
+   "nom": "Burberry Her Eau de Parfum",
+   "assemblage": "France (licence)",
+   "origine_pieces": "Alcool France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-veja": [
+  {
+   "id": "fashion-veja-veja-v-10",
+   "nom": "Veja V-10",
+   "assemblage": "Brésil/Portugal",
+   "origine_pieces": "Cuir Brésil, semelle Brésil",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-birkenstock": [
+  {
+   "id": "fashion-birkenstock-birkenstock-arizona",
+   "nom": "Birkenstock Arizona",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Cuir UE, semelle liège Portugal",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-ecco": [
+  {
+   "id": "fashion-ecco-ecco-soft-7",
+   "nom": "Ecco Soft 7",
+   "assemblage": "Danemark/Pays-Bas",
+   "origine_pieces": "Cuir UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-aigle": [
+  {
+   "id": "fashion-aigle-aigle-bottes-parcours-2",
+   "nom": "Aigle Bottes Parcours 2",
+   "assemblage": "France",
+   "origine_pieces": "Caoutchouc naturel, doublure France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-armani": [
+  {
+   "id": "fashion-armani-emporio-armani-t-shirt",
+   "nom": "Emporio Armani T-shirt",
+   "assemblage": "Italie",
+   "origine_pieces": "Coton Italie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-burberry": [
+  {
+   "id": "fashion-burberry-trench-kensington",
+   "nom": "Trench Kensington",
+   "assemblage": "Royaume-Uni/Chine",
+   "origine_pieces": "Tissu coton UK",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-lvmh-mode": [
+  {
+   "id": "fashion-lvmh-mode-louis-vuitton-speedy-30",
+   "nom": "Louis Vuitton Speedy 30",
+   "assemblage": "France (Asnières)",
+   "origine_pieces": "Toile enduite France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-vf-corp": [
+  {
+   "id": "fashion-vf-corp-the-north-face-doudoune-1996-nuptse",
+   "nom": "The North Face Doudoune 1996 Nuptse",
+   "assemblage": "Chine/Vietnam",
+   "origine_pieces": "Synthétique Asie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-patagonia": [
+  {
+   "id": "fashion-patagonia-patagonia-better-sweater",
+   "nom": "Patagonia Better Sweater",
+   "assemblage": "USA/Chine",
+   "origine_pieces": "Polaire recyclée",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-new-balance": [
+  {
+   "id": "fashion-new-balance-new-balance-574",
+   "nom": "New Balance 574",
+   "assemblage": "USA/UK/Chine",
+   "origine_pieces": "Cuir/synthétique",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-converse": [
+  {
+   "id": "fashion-converse-converse-chuck-taylor-all-star",
+   "nom": "Converse Chuck Taylor All Star",
+   "assemblage": "Vietnam",
+   "origine_pieces": "Toile coton, caoutchouc",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-timberland": [
+  {
+   "id": "fashion-timberland-timberland-6-inch-premium",
+   "nom": "Timberland 6 Inch Premium",
+   "assemblage": "République dominicaine/Chine",
+   "origine_pieces": "Cuir nubuck",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-ugg": [
+  {
+   "id": "fashion-ugg-ugg-classic-ultra-mini",
+   "nom": "UGG Classic Ultra Mini",
+   "assemblage": "Chine",
+   "origine_pieces": "Peau de mouton Australie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-crocs": [
+  {
+   "id": "fashion-crocs-crocs-classic-clog",
+   "nom": "Crocs Classic Clog",
+   "assemblage": "Chine",
+   "origine_pieces": "Croslite (mousse EVA)",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-merrell": [
+  {
+   "id": "fashion-merrell-merrell-moab-3",
+   "nom": "Merrell Moab 3",
+   "assemblage": "Vietnam",
+   "origine_pieces": "Cuir/synthétique",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "motos-sherco": [
+  {
+   "id": "motos-sherco-sherco-se-300-factory",
+   "nom": "Sherco SE 300 Factory",
+   "assemblage": "France/Espagne",
+   "origine_pieces": "Moteur 300 cm³",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "motos-cake": [
+  {
+   "id": "motos-cake-cake-kalk-ap",
+   "nom": "Cake Kalk AP",
+   "assemblage": "Suède",
+   "origine_pieces": "Batterie, cadre aluminium",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-porsche": [
+  {
+   "id": "automobile-porsche-porsche-911-carrera",
+   "nom": "Porsche 911 Carrera",
+   "assemblage": "Allemagne (Stuttgart/Zuffenhausen)",
+   "origine_pieces": "Moteur Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-ferrari": [
+  {
+   "id": "automobile-ferrari-ferrari-roma",
+   "nom": "Ferrari Roma",
+   "assemblage": "Italie (Maranello)",
+   "origine_pieces": "Moteur V8 Italie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-dell": [
+  {
+   "id": "informatique-dell-dell-xps-13",
+   "nom": "Dell XPS 13",
+   "assemblage": "Chine",
+   "origine_pieces": "Composants Asie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-hp": [
+  {
+   "id": "informatique-hp-hp-spectre-x360",
+   "nom": "HP Spectre x360",
+   "assemblage": "Chine",
+   "origine_pieces": "Composants Asie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-asus": [
+  {
+   "id": "informatique-asus-asus-rog-zephyrus-g14",
+   "nom": "Asus ROG Zephyrus G14",
+   "assemblage": "Chine",
+   "origine_pieces": "Composants Asie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-logitech": [
+  {
+   "id": "informatique-logitech-logitech-mx-master-3s",
+   "nom": "Logitech MX Master 3S",
+   "assemblage": "Chine",
+   "origine_pieces": "Plastique/électronique Asie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-bose": [
+  {
+   "id": "informatique-bose-bose-quietcomfort-ultra",
+   "nom": "Bose QuietComfort Ultra",
+   "assemblage": "USA/Mexique",
+   "origine_pieces": "Plastique, drivers",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "televiseurs-bang-olufsen": [
+  {
+   "id": "televiseurs-bang-olufsen-beovision-eclipse",
+   "nom": "BeoVision Eclipse",
+   "assemblage": "Danemark",
+   "origine_pieces": "Électronique Danemark/Chine",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-whirlpool": [
+  {
+   "id": "electromenager-whirlpool-whirlpool-lave-linge",
+   "nom": "Whirlpool lave-linge",
+   "assemblage": "USA/Pologne",
+   "origine_pieces": "Tambour acier",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-daikin": [
+  {
+   "id": "electromenager-daikin-daikin-perfera-climatisation",
+   "nom": "Daikin Perfera climatisation",
+   "assemblage": "Japon/Thaïlande/Belgique",
+   "origine_pieces": "Composants Asie/UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "maison-le-creuset": [
+  {
+   "id": "maison-le-creuset-le-creuset-cocotte-ovale-29-cm",
+   "nom": "Le Creuset Cocotte ovale 29 cm",
+   "assemblage": "France (Fresnoy-le-Grand)",
+   "origine_pieces": "Fonte émaillée France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "maison-opinel": [
+  {
+   "id": "maison-opinel-opinel-n-8",
+   "nom": "Opinel N°8",
+   "assemblage": "France (Saint-Jean-de-Maurienne)",
+   "origine_pieces": "Lame acier inox France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "maison-bialetti": [
+  {
+   "id": "maison-bialetti-bialetti-moka-express-6-tasses",
+   "nom": "Bialetti Moka Express 6 tasses",
+   "assemblage": "Italie/Roumanie",
+   "origine_pieces": "Aluminium",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "maison-peugeot-saveurs": [
+  {
+   "id": "maison-peugeot-saveurs-moulin-poivre-paris-23-cm",
+   "nom": "Moulin à poivre Paris 23 cm",
+   "assemblage": "France (Écurey)",
+   "origine_pieces": "Acier France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "objets-polar": [
+  {
+   "id": "objets-polar-polar-vantage-v3",
+   "nom": "Polar Vantage V3",
+   "assemblage": "Finlande/Chine",
+   "origine_pieces": "Capteurs Finlande",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "montres-tag-heuer": [
+  {
+   "id": "montres-tag-heuer-tag-heuer-carrera",
+   "nom": "TAG Heuer Carrera",
+   "assemblage": "Suisse",
+   "origine_pieces": "Boîtier acier Suisse",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-mattel": [
+  {
+   "id": "jouets-mattel-barbie-fashionistas",
+   "nom": "Barbie Fashionistas",
+   "assemblage": "Chine",
+   "origine_pieces": "Poupée plastique",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-hasbro": [
+  {
+   "id": "jouets-hasbro-nerf-elite-2-0",
+   "nom": "NERF Elite 2.0",
+   "assemblage": "Chine",
+   "origine_pieces": "Mousse plastique",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-bruder": [
+  {
+   "id": "jouets-bruder-bruder-remorque-benne",
+   "nom": "Bruder remorque benne",
+   "assemblage": "Allemagne",
+   "origine_pieces": "ABS",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "voyage-samsonite": [
+  {
+   "id": "voyage-samsonite-samsonite-s-cure-spinner",
+   "nom": "Samsonite S'Cure Spinner",
+   "assemblage": "Belgique/Chine",
+   "origine_pieces": "Polypropylène Curv",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "voyage-herschel": [
+  {
+   "id": "voyage-herschel-herschel-little-america",
+   "nom": "Herschel Little America",
+   "assemblage": "Chine",
+   "origine_pieces": "Polyester",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "distribution-fnac-darty": [
+  {
+   "id": "distribution-fnac-darty-darty-gros-lectrom-nager",
+   "nom": "Darty gros électroménager",
+   "assemblage": "France",
+   "origine_pieces": "Assemblage UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "transport-scott": [
+  {
+   "id": "transport-scott-scott-addict-rc",
+   "nom": "Scott Addict RC",
+   "assemblage": "Suisse/Taïwan",
+   "origine_pieces": "Cadre carbone Taïwan",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "transport-look": [
+  {
+   "id": "transport-look-look-785-huez",
+   "nom": "Look 785 Huez",
+   "assemblage": "France/Taïwan",
+   "origine_pieces": "Cadre carbone",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ]
+}

@@ -73,10 +73,10 @@ for (const f of readdirSync(dataDir).filter((f) => /^extensions-.*\.json$/.test(
   }
 }
 
-const pharesPath = path.join(dataDir, 'produits-phares.json');
-const pharesData: Record<string, Produit[]> = existsSync(pharesPath)
-  ? (JSON.parse(readFileSync(pharesPath, 'utf8')) as Record<string, Produit[]>)
-  : {};
+const pharesData: Record<string, Produit[]> = {};
+for (const f of readdirSync(dataDir).filter((f) => /^produits-(phares|lot).*\.json$/.test(f))) {
+  Object.assign(pharesData, JSON.parse(readFileSync(path.join(dataDir, f), 'utf8')) as Record<string, Produit[]>);
+}
 {
   const phares = pharesData;
   for (const [gid, produits] of Object.entries(phares)) {
