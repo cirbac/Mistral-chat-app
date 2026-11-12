@@ -673,14 +673,16 @@ async function showSuggestions() {
     api(`/api/mots-cles?q=${encodeURIComponent(q)}`),
   ]);
   el.suggestions.textContent = '';
-  if (mc.mots && mc.mots.length > 0) {
+  const MAX_SUG = 5;
+  const mots = (mc.mots || []).slice(0, 3);
+  if (mots.length > 0) {
     const kwWrap = document.createElement('div');
     kwWrap.className = 'sug-kws';
     const lab = document.createElement('span');
     lab.className = 'sug-kws-label';
     lab.textContent = 'Mots-clés';
     kwWrap.appendChild(lab);
-    for (const m of mc.mots) {
+    for (const m of mots) {
       const b = document.createElement('button');
       b.type = 'button';
       b.className = 'sug-kw';
@@ -704,11 +706,12 @@ async function showSuggestions() {
   for (const sc of (data.secteurs || []).slice(0, 3)) {
     items.push({ kind: 'secteur', label: `${sc.num} · ${sc.nom}`, sub: `${sc.nbGroupes} marques`, run: () => showSecteur(sc.id) });
   }
-  if (items.length === 0 && !(mc.mots && mc.mots.length > 0)) {
+  const itemsAffiches = items.slice(0, Math.max(0, MAX_SUG - mots.length));
+  if (itemsAffiches.length === 0 && mots.length === 0) {
     hideSuggestions();
     return;
   }
-  for (const it of items) {
+  for (const it of itemsAffiches) {
     const b = document.createElement('button');
     b.type = 'button';
     b.className = 'sug-item';
