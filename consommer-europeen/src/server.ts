@@ -338,6 +338,10 @@ for (const kws of Object.values(motsClesGlobal)) for (const k of kws) vocabMotsC
 vocabMotsCles.delete('');
 
 app.get('/api/mots-cles', (req, res) => {
+  if (String(req.query.all ?? '') === '1') {
+    res.json({ mots: [...vocabMotsCles].sort((a, b) => a.localeCompare(b)).slice(0, 4000) });
+    return;
+  }
   const q = norm(String(req.query.q ?? '').trim());
   if (q.length < 2) {
     res.json({ mots: [] });

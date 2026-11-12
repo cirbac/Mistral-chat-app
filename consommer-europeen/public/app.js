@@ -1,5 +1,6 @@
 const state = {
   catalogueFiltres: { secteur: '', statut: '', page: 0 },
+  vocab: [],
   precedent: null,
   meta: null,
   pref: (() => { try { return localStorage.getItem('ce-pref') || 'ue'; } catch { return 'ue'; } })(),
@@ -638,9 +639,54 @@ async function showProduit(id) {
 
 let searchTimer;
 el.search.addEventListener('input', () => {
+  renderLocalKeywords();
   clearTimeout(searchTimer);
-  searchTimer = setTimeout(runSearch, 150);
+  searchTimer = setTimeout(runSearch, 250);
 });
+
+const normLocal = (t) =>
+  (t || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+
+function renderLocalKeywords() {
+  const q = normLocal(el.search.value.trim());
+  if (q.length < 2 || state.vocab.length === 0) {
+    return;
+  }
+  const mots = state.vocab
+    .filter((m) => m.includes(q))
+    .sort((a, b) => (a.startsWith(q) ? 0 : 1) - (b.startsWith(q) ? 0 : 1) || a.length - b.length)
+    .slice(0, 3);
+  if (mots.length === 0) return;
+  let kwWrap = el.suggestions.querySelector('.sug-kws');
+  if (!kwWrap) {
+    kwWrap = document.createElement('div');
+    kwWrap.className = 'sug-kws';
+    el.suggestions.prepend(kwWrap);
+  }
+  kwWrap.textContent = '';
+  const lab = document.createElement('span');
+  lab.className = 'sug-kws-label';
+  lab.textContent = 'Mots-clés';
+  kwWrap.appendChild(lab);
+  for (const m of mots) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'sug-kw';
+    b.textContent = m;
+    b.addEventListener('click', () => {
+      el.search.value = m;
+      hideSuggestions();
+      runSearch();
+    });
+    kwWrap.appendChild(b);
+  }
+  el.suggestions.classList.remove('hidden');
+}
 
 el.search.addEventListener('keydown', (e) => {
   if (e.key === 'Enter') {
@@ -654,6 +700,7 @@ el.search.addEventListener('focus', () => {
 });
 el.search.addEventListener('blur', () => setTimeout(hideSuggestions, 150));
 
+const searchClientCache = new Map();
 async function runSearch() {
   const q = el.search.value.trim();
   if (!q) {
@@ -661,7 +708,13 @@ async function runSearch() {
     renderHome();
     return;
   }
-  const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+  const key = `${state.pref}|${q}`;
+  let data = searchClientCache.get(key);
+  if (!data) {
+    data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+    if (searchClientCache.size > 100) searchClientCache.clear();
+    searchClientCache.set(key, data);
+  }
   renderSuggestions(data, q);
   renderResults(data, q);
 }
@@ -880,6 +933,10 @@ async function init() {
     el.addSecteur.appendChild(opt);
   }
   el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbProduits} produits · ${state.meta.nbSources} sources`;
+  try {
+    const mc = await api('/api/mots-cles?all=1');
+    state.vocab = mc.mots || [];
+  } catch {}
   renderHome();
 }
 
