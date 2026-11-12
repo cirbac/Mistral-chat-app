@@ -199,6 +199,11 @@ function withStatut(g: Groupe, pref: string, secteur?: Secteur) {
   };
 }
 
+function lightGroupe<T extends { produits?: Produit[] }>(g: T) {
+  const { produits, ...rest } = g;
+  return { ...rest, nbProduits: produits ? produits.length : 0 };
+}
+
 function sortGroupes<T extends { statut: string; groupe: string; recommande: boolean }>(list: T[]): T[] {
   return [...list].sort((a, b) => {
     if (a.recommande !== b.recommande) return a.recommande ? -1 : 1;
@@ -324,7 +329,7 @@ app.get('/api/catalogue', (req, res) => {
   let list = secteurs.flatMap((s) => s.groupes.map((g) => ({ g, s })));
   if (secteurId) list = list.filter((x) => x.s.id === secteurId);
   let items = list.map((x) => ({
-    ...withStatut(x.g, pref, x.s),
+    ...lightGroupe(withStatut(x.g, pref, x.s)),
     secteur: { id: x.s.id, num: x.s.num, nom: x.s.nom },
   }));
   if (statut) items = items.filter((x) => x.statut === statut);
@@ -460,7 +465,7 @@ app.get('/api/search', (req, res) => {
       (s.aliases ?? []).some((a) => matchGroupe(norm(a))),
   );
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
-  const produitsMatch: { produit: Produit; groupe: ReturnType<typeof withStatut>; secteur: { id: string; num: string; nom: string } }[] = [];
+  const produitsMatch: { produit: Produit; groupe: ReturnType<typeof lightGroupe>; secteur: { id: string; num: string; nom: string } }[] = [];
   let masquees = 0;
   for (const idx2 of groupeIndex) {
     const { g, s: sec, hayC, hayS, hayP } = idx2;
@@ -473,7 +478,7 @@ app.get('/api/search', (req, res) => {
       groupesMatch.push(item);
       for (let k = 0; k < g.produits.length; k++) {
         if (matchContexte || matchGroupe(hayP[k])) {
-          produitsMatch.push({ produit: g.produits[k], groupe: item, secteur: { id: sec.id, num: sec.num, nom: sec.nom } });
+          produitsMatch.push({ produit: g.produits[k], groupe: lightGroupe(item), secteur: { id: sec.id, num: sec.num, nom: sec.nom } });
         }
       }
     } else {
@@ -485,7 +490,7 @@ app.get('/api/search', (req, res) => {
     q,
     pref,
     secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
-    groupes: sortGroupes(groupesMatch),
+    groupes: sortGroupes(groupesMatch).map(lightGroupe),
     produits: produitsMatch,
     masquees,
     mots: motsSug,
@@ -502,7 +507,7 @@ app.get('/api/secteurs/:id', (req, res) => {
     res.status(404).json({ error: 'Secteur introuvable.' });
     return;
   }
-  const groupes = sortGroupes(s.groupes.map((g) => withStatut(g, pref, s)));
+  const groupes = sortGroupes(s.groupes.map((g) => lightGroupe(withStatut(g, pref, s))));
   const visibles = groupes.filter((g) => g.recommande);
   res.json({
     id: s.id,
@@ -524,7 +529,7 @@ app.get('/api/groupes/:id', (req, res) => {
     if (!g) continue;
     const item = withStatut(g, pref, s);
     res.json({
-      ...item,
+      ...lightGroupe(item),
       secteur: { id: s.id, num: s.num, nom: s.nom },
       sourcesResolues: g.sources.map((n) => ({ num: n, texte: sources[String(n)] ?? null })),
     });
