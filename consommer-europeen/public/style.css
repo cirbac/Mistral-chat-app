@@ -1458,3 +1458,25 @@ select option {
   color: var(--texte);
   line-height: 1.5;
 }
+
+body.hero-compact .hero {
+  padding: 18px 24px 16px;
+}
+
+body.hero-compact .hero h1 {
+  font-size: 1.4rem;
+}
+
+body.hero-compact .hero-kicker,
+body.hero-compact .hero-sub,
+body.hero-compact .hero-stats {
+  display: none;
+}
+
+body.hero-compact .hero-search {
+  margin-top: 12px;
+}
+
+body.hero-compact .chips {
+  padding: 8px 0;
+}
