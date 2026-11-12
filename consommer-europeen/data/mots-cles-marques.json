@@ -1,350 +1,350 @@
 {
  "vetements-chaussures-et-sport-inditex": [
-  "vêtement",
-  "jean",
-  "t-shirt",
-  "robe",
-  "veste",
-  "pantalon",
-  "jupe",
-  "chemise",
-  "manteau",
-  "chaussure",
-  "baskets",
-  "sac",
   "accessoire",
+  "baskets",
+  "chaussure",
+  "chemise",
+  "jean",
+  "jupe",
+  "manteau",
   "mode",
-  "prêt-à-porter"
+  "pantalon",
+  "prêt-à-porter",
+  "robe",
+  "sac",
+  "t-shirt",
+  "veste",
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-h-m-group": [
-  "vêtement",
-  "t-shirt",
-  "jean",
-  "robe",
+  "accessoire",
   "basique",
-  "mode",
-  "enfant",
   "chaussure",
-  "accessoire"
+  "enfant",
+  "jean",
+  "mode",
+  "robe",
+  "t-shirt",
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-kiabi": [
-  "vêtement",
-  "enfant",
-  "bébé",
   "basique",
+  "bébé",
+  "chaussure",
+  "enfant",
   "pas cher",
-  "chaussure"
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-mango": [
-  "vêtement",
-  "robe",
-  "veste",
-  "jean",
   "chaussure",
+  "jean",
+  "mode femme",
+  "robe",
   "sac",
-  "mode femme"
+  "veste",
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-c-a": [
-  "vêtement",
-  "enfant",
   "basique",
+  "chaussure",
+  "enfant",
   "pas cher",
-  "chaussure"
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-associated-british-foods": [
-  "vêtement",
-  "enfant",
   "basique",
-  "pas cher"
+  "enfant",
+  "pas cher",
+  "vêtement"
  ],
  "fashion-primark": [
-  "vêtement",
   "basique",
+  "chaussure",
   "pas cher",
-  "chaussure"
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-armor-lux": [
+  "bottes",
+  "casquette",
+  "laine",
   "marinière",
   "pull",
-  "laine",
-  "vêtement marin",
-  "casquette",
-  "bottes"
+  "vêtement marin"
  ],
  "vetements-chaussures-et-sport-saint-james": [
+  "laine",
   "marinière",
   "pull",
-  "laine",
   "vêtement marin"
  ],
  "vetements-chaussures-et-sport-maus-freres": [
-  "polo",
-  "tennis",
-  "sport",
+  "baskets",
   "chaussure",
-  "baskets"
+  "polo",
+  "sport",
+  "tennis"
  ],
  "vetements-chaussures-sport-lacoste": [
-  "polo",
-  "tennis",
-  "sport",
   "baskets",
-  "chaussure"
+  "chaussure",
+  "polo",
+  "sport",
+  "tennis"
  ],
  "vetements-chaussures-et-sport-hugo-boss": [
-  "costume",
   "chemise",
-  "pantalon",
-  "veste",
+  "costume",
   "luxe",
-  "parfum"
+  "pantalon",
+  "parfum",
+  "veste"
  ],
  "vetements-chaussures-et-sport-otb": [
-  "jean",
+  "chaussure",
   "denim",
-  "vêtement",
   "diesel",
-  "chaussure"
+  "jean",
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-fast-retailing": [
-  "t-shirt",
   "basique",
   "doudoune",
-  "vêtement",
-  "jean"
+  "jean",
+  "t-shirt",
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-ryohin-keikaku": [
   "basique",
-  "vêtement",
-  "papeterie",
+  "maison",
   "mobilier",
-  "maison"
+  "papeterie",
+  "vêtement"
  ],
  "vetements-chaussures-et-sport-levi-strauss-co": [
-  "jean",
   "denim",
+  "jean",
   "pantalon",
   "veste"
  ],
  "vetements-chaussures-et-sport-pvh": [
-  "jean",
   "chemise",
+  "jean",
   "tommy",
   "vêtement"
  ],
  "vetements-chaussures-et-sport-kering": [
-  "luxe",
-  "sac",
+  "bottes",
   "chaussure",
+  "luxe",
+  "manteau",
   "parfum",
   "prêt-à-porter",
-  "bottes",
-  "manteau"
+  "sac"
  ],
  "vetements-chaussures-et-sport-hermes": [
-  "luxe",
-  "sac",
-  "parfum",
-  "montre",
-  "soie",
   "bottes",
+  "cravate",
   "gants",
-  "cravate"
+  "luxe",
+  "montre",
+  "parfum",
+  "sac",
+  "soie"
  ],
  "vetements-chaussures-et-sport-chanel": [
-  "luxe",
-  "sac",
-  "parfum",
-  "maquillage",
-  "haute couture",
   "bottes",
-  "montre"
+  "haute couture",
+  "luxe",
+  "maquillage",
+  "montre",
+  "parfum",
+  "sac"
  ],
  "vetements-chaussures-et-sport-richemont": [
-  "montre",
   "bijou",
+  "chaussure",
   "luxe",
-  "sac",
-  "chaussure"
+  "montre",
+  "sac"
  ],
  "vetements-chaussures-et-sport-moncler-group": [
   "doudoune",
-  "veste",
   "hiver",
   "luxe",
-  "ski"
+  "ski",
+  "veste"
  ],
  "vetements-chaussures-et-sport-prada-group": [
-  "luxe",
-  "sac",
   "chaussure",
+  "luxe",
   "parfum",
-  "prêt-à-porter"
+  "prêt-à-porter",
+  "sac"
  ],
  "vetements-chaussures-et-sport-smcp": [
-  "vêtement femme",
+  "chaussure",
   "robe",
-  "veste",
   "sac",
-  "chaussure"
+  "veste",
+  "vêtement femme"
  ],
  "vetements-chaussures-et-sport-lanvin-group-fosun": [
-  "luxe",
   "chaussure",
-  "sac",
-  "prêt-à-porter"
+  "luxe",
+  "prêt-à-porter",
+  "sac"
  ],
  "vetements-chaussures-et-sport-shandong-ruyi": [
-  "manteau",
-  "trench",
+  "chemise",
   "costume",
-  "chemise"
+  "manteau",
+  "trench"
  ],
  "vetements-chaussures-et-sport-camper": [
-  "chaussure",
   "bottes",
   "bottines",
-  "sandales",
-  "mocassins"
+  "chaussure",
+  "mocassins",
+  "sandales"
  ],
  "vetements-chaussures-et-sport-on-holding": [
-  "chaussure",
   "baskets",
-  "running",
-  "cloud"
+  "chaussure",
+  "cloud",
+  "running"
  ],
  "vetements-chaussures-et-sport-dr-martens": [
-  "bottes",
   "boots",
+  "bottes",
   "bottines",
   "chaussure cuir",
   "punk"
  ],
  "vetements-chaussures-et-sport-geox": [
-  "chaussure",
   "baskets",
-  "respirante",
-  "enfant"
+  "chaussure",
+  "enfant",
+  "respirante"
  ],
  "vetements-chaussures-et-sport-asics": [
   "baskets",
+  "chaussure",
   "running",
   "sport",
-  "tennis",
-  "chaussure"
+  "tennis"
  ],
  "vetements-chaussures-sport-asics": [
   "baskets",
+  "chaussure",
   "running",
   "sport",
-  "tennis",
-  "chaussure"
+  "tennis"
  ],
  "vetements-chaussures-et-sport-mizuno": [
   "baskets",
   "running",
-  "volley",
-  "sport"
+  "sport",
+  "volley"
  ],
  "vetements-chaussures-et-sport-clarks": [
-  "chaussure",
   "bottes",
+  "chaussure",
+  "cuir",
   "derby",
-  "enfant",
-  "cuir"
+  "enfant"
  ],
  "vetements-chaussures-et-sport-decathlon": [
-  "sport",
-  "chaussure",
   "baskets",
-  "randonnée",
-  "vélo",
-  "tente",
-  "sac à dos",
-  "veste",
   "camping",
-  "pêche"
+  "chaussure",
+  "pêche",
+  "randonnée",
+  "sac à dos",
+  "sport",
+  "tente",
+  "veste",
+  "vélo"
  ],
  "vetements-chaussures-sport-decathlon": [
-  "sport",
-  "chaussure",
   "baskets",
-  "randonnée",
-  "vélo",
-  "tente",
-  "sac à dos",
   "camping",
+  "chaussure",
   "fitness",
-  "natation"
+  "natation",
+  "randonnée",
+  "sac à dos",
+  "sport",
+  "tente",
+  "vélo"
  ],
  "vetements-chaussures-et-sport-adidas": [
   "baskets",
+  "football",
+  "running",
   "sneakers",
   "sport",
-  "running",
-  "t-shirt",
   "survêtement",
-  "football"
+  "t-shirt"
  ],
  "vetements-chaussures-sport-adidas": [
   "baskets",
+  "football",
+  "running",
   "sneakers",
   "sport",
-  "running",
-  "survêtement",
-  "football"
+  "survêtement"
  ],
  "vetements-chaussures-et-sport-puma": [
   "baskets",
-  "sneakers",
-  "sport",
+  "football",
   "running",
-  "football"
+  "sneakers",
+  "sport"
  ],
  "vetements-chaussures-sport-puma": [
   "baskets",
-  "sneakers",
-  "sport",
+  "football",
   "running",
-  "football"
+  "sneakers",
+  "sport"
  ],
  "vetements-chaussures-sport-nike": [
-  "baskets",
-  "sneakers",
-  "running",
-  "sport",
-  "nike",
   "air",
-  "chaussure"
+  "baskets",
+  "chaussure",
+  "nike",
+  "running",
+  "sneakers",
+  "sport"
  ],
  "vetements-chaussures-et-sport-amer-sports": [
-  "randonnée",
-  "chaussure",
-  "bottes",
-  "sac à dos",
-  "ski",
-  "veste technique",
   "arc'teryx",
-  "salomon"
+  "bottes",
+  "chaussure",
+  "randonnée",
+  "sac à dos",
+  "salomon",
+  "ski",
+  "veste technique"
  ],
  "vetements-chaussures-et-sport-anta-sports": [
+  "jack wolfskin",
   "randonnée",
-  "veste",
   "sac à dos",
-  "jack wolfskin"
+  "veste"
  ],
  "vetements-chaussures-et-sport-lululemon": [
-  "sport",
-  "yoga",
-  "legging",
   "brassière",
-  "running"
+  "legging",
+  "running",
+  "sport",
+  "yoga"
  ],
  "vetements-chaussures-et-sport-canada-goose": [
   "doudoune",
+  "expédition",
   "hiver",
-  "luxe",
-  "expédition"
+  "luxe"
  ],
  "voyage-et-plein-air-lvmh": [
   "bagage",
@@ -384,37 +384,37 @@
   "voyage"
  ],
  "voyage-et-plein-air-fenix-outdoor": [
-  "sac à dos",
-  "randonnée",
-  "trekking",
   "botte",
-  "veste",
   "fjällräven",
-  "hanwag"
+  "hanwag",
+  "randonnée",
+  "sac à dos",
+  "trekking",
+  "veste"
  ],
  "voyage-et-plein-air-hanwag": [
   "botte",
-  "randonnée",
   "chaussure",
-  "cuir"
+  "cuir",
+  "randonnée"
  ],
  "voyage-et-plein-air-meindl": [
   "botte",
-  "randonnée",
   "chaussure",
-  "cuir"
+  "cuir",
+  "randonnée"
  ],
  "voyage-et-plein-air-scarpa": [
-  "chaussure",
-  "randonnée",
+  "alpinisme",
   "botte",
-  "alpinisme"
+  "chaussure",
+  "randonnée"
  ],
  "voyage-et-plein-air-la-sportiva": [
-  "chaussure",
-  "escalade",
   "alpinisme",
-  "chausson"
+  "chausson",
+  "chaussure",
+  "escalade"
  ],
  "voyage-et-plein-air-schwan-stabilo": [
   "bagage cabine",
@@ -426,27 +426,27 @@
   "valise"
  ],
  "voyage-et-plein-air-vaude": [
+  "randonnée",
   "sac à dos",
   "tente",
-  "randonnée",
   "veste"
  ],
  "voyage-et-plein-air-petzl": [
+  "casque",
+  "corde",
   "escalade",
   "harnais",
-  "corde",
   "lampe frontale",
-  "sac à dos",
-  "casque"
+  "sac à dos"
  ],
  "voyage-et-plein-air-millet-mountain-group": [
+  "doudoune",
+  "lafuma",
+  "millet",
   "randonnée",
   "sac à dos",
-  "veste",
   "tente",
-  "doudoune",
-  "millet",
-  "lafuma"
+  "veste"
  ],
  "voyage-et-plein-air-decathlon": [
   "bagage cabine",
@@ -463,19 +463,19 @@
   "valise"
  ],
  "voyage-et-plein-air-mammut": [
-  "randonnée",
-  "sac à dos",
   "alpinisme",
+  "casque",
   "chaussure",
   "corde",
-  "casque"
+  "randonnée",
+  "sac à dos"
  ],
  "voyage-et-plein-air-kontoor-brands": [
-  "vêtement technique",
+  "helly hansen",
   "pluie",
   "ski",
   "veste",
-  "helly hansen"
+  "vêtement technique"
  ],
  "voyage-et-plein-air-helen-of-troy": [
   "bagage cabine",
@@ -487,50 +487,50 @@
   "valise"
  ],
  "voyage-et-plein-air-deckers": [
+  "baskets",
   "chaussure",
-  "running",
   "hoka",
-  "baskets"
+  "running"
  ],
  "voyage-et-plein-air-silva-sweden": [
   "boussole",
-  "lampe frontale",
   "gps",
+  "lampe frontale",
   "primus"
  ],
  "voyage-et-plein-air-trangia": [
-  "réchaud",
-  "popote",
   "camping",
+  "popote",
+  "réchaud",
   "suédois"
  ],
  "voyage-et-plein-air-newell-brands": [
-  "tente",
   "camping",
-  "sac de couchage",
   "coleman",
-  "réchaud"
+  "réchaud",
+  "sac de couchage",
+  "tente"
  ],
  "voyage-et-plein-air-belkin": [
-  "câble",
   "chargeur",
+  "câble",
   "multiprise",
   "protection"
  ],
  "voyage-et-plein-air-anker-innovations": [
-  "chargeur",
   "batterie externe",
+  "chargeur",
   "câble",
   "powerbank"
  ],
  "voyage-et-plein-air-gopro": [
+  "action cam",
   "caméra",
-  "sport",
-  "action cam"
+  "sport"
  ],
  "voyage-et-plein-air-dji": [
-  "drone",
   "caméra",
+  "drone",
   "gimbal"
  ],
  "voyage-et-plein-air-arashi-vision": [
@@ -538,357 +538,357 @@
   "insta360"
  ],
  "jouets-et-jeux-video-schleich": [
-  "figurine",
   "animaux",
   "dinosaure",
+  "figurine",
   "jouet"
  ],
  "jouets-et-jeux-video-simba-dickie-group": [
-  "poupée",
-  "voiture jouet",
-  "majorette",
-  "smoby",
   "dickie",
-  "jouet"
+  "jouet",
+  "majorette",
+  "poupée",
+  "smoby",
+  "voiture jouet"
  ],
  "jouets-et-jeux-video-asmodee": [
-  "jeu de société",
   "cartes",
-  "dobble",
   "catan",
+  "dobble",
+  "jeu de société",
   "puzzle"
  ],
  "jouets-et-jeux-video-djeco": [
-  "jeu éducatif",
-  "puzzle",
   "cartes",
+  "djeco",
   "enfant",
-  "djeco"
+  "jeu éducatif",
+  "puzzle"
  ],
  "jouets-et-jeux-video-moulin-roty": [
-  "jouet bébé",
   "doudou",
   "hochet",
+  "jouet bébé",
   "naissance"
  ],
  "jouets-et-jeux-video-spin-master": [
-  "figurine",
-  "pat'patrouille",
   "bakugan",
+  "figurine",
+  "jouet",
   "meccano",
-  "jouet"
+  "pat'patrouille"
  ],
  "jouets-et-jeux-video-bandai-namco": [
-  "tamagotchi",
+  "bandai",
   "figurine",
   "gundam",
-  "bandai",
-  "jeu vidéo"
+  "jeu vidéo",
+  "tamagotchi"
  ],
  "jouets-et-jeux-video-sega-sammy": [
   "console",
   "jeu vidéo",
-  "sonic",
-  "sega"
+  "sega",
+  "sonic"
  ],
  "jouets-et-jeux-video-takara-tomy": [
+  "jouet",
   "tomica",
-  "voiture jouet",
   "transformers",
-  "jouet"
+  "voiture jouet"
  ],
  "jouets-et-jeux-video-pop-mart": [
+  "collection",
   "figurine",
   "labubu",
-  "pop mart",
-  "collection"
+  "pop mart"
  ],
  "jouets-jeux-video-lego": [
   "brique",
   "construction",
-  "lego",
-  "jeu de construction"
+  "jeu de construction",
+  "lego"
  ],
  "jouets-jeux-video-playmobil": [
+  "construction",
   "figurine",
-  "playmobil",
   "jouet",
-  "construction"
+  "playmobil"
  ],
  "jouets-jeux-video-ravensburger": [
-  "puzzle",
+  "enfant",
   "jeu de société",
-  "enfant"
+  "puzzle"
  ],
  "jouets-et-jeux-video-nintendo": [
   "console",
-  "switch",
-  "mario",
-  "zelda",
   "jeu vidéo",
-  "nintendo"
+  "mario",
+  "nintendo",
+  "switch",
+  "zelda"
  ],
  "jouets-jeux-video-nintendo": [
   "console",
-  "switch",
-  "mario",
   "jeu vidéo",
-  "nintendo"
+  "mario",
+  "nintendo",
+  "switch"
  ],
  "jouets-et-jeux-video-sony-interactive-entertainment": [
   "console",
+  "jeu vidéo",
   "playstation",
-  "ps5",
-  "jeu vidéo"
+  "ps5"
  ],
  "jouets-jeux-video-xbox": [
   "console",
-  "xbox",
   "jeu vidéo",
-  "microsoft"
+  "microsoft",
+  "xbox"
  ],
  "jouets-et-jeux-video-ubisoft": [
-  "jeu vidéo",
   "assassin's creed",
-  "far cry"
+  "far cry",
+  "jeu vidéo"
  ],
  "jouets-et-jeux-video-capcom": [
   "jeu vidéo",
-  "resident evil",
   "monster hunter",
+  "resident evil",
   "street fighter"
  ],
  "jouets-et-jeux-video-square-enix": [
-  "jeu vidéo",
+  "dragon quest",
   "final fantasy",
-  "dragon quest"
+  "jeu vidéo"
  ],
  "jouets-et-jeux-video-konami": [
-  "jeu vidéo",
   "efootball",
+  "jeu vidéo",
   "yu-gi-oh"
  ],
  "jouets-et-jeux-video-epic-games": [
+  "epic games store",
   "fortnite",
-  "jeu vidéo",
-  "epic games store"
+  "jeu vidéo"
  ],
  "jouets-et-jeux-video-take-two-interactive": [
   "gta",
   "jeu vidéo",
-  "rockstar",
-  "red dead"
+  "red dead",
+  "rockstar"
  ],
  "maison-bricolage-et-jardin-robert-bosch": [
-  "perceuse",
-  "visseuse",
-  "outillage",
-  "meuleuse",
+  "bricolage",
   "dremel",
-  "bricolage"
+  "meuleuse",
+  "outillage",
+  "perceuse",
+  "visseuse"
  ],
  "maison-bricolage-et-jardin-stihl": [
-  "tronçonneuse",
   "débroussailleuse",
+  "jardin",
   "souffleur",
   "taille-haie",
-  "jardin"
+  "tronçonneuse"
  ],
  "maison-bricolage-et-jardin-husqvarna-group": [
-  "tondeuse",
-  "robot tondeuse",
-  "tronçonneuse",
-  "jardin",
+  "gardena",
   "husqvarna",
-  "gardena"
+  "jardin",
+  "robot tondeuse",
+  "tondeuse",
+  "tronçonneuse"
  ],
  "maison-bricolage-et-jardin-karcher": [
-  "nettoyeur haute pression",
   "aspirateur",
   "karcher",
-  "nettoyage"
+  "nettoyage",
+  "nettoyeur haute pression"
  ],
  "maison-bricolage-et-jardin-festool": [
   "aspirateur",
-  "ponceuse",
-  "outillage",
+  "bricolage",
   "festol",
-  "bricolage"
+  "outillage",
+  "ponceuse"
  ],
  "maison-bricolage-et-jardin-einhell": [
-  "outillage",
-  "tondeuse",
   "bricolage",
-  "pas cher"
+  "outillage",
+  "pas cher",
+  "tondeuse"
  ],
  "maison-bricolage-et-jardin-wurth": [
-  "visserie",
   "fixation",
   "outillage",
-  "pro"
+  "pro",
+  "visserie"
  ],
  "maison-bricolage-et-jardin-vorwerk": [
-  "thermomix",
   "aspirateur robot",
+  "cuisine",
   "kobold",
-  "cuisine"
+  "thermomix"
  ],
  "maison-bricolage-et-jardin-makita": [
-  "perceuse",
+  "bricolage",
+  "jardin",
   "meuleuse",
   "outillage",
-  "bricolage",
-  "jardin"
+  "perceuse"
  ],
  "maison-bricolage-et-jardin-milwaukee-ryobi-aeg-outillage": [
-  "perceuse",
-  "outillage",
-  "dewalt",
   "black+decker",
-  "facom"
+  "dewalt",
+  "facom",
+  "outillage",
+  "perceuse"
  ],
  "maison-bricolage-et-jardin-positec": [
-  "outillage",
-  "worx",
   "bricolage",
-  "jardin"
+  "jardin",
+  "outillage",
+  "worx"
  ],
  "maison-bricolage-et-jardin-zwilling": [
-  "couteau",
+  "art de la table",
   "cocotte",
-  "poêle",
-  "staub",
+  "couteau",
   "cuisine",
-  "art de la table"
+  "poêle",
+  "staub"
  ],
  "maison-bricolage-et-jardin-villeroy-boch": [
-  "vaisselle",
+  "art de la table",
   "salle de bain",
-  "art de la table"
+  "vaisselle"
  ],
  "maison-bricolage-et-jardin-duralex": [
-  "verre",
+  "art de la table",
   "assiette",
   "bol",
   "vaisselle",
-  "art de la table"
+  "verre"
  ],
  "maison-bricolage-et-jardin-arc": [
-  "verre",
-  "assiette",
   "arcoroc",
+  "assiette",
   "luminarc",
-  "vaisselle"
+  "vaisselle",
+  "verre"
  ],
  "maison-bricolage-et-jardin-lalique-group": [
+  "art de la table",
   "cristal",
-  "verre",
-  "luxe",
   "lalique",
-  "art de la table"
+  "luxe",
+  "verre"
  ],
  "maison-bricolage-et-jardin-fiskars-group": [
   "ciseaux",
   "couteau",
-  "vaisselle",
-  "iittala",
   "cuisine",
-  "jardin"
+  "iittala",
+  "jardin",
+  "vaisselle"
  ],
  "maison-bricolage-et-jardin-baccarat": [
+  "art de la table",
   "cristal",
-  "verre",
   "luxe",
-  "art de la table"
+  "verre"
  ],
  "maison-bricolage-jardin-dyson": [
   "aspirateur",
-  "sèche-cheveux",
-  "ventilateur",
+  "aspirateur robot",
   "purificateur",
-  "aspirateur robot"
+  "sèche-cheveux",
+  "ventilateur"
  ],
  "maison-bricolage-jardin-adeo": [
+  "amenagement",
   "bricolage",
   "jardin",
   "leroy merlin",
-  "amenagement",
   "peinture"
  ],
  "maison-bricolage-jardin-kingfisher": [
+  "amenagement",
   "bricolage",
-  "jardin",
   "castorama",
-  "peinture",
-  "amenagement"
+  "jardin",
+  "peinture"
  ],
  "montres-bijoux-optique-et-objets-connectes-swatch-group": [
-  "montre",
-  "swatch",
-  "omega",
+  "bijou",
   "longines",
-  "tissot",
-  "bijou"
+  "montre",
+  "omega",
+  "swatch",
+  "tissot"
  ],
  "montres-bijoux-optique-et-objets-connectes-rolex": [
-  "montre",
-  "rolex",
+  "bijou",
   "luxe",
-  "bijou"
+  "montre",
+  "rolex"
  ],
  "montres-bijoux-optique-et-objets-connectes-patek-philippe": [
-  "montre",
+  "haute horlogerie",
   "luxe",
-  "haute horlogerie"
+  "montre"
  ],
  "montres-bijoux-optique-et-objets-connectes-audemars-piguet": [
-  "montre",
+  "haute horlogerie",
   "luxe",
-  "haute horlogerie"
+  "montre"
  ],
  "montres-bijoux-optique-et-objets-connectes-breitling": [
-  "montre",
   "aviation",
+  "montre",
   "sport"
  ],
  "montres-bijoux-optique-et-objets-connectes-casio": [
-  "montre",
-  "g-shock",
   "digital",
-  "sport",
-  "pas cher"
+  "g-shock",
+  "montre",
+  "pas cher",
+  "sport"
  ],
  "montres-bijoux-optique-et-objets-connectes-seiko": [
-  "montre",
   "grand seiko",
-  "japon"
+  "japon",
+  "montre"
  ],
  "montres-bijoux-optique-et-objets-connectes-citizen": [
+  "eco-drive",
   "montre",
-  "solaire",
-  "eco-drive"
+  "solaire"
  ],
  "montres-bijoux-optique-et-objets-connectes-fossil-group": [
-  "montre",
   "mode",
+  "montre",
   "pas cher"
  ],
  "montres-bijoux-optique-et-objets-connectes-chopard": [
-  "montre",
   "bijou",
-  "luxe"
+  "luxe",
+  "montre"
  ],
  "montres-bijoux-optique-et-objets-connectes-mikimoto": [
-  "perle",
   "bijou",
-  "luxe"
+  "luxe",
+  "perle"
  ],
  "montres-bijoux-optique-et-objets-connectes-essilorluxottica": [
   "lunettes",
-  "verres",
-  "ray-ban",
   "oakley",
-  "opticien"
+  "opticien",
+  "ray-ban",
+  "verres"
  ],
  "montres-bijoux-optique-et-objets-connectes-safilo": [
   "lunettes",
@@ -897,24 +897,24 @@
  ],
  "montres-bijoux-optique-et-objets-connectes-carl-zeiss": [
   "lunettes",
+  "opticien",
   "verres",
-  "zeiss",
-  "opticien"
+  "zeiss"
  ],
  "montres-bijoux-optique-et-objets-connectes-krys-group": [
-  "lunettes",
-  "opticien",
-  "krys"
- ],
- "montres-bijoux-optique-et-objets-connectes-hoya": [
-  "verres",
+  "krys",
   "lunettes",
   "opticien"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-hoya": [
+  "lunettes",
+  "opticien",
+  "verres"
  ],
  "montres-bijoux-optique-et-objets-connectes-fitbit-google": [
   "montre connectée",
-  "smartwatch",
   "pixel watch",
+  "smartwatch",
   "suivi activité"
  ],
  "automobile-renault-group": [
@@ -2995,13 +2995,17 @@
   "électrique"
  ],
  "pneumatiques-bridgestone": [
+  "4x4",
   "bridgestone",
   "jante",
   "pneu",
+  "pneu hiver",
+  "pneu été",
   "pneumatique",
   "roue"
  ],
  "pneumatiques-goodyear": [
+  "4x4",
   "dunlop",
   "goodyear",
   "jante",
@@ -3036,6 +3040,7 @@
   "maytag",
   "petit électroménager",
   "réfrigérateur",
+  "sèche-linge",
   "whirlpool",
   "électroménager"
  ],
@@ -5260,5 +5265,184 @@
   "série",
   "tv",
   "vidéo"
+ ],
+ "motos-et-scooters-honda": [
+  "2-roues",
+  "africa twin",
+  "gold wing",
+  "honda",
+  "moto",
+  "scooter"
+ ],
+ "informatique-et-telephonie-google-pixel": [
+  "android",
+  "chromebook",
+  "google",
+  "pixel",
+  "smartphone",
+  "téléphone"
+ ],
+ "informatique-et-telephonie-xiaomi": [
+  "android",
+  "montre connectée",
+  "pas cher",
+  "poco",
+  "redmi",
+  "smartphone",
+  "xiaomi"
+ ],
+ "informatique-et-telephonie-huawei": [
+  "5g",
+  "huawei",
+  "mate",
+  "smartphone",
+  "téléphone"
+ ],
+ "informatique-et-telephonie-dell": [
+  "alienware",
+  "dell",
+  "ordinateur",
+  "pc",
+  "portable",
+  "xps"
+ ],
+ "informatique-et-telephonie-hp": [
+  "hp",
+  "imprimante",
+  "omen",
+  "ordinateur",
+  "pc",
+  "portable",
+  "spectre"
+ ],
+ "informatique-et-telephonie-asus": [
+  "asus",
+  "carte graphique",
+  "gaming",
+  "ordinateur",
+  "portable",
+  "rog",
+  "zenbook"
+ ],
+ "alimentation-et-boissons-heineken": [
+  "amstel",
+  "bière",
+  "blonde",
+  "boisson",
+  "heineken",
+  "pression",
+  "sans alcool"
+ ],
+ "alimentation-et-boissons-carlsberg": [
+  "1664",
+  "bière",
+  "kronenbourg",
+  "pression",
+  "sans alcool",
+  "tuborg"
+ ],
+ "hygiene-sante-johnson-johnson": [
+  "band-aid",
+  "coton",
+  "crème",
+  "crème solaire",
+  "pansement",
+  "santé",
+  "savon",
+  "soin bébé"
+ ],
+ "vetements-chaussures-et-sport-shein": [
+  "en ligne",
+  "fast fashion",
+  "mode",
+  "pas cher",
+  "robe",
+  "shein",
+  "t-shirt",
+  "tendance",
+  "vêtement"
+ ],
+ "distribution-et-paiement-fnac-darty": [
+  "billetterie",
+  "darty",
+  "fnac",
+  "high-tech",
+  "livre",
+  "musique",
+  "ordinateur",
+  "tv",
+  "électroménager"
+ ],
+ "telecoms-numerique-et-energie-ovhcloud": [
+  "cloud",
+  "datacenter",
+  "hébergement",
+  "hébergeur",
+  "nom de domaine",
+  "serveur",
+  "souverain"
+ ],
+ "banque-assurance-et-epargne-bpce": [
+  "banque",
+  "banque populaire",
+  "caisse d'épargne",
+  "compte bancaire",
+  "crédit",
+  "natixis",
+  "épargne"
+ ],
+ "hotellerie-et-hebergement-ihg": [
+  "holiday inn",
+  "hotel",
+  "hôtel",
+  "ibis",
+  "novotel",
+  "réservation",
+  "séjour",
+  "voyage"
+ ],
+ "hotellerie-et-hebergement-marriott": [
+  "hotel",
+  "hôtel",
+  "marriott",
+  "ritz-carlton",
+  "sheraton",
+  "séjour",
+  "voyage",
+  "westin"
+ ],
+ "jouets-et-jeux-video-hasbro": [
+  "cartes",
+  "hasbro",
+  "jeu de société",
+  "jouet",
+  "monopoly",
+  "nerf",
+  "play-doh",
+  "poupée"
+ ],
+ "medias-streaming-et-culture-youtube": [
+  "créateur",
+  "musique",
+  "replay",
+  "streaming",
+  "vidéo",
+  "youtube"
+ ],
+ "restauration-et-livraison-quick": [
+  "burger",
+  "fast-food",
+  "frites",
+  "quick",
+  "restaurant",
+  "sandwich"
+ ],
+ "restauration-et-livraison-too-good-to-go": [
+  "anti-gaspi",
+  "appli",
+  "gaspillage",
+  "invendu",
+  "panier surprise",
+  "zéro déchet"
  ]
 }
