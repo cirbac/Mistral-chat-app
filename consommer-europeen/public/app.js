@@ -262,10 +262,15 @@ async function showSecteur(id) {
 
   const liste = document.createElement('div');
   liste.className = 'results';
+  let masq = 0;
   for (const g of s.groupes) {
+    if (state.pref !== 'all' && !g.recommande) {
+      masq++;
+      continue;
+    }
     const c = carteGroupe(g);
     c.dataset.sousCat = g.sous_categorie || '';
-    c.dataset.recommande = g.recommande ? '1' : '0';
+    c.dataset.recommande = '1';
     cards.push(c);
     liste.appendChild(c);
   }
@@ -273,12 +278,8 @@ async function showSecteur(id) {
 
   function majTitre(sc) {
     let aff = 0;
-    let masq = 0;
     for (const c of cards) {
-      const match = !sc || c.dataset.sousCat === sc;
-      if (!match) continue;
-      if (c.dataset.recommande === '1') aff++;
-      else masq++;
+      if (!sc || c.dataset.sousCat === sc) aff++;
     }
     titreMarques.textContent = `Marques (${aff} affichée${aff > 1 ? 's' : ''}${masq > 0 ? `, ${masq} masquée${masq > 1 ? 's' : ''} par votre préférence` : ''})`;
     let vide = el.results.querySelector('.vide-filtre');
@@ -289,7 +290,7 @@ async function showSecteur(id) {
         el.results.appendChild(vide);
       }
       vide.textContent = masq > 0
-        ? `Aucune marque recommandée dans cette sélection avec votre préférence (${masq} affichée${masq > 1 ? 's' : ''} en grisée ci-dessous).`
+        ? `Aucune marque recommandée dans cette sélection avec votre préférence (${masq} masquée${masq > 1 ? 's' : ''} au total). Passez en « Tout afficher » pour les voir.`
         : 'Aucune marque dans cette catégorie.';
     } else if (vide) {
       vide.remove();
