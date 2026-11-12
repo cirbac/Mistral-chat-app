@@ -344,7 +344,9 @@ h1, h2, h3 {
 }
 
 .topbar-pref select {
-  padding: 5px 10px;
+  height: 34px;
+  padding: 5px 12px;
+  font-size: 0.85rem;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.25);
   background: rgba(255, 255, 255, 0.08);
@@ -1347,12 +1349,10 @@ select option {
   .controls {
     gap: 8px;
   }
-  .topbar-pref {
-    font-size: 0.72rem;
-  }
   .topbar-pref select {
-    font-size: 0.72rem;
-    padding: 4px 8px;
+    height: 28px;
+    font-size: 0.8rem;
+    padding: 4px 10px;
   }
   .topbar-left img.logo {
     height: 28px;
