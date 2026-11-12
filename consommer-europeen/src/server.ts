@@ -468,6 +468,7 @@ app.get('/api/search', (req, res) => {
       (s.aliases ?? []).some((a) => matchGroupe(norm(a))),
   );
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
+  const forts = new Set<string>();
   const produitsMatch: { produit: Produit; groupe: ReturnType<typeof lightGroupe>; secteur: { id: string; num: string; nom: string } }[] = [];
   let masquees = 0;
   for (const idx2 of groupeIndex) {
@@ -479,6 +480,7 @@ app.get('/api/search', (req, res) => {
     if (!matchContexte && !matchSecteur && !matchProduit) continue;
     if (motsQ.length > 1 && !matchContexte && !matchProduit) continue;
     if (item.recommande) {
+      if (matchContexte || matchProduit) forts.add(g.id);
       groupesMatch.push(item);
       for (let k = 0; k < g.produits.length; k++) {
         if (matchContexte || matchGroupe(hayP[k])) {
@@ -494,7 +496,10 @@ app.get('/api/search', (req, res) => {
     q,
     pref,
     secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
-    groupes: sortGroupes(groupesMatch).map(lightGroupe),
+    groupes: (() => {
+      const trie = sortGroupes(groupesMatch);
+      return [...trie.filter((g) => forts.has(g.id)), ...trie.filter((g) => !forts.has(g.id))].map(lightGroupe);
+    })(),
     produits: produitsMatch,
     masquees,
     mots: motsSug,
