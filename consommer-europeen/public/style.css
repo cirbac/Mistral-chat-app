@@ -468,7 +468,7 @@ button:hover {
   display: grid;
   grid-template-columns: 1fr;
   gap: 28px;
-  max-width: 1240px;
+  max-width: 1116px;
   margin: 0 auto;
   padding: 28px 24px 56px;
   align-items: start;
@@ -582,15 +582,14 @@ button:hover {
 
 .detail-card {
   position: relative;
-  width: min(880px, 94vw);
-  max-height: 78vh;
+  width: min(1320px, 96vw);
+  max-height: 82vh;
 }
 
 .detail-close {
   position: absolute;
-  top: 50%;
+  top: 12px;
   right: 12px;
-  transform: translateY(-50%);
   z-index: 2;
   width: 34px;
   height: 34px;
