@@ -668,8 +668,32 @@ async function showSuggestions() {
     hideSuggestions();
     return;
   }
-  const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+  const [data, mc] = await Promise.all([
+    api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`),
+    api(`/api/mots-cles?q=${encodeURIComponent(q)}`),
+  ]);
   el.suggestions.textContent = '';
+  if (mc.mots && mc.mots.length > 0) {
+    const kwWrap = document.createElement('div');
+    kwWrap.className = 'sug-kws';
+    const lab = document.createElement('span');
+    lab.className = 'sug-kws-label';
+    lab.textContent = 'Mots-clés';
+    kwWrap.appendChild(lab);
+    for (const m of mc.mots) {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'sug-kw';
+      b.textContent = m;
+      b.addEventListener('click', () => {
+        el.search.value = m;
+        hideSuggestions();
+        doSearch();
+      });
+      kwWrap.appendChild(b);
+    }
+    el.suggestions.appendChild(kwWrap);
+  }
   const items = [];
   for (const r of (data.produits || []).slice(0, 6)) {
     items.push({ kind: 'produit', label: r.produit.nom, sub: `${r.groupe.groupe} · ${r.secteur.nom}`, run: () => showProduit(r.produit.id) });
@@ -680,7 +704,7 @@ async function showSuggestions() {
   for (const sc of (data.secteurs || []).slice(0, 3)) {
     items.push({ kind: 'secteur', label: `${sc.num} · ${sc.nom}`, sub: `${sc.nbGroupes} marques`, run: () => showSecteur(sc.id) });
   }
-  if (items.length === 0) {
+  if (items.length === 0 && !(mc.mots && mc.mots.length > 0)) {
     hideSuggestions();
     return;
   }
