@@ -65,9 +65,8 @@ const secteurs: Secteur[] = readdirSync(dataDir)
   .sort()
   .flatMap((f) => JSON.parse(readFileSync(path.join(dataDir, f), 'utf8')) as Secteur[]);
 
-const extensionsPath = path.join(dataDir, 'extensions-web.json');
-if (existsSync(extensionsPath)) {
-  const extensions = JSON.parse(readFileSync(extensionsPath, 'utf8')) as Record<string, { groupes: Groupe[] }>;
+for (const f of readdirSync(dataDir).filter((f) => /^extensions-.*\.json$/.test(f))) {
+  const extensions = JSON.parse(readFileSync(path.join(dataDir, f), 'utf8')) as Record<string, { groupes: Groupe[] }>;
   for (const [num, ext] of Object.entries(extensions)) {
     const secteur = secteurs.find((s) => s.num === num);
     if (secteur) secteur.groupes.push(...ext.groupes);
