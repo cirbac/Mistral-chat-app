@@ -289,15 +289,9 @@ async function showSecteur(id) {
   window.scrollTo({ top: 0 });
 }
 
-async function doSearch() {
-  const q = el.search.value.trim();
+function renderResults(data, q) {
   el.chips.textContent = '';
   el.results.textContent = '';
-  if (!q) {
-    renderHome();
-    return;
-  }
-  const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
   state.precedent = { type: 'search', q };
   show('results');
   for (const s of data.secteurs) {
@@ -523,7 +517,7 @@ async function showProduit(id) {
     else if (prec.type === 'sector') showSecteur(prec.id);
     else {
       el.search.value = prec.q;
-      doSearch();
+      runSearch();
     }
   });
   el.detail.appendChild(retour);
@@ -642,17 +636,35 @@ async function showProduit(id) {
   el.detailModal.querySelector('.detail-card').scrollTop = 0;
 }
 
-let debounce;
-let sugDebounce;
+let searchTimer;
 el.search.addEventListener('input', () => {
-  clearTimeout(debounce);
-  debounce = setTimeout(doSearch, 250);
-  clearTimeout(sugDebounce);
-  sugDebounce = setTimeout(showSuggestions, 120);
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(runSearch, 150);
 });
 
-el.search.addEventListener('focus', () => showSuggestions());
+el.search.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    clearTimeout(searchTimer);
+    runSearch();
+  }
+});
+
+el.search.addEventListener('focus', () => {
+  if (el.search.value.trim().length >= 2) runSearch();
+});
 el.search.addEventListener('blur', () => setTimeout(hideSuggestions, 150));
+
+async function runSearch() {
+  const q = el.search.value.trim();
+  if (!q) {
+    hideSuggestions();
+    renderHome();
+    return;
+  }
+  const data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+  renderSuggestions(data, q);
+  renderResults(data, q);
+}
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') hideSuggestions();
 });
@@ -662,19 +674,14 @@ function hideSuggestions() {
   el.suggestions.textContent = '';
 }
 
-async function showSuggestions() {
-  const q = el.search.value.trim();
+function renderSuggestions(data, q) {
   if (q.length < 2) {
     hideSuggestions();
     return;
   }
-  const [data, mc] = await Promise.all([
-    api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`),
-    api(`/api/mots-cles?q=${encodeURIComponent(q)}`),
-  ]);
   el.suggestions.textContent = '';
   const MAX_SUG = 5;
-  const mots = (mc.mots || []).slice(0, 3);
+  const mots = (data.mots || []).slice(0, 3);
   if (mots.length > 0) {
     const kwWrap = document.createElement('div');
     kwWrap.className = 'sug-kws';
@@ -690,7 +697,7 @@ async function showSuggestions() {
       b.addEventListener('click', () => {
         el.search.value = m;
         hideSuggestions();
-        doSearch();
+        runSearch();
       });
       kwWrap.appendChild(b);
     }
@@ -737,7 +744,7 @@ async function showSuggestions() {
   all.textContent = `Voir tous les résultats pour « ${q} »`;
   all.addEventListener('click', () => {
     hideSuggestions();
-    doSearch();
+    runSearch();
   });
   el.suggestions.appendChild(all);
   el.suggestions.classList.remove('hidden');
@@ -748,7 +755,7 @@ el.pref.addEventListener('change', () => {
   try { localStorage.setItem('ce-pref', state.pref); } catch {}
   if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
   else if (state.view === 'catalogue') showCatalogue(true);
-  else doSearch();
+  else runSearch();
 });
 
 
@@ -856,7 +863,7 @@ el.addForm.addEventListener('submit', async (e) => {
     setTimeout(() => {
       el.addModal.classList.add('hidden');
       el.addForm.reset();
-      doSearch();
+      runSearch();
     }, 900);
   }
 });
