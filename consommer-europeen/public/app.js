@@ -163,11 +163,29 @@ function renderHome() {
 function carteGroupe(g) {
   const carte = document.createElement('div');
   carte.className = 'carte';
+  if (g.logo) {
+    const img = document.createElement('img');
+    img.className = 'carte-logo';
+    img.src = g.logo;
+    img.alt = '';
+    img.loading = 'lazy';
+    img.onerror = () => img.remove();
+    carte.appendChild(img);
+  }
+  const corps = document.createElement('div');
+  corps.className = 'carte-corps';
   const h = document.createElement('h3');
   h.textContent = g.groupe;
   const marques = document.createElement('p');
   marques.className = 'marques';
   marques.textContent = g.marques.join(', ');
+  corps.append(h, marques);
+  if (g.histoire) {
+    const hist = document.createElement('p');
+    hist.className = 'carte-histoire';
+    hist.textContent = g.histoire.split(/(?<=[.!?])\s+/)[0];
+    corps.appendChild(hist);
+  }
   const meta = document.createElement('div');
   meta.className = 'meta-ligne';
   meta.appendChild(badge(g.statutLabel, g.statutCouleur));
@@ -180,7 +198,8 @@ function carteGroupe(g) {
     tag.textContent = '✓ recommandé';
     meta.appendChild(tag);
   }
-  carte.append(h, marques, meta);
+  corps.appendChild(meta);
+  carte.appendChild(corps);
   carte.addEventListener('click', () => showGroupe(g.id));
   return carte;
 }
