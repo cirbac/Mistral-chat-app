@@ -312,6 +312,18 @@ app.get('/api/catalogue', (req, res) => {
   });
 });
 
+interface GIdx { g: Groupe; s: Secteur; hayC: string; hayS: string; hayP: string[]; }
+const groupeIndex: GIdx[] = secteurs.flatMap((s) =>
+  s.groupes.map((g) => ({
+    g,
+    s,
+    hayC: norm([g.groupe, ...g.marques, ...(g.aliases ?? []), g.commentaire, g.siege].join(' ')),
+    hayS: norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' ')),
+    hayP: g.produits.map((pr) => norm([pr.nom, pr.note ?? ''].join(' '))),
+  })),
+);
+const searchCache = new Map<string, unknown>();
+
 const vocabMotsCles = new Set<string>();
 for (const s of secteurs) {
   vocabMotsCles.add(norm(s.nom));
@@ -343,17 +355,23 @@ app.get('/api/mots-cles', (req, res) => {
 app.get('/api/search', (req, res) => {
   const q = norm(String(req.query.q ?? '').trim());
   const pref = getPref(req);
-  const variants = [q, ...(SYNONYMES[q] ?? []).map((v) => norm(v))];
   if (!q) {
-    res.json({ q: '', pref, secteurs: [], groupes: [], masquees: 0 });
+    res.json({ q: '', pref, secteurs: [], groupes: [], produits: [], masquees: 0, mots: [] });
     return;
   }
+  const cacheKey = `${pref}|${q}`;
+  const cached = searchCache.get(cacheKey);
+  if (cached) {
+    res.json(cached);
+    return;
+  }
+  const variants = [q, ...(SYNONYMES[q] ?? []).map((v) => norm(v))];
   const matchAny = (hay: string) =>
     hay.includes(q) || variants.slice(1).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
-  const mots = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  const motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
   const matchTousMots = (hay: string) =>
-    mots.length > 1 &&
-    mots.every(
+    motsQ.length > 1 &&
+    motsQ.every(
       (m) => hay.includes(m) || (SYNONYMES[m] ?? []).some((v) => hay.split(/[^a-z0-9]+/).includes(norm(v))),
     );
   const matchGroupe = (hay: string) => matchAny(hay) || matchTousMots(hay);
@@ -366,38 +384,40 @@ app.get('/api/search', (req, res) => {
   const groupesMatch: ReturnType<typeof withStatut>[] = [];
   const produitsMatch: { produit: Produit; groupe: ReturnType<typeof withStatut>; secteur: { id: string; num: string; nom: string } }[] = [];
   let masquees = 0;
-  for (const s of secteurs) {
-    for (const g of s.groupes) {
-      const item = withStatut(g, pref, s);
-      const hayContexte = norm(
-        [g.groupe, ...g.marques, ...(g.aliases ?? []), g.commentaire, g.siege].join(' '),
-      );
-      const haySecteur = norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' '));
-      const hayProduits = g.produits.map((p) => norm([p.nom, p.note ?? ''].join(' ')));
-      const matchContexte = matchGroupe(hayContexte);
-      const matchSecteur = matchGroupe(haySecteur);
-      const matchProduit = hayProduits.some((h) => matchGroupe(h));
-      if (!matchContexte && !matchSecteur && !matchProduit) continue;
-      if (item.recommande) {
-        groupesMatch.push(item);
-        for (let i = 0; i < g.produits.length; i++) {
-          if (matchContexte || matchGroupe(hayProduits[i])) {
-            produitsMatch.push({ produit: g.produits[i], groupe: item, secteur: { id: s.id, num: s.num, nom: s.nom } });
-          }
+  for (const idx2 of groupeIndex) {
+    const { g, s: sec, hayC, hayS, hayP } = idx2;
+    const item = withStatut(g, pref, sec);
+    const matchContexte = matchGroupe(hayC);
+    const matchSecteur = matchGroupe(hayS);
+    const matchProduit = hayP.some((h) => matchGroupe(h));
+    if (!matchContexte && !matchSecteur && !matchProduit) continue;
+    if (item.recommande) {
+      groupesMatch.push(item);
+      for (let k = 0; k < g.produits.length; k++) {
+        if (matchContexte || matchGroupe(hayP[k])) {
+          produitsMatch.push({ produit: g.produits[k], groupe: item, secteur: { id: sec.id, num: sec.num, nom: sec.nom } });
         }
-      } else {
-        masquees++;
       }
+    } else {
+      masquees++;
     }
   }
-  res.json({
+  const motsSug = [...vocabMotsCles]
+    .filter((m) => m.includes(q))
+    .sort((a, b) => (a.startsWith(q) ? 0 : 1) - (b.startsWith(q) ? 0 : 1) || a.length - b.length || a.localeCompare(b))
+    .slice(0, 5);
+  const out = {
     q,
     pref,
     secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
     groupes: sortGroupes(groupesMatch),
     produits: produitsMatch,
     masquees,
-  });
+    mots: motsSug,
+  };
+  if (searchCache.size > 300) searchCache.clear();
+  searchCache.set(cacheKey, out);
+  res.json(out);
 });
 
 app.get('/api/secteurs/:id', (req, res) => {
