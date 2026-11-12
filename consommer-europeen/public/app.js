@@ -688,7 +688,8 @@ function renderLocalKeywords() {
 el.search.addEventListener('keydown', (e) => {
   if (e.key === 'Enter') {
     clearTimeout(searchTimer);
-    runSearch();
+    hideSuggestions();
+    runSearch(true);
   }
 });
 
@@ -698,7 +699,7 @@ el.search.addEventListener('focus', () => {
 el.search.addEventListener('blur', () => setTimeout(hideSuggestions, 150));
 
 const searchClientCache = new Map();
-async function runSearch() {
+async function runSearch(fromEnter) {
   const q = el.search.value.trim();
   if (!q) {
     hideSuggestions();
@@ -712,7 +713,7 @@ async function runSearch() {
     if (searchClientCache.size > 100) searchClientCache.clear();
     searchClientCache.set(key, data);
   }
-  renderSuggestions(data, q);
+  if (!fromEnter) renderSuggestions(data, q);
   renderResults(data, q);
 }
 document.addEventListener('keydown', (e) => {
