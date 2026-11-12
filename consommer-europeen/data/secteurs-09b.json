@@ -13,7 +13,17 @@
    "shampoing",
    "mascara",
    "vernis",
-   "déodorant"
+   "déodorant",
+   "médicament",
+   "pharmacie",
+   "vaccin",
+   "homéopathie",
+   "parapharmacie",
+   "protection solaire",
+   "soin cheveux",
+   "rasoir",
+   "dentifrice",
+   "serviette hygiénique"
   ],
   "note": "Séparé de « Hygiène et santé » : cosmétiques, maquillage, parfums, soins de la peau et des cheveux.",
   "sous_categories": [

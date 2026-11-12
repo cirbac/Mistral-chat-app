@@ -563,7 +563,15 @@
    "train",
    "avion",
    "compagnie aérienne",
-   "covoiturage"
+   "covoiturage",
+   "tgv",
+   "vol",
+   "bus",
+   "vélo",
+   "trottinette",
+   "billet",
+   "fret",
+   "marchandise"
   ],
   "aliases": [
    "Air China",

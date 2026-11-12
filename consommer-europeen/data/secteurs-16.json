@@ -121,7 +121,12 @@
    "hébergement",
    "logement",
    "auberge",
-   "gîte"
+   "gîte",
+   "hotel",
+   "réservation",
+   "camping",
+   "club vacances",
+   "résidence"
   ]
  }
 ]
