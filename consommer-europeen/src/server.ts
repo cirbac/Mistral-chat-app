@@ -35,6 +35,9 @@ interface Groupe {
   lieux_production: string[];
   certifications: string[];
   produits: Produit[];
+  logo?: string;
+  site?: string;
+  histoire?: string;
 }
 
 interface Secteur {
@@ -108,6 +111,23 @@ const imagesOffPath = path.join(dataDir, 'images-off.json');
 const imagesOff: Record<string, string> = existsSync(imagesOffPath)
   ? (JSON.parse(readFileSync(imagesOffPath, 'utf8')) as Record<string, string>)
   : {};
+
+const enrichPath = path.join(dataDir, 'marques-enrichies.json');
+if (existsSync(enrichPath)) {
+  const enrich = JSON.parse(readFileSync(enrichPath, 'utf8')) as Record<string, { domaine?: string; histoire?: string }>;
+  for (const s of secteurs) {
+    for (const g of s.groupes) {
+      const e = enrich[g.id];
+      if (e) {
+        if (e.domaine) {
+          g.site = `https://www.${e.domaine}`;
+          g.logo = `https://www.google.com/s2/favicons?domain=${e.domaine}&sz=256`;
+        }
+        if (e.histoire) g.histoire = e.histoire;
+      }
+    }
+  }
+}
 
 const motsClesPath = path.join(dataDir, 'mots-cles-marques.json');
 const motsClesGlobal: Record<string, string[]> = existsSync(motsClesPath)

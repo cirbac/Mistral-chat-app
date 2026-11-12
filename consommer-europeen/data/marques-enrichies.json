@@ -1,0 +1,462 @@
+{
+ "automobile-renault-group": {
+  "domaine": "renault.com",
+  "histoire": "Fondé en 1899 par Louis Renault, le groupe Renault est l'un des pionniers de l'automobile mondiale, célèbre pour la 4L et la Clio. Positionné sur le segment généraliste européen, il a accéléré sa transition électrique avec la gamme Renault E-Tech (Zoe, Megane E-Tech)."
+ },
+ "automobile-stellantis": {
+  "domaine": "stellantis.com",
+  "histoire": "Né en 2021 de la fusion entre PSA (Peugeot, Citroën, DS, Opel) et Fiat Chrysler, Stellantis est l'un des plus grands groupes automobiles mondiaux. Il couvre du généraliste (Peugeot 208, C3) au premium (DS) et aux pick-up américains."
+ },
+ "automobile-volkswagen-group": {
+  "domaine": "volkswagen-group.com",
+  "histoire": "Créé en 1937 autour de la Coccinelle voulue par le régime nazi, Volkswagen est devenu le premier groupe automobile européen. Il réunit VW, Audi, Škoda, Seat et s'est lancé massivement dans l'électrique avec la plateforme MEB (ID.3, ID.4)."
+ },
+ "automobile-bmw-group": {
+  "domaine": "bmw.com",
+  "histoire": "Fabricant bavarois fondé en 1916 (initialement moteurs d'avion), BMW est devenu une référence du premium avec la Série 3 et le SUV X5. Le groupe possède aussi Mini et Rolls-Royce."
+ },
+ "automobile-mercedes-benz-group": {
+  "domaine": "mercedes-benz.com",
+  "histoire": "Pionnier de l'automobile (Karl Benz invente la voiture en 1886), Mercedes-Benz incarne le luxe automobile allemand depuis plus d'un siècle. Le groupe investit massivement dans l'électrique (gamme EQ)."
+ },
+ "automobile-volvo-cars": {
+  "domaine": "volvocars.com",
+  "histoire": "Marque suédoise fondée en 1927, célèbre pour avoir inventé la ceinture de sécurité trois points (1959), offerte gratuitement à tous. Volvo Cars, désormais propriété du chinois Geely, est le leader de la sécurité et de l'électrique (XC40 Recharge, EX30)."
+ },
+ "automobile-toyota": {
+  "domaine": "toyota.com",
+  "histoire": "Fondé en 1937, le japonais Toyota est le premier constructeur mondial, inventeur du système de production « lean » (juste-à-temps). Il domine l'hybride avec la Prius (1997) et investit dans l'hydrogène (Mirai)."
+ },
+ "automobile-tesla": {
+  "domaine": "tesla.com",
+  "histoire": "Fondée en 2003 par Elon Musk et des associés, Tesla a rendu la voiture électrique désirable et a bâti un écosystème complet (Model 3/Y, Superchargeurs, Powerwall). C'est aujourd'hui la marque de VE la plus valorisée au monde."
+ },
+ "automobile-hyundai-motor-group": {
+  "domaine": "hyundaimotorgroup.com",
+  "histoire": "Groupe sud-coréen fondé en 1967, Hyundai est monté en gamme pour devenir le n°3 mondial, avec Kia et la marque premium Genesis. Pionnier de la garantie 5 ans, il investit fort dans l'électrique (Ioniq 5, EV6)."
+ },
+ "motos-et-scooters-piaggio-group": {
+  "domaine": "piaggiogroup.com",
+  "histoire": "Fondé en 1884 à Gênes, Piaggio a révolutionné la mobilité urbaine avec la Vespa (1946), scooter devenu icône mondiale. Le groupe détient aussi Aprilia, Moto Guzzi et Gilera."
+ },
+ "motos-et-scooters-ducati": {
+  "domaine": "ducati.com",
+  "histoire": "Constructeur bolonais fondé en 1926, Ducati est la référence mondiale de la moto sportive (desmodromique, Panigale). Propriété d'Audi (groupe VW), la marque diversifie vers l'électrique."
+ },
+ "pneumatiques-michelin": {
+  "domaine": "michelin.com",
+  "histoire": "Maison française fondée en 1889 par les frères Michelin à Clermont-Ferrand, célèbre pour le pneu démontable et le Bibendum. Leader mondial du pneumatique, éditeur du célèbre Guide Michelin."
+ },
+ "pneumatiques-continental": {
+  "domaine": "continental.com",
+  "histoire": "Équipementier allemand fondé en 1871 à Hanovre, d'abord en caoutchouc, aujourd'hui n°2 mondial du pneu et géant des systèmes de freinage et d'assistance à la conduite."
+ },
+ "electromenager-bsh-groupe-bosch": {
+  "domaine": "bsh-group.com",
+  "histoire": "Fondé en 1886 à Stuttgart par Robert Bosch, le groupe BSH (Bosch, Siemens, Neff, Gaggenau) est le leader mondial de l'électroménager. Réputation bâtie sur la fiabilité « Made in Germany »."
+ },
+ "electromenager-miele": {
+  "domaine": "miele.com",
+  "histoire": "Entreprise familiale allemande fondée en 1899, Miele est la référence du haut de gamme électroménager, avec une garantie de 20 ans sur certaines gammes. Symbole de durabilité et de design intemporel."
+ },
+ "electromenager-groupe-seb": {
+  "domaine": "groupeseb.com",
+  "histoire": "Fondé en 1857 à Selongey (Bourgogne), le groupe SEB est le leader mondial du petit électroménager (Tefal, Moulinex, Rowenta, Krups) et du culinaire (poêles antiadhésives Tefal)."
+ },
+ "electromenager-electrolux": {
+  "domaine": "electroluxgroup.com",
+  "histoire": "Géant suédois fondé en 1919, Electrolux détient aussi AEG et Zanussi. Pionnier du design scandinave et de l'électroménager connecté, engagé sur la durabilité (aspirateurs en plastique recyclé)."
+ },
+ "televiseurs-sony": {
+  "domaine": "sony.com",
+  "histoire": "Fondée en 1946 à Tokyo, Sony a révolutionné l'électronique grand public (Walkman 1979, PlayStation 1994) et la TV (Trinitron). Aujourd'hui leader de l'OLED (Bravia) et des capteurs photo."
+ },
+ "televiseurs-lg-electronics": {
+  "domaine": "lg.com",
+  "histoire": "Chimiste sud-coréen fondé en 1947 (Lucky Goldstar), LG est devenu le n°1 mondial de l'électroménager et n°2 de la TV OLED. fort aussi en informatique (LG gram) et téléphonie."
+ },
+ "televiseurs-samsung": {
+  "domaine": "samsung.com",
+  "histoire": "Conglomérat sud-coréen fondé en 1938, Samsung est le leader mondial de la mémoire, de la TV (Neo QLED) et du smartphone (Galaxy). Investit massivement dans les semi-conducteurs et l'IA."
+ },
+ "televiseurs-tp-vision-tpv-technology": {
+  "domaine": "philips.com",
+  "histoire": "TPV détient la licence TV Philips : la marque néerlandaise fondée en 1891 (lampes) est devenue une icône de l'électronique (rasoir, TV Ambilight) avant de céder son activité téléviseurs."
+ },
+ "informatique-telephonie-apple": {
+  "domaine": "apple.com",
+  "histoire": "Fondée en 1976 dans un garage californien par Steve Jobs et Steve Wozniak, Apple a réinventé l'informatique (Macintosh 1984), la musique (iPod) et le téléphone (iPhone 2007). Écosystème premium à la valorisation record."
+ },
+ "informatique-et-telephonie-samsung": {
+  "domaine": "samsung.com",
+  "histoire": "Voir Samsung : leader sud-coréen de la TV et du smartphone Galaxy, avec une gamme complète (S24, Z Fold, Buds, Watch)."
+ },
+ "informatique-et-telephonie-fairphone": {
+  "domaine": "fairphone.com",
+  "histoire": "Entreprise sociale néerlandaise fondée en 2013, Fairphone conçoit le smartphone le plus éthique et réparable du marché (modules remplaçables, matériaux recyclés, conditions de travail équitables)."
+ },
+ "informatique-et-telephonie-lenovo": {
+  "domaine": "lenovo.com",
+  "histoire": "Groupe chinois fondé en 1984, Lenovo est devenu n°1 mondial du PC en rachetant la division PC d'IBM (ThinkPad, 2005). Référence du PC professionnel et du gaming (Legion)."
+ },
+ "informatique-et-telephonie-sony-audio-photo": {
+  "domaine": "sony.com",
+  "histoire": "Sony est aussi un géant de la photo (Alpha, objectifs G Master) et de l'audio (casques WH-1000X à réduction de bruit, références du marché)."
+ },
+ "informatique-et-telephonie-canon": {
+  "domaine": "canon.com",
+  "histoire": "Opticien japonais fondé en 1937, Canon est le leader mondial de l'imagerie (reflex EOS, hybrides R, objectifs, imprimantes)."
+ },
+ "informatique-et-telephonie-nikon": {
+  "domaine": "nikon.com",
+  "histoire": "Opticien japonais fondé en 1917, Nikon est une légende de la photo argentique puis numérique (D850, Z, objectifs Nikkor)."
+ },
+ "alimentation-et-boissons-nestle": {
+  "domaine": "nestle.com",
+  "histoire": "Fondé en 1866 en Suisse par Henri Nestlé (farine lactée infantile), Nestlé est le n°1 mondial de l'agroalimentaire (Nescafé, Nespresso, KitKat, Purina). Présent dans 187 pays."
+ },
+ "alimentation-et-boissons-barilla": {
+  "domaine": "barilla.com",
+  "histoire": "Maison italienne fondée en 1877 à Parme, Barilla est le n°1 mondial des pâtes et des sauces tomate prêtes à l'emploi. Entreprise familiale, emblème du « fait en Italie »."
+ },
+ "alimentation-boissons-danone": {
+  "domaine": "danone.com",
+  "histoire": "Fondé en 1919 à Barcelone par Isaac Carasso (yaourts pour la santé intestinale), Danone est devenu le leader mondial des produits laitiers frais (Activia, Actimel) et des eaux (Evian). Coté au CAC 40, engagé B Corp."
+ },
+ "alimentation-boissons-lactalis": {
+  "domaine": "lactalis.com",
+  "histoire": "Fondé en 1933 à Laval par André Besnier, Lactalis est le n°1 mondial du lait (Président, Parmalat, Galbani, Candia), entreprise familiale française devenue géant mondial."
+ },
+ "alimentation-et-boissons-bonduelle": {
+  "domaine": "bonduelle.com",
+  "histoire": "Coopérative agricole française fondée en 1853, Bonduelle est le leader mondial du légume prêt à l'emploi (conserve, surgelé, frais). Engagé pour une alimentation végétale durable."
+ },
+ "alimentation-et-boissons-haribo": {
+  "domaine": "haribo.com",
+  "histoire": "Fondé en 1920 à Bonn par Hans Riegel, Haribo (« HAns RIegel BOnn ») a inventé l'ourson en gélatine en 1922. Leader mondial de la confiserie, slogan « Haribo, la réglisse, c'est la vie » (France)."
+ },
+ "alimentation-et-boissons-pernod-ricard": {
+  "domaine": "pernod-ricard.com",
+  "histoire": "Né en 1975 de la fusion de Pernod et Ricard, le groupe français est n°2 mondial des spiritueux (Ricard, Absolut, Jameson, Martell, Mumm)."
+ },
+ "alimentation-et-boissons-lvmh-moet-hennessy": {
+  "domaine": "lvmh.com",
+  "histoire": "LVMH, géant français du luxe fondé en 1987 par la fusion de Louis Vuitton et Moët Hennessy, détient les maisons de champagne Moët & Chandon, Veuve Clicquot et Hennessy (cognac)."
+ },
+ "alimentation-et-boissons-campari-group": {
+  "domaine": "camparigroup.com",
+  "histoire": "Maison italienne fondée en 1860 à Milan par Gaspare Campari, inventeur du bitter rouge. Le groupe détient aussi Aperol (spritz) et Campari."
+ },
+ "alimentation-boissons-coca-cola": {
+  "domaine": "coca-cola.com",
+  "histoire": "Créée en 1886 à Atlanta, la Coca-Cola Company est la marque la plus connue au monde, vendue dans plus de 200 pays (Coca, Fanta, Sprite, Minute Maid)."
+ },
+ "alimentation-boissons-pepsico": {
+  "domaine": "pepsico.com",
+  "histoire": "Fondé en 1898 (Pepsi-Cola), PepsiCo est le n°2 mondial des boissons et des snacks (Pepsi, Tropicana, Lay's, 7UP, Gatorade)."
+ },
+ "alimentation-et-boissons-diageo": {
+  "domaine": "diageo.com",
+  "histoire": "Géant britannique des spiritueux né en 1997 (Guinness, Johnnie Walker, Smirnoff, Baileys). Leader mondial de la bière (Guinness) et du whisky."
+ },
+ "alimentation-et-boissons-suntory": {
+  "domaine": "suntory.com",
+  "histoire": "Maison japonaise fondée en 1899 à Osaka, Suntory produit whiskies (Yamazaki, Hakushu), bières et possède Orangina Schweppes en France."
+ },
+ "alimentation-et-boissons-roxane": {
+  "domaine": "roxane.com",
+  "histoire": "Groupe français familial fondé en 1962, propriétaire de Cristaline et de plusieurs sources d'eau minérale en France."
+ },
+ "hygiene-sante-sanofi": {
+  "domaine": "sanofi.com",
+  "histoire": "Né en 2004 de la fusion de Sanofi-Synthélabo et Aventis, Sanofi est le leader mondial des vaccins et un géant français de la pharmacie (Doliprane/Dupixent via Opella)."
+ },
+ "hygiene-beaute-et-sante-l-oreal": {
+  "domaine": "loreal.com",
+  "histoire": "Fondé en 1909 à Paris par le chimiste Eugène Schueller (première teinture capillaire), L'Oréal est le n°1 mondial des cosmétiques (L'Oréal Paris, Garnier, La Roche-Posay, Vichy, Lancôme)."
+ },
+ "hygiene-beaute-et-sante-beiersdorf": {
+  "domaine": "beiersdorf.com",
+  "histoire": "Maison allemande fondée en 1882 à Hambourg, créatrice de la crème Nivea (1911). Détient aussi Eucerin, Labello, La Prairie, tesa."
+ },
+ "hygiene-beaute-et-sante-henkel": {
+  "domaine": "henkel.com",
+  "histoire": "Entreprise familiale allemande fondée en 1876 (lessive Persil), Henkel est un géant de la beauté (Schwarzkopf, Syoss, Diadermine) et des adhésifs (Loctite)."
+ },
+ "hygiene-sante-colgate-palmolive": {
+  "domaine": "colgatepalmolive.com",
+  "histoire": "Fusion en 1928 de l'américain Colgate (savon, dentifrice) et Palmolive-Peet. Leader mondial de l'hygiène bucco-dentaire (Colgate, Elmex) et des produits ménagers (Ajax)."
+ },
+ "hygiene-sante-procter-gamble": {
+  "domaine": "pg.com",
+  "histoire": "Fondé en 1837 à Cincinnati (savons), Procter & Gamble est le géant américain des produits de grande consommation : Pampers, Gillette, Oral-B, Ariel, Always, Head & Shoulders."
+ },
+ "hygiene-beaute-et-sante-unilever": {
+  "domaine": "unilever.com",
+  "histoire": "Né en 1929 de la fusion de Lever (savon Sunlight) et du néerlandais Margarine Unie, Unilever détient Dove, Axe, Signal, Knorr, Hellmann's, Ben & Jerry's."
+ },
+ "hygiene-beaute-et-sante-clarins": {
+  "domaine": "clarins.com",
+  "histoire": "Maison familiale française fondée en 1954 à Paris par Jacques Courtin-Clarins, spécialiste du soin haut de gamme à base de plantes."
+ },
+ "hygiene-beaute-et-sante-groupe-rocher": {
+  "domaine": "yvesrocher.com",
+  "histoire": "Fondé en 1959 en Bretagne par Yves Rocher, pionnier de la cosmétique végétale vendue par correspondance. Le groupe détient aussi Petit Bateau (textile)."
+ },
+ "vetements-chaussures-et-sport-inditex": {
+  "domaine": "inditex.com",
+  "histoire": "Groupe espagnol fondé en 1985 par Amancio Ortega (premier magasin Zara à La Corogne), leader mondial de la mode rapide (Zara, Massimo Dutti, Bershka, Pull&Bear, Stradivarius)."
+ },
+ "vetements-chaussures-et-sport-h-m-group": {
+  "domaine": "hmgroup.com",
+  "histoire": "Fondé en 1947 en Suède par Erling Persson, H&M est le n°2 mondial de la mode abordable (H&M, COS, Arket, & Other Stories), engagé sur la mode circulaire."
+ },
+ "vetements-chaussures-et-sport-kering": {
+  "domaine": "kering.com",
+  "histoire": "PPR devenu Kering en 2013, le groupe de François Pinault détient les maisons de luxe Gucci, Saint Laurent, Balenciaga, Bottega Veneta et Boucheron."
+ },
+ "voyage-et-plein-air-lvmh": {
+  "domaine": "rimowa.com",
+  "histoire": "Fondée en 1898 à Cologne par Paul Rimowa, la marque a inventé la valise en aluminium rainurée (Groene) dans les années 1950. Icône du voyage premium, propriété de LVMH depuis 2016."
+ },
+ "voyage-et-plein-air-longchamp": {
+  "domaine": "longchamp.com",
+  "histoire": "Maison parisienne fondée en 1948 par Jean Cassegrain, célèbre pour le sac pliage Le Pliage (1993), best-seller mondial du sac. Luxe accessible français."
+ },
+ "voyage-et-plein-air-victorinox": {
+  "domaine": "victorinox.com",
+  "histoire": "Entreprise suisse fondée en 1884 à Ibach, Victorinox a inventé le couteau suisse en 1891. Aujourd'hui référence du bagage de voyage (valises) et de la coutellerie."
+ },
+ "voyage-et-plein-air-delsey": {
+  "domaine": "delsey.com",
+  "histoire": "Maison française fondée en 1946 par Émile Delsey, spécialiste de la valise rigide (ABS) et des sacs de voyage, icône du voyage français."
+ },
+ "voyage-et-plein-air-fenix-outdoor": {
+  "domaine": "fjallraven.com",
+  "histoire": "Marque suédoise fondée en 1960 à Örnsköldsvik par Åke Nordin, inventeur du sac à dos Kånken (1978) et des vestes en G-1000. Référence du outdoor durable et du style scandinave."
+ },
+ "voyage-et-plein-air-petzl": {
+  "domaine": "petzl.com",
+  "histoire": "Fondé en 1968 à Crolles (Isère) par Paul Petzl, qui invente le premier descendeur et la première lampe frontale. Leader mondial de l'équipement d'escalade, de spéléo et de travail en hauteur."
+ },
+ "voyage-et-plein-air-mammut": {
+  "domaine": "mammut.com",
+  "histoire": "Maison suisse fondée en 1862 (cordes), Mammut est devenue la référence de l'équipement d'alpinisme et de randonnée (doudounes, sacs, chaussures)."
+ },
+ "vetements-chaussures-et-sport-camper": {
+  "domaine": "camper.com",
+  "histoire": "Fondée en 1975 à Majorque par la famille Fluxà, Camper réinvente la chaussure avec des designs audacieux (Pelotas, Peu) fabriqués en Espagne."
+ },
+ "vetements-chaussures-et-sport-dr-martens": {
+  "domaine": "drmartens.com",
+  "histoire": "Née en 1947 en Allemagne (Dr. Maertens), la botte à huit œillets est devenue l'icône du punk et du rock (fabriquée « Made in England » à Wollaston)."
+ },
+ "vetements-chaussures-et-sport-clarks": {
+  "domaine": "clarks.com",
+  "histoire": "Maison anglaise fondée en 1825 à Street (Somerset) par les frères Cyrus et James Clark, spécialiste de la chaussure en cuir confort (Desert Boot, 1950)."
+ },
+ "vetements-chaussures-sport-decathlon": {
+  "domaine": "decathlon.com",
+  "histoire": "Fondé en 1976 à Lille par Michel Leclercq, Decathlon est le leader mondial du sport, concevant ses propres marques (Quechua, Kipsta, Domyos, Tribord, Wedze) à prix accessibles."
+ },
+ "vetements-chaussures-sport-adidas": {
+  "domaine": "adidas.com",
+  "histoire": "Fondée en 1949 en Allemagne par Adolf « Adi » Dassler (séparation avec son frère Puma), Adidas est le n°2 mondial du sport (trois bandes, Ultraboost, Stade de France)."
+ },
+ "vetements-chaussures-sport-nike": {
+  "domaine": "nike.com",
+  "histoire": "Fondée en 1964 sous le nom Blue Ribbon Sports par Phil Knight et Bill Bowerman, Nike (d'après la déesse grecque de la victoire) est le n°1 mondial du sport (swoosh, Air Jordan, Air Max)."
+ },
+ "vetements-chaussures-et-sport-puma": {
+  "domaine": "puma.com",
+  "histoire": "Fondée en 1948 par Rudolf Dassler (frère d'Adolf, après la scission familiale), Puma est un géant mondial du sport (Formstrip, Suede)."
+ },
+ "vetements-chaussures-et-sport-amer-sports": {
+  "domaine": "amersports.com",
+  "histoire": "Groupe finlandais (ex Amer Sports) propriétaire de Salomon (ski, running, randonnée), Arc'teryx (veste technique), Atomic et Wilson."
+ },
+ "vetements-chaussures-et-sport-moncler-group": {
+  "domaine": "moncler.com",
+  "histoire": "Maison italienne fondée en 1952 à Grenoble (par René Ramillon et André Vincent), célèbre pour la doudoune matelassée née pour l'expédition française sur le Makalu (1955). Luxe sportif."
+ },
+ "vetements-chaussures-et-sport-hugo-boss": {
+  "domaine": "hugoboss.com",
+  "histoire": "Fondé en 1924 à Metzingen (Allemagne) par Hugo Boss, le groupe habille l'homme en costume et casual chic (Boss, Hugo), avec une forte présence dans le parfum."
+ },
+ "vetements-chaussures-et-sport-hermes": {
+  "domaine": "hermes.com",
+  "histoire": "Maison de luxe parisienne fondée en 1837 par Thierry Hermès (sellerie), devenue référence du cuir, de la soie et du parfum. Le Birkin et le Kelly restent des icônes."
+ },
+ "vetements-chaussures-et-sport-chanel": {
+  "domaine": "chanel.com",
+  "histoire": "Fondée en 1910 à Paris par Gabrielle « Coco » Chanel, libératrice de la mode féminine (tailleur, petite robe noire, N°5). Symbole du luxe français, propriété des frères Wertheimer."
+ },
+ "vetements-chaussures-et-sport-richemont": {
+  "domaine": "richemont.com",
+  "histoire": "Groupe suisse du luxe fondé par Anton Rupert, propriétaire de Cartier (joaillerie, horlogerie), Van Cleef & Arpels, Chloé, Montblanc et Dunhill."
+ },
+ "jouets-jeux-video-lego": {
+  "domaine": "lego.com",
+  "histoire": "Fondé en 1932 au Danemark par Ole Kirk Christiansen, LEGO a inventé la brique emboîtable en 1958. Référence mondiale du jouet de construction, propriété de la fondation familiale Kirkbi."
+ },
+ "jouets-et-jeux-video-nintendo": {
+  "domaine": "nintendo.com",
+  "histoire": "Fondée en 1889 à Kyoto (cartes hanafuda), Nintendo est devenue le géant du jeu vidéo (NES 1983, Game Boy, Wii, Switch) et propriétaire de Mario, Zelda, Pokémon."
+ },
+ "jouets-et-jeux-video-sony-interactive-entertainment": {
+  "domaine": "playstation.com",
+  "histoire": "Lancée en 1994, la PlayStation de Sony est la console la plus vendue de l'histoire avec la PS2 (155 M). Propriétaire de studios (Naughty Dog, Santa Monica)."
+ },
+ "jouets-jeux-video-xbox": {
+  "domaine": "xbox.com",
+  "histoire": "Lancée en 2001 par Microsoft, la Xbox concurrence PlayStation et a racheté Activision Blizzard (2023), propriétaire de Call of Duty, Candy Crush."
+ },
+ "jouets-et-jeux-video-ubisoft": {
+  "domaine": "ubisoft.com",
+  "histoire": "Studio français fondé en 1986 en Bretagne par les frères Guillemot, éditeur d'Assassin's Creed, Far Cry, Rainbow Six et Just Dance."
+ },
+ "maison-bricolage-et-jardin-robert-bosch": {
+  "domaine": "bosch.com",
+  "histoire": "Fondé en 1886 à Stuttgart, Robert Bosch est le leader mondial de l'outillage électroportatif (bleu) et des équipements automobiles (injection, ABS, ESP)."
+ },
+ "maison-bricolage-et-jardin-stihl": {
+  "domaine": "stihl.com",
+  "histoire": "Fondé en 1926 à Waiblingen (Allemagne) par Andreas Stihl, inventeur de la tronçonneuse électrique puis thermique. N°1 mondial de la tronçonneuse."
+ },
+ "maison-bricolage-et-jardin-husqvarna-group": {
+  "domaine": "husqvarnagroup.com",
+  "histoire": "Maison suédoise fondée en 1689 (mousquets), devenue n°1 mondial des robots tondeuses et tronçonneuses (Husqvarna) et propriétaire de Gardena (arrosage)."
+ },
+ "maison-bricolage-et-jardin-karcher": {
+  "domaine": "karcher.com",
+  "histoire": "Fondé en 1935 à Stuttgart par Alfred Kärcher, inventeur du nettoyeur haute pression à eau chaude (1950). Leader mondial du nettoyage haute pression."
+ },
+ "maison-bricolage-jardin-dyson": {
+  "domaine": "dyson.com",
+  "histoire": "Fondé en 1991 au Royaume-Uni par James Dyson, inventeur de l'aspirateur sans sac (cyclonique). Aujourd'hui géant de l'aspirateur, du sèche-cheveux (Supersonic) et de la purification d'air."
+ },
+ "maison-bricolage-et-jardin-zwilling": {
+  "domaine": "zwilling.com",
+  "histoire": "Coutellerie allemande fondée en 1731 à Solingen, Zwilling est la référence des couteaux de cuisine et possède Staub (cocottes en fonte) et Ballarini."
+ },
+ "maison-bricolage-et-jardin-vorwerk": {
+  "domaine": "vorwerk.com",
+  "histoire": "Entreprise familiale allemande fondée en 1883, Vorwerk est célèbre pour le robot cuiseur Thermomix (2005) et l'aspirateur robot Kobold."
+ },
+ "montres-bijoux-optique-et-objets-connectes-swatch-group": {
+  "domaine": "swatchgroup.com",
+  "histoire": "Né en 1983 de la fusion des deux plus grandes maisons horlogères suisses en crise (ASUAG et SSIH), le Swatch Group détient Swatch, Omega, Longines, Tissot, Breguet, Blancpain."
+ },
+ "montres-bijoux-optique-et-objets-connectes-rolex": {
+  "domaine": "rolex.com",
+  "histoire": "Fondée en 1905 à Londres puis installée à Genève en 1919, Rolex est la référence du luxe horloger (Oyster, Submariner, Daytona)."
+ },
+ "montres-bijoux-optique-et-objets-connectes-casio": {
+  "domaine": "casio.com",
+  "histoire": "Fondé en 1946 à Tokyo, Casio est connu pour ses montres digitales (G-Shock, 1983, quasi indestructible) et ses calculatrices scientifiques."
+ },
+ "montres-bijoux-optique-et-objets-connectes-essilorluxottica": {
+  "domaine": "essilorluxottica.com",
+  "histoire": "Né en 2018 de la fusion d'Essilor (verres correcteurs, 1849) et Luxottica (montures Ray-Ban, Oakley), le groupe franco-italien est le n°1 mondial de l'optique."
+ },
+ "distribution-et-paiement-les-mousquetaires": {
+  "domaine": "mousquetaires.com",
+  "histoire": "Coopérative de commerçants indépendants fondée en 1969, système U (Intermarché, Super U, Netto) : 3e groupe de distribution français."
+ },
+ "distribution-et-paiement-auchan": {
+  "domaine": "auchan-retail.com",
+  "histoire": "Fondé en 1961 à Roubaix par la famille Mulliez (Auchan, premier hypermarché français moderne). Groupe familial présent dans 12 pays."
+ },
+ "distribution-paiement-carrefour": {
+  "domaine": "carrefour.com",
+  "histoire": "Fondé en 1959 à Annecy (premier hypermarché Carrefour, dans une ancienne usine de bonneterie), Carrefour est le leader de la grande distribution en France et en Europe."
+ },
+ "distribution-paiement-leclerc": {
+  "domaine": "e-leclerc.com",
+  "histoire": "Fondé en 1949 à Landerneau par Édouard Leclerc, mouvement coopératif de commerçants indépendants défenseur des prix bas, n°1 des parts de marché en France."
+ },
+ "distribution-et-paiement-schwarz-gruppe": {
+  "domaine": "schwarz.com",
+  "histoire": "Groupe allemand familial fondé par Dieter Schwarz, propriétaire de Lidl et Kaufland, n°1 européen du hard discount."
+ },
+ "distribution-et-paiement-ikea": {
+  "domaine": "ikea.com",
+  "histoire": "Fondé en 1943 en Suède par Ingvar Kamprad (17 ans), IKEA (acronyme de son nom + ferme + village natal) a démocratisé le meuble design en kit, à monter soi-même."
+ },
+ "distribution-et-paiement-zalando": {
+  "domaine": "zalando.com",
+  "histoire": "Fondé en 2008 à Berlin, Zalando est le leader européen de la mode en ligne (vente en ligne de plus de 2000 marques), avec un programme partenaire pour les boutiques."
+ },
+ "distribution-et-paiement-vinted": {
+  "domaine": "vinted.com",
+  "histoire": "Marketplace lituanienne fondée en 2008 à Vilnius, Vinted est le leader mondial de la seconde main en ligne (vêtements, chaussures, accessoires entre particuliers)."
+ },
+ "distribution-et-paiement-back-market": {
+  "domaine": "backmarket.com",
+  "histoire": "Marketplace française fondée en 2014, Back Market est le leader mondial du reconditionné (smartphones, ordinateurs, électroménager), avec notation qualité des produits."
+ },
+ "telecoms-numerique-energie-orange": {
+  "domaine": "orange.com",
+  "histoire": "Ancien monopole public France Télécom privatisé en 1997, Orange est l'opérateur historique français (n°1 fixe et mobile en France) présent dans 26 pays."
+ },
+ "telecoms-numerique-et-energie-iliad": {
+  "domaine": "iliad.fr",
+  "histoire": "Fondé en 1999 par Xavier Niel, Iliad (Free) a bouleversé le marché français avec des forfaits sans engagement à prix cassés (Freebox, Free Mobile) et investit dans la fibre."
+ },
+ "telecoms-numerique-energie-sfr": {
+  "domaine": "sfr.fr",
+  "histoire": "Opérateur français né de la fusion de la SFR (1987, CGE) et Neuf Cegetel, propriété d'Altice, présent sur le mobile, la fibre et la TV."
+ },
+ "transport-mobilite-sncf": {
+  "domaine": "sncf.com",
+  "histoire": "Société nationale fondée en 1938 par nationalisation des grandes compagnies privées, la SNCF exploite le TGV (record de vitesse 574,8 km/h en 2007) et les lignes régionales TER."
+ },
+ "transport-mobilite-blablacar": {
+  "domaine": "blablacar.com",
+  "histoire": "Fondé en 2006 à Paris par Frédéric Mazzella, BlaBlaCar est le leader mondial du covoiturage longue distance (plus de 100 millions de membres) et a diversifié dans le bus (BlaBlaBus)."
+ },
+ "transport-et-mobilite-air-france-klm": {
+  "domaine": "airfranceklm.com",
+  "histoire": "Née en 2004 de la fusion d'Air France (1933) et de KLM (1919, plus vieille compagnie du monde), le groupe Air France-KLM est le leader européen du transport aérien (avec Transavia)."
+ },
+ "transport-et-mobilite-eurostar": {
+  "domaine": "eurostar.com",
+  "histoire": "Lancé en 1994, Eurostar relie Londres à Paris/Bruxelles/Amsterdam via le tunnel sous la Manche, avec des rames à grande vitesse."
+ },
+ "hotellerie-et-hebergement-accor": {
+  "domaine": "group.accor.com",
+  "histoire": "Fondé en 1967 avec le premier Novotel, Accor est le leader mondial de l'hôtellerie (Ibis, Novotel, Mercure, Sofitel, MGallery), présent dans plus de 110 pays."
+ },
+ "hotellerie-booking-holdings": {
+  "domaine": "booking.com",
+  "histoire": "Fondé en 1996 à Amsterdam, Booking.com est la plus grande agence de voyage en ligne au monde (hébergement, vols, voitures), avec Priceline, Agoda et Kayak."
+ },
+ "medias-streaming-et-culture-groupe-canal": {
+  "domaine": "canal-plus.com",
+  "histoire": "Créée en 1984, Canal+ est la chaîne cryptée française historique, devenue groupe audiovisuel (Canal+, cinéma, sport, séries) présent dans 40 pays."
+ },
+ "medias-streaming-et-culture-netflix": {
+  "domaine": "netflix.com",
+  "histoire": "Fondée en 1997 comme loueur de DVD par correspondance, Netflix est devenue en 2007 le pionnier du streaming et produit aujourd'hui ses propres séries (Stranger Things, Squid Game)."
+ },
+ "medias-streaming-culture-spotify": {
+  "domaine": "spotify.com",
+  "histoire": "Lancé en 2008 à Stockholm, Spotify est le leader mondial du streaming musical (abonnement + gratuit), avec podcasts et livres audio."
+ },
+ "banque-assurance-epargne-bnp": {
+  "domaine": "bnpparibas.com",
+  "histoire": "Née en 2000 de la fusion de BNP et Paribas (fondée en 1848), BNP Paribas est la première banque de la zone euro, présente dans 65 pays (détail, corporate, Boursorama, Hello bank!)."
+ },
+ "banque-assurance-epargne-ca": {
+  "domaine": "credit-agricole.com",
+  "histoire": "Fondée en 1894, le Crédit Agricole est la « banque verte » des caisses régionales, n°1 du financement agricole et de la banque de détail en France (LCL, BforBank)."
+ },
+ "banque-assurance-et-epargne-societe-generale": {
+  "domaine": "societegenerale.com",
+  "histoire": "Fondée en 1864 par des industriels, la Société Générale est une banque universelle française historique (réseau France, Boursorama en ligne, banque d'investissement)."
+ },
+ "banque-assurance-et-epargne-axa": {
+  "domaine": "axa.com",
+  "histoire": "Fondée en 1816 à Rouen, AXA est le n°1 mondial de l'assurance (dommages, vie, santé), présent dans plus de 50 pays."
+ }
+}

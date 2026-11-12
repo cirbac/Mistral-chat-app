@@ -1403,3 +1403,28 @@ select option {
 .sug-kw:hover {
   background: rgba(255, 210, 0, 0.28);
 }
+
+.fiche-head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 6px;
+}
+
+.fiche-logo {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  background: #ffffff;
+  border: 1px solid var(--glass-border);
+  object-fit: contain;
+  padding: 6px;
+  flex: 0 0 auto;
+}
+
+.fiche-histoire {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--texte);
+  line-height: 1.5;
+}

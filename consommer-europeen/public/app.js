@@ -307,45 +307,6 @@ function renderResults(data, q) {
   titre.className = 'home-titre';
   titre.textContent = `Résultats pour « ${q} »`;
   el.results.appendChild(titre);
-  if (data.produits && data.produits.length > 0) {
-    const tp = document.createElement('h3');
-    tp.className = 'cat-sous-titre';
-    tp.textContent = `Produits (${data.produits.length})`;
-    el.results.appendChild(tp);
-    const PAGE = 50;
-    let shown = 0;
-    const plusBtn = document.createElement('button');
-    plusBtn.type = 'button';
-    plusBtn.className = 'chip';
-    const renderLot = () => {
-      for (const r of data.produits.slice(shown, shown + PAGE)) {
-        const card = document.createElement('div');
-        card.className = 'carte';
-        const h = document.createElement('h3');
-        h.textContent = r.produit.nom;
-        const meta = document.createElement('div');
-        meta.className = 'meta-ligne';
-        meta.appendChild(badge(r.groupe.statutLabel, r.groupe.statutCouleur));
-        const marque = document.createElement('span');
-        marque.textContent = `${r.groupe.groupe} · ${r.secteur.nom}`;
-        meta.appendChild(marque);
-        if (r.produit.assemblage) {
-          const ass = document.createElement('span');
-          ass.textContent = `Assemblage : ${r.produit.assemblage}`;
-          meta.appendChild(ass);
-        }
-        card.append(h, meta);
-        card.addEventListener('click', () => showProduit(r.produit.id));
-        el.results.insertBefore(card, plusBtn);
-      }
-      shown += PAGE;
-      if (shown >= data.produits.length) plusBtn.remove();
-      else plusBtn.textContent = `Afficher ${Math.min(PAGE, data.produits.length - shown)} produits de plus (${shown}/${data.produits.length})`;
-    };
-    plusBtn.addEventListener('click', renderLot);
-    el.results.appendChild(plusBtn);
-    renderLot();
-  }
   if (data.groupes.length > 0) {
     const tg = document.createElement('h3');
     tg.className = 'cat-sous-titre';
@@ -416,9 +377,21 @@ async function showGroupe(id) {
   });
   el.detail.appendChild(retour);
 
+  const head = document.createElement('div');
+  head.className = 'fiche-head';
+  if (g.logo) {
+    const img = document.createElement('img');
+    img.className = 'fiche-logo';
+    img.src = g.logo;
+    img.alt = `Logo ${g.groupe}`;
+    img.loading = 'lazy';
+    img.onerror = () => img.remove();
+    head.appendChild(img);
+  }
   const h = document.createElement('h2');
   h.textContent = g.groupe;
-  el.detail.appendChild(h);
+  head.appendChild(h);
+  el.detail.appendChild(head);
 
   const badges = document.createElement('div');
   badges.style.display = 'flex';
@@ -432,6 +405,26 @@ async function showGroupe(id) {
     badges.appendChild(tag);
   }
   el.detail.appendChild(badges);
+
+  const histoire = g.histoire || (g.commentaire || '').split(/(?<=[.!?])\s+/).slice(0, 2).join(' ');
+  if (histoire) {
+    const hh = document.createElement('h3');
+    hh.textContent = 'Histoire & positionnement';
+    const p = document.createElement('p');
+    p.className = 'fiche-histoire';
+    p.textContent = histoire;
+    el.detail.append(hh, p);
+  }
+
+  if (g.site) {
+    const a = document.createElement('a');
+    a.className = 'lien-externe';
+    a.href = g.site;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.textContent = `Site officiel ↗ (${g.site.replace(/^https?:\/\/(www\.)?/, '')})`;
+    el.detail.appendChild(a);
+  }
 
   const dl = document.createElement('dl');
   ligneDtDd(dl, 'Secteur', `${g.secteur.num} · ${g.secteur.nom}`);
@@ -468,20 +461,6 @@ async function showGroupe(id) {
       ul.appendChild(li);
     }
     el.detail.append(h, ul);
-  }
-
-  if (g.produits.length > 0) {
-    const h = document.createElement('h3');
-    h.textContent = 'Produits / modèles mentionnés';
-    el.detail.appendChild(h);
-    for (const p of g.produits) {
-      const btn = document.createElement('button');
-      btn.className = 'produit';
-      btn.type = 'button';
-      btn.innerHTML = `${esc(p.nom)} — <small>${esc(p.assemblage ?? 'assemblage à vérifier')}</small>`;
-      btn.addEventListener('click', () => showProduit(p.id));
-      el.detail.appendChild(btn);
-    }
   }
 
   if (g.certifications.length > 0) {
@@ -757,10 +736,7 @@ function renderSuggestions(data, q) {
     el.suggestions.appendChild(kwWrap);
   }
   const items = [];
-  for (const r of (data.produits || []).slice(0, 6)) {
-    items.push({ kind: 'produit', label: r.produit.nom, sub: `${r.groupe.groupe} · ${r.secteur.nom}`, run: () => showProduit(r.produit.id) });
-  }
-  for (const g of (data.groupes || []).slice(0, 4)) {
+  for (const g of (data.groupes || []).slice(0, 5)) {
     items.push({ kind: 'marque', label: g.groupe, sub: g.marques.slice(0, 3).join(', '), run: () => showGroupe(g.id) });
   }
   for (const sc of (data.secteurs || []).slice(0, 3)) {
