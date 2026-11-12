@@ -492,6 +492,9 @@ button:hover {
 }
 
 .carte {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
   background: var(--glass);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -500,6 +503,32 @@ button:hover {
   border-radius: 14px;
   padding: 16px 18px;
   cursor: pointer;
+}
+
+.carte-logo {
+  width: 48px;
+  height: 48px;
+  flex: 0 0 auto;
+  border-radius: 12px;
+  background: #ffffff;
+  border: 1px solid var(--glass-border);
+  object-fit: contain;
+  padding: 5px;
+}
+
+.carte-corps {
+  min-width: 0;
+  flex: 1;
+}
+
+.carte-histoire {
+  margin: 0 0 8px;
+  font-size: 0.85rem;
+  color: var(--texte-doux);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .carte:hover {
