@@ -210,7 +210,14 @@ function sortGroupes<T extends { statut: string; groupe: string; recommande: boo
 const app = express();
 app.use(express.json({ limit: '64kb' }));
 
-app.use(express.static(path.join(rootDir, 'public'), { index: false }));
+app.use(
+  express.static(path.join(rootDir, 'public'), {
+    index: false,
+    etag: true,
+    maxAge: 0,
+    setHeaders: (res) => res.setHeader('Cache-Control', 'no-cache'),
+  }),
+);
 
 app.get('/', (_req, res) => {
   res.sendFile(path.join(rootDir, 'public', 'index.html'));
