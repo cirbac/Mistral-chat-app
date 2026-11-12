@@ -295,6 +295,7 @@ app.get('/api/accueil', (req, res) => {
   res.json({ phares: phares.slice(0, 24), nouveaux });
 });
 
+const COMMON = new Set(['the','and','for','with','les','des','une','est','sur','aux','par','pas','plus','mais','dont','avec','que','qui','son','ses','est']);
 const SYNONYMES: Record<string, string[]> = {
   the: ['thé', 'tea'], 'thé': ['the', 'tea'], tea: ['thé', 'the'],
   cafe: ['café', 'coffee'], 'café': ['cafe', 'coffee'], coffee: ['café', 'cafe'],
@@ -467,30 +468,39 @@ app.get('/api/search', (req, res) => {
       (s.keywords ?? []).some((k) => matchGroupe(norm(k))) ||
       (s.aliases ?? []).some((a) => matchGroupe(norm(a))),
   );
-  const groupesMatch: ReturnType<typeof withStatut>[] = [];
-  const forts = new Set<string>();
-  const produitsMatch: { produit: Produit; groupe: ReturnType<typeof lightGroupe>; secteur: { id: string; num: string; nom: string } }[] = [];
-  let masquees = 0;
-  for (const idx2 of groupeIndex) {
-    const { g, s: sec, hayC, hayS, hayP } = idx2;
-    const item = withStatut(g, pref, sec);
-    const matchContexte = matchGroupe(hayC);
-    const matchSecteur = matchGroupe(hayS);
-    const matchProduit = hayP.some((h) => matchGroupe(h));
-    if (!matchContexte && !matchSecteur && !matchProduit) continue;
-    if (motsQ.length > 1 && !matchContexte && !matchProduit) continue;
-    if (item.recommande) {
-      if (matchContexte || matchProduit) forts.add(g.id);
-      groupesMatch.push(item);
-      for (let k = 0; k < g.produits.length; k++) {
-        if (matchContexte || matchGroupe(hayP[k])) {
-          produitsMatch.push({ produit: g.produits[k], groupe: lightGroupe(item), secteur: { id: sec.id, num: sec.num, nom: sec.nom } });
+  function runMatch(variantsL: string[]) {
+    const matchAnyL = (hay: string) =>
+      (!COMMON.has(q) && hay.includes(q)) || variantsL.slice(1).filter((v) => !COMMON.has(v)).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
+    const matchGroupeL = (hay: string) => matchAnyL(hay) || matchTousMots(hay);
+    const groupesMatch: ReturnType<typeof withStatut>[] = [];
+    const forts = new Set<string>();
+    const produitsMatch: { produit: Produit; groupe: ReturnType<typeof lightGroupe>; secteur: { id: string; num: string; nom: string } }[] = [];
+    let masquees = 0;
+    for (const idx2 of groupeIndex) {
+      const { g, s: sec, hayC, hayP } = idx2;
+      const item = withStatut(g, pref, sec);
+      const matchContexte = matchGroupeL(hayC);
+      const matchProduit = hayP.some((h) => matchGroupeL(h));
+      if (!matchContexte && !matchProduit) continue;
+      if (item.recommande) {
+        if (matchContexte || matchProduit) forts.add(g.id);
+        groupesMatch.push(item);
+        for (let k = 0; k < g.produits.length; k++) {
+          if (matchContexte || matchGroupeL(hayP[k])) {
+            produitsMatch.push({ produit: g.produits[k], groupe: lightGroupe(item), secteur: { id: sec.id, num: sec.num, nom: sec.nom } });
+          }
         }
+      } else {
+        masquees++;
       }
-    } else {
-      masquees++;
     }
+    return { groupesMatch, forts, produitsMatch, masquees };
   }
+  let r1 = runMatch([q]);
+  if (r1.groupesMatch.length === 0 && r1.produitsMatch.length === 0 && (SYNONYMES[q] ?? []).length > 0) {
+    r1 = runMatch(variants);
+  }
+  const { groupesMatch, forts, produitsMatch, masquees } = r1;
   const motsSug = motsProches(q, 5);
   const out = {
     q,
