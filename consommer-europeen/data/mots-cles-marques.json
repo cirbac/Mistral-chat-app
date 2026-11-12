@@ -6460,33 +6460,45 @@
   "épargne"
  ],
  "transport-msc": [
+  "caraïbes",
   "croisière",
   "ferry",
+  "mediterranee",
   "msc",
+  "méditerranée",
   "train",
   "vélo",
   "vélo électrique"
  ],
  "transport-ponant": [
+  "caraïbes",
   "croisière",
   "ferry",
+  "mediterranee",
+  "méditerranée",
   "ponant",
   "train",
   "vélo",
   "vélo électrique"
  ],
  "transport-royalcaribbean": [
+  "caraïbes",
   "croisière",
   "ferry",
+  "mediterranee",
+  "méditerranée",
   "royal caribbean",
   "train",
   "vélo",
   "vélo électrique"
  ],
  "transport-hurtigruten": [
+  "caraïbes",
   "croisière",
   "ferry",
   "hurtigruten",
+  "mediterranee",
+  "méditerranée",
   "train",
   "vélo",
   "vélo électrique"

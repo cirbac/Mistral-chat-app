@@ -436,7 +436,7 @@ app.get('/api/mots-cles', (req, res) => {
 });
 
 app.get('/api/search', (req, res) => {
-  const q = norm(String(req.query.q ?? '').trim());
+  let q = norm(String(req.query.q ?? '').trim());
   const pref = getPref(req);
   if (!q) {
     res.json({ q: '', pref, secteurs: [], groupes: [], produits: [], masquees: 0, mots: [] });
@@ -448,10 +448,13 @@ app.get('/api/search', (req, res) => {
     res.json(cached);
     return;
   }
+  const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe']);
+  const motsQ0 = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  if (motsQ0.length > 0 && motsQ0.some((w) => MOUS.has(w))) q = motsQ0.filter((w) => !MOUS.has(w)).join('-');
   const variants = [q, ...(SYNONYMES[q] ?? []).map((v) => norm(v))];
   const matchAny = (hay: string) =>
     hay.includes(q) || variants.slice(1).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
-  const motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  const motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3 && !MOUS.has(w));
   const matchTousMots = (hay: string) =>
     motsQ.length > 1 &&
     motsQ.every(
@@ -474,6 +477,7 @@ app.get('/api/search', (req, res) => {
     const matchSecteur = matchGroupe(hayS);
     const matchProduit = hayP.some((h) => matchGroupe(h));
     if (!matchContexte && !matchSecteur && !matchProduit) continue;
+    if (motsQ.length > 1 && !matchContexte && !matchProduit) continue;
     if (item.recommande) {
       groupesMatch.push(item);
       for (let k = 0; k < g.produits.length; k++) {
