@@ -582,13 +582,15 @@ button:hover {
 
 .detail-card {
   position: relative;
-  width: min(680px, 94vw);
+  width: min(880px, 94vw);
+  max-height: 78vh;
 }
 
 .detail-close {
   position: absolute;
-  top: 12px;
+  top: 50%;
   right: 12px;
+  transform: translateY(-50%);
   z-index: 2;
   width: 34px;
   height: 34px;

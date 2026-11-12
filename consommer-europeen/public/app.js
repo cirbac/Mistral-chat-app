@@ -636,10 +636,28 @@ function renderLocalKeywords() {
   if (q.length < 2 || state.vocab.length === 0) {
     return;
   }
-  const mots = state.vocab
+  let mots = state.vocab
     .filter((m) => m.includes(q))
     .sort((a, b) => (a.startsWith(q) ? 0 : 1) - (b.startsWith(q) ? 0 : 1) || a.length - b.length)
     .slice(0, 3);
+  if (mots.length === 0 && q.length >= 3) {
+    const dist = (a, b) => {
+      const m = a.length, n = b.length;
+      const d = Array.from({ length: m + 1 }, (_, i) => [i, ...Array(n).fill(0)]);
+      for (let j = 1; j <= n; j++) d[0][j] = j;
+      for (let i = 1; i <= m; i++)
+        for (let j = 1; j <= n; j++)
+          d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      return d[m][n];
+    };
+    const maxD = Math.max(2, Math.floor(q.length / 2));
+    mots = state.vocab
+      .map((m) => ({ m, d: dist(q, m) }))
+      .filter((x) => x.d <= maxD)
+      .sort((a, b) => a.d - b.d || a.m.length - b.m.length)
+      .slice(0, 3)
+      .map((x) => x.m);
+  }
   if (mots.length === 0) return;
   let kwWrap = el.suggestions.querySelector('.sug-kws');
   if (!kwWrap) {

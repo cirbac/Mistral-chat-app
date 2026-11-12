@@ -332,6 +332,8 @@ app.get('/api/catalogue', (req, res) => {
   });
 });
 
+dedupGroupes();
+
 interface GIdx { g: Groupe; s: Secteur; hayC: string; hayS: string; hayP: string[]; }
 const groupeIndex: GIdx[] = secteurs.flatMap((s) =>
   s.groupes.map((g) => ({
@@ -344,6 +346,32 @@ const groupeIndex: GIdx[] = secteurs.flatMap((s) =>
 );
 const searchCache = new Map<string, unknown>();
 
+function dedupGroupes() {
+  for (const s of secteurs) {
+    const seen = new Map<string, Groupe>();
+    const out: Groupe[] = [];
+    for (const g of s.groupes) {
+      const key = norm(g.groupe) + '|' + norm(g.marques[0] ?? '');
+      const ex = seen.get(key);
+      if (ex) {
+        ex.marques = [...new Set([...ex.marques, ...g.marques])];
+        ex.aliases = [...new Set([...(ex.aliases ?? []), ...(g.aliases ?? [])])];
+        ex.produits = [...ex.produits, ...g.produits.filter((pr) => !ex.produits.some((q) => q.id === pr.id))];
+        ex.sources = [...new Set([...ex.sources, ...g.sources])];
+        ex.lieux_production = [...new Set([...ex.lieux_production, ...g.lieux_production])];
+        ex.certifications = [...new Set([...ex.certifications, ...g.certifications])];
+        if (!ex.commentaire && g.commentaire) ex.commentaire = g.commentaire;
+        if (!ex.site && g.site) { ex.site = g.site; ex.logo = g.logo; }
+        if (!ex.histoire && g.histoire) ex.histoire = g.histoire;
+        if (STATUT_ORDRE.indexOf(g.statut) < STATUT_ORDRE.indexOf(ex.statut)) ex.statut = g.statut;
+      } else {
+        seen.set(key, g);
+        out.push(g);
+      }
+    }
+    s.groupes = out;
+  }
+}
 const vocabMotsCles = new Set<string>();
 for (const s of secteurs) {
   vocabMotsCles.add(norm(s.nom));
@@ -357,6 +385,32 @@ for (const v of Object.values(SYNONYMES)) for (const x of v) vocabMotsCles.add(n
 for (const kws of Object.values(motsClesGlobal)) for (const k of kws) vocabMotsCles.add(norm(k));
 vocabMotsCles.delete('');
 
+function lev(a: string, b: string): number {
+  const m = a.length, n = b.length;
+  const d: number[][] = Array.from({ length: m + 1 }, (_, i) => [i, ...Array(n).fill(0)]);
+  for (let j = 1; j <= n; j++) d[0][j] = j;
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+  return d[m][n];
+}
+
+function motsProches(q: string, max = 5): string[] {
+  const exact = [...vocabMotsCles]
+    .filter((m) => m.includes(q))
+    .sort((a, b) => (a.startsWith(q) ? 0 : 1) - (b.startsWith(q) ? 0 : 1) || a.length - b.length || a.localeCompare(b))
+    .slice(0, max);
+  if (exact.length > 0) return exact;
+  if (q.length < 3) return [];
+  const maxD = Math.max(2, Math.floor(q.length / 2));
+  return [...vocabMotsCles]
+    .map((m) => ({ m, d: lev(q, m) }))
+    .filter((x) => x.d <= maxD)
+    .sort((a, b) => a.d - b.d || a.m.length - b.m.length)
+    .slice(0, max)
+    .map((x) => x.m);
+}
+
 app.get('/api/mots-cles', (req, res) => {
   if (String(req.query.all ?? '') === '1') {
     res.json({ mots: [...vocabMotsCles].sort((a, b) => a.localeCompare(b)).slice(0, 4000) });
@@ -367,13 +421,7 @@ app.get('/api/mots-cles', (req, res) => {
     res.json({ mots: [] });
     return;
   }
-  const mots = [...vocabMotsCles].filter((m) => m.includes(q));
-  mots.sort((a, b) => {
-    const as = a.startsWith(q) ? 0 : 1;
-    const bs = b.startsWith(q) ? 0 : 1;
-    return as - bs || a.length - b.length || a.localeCompare(b);
-  });
-  res.json({ mots: mots.slice(0, 10) });
+  res.json({ mots: motsProches(q, 10) });
 });
 
 app.get('/api/search', (req, res) => {
@@ -426,10 +474,7 @@ app.get('/api/search', (req, res) => {
       masquees++;
     }
   }
-  const motsSug = [...vocabMotsCles]
-    .filter((m) => m.includes(q))
-    .sort((a, b) => (a.startsWith(q) ? 0 : 1) - (b.startsWith(q) ? 0 : 1) || a.length - b.length || a.localeCompare(b))
-    .slice(0, 5);
+  const motsSug = motsProches(q, 5);
   const out = {
     q,
     pref,
