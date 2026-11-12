@@ -79,12 +79,12 @@
  "preferences": [
   {
    "id": "fr",
-   "label": "Préférence France",
+   "label": "France",
    "description": "Groupes contrôlés en France (siège en France, statut « France / UE » ou Vigilance)."
   },
   {
    "id": "ue",
-   "label": "Préférence Union européenne",
+   "label": "Union européenne",
    "description": "Capital et contrôle européens : UE, Royaume-Uni, Suisse, Norvège (« France / UE » + Vigilance)."
   },
   {
