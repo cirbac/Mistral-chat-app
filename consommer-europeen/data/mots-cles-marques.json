@@ -2834,5 +2834,214 @@
   "france.tv",
   "replay",
   "tv"
+ ],
+ "motos-et-scooters-honda": [
+  "moto",
+  "scooter",
+  "gold wing",
+  "africa twin",
+  "honda",
+  "2-roues"
+ ],
+ "pneumatiques-bridgestone": [
+  "pneu",
+  "pneumatique",
+  "jante",
+  "roue",
+  "pneu hiver",
+  "pneu été",
+  "bridgestone",
+  "4x4"
+ ],
+ "pneumatiques-goodyear": [
+  "pneu",
+  "pneumatique",
+  "jante",
+  "roue",
+  "goodyear",
+  "dunlop",
+  "4x4"
+ ],
+ "electromenager-whirlpool": [
+  "lave-linge",
+  "réfrigérateur",
+  "congélateur",
+  "lave-vaisselle",
+  "four",
+  "sèche-linge",
+  "électroménager",
+  "whirlpool",
+  "kitchenaid"
+ ],
+ "informatique-et-telephonie-google-pixel": [
+  "smartphone",
+  "pixel",
+  "android",
+  "chromebook",
+  "google",
+  "téléphone"
+ ],
+ "informatique-et-telephonie-xiaomi": [
+  "smartphone",
+  "redmi",
+  "poco",
+  "xiaomi",
+  "android",
+  "montre connectée",
+  "pas cher"
+ ],
+ "informatique-et-telephonie-huawei": [
+  "smartphone",
+  "mate",
+  "huawei",
+  "5g",
+  "téléphone"
+ ],
+ "informatique-et-telephonie-dell": [
+  "ordinateur",
+  "portable",
+  "pc",
+  "xps",
+  "alienware",
+  "dell"
+ ],
+ "informatique-et-telephonie-hp": [
+  "ordinateur",
+  "portable",
+  "imprimante",
+  "pc",
+  "hp",
+  "spectre",
+  "omen"
+ ],
+ "informatique-et-telephonie-asus": [
+  "ordinateur",
+  "portable",
+  "rog",
+  "zenbook",
+  "asus",
+  "gaming",
+  "carte graphique"
+ ],
+ "alimentation-et-boissons-heineken": [
+  "bière",
+  "pression",
+  "blonde",
+  "heineken",
+  "amstel",
+  "boisson",
+  "sans alcool"
+ ],
+ "alimentation-et-boissons-carlsberg": [
+  "bière",
+  "kronenbourg",
+  "1664",
+  "tuborg",
+  "pression",
+  "sans alcool"
+ ],
+ "hygiene-sante-johnson-johnson": [
+  "pansement",
+  "coton",
+  "soin bébé",
+  "crème",
+  "savon",
+  "crème solaire",
+  "santé",
+  "band-aid"
+ ],
+ "vetements-chaussures-et-sport-shein": [
+  "vêtement",
+  "robe",
+  "t-shirt",
+  "pas cher",
+  "fast fashion",
+  "mode",
+  "en ligne",
+  "shein",
+  "tendance"
+ ],
+ "distribution-et-paiement-fnac-darty": [
+  "livre",
+  "musique",
+  "tv",
+  "ordinateur",
+  "électroménager",
+  "billetterie",
+  "fnac",
+  "darty",
+  "high-tech"
+ ],
+ "telecoms-numerique-et-energie-ovhcloud": [
+  "hébergement",
+  "cloud",
+  "serveur",
+  "nom de domaine",
+  "hébergeur",
+  "souverain",
+  "datacenter"
+ ],
+ "banque-assurance-et-epargne-bpce": [
+  "banque",
+  "compte bancaire",
+  "épargne",
+  "crédit",
+  "banque populaire",
+  "caisse d'épargne",
+  "natixis"
+ ],
+ "hotellerie-et-hebergement-ihg": [
+  "hôtel",
+  "hotel",
+  "séjour",
+  "réservation",
+  "holiday inn",
+  "ibis",
+  "novotel",
+  "voyage"
+ ],
+ "hotellerie-et-hebergement-marriott": [
+  "hôtel",
+  "hotel",
+  "séjour",
+  "marriott",
+  "sheraton",
+  "westin",
+  "ritz-carlton",
+  "voyage"
+ ],
+ "jouets-et-jeux-video-hasbro": [
+  "jouet",
+  "nerf",
+  "monopoly",
+  "play-doh",
+  "poupée",
+  "cartes",
+  "jeu de société",
+  "hasbro"
+ ],
+ "medias-streaming-et-culture-youtube": [
+  "vidéo",
+  "streaming",
+  "youtube",
+  "replay",
+  "musique",
+  "créateur"
+ ],
+ "restauration-et-livraison-quick": [
+  "burger",
+  "fast-food",
+  "frites",
+  "quick",
+  "restaurant",
+  "sandwich"
+ ],
+ "restauration-et-livraison-too-good-to-go": [
+  "anti-gaspi",
+  "gaspillage",
+  "panier surprise",
+  "invendu",
+  "zéro déchet",
+  "appli"
  ]
 }

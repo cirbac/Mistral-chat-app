@@ -161,6 +161,26 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-shein",
+    "groupe": "Shein",
+    "marques": [
+     "Shein"
+    ],
+    "siege": "Singapour (siège depuis 2022 ; fondée à Nankin, Chine, en 2008)",
+    "siege_pays": "SG",
+    "statut": "a_ecarter",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Plateforme de fast fashion fondée en Chine en 2008, siège à Singapour depuis 2022, mais production et chaîne d'approvisionnement en Chine (Guangdong) [248]. À écarter (origine/contrôle chinois).",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Chine (Guangdong)"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -314,6 +334,25 @@
      "Pays-Bas",
      "Allemagne"
     ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-et-paiement-fnac-darty",
+    "groupe": "Fnac Darty",
+    "marques": [
+     "Fnac",
+     "Darty"
+    ],
+    "siege": "France (Ivry-sur-Seine)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Distributeur français coté à Paris (Ivry-sur-Seine) : enseignes Fnac (culture, high-tech) et Darty (électroménager) [249].",
+    "sources": [
+     249
+    ],
+    "lieux_production": [],
     "certifications": [],
     "produits": []
    }
@@ -473,6 +512,34 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-ovhcloud",
+    "groupe": "OVHcloud",
+    "marques": [
+     "OVHcloud"
+    ],
+    "siege": "France (Roubaix)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cloud et streaming",
+    "commentaire": "Hébergeur et fournisseur de cloud français (Roubaix, fondé en 1999), coté sur Euronext Paris ; famille Klaba actionnaire majoritaire [250].",
+    "sources": [
+     250
+    ],
+    "lieux_production": [
+     "France (Roubaix, Strasbourg, Gravelines)",
+     "Pologne",
+     "Allemagne",
+     "Canada",
+     "États-Unis",
+     "Singapour",
+     "Australie"
+    ],
+    "certifications": [
+     "SecNumCloud"
+    ],
+    "produits": []
    }
   ]
  },
@@ -532,6 +599,26 @@
     "commentaire": "Assureur français coté, n°1 mondial de l'assurance dommages.",
     "sources": [
      161
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-assurance-et-epargne-bpce",
+    "groupe": "BPCE (Banque Populaire, Caisse d'Épargne)",
+    "marques": [
+     "Banque Populaire",
+     "Caisse d'Épargne",
+     "Natixis"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "2e groupe bancaire français (Paris) : réseaux Banque Populaire et Caisse d'Épargne, et Natixis (gestion d'actifs, assurance, paiements) [251].",
+    "sources": [
+     251
     ],
     "lieux_production": [],
     "certifications": [],
@@ -697,6 +784,52 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-ihg",
+    "groupe": "IHG Hotels & Resorts",
+    "marques": [
+     "IHG",
+     "Holiday Inn",
+     "ibis",
+     "Novotel",
+     "Crowne Plaza",
+     "Hotel Indigo"
+    ],
+    "siege": "Royaume-Uni (Denham, Buckinghamshire)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Groupe hôtelier britannique (Denham, UK) : Holiday Inn, ibis, Novotel, Crowne Plaza, Hotel Indigo [252].",
+    "sources": [
+     252
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-et-hebergement-marriott",
+    "groupe": "Marriott International",
+    "marques": [
+     "Marriott",
+     "Sheraton",
+     "Westin",
+     "Courtyard",
+     "Moxy",
+     "Ritz-Carlton"
+    ],
+    "siege": "États-Unis (Bethesda, Maryland)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Groupe hôtelier américain (Bethesda, Maryland), n°1 mondial en nombre de chambres (Marriott, Sheraton, Westin, Ritz-Carlton) [253]. Hors de vos zones.",
+    "sources": [
+     253
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -820,6 +953,41 @@
       "origine_pieces": null,
       "certifications": [],
       "note": "Production déplacée hors d'Allemagne mais reste en Europe [204]."
+     }
+    ]
+   },
+   {
+    "id": "jouets-et-jeux-video-hasbro",
+    "groupe": "Hasbro",
+    "marques": [
+     "Hasbro",
+     "Nerf",
+     "Monopoly",
+     "Play-Doh",
+     "Transformers"
+    ],
+    "siege": "États-Unis (Pawtucket, Rhode Island)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Fabricant américain de jouets (Pawtucket, Rhode Island) : Nerf, Monopoly, Play-Doh, Transformers, Magic: l'Assemblée [254]. Hors de vos zones.",
+    "sources": [
+     254
+    ],
+    "lieux_production": [
+     "Chine",
+     "États-Unis",
+     "Mexique"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "jouets-et-jeux-video-hasbro-monopoly",
+      "nom": "Monopoly (jeu de société)",
+      "assemblage": "États-Unis",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Jeu de société édité par Hasbro."
      }
     ]
    }
@@ -1117,6 +1285,26 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "medias-streaming-et-culture-youtube",
+    "groupe": "YouTube (Google)",
+    "marques": [
+     "YouTube",
+     "YouTube Music",
+     "YouTube Premium"
+    ],
+    "siege": "États-Unis (San Bruno, Californie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Plateforme vidéo américaine (San Bruno, Californie), filiale de Google/Alphabet [255]. Hors de vos zones.",
+    "sources": [
+     255
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -1367,6 +1555,57 @@
      "Royaume-Uni (Londres)",
      "France (Paris)"
     ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-et-livraison-quick",
+    "groupe": "Quick (Groupe Bertrand)",
+    "marques": [
+     "Quick"
+    ],
+    "siege": "France (Mérignac)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne de restauration rapide française du groupe Bertrand (Mérignac), n°2 du burger en France derrière McDonald's [256].",
+    "sources": [
+     256
+    ],
+    "lieux_production": [
+     "France",
+     "Belgique",
+     "Luxembourg",
+     "Suisse",
+     "Maroc"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-quick-giant",
+      "nom": "Burger « Giant »",
+      "assemblage": "France",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Produit phare de l'enseigne, préparé en France."
+     }
+    ]
+   },
+   {
+    "id": "restauration-et-livraison-too-good-to-go",
+    "groupe": "Too Good To Go",
+    "marques": [
+     "Too Good To Go"
+    ],
+    "siege": "Danemark (Copenhague)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Livraison de repas et anti-gaspillage",
+    "commentaire": "Application danoise (Copenhague, 2015) de lutte contre le gaspillage alimentaire : paniers surprise dans les commerces et restaurants [257].",
+    "sources": [
+     257
+    ],
+    "lieux_production": [],
     "certifications": [],
     "produits": []
    }
@@ -2070,6 +2309,76 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "alimentation-et-boissons-heineken",
+    "groupe": "Heineken",
+    "marques": [
+     "Heineken",
+     "Amstel",
+     "Desperados"
+    ],
+    "siege": "Pays-Bas (Amsterdam)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Boissons",
+    "commentaire": "Brasseur néerlandais (Amsterdam) : Heineken, Amstel, Desperados ; brasseries en France (Marseille, Mons-en-Barœul) [245].",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "Pays-Bas",
+     "France (Marseille, Mons-en-Barœul)",
+     "Mexique",
+     "Vietnam",
+     "Brésil",
+     "Nigeria"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "alimentation-et-boissons-heineken-33cl",
+      "nom": "Heineken (bouteille 33 cl)",
+      "assemblage": "France (Marseille, Mons-en-Barœul)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Bière blonde brassée en France."
+     }
+    ]
+   },
+   {
+    "id": "alimentation-et-boissons-carlsberg",
+    "groupe": "Carlsberg",
+    "marques": [
+     "Carlsberg",
+     "Tuborg",
+     "Kronenbourg 1664"
+    ],
+    "siege": "Danemark (Copenhague)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Boissons",
+    "commentaire": "Brasseur danois (Copenhague) : Carlsberg, Tuborg ; Kronenbourg 1664 brassée à Strasbourg [246].",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "Danemark",
+     "France (Strasbourg)",
+     "Chine",
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "alimentation-et-boissons-carlsberg-kronenbourg",
+      "nom": "Kronenbourg 1664",
+      "assemblage": "France (Strasbourg)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Bière blonde brassée en Alsace."
+     }
+    ]
    }
   ]
  },
@@ -2222,6 +2531,33 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "hygiene-sante-johnson-johnson",
+    "groupe": "Johnson & Johnson",
+    "marques": [
+     "Johnson & Johnson",
+     "Band-Aid",
+     "Neutrogena",
+     "Listerine"
+    ],
+    "siege": "États-Unis (New Brunswick, New Jersey)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Santé grand public",
+    "commentaire": "Groupe américain de santé grand public (New Brunswick, NJ) : pansements Band-Aid, soins Neutrogena, bains de bouche Listerine [247]. Hors de vos zones.",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Inde",
+     "Chine",
+     "Thaïlande",
+     "Brésil"
+    ],
+    "certifications": [],
+    "produits": []
    }
   ]
  },
@@ -2315,6 +2651,85 @@
     ],
     "certifications": [],
     "produits": []
+   },
+   {
+    "id": "pneumatiques-bridgestone",
+    "groupe": "Bridgestone",
+    "marques": [
+     "Bridgestone",
+     "Firestone",
+     "Lassa"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Manufacturiers japonais et sud-coréens",
+    "commentaire": "Manufacturier japonais n°2 mondial du pneu (Bridgestone, Firestone, Lassa) [236].",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Japon",
+     "Chine",
+     "Thaïlande",
+     "Pologne",
+     "Mexique",
+     "États-Unis"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "pneumatiques-bridgestone-turanza",
+      "nom": "Turanza (pneu été)",
+      "assemblage": "Pologne (Poznań) pour l'Europe",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Gamme routière produite en Pologne pour le marché européen."
+     },
+     {
+      "id": "pneumatiques-bridgestone-blizzak",
+      "nom": "Blizzak (pneu hiver)",
+      "assemblage": "Japon",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Gamme hiver, produite notamment au Japon."
+     }
+    ]
+   },
+   {
+    "id": "pneumatiques-goodyear",
+    "groupe": "Goodyear",
+    "marques": [
+     "Goodyear",
+     "Dunlop"
+    ],
+    "siege": "États-Unis (Akron, Ohio)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Manufacturier américain (Akron, Ohio), n°2 mondial du pneu ; détient la marque Dunlop [237]. Hors de vos zones.",
+    "sources": [
+     237
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Chine",
+     "Brésil",
+     "Mexique",
+     "Thaïlande",
+     "France (Montluçon)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "pneumatiques-goodyear-efficientgrip",
+      "nom": "EfficientGrip Performance 2 (pneu été)",
+      "assemblage": "France (Montluçon, Allier)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Usine française du groupe à Montluçon."
+     }
+    ]
    }
   ]
  },
@@ -2359,6 +2774,288 @@
       "origine_pieces": null,
       "certifications": [],
       "note": "Produit phare [185]."
+     }
+    ]
+   },
+   {
+    "id": "informatique-et-telephonie-google-pixel",
+    "groupe": "Google (Pixel, Chromebook)",
+    "marques": [
+     "Google Pixel",
+     "Chromebook"
+    ],
+    "siege": "États-Unis (Mountain View, Californie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Groupe américain ; smartphones Pixel assemblés au Vietnam et en Inde, Chromebook [239]. Hors de vos zones. (Google moteur de recherche / Android : voir secteur Logiciels.)",
+    "sources": [
+     239
+    ],
+    "lieux_production": [
+     "Vietnam",
+     "Inde",
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-et-telephonie-google-pixel-9",
+      "nom": "Pixel 9",
+      "assemblage": "Vietnam",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Smartphone haut de gamme assemblé au Vietnam."
+     }
+    ]
+   },
+   {
+    "id": "informatique-et-telephonie-xiaomi",
+    "groupe": "Xiaomi",
+    "marques": [
+     "Xiaomi",
+     "Redmi",
+     "POCO"
+    ],
+    "siege": "Chine (Pékin)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Fabricant chinois (Pékin, fondé en 2010) : smartphones Xiaomi/Redmi/POCO, montres et objets connectés [240]. À écarter (contrôle chinois).",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "Chine",
+     "Inde",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-et-telephonie-xiaomi-redmi-note",
+      "nom": "Redmi Note 13",
+      "assemblage": "Inde",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Smartphone d'entrée/milieu de gamme assemblé en Inde."
+     }
+    ]
+   },
+   {
+    "id": "informatique-et-telephonie-huawei",
+    "groupe": "Huawei",
+    "marques": [
+     "Huawei"
+    ],
+    "siege": "Chine (Shenzhen)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Groupe chinois de Shenzhen : smartphones Mate/P, ordinateurs, équipements télécoms [241]. À écarter (contrôle chinois).",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-et-telephonie-huawei-mate-60",
+      "nom": "Mate 60 Pro",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Smartphone haut de gamme produit en Chine."
+     }
+    ]
+   },
+   {
+    "id": "informatique-et-telephonie-dell",
+    "groupe": "Dell",
+    "marques": [
+     "Dell",
+     "Alienware"
+    ],
+    "siege": "États-Unis (Round Rock, Texas)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant américain d'ordinateurs (Round Rock, Texas) : gammes XPS, Latitude, Precision et Alienware (gaming) [242]. Hors de vos zones.",
+    "sources": [
+     242
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Chine",
+     "Malaisie",
+     "Brésil",
+     "Irlande"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-et-telephonie-dell-xps-15",
+      "nom": "XPS 15",
+      "assemblage": "Malaisie",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "PC portable haut de gamme assemblé en Malaisie."
+     }
+    ]
+   },
+   {
+    "id": "informatique-et-telephonie-hp",
+    "groupe": "HP (Hewlett-Packard)",
+    "marques": [
+     "HP",
+     "OMEN",
+     "Poly"
+    ],
+    "siege": "États-Unis (Palo Alto, Californie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant américain (Palo Alto, Californie) : PC portables Spectre/Envy/Pavilion, PC OMEN, imprimantes [243]. Hors de vos zones.",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Chine",
+     "Vietnam",
+     "Singapour",
+     "Mexique"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-et-telephonie-hp-spectre-x360",
+      "nom": "Spectre x360",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "PC portable convertible 2-en-1 assemblé en Chine."
+     }
+    ]
+   },
+   {
+    "id": "informatique-et-telephonie-asus",
+    "groupe": "Asus",
+    "marques": [
+     "Asus",
+     "ROG"
+    ],
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant taïwanais (Taipei) : PC portables Zenbook/Vivobook, gamme gaming ROG, cartes mères et cartes graphiques [244].",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Taïwan",
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "informatique-et-telephonie-asus-zenbook-14",
+      "nom": "Zenbook 14",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Ultraportable assemblé en Chine."
+     }
+    ]
+   }
+  ]
+ },
+ "02": {
+  "groupes": [
+   {
+    "id": "motos-et-scooters-honda",
+    "groupe": "Honda Motor",
+    "marques": [
+     "Honda"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
+    "commentaire": "Constructeur japonais, n°1 mondial des motos (Gold Wing, Africa Twin, CB) et fabricant de scooters [258].",
+    "sources": [
+     258
+    ],
+    "lieux_production": [
+     "Japon",
+     "Inde",
+     "Vietnam",
+     "Thaïlande",
+     "Brésil"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "motos-et-scooters-honda-gold-wing",
+      "nom": "Gold Wing",
+      "assemblage": "Japon (Kumamoto)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Moto GT haut de gamme produite au Japon."
+     }
+    ]
+   }
+  ]
+ },
+ "04": {
+  "groupes": [
+   {
+    "id": "electromenager-whirlpool",
+    "groupe": "Whirlpool",
+    "marques": [
+     "Whirlpool",
+     "KitchenAid",
+     "Maytag",
+     "Indesit",
+     "Hotpoint"
+    ],
+    "siege": "États-Unis (Benton Harbor, Michigan)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Gros électroménager",
+    "commentaire": "Fabricant américain n°1 mondial de l'électroménager (Whirlpool, KitchenAid, Maytag, Indesit, Hotpoint) [238]. Hors de vos zones.",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Mexique",
+     "Brésil",
+     "Pologne",
+     "Italie",
+     "Chine",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "electromenager-whirlpool-lave-linge",
+      "nom": "Lave-linge frontal Whirlpool",
+      "assemblage": "Pologne",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Gamme produite en Europe notamment en Pologne."
+     },
+     {
+      "id": "electromenager-whirlpool-refrigerateur",
+      "nom": "Réfrigérateur américain",
+      "assemblage": "États-Unis / Mexique",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Gamme réfrigérateurs produite en Amérique du Nord."
      }
     ]
    }
