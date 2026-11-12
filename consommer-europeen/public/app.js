@@ -110,6 +110,7 @@ function esc(text) {
 
 function show(view) {
   state.view = view;
+  document.body.classList.toggle('hero-compact', view !== 'home');
   el.home.classList.toggle('hidden', view !== 'home');
   el.results.classList.toggle('hidden', view === 'home' || view === 'catalogue');
   el.catalogue.classList.toggle('hidden', view !== 'catalogue');
