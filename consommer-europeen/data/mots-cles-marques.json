@@ -347,28 +347,40 @@
   "expédition"
  ],
  "voyage-et-plein-air-lvmh": [
-  "valise",
   "bagage",
-  "voyage",
-  "rimowa"
+  "bagage cabine",
+  "cabine",
+  "rimowa",
+  "trolley",
+  "valise",
+  "voyage"
  ],
  "voyage-et-plein-air-longchamp": [
-  "sac",
-  "valise",
   "bagage",
+  "bagage cabine",
+  "cabine",
+  "cuir",
   "pliage",
-  "cuir"
+  "sac",
+  "trolley",
+  "valise"
  ],
  "voyage-et-plein-air-victorinox": [
-  "valise",
-  "sac",
   "bagage",
+  "bagage cabine",
+  "cabine",
   "couteau suisse",
-  "multi-outil"
+  "multi-outil",
+  "sac",
+  "trolley",
+  "valise"
  ],
  "voyage-et-plein-air-delsey": [
-  "valise",
   "bagage",
+  "bagage cabine",
+  "cabine",
+  "trolley",
+  "valise",
   "voyage"
  ],
  "voyage-et-plein-air-fenix-outdoor": [
@@ -405,9 +417,12 @@
   "chausson"
  ],
  "voyage-et-plein-air-schwan-stabilo": [
-  "sac à dos",
-  "randonnée",
+  "bagage cabine",
+  "cabine",
   "deuter",
+  "randonnée",
+  "sac à dos",
+  "trolley",
   "valise"
  ],
  "voyage-et-plein-air-vaude": [
@@ -434,15 +449,18 @@
   "lafuma"
  ],
  "voyage-et-plein-air-decathlon": [
-  "tente",
-  "sac de couchage",
-  "randonnée",
-  "valise",
+  "bagage cabine",
+  "cabine",
   "camping",
+  "forclaz",
   "popote",
-  "réchaud",
   "quechua",
-  "forclaz"
+  "randonnée",
+  "réchaud",
+  "sac de couchage",
+  "tente",
+  "trolley",
+  "valise"
  ],
  "voyage-et-plein-air-mammut": [
   "randonnée",
@@ -460,10 +478,13 @@
   "helly hansen"
  ],
  "voyage-et-plein-air-helen-of-troy": [
-  "sac à dos",
+  "bagage cabine",
+  "cabine",
+  "osprey",
   "randonnée",
-  "valise",
-  "osprey"
+  "sac à dos",
+  "trolley",
+  "valise"
  ],
  "voyage-et-plein-air-deckers": [
   "chaussure",
@@ -895,5 +916,1923 @@
   "smartwatch",
   "pixel watch",
   "suivi activité"
+ ],
+ "automobile-renault-group": [
+  "alpine",
+  "captur",
+  "citadine",
+  "clio",
+  "dacia",
+  "kangoo",
+  "mégane",
+  "suv",
+  "utilitaire",
+  "voiture",
+  "zoe",
+  "électrique"
+ ],
+ "automobile-stellantis": [
+  "2008",
+  "3008",
+  "c3",
+  "c4",
+  "citadine",
+  "citroën",
+  "ds",
+  "opel",
+  "peugeot",
+  "suv",
+  "voiture"
+ ],
+ "automobile-volkswagen-group": [
+  "audi",
+  "golf",
+  "id",
+  "passat",
+  "polo",
+  "seat",
+  "suv",
+  "tiguan",
+  "voiture",
+  "électrique",
+  "škoda"
+ ],
+ "automobile-bmw-group": [
+  "berline",
+  "bmw",
+  "i4",
+  "mini",
+  "suv",
+  "série 3",
+  "voiture",
+  "x5",
+  "électrique"
+ ],
+ "automobile-mercedes-benz-group": [
+  "amg",
+  "berline",
+  "classe a",
+  "classe c",
+  "eq",
+  "gle",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-nissan": [
+  "juke",
+  "leaf",
+  "micra",
+  "qashqai",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-mazda": [
+  "cx-5",
+  "hybride",
+  "mazda 3",
+  "voiture"
+ ],
+ "automobile-suzuki": [
+  "hybride",
+  "pas cher",
+  "s-cross",
+  "swift",
+  "vitara",
+  "voiture"
+ ],
+ "automobile-subaru": [
+  "4x4",
+  "forester",
+  "outback",
+  "suv",
+  "voiture"
+ ],
+ "automobile-hyundai-motor-group": [
+  "hyundai",
+  "ioniq",
+  "kia",
+  "sportage",
+  "suv",
+  "tucson",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-volvo-cars": [
+  "ex30",
+  "hybride rechargeable",
+  "suv",
+  "sécurité",
+  "voiture",
+  "xc40",
+  "xc60",
+  "xc90",
+  "électrique"
+ ],
+ "automobile-mg": [
+  "mg4",
+  "pas cher",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-toyota": [
+  "corolla",
+  "hybride",
+  "lexus",
+  "rav4",
+  "ravage",
+  "voiture",
+  "yaris"
+ ],
+ "automobile-honda": [
+  "civic",
+  "cr-v",
+  "hr-v",
+  "hybride",
+  "jazz",
+  "voiture"
+ ],
+ "automobile-ford": [
+  "explorer",
+  "kuga",
+  "mustang",
+  "puma",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-gm": [
+  "cadillac",
+  "chevrolet",
+  "suv",
+  "voiture"
+ ],
+ "automobile-byd": [
+  "atto",
+  "dolphin",
+  "seal",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-tesla": [
+  "model 3",
+  "model s",
+  "model x",
+  "model y",
+  "voiture",
+  "électrique"
+ ],
+ "motos-et-scooters-piaggio-group": [
+  "aprilia",
+  "moto",
+  "moto guzzi",
+  "scooter",
+  "vespa"
+ ],
+ "motos-et-scooters-bmw-motorrad": [
+  "bmw motorrad",
+  "gs",
+  "moto",
+  "scooter"
+ ],
+ "motos-et-scooters-triumph": [
+  "moto",
+  "roadster",
+  "triumph"
+ ],
+ "motos-et-scooters-ducati": [
+  "ducati",
+  "moto",
+  "sportive"
+ ],
+ "motos-et-scooters-peugeot-motocycles": [
+  "moto légère",
+  "peugeot",
+  "scooter"
+ ],
+ "motos-et-scooters-pierer-mobility-ktm-gasgas-husqvarna": [
+  "cross",
+  "enduro",
+  "husqvarna",
+  "ktm",
+  "moto"
+ ],
+ "motos-et-scooters-royal-enfield": [
+  "classique",
+  "interceptor",
+  "moto",
+  "royal enfield"
+ ],
+ "motos-et-scooters-harley-davidson": [
+  "custom",
+  "harley",
+  "moto",
+  "roadster"
+ ],
+ "motos-et-scooters-yamaha": [
+  "moto",
+  "mt",
+  "scooter",
+  "tmax",
+  "xmax",
+  "yamaha"
+ ],
+ "motos-et-scooters-kawasaki": [
+  "kawasaki",
+  "moto",
+  "ninja",
+  "versys",
+  "z"
+ ],
+ "motos-et-scooters-suzuki": [
+  "burgman",
+  "gsx",
+  "moto",
+  "scooter",
+  "suzuki"
+ ],
+ "motos-et-scooters-segway-ninebot": [
+  "ninebot",
+  "scooter électrique",
+  "segway",
+  "trottinette électrique"
+ ],
+ "motos-et-scooters-niu": [
+  "batterie",
+  "niu",
+  "scooter électrique"
+ ],
+ "motos-et-scooters-yadea": [
+  "scooter électrique",
+  "yadea"
+ ],
+ "motos-et-scooters-brp": [
+  "can-am",
+  "jet ski",
+  "motoneige",
+  "quad",
+  "sea-doo",
+  "spider"
+ ],
+ "pneumatiques-continental": [
+  "continental",
+  "pneu",
+  "pneu hiver",
+  "pneu été",
+  "pneumatique"
+ ],
+ "pneumatiques-michelin": [
+  "crossclimate",
+  "michelin",
+  "pilot",
+  "pneu",
+  "pneu hiver",
+  "pneumatique"
+ ],
+ "pneumatiques-pirelli": [
+  "p zero",
+  "pirelli",
+  "pneu",
+  "pneumatique",
+  "sport"
+ ],
+ "pneumatiques-nokian-tyres": [
+  "nokian",
+  "nordique",
+  "pneu",
+  "pneu hiver",
+  "pneumatique"
+ ],
+ "pneumatiques-yokohama": [
+  "pneu",
+  "pneumatique",
+  "yokohama"
+ ],
+ "pneumatiques-toyo-tires": [
+  "pneu",
+  "pneumatique",
+  "toyo"
+ ],
+ "pneumatiques-hankook": [
+  "hankook",
+  "pneu",
+  "pneumatique",
+  "ventus"
+ ],
+ "pneumatiques-nexen-tire": [
+  "nexen",
+  "pneu",
+  "pneumatique"
+ ],
+ "pneumatiques-kumho-tire": [
+  "kumho",
+  "pneu",
+  "pneumatique"
+ ],
+ "pneumatiques-maxxis-cheng-shin": [
+  "4x4",
+  "maxxis",
+  "pneu",
+  "pneumatique",
+  "vtc"
+ ],
+ "electromenager-bsh-groupe-bosch": [
+  "aspirateur",
+  "bosch",
+  "congélateur",
+  "four",
+  "hotte",
+  "lave-linge",
+  "lave-vaisselle",
+  "plaque induction",
+  "réfrigérateur",
+  "siemens"
+ ],
+ "electromenager-miele": [
+  "four",
+  "garantie",
+  "haut de gamme",
+  "lave-linge",
+  "lave-vaisselle",
+  "luxe",
+  "réfrigérateur"
+ ],
+ "electromenager-liebherr": [
+  "cave à vin",
+  "congélateur",
+  "frigo",
+  "réfrigérateur"
+ ],
+ "electromenager-electrolux": [
+  "aeg",
+  "electrolux",
+  "four",
+  "lave-linge",
+  "lave-vaisselle",
+  "réfrigérateur",
+  "zanussi"
+ ],
+ "electromenager-smeg": [
+  "cuisinière",
+  "design",
+  "four",
+  "lave-vaisselle",
+  "petit électroménager",
+  "réfrigérateur",
+  "rétro"
+ ],
+ "electromenager-amica": [
+  "cuisinière",
+  "four",
+  "lave-linge",
+  "pas cher",
+  "réfrigérateur"
+ ],
+ "electromenager-lg-electronics": [
+  "direct drive",
+  "lave-linge",
+  "lave-vaisselle",
+  "lg",
+  "réfrigérateur",
+  "tv"
+ ],
+ "electromenager-cafom": [
+  "brandt",
+  "de dietrich",
+  "four",
+  "lave-linge",
+  "lave-vaisselle",
+  "sauter"
+ ],
+ "electromenager-beko-europe-arcelik": [
+  "beko",
+  "four",
+  "hotpoint",
+  "indesit",
+  "lave-linge",
+  "lave-vaisselle",
+  "pas cher",
+  "réfrigérateur"
+ ],
+ "electromenager-haier": [
+  "candy",
+  "hoover",
+  "lave-linge",
+  "réfrigérateur"
+ ],
+ "electromenager-hisense": [
+  "gorenje",
+  "hisense",
+  "lave-linge",
+  "pas cher",
+  "réfrigérateur",
+  "tv"
+ ],
+ "electromenager-groupe-seb": [
+  "aspirateur",
+  "blender",
+  "bouilloire",
+  "cafetière",
+  "casserole",
+  "fer à repasser",
+  "grill",
+  "krups",
+  "moulinex",
+  "poêle",
+  "robot cuisine",
+  "rowenta",
+  "tefal"
+ ],
+ "electromenager-de-longhi": [
+  "broyeur",
+  "de'longhi",
+  "expresso",
+  "kenwood",
+  "machine à café",
+  "petit électroménager",
+  "robot cuisine"
+ ],
+ "electromenager-panasonic": [
+  "lave-linge",
+  "micro-ondes",
+  "panasonic",
+  "rasoir",
+  "réfrigérateur"
+ ],
+ "televiseurs-lg-electronics": [
+  "4k",
+  "lg",
+  "oled",
+  "smart tv",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-sony": [
+  "4k",
+  "bravia",
+  "oled",
+  "sony",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-panasonic": [
+  "4k",
+  "oled",
+  "panasonic",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-tp-vision-tpv-technology": [
+  "4k",
+  "ambilight",
+  "philips",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-samsung": [
+  "4k",
+  "neo qled",
+  "oled",
+  "qled",
+  "samsung",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-loewe": [
+  "loewe",
+  "luxe",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-grundig": [
+  "grundig",
+  "pas cher",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-tcl": [
+  "4k",
+  "pas cher",
+  "roku",
+  "tcl",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-hisense": [
+  "4k",
+  "hisense",
+  "laser tv",
+  "pas cher",
+  "toshiba",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-thomson-streamview": [
+  "pas cher",
+  "thomson",
+  "tv",
+  "téléviseur"
+ ],
+ "informatique-telephonie-apple": [
+  "airpods",
+  "apple watch",
+  "ipad",
+  "iphone",
+  "mac",
+  "macbook",
+  "montre connectée",
+  "ordinateur",
+  "smartphone",
+  "tablette"
+ ],
+ "informatique-et-telephonie-fairphone": [
+  "durable",
+  "fairphone",
+  "réparable",
+  "smartphone",
+  "éthique"
+ ],
+ "informatique-et-telephonie-samsung": [
+  "buds",
+  "galaxy",
+  "galaxy book",
+  "montre connectée",
+  "smartphone",
+  "tablette",
+  "téléphone"
+ ],
+ "informatique-et-telephonie-sony": [
+  "smartphone",
+  "téléphone",
+  "xperia"
+ ],
+ "informatique-et-telephonie-acer": [
+  "acer",
+  "ordinateur portable",
+  "pas cher",
+  "pc",
+  "predator"
+ ],
+ "informatique-et-telephonie-msi": [
+  "gaming",
+  "msi",
+  "ordinateur portable",
+  "pc gamer"
+ ],
+ "informatique-et-telephonie-gigabyte": [
+  "aorus",
+  "carte graphique",
+  "gigabyte",
+  "pc gamer"
+ ],
+ "informatique-et-telephonie-lenovo": [
+  "lenovo",
+  "ordinateur portable",
+  "pc",
+  "thinkpad",
+  "yoga"
+ ],
+ "informatique-et-telephonie-lg-electronics": [
+  "lg gram",
+  "ordinateur portable",
+  "pc"
+ ],
+ "informatique-et-telephonie-fujitsu-client-computing": [
+  "fujitsu",
+  "lifebook",
+  "ordinateur portable",
+  "pc"
+ ],
+ "informatique-et-telephonie-kobo": [
+  "e-reader",
+  "kobo",
+  "liseuse"
+ ],
+ "informatique-et-telephonie-amazon": [
+  "alexa",
+  "e-reader",
+  "echo",
+  "kindle",
+  "liseuse"
+ ],
+ "informatique-et-telephonie-onyx-international": [
+  "boox",
+  "e-reader",
+  "liseuse"
+ ],
+ "informatique-et-telephonie-sennheiser-sonova": [
+  "appareil auditif",
+  "casque audio",
+  "sennheiser",
+  "écouteurs"
+ ],
+ "informatique-et-telephonie-gn-store-nord": [
+  "casque audio",
+  "jabra",
+  "visioconférence",
+  "écouteurs"
+ ],
+ "informatique-et-telephonie-bang-olufsen": [
+  "bang olufsen",
+  "beoplay",
+  "casque audio",
+  "enceinte",
+  "luxe"
+ ],
+ "informatique-et-telephonie-devialet": [
+  "devialet",
+  "enceinte",
+  "hi-fi",
+  "luxe",
+  "phantom"
+ ],
+ "informatique-et-telephonie-marshall-group": [
+  "ampli",
+  "enceinte",
+  "guitare",
+  "marshall"
+ ],
+ "informatique-et-telephonie-sony-audio-photo": [
+  "appareil photo",
+  "casque audio",
+  "hybride",
+  "objectif",
+  "sony alpha",
+  "wh-1000x"
+ ],
+ "informatique-et-telephonie-harman-samsung": [
+  "akg",
+  "casque audio",
+  "enceinte",
+  "harman kardon",
+  "jbl"
+ ],
+ "informatique-et-telephonie-audio-technica": [
+  "ath",
+  "audio-technica",
+  "casque audio",
+  "tourne-disque"
+ ],
+ "informatique-et-telephonie-canon": [
+  "appareil photo",
+  "eos",
+  "imprimante",
+  "objectif",
+  "reflex"
+ ],
+ "informatique-et-telephonie-nikon": [
+  "appareil photo",
+  "imprimante",
+  "objectif",
+  "reflex",
+  "z"
+ ],
+ "informatique-et-telephonie-fujifilm": [
+  "appareil photo",
+  "hybride",
+  "instax",
+  "objectif",
+  "x100"
+ ],
+ "informatique-et-telephonie-brother": [
+  "brother",
+  "imprimante",
+  "scanner",
+  "étiqueteuse"
+ ],
+ "informatique-et-telephonie-epson": [
+  "ecotank",
+  "epson",
+  "imprimante",
+  "projecteur",
+  "scanner"
+ ],
+ "informatique-et-telephonie-lexmark": [
+  "imprimante",
+  "laser",
+  "lexmark"
+ ],
+ "informatique-et-telephonie-hasselblad-dji": [
+  "appareil photo",
+  "drone",
+  "hasselblad",
+  "moyen format"
+ ],
+ "informatique-et-telephonie-avm": [
+  "box internet",
+  "fritzbox",
+  "routeur",
+  "wifi"
+ ],
+ "informatique-et-telephonie-tp-link": [
+  "box",
+  "cpl",
+  "routeur",
+  "tp-link",
+  "wifi"
+ ],
+ "logiciels-et-applications-here-technologies": [
+  "carte",
+  "gps",
+  "here wego",
+  "navigation"
+ ],
+ "logiciels-et-applications-tomtom": [
+  "gps",
+  "navigation",
+  "tomtom"
+ ],
+ "logiciels-et-applications-mappy": [
+  "carte",
+  "gps",
+  "mappy",
+  "navigation"
+ ],
+ "logiciels-et-applications-openstreetmap": [
+  "carte",
+  "gps",
+  "openstreetmap",
+  "osm"
+ ],
+ "logiciels-et-applications-threema": [
+  "chiffrée",
+  "messagerie",
+  "suisse",
+  "threema"
+ ],
+ "logiciels-et-applications-olvid": [
+  "chiffrée",
+  "française",
+  "messagerie",
+  "olvid"
+ ],
+ "logiciels-et-applications-tchap-dinum": [
+  "gouvernement",
+  "messagerie",
+  "tchap",
+  "état"
+ ],
+ "logiciels-et-applications-wire": [
+  "messagerie",
+  "visioconférence",
+  "wire"
+ ],
+ "logiciels-et-applications-vivaldi-technologies": [
+  "navigateur",
+  "norvège",
+  "vivaldi"
+ ],
+ "logiciels-et-applications-mullvad": [
+  "mullvad",
+  "navigateur",
+  "suède",
+  "vpn"
+ ],
+ "logiciels-et-applications-mozilla": [
+  "firefox",
+  "fondation",
+  "mozilla",
+  "navigateur"
+ ],
+ "logiciels-et-applications-qwant": [
+  "français",
+  "moteur de recherche",
+  "qwant",
+  "vie privée"
+ ],
+ "logiciels-et-applications-ecosia": [
+  "arbres",
+  "ecosia",
+  "moteur de recherche",
+  "écologique"
+ ],
+ "logiciels-et-applications-proton": [
+  "calendar",
+  "chiffré",
+  "drive",
+  "mail",
+  "proton mail",
+  "suisse"
+ ],
+ "logiciels-et-applications-tuta": [
+  "allemagne",
+  "chiffré",
+  "mail",
+  "tuta"
+ ],
+ "logiciels-et-applications-mailo": [
+  "adolescents",
+  "français",
+  "mail",
+  "mailo"
+ ],
+ "logiciels-et-applications-infomaniak": [
+  "hébergement",
+  "kmeet",
+  "ksuite",
+  "mail",
+  "suisse"
+ ],
+ "logiciels-et-applications-nextcloud": [
+  "auto-hébergé",
+  "cloud",
+  "fichiers",
+  "nextcloud"
+ ],
+ "logiciels-et-applications-the-document-foundation": [
+  "bureautique",
+  "calc",
+  "gratuit",
+  "libreoffice",
+  "writer"
+ ],
+ "logiciels-et-applications-collabora": [
+  "bureautique",
+  "collabora online",
+  "libreoffice en ligne"
+ ],
+ "logiciels-et-applications-8x8": [
+  "jitsi",
+  "meet",
+  "visioconférence"
+ ],
+ "logiciels-et-applications-la-suite-numerique-etat": [
+  "docs",
+  "numérique",
+  "tchap",
+  "visio",
+  "état"
+ ],
+ "alimentation-et-boissons-bel": [
+  "apéritif",
+  "babybel",
+  "boursin",
+  "fromage",
+  "kiri",
+  "vache qui rit"
+ ],
+ "alimentation-et-boissons-bonduelle": [
+  "bonduelle",
+  "conserve",
+  "haricot vert",
+  "légume",
+  "maïs",
+  "surgelé"
+ ],
+ "alimentation-et-boissons-fleury-michon": [
+  "fleury michon",
+  "jambon",
+  "plat préparé",
+  "pâté",
+  "traiteur"
+ ],
+ "alimentation-et-boissons-nestle": [
+  "animaux",
+  "café",
+  "chocolat",
+  "eau",
+  "kitkat",
+  "maggi",
+  "nescafé",
+  "nespresso",
+  "purina",
+  "smarties"
+ ],
+ "alimentation-et-boissons-barilla": [
+  "barilla",
+  "penne",
+  "pâtes",
+  "sauce tomate",
+  "spaghetti"
+ ],
+ "alimentation-et-boissons-unilever": [
+  "hellmann's",
+  "knorr",
+  "marmite",
+  "mayonnaise",
+  "sauce"
+ ],
+ "alimentation-et-boissons-pernod-ricard": [
+  "absolut",
+  "alcool",
+  "apéritif",
+  "jameson",
+  "pastis",
+  "ricard",
+  "vodka",
+  "whisky"
+ ],
+ "alimentation-et-boissons-lvmh-moet-hennessy": [
+  "alcool",
+  "champagne",
+  "cognac",
+  "hennessy",
+  "moët",
+  "veuve clicquot"
+ ],
+ "alimentation-et-boissons-haribo": [
+  "bonbon",
+  "haribo",
+  "ours",
+  "réglisse"
+ ],
+ "alimentation-et-boissons-savencia-valrhona": [
+  "chocolat",
+  "couverture",
+  "pâtisserie",
+  "valrhona"
+ ],
+ "alimentation-et-boissons-andros": [
+  "andros",
+  "bonne maman",
+  "compote",
+  "confiture",
+  "dessert",
+  "yaourt"
+ ],
+ "alimentation-et-boissons-ebro-foods": [
+  "lustucru",
+  "panzani",
+  "pâtes",
+  "riz",
+  "sauce"
+ ],
+ "alimentation-et-boissons-de-cecco": [
+  "de cecco",
+  "italien",
+  "pâtes"
+ ],
+ "alimentation-et-boissons-nissin-foods": [
+  "asiatique",
+  "cup noodles",
+  "nissin",
+  "nouilles",
+  "ramen"
+ ],
+ "alimentation-et-boissons-kikkoman": [
+  "asiatique",
+  "kikkoman",
+  "marinade",
+  "sauce soja"
+ ],
+ "alimentation-et-boissons-diageo": [
+  "alcool",
+  "bière",
+  "guinness",
+  "johnnie walker",
+  "smirnoff",
+  "vodka",
+  "whisky"
+ ],
+ "alimentation-et-boissons-campari-group": [
+  "alcool",
+  "aperol",
+  "apéritif",
+  "campari",
+  "prosecco"
+ ],
+ "alimentation-et-boissons-lavazza": [
+  "café",
+  "expresso",
+  "grains",
+  "lavazza"
+ ],
+ "alimentation-et-boissons-illy": [
+  "café",
+  "expresso",
+  "illy",
+  "italien"
+ ],
+ "alimentation-et-boissons-massimo-zanetti-beverage": [
+  "café",
+  "grains",
+  "segafredo"
+ ],
+ "alimentation-et-boissons-roxane": [
+  "bouteille",
+  "cristaline",
+  "eau",
+  "eau minérale",
+  "source"
+ ],
+ "alimentation-et-boissons-suntory": [
+  "boisson",
+  "eau",
+  "orangina",
+  "ribena",
+  "schweppes",
+  "soda"
+ ],
+ "alimentation-et-boissons-asahi-group": [
+  "alcool",
+  "asahi",
+  "bière",
+  "peroni"
+ ],
+ "alimentation-et-boissons-kirin": [
+  "alcool",
+  "bière",
+  "kirin"
+ ],
+ "alimentation-et-boissons-keurig-dr-pepper-jde-peet-s": [
+  "café",
+  "capsules",
+  "dosettes",
+  "douwe egberts",
+  "jacobs",
+  "kenco",
+  "l'or"
+ ],
+ "alimentation-et-boissons-red-bull": [
+  "boisson énergisante",
+  "energy drink",
+  "red bull"
+ ],
+ "alimentation-boissons-danone": [
+  "actimel",
+  "activia",
+  "danone",
+  "eau",
+  "evian",
+  "fromage blanc",
+  "petit suisse",
+  "yaourt"
+ ],
+ "alimentation-boissons-lactalis": [
+  "beurre",
+  "candia",
+  "crème",
+  "fromage",
+  "galbani",
+  "lait",
+  "parmalat",
+  "président"
+ ],
+ "alimentation-boissons-avril": [
+  "assaisonnement",
+  "avril",
+  "huile",
+  "lesieur",
+  "puget"
+ ],
+ "alimentation-boissons-teresos": [
+  "beghin say",
+  "canne",
+  "daddy",
+  "sucre",
+  "teresos"
+ ],
+ "alimentation-boissons-ldc": [
+  "le gaulois",
+  "louë",
+  "poulet",
+  "père dodu",
+  "volaille",
+  "œuf"
+ ],
+ "alimentation-et-boissons-mccain-foods": [
+  "croquette",
+  "frites",
+  "mccain",
+  "pomme de terre",
+  "surgelé"
+ ],
+ "alimentation-boissons-coca-cola": [
+  "boisson",
+  "coca",
+  "fanta",
+  "jus",
+  "minute maid",
+  "soda",
+  "sprite"
+ ],
+ "alimentation-boissons-pepsico": [
+  "7up",
+  "boisson",
+  "chips",
+  "jus",
+  "lay's",
+  "pepsi",
+  "soda",
+  "tropicana"
+ ],
+ "hygiene-sante-sanofi": [
+  "doliprane",
+  "dupixent",
+  "médicament",
+  "pharmacie",
+  "sanofi",
+  "vaccin"
+ ],
+ "hygiene-sante-upsa": [
+  "dafalgan",
+  "doliprane",
+  "euphytose",
+  "médicament",
+  "ups a"
+ ],
+ "hygiene-beaute-et-sante-servier": [
+  "cardiaque",
+  "médicament",
+  "pharmacie",
+  "servier"
+ ],
+ "hygiene-beaute-et-sante-boiron": [
+  "boiron",
+  "homéopathie",
+  "médicament",
+  "oscillococcinum"
+ ],
+ "hygiene-beaute-et-sante-bayer": [
+  "aspirine",
+  "bayer",
+  "médicament",
+  "pharmacie"
+ ],
+ "hygiene-beaute-et-sante-novartis": [
+  "médicament",
+  "novartis",
+  "pharmacie"
+ ],
+ "hygiene-beaute-et-sante-roche": [
+  "médicament",
+  "oncologie",
+  "pharmacie",
+  "roche"
+ ],
+ "hygiene-beaute-et-sante-novo-nordisk": [
+  "diabète",
+  "insuline",
+  "médicament",
+  "novo nordisk",
+  "ozempic"
+ ],
+ "hygiene-beaute-et-sante-gsk": [
+  "gsk",
+  "médicament",
+  "pharmacie",
+  "vaccin"
+ ],
+ "hygiene-beaute-et-sante-haleon": [
+  "dentifrice",
+  "gel douche",
+  "haleon",
+  "parapharmacie",
+  "sensodyne",
+  "voltarène"
+ ],
+ "hygiene-beaute-et-sante-takeda": [
+  "médicament",
+  "pharmacie",
+  "takeda"
+ ],
+ "hygiene-sante-colgate-palmolive": [
+  "ajax",
+  "brosse à dents",
+  "colgate",
+  "dentifrice",
+  "elmex",
+  "palmolive",
+  "savon"
+ ],
+ "hygiene-sante-procter-gamble": [
+  "always",
+  "ariel",
+  "couche",
+  "dentifrice",
+  "gel douche",
+  "gillette",
+  "lessive",
+  "oral-b",
+  "pampers",
+  "procter",
+  "protection intime",
+  "rasoir",
+  "shampoing"
+ ],
+ "hygiene-beaute-et-sante-l-oreal": [
+  "coloration",
+  "crème",
+  "garnier",
+  "l'oréal",
+  "la roche-posay",
+  "maquillage",
+  "shampoing",
+  "soin visage",
+  "solaire",
+  "vichy"
+ ],
+ "hygiene-beaute-et-sante-pierre-fabre": [
+  "avène",
+  "dermocosmétique",
+  "ducray",
+  "klorane",
+  "shampoing",
+  "soin cheveux"
+ ],
+ "hygiene-beaute-et-sante-clarins": [
+  "clarins",
+  "crème",
+  "luxe",
+  "maquillage",
+  "soin visage"
+ ],
+ "hygiene-beaute-et-sante-groupe-rocher": [
+  "maquillage",
+  "naturel",
+  "petit bateau",
+  "soin",
+  "yves rocher"
+ ],
+ "hygiene-beaute-et-sante-beiersdorf": [
+  "baume à lèvres",
+  "crème",
+  "eucerin",
+  "hydratant",
+  "labello",
+  "nivea"
+ ],
+ "hygiene-beaute-et-sante-henkel": [
+  "coloration",
+  "diadermine",
+  "le chat",
+  "lessive",
+  "mir",
+  "schwarzkopf",
+  "shampoing"
+ ],
+ "hygiene-beaute-et-sante-unilever": [
+  "axe",
+  "dove",
+  "déodorant",
+  "savon",
+  "shampoing",
+  "signal"
+ ],
+ "hygiene-beaute-et-sante-reckitt": [
+  "durex",
+  "finish",
+  "lessive",
+  "nettoyant",
+  "preservatif",
+  "vanish"
+ ],
+ "hygiene-beaute-et-sante-essity": [
+  "demak'up",
+  "nana",
+  "protection intime",
+  "serviette hygiénique",
+  "tena"
+ ],
+ "hygiene-beaute-et-sante-shiseido": [
+  "japon",
+  "luxe",
+  "maquillage",
+  "shiseido",
+  "soin"
+ ],
+ "hygiene-beaute-et-sante-kao": [
+  "bioré",
+  "japon",
+  "kao",
+  "shampoing",
+  "soin peau"
+ ],
+ "hygiene-beaute-et-sante-royal-philips": [
+  "brosse à dents électrique",
+  "oneblade",
+  "philips",
+  "rasoir",
+  "sonicare",
+  "épilateur"
+ ],
+ "distribution-et-paiement-les-mousquetaires": [
+  "courses",
+  "intermarché",
+  "netto",
+  "supermarché"
+ ],
+ "distribution-et-paiement-cooperative-u": [
+  "courses",
+  "hyper u",
+  "super u",
+  "supermarché"
+ ],
+ "distribution-et-paiement-auchan": [
+  "auchan",
+  "courses",
+  "drive",
+  "hypermarché",
+  "supermarché"
+ ],
+ "distribution-et-paiement-schwarz-gruppe": [
+  "courses",
+  "hard discount",
+  "lidl",
+  "pas cher"
+ ],
+ "distribution-et-paiement-aldi": [
+  "aldi",
+  "courses",
+  "hard discount",
+  "pas cher"
+ ],
+ "distribution-et-paiement-boulanger": [
+  "boulanger",
+  "drive",
+  "informatique",
+  "magasin",
+  "électroménager"
+ ],
+ "distribution-et-paiement-adeo": [
+  "bricolage",
+  "jardin",
+  "leroy merlin",
+  "magasin"
+ ],
+ "distribution-et-paiement-ikea": [
+  "ameublement",
+  "cuisine",
+  "décoration",
+  "ikea",
+  "meuble",
+  "pas cher"
+ ],
+ "distribution-et-paiement-zalando": [
+  "chaussure",
+  "mode",
+  "vente en ligne",
+  "vêtement",
+  "zalando"
+ ],
+ "distribution-et-paiement-vinted": [
+  "occasion",
+  "seconde main",
+  "vente entre particuliers",
+  "vinted",
+  "vêtement"
+ ],
+ "distribution-et-paiement-back-market": [
+  "back market",
+  "iphone",
+  "mac",
+  "occasion",
+  "reconditionné",
+  "électronique"
+ ],
+ "distribution-et-paiement-ceconomy": [
+  "high-tech",
+  "magasin",
+  "mediamarkt",
+  "saturn",
+  "électroménager"
+ ],
+ "distribution-paiement-carrefour": [
+  "carburant",
+  "carrefour",
+  "courses",
+  "drive",
+  "hypermarché",
+  "supermarché"
+ ],
+ "distribution-paiement-leclerc": [
+  "carburant",
+  "courses",
+  "drive",
+  "e.leclerc",
+  "prix bas",
+  "supermarché"
+ ],
+ "distribution-paiement-casino": [
+  "casino",
+  "courses",
+  "franprix",
+  "monoprix",
+  "supermarché"
+ ],
+ "distribution-et-paiement-amazon": [
+  "amazon",
+  "livraison",
+  "marketplace",
+  "prime",
+  "vente en ligne"
+ ],
+ "distribution-et-paiement-wero": [
+  "bancaire",
+  "mobile",
+  "paiement",
+  "wero"
+ ],
+ "distribution-et-paiement-cartes-bancaires-cb": [
+  "carte bancaire",
+  "cb",
+  "paiement"
+ ],
+ "distribution-et-paiement-action": [
+  "action",
+  "courses",
+  "hard discount",
+  "non alimentaire",
+  "pas cher"
+ ],
+ "telecoms-numerique-et-energie-bouygues-telecom": [
+  "b&you",
+  "bouygues",
+  "box internet",
+  "forfait mobile",
+  "téléphonie"
+ ],
+ "telecoms-numerique-et-energie-iliad": [
+  "5g",
+  "box internet",
+  "forfait mobile",
+  "free",
+  "free mobile",
+  "pas cher"
+ ],
+ "telecoms-numerique-et-energie-altice-france": [
+  "box internet",
+  "fibre",
+  "red",
+  "sfr",
+  "téléphonie"
+ ],
+ "telecoms-numerique-energie-orange": [
+  "box internet",
+  "fibre",
+  "forfait mobile",
+  "livebox",
+  "orange",
+  "téléphonie"
+ ],
+ "telecoms-numerique-energie-sfr": [
+  "box internet",
+  "fibre",
+  "prixtel",
+  "red",
+  "sfr"
+ ],
+ "telecoms-numerique-energie-totalenergies": [
+  "carburant",
+  "gaz",
+  "station-service",
+  "totalenergies",
+  "électricité"
+ ],
+ "telecoms-numerique-energie-veolia": [
+  "déchets",
+  "eau",
+  "propreté",
+  "veolia",
+  "énergie"
+ ],
+ "telecoms-numerique-energie-suez": [
+  "déchets",
+  "eau",
+  "recyclage",
+  "suez"
+ ],
+ "telecoms-energie-enercoop": [
+  "coopérative",
+  "enercoop",
+  "verte",
+  "électricité"
+ ],
+ "telecoms-numerique-et-energie-edf": [
+  "edf",
+  "fournisseur",
+  "nucleaire",
+  "tarif bleu",
+  "électricité"
+ ],
+ "telecoms-numerique-et-energie-engie": [
+  "engie",
+  "gaz",
+  "électricité",
+  "énergie"
+ ],
+ "telecoms-numerique-et-energie-spotify": [
+  "abonnement",
+  "musique",
+  "spotify",
+  "streaming"
+ ],
+ "telecoms-numerique-et-energie-deezer": [
+  "deezer",
+  "français",
+  "hifi",
+  "musique",
+  "streaming"
+ ],
+ "banque-assurance-epargne-bnp": [
+  "banque",
+  "bnp",
+  "boursorama",
+  "carte",
+  "compte",
+  "crédit",
+  "hello bank",
+  "épargne"
+ ],
+ "banque-assurance-epargne-ca": [
+  "assurance",
+  "banque",
+  "bforbank",
+  "compte",
+  "crédit agricole",
+  "lcl",
+  "épargne"
+ ],
+ "banque-assurance-et-epargne-societe-generale": [
+  "banque",
+  "boursorama",
+  "compte",
+  "crédit",
+  "société générale",
+  "épargne"
+ ],
+ "banque-assurance-et-epargne-credit-mutuel-alliance-federale": [
+  "assurance",
+  "banque",
+  "cic",
+  "compte",
+  "crédit mutuel",
+  "épargne"
+ ],
+ "banque-assurance-et-epargne-la-banque-postale": [
+  "banque",
+  "compte",
+  "la banque postale",
+  "épargne"
+ ],
+ "banque-assurance-et-epargne-axa": [
+  "assurance",
+  "auto",
+  "axa",
+  "habitation",
+  "santé",
+  "vie"
+ ],
+ "banque-assurance-et-epargne-allianz": [
+  "allianz",
+  "assurance",
+  "auto",
+  "habitation",
+  "vie"
+ ],
+ "banque-assurance-et-epargne-generali": [
+  "assurance",
+  "auto",
+  "generali",
+  "habitation"
+ ],
+ "banque-assurance-et-epargne-groupama": [
+  "agricole",
+  "assurance",
+  "auto",
+  "gan",
+  "groupama",
+  "habitation"
+ ],
+ "banque-assurance-et-epargne-maif": [
+  "assurance",
+  "auto",
+  "habitation",
+  "maif",
+  "mutuelle"
+ ],
+ "banque-assurance-et-epargne-macif": [
+  "assurance",
+  "auto",
+  "habitation",
+  "macif"
+ ],
+ "banque-assurance-et-epargne-matmut": [
+  "assurance",
+  "auto",
+  "habitation",
+  "matmut"
+ ],
+ "banque-assurance-et-epargne-covea": [
+  "assurance",
+  "auto",
+  "gmf",
+  "habitation",
+  "maaf",
+  "mma"
+ ],
+ "banque-assurance-et-epargne-revolut": [
+  "banque en ligne",
+  "carte",
+  "crypto",
+  "paiement",
+  "revolut",
+  "voyage"
+ ],
+ "banque-assurance-et-epargne-qonto": [
+  "banque",
+  "carte",
+  "compte pro",
+  "entreprise",
+  "freelance",
+  "qonto"
+ ],
+ "banque-assurance-et-epargne-n26": [
+  "banque en ligne",
+  "carte",
+  "compte",
+  "n26"
+ ],
+ "banque-assurance-et-epargne-trade-republic": [
+  "actions",
+  "bourse",
+  "etf",
+  "trade republic",
+  "trading",
+  "épargne"
+ ],
+ "banque-assurance-et-epargne-flatexdegiro": [
+  "actions",
+  "bourse",
+  "courtier",
+  "degiro",
+  "etf"
+ ],
+ "banque-assurance-et-epargne-alan": [
+  "alan",
+  "entreprise",
+  "mutuelle",
+  "remboursement",
+  "santé"
+ ],
+ "banque-assurance-et-epargne-amundi": [
+  "amundi",
+  "etf",
+  "fonds",
+  "gestion",
+  "lyxor",
+  "épargne"
+ ],
+ "transport-mobilite-sncf": [
+  "billet",
+  "ouigo",
+  "rail",
+  "sncf",
+  "ter",
+  "tgv",
+  "train",
+  "transport"
+ ],
+ "transport-mobilite-blablacar": [
+  "blablacar",
+  "bus",
+  "covoiturage",
+  "trajet",
+  "transport"
+ ],
+ "transport-et-mobilite-air-france-klm": [
+  "air france",
+  "avion",
+  "compagnie aérienne",
+  "klm",
+  "transavia",
+  "vol"
+ ],
+ "transport-et-mobilite-lufthansa-group": [
+  "austrian",
+  "avion",
+  "compagnie aérienne",
+  "lufthansa",
+  "swiss",
+  "vol"
+ ],
+ "transport-et-mobilite-ryanair": [
+  "avion",
+  "low cost",
+  "pas cher",
+  "ryanair",
+  "vol"
+ ],
+ "transport-et-mobilite-easyjet": [
+  "avion",
+  "easyjet",
+  "low cost",
+  "pas cher",
+  "vol"
+ ],
+ "transport-et-mobilite-eurostar": [
+  "eurostar",
+  "londres",
+  "paris",
+  "train",
+  "tunnel"
+ ],
+ "transport-et-mobilite-flix": [
+  "bus",
+  "flixbus",
+  "flixtrain",
+  "pas cher",
+  "train",
+  "transport"
+ ],
+ "transport-et-mobilite-pon-holdings": [
+  "batavus",
+  "cannondale",
+  "gazelle",
+  "vtc",
+  "vélo"
+ ],
+ "transport-et-mobilite-cube-bikes": [
+  "cube",
+  "vtc",
+  "vtt",
+  "vélo",
+  "électrique"
+ ],
+ "transport-et-mobilite-canyon": [
+  "canyon",
+  "gravel",
+  "route",
+  "vtt",
+  "vélo",
+  "électrique"
+ ],
+ "transport-et-mobilite-riese-muller": [
+  "cargo",
+  "longtail",
+  "riese müller",
+  "vélo électrique"
+ ],
+ "transport-et-mobilite-brompton": [
+  "brompton",
+  "urbain",
+  "ville",
+  "vélo pliant"
+ ],
+ "transport-et-mobilite-orbea": [
+  "orbea",
+  "route",
+  "vtt",
+  "vélo"
+ ],
+ "transport-et-mobilite-moustache-bikes": [
+  "moustache",
+  "urbain",
+  "vélo électrique"
+ ],
+ "transport-et-mobilite-giant": [
+  "giant",
+  "liv",
+  "route",
+  "vtt",
+  "vélo"
+ ],
+ "transport-et-mobilite-merida": [
+  "merida",
+  "route",
+  "vtt",
+  "vélo"
+ ],
+ "transport-et-mobilite-shimano": [
+  "dérailleur",
+  "frein",
+  "route",
+  "shimano",
+  "vtt",
+  "vélo"
+ ],
+ "transport-et-mobilite-voi": [
+  "trottinette électrique",
+  "ville",
+  "voi"
+ ],
+ "transport-et-mobilite-dott": [
+  "dott",
+  "trottinette électrique",
+  "ville"
+ ],
+ "hotellerie-et-hebergement-accor": [
+  "accor",
+  "hôtel",
+  "ibis",
+  "mercure",
+  "novotel",
+  "réservation",
+  "sofitel"
+ ],
+ "hotellerie-et-hebergement-louvre-hotels-group": [
+  "campanile",
+  "hôtel",
+  "kyriad",
+  "première classe",
+  "réservation"
+ ],
+ "hotellerie-et-hebergement-radisson-hotel-group": [
+  "hôtel",
+  "radisson",
+  "réservation"
+ ],
+ "hotellerie-et-hebergement-club-med": [
+  "club med",
+  "hôtel",
+  "séjour",
+  "tout compris",
+  "vacances"
+ ],
+ "hotellerie-bb-hotels": [
+  "b&b",
+  "hôtel",
+  "pas cher",
+  "réservation"
+ ],
+ "hotellerie-pierre-vacances-center-parcs": [
+  "center parcs",
+  "pierre & vacances",
+  "résidence",
+  "séjour",
+  "vacances"
+ ],
+ "hotellerie-booking-holdings": [
+  "booking",
+  "kayak",
+  "priceline",
+  "réservation hôtel",
+  "voyage"
+ ],
+ "hotellerie-et-hebergement-trivago": [
+  "comparateur",
+  "hôtel",
+  "réservation",
+  "trivago"
+ ],
+ "medias-streaming-et-culture-arte": [
+  "arte",
+  "culture",
+  "documentaire",
+  "replay",
+  "tv"
+ ],
+ "medias-streaming-et-culture-groupe-tf1": [
+  "replay",
+  "tf1",
+  "tf1+",
+  "tv",
+  "télévision"
+ ],
+ "medias-streaming-et-culture-groupe-m6": [
+  "6play",
+  "m6",
+  "replay",
+  "tv",
+  "télévision"
+ ],
+ "medias-streaming-et-culture-groupe-canal": [
+  "abonnement",
+  "canal+",
+  "cinéma",
+  "mycanal",
+  "sport",
+  "séries",
+  "tv"
+ ],
+ "medias-streaming-et-culture-netflix": [
+  "abonnement",
+  "films",
+  "netflix",
+  "streaming",
+  "séries",
+  "vod"
+ ],
+ "medias-streaming-et-culture-disney": [
+  "abonnement",
+  "disney+",
+  "films",
+  "marvel",
+  "pixar",
+  "streaming",
+  "séries"
+ ],
+ "medias-streaming-culture-spotify": [
+  "abonnement",
+  "musique",
+  "podcast",
+  "spotify",
+  "streaming"
+ ],
+ "medias-streaming-culture-radiofrance": [
+  "france culture",
+  "france inter",
+  "franceinfo",
+  "podcast",
+  "radio"
+ ],
+ "medias-streaming-culture-francetelevisions": [
+  "france 2",
+  "france 3",
+  "france 5",
+  "france.tv",
+  "replay",
+  "tv"
  ]
 }
