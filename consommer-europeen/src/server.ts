@@ -233,13 +233,20 @@ app.get('/api/meta', (_req, res) => {
     methode: grille.methode,
     statuts: grille.statuts,
     preferences: grille.preferences,
-    secteurs: secteurs.map((s) => ({
-      id: s.id,
-      num: s.num,
-      nom: s.nom,
-      keywords: s.keywords ?? [],
-      nbGroupes: s.groupes.length,
-    })),
+    secteurs: [...secteurs]
+      .sort((a, b) => {
+        const ordre = (grille.meta as Record<string, unknown>).ordreCategories as string[] | undefined;
+        const oa = (ordre ?? []).indexOf(a.num);
+        const ob = (ordre ?? []).indexOf(b.num);
+        return (oa === -1 ? 999 : oa) - (ob === -1 ? 999 : ob) || a.num.localeCompare(b.num);
+      })
+      .map((s) => ({
+        id: s.id,
+        num: s.num,
+        nom: s.nom,
+        keywords: s.keywords ?? [],
+        nbGroupes: s.groupes.length,
+      })),
     nbGroupes: secteurs.reduce((a, s) => a + s.groupes.length, 0),
     nbProduits: secteurs.reduce((a, s) => a + s.groupes.reduce((b, g) => b + g.produits.length, 0), 0),
     nbSources: Object.keys(sources).length,

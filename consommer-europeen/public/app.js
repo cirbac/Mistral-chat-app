@@ -264,13 +264,14 @@ async function showSecteur(id) {
   liste.className = 'results';
   let masq = 0;
   for (const g of s.groupes) {
-    if (state.pref !== 'all' && !g.recommande) {
-      masq++;
-      continue;
-    }
     const c = carteGroupe(g);
     c.dataset.sousCat = g.sous_categorie || '';
-    c.dataset.recommande = '1';
+    c.dataset.recommande = g.recommande ? '1' : '0';
+    if (state.pref !== 'all' && !g.recommande) {
+      masq++;
+      c.style.display = 'none';
+      c.classList.add('carte-grisee');
+    }
     cards.push(c);
     liste.appendChild(c);
   }
@@ -279,7 +280,7 @@ async function showSecteur(id) {
   function majTitre(sc) {
     let aff = 0;
     for (const c of cards) {
-      if (!sc || c.dataset.sousCat === sc) aff++;
+      if (c.style.display !== 'none' && (!sc || c.dataset.sousCat === sc)) aff++;
     }
     titreMarques.textContent = `Marques (${aff} affichée${aff > 1 ? 's' : ''}${masq > 0 ? `, ${masq} masquée${masq > 1 ? 's' : ''} par votre préférence` : ''})`;
     let vide = el.results.querySelector('.vide-filtre');
@@ -300,8 +301,9 @@ async function showSecteur(id) {
   function filtrerSousCat(sc, chip) {
     for (const c of cards) {
       const match = !sc || c.dataset.sousCat === sc;
-      c.style.display = match ? '' : 'none';
-      c.classList.toggle('carte-grisee', match && c.dataset.recommande !== '1');
+      const show = match && (sc || c.dataset.recommande === '1' || state.pref === 'all');
+      c.style.display = show ? '' : 'none';
+      c.classList.toggle('carte-grisee', show && c.dataset.recommande !== '1');
     }
     for (const b of el.results.querySelectorAll('.sous-cats .chip')) b.classList.remove('chip-active');
     if (chip) chip.classList.add('chip-active');

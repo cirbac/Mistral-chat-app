@@ -29,7 +29,31 @@
    "anomalies_parse": 10,
    "parser": "tools/parse_docx.py",
    "note": "615 lignes annoncees dans le document ; 526 lignes-groupe propres extraites (le reste est dans les commentaires ou en anomaly), sous-categories taguees, produits extraits des commentaires"
-  }
+  },
+  "ordreCategories": [
+   "01",
+   "10",
+   "09b",
+   "08",
+   "09",
+   "04",
+   "18",
+   "06",
+   "05",
+   "15",
+   "12",
+   "14",
+   "13",
+   "16",
+   "20",
+   "17",
+   "11",
+   "19",
+   "02",
+   "07",
+   "21",
+   "03"
+  ]
  },
  "methode": {
   "criteres": [
