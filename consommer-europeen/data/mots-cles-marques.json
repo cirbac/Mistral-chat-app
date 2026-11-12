@@ -5444,5 +5444,1455 @@
   "invendu",
   "panier surprise",
   "zéro déchet"
+ ],
+ "automobile-mitsubishi": [
+  "auto",
+  "citadine",
+  "mitsubishi",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-rivian": [
+  "auto",
+  "citadine",
+  "rivian",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-lucid": [
+  "auto",
+  "citadine",
+  "lucid air",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-gwm": [
+  "auto",
+  "citadine",
+  "gwm",
+  "ora",
+  "suv",
+  "tank",
+  "voiture",
+  "électrique"
+ ],
+ "automobile-chery": [
+  "auto",
+  "chery",
+  "citadine",
+  "suv",
+  "voiture",
+  "électrique"
+ ],
+ "motos-honda-motor": [
+  "enduro",
+  "honda",
+  "moto",
+  "scooter",
+  "trial"
+ ],
+ "motos-royal-enfield": [
+  "enduro",
+  "moto",
+  "royal enfield",
+  "scooter",
+  "trial"
+ ],
+ "motos-bajaj": [
+  "bajaj",
+  "enduro",
+  "moto",
+  "pulsar",
+  "scooter",
+  "trial"
+ ],
+ "motos-indian": [
+  "enduro",
+  "indian",
+  "moto",
+  "scooter",
+  "trial"
+ ],
+ "motos-swm": [
+  "enduro",
+  "moto",
+  "scooter",
+  "swm",
+  "trial"
+ ],
+ "motos-bultaco": [
+  "bultaco",
+  "enduro",
+  "moto",
+  "scooter",
+  "trial"
+ ],
+ "motos-montesa": [
+  "enduro",
+  "montesa",
+  "moto",
+  "scooter",
+  "trial"
+ ],
+ "pneumatiques-vredestein": [
+  "pneu",
+  "pneumatique",
+  "vredestein"
+ ],
+ "pneumatiques-apollo": [
+  "apollo",
+  "pneu",
+  "pneumatique",
+  "vredestein"
+ ],
+ "pneumatiques-mrf": [
+  "mrf",
+  "pneu",
+  "pneumatique"
+ ],
+ "electromenager-teka": [
+  "balay",
+  "clim",
+  "climatiseur",
+  "constructa",
+  "four",
+  "lave-linge",
+  "réfrigérateur",
+  "teka",
+  "électroménager"
+ ],
+ "electromenager-fagor": [
+  "clim",
+  "climatiseur",
+  "edesa",
+  "fagor",
+  "four",
+  "lave-linge",
+  "réfrigérateur",
+  "électroménager"
+ ],
+ "electromenager-fujitsu": [
+  "clim",
+  "climatiseur",
+  "four",
+  "fujitsu",
+  "lave-linge",
+  "réfrigérateur",
+  "électroménager"
+ ],
+ "electromenager-hitachi": [
+  "clim",
+  "climatiseur",
+  "four",
+  "hitachi",
+  "lave-linge",
+  "réfrigérateur",
+  "électroménager"
+ ],
+ "televiseurs-skyworth": [
+  "oled",
+  "skyworth",
+  "tv",
+  "téléviseur"
+ ],
+ "televiseurs-konka": [
+  "konka",
+  "oled",
+  "tv",
+  "téléviseur"
+ ],
+ "informatique-google-pixel": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "ordinateur",
+  "pc",
+  "pixel",
+  "smartphone",
+  "téléphone"
+ ],
+ "informatique-motorola": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "moto g",
+  "motorola",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone"
+ ],
+ "informatique-nothing": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "nothing phone",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone"
+ ],
+ "informatique-oppo": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "oneplus",
+  "oppo",
+  "ordinateur",
+  "pc",
+  "realme",
+  "smartphone",
+  "téléphone",
+  "vivo"
+ ],
+ "audio-sonos": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "sonos",
+  "téléphone"
+ ],
+ "audio-naim": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "naim",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone"
+ ],
+ "audio-dynaudio": [
+  "appareil photo",
+  "casque audio",
+  "dynaudio",
+  "enceinte",
+  "imprimante",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone"
+ ],
+ "photo-leica": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "leica",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone"
+ ],
+ "photo-omsystem": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "olympus",
+  "om system",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone"
+ ],
+ "imprimante-ricoh": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "kyocera",
+  "ordinateur",
+  "pc",
+  "ricoh",
+  "smartphone",
+  "téléphone"
+ ],
+ "imprimante-xerox": [
+  "appareil photo",
+  "casque audio",
+  "enceinte",
+  "imprimante",
+  "ordinateur",
+  "pc",
+  "smartphone",
+  "téléphone",
+  "xerox"
+ ],
+ "logiciels-atos": [
+  "application",
+  "atos",
+  "cloud",
+  "cybersécurité",
+  "eviden",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme"
+ ],
+ "logiciels-sopra": [
+  "application",
+  "cloud",
+  "cybersécurité",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme",
+  "sopra steria"
+ ],
+ "logiciels-thales": [
+  "application",
+  "cloud",
+  "cybersécurité",
+  "gemalto",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme",
+  "thales"
+ ],
+ "logiciels-stormshield": [
+  "application",
+  "cloud",
+  "cybersécurité",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme",
+  "stormshield"
+ ],
+ "logiciels-wallix": [
+  "application",
+  "cloud",
+  "cybersécurité",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme",
+  "wallix"
+ ],
+ "logiciels-vade": [
+  "application",
+  "cloud",
+  "cybersécurité",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme",
+  "vade"
+ ],
+ "jeux-valve": [
+  "application",
+  "cloud",
+  "cybersécurité",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme",
+  "steam",
+  "valve"
+ ],
+ "jeux-cdprojekt": [
+  "application",
+  "cd projekt",
+  "cloud",
+  "cybersécurité",
+  "gog",
+  "hébergement",
+  "jeu vidéo",
+  "logiciel",
+  "plateforme"
+ ],
+ "alimentation-mars": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "m&m's",
+  "mars",
+  "pedigree",
+  "snickers",
+  "twix",
+  "whiskas"
+ ],
+ "alimentation-ferrero-lot4": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "ferrero",
+  "jus",
+  "kinder",
+  "lait",
+  "nutella",
+  "tic tac"
+ ],
+ "alimentation-arla": [
+  "alimentation",
+  "arla",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait"
+ ],
+ "alimentation-valio": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "valio"
+ ],
+ "alimentation-fazer": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "fazer",
+  "jus",
+  "lait"
+ ],
+ "alimentation-cloetta": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "cloetta",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "läkerol"
+ ],
+ "alimentation-orkla": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "orkla"
+ ],
+ "alimentation-sanpellegrino": [
+  "acqua panna",
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "perrier",
+  "san pellegrino"
+ ],
+ "alimentation-vittel": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "contrex",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "vittel"
+ ],
+ "alimentation-britvic": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "britvic",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "j2o",
+  "jus",
+  "lait",
+  "robinsons",
+  "vimto"
+ ],
+ "cafe-starbucks": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "starbucks"
+ ],
+ "cafe-melitta": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "melitta"
+ ],
+ "cafe-dallmayr": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "dallmayr",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait"
+ ],
+ "cafe-tchibo": [
+  "alimentation",
+  "bière",
+  "boisson",
+  "café",
+  "chocolat",
+  "confiserie",
+  "eau gazeuse",
+  "eau minérale",
+  "jus",
+  "lait",
+  "tchibo"
+ ],
+ "pharma-ipsen": [
+  "ipsen",
+  "médicament",
+  "pharmacie",
+  "vaccin"
+ ],
+ "pharma-boehringer": [
+  "boehringer ingelheim",
+  "médicament",
+  "pharmacie",
+  "vaccin"
+ ],
+ "pharma-merck-kgaa": [
+  "merck",
+  "médicament",
+  "pharmacie",
+  "vaccin"
+ ],
+ "pharma-lundbeck": [
+  "lundbeck",
+  "médicament",
+  "pharmacie",
+  "vaccin"
+ ],
+ "pharma-chiesi": [
+  "chiesi",
+  "médicament",
+  "pharmacie",
+  "vaccin"
+ ],
+ "beaute-occitane": [
+  "beauté",
+  "cosmétique",
+  "l'occitane",
+  "parfum"
+ ],
+ "beaute-guerlain": [
+  "beauté",
+  "cosmétique",
+  "guerlain",
+  "parfum"
+ ],
+ "beaute-diptyque": [
+  "beauté",
+  "cosmétique",
+  "diptyque",
+  "parfum"
+ ],
+ "beaute-byredo": [
+  "beauté",
+  "byredo",
+  "cosmétique",
+  "parfum"
+ ],
+ "beaute-aveda": [
+  "aveda",
+  "beauté",
+  "cosmétique",
+  "parfum"
+ ],
+ "fashion-tapestry": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "coach",
+  "jean",
+  "kate spade",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "fashion-guess": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "guess",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "fashion-kontoor": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "jean",
+  "lee",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement",
+  "wrangler"
+ ],
+ "fashion-brooks": [
+  "baskets",
+  "bottes",
+  "brooks",
+  "chaussure",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "fashion-saucony": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "saucony",
+  "vêtement"
+ ],
+ "fashion-keen": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "jean",
+  "keen",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "fashion-teva": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "teva",
+  "vêtement"
+ ],
+ "fashion-triumph-lingerie": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "triumph",
+  "vêtement"
+ ],
+ "fashion-dim": [
+  "baskets",
+  "bottes",
+  "chaussure",
+  "dim",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "fashion-aubade": [
+  "aubade",
+  "baskets",
+  "bottes",
+  "chaussure",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "fashion-chantelle": [
+  "baskets",
+  "bottes",
+  "chantelle",
+  "chaussure",
+  "jean",
+  "lingerie",
+  "luxe",
+  "mode",
+  "sac",
+  "vêtement"
+ ],
+ "voyage-thule": [
+  "camping",
+  "porte-vélo",
+  "sac à dos",
+  "sacoche vélo",
+  "tente",
+  "thule",
+  "valise",
+  "voyage"
+ ],
+ "voyage-ortlieb": [
+  "camping",
+  "ortlieb",
+  "porte-vélo",
+  "sac à dos",
+  "sacoche vélo",
+  "tente",
+  "valise",
+  "voyage"
+ ],
+ "voyage-basil": [
+  "basil",
+  "camping",
+  "porte-vélo",
+  "sac à dos",
+  "sacoche vélo",
+  "tente",
+  "valise",
+  "voyage"
+ ],
+ "camping-msr": [
+  "camping",
+  "msr",
+  "porte-vélo",
+  "sac à dos",
+  "sacoche vélo",
+  "tente",
+  "valise",
+  "voyage"
+ ],
+ "camping-bigagnes": [
+  "big agnes",
+  "camping",
+  "porte-vélo",
+  "sac à dos",
+  "sacoche vélo",
+  "tente",
+  "valise",
+  "voyage"
+ ],
+ "camping-vango": [
+  "camping",
+  "porte-vélo",
+  "sac à dos",
+  "sacoche vélo",
+  "tente",
+  "valise",
+  "vango",
+  "voyage"
+ ],
+ "distribution-cdiscount": [
+  "carte bancaire",
+  "cdiscount",
+  "marketplace",
+  "occasion",
+  "paiement",
+  "vente en ligne"
+ ],
+ "distribution-priceminister": [
+  "carte bancaire",
+  "marketplace",
+  "occasion",
+  "paiement",
+  "priceminister",
+  "vente en ligne"
+ ],
+ "paiement-klarna": [
+  "carte bancaire",
+  "klarna",
+  "marketplace",
+  "occasion",
+  "paiement",
+  "vente en ligne"
+ ],
+ "paiement-visa": [
+  "carte bancaire",
+  "marketplace",
+  "occasion",
+  "paiement",
+  "vente en ligne",
+  "visa"
+ ],
+ "paiement-mastercard": [
+  "carte bancaire",
+  "marketplace",
+  "mastercard",
+  "occasion",
+  "paiement",
+  "vente en ligne"
+ ],
+ "paiement-paypal": [
+  "carte bancaire",
+  "marketplace",
+  "occasion",
+  "paiement",
+  "paypal",
+  "vente en ligne"
+ ],
+ "telecoms-ericsson": [
+  "box internet",
+  "ericsson",
+  "forfait",
+  "infrastructure",
+  "télécom",
+  "électricité",
+  "énergie"
+ ],
+ "energie-alpiq": [
+  "alpiq",
+  "box internet",
+  "forfait",
+  "infrastructure",
+  "télécom",
+  "électricité",
+  "énergie"
+ ],
+ "energie-planete-oui": [
+  "box internet",
+  "forfait",
+  "infrastructure",
+  "planète oui",
+  "télécom",
+  "électricité",
+  "énergie"
+ ],
+ "energie-mint": [
+  "box internet",
+  "forfait",
+  "infrastructure",
+  "mint énergie",
+  "télécom",
+  "électricité",
+  "énergie"
+ ],
+ "banque-santander": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "réassurance",
+  "santander",
+  "épargne"
+ ],
+ "banque-bbva": [
+  "assurance",
+  "banque",
+  "bbva",
+  "compte",
+  "crypto",
+  "réassurance",
+  "épargne"
+ ],
+ "banque-caixabank": [
+  "assurance",
+  "banque",
+  "caixabank",
+  "compte",
+  "crypto",
+  "réassurance",
+  "épargne"
+ ],
+ "banque-unicredit": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "réassurance",
+  "unicredit",
+  "épargne"
+ ],
+ "banque-kbc": [
+  "assurance",
+  "banque",
+  "cbc",
+  "compte",
+  "crypto",
+  "kbc",
+  "réassurance",
+  "épargne"
+ ],
+ "banque-rabobank": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "rabobank",
+  "réassurance",
+  "épargne"
+ ],
+ "banque-nordea": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "nordea",
+  "réassurance",
+  "épargne"
+ ],
+ "banque-swedbank": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "réassurance",
+  "swedbank",
+  "épargne"
+ ],
+ "assurance-scor": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "réassurance",
+  "scor",
+  "épargne"
+ ],
+ "assurance-munichre": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "munich re",
+  "réassurance",
+  "épargne"
+ ],
+ "assurance-swissre": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "réassurance",
+  "swiss re",
+  "épargne"
+ ],
+ "crypto-ledger": [
+  "assurance",
+  "banque",
+  "compte",
+  "crypto",
+  "ledger",
+  "réassurance",
+  "épargne"
+ ],
+ "transport-msc": [
+  "croisière",
+  "ferry",
+  "msc",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "transport-ponant": [
+  "croisière",
+  "ferry",
+  "ponant",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "transport-royalcaribbean": [
+  "croisière",
+  "ferry",
+  "royal caribbean",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "transport-hurtigruten": [
+  "croisière",
+  "ferry",
+  "hurtigruten",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "velo-pinarello": [
+  "croisière",
+  "ferry",
+  "pinarello",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "velo-colnago": [
+  "colnago",
+  "croisière",
+  "ferry",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "velo-cervelo": [
+  "cervelo",
+  "croisière",
+  "ferry",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "velo-kalkhoff": [
+  "croisière",
+  "ferry",
+  "kalkhoff",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "velo-stromer": [
+  "croisière",
+  "ferry",
+  "stromer",
+  "train",
+  "vélo",
+  "vélo électrique"
+ ],
+ "hotellerie-hyatt": [
+  "andaz",
+  "hyatt",
+  "hôtel",
+  "palace",
+  "park hyatt",
+  "resort",
+  "réservation"
+ ],
+ "hotellerie-bestwestern": [
+  "best western",
+  "hôtel",
+  "palace",
+  "resort",
+  "réservation"
+ ],
+ "hotellerie-cheval-blanc": [
+  "cheval blanc",
+  "hôtel",
+  "palace",
+  "resort",
+  "réservation"
+ ],
+ "hotellerie-airelles": [
+  "airelles",
+  "hôtel",
+  "palace",
+  "resort",
+  "réservation"
+ ],
+ "hotellerie-aman": [
+  "aman",
+  "hôtel",
+  "palace",
+  "resort",
+  "réservation"
+ ],
+ "hotellerie-mandarin-oriental": [
+  "hôtel",
+  "mandarin oriental",
+  "palace",
+  "resort",
+  "réservation"
+ ],
+ "hotellerie-four-seasons": [
+  "four seasons",
+  "hôtel",
+  "palace",
+  "resort",
+  "réservation"
+ ],
+ "jouets-ea": [
+  "battlefield",
+  "ea",
+  "fifa",
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "peluche",
+  "poupée",
+  "the sims"
+ ],
+ "jeux-paradox": [
+  "cities skylines",
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "paradox",
+  "peluche",
+  "poupée"
+ ],
+ "jeux-gameloft": [
+  "gameloft",
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "peluche",
+  "poupée"
+ ],
+ "jouets-haba": [
+  "haba",
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "peluche",
+  "poupée"
+ ],
+ "jouets-janod": [
+  "janod",
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "peluche",
+  "poupée"
+ ],
+ "jouets-vilac": [
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "peluche",
+  "poupée",
+  "vilac"
+ ],
+ "jouets-sophie": [
+  "jeu de société",
+  "jeu vidéo",
+  "jouet",
+  "peluche",
+  "poupée",
+  "sophie la girafe"
+ ],
+ "outillage-facom": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "facom",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage"
+ ],
+ "outillage-stanley": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage",
+  "stanley"
+ ],
+ "jardin-nilfisk": [
+  "alto",
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "nilfisk",
+  "outillage"
+ ],
+ "cuisine-alessi": [
+  "alessi",
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage"
+ ],
+ "cuisine-guzzini": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "guzzini",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage"
+ ],
+ "couteau-sabatier": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage",
+  "sabatier"
+ ],
+ "petit-elec-magimix": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "jardin",
+  "magimix",
+  "maison",
+  "nettoyage",
+  "outillage"
+ ],
+ "deco-fly": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "fly",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage"
+ ],
+ "deco-habitat": [
+  "art de la table",
+  "bricolage",
+  "cuisine",
+  "décoration",
+  "habitat",
+  "jardin",
+  "maison",
+  "nettoyage",
+  "outillage"
+ ],
+ "montres-jaeger": [
+  "bijou",
+  "horlogerie",
+  "jaeger-lecoultre",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "montres-vacheron": [
+  "bijou",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique",
+  "vacheron constantin"
+ ],
+ "montres-iwc": [
+  "bijou",
+  "horlogerie",
+  "iwc",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "montres-panerai": [
+  "bijou",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique",
+  "panerai"
+ ],
+ "montres-chaumet": [
+  "bijou",
+  "chaumet",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "bijoux-fred": [
+  "bijou",
+  "fred",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "bijoux-messika": [
+  "bijou",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "messika",
+  "montre",
+  "optique"
+ ],
+ "montres-glashuette": [
+  "bijou",
+  "glashütte original",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "montres-nomos": [
+  "bijou",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "nomos",
+  "optique"
+ ],
+ "montres-hamilton": [
+  "bijou",
+  "hamilton",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "montres-daniel-wellington": [
+  "bijou",
+  "daniel wellington",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "optique-afflelou": [
+  "afflelou",
+  "bijou",
+  "horlogerie",
+  "joaillerie",
+  "lunettes",
+  "montre",
+  "optique"
+ ],
+ "medias-salto": [
+  "anime",
+  "cinéma",
+  "musique",
+  "salto",
+  "streaming",
+  "tv",
+  "vidéo"
+ ],
+ "medias-molotov": [
+  "anime",
+  "cinéma",
+  "molotov",
+  "musique",
+  "streaming",
+  "tv",
+  "vidéo"
+ ],
+ "medias-adn": [
+  "adn",
+  "anime",
+  "cinéma",
+  "musique",
+  "streaming",
+  "tv",
+  "vidéo"
+ ],
+ "medias-mubi": [
+  "anime",
+  "cinéma",
+  "mubi",
+  "musique",
+  "streaming",
+  "tv",
+  "vidéo"
+ ],
+ "medias-pluto": [
+  "anime",
+  "cinéma",
+  "musique",
+  "pluto tv",
+  "streaming",
+  "tv",
+  "vidéo"
  ]
 }
