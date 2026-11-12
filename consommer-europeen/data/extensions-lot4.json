@@ -1,0 +1,3265 @@
+{
+ "01": {
+  "groupes": [
+   {
+    "id": "automobile-mitsubishi",
+    "groupe": "Mitsubishi Motors",
+    "marques": [
+     "Mitsubishi"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "SUV / pick-up",
+    "commentaire": "Outlander, Pajero. Alliance Renault-Nissan. [231]",
+    "sources": [
+     231
+    ],
+    "lieux_production": [
+     "Japon",
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-rivian",
+    "groupe": "Rivian",
+    "marques": [
+     "Rivian"
+    ],
+    "siege": "États-Unis (Irvine)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Pick-up électrique",
+    "commentaire": "R1T, utilitaires électriques (partenariat Amazon). [231]",
+    "sources": [
+     231
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-lucid",
+    "groupe": "Lucid",
+    "marques": [
+     "Lucid Air"
+    ],
+    "siege": "États-Unis (Newark)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Berline électrique luxe",
+    "commentaire": "Lucid Air, autonomie record. [231]",
+    "sources": [
+     231
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-gwm",
+    "groupe": "Great Wall Motor",
+    "marques": [
+     "GWM",
+     "ORA",
+     "Tank"
+    ],
+    "siege": "Chine (Baoding)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "SUV / électrique",
+    "commentaire": "Marque chinoise (ORA électrique). [231]",
+    "sources": [
+     231
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "automobile-chery",
+    "groupe": "Chery",
+    "marques": [
+     "Chery"
+    ],
+    "siege": "Chine (Wuhu)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Généraliste",
+    "commentaire": "Exportateur chinois n°1. [231]",
+    "sources": [
+     231
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "02": {
+  "groupes": [
+   {
+    "id": "motos-honda-motor",
+    "groupe": "Honda Motor",
+    "marques": [
+     "Honda"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Moto / scooter",
+    "commentaire": "N°1 mondial (CBR, PCX, Gold Wing). [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "Japon",
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-royal-enfield",
+    "groupe": "Royal Enfield",
+    "marques": [
+     "Royal Enfield"
+    ],
+    "siege": "Inde (Chennai)",
+    "siege_pays": "IN",
+    "statut": "hors_zones",
+    "sous_categorie": "Moto classique",
+    "commentaire": "Interceptor, Himalayan. [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-bajaj",
+    "groupe": "Bajaj Auto",
+    "marques": [
+     "Bajaj",
+     "Pulsar"
+    ],
+    "siege": "Inde (Pune)",
+    "siege_pays": "IN",
+    "statut": "hors_zones",
+    "sous_categorie": "Moto",
+    "commentaire": "N°1 indien, partenaire KTM. [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-indian",
+    "groupe": "Indian Motorcycle",
+    "marques": [
+     "Indian"
+    ],
+    "siege": "États-Unis (Stamford)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Moto custom",
+    "commentaire": "Chief, Scout (Polaris). [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "USA",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-swm",
+    "groupe": "SWM",
+    "marques": [
+     "SWM"
+    ],
+    "siege": "Italie (Milan)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Moto rétro",
+    "commentaire": "Ex-Aermacchi. [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-bultaco",
+    "groupe": "Bultaco",
+    "marques": [
+     "Bultaco"
+    ],
+    "siege": "Espagne (Barcelone)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Trial / électrique",
+    "commentaire": "Renaissance espagnole (Rapitan). [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-montesa",
+    "groupe": "Montesa",
+    "marques": [
+     "Montesa"
+    ],
+    "siege": "Espagne (Barcelone)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Trial",
+    "commentaire": "Filiale Honda Espagne. [232]",
+    "sources": [
+     232
+    ],
+    "lieux_production": [
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "03": {
+  "groupes": [
+   {
+    "id": "pneumatiques-vredestein",
+    "groupe": "Vredestein (Apollo)",
+    "marques": [
+     "Vredestein"
+    ],
+    "siege": "Pays-Bas (Enschede)",
+    "siege_pays": "NL",
+    "statut": "vigilance",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "Marque néerlandaise, groupe indien Apollo. [233]",
+    "sources": [
+     233
+    ],
+    "lieux_production": [
+     "Pays-Bas",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-apollo",
+    "groupe": "Apollo Tyres",
+    "marques": [
+     "Apollo",
+     "Vredestein"
+    ],
+    "siege": "Inde (Gurgaon)",
+    "siege_pays": "IN",
+    "statut": "hors_zones",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "Fabricant indien présent en Europe. [233]",
+    "sources": [
+     233
+    ],
+    "lieux_production": [
+     "Inde",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-mrf",
+    "groupe": "MRF",
+    "marques": [
+     "MRF"
+    ],
+    "siege": "Inde (Chennai)",
+    "siege_pays": "IN",
+    "statut": "hors_zones",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "N°1 indien du pneu. [233]",
+    "sources": [
+     233
+    ],
+    "lieux_production": [
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "04": {
+  "groupes": [
+   {
+    "id": "electromenager-teka",
+    "groupe": "Teka",
+    "marques": [
+     "Teka",
+     "Balay",
+     "Constructa"
+    ],
+    "siege": "Espagne (Madrid)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Électroménager",
+    "commentaire": "Groupe espagnol (Teka, Balay). [234]",
+    "sources": [
+     234
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Turquie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-fagor",
+    "groupe": "Fagor (Mondragon)",
+    "marques": [
+     "Fagor",
+     "Edesa"
+    ],
+    "siege": "Espagne (Mondragon)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Électroménager",
+    "commentaire": "Coopérative basque. [234]",
+    "sources": [
+     234
+    ],
+    "lieux_production": [
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-fujitsu",
+    "groupe": "Fujitsu General",
+    "marques": [
+     "Fujitsu"
+    ],
+    "siege": "Japon (Kawasaki)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Climatisation",
+    "commentaire": "Clim et pompes à chaleur. [234]",
+    "sources": [
+     234
+    ],
+    "lieux_production": [
+     "Japon",
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-hitachi",
+    "groupe": "Hitachi",
+    "marques": [
+     "Hitachi"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Électroménager",
+    "commentaire": "Électroménager et clim. [234]",
+    "sources": [
+     234
+    ],
+    "lieux_production": [
+     "Japon"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "05": {
+  "groupes": [
+   {
+    "id": "televiseurs-skyworth",
+    "groupe": "Skyworth",
+    "marques": [
+     "Skyworth"
+    ],
+    "siege": "Chine (Shenzhen)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "TV",
+    "commentaire": "Fabricant chinois de TV (OEM). [235]",
+    "sources": [
+     235
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-konka",
+    "groupe": "Konka",
+    "marques": [
+     "Konka"
+    ],
+    "siege": "Chine (Shenzhen)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "TV",
+    "commentaire": "Fabricant chinois de TV. [235]",
+    "sources": [
+     235
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "06": {
+  "groupes": [
+   {
+    "id": "informatique-google-pixel",
+    "groupe": "Google Pixel",
+    "marques": [
+     "Pixel"
+    ],
+    "siege": "États-Unis (Mountain View)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Smartphone",
+    "commentaire": "Pixel, puce Tensor. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "USA",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-motorola",
+    "groupe": "Motorola (Lenovo)",
+    "marques": [
+     "Motorola",
+     "Moto G"
+    ],
+    "siege": "Chine (Lenovo)",
+    "siege_pays": "CN",
+    "statut": "vigilance",
+    "sous_categorie": "Smartphone",
+    "commentaire": "Marque américaine, propriété Lenovo. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-nothing",
+    "groupe": "Nothing",
+    "marques": [
+     "Nothing Phone"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Smartphone",
+    "commentaire": "Design transparent (Carl Pei, ex-OnePlus). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-oppo",
+    "groupe": "Oppo (BBK)",
+    "marques": [
+     "Oppo",
+     "OnePlus",
+     "Realme",
+     "Vivo"
+    ],
+    "siege": "Chine (Dongguan)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Smartphone",
+    "commentaire": "Groupe BBK Electronics. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Chine",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-sonos",
+    "groupe": "Sonos",
+    "marques": [
+     "Sonos"
+    ],
+    "siege": "États-Unis (Santa Barbara)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Enceinte connectée",
+    "commentaire": "Enceintes multiroom (Arc, Era). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-naim",
+    "groupe": "Naim Audio",
+    "marques": [
+     "Naim"
+    ],
+    "siege": "Royaume-Uni (Salisbury)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Hi-fi",
+    "commentaire": "Hi-fi britannique (Uniti). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-dynaudio",
+    "groupe": "Dynaudio",
+    "marques": [
+     "Dynaudio"
+    ],
+    "siege": "Danemark (Skanderborg)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Enceintes",
+    "commentaire": "Enceintes acoustiques danoises. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Danemark",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "photo-leica",
+    "groupe": "Leica",
+    "marques": [
+     "Leica"
+    ],
+    "siege": "Allemagne (Wetzlar)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Appareil photo",
+    "commentaire": "Télémétriques (M, Q). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Portugal"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "photo-omsystem",
+    "groupe": "OM System",
+    "marques": [
+     "OM System",
+     "Olympus"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Appareil photo",
+    "commentaire": "Ex-Olympus (micro 4/3). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Japon",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "imprimante-ricoh",
+    "groupe": "Ricoh",
+    "marques": [
+     "Ricoh",
+     "Kyocera"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Imprimantes",
+    "commentaire": "Imprimantes et copieurs. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Japon"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "imprimante-xerox",
+    "groupe": "Xerox",
+    "marques": [
+     "Xerox"
+    ],
+    "siege": "États-Unis (Norwalk)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Imprimantes",
+    "commentaire": "Photocopieurs. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "07": {
+  "groupes": [
+   {
+    "id": "logiciels-atos",
+    "groupe": "Atos (Eviden)",
+    "marques": [
+     "Atos",
+     "Eviden"
+    ],
+    "siege": "France (Bezons)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Services numériques",
+    "commentaire": "ESN française (Eviden cloud/HPC). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-sopra",
+    "groupe": "Sopra Steria",
+    "marques": [
+     "Sopra Steria"
+    ],
+    "siege": "France (Annecy)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Services numériques",
+    "commentaire": "ESN franco-européenne. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-thales",
+    "groupe": "Thales",
+    "marques": [
+     "Thales",
+     "Gemalto"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cybersécurité / défense",
+    "commentaire": "Cybersécurité (Gemalto), défense. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-stormshield",
+    "groupe": "Stormshield (Airbus)",
+    "marques": [
+     "Stormshield"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cybersécurité",
+    "commentaire": "Pare-feu souverains (Airbus). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-wallix",
+    "groupe": "Wallix",
+    "marques": [
+     "Wallix"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cybersécurité",
+    "commentaire": "PAM (accès privilégiés). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-vade",
+    "groupe": "Vade",
+    "marques": [
+     "Vade"
+    ],
+    "siege": "France (Lille)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cybersécurité email",
+    "commentaire": "Anti-phishing email (Vade). [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jeux-valve",
+    "groupe": "Valve (Steam)",
+    "marques": [
+     "Steam",
+     "Valve"
+    ],
+    "siege": "États-Unis (Bellevue)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Plateforme de jeux",
+    "commentaire": "Steam, Half-Life, Portal. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jeux-cdprojekt",
+    "groupe": "CD Projekt (GOG)",
+    "marques": [
+     "CD Projekt",
+     "GOG"
+    ],
+    "siege": "Pologne (Varsovie)",
+    "siege_pays": "PL",
+    "statut": "rang1",
+    "sous_categorie": "Jeux vidéo",
+    "commentaire": "The Witcher 3, Cyberpunk 2077, GOG. [236]",
+    "sources": [
+     236
+    ],
+    "lieux_production": [
+     "Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "08": {
+  "groupes": [
+   {
+    "id": "alimentation-mars",
+    "groupe": "Mars",
+    "marques": [
+     "Mars",
+     "M&M's",
+     "Snickers",
+     "Twix",
+     "Pedigree",
+     "Whiskas"
+    ],
+    "siege": "États-Unis (McLean)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Confiserie / pet food",
+    "commentaire": "Snickers, M&M's, Whiskas. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-ferrero-lot4",
+    "groupe": "Ferrero",
+    "marques": [
+     "Ferrero",
+     "Nutella",
+     "Kinder",
+     "Tic Tac"
+    ],
+    "siege": "Italie (Alba)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Confiserie",
+    "commentaire": "Nutella, Kinder, Ferrero Rocher. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Italie",
+     "Allemagne",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-arla",
+    "groupe": "Arla",
+    "marques": [
+     "Arla"
+    ],
+    "siege": "Danemark/Suède (Viby)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Lait / beurre",
+    "commentaire": "Coopérative laitière nordique. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Danemark",
+     "Suède",
+     "UK"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-valio",
+    "groupe": "Valio",
+    "marques": [
+     "Valio"
+    ],
+    "siege": "Finlande (Helsinki)",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "sous_categorie": "Lait / beurre",
+    "commentaire": "Coopérative laitière finlandaise. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Finlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-fazer",
+    "groupe": "Fazer",
+    "marques": [
+     "Fazer"
+    ],
+    "siege": "Finlande (Helsinki)",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "sous_categorie": "Confiserie / boulangerie",
+    "commentaire": "Chocolats et pain finlandais. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Finlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-cloetta",
+    "groupe": "Cloetta",
+    "marques": [
+     "Cloetta",
+     "Läkerol"
+    ],
+    "siege": "Suède (Sundbyberg)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Confiserie",
+    "commentaire": "Bonbons nordiques (Läkerol). [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Suède"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-orkla",
+    "groupe": "Orkla",
+    "marques": [
+     "Orkla"
+    ],
+    "siege": "Norvège (Oslo)",
+    "siege_pays": "NO",
+    "statut": "rang1",
+    "sous_categorie": "Épicerie nordique",
+    "commentaire": "Produits nordiques. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Norvège"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-sanpellegrino",
+    "groupe": "San Pellegrino (Nestlé)",
+    "marques": [
+     "San Pellegrino",
+     "Acqua Panna",
+     "Perrier"
+    ],
+    "siege": "Italie (Milan)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Eau gazeuse",
+    "commentaire": "Eaux italiennes (Nestlé Waters). [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-vittel",
+    "groupe": "Vittel (Nestlé)",
+    "marques": [
+     "Vittel",
+     "Contrex"
+    ],
+    "siege": "France (Vittel)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Eau minérale",
+    "commentaire": "Eaux françaises (Nestlé Waters). [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "alimentation-britvic",
+    "groupe": "Britvic",
+    "marques": [
+     "Britvic",
+     "Robinsons",
+     "J2O",
+     "Vimto"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Jus / boissons",
+    "commentaire": "Jus britanniques. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cafe-starbucks",
+    "groupe": "Starbucks",
+    "marques": [
+     "Starbucks"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Café",
+    "commentaire": "N°1 mondial du café. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cafe-melitta",
+    "groupe": "Melitta",
+    "marques": [
+     "Melitta"
+    ],
+    "siege": "Allemagne (Minden)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Café / filtres",
+    "commentaire": "Cafés et filtres. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Brésil"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cafe-dallmayr",
+    "groupe": "Dallmayr",
+    "marques": [
+     "Dallmayr"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Café",
+    "commentaire": "Café torréfié munichois. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cafe-tchibo",
+    "groupe": "Tchibo",
+    "marques": [
+     "Tchibo"
+    ],
+    "siege": "Allemagne (Hambourg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Café / magasins",
+    "commentaire": "Café et magasins. [237, 250]",
+    "sources": [
+     237,
+     250
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09": {
+  "groupes": [
+   {
+    "id": "pharma-ipsen",
+    "groupe": "Ipsen",
+    "marques": [
+     "Ipsen"
+    ],
+    "siege": "France (Boulogne)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Pharmacie",
+    "commentaire": "Oncologie, maladies rares. [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "France",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-boehringer",
+    "groupe": "Boehringer Ingelheim",
+    "marques": [
+     "Boehringer Ingelheim"
+    ],
+    "siege": "Allemagne (Ingelheim)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Pharmacie",
+    "commentaire": "Familial allemand (diabète, cardio). [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-merck-kgaa",
+    "groupe": "Merck KGaA",
+    "marques": [
+     "Merck"
+    ],
+    "siege": "Allemagne (Darmstadt)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Chimie / pharma",
+    "commentaire": "Sciences de la vie. [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-lundbeck",
+    "groupe": "Lundbeck",
+    "marques": [
+     "Lundbeck"
+    ],
+    "siege": "Danemark (Valby)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Pharmacie CNS",
+    "commentaire": "Psychiatrie/neurologie. [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "Danemark"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-chiesi",
+    "groupe": "Chiesi",
+    "marques": [
+     "Chiesi"
+    ],
+    "siege": "Italie (Parme)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Pharmacie",
+    "commentaire": "Respiratoire. [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09b": {
+  "groupes": [
+   {
+    "id": "beaute-occitane",
+    "groupe": "L'Occitane",
+    "marques": [
+     "L'Occitane"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cosmétique",
+    "commentaire": "Soins provençaux (karité). [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "France",
+     "Burkina Faso"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-guerlain",
+    "groupe": "Guerlain (LVMH)",
+    "marques": [
+     "Guerlain"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Parfum / cosmétique",
+    "commentaire": "Parfumeur parisien (LVMH). [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-diptyque",
+    "groupe": "Diptyque",
+    "marques": [
+     "Diptyque"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Parfum / bougies",
+    "commentaire": "Bougies et parfums (actionnaire étranger majoritaire). [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-byredo",
+    "groupe": "Byredo (Estée Lauder)",
+    "marques": [
+     "Byredo"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Parfum",
+    "commentaire": "Parfums suédois (Estée Lauder). [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "Suède"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-aveda",
+    "groupe": "Aveda (Estée Lauder)",
+    "marques": [
+     "Aveda"
+    ],
+    "siege": "États-Unis (Blaine)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Soin capillaire",
+    "commentaire": "Produits capillaires (Estée Lauder). [238]",
+    "sources": [
+     238
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "10": {
+  "groupes": [
+   {
+    "id": "fashion-tapestry",
+    "groupe": "Tapestry",
+    "marques": [
+     "Coach",
+     "Kate Spade"
+    ],
+    "siege": "États-Unis (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Maroquinerie",
+    "commentaire": "Sacs Coach, Kate Spade. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-guess",
+    "groupe": "Guess",
+    "marques": [
+     "Guess"
+    ],
+    "siege": "États-Unis (Los Angeles)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Jean / mode",
+    "commentaire": "Jean et mode US. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-kontoor",
+    "groupe": "Kontoor (Wrangler, Lee)",
+    "marques": [
+     "Wrangler",
+     "Lee"
+    ],
+    "siege": "États-Unis (Greensboro)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Jean",
+    "commentaire": "Wrangler, Lee. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Mexique"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-brooks",
+    "groupe": "Brooks Running",
+    "marques": [
+     "Brooks"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Running",
+    "commentaire": "Chaussures running (Berkshire). [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-saucony",
+    "groupe": "Saucony",
+    "marques": [
+     "Saucony"
+    ],
+    "siege": "États-Unis (Waltham)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Running",
+    "commentaire": "Chaussures running (Wolverine). [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-keen",
+    "groupe": "Keen",
+    "marques": [
+     "Keen"
+    ],
+    "siege": "États-Unis (Portland)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Sandales outdoor",
+    "commentaire": "Sandales à orteils. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-teva",
+    "groupe": "Teva",
+    "marques": [
+     "Teva"
+    ],
+    "siege": "États-Unis (Goleta)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Sandales",
+    "commentaire": "Sandales outdoor (Deckers). [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-triumph-lingerie",
+    "groupe": "Triumph",
+    "marques": [
+     "Triumph"
+    ],
+    "siege": "Suisse (Bad Zurzach)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Lingerie",
+    "commentaire": "Lingerie suisse. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "Suisse",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-dim",
+    "groupe": "DIM",
+    "marques": [
+     "DIM"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Lingerie / chaussettes",
+    "commentaire": "Sous-vêtements français. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-aubade",
+    "groupe": "Aubade",
+    "marques": [
+     "Aubade"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Lingerie luxe",
+    "commentaire": "Lingerie haut de gamme. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-chantelle",
+    "groupe": "Chantelle",
+    "marques": [
+     "Chantelle"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Lingerie",
+    "commentaire": "Lingerie française. [239, 250]",
+    "sources": [
+     239,
+     250
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "11": {
+  "groupes": [
+   {
+    "id": "voyage-thule",
+    "groupe": "Thule",
+    "marques": [
+     "Thule"
+    ],
+    "siege": "Suède (Hillerstorp)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Sacs vélo / porte-vélos",
+    "commentaire": "Porte-vélos et coffres de toit. [240]",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "Suède",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-ortlieb",
+    "groupe": "Ortlieb",
+    "marques": [
+     "Ortlieb"
+    ],
+    "siege": "Allemagne (Heilsbronn)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Sacoches vélo",
+    "commentaire": "Sacoches étanches. [240]",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Roumanie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "voyage-basil",
+    "groupe": "Basil",
+    "marques": [
+     "Basil"
+    ],
+    "siege": "Pays-Bas (Dronten)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Sacoches vélo",
+    "commentaire": "Sacoches vélo. [240]",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "Pays-Bas",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "camping-msr",
+    "groupe": "MSR",
+    "marques": [
+     "MSR"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Camping",
+    "commentaire": "Tentes et réchauds. [240]",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "camping-bigagnes",
+    "groupe": "Big Agnes",
+    "marques": [
+     "Big Agnes"
+    ],
+    "siege": "États-Unis (Steamboat Springs)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Camping",
+    "commentaire": "Tentes ultralégères. [240]",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "camping-vango",
+    "groupe": "Vango",
+    "marques": [
+     "Vango"
+    ],
+    "siege": "Royaume-Uni (Glasgow)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Camping",
+    "commentaire": "Tentes et sacs de couchage. [240]",
+    "sources": [
+     240
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "12": {
+  "groupes": [
+   {
+    "id": "distribution-cdiscount",
+    "groupe": "Cdiscount",
+    "marques": [
+     "Cdiscount"
+    ],
+    "siege": "France (Bordeaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "E-commerce",
+    "commentaire": "Marketplace française. [241]",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-priceminister",
+    "groupe": "PriceMinister (Rakuten)",
+    "marques": [
+     "PriceMinister"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Marketplace",
+    "commentaire": "Occasion et neuf (Rakuten). [241]",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "paiement-klarna",
+    "groupe": "Klarna",
+    "marques": [
+     "Klarna"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Paiement fractionné",
+    "commentaire": "Paiement en plusieurs fois. [241]",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "Suède",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "paiement-visa",
+    "groupe": "Visa",
+    "marques": [
+     "Visa"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Carte bancaire",
+    "commentaire": "Réseau de paiement mondial. [241]",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "paiement-mastercard",
+    "groupe": "Mastercard",
+    "marques": [
+     "Mastercard"
+    ],
+    "siege": "États-Unis (Purchase)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Carte bancaire",
+    "commentaire": "Réseau de paiement mondial. [241]",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "paiement-paypal",
+    "groupe": "PayPal",
+    "marques": [
+     "PayPal"
+    ],
+    "siege": "États-Unis (San José)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Paiement en ligne",
+    "commentaire": "Paiement en ligne. [241]",
+    "sources": [
+     241
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "13": {
+  "groupes": [
+   {
+    "id": "telecoms-ericsson",
+    "groupe": "Ericsson",
+    "marques": [
+     "Ericsson"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Infrastructure télécom",
+    "commentaire": "Équipements 5G. [242]",
+    "sources": [
+     242
+    ],
+    "lieux_production": [
+     "Suède",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "energie-alpiq",
+    "groupe": "Alpiq",
+    "marques": [
+     "Alpiq"
+    ],
+    "siege": "Suisse (Lausanne)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Trader et fournisseur suisse. [242]",
+    "sources": [
+     242
+    ],
+    "lieux_production": [
+     "Suisse",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "energie-planete-oui",
+    "groupe": "Planète OUI",
+    "marques": [
+     "Planète OUI"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Électricité verte",
+    "commentaire": "Fournisseur 100% renouvelable. [242]",
+    "sources": [
+     242
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "energie-mint",
+    "groupe": "Mint Énergie",
+    "marques": [
+     "Mint Énergie"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Électricité/gaz",
+    "commentaire": "Fournisseur alternatif. [242]",
+    "sources": [
+     242
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "14": {
+  "groupes": [
+   {
+    "id": "banque-santander",
+    "groupe": "Santander",
+    "marques": [
+     "Santander"
+    ],
+    "siege": "Espagne (Boadilla)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Banque",
+    "commentaire": "N°1 zone euro. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-bbva",
+    "groupe": "BBVA",
+    "marques": [
+     "BBVA"
+    ],
+    "siege": "Espagne (Bilbao)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Banque",
+    "commentaire": "Banque digitale espagnole. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-caixabank",
+    "groupe": "CaixaBank",
+    "marques": [
+     "CaixaBank"
+    ],
+    "siege": "Espagne (Valence)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Banque",
+    "commentaire": "Première banque retail espagnole. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-unicredit",
+    "groupe": "UniCredit",
+    "marques": [
+     "UniCredit"
+    ],
+    "siege": "Italie (Milan)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Banque",
+    "commentaire": "Banque paneuropéenne italienne. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Italie",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-kbc",
+    "groupe": "KBC",
+    "marques": [
+     "KBC",
+     "CBC"
+    ],
+    "siege": "Belgique (Bruxelles)",
+    "siege_pays": "BE",
+    "statut": "rang1",
+    "sous_categorie": "Banque",
+    "commentaire": "Banque belge. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Belgique",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-rabobank",
+    "groupe": "Rabobank",
+    "marques": [
+     "Rabobank"
+    ],
+    "siege": "Pays-Bas (Utrecht)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Banque coopérative",
+    "commentaire": "Coopérative agricole néerlandaise. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Pays-Bas"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-nordea",
+    "groupe": "Nordea",
+    "marques": [
+     "Nordea"
+    ],
+    "siege": "Finlande (Helsinki)",
+    "siege_pays": "FI",
+    "statut": "rang1",
+    "sous_categorie": "Banque nordique",
+    "commentaire": "N°1 des pays nordiques. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Finlande",
+     "Suède",
+     "Danemark",
+     "Norvège"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-swedbank",
+    "groupe": "Swedbank",
+    "marques": [
+     "Swedbank"
+    ],
+    "siege": "Suède (Sundbyberg)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Banque nordique/balte",
+    "commentaire": "Banque suédoise. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Suède",
+     "Baltique"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "assurance-scor",
+    "groupe": "Scor",
+    "marques": [
+     "Scor"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Réassurance",
+    "commentaire": "N°1 mondial de la réassurance. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "assurance-munichre",
+    "groupe": "Munich Re",
+    "marques": [
+     "Munich Re"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Réassurance",
+    "commentaire": "Leader mondial (Ergo). [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "assurance-swissre",
+    "groupe": "Swiss Re",
+    "marques": [
+     "Swiss Re"
+    ],
+    "siege": "Suisse (Zurich)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Réassurance",
+    "commentaire": "N°2 mondial de la réassurance. [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "crypto-ledger",
+    "groupe": "Ledger",
+    "marques": [
+     "Ledger"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Hardware wallet",
+    "commentaire": "Coffres-forts crypto (Nano). [243]",
+    "sources": [
+     243
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "15": {
+  "groupes": [
+   {
+    "id": "transport-msc",
+    "groupe": "MSC Cruises",
+    "marques": [
+     "MSC"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Croisière",
+    "commentaire": "N°1 mondial de la croisière. [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Italie",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-ponant",
+    "groupe": "Ponant",
+    "marques": [
+     "Ponant"
+    ],
+    "siege": "France (Marseille)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Croisière expédition",
+    "commentaire": "Croisières d'expédition. [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "France",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-royalcaribbean",
+    "groupe": "Royal Caribbean",
+    "marques": [
+     "Royal Caribbean"
+    ],
+    "siege": "États-Unis (Miami)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Croisière",
+    "commentaire": "Leader mondial (Oasis). [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-hurtigruten",
+    "groupe": "Hurtigruten",
+    "marques": [
+     "Hurtigruten"
+    ],
+    "siege": "Norvège (Tromsø)",
+    "siege_pays": "NO",
+    "statut": "rang1",
+    "sous_categorie": "Ferry / croisière côtière",
+    "commentaire": "Ligne côtière norvégienne. [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Norvège"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "velo-pinarello",
+    "groupe": "Pinarello",
+    "marques": [
+     "Pinarello"
+    ],
+    "siege": "Italie (Treviso)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Vélo route",
+    "commentaire": "Vélos carbone (Tour de France). [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "velo-colnago",
+    "groupe": "Colnago",
+    "marques": [
+     "Colnago"
+    ],
+    "siege": "Italie (Cambiago)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Vélo route",
+    "commentaire": "Vélos italiens légendaires. [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "velo-cervelo",
+    "groupe": "Cervelo",
+    "marques": [
+     "Cervelo"
+    ],
+    "siege": "Canada (Toronto)",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "sous_categorie": "Vélo aéro",
+    "commentaire": "Vélos aéro canadiens. [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Canada",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "velo-kalkhoff",
+    "groupe": "Kalkhoff",
+    "marques": [
+     "Kalkhoff"
+    ],
+    "siege": "Allemagne (Cloppenburg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Vélo électrique",
+    "commentaire": "VAE (Derby Cycle). [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "velo-stromer",
+    "groupe": "Stromer",
+    "marques": [
+     "Stromer"
+    ],
+    "siege": "Suisse (Biel)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Vélo électrique rapide",
+    "commentaire": "Speed-pedelec suisse. [244]",
+    "sources": [
+     244
+    ],
+    "lieux_production": [
+     "Suisse",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "16": {
+  "groupes": [
+   {
+    "id": "hotellerie-hyatt",
+    "groupe": "Hyatt",
+    "marques": [
+     "Hyatt",
+     "Park Hyatt",
+     "Andaz"
+    ],
+    "siege": "États-Unis (Chicago)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hôtellerie luxe",
+    "commentaire": "Park Hyatt, Andaz. [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-bestwestern",
+    "groupe": "Best Western",
+    "marques": [
+     "Best Western"
+    ],
+    "siege": "États-Unis (Phoenix)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hôtellerie",
+    "commentaire": "Réseau mondial. [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-cheval-blanc",
+    "groupe": "Cheval Blanc (LVMH)",
+    "marques": [
+     "Cheval Blanc"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Palace",
+    "commentaire": "Palaces français (LVMH). [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "France",
+     "Maldives"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-airelles",
+    "groupe": "Airelles",
+    "marques": [
+     "Airelles"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Palace / chalets",
+    "commentaire": "Chalets et palaces. [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-aman",
+    "groupe": "Aman",
+    "marques": [
+     "Aman"
+    ],
+    "siege": "Singapour",
+    "siege_pays": "SG",
+    "statut": "hors_zones",
+    "sous_categorie": "Resorts luxe",
+    "commentaire": "Aman Resorts. [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-mandarin-oriental",
+    "groupe": "Mandarin Oriental",
+    "marques": [
+     "Mandarin Oriental"
+    ],
+    "siege": "Hong Kong (Jardine)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Palace",
+    "commentaire": "Palaces (Jardine Matheson). [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "Hong Kong",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-four-seasons",
+    "groupe": "Four Seasons",
+    "marques": [
+     "Four Seasons"
+    ],
+    "siege": "Canada (Toronto)",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "sous_categorie": "Palace",
+    "commentaire": "Hôtels de luxe. [245]",
+    "sources": [
+     245
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "17": {
+  "groupes": [
+   {
+    "id": "jouets-ea",
+    "groupe": "Electronic Arts",
+    "marques": [
+     "EA",
+     "FIFA",
+     "Battlefield",
+     "The Sims"
+    ],
+    "siege": "États-Unis (Redwood City)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Jeux vidéo",
+    "commentaire": "FIFA, The Sims. [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "USA",
+     "Roumanie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jeux-paradox",
+    "groupe": "Paradox Interactive",
+    "marques": [
+     "Paradox",
+     "Cities Skylines"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Jeux de stratégie",
+    "commentaire": "Stratégie/gestion PC. [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "Suède"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jeux-gameloft",
+    "groupe": "Gameloft (Ubisoft)",
+    "marques": [
+     "Gameloft"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jeux mobile",
+    "commentaire": "Asphalt (filiale Ubisoft). [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "France",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-haba",
+    "groupe": "Haba",
+    "marques": [
+     "Haba"
+    ],
+    "siege": "Allemagne (Bad Rodach)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Jouets bois",
+    "commentaire": "Jouets éducatifs bois. [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-janod",
+    "groupe": "Janod",
+    "marques": [
+     "Janod"
+    ],
+    "siege": "France (Saint-Jean-de-Maurienne)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jouets bois",
+    "commentaire": "Jouets bois français. [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-vilac",
+    "groupe": "Vilac",
+    "marques": [
+     "Vilac"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jouets bois",
+    "commentaire": "Jouets bois artisanaux. [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-sophie",
+    "groupe": "Sophie la Girafe",
+    "marques": [
+     "Sophie la Girafe"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jouet bébé",
+    "commentaire": "La girafe depuis 1961. [246]",
+    "sources": [
+     246
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "18": {
+  "groupes": [
+   {
+    "id": "outillage-facom",
+    "groupe": "Facom (Stanley B&D)",
+    "marques": [
+     "Facom"
+    ],
+    "siege": "France (Nanterre)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Outillage pro",
+    "commentaire": "Groupe américain Stanley Black&Decker. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "France",
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outillage-stanley",
+    "groupe": "Stanley",
+    "marques": [
+     "Stanley"
+    ],
+    "siege": "États-Unis (New Britain)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Outillage",
+    "commentaire": "Outils manuels. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jardin-nilfisk",
+    "groupe": "Nilfisk",
+    "marques": [
+     "Nilfisk",
+     "Alto"
+    ],
+    "siege": "Danemark (Copenhague)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Nettoyage pro",
+    "commentaire": "Nettoyeurs HP pro. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "Danemark",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cuisine-alessi",
+    "groupe": "Alessi",
+    "marques": [
+     "Alessi"
+    ],
+    "siege": "Italie (Omegna)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Art de la table",
+    "commentaire": "Ustensiles design. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cuisine-guzzini",
+    "groupe": "Guzzini",
+    "marques": [
+     "Guzzini"
+    ],
+    "siege": "Italie (Recanati)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Vaisselle plastique",
+    "commentaire": "Vaisselle plastique. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "couteau-sabatier",
+    "groupe": "Sabatier",
+    "marques": [
+     "Sabatier"
+    ],
+    "siege": "France (Thiers)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Coutellerie",
+    "commentaire": "Couteaux de Thiers. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "petit-elec-magimix",
+    "groupe": "Magimix",
+    "marques": [
+     "Magimix"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Robot cuisine",
+    "commentaire": "Robots cuisine. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "deco-fly",
+    "groupe": "Fly",
+    "marques": [
+     "Fly"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Décoration",
+    "commentaire": "Décoration discount. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "deco-habitat",
+    "groupe": "Habitat",
+    "marques": [
+     "Habitat"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Mobilier design",
+    "commentaire": "Enseigne de mobilier. [247]",
+    "sources": [
+     247
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "19": {
+  "groupes": [
+   {
+    "id": "montres-jaeger",
+    "groupe": "Jaeger-LeCoultre (Richemont)",
+    "marques": [
+     "Jaeger-LeCoultre"
+    ],
+    "siege": "Suisse (Le Sentier)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Haute horlogerie",
+    "commentaire": "Reverso (Richemont). [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-vacheron",
+    "groupe": "Vacheron Constantin (Richemont)",
+    "marques": [
+     "Vacheron Constantin"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Haute horlogerie",
+    "commentaire": "Overseas (Richemont). [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-iwc",
+    "groupe": "IWC (Richemont)",
+    "marques": [
+     "IWC"
+    ],
+    "siege": "Suisse (Schaffhausen)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Portugieser (Richemont). [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-panerai",
+    "groupe": "Panerai (Richemont)",
+    "marques": [
+     "Panerai"
+    ],
+    "siege": "Italie (Florence)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie sport",
+    "commentaire": "Luminor (Richemont). [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-chaumet",
+    "groupe": "Chaumet (LVMH)",
+    "marques": [
+     "Chaumet"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Haute joaillerie",
+    "commentaire": "Joaillier (LVMH). [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bijoux-fred",
+    "groupe": "Fred",
+    "marques": [
+     "Fred"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Joaillerie",
+    "commentaire": "Joaillier français. [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bijoux-messika",
+    "groupe": "Messika",
+    "marques": [
+     "Messika"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Joaillerie diamant",
+    "commentaire": "Diamantaire parisien. [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-glashuette",
+    "groupe": "Glashütte Original",
+    "marques": [
+     "Glashütte Original"
+    ],
+    "siege": "Allemagne (Glashütte)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie saxonne",
+    "commentaire": "Sénator. [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-nomos",
+    "groupe": "Nomos Glashütte",
+    "marques": [
+     "Nomos"
+    ],
+    "siege": "Allemagne (Glashütte)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie accessible",
+    "commentaire": "Tangente. [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-hamilton",
+    "groupe": "Hamilton (Swatch)",
+    "marques": [
+     "Hamilton"
+    ],
+    "siege": "Suisse (Bienne)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Khaki (Swatch). [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-daniel-wellington",
+    "groupe": "Daniel Wellington",
+    "marques": [
+     "Daniel Wellington"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Montre mode",
+    "commentaire": "Montres minimalistes. [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "Suède",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "optique-afflelou",
+    "groupe": "Afflelou",
+    "marques": [
+     "Afflelou"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Optique",
+    "commentaire": "Opticiens français. [248]",
+    "sources": [
+     248
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "medias-salto",
+    "groupe": "Salto",
+    "marques": [
+     "Salto"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Streaming gratuit",
+    "commentaire": "SVOD gratuit TF1/M6/France TV. [249]",
+    "sources": [
+     249
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-molotov",
+    "groupe": "Molotov",
+    "marques": [
+     "Molotov"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "TV en ligne",
+    "commentaire": "Agrégateur de chaînes. [249]",
+    "sources": [
+     249
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-adn",
+    "groupe": "Anime Digital Network",
+    "marques": [
+     "ADN"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Streaming anime",
+    "commentaire": "Anime en streaming. [249]",
+    "sources": [
+     249
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-mubi",
+    "groupe": "Mubi",
+    "marques": [
+     "Mubi"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Streaming cinéma",
+    "commentaire": "Cinéma d'auteur. [249]",
+    "sources": [
+     249
+    ],
+    "lieux_production": [
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-pluto",
+    "groupe": "Pluto TV (Paramount)",
+    "marques": [
+     "Pluto TV"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "TV gratuite",
+    "commentaire": "Chaînes FAST. [249]",
+    "sources": [
+     249
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

@@ -357,7 +357,7 @@ function dedupGroupes() {
     const seen = new Map<string, Groupe>();
     const out: Groupe[] = [];
     for (const g of s.groupes) {
-      const key = norm(g.groupe) + '|' + norm(g.marques[0] ?? '');
+      const key = norm(g.groupe);
       const ex = seen.get(key);
       if (ex) {
         ex.marques = [...new Set([...ex.marques, ...g.marques])];
