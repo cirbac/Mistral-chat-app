@@ -110,8 +110,11 @@ const imagesOff: Record<string, string> = existsSync(imagesOffPath)
   : {};
 
 const motsClesPath = path.join(dataDir, 'mots-cles-marques.json');
+const motsClesGlobal: Record<string, string[]> = existsSync(motsClesPath)
+  ? (JSON.parse(readFileSync(motsClesPath, 'utf8')) as Record<string, string[]>)
+  : {};
 if (existsSync(motsClesPath)) {
-  const motsCles = JSON.parse(readFileSync(motsClesPath, 'utf8')) as Record<string, string[]>;
+  const motsCles = motsClesGlobal;
   for (const s of secteurs) {
     for (const g of s.groupes) {
       const kws = motsCles[g.id];
@@ -307,6 +310,34 @@ app.get('/api/catalogue', (req, res) => {
     pageSize: PAGE,
     groupes: items.slice(page * PAGE, (page + 1) * PAGE),
   });
+});
+
+const vocabMotsCles = new Set<string>();
+for (const s of secteurs) {
+  vocabMotsCles.add(norm(s.nom));
+  for (const k of [...(s.keywords ?? []), ...(s.aliases ?? [])]) vocabMotsCles.add(norm(k));
+  for (const g of s.groupes) {
+    for (const a of g.aliases ?? []) vocabMotsCles.add(norm(a));
+  }
+}
+for (const k of Object.keys(SYNONYMES)) vocabMotsCles.add(norm(k));
+for (const v of Object.values(SYNONYMES)) for (const x of v) vocabMotsCles.add(norm(x));
+for (const kws of Object.values(motsClesGlobal)) for (const k of kws) vocabMotsCles.add(norm(k));
+vocabMotsCles.delete('');
+
+app.get('/api/mots-cles', (req, res) => {
+  const q = norm(String(req.query.q ?? '').trim());
+  if (q.length < 2) {
+    res.json({ mots: [] });
+    return;
+  }
+  const mots = [...vocabMotsCles].filter((m) => m.includes(q));
+  mots.sort((a, b) => {
+    const as = a.startsWith(q) ? 0 : 1;
+    const bs = b.startsWith(q) ? 0 : 1;
+    return as - bs || a.length - b.length || a.localeCompare(b);
+  });
+  res.json({ mots: mots.slice(0, 10) });
 });
 
 app.get('/api/search', (req, res) => {

@@ -1370,3 +1370,36 @@ select option {
     display: none;
   }
 }
+
+.sug-kws {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+  padding: 4px 6px 8px;
+  border-bottom: 1px solid var(--glass-border);
+  margin-bottom: 4px;
+}
+
+.sug-kws-label {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--texte-doux);
+  margin-right: 2px;
+}
+
+.sug-kw {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--glass-border);
+  background: rgba(255, 210, 0, 0.12);
+  color: #ffd200;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.sug-kw:hover {
+  background: rgba(255, 210, 0, 0.28);
+}
