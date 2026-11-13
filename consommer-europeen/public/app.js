@@ -118,7 +118,14 @@ function badge(statutLabel, couleur) {
   const s = document.createElement('span');
   s.className = 'badge';
   s.style.background = couleur;
-  s.textContent = statutLabel;
+  const st = (state.meta?.statuts ?? []).find((x) => x.label === statutLabel);
+  if (st?.pictogramme) {
+    const p = document.createElement('span');
+    p.className = 'picto';
+    p.textContent = st.pictogramme;
+    s.appendChild(p);
+  }
+  s.appendChild(document.createTextNode(statutLabel));
   return s;
 }
 
@@ -542,6 +549,28 @@ async function showGroupe(id) {
     el.detail.append(h, ul);
   }
 
+  if (!g.recommande && g.secteur?.id) {
+    try {
+      const sec = await api(`/api/secteurs/${g.secteur.id}?pref=${state.pref}`);
+      const alts = (sec.groupes ?? []).filter((x) => x.recommande && x.id !== g.id).slice(0, 4);
+      if (alts.length > 0) {
+        const h = document.createElement('h3');
+        h.textContent = 'Alternatives européennes';
+        const list = document.createElement('div');
+        list.className = 'alt-list';
+        for (const a of alts) {
+          const b = document.createElement('button');
+          b.type = 'button';
+          b.className = 'chip';
+          b.textContent = a.groupe;
+          b.addEventListener('click', () => showGroupe(a.id));
+          list.appendChild(b);
+        }
+        el.detail.append(h, list);
+      }
+    } catch {}
+  }
+
   listeSources(el.detail, g.sourcesResolues);
   el.detailModal.querySelector('.detail-card').scrollTop = 0;
 }
@@ -857,6 +886,29 @@ function renderSuggestions(data, q) {
       it.run();
     });
     el.suggestions.appendChild(b);
+  }
+  if (data.horsPref && data.horsPref.length > 0) {
+    const hors = document.createElement('div');
+    hors.className = 'sug-hors';
+    const lab = document.createElement('span');
+    lab.className = 'sug-hors-label';
+    lab.textContent = `Hors de votre préférence (${data.masquees})`;
+    hors.appendChild(lab);
+    for (const h of data.horsPref) {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'sug-item hors';
+      const label = document.createElement('span');
+      label.className = 'sug-label';
+      label.textContent = h.groupe;
+      b.append(badge(h.statutLabel, h.statutCouleur), label);
+      b.addEventListener('click', () => {
+        hideSuggestions();
+        showGroupe(h.id);
+      });
+      hors.appendChild(b);
+    }
+    el.suggestions.appendChild(hors);
   }
   const all = document.createElement('button');
   all.type = 'button';

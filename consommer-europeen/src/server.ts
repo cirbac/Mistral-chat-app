@@ -678,6 +678,7 @@ app.get('/api/search', (req, res) => {
 
   function runMatch(variantsL: string[]) {
     const groupesMatch: (ReturnType<typeof withStatut> & { score: number; et: boolean })[] = [];
+    const horsPref: ReturnType<typeof withStatut>[] = [];
     let masquees = 0;
     for (const idx2 of groupeIndex) {
       const { g, s: sec, hayN, hayC, hayP } = idx2;
@@ -689,13 +690,15 @@ app.get('/api/search', (req, res) => {
         groupesMatch.push({ ...item, score: scoreOf(g, hayN, hayC, matchProduit, variantsL, sec), et: motsQ.length > 1 && matchTousMots(hayN, hayC) });
       } else {
         masquees++;
+        if (horsPref.length < 5) horsPref.push(item);
       }
     }
-    return { groupesMatch, masquees };
+    return { groupesMatch, masquees, horsPref };
   }
   const r1 = runMatch([q]);
   let groupesMatch = r1.groupesMatch;
   let masquees = r1.masquees;
+  const horsPref = r1.horsPref;
   if ((SYNONYMES[motsQ[0]] ?? []).length > 0 && r1.groupesMatch.length < 10) {
     const r2 = runMatch(variants);
     const byId = new Map(groupesMatch.map((g) => [g.id, g]));
@@ -721,6 +724,7 @@ app.get('/api/search', (req, res) => {
     secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
     groupes,
     masquees,
+    horsPref: horsPref.map(lightGroupe),
     mots: motsProches(q, 5),
   };
   if (searchCache.size > 100) searchCache.clear();

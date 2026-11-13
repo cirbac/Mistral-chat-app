@@ -66,38 +66,44 @@
   {
    "id": "rang1",
    "label": "France / UE",
-   "couleur": "#1a7f37",
-   "description": "Capital et contrôle européens, France comprise (UE, Royaume-Uni, Suisse, Norvège). Le lieu de production peut varier selon le produit."
+   "couleur": "#4CC38A",
+   "description": "Capital et contrôle européens, France comprise (UE, Royaume-Uni, Suisse, Norvège). Le lieu de production peut varier selon le produit.",
+   "pictogramme": "●"
   },
   {
    "id": "rang2",
    "label": "Hautes démocraties",
-   "couleur": "#0969da",
-   "description": "Capital et contrôle de hautes démocraties alliées : Japon, Corée du Sud, Taïwan, Canada."
+   "couleur": "#6CB4FF",
+   "description": "Capital et contrôle de hautes démocraties alliées : Japon, Corée du Sud, Taïwan, Canada.",
+   "pictogramme": "◆"
   },
   {
    "id": "vigilance",
    "label": "Vigilance",
-   "couleur": "#9a6700",
-   "description": "Groupe éligible mais avec un actionnaire chinois significatif, un transfert d'activité en cours, une production délocalisée ou un changement de contrôle récent."
+   "couleur": "#F2884B",
+   "description": "Groupe éligible mais avec un actionnaire chinois significatif, un transfert d'activité en cours, une production délocalisée ou un changement de contrôle récent.",
+   "pictogramme": "▲"
   },
   {
    "id": "hors_zones",
    "label": "Hors zones",
-   "couleur": "#6e7781",
-   "description": "Contrôle hors de vos zones mais non chinois (Turquie, États-Unis). À arbitrer selon votre politique."
+   "couleur": "#A3ADC2",
+   "description": "Contrôle hors de vos zones mais non chinois (Turquie, États-Unis). À arbitrer selon votre politique.",
+   "pictogramme": "■"
   },
   {
    "id": "a_ecarter",
    "label": "À écarter",
-   "couleur": "#cf222e",
-   "description": "Contrôle chinois, direct ou via un actionnaire majoritaire."
+   "couleur": "#FF8080",
+   "description": "Contrôle chinois, direct ou via un actionnaire majoritaire.",
+   "pictogramme": "✖"
   },
   {
    "id": "propose",
    "label": "Proposé",
-   "couleur": "#8250df",
-   "description": "Ajout proposé par un utilisateur depuis la recherche — en attente de vérification et de source."
+   "couleur": "#B79CFF",
+   "description": "Ajout proposé par un utilisateur depuis la recherche — en attente de vérification et de source.",
+   "pictogramme": "…"
   }
  ],
  "preferences": [
