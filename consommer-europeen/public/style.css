@@ -1577,3 +1577,35 @@ body.hero-compact .chips {
   gap: 10px;
   flex-wrap: wrap;
 }
+
+.fiche-alert {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin: 4px 0 12px;
+  padding: 12px 16px;
+  border: 1px solid;
+  border-left-width: 5px;
+  border-radius: var(--r-carte);
+  background: rgba(255, 128, 128, 0.08);
+  color: var(--texte);
+  font-size: var(--fs-14);
+}
+
+.fiche-alert span:first-child {
+  font-size: 1.1rem;
+}
+
+.hors-titre {
+  color: var(--texte-doux);
+  margin-top: 28px;
+}
+
+.carte-grisee {
+  opacity: 0.55;
+}
+
+.sources a {
+  color: var(--accent);
+  word-break: break-all;
+}
