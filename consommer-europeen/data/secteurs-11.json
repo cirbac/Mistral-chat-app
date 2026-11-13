@@ -298,24 +298,6 @@
     "produits": []
    },
    {
-    "id": "voyage-et-plein-air-fenix-outdoor",
-    "groupe": "Fenix Outdoor",
-    "marques": [
-     "Hanwag"
-    ],
-    "siege": "Allemagne (marque)",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Chaussures de randonnée",
-    "commentaire": "Marque du groupe Fenix Outdoor [104] .",
-    "sources": [
-     104
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "voyage-et-plein-air-meindl",
     "groupe": "Meindl",
     "marques": [
@@ -396,22 +378,6 @@
     "produits": []
    },
    {
-    "id": "voyage-et-plein-air-amer-sports",
-    "groupe": "Amer Sports",
-    "marques": [
-     "Salomon"
-    ],
-    "siege": "Finlande (origine)",
-    "siege_pays": "FI",
-    "statut": "a_ecarter",
-    "sous_categorie": "Tentes, couchage et cuisine de camp",
-    "commentaire": "Voir la ligne Amer Sports de la sous-catégorie précédente.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "voyage-et-plein-air-silva-sweden",
     "groupe": "Silva Sweden",
     "marques": [
@@ -440,22 +406,6 @@
     "statut": "rang1",
     "sous_categorie": "Tentes, couchage et cuisine de camp",
     "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "voyage-et-plein-air-decathlon",
-    "groupe": "Decathlon",
-    "marques": [
-     "Quechua"
-    ],
-    "siege": "France",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Tentes, couchage et cuisine de camp",
-    "commentaire": "Groupe familial.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],

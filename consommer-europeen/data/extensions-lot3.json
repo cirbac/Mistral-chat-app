@@ -10,10 +10,10 @@
     "siege": "Allemagne (Stuttgart)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Sport / premium",
+    "sous_categorie": "",
     "commentaire": "Marque de sport allemande, filiale de Volkswagen. 911 icône. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Allemagne"
@@ -30,10 +30,10 @@
     "siege": "Italie (Maranello)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Sport / luxe",
+    "sous_categorie": "",
     "commentaire": "Constructor italien de supercars, filiale d'Exor. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Italie"
@@ -52,10 +52,10 @@
     "siege": "Italie (Sant'Agata)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Sport / luxe",
+    "sous_categorie": "",
     "commentaire": "Filiale d'Audi (groupe VW). Urus, Huracán. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Italie"
@@ -72,10 +72,10 @@
     "siege": "Italie (Modène)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Marque du Trident, filiale de Stellantis. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Italie"
@@ -92,10 +92,10 @@
     "siege": "Italie (Turin)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Généraliste / premium",
+    "sous_categorie": "",
     "commentaire": "Filiale de Stellantis, icône italienne (Giulia, Stelvio). [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Italie",
@@ -113,10 +113,10 @@
     "siege": "Chine (Shanghai)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Électrique",
+    "sous_categorie": "",
     "commentaire": "Leader chinois du VE premium, batteries échangeables. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Chine"
@@ -133,10 +133,10 @@
     "siege": "Chine (Guangzhou)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Électrique",
+    "sous_categorie": "",
     "commentaire": "Constructeur chinois de VE intelligents. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Chine"
@@ -157,10 +157,10 @@
     "siege": "Chine (Hangzhou)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Généraliste",
+    "sous_categorie": "",
     "commentaire": "Groupe chinois propriétaire de Volvo, Polestar, Lotus. [331]",
     "sources": [
-     "331"
+     331
     ],
     "lieux_production": [
      "Chine",
@@ -182,10 +182,10 @@
     "siege": "France (Nîmes)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Trial / enduro",
+    "sous_categorie": "",
     "commentaire": "Spécialiste français de motos trial et enduro. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "France",
@@ -203,10 +203,10 @@
     "siege": "France (Alès)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Trial",
+    "sous_categorie": "",
     "commentaire": "Marque française de motos trial. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "France"
@@ -223,10 +223,10 @@
     "siege": "Italie (Florence)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Enduro / trial",
+    "sous_categorie": "",
     "commentaire": "Fabricant italien de motos tout-terrain. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "Italie"
@@ -243,10 +243,10 @@
     "siege": "Espagne (Figueres)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "50 cm / off-road",
+    "sous_categorie": "",
     "commentaire": "Fabricant espagnol de petites cylindrées et off-road. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "Espagne"
@@ -263,10 +263,10 @@
     "siege": "Suède (Stockholm)",
     "siege_pays": "SE",
     "statut": "rang1",
-    "sous_categorie": "Électrique",
+    "sous_categorie": "",
     "commentaire": "Motos et scooters électriques design scandinave. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "Suède",
@@ -284,10 +284,10 @@
     "siege": "États-Unis (Santa Cruz)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Électrique",
+    "sous_categorie": "",
     "commentaire": "Pionnier américain de la moto électrique. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "USA",
@@ -307,10 +307,10 @@
     "siege": "Chine (Hangzhou)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Moto / scooter",
+    "sous_categorie": "",
     "commentaire": "Leader chinois des motos de moyenne cylindrée. [332]",
     "sources": [
-     "332"
+     332
     ],
     "lieux_production": [
      "Chine"
@@ -331,10 +331,10 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Pneumatique",
+    "sous_categorie": "",
     "commentaire": "N°2 mondial du pneu. [333]",
     "sources": [
-     "333"
+     333
     ],
     "lieux_production": [
      "Japon",
@@ -353,10 +353,10 @@
     "siege": "États-Unis (Akron)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Pneumatique",
+    "sous_categorie": "",
     "commentaire": "Géant américain du pneu (Dunlop Europe). [333]",
     "sources": [
-     "333"
+     333
     ],
     "lieux_production": [
      "USA",
@@ -374,10 +374,10 @@
     "siege": "Japon (Sumitomo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Pneumatique",
+    "sous_categorie": "",
     "commentaire": "Marque du groupe Sumitomo Rubber. [333]",
     "sources": [
-     "333"
+     333
     ],
     "lieux_production": [
      "Japon"
@@ -395,10 +395,10 @@
     "siege": "Chine (Shanghai)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Pneumatique",
+    "sous_categorie": "",
     "commentaire": "Fabricant chinois de pneus budget. [333]",
     "sources": [
-     "333"
+     333
     ],
     "lieux_production": [
      "Chine"
@@ -421,10 +421,10 @@
     "siege": "États-Unis (Benton Harbor)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Électroménager",
+    "sous_categorie": "",
     "commentaire": "Leader américain de l'électroménager (KitchenAid). [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "USA",
@@ -442,10 +442,10 @@
     "siege": "Corée du Sud (Suwon)",
     "siege_pays": "KR",
     "statut": "rang2",
-    "sous_categorie": "Électroménager",
+    "sous_categorie": "",
     "commentaire": "Géant coréen, aussi TV et smartphones (Beside, Bespoke). [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "Corée du Sud",
@@ -463,10 +463,10 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Électroménager / clim",
+    "sous_categorie": "",
     "commentaire": "Climatisation et électroménager. [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "Japon",
@@ -484,10 +484,10 @@
     "siege": "Japon (Osaka)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Climatisation",
+    "sous_categorie": "",
     "commentaire": "Leader mondial de la climatisation et pompe à chaleur. [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "Japon",
@@ -506,10 +506,10 @@
     "siege": "Japon (Osaka)",
     "siege_pays": "JP",
     "statut": "vigilance",
-    "sous_categorie": "Électroménager / TV",
+    "sous_categorie": "",
     "commentaire": "Propriété du taïwanais Foxconn (Hon Hai). [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "Japon",
@@ -528,10 +528,10 @@
     "siege": "Chine (Foshan)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Électroménager",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial des climatiseurs et petit électroménager. [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "Chine"
@@ -549,10 +549,10 @@
     "siege": "Turquie (Manisa)",
     "siege_pays": "TR",
     "statut": "hors_zones",
-    "sous_categorie": "Électroménager",
+    "sous_categorie": "",
     "commentaire": "Premier fabricant européen de TV (OEM). [334]",
     "sources": [
-     "334"
+     334
     ],
     "lieux_production": [
      "Turquie"
@@ -574,10 +574,10 @@
     "siege": "Danemark (Struer)",
     "siege_pays": "DK",
     "statut": "rang1",
-    "sous_categorie": "TV / audio haut de gamme",
+    "sous_categorie": "",
     "commentaire": "Marque danoise de TV et audio design (BeoVision, Beosound). [335]",
     "sources": [
-     "335"
+     335
     ],
     "lieux_production": [
      "Danemark",
@@ -596,10 +596,10 @@
     "siege": "Allemagne (Zirndorf)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "TV",
+    "sous_categorie": "",
     "commentaire": "Marque allemande historique de TV, propriété de TCL depuis 2020 (licence). [335]",
     "sources": [
-     "335"
+     335
     ],
     "lieux_production": [
      "Allemagne"
@@ -621,10 +621,10 @@
     "siege": "États-Unis (Round Rock)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "PC",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial du PC (XPS, Alienware gaming). [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "USA",
@@ -644,10 +644,10 @@
     "siege": "États-Unis (Palo Alto)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "PC / imprimantes",
+    "sous_categorie": "",
     "commentaire": "Leader mondial PC et imprimantes (Spectre, Omen). [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "USA",
@@ -666,10 +666,10 @@
     "siege": "Taïwan (Taipei)",
     "siege_pays": "TW",
     "statut": "rang2",
-    "sous_categorie": "PC / gaming",
+    "sous_categorie": "",
     "commentaire": "Leader taïwanais du PC et du gaming (ROG, Zenbook). [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "Taïwan",
@@ -688,10 +688,10 @@
     "siege": "Chine (Shenzhen)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Smartphone / PC",
+    "sous_categorie": "",
     "commentaire": "Géant chinois des télécoms et smartphones (Mate, Pura). [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "Chine"
@@ -710,10 +710,10 @@
     "siege": "Chine (Pékin)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Smartphone / écosystème",
+    "sous_categorie": "",
     "commentaire": "N°2 mondial du smartphone, écosystème connecté. [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "Chine",
@@ -731,10 +731,10 @@
     "siege": "Finlande (Espoo)",
     "siege_pays": "FI",
     "statut": "rang1",
-    "sous_categorie": "Smartphone",
+    "sous_categorie": "",
     "commentaire": "Licence Nokia par HMD, smartphones sobres. [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "Finlande",
@@ -753,10 +753,10 @@
     "siege": "Suisse (Lausanne) / États-Unis",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Périphériques",
+    "sous_categorie": "",
     "commentaire": "Leader des périphériques (souris, claviers, webcam, gaming). [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "Suisse",
@@ -774,10 +774,10 @@
     "siege": "États-Unis (Framingham)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Audio",
+    "sous_categorie": "",
     "commentaire": "Référence du casque à réduction de bruit (QuietComfort, Home Speaker). [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "USA",
@@ -797,10 +797,10 @@
     "siege": "États-Unis (Redmond)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Logiciels / PC / console",
+    "sous_categorie": "",
     "commentaire": "Éditeur de Windows, Office, Azure, Surface, Xbox. [336]",
     "sources": [
-     "336"
+     336
     ],
     "lieux_production": [
      "USA",
@@ -822,10 +822,10 @@
     "siege": "Allemagne (Walldorf)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Logiciel d'entreprise",
+    "sous_categorie": "",
     "commentaire": "Leader mondial des ERP. [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "Allemagne"
@@ -844,10 +844,10 @@
     "siege": "France (Vélizy)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Logiciel industriel",
+    "sous_categorie": "",
     "commentaire": "Leader des logiciels de CAO/PLM (Catia, SolidWorks). [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "France"
@@ -864,10 +864,10 @@
     "siege": "France (Roubaix)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Hébergement cloud",
+    "sous_categorie": "",
     "commentaire": "Leader européen du cloud, hébergeur français. [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "France",
@@ -885,37 +885,14 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Services numériques",
+    "sous_categorie": "",
     "commentaire": "ESN française, conseil et intégration. [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "France",
      "Inde"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-google",
-    "groupe": "Google",
-    "marques": [
-     "Google Workspace",
-     "YouTube",
-     "Android"
-    ],
-    "siege": "États-Unis (Mountain View)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Services numériques",
-    "commentaire": "Moteur de recherche, cloud (Workspace), YouTube, Android. [337]",
-    "sources": [
-     "337"
-    ],
-    "lieux_production": [
-     "USA",
-     "Irlande"
     ],
     "certifications": [],
     "produits": []
@@ -931,10 +908,10 @@
     "siege": "États-Unis (San José)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Création",
+    "sous_categorie": "",
     "commentaire": "Suite créative (Photoshop, Premiere, Acrobat). [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "USA",
@@ -952,10 +929,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "CRM cloud",
+    "sous_categorie": "",
     "commentaire": "Leader mondial du CRM cloud. [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "USA"
@@ -972,10 +949,10 @@
     "siege": "États-Unis (Austin)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Bases de données / cloud",
+    "sous_categorie": "",
     "commentaire": "Bases de données et cloud. [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "USA"
@@ -993,10 +970,10 @@
     "siege": "États-Unis (Armonk)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Cloud / conseil",
+    "sous_categorie": "",
     "commentaire": "Cloud hybride (Red Hat), conseil. [337]",
     "sources": [
-     "337"
+     337
     ],
     "lieux_production": [
      "USA"
@@ -1022,11 +999,11 @@
     "siege": "États-Unis (Chicago)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Épicerie sucrée",
+    "sous_categorie": "",
     "commentaire": "N°2 mondial du snacking (Milka, Côte d'Or, LU, Oreo). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1046,11 +1023,11 @@
     "siege": "États-Unis (Battle Creek)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Céréales / snacks",
+    "sous_categorie": "",
     "commentaire": "Céréales et Pringles. [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1070,11 +1047,11 @@
     "siege": "États-Unis (Minneapolis)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Épicerie",
+    "sous_categorie": "",
     "commentaire": "Céréales et glaces Häagen-Dazs. [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1093,11 +1070,11 @@
     "siege": "États-Unis (Chicago)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Épicerie",
+    "sous_categorie": "",
     "commentaire": "Ketchup Heinz, sauces. [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1117,11 +1094,11 @@
     "siege": "Pays-Bas (Amsterdam)",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Bière",
+    "sous_categorie": "",
     "commentaire": "N°2 mondial de la bière (Heineken, Amstel). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "Pays-Bas",
@@ -1141,11 +1118,11 @@
     "siege": "Danemark (Copenhague)",
     "siege_pays": "DK",
     "statut": "rang1",
-    "sous_categorie": "Bière",
+    "sous_categorie": "",
     "commentaire": "Brasserie danoise (Carlsberg, Tuborg). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "Danemark",
@@ -1166,11 +1143,11 @@
     "siege": "Belgique (Louvain)",
     "siege_pays": "BE",
     "statut": "rang1",
-    "sous_categorie": "Bière",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial de la bière (Stella Artois, Leffe, Corona). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "Belgique",
@@ -1189,11 +1166,11 @@
     "siege": "Suisse (Kilchberg)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Chocolat",
+    "sous_categorie": "",
     "commentaire": "Chocolatier suisse (Lindt, Sprüngli). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "Suisse",
@@ -1212,11 +1189,11 @@
     "siege": "Allemagne (Waldenbuch)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Chocolat",
+    "sous_categorie": "",
     "commentaire": "Chocolat carré allemand familial. [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "Allemagne"
@@ -1234,11 +1211,11 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Surgelé",
+    "sous_categorie": "",
     "commentaire": "Leader européen des surgelés (Findus, Iglo). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "France",
@@ -1256,11 +1233,11 @@
     "siege": "France (Lessay)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Salades / frais",
+    "sous_categorie": "",
     "commentaire": "Leader français de la salade en sachet. [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "France"
@@ -1277,11 +1254,11 @@
     "siege": "France (Noisy-le-Grand)",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Traiteur",
+    "sous_categorie": "",
     "commentaire": "Charcuterie/traiteur, propriété du groupe coopératif... (vérifier actionnariat). [338, 351]",
     "sources": [
-     "338",
-     "351"
+     338,
+     351
     ],
     "lieux_production": [
      "France"
@@ -1305,10 +1282,10 @@
     "siege": "États-Unis (New Brunswick)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Hygiène / santé",
+    "sous_categorie": "",
     "commentaire": "Géant américain de la santé grand public (Kenvue pour les soins). [339]",
     "sources": [
-     "339"
+     339
     ],
     "lieux_production": [
      "USA",
@@ -1334,10 +1311,10 @@
     "siege": "Espagne (Barcelone)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Parfums / mode",
+    "sous_categorie": "",
     "commentaire": "Groupe familial espagnol de parfums et mode. [339]",
     "sources": [
-     "339"
+     339
     ],
     "lieux_production": [
      "Espagne",
@@ -1358,10 +1335,10 @@
     "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Cosmétiques",
+    "sous_categorie": "",
     "commentaire": "Leader américain de la beauté de prestige. [339]",
     "sources": [
-     "339"
+     339
     ],
     "lieux_production": [
      "USA",
@@ -1385,7 +1362,7 @@
     "sous_categorie": "Parfums",
     "commentaire": "Parfumeur américain (licences Burberry, Gucci). [339]",
     "sources": [
-     "339"
+     339
     ],
     "lieux_production": [
      "USA",
@@ -1409,11 +1386,11 @@
     "siege": "Italie (Milan)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison italienne de luxe (Armani, Emporio Armani). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Italie"
@@ -1431,11 +1408,11 @@
     "siege": "Italie (Milan)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison italienne (Capri Holdings). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Italie"
@@ -1452,11 +1429,11 @@
     "siege": "Italie (Milan)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Duo italien de luxe. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Italie"
@@ -1473,11 +1450,11 @@
     "siege": "Italie (Milan)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison de couture (Mayhoola). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Italie"
@@ -1494,11 +1471,11 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison britannique (trench iconique). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Royaume-Uni",
@@ -1522,11 +1499,11 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial du luxe (Louis Vuitton, Dior, Celine, Givenchy, Kenzo, Fendi). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France",
@@ -1545,11 +1522,11 @@
     "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Mode",
+    "sous_categorie": "",
     "commentaire": "Marque américaine lifestyle (Polo). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1572,11 +1549,11 @@
     "siege": "États-Unis (Denver)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Mode / outdoor",
+    "sous_categorie": "",
     "commentaire": "Groupe américain (The North Face, Vans, Timberland). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1594,11 +1571,11 @@
     "siege": "États-Unis (Ventura)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Outdoor engagé",
+    "sous_categorie": "",
     "commentaire": "Marque outdoor engagée (garantie réparable). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1616,11 +1593,11 @@
     "siege": "États-Unis (Portland)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Outdoor",
+    "sous_categorie": "",
     "commentaire": "Équipementier outdoor américain. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1641,8 +1618,8 @@
     "sous_categorie": "Chaussures",
     "commentaire": "Chaussures danoises en cuir (tanergie propre). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Danemark",
@@ -1660,11 +1637,11 @@
     "siege": "Allemagne (Meckenheim)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Sandales",
+    "sous_categorie": "",
     "commentaire": "Sandales allemandes à semelle liège (Arizona, Boston). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "Allemagne"
@@ -1681,11 +1658,11 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Baskets",
+    "sous_categorie": "",
     "commentaire": "Baskets écologiques françaises (V-10, Campo). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France",
@@ -1704,11 +1681,11 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mode femme",
+    "sous_categorie": "",
     "commentaire": "Marque parisienne de mode responsable. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France",
@@ -1726,11 +1703,11 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bottes / caoutchouc",
+    "sous_categorie": "",
     "commentaire": "Bottes en caoutchouc françaises depuis 1853. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France"
@@ -1750,8 +1727,8 @@
     "sous_categorie": "Sport",
     "commentaire": "Équipementier sportif français historique. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France"
@@ -1769,11 +1746,11 @@
     "siege": "France (Villepinte)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mode homme",
+    "sous_categorie": "",
     "commentaire": "Enseigne française de mode masculine. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France",
@@ -1791,11 +1768,11 @@
     "siege": "France (Roubaix)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mode homme",
+    "sous_categorie": "",
     "commentaire": "Enseigne française (groupe HappyChic). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "France"
@@ -1813,11 +1790,11 @@
     "siege": "États-Unis (Dearborn)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Workwear",
+    "sous_categorie": "",
     "commentaire": "Workwear américain (WIP Europe). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1835,11 +1812,11 @@
     "siege": "États-Unis (Boston)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Running",
+    "sous_categorie": "",
     "commentaire": "Équipementier américain (574, 990). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1861,8 +1838,8 @@
     "sous_categorie": "Sport",
     "commentaire": "Marque de sport (Authentic Brands). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1883,8 +1860,8 @@
     "sous_categorie": "Sport",
     "commentaire": "Équipementier sportif américain. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1902,11 +1879,11 @@
     "siege": "États-Unis (Boston)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Baskets",
+    "sous_categorie": "",
     "commentaire": "Marque de la Chuck Taylor, filiale de Nike. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1924,11 +1901,11 @@
     "siege": "États-Unis (Stratham)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Boots",
+    "sous_categorie": "",
     "commentaire": "Bottes et outdoor (filiale VF Corp). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1946,11 +1923,11 @@
     "siege": "États-Unis (Goleta)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Bottes",
+    "sous_categorie": "",
     "commentaire": "Bottes en peau lainée australienne (Deckers). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1968,11 +1945,11 @@
     "siege": "États-Unis (Broomfield)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Sandales",
+    "sous_categorie": "",
     "commentaire": "Mules en mousse EVA. [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -1990,11 +1967,11 @@
     "siege": "États-Unis (Wolverine)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Randonnée",
+    "sous_categorie": "",
     "commentaire": "Chaussures de randonnée (groupe Wolverine). [340, 351]",
     "sources": [
-     "340",
-     "351"
+     340,
+     351
     ],
     "lieux_production": [
      "USA",
@@ -2018,10 +1995,10 @@
     "siege": "États-Unis (Mansfield)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Valises",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial de la valise (Tumi racheté en 2016). [341]",
     "sources": [
-     "341"
+     341
     ],
     "lieux_production": [
      "USA",
@@ -2040,10 +2017,10 @@
     "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Sacs à dos",
+    "sous_categorie": "",
     "commentaire": "Sacs à dos (filiale VF Corp). [341]",
     "sources": [
-     "341"
+     341
     ],
     "lieux_production": [
      "USA",
@@ -2061,10 +2038,10 @@
     "siege": "Canada (Vancouver)",
     "siege_pays": "CA",
     "statut": "rang2",
-    "sous_categorie": "Sacs",
+    "sous_categorie": "",
     "commentaire": "Sacs et bagages canadiens. [341]",
     "sources": [
-     "341"
+     341
     ],
     "lieux_production": [
      "Canada",
@@ -2087,10 +2064,10 @@
     "siege": "France (Ivry)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Culture / high-tech",
+    "sous_categorie": "",
     "commentaire": "Leader français de la distribution culturelle et électroménager. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France"
@@ -2109,10 +2086,10 @@
     "siege": "France (Villeneuve)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Auto / entretien",
+    "sous_categorie": "",
     "commentaire": "Services auto (Norauto, Feu Vert). [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France",
@@ -2130,10 +2107,10 @@
     "siege": "France (Villeneuve)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Discount non alimentaire",
+    "sous_categorie": "",
     "commentaire": "Enseigne de discount (déco, maison, jouets). [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France",
@@ -2151,10 +2128,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Hard discount",
+    "sous_categorie": "",
     "commentaire": "Hard discount alimentaire français. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France"
@@ -2172,10 +2149,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bricolage",
+    "sous_categorie": "",
     "commentaire": "Coopérative de magasins de bricolage. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France"
@@ -2192,10 +2169,10 @@
     "siege": "France (Créteil)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Discount",
+    "sous_categorie": "",
     "commentaire": "Discount non alimentaire. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France"
@@ -2212,10 +2189,10 @@
     "siege": "Royaume-Uni (Blackpool)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Hard discount",
+    "sous_categorie": "",
     "commentaire": "Hard discount britannique. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "Royaume-Uni",
@@ -2233,10 +2210,10 @@
     "siege": "États-Unis (Framingham, TJX)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Mode discount",
+    "sous_categorie": "",
     "commentaire": "Vente de marques en déstockage (TJX). [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "USA",
@@ -2254,10 +2231,10 @@
     "siege": "Chine (Singapour, siège opérationnel)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Mode ultra-rapide",
+    "sous_categorie": "",
     "commentaire": "Plateforme chinoise de fast fashion en ligne. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "Chine"
@@ -2274,10 +2251,10 @@
     "siege": "Chine (Pinduoduo)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Marketplace",
+    "sous_categorie": "",
     "commentaire": "Marketplace chinois (PDD). [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "Chine"
@@ -2295,10 +2272,10 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "E-commerce",
+    "sous_categorie": "",
     "commentaire": "E-commerce et marketplace japonais. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "Japon",
@@ -2316,10 +2293,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bricolage en ligne",
+    "sous_categorie": "",
     "commentaire": "Marketplace du bricolage/jardin. [342]",
     "sources": [
-     "342"
+     342
     ],
     "lieux_production": [
      "France"
@@ -2340,10 +2317,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Opérateur virtuel",
+    "sous_categorie": "",
     "commentaire": "MVNO français (réseau Bouygues). [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "France"
@@ -2360,10 +2337,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Opérateur virtuel",
+    "sous_categorie": "",
     "commentaire": "MVNO français (réseau Orange/SFR). [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "France"
@@ -2380,10 +2357,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Opérateur virtuel",
+    "sous_categorie": "",
     "commentaire": "MVNO de La Poste (réseau SFR). [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "France"
@@ -2403,7 +2380,7 @@
     "sous_categorie": "Énergie",
     "commentaire": "Fournisseur d'électricité/gaz allemand. [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "Allemagne",
@@ -2424,7 +2401,7 @@
     "sous_categorie": "Énergie",
     "commentaire": "Leader européen de l'énergie (Enel X). [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "Italie",
@@ -2443,10 +2420,10 @@
     "siege": "Espagne (Bilbao)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Énergies renouvelables",
+    "sous_categorie": "",
     "commentaire": "Leader mondial de l'éolien. [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "Espagne",
@@ -2468,7 +2445,7 @@
     "sous_categorie": "Énergie",
     "commentaire": "Énergéticien suédois (nordique). [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "Suède",
@@ -2487,10 +2464,10 @@
     "siege": "Danemark (Fredericia)",
     "siege_pays": "DK",
     "statut": "rang1",
-    "sous_categorie": "Éolien offshore",
+    "sous_categorie": "",
     "commentaire": "Leader mondial de l'éolien en mer. [343]",
     "sources": [
-     "343"
+     343
     ],
     "lieux_production": [
      "Danemark",
@@ -2514,10 +2491,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque coopérative",
+    "sous_categorie": "",
     "commentaire": "2e groupe bancaire français. [344]",
     "sources": [
-     "344"
+     344
     ],
     "lieux_production": [
      "France"
@@ -2534,10 +2511,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque",
+    "sous_categorie": "",
     "commentaire": "Banque coopérative française. [344]",
     "sources": [
-     "344"
+     344
     ],
     "lieux_production": [
      "France"
@@ -2554,10 +2531,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque en ligne",
+    "sous_categorie": "",
     "commentaire": "Banque en ligne du Crédit Arkéa... (Crédit Mutuel Arkéa). [344]",
     "sources": [
-     "344"
+     344
     ],
     "lieux_production": [
      "France"
@@ -2574,10 +2551,10 @@
     "siege": "Pays-Bas (Amsterdam)",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Banque en ligne",
+    "sous_categorie": "",
     "commentaire": "Banque en ligne néerlandaise, présente en France. [344]",
     "sources": [
-     "344"
+     344
     ],
     "lieux_production": [
      "Pays-Bas",
@@ -2595,10 +2572,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque en ligne",
+    "sous_categorie": "",
     "commentaire": "Banque en ligne du Crédit Mutuel. [344]",
     "sources": [
-     "344"
+     344
     ],
     "lieux_production": [
      "France"
@@ -2615,10 +2592,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Compte de paiement",
+    "sous_categorie": "",
     "commentaire": "Compte sans banque, propriété de BNP Paribas. [344]",
     "sources": [
-     "344"
+     344
     ],
     "lieux_production": [
      "France"
@@ -2640,10 +2617,10 @@
     "siege": "Allemagne (Berlin)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Ferroviaire",
+    "sous_categorie": "",
     "commentaire": "Opérateur ferroviaire allemand (ICE). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Allemagne"
@@ -2661,10 +2638,10 @@
     "siege": "Autriche (Vienne)",
     "siege_pays": "AT",
     "statut": "rang1",
-    "sous_categorie": "Ferroviaire",
+    "sous_categorie": "",
     "commentaire": "Chemins de fer autrichiens (Railjet). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Autriche"
@@ -2683,10 +2660,10 @@
     "siege": "Suisse (Berne)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Ferroviaire",
+    "sous_categorie": "",
     "commentaire": "Chemins de fer fédéraux suisses. [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Suisse"
@@ -2704,10 +2681,10 @@
     "siege": "Italie (Rome)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Ferroviaire",
+    "sous_categorie": "",
     "commentaire": "Opérateur ferroviaire italien (Frecciarossa). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Italie"
@@ -2724,10 +2701,10 @@
     "siege": "États-Unis (Morgan Hill)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Vélo",
+    "sous_categorie": "",
     "commentaire": "Leader mondial du vélo de route (Tarmac, Roubaix). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "USA",
@@ -2746,10 +2723,10 @@
     "siege": "États-Unis (Waterloo)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Vélo",
+    "sous_categorie": "",
     "commentaire": "Fabricant américain de vélos (Émonda, Madone). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "USA",
@@ -2767,10 +2744,10 @@
     "siege": "Suisse (Givisiez)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Vélo",
+    "sous_categorie": "",
     "commentaire": "Vélos suisses (Addict, Foil). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Suisse",
@@ -2788,10 +2765,10 @@
     "siege": "Suisse (Grenchen)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Vélo",
+    "sous_categorie": "",
     "commentaire": "Vélos suisses haut de gamme. [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Suisse",
@@ -2809,10 +2786,10 @@
     "siege": "Italie (Treviglio)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Vélo",
+    "sous_categorie": "",
     "commentaire": "Vélos italiens depuis 1885 (celeste). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "Italie",
@@ -2830,10 +2807,10 @@
     "siege": "France (Nevers)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vélo / pédales",
+    "sous_categorie": "",
     "commentaire": "Vélos et pédales Look (Kéo). [345]",
     "sources": [
-     "345"
+     345
     ],
     "lieux_production": [
      "France",
@@ -2858,10 +2835,10 @@
     "siege": "États-Unis (Bethesda)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Hôtellerie",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial de l'hôtellerie (30+ marques). [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "USA",
@@ -2882,10 +2859,10 @@
     "siege": "États-Unis (McLean)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Hôtellerie",
+    "sous_categorie": "",
     "commentaire": "Groupe hôtelier mondial (Hilton, Waldorf). [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "USA",
@@ -2906,10 +2883,10 @@
     "siege": "Royaume-Uni (Windsor)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Hôtellerie",
+    "sous_categorie": "",
     "commentaire": "Groupe britannique (Holiday Inn, ibis, Crowne Plaza). [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "Royaume-Uni",
@@ -2928,10 +2905,10 @@
     "siege": "Espagne (Palma)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Hôtellerie",
+    "sous_categorie": "",
     "commentaire": "Groupe hôtelier espagnol (Sol, Melia). [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "Espagne",
@@ -2949,10 +2926,10 @@
     "siege": "Espagne (Palma)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Hôtellerie",
+    "sous_categorie": "",
     "commentaire": "Chaîne familiale espagnole (resorts). [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "Espagne",
@@ -2970,10 +2947,10 @@
     "siege": "Allemagne (Hanovre)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Club vacances",
+    "sous_categorie": "",
     "commentaire": "Clubs de vacances du groupe TUI. [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "Allemagne",
@@ -2992,10 +2969,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Résidences de tourisme",
+    "sous_categorie": "",
     "commentaire": "Location de vacances entre particuliers (Abritel). [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "France"
@@ -3014,10 +2991,10 @@
     "siege": "France (Aix-en-Provence)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Camping",
+    "sous_categorie": "",
     "commentaire": "Leader européen de l'hôtellerie de plein air. [346]",
     "sources": [
-     "346"
+     346
     ],
     "lieux_production": [
      "France",
@@ -3042,10 +3019,10 @@
     "siege": "États-Unis (El Segundo)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Jouets",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial du jouet (Barbie, Hot Wheels). [347]",
     "sources": [
-     "347"
+     347
     ],
     "lieux_production": [
      "USA",
@@ -3068,10 +3045,10 @@
     "siege": "États-Unis (Pawtucket)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Jouets / jeux",
+    "sous_categorie": "",
     "commentaire": "Jeux et jouets (NERF, Play-Doh, Transformers). [347]",
     "sources": [
-     "347"
+     347
     ],
     "lieux_production": [
      "USA",
@@ -3089,10 +3066,10 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Jeux / licences",
+    "sous_categorie": "",
     "commentaire": "Licences Pokémon (cartes, jeux). [347]",
     "sources": [
-     "347"
+     347
     ],
     "lieux_production": [
      "Japon",
@@ -3110,10 +3087,10 @@
     "siege": "Hong Kong",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Jouets éducatifs électroniques",
+    "sous_categorie": "",
     "commentaire": "Jouets éducatifs pour enfants. [347]",
     "sources": [
-     "347"
+     347
     ],
     "lieux_production": [
      "Chine"
@@ -3130,10 +3107,10 @@
     "siege": "Allemagne (Fürth)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Véhicules jouets",
+    "sous_categorie": "",
     "commentaire": "Véhicules et engins de chantier jouets. [347]",
     "sources": [
-     "347"
+     347
     ],
     "lieux_production": [
      "Allemagne"
@@ -3150,10 +3127,10 @@
     "siege": "Italie (Recanati)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Jeux éducatifs",
+    "sous_categorie": "",
     "commentaire": "Jeux éducatifs italiens. [347]",
     "sources": [
-     "347"
+     347
     ],
     "lieux_production": [
      "Italie"
@@ -3174,10 +3151,10 @@
     "siege": "France (Fresnoy-le-Grand)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Cocottes fonte",
+    "sous_categorie": "",
     "commentaire": "Cocottes en fonte émaillée iconiques, fabriquées en France. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France",
@@ -3195,10 +3172,10 @@
     "siege": "France (Fecamp)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Casseroles inox",
+    "sous_categorie": "",
     "commentaire": "Casseroles inox françaises. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France",
@@ -3216,10 +3193,10 @@
     "siege": "France (Saint-Jean-de-Maurienne)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Coutellerie",
+    "sous_categorie": "",
     "commentaire": "Couteaux pliants savoyards depuis 1890. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France"
@@ -3236,10 +3213,10 @@
     "siege": "Italie (Omegna)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Cafetière",
+    "sous_categorie": "",
     "commentaire": "Cafetière moka italienne iconique. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "Italie",
@@ -3257,10 +3234,10 @@
     "siege": "Italie (Omegna)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Casseroles",
+    "sous_categorie": "",
     "commentaire": "Ustensiles de cuisine italiens. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "Italie"
@@ -3278,10 +3255,10 @@
     "siege": "France (Écurey)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Moulins / ustensiles",
+    "sous_categorie": "",
     "commentaire": "Moulins à poivre Peugeot, fabriqués en France. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France"
@@ -3298,10 +3275,10 @@
     "siege": "France (Vertou)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Décoration",
+    "sous_categorie": "",
     "commentaire": "Enseigne française de décoration et mobilier. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France",
@@ -3319,10 +3296,10 @@
     "siege": "France (Lognes)",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Mobilier",
+    "sous_categorie": "",
     "commentaire": "Enseigne de mobilier (actionnariat Steinhoff). [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France"
@@ -3339,10 +3316,10 @@
     "siege": "France (Émerainville)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mobilier / déco",
+    "sous_categorie": "",
     "commentaire": "Enseigne française d'ameublement. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France"
@@ -3359,10 +3336,10 @@
     "siege": "France (Aubagne)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Décoration",
+    "sous_categorie": "",
     "commentaire": "Enseigne du groupe Auchan (décoration). [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France",
@@ -3380,10 +3357,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mobilier design",
+    "sous_categorie": "",
     "commentaire": "Éditeur de mobilier contemporain. [348]",
     "sources": [
-     "348"
+     348
     ],
     "lieux_production": [
      "France",
@@ -3405,10 +3382,10 @@
     "siege": "États-Unis (Olathe)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Montres sport / GPS",
+    "sous_categorie": "",
     "commentaire": "Montres GPS et sport (Forerunner, fénix). [349]",
     "sources": [
-     "349"
+     349
     ],
     "lieux_production": [
      "USA",
@@ -3426,10 +3403,10 @@
     "siege": "Finlande (Kemple)",
     "siege_pays": "FI",
     "statut": "rang1",
-    "sous_categorie": "Montres sport",
+    "sous_categorie": "",
     "commentaire": "Montres de sport finlandaises (capteur cardiaque). [349]",
     "sources": [
-     "349"
+     349
     ],
     "lieux_production": [
      "Finlande",
@@ -3447,10 +3424,10 @@
     "siege": "Finlande (Vantaa)",
     "siege_pays": "FI",
     "statut": "rang1",
-    "sous_categorie": "Montres outdoor",
+    "sous_categorie": "",
     "commentaire": "Montres outdoor finlandaises (groupe Amer Sports). [349]",
     "sources": [
-     "349"
+     349
     ],
     "lieux_production": [
      "Finlande",
@@ -3468,10 +3445,10 @@
     "siege": "Suisse (La Chaux-de-Fonds)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Horlogerie sport",
+    "sous_categorie": "",
     "commentaire": "Horloger suisse du groupe LVMH (Carrera, Monaco). [349]",
     "sources": [
-     "349"
+     349
     ],
     "lieux_production": [
      "Suisse",
@@ -3492,7 +3469,7 @@
     "sous_categorie": "Optique",
     "commentaire": "Coopérative d'opticiens français. [349]",
     "sources": [
-     "349"
+     349
     ],
     "lieux_production": [
      "France"
@@ -3513,10 +3490,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vidéo en ligne",
+    "sous_categorie": "",
     "commentaire": "Plateforme vidéo française (Vivendi). [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "France"
@@ -3533,10 +3510,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Musique hi-fi",
+    "sous_categorie": "",
     "commentaire": "Streaming musical hi-fi français. [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "France"
@@ -3553,10 +3530,10 @@
     "siege": "États-Unis (San Bruno)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Vidéo / streaming",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial de la vidéo en ligne. [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "USA"
@@ -3573,10 +3550,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Streaming live",
+    "sous_categorie": "",
     "commentaire": "Leader du streaming live gaming. [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "USA"
@@ -3593,10 +3570,10 @@
     "siege": "États-Unis (Seattle)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Streaming",
+    "sous_categorie": "",
     "commentaire": "SVOD d'Amazon. [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "USA",
@@ -3614,10 +3591,10 @@
     "siege": "États-Unis (Cupertino)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Streaming",
+    "sous_categorie": "",
     "commentaire": "SVOD d'Apple. [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "USA"
@@ -3635,10 +3612,10 @@
     "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Streaming",
+    "sous_categorie": "",
     "commentaire": "SVOD de Paramount (CBS). [350]",
     "sources": [
-     "350"
+     350
     ],
     "lieux_production": [
      "USA"

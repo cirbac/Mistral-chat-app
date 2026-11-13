@@ -203,7 +203,7 @@ function recommande(statut: string, siegePays: string, pref: string): boolean {
 }
 
 function norm(s: string): string {
-  return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\u2019']/g, '');
+  return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\u2019'&]/g, '');
 }
 
 function stem(w: string): string {
@@ -236,6 +236,7 @@ function sortGroupes<T extends { statut: string; groupe: string; recommande: boo
 
 const app = express();
 app.use(express.json({ limit: '64kb' }));
+app.set('trust proxy', 1);
 app.use(compression());
 app.disable('x-powered-by');
 app.use((_req, res, next) => {
@@ -246,6 +247,14 @@ app.use((_req, res, next) => {
 });
 
 const rlHits = new Map<string, number[]>();
+setInterval(() => {
+  const now = Date.now();
+  for (const [k, arr] of rlHits) {
+    const a = arr.filter((t) => now - t < 60000);
+    if (a.length) rlHits.set(k, a);
+    else rlHits.delete(k);
+  }
+}, 120000).unref();
 app.use('/api/', (req, res, next) => {
   const now = Date.now();
   const key = req.ip ?? 'x';
@@ -349,7 +358,7 @@ app.get('/api/accueil', (req, res) => {
   res.json({ phares: phares.slice(0, 24), nouveaux });
 });
 
-const COMMON = new Set(['the','and','for','with','les','des','une','est','sur','aux','par','pas','plus','mais','dont','avec','que','qui','son','ses','est']);
+const COMMON = new Set(['the','and','for','with','les','des','une','un','est','sur','aux','par','pas','plus','mais','dont','avec','que','qui','son','ses','de','du','la','le','en','au','a','et','ou','ce','cet','cette','se','ne','y','il','elle','on','nous','vous','ils','elles','leur','leurs','mon','ma','mes','ton','ta','tes']);
 const SYNONYMES: Record<string, string[]> = {
   the: ['thé', 'tea'], 'thé': ['the', 'tea'], tea: ['thé', 'the'],
   cafe: ['café', 'coffee'], 'café': ['cafe', 'coffee'], coffee: ['café', 'cafe'],
@@ -408,6 +417,24 @@ for (const s of secteurs) {
       seenP.add(pr.id);
       return true;
     });
+  }
+}
+{
+  const byName = new Map<string, Groupe>();
+  for (const s of secteurs) for (const g of s.groupes) byName.set(norm(g.groupe), g);
+  const PRUDENCE: Record<string, number> = { a_ecarter: 0, hors_zones: 1, vigilance: 2, rang2: 3, rang1: 4, propose: 5 };
+  for (const s of secteurs) {
+    for (const g of s.groupes) {
+      const m = /\(([^)]+)\)\s*$/.exec(g.groupe);
+      if (!m) continue;
+      const parent = byName.get(norm(m[1].replace(/\s*(groupe|group|sa|ag|holdings?)\s*$/i, '').trim()));
+      if (parent && parent.id !== g.id && parent.statut !== 'propose' && g.statut !== 'propose') {
+        if (PRUDENCE[parent.statut] < PRUDENCE[g.statut]) {
+          g.statut = parent.statut;
+          if (parent.siege_pays && parent.siege_pays !== '??') g.siege_pays = parent.siege_pays;
+        }
+      }
+    }
   }
 }
 dedupGroupes();
@@ -523,21 +550,35 @@ app.get('/api/search', (req, res) => {
     return;
   }
   const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe', 'cuir', 'daim', 'nubuck', 'suede', 'synthetique', 'coton', 'laine', 'maille', 'plastique', 'caoutchouc', 'bois', 'metal', 'aluminium', 'verre', 'goretex', 'acier', 'inox']);
-  const motsQ0 = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  const motsQ0 = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 2);
   const motsForts = motsQ0.filter((w) => !MOUS.has(w));
   if (motsForts.length > 0 && motsForts.length < motsQ0.length) q = motsForts.join(' ');
   if (motsForts.length === 0) {
-    res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: [] });
-    return;
+    const syn = SYNONYMES[motsQ0[0]]?.[0];
+    if (syn) q = norm(syn);
+    else {
+      res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: [] });
+      return;
+    }
   }
-  const motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  let motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 2 && !COMMON.has(w));
+  if (motsQ.length === 0) {
+    const syn = (SYNONYMES[motsQ0[0]] ?? []).map(norm).find((v) => !COMMON.has(v));
+    if (!syn) {
+      res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: [] });
+      return;
+    }
+    q = norm(syn);
+    motsQ = [q];
+  }
   const variants = [q, ...(SYNONYMES[motsQ[0]] ?? []).map((v) => norm(v))];
 
   const wordMatch = (hay: string, w: string) => {
     const sw = stem(w);
     return hay.split(/[^a-z0-9]+/).some((x) => x === w || stem(x) === sw);
   };
-  const matchNom = (hayN: string, hayC: string, w: string) => wordMatch(hayN, w) || wordMatch(hayC, w) || (w.length >= 4 && hayN.includes(w));
+  const matchNom = (hayN: string, hayC: string, w: string) =>
+    wordMatch(hayN, w) || (w.length >= 3 && wordMatch(hayC, w)) || (w.length >= 4 && hayN.includes(w));
   const matchAnyL = (hayN: string, hayC: string, variantsL: string[]) =>
     (!COMMON.has(q) && q.length >= 4 && hayN.includes(q)) ||
     motsQ.some((m) => matchNom(hayN, hayC, m)) ||
@@ -545,7 +586,7 @@ app.get('/api/search', (req, res) => {
   const matchTousMots = (hayN: string, hayC: string) =>
     motsQ.length > 1 && motsQ.every((m) => matchNom(hayN, hayC, m) || (SYNONYMES[m] ?? []).some((v) => wordMatch(hayC, norm(v))));
 
-  function scoreOf(g: { groupe: string; marques: string[]; aliases?: string[] }, hayN: string, hayC: string, matchProduit: boolean, variantsL: string[]): number {
+  function scoreOf(g: { groupe: string; marques: string[]; aliases?: string[] }, hayN: string, hayC: string, matchProduit: boolean, variantsL: string[], sec?: Secteur): number {
     let sc = 0;
     const ql = q;
     for (const name of [g.groupe, ...g.marques]) {
@@ -554,9 +595,10 @@ app.get('/api/search', (req, res) => {
       else if (n.startsWith(ql)) sc = Math.max(sc, 80);
     }
     if (motsQ.some((m) => (g.aliases ?? []).some((a) => norm(a) === m))) sc = Math.max(sc, 60);
-    if (sc === 0 && matchAnyL(hayN, hayC, variantsL)) sc = 60;
-    if (sc === 0 && matchTousMots(hayN, hayC)) sc = 50;
-    if (sc === 0 && wordMatch(hayC, q)) sc = 30;
+    if (matchTousMots(hayN, hayC)) sc = Math.max(sc, 70);
+    else if (matchAnyL(hayN, hayC, variantsL)) sc = Math.max(sc, 50);
+    else if (q.length >= 3 && wordMatch(hayC, q)) sc = 30;
+    if (sec && (matchNom(norm(sec.nom), norm(sec.nom), q) || (sec.keywords ?? []).some((k) => wordMatch(norm(k), q)))) sc += 15;
     if (matchProduit) sc = Math.max(sc, 10);
     return sc;
   }
@@ -569,7 +611,7 @@ app.get('/api/search', (req, res) => {
   );
 
   function runMatch(variantsL: string[]) {
-    const groupesMatch: (ReturnType<typeof withStatut> & { score: number })[] = [];
+    const groupesMatch: (ReturnType<typeof withStatut> & { score: number; et: boolean })[] = [];
     let masquees = 0;
     for (const idx2 of groupeIndex) {
       const { g, s: sec, hayN, hayC, hayP } = idx2;
@@ -578,7 +620,7 @@ app.get('/api/search', (req, res) => {
       const matchC = matchAnyL(hayN, hayC, variantsL) || matchTousMots(hayN, hayC);
       if (!matchC && !matchProduit) continue;
       if (item.recommande) {
-        groupesMatch.push({ ...item, score: scoreOf(g, hayN, hayC, matchProduit, variantsL) });
+        groupesMatch.push({ ...item, score: scoreOf(g, hayN, hayC, matchProduit, variantsL, sec), et: motsQ.length > 1 && matchTousMots(hayN, hayC) });
       } else {
         masquees++;
       }
@@ -600,7 +642,10 @@ app.get('/api/search', (req, res) => {
     masquees = Math.max(masquees, r2.masquees);
   }
   const { masquees: masqueesFin } = { masquees };
-  const groupes = groupesMatch
+  let gm = groupesMatch;
+  const nbEt = gm.filter((g) => g.et).length;
+  if (motsQ.length > 1 && nbEt >= 3) gm = gm.filter((g) => g.et);
+  const groupes = gm
     .sort((a, b) => b.score - a.score || (STATUT_ORDRE.indexOf(a.statut) - STATUT_ORDRE.indexOf(b.statut)) || a.groupe.localeCompare(b.groupe))
     .slice(0, 100)
     .map(lightGroupe);
@@ -712,7 +757,6 @@ app.post('/api/produits', (req, res) => {
 });
 
 app.get('/admin', (req, res) => {
-  if (!requireAdmin(req, res)) return;
   res.sendFile(path.join(rootDir, 'public', 'admin.html'));
 });
 

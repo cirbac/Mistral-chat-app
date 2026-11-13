@@ -106,22 +106,6 @@
     "produits": []
    },
    {
-    "id": "informatique-et-telephonie-samsung",
-    "groupe": "Samsung",
-    "marques": [
-     "Galaxy Book Corée du Sud"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Ordinateurs",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "informatique-et-telephonie-lg-electronics",
     "groupe": "LG Electronics",
     "marques": [

@@ -1,6 +1,17 @@
 const el = { ajouts: document.getElementById('ajouts'), vide: document.getElementById('vide') };
 
+function adminToken() {
+  let t = sessionStorage.getItem('ce-admin-token');
+  if (!t) {
+    t = prompt('Jeton administrateur (ADMIN_TOKEN) :');
+    if (t) sessionStorage.setItem('ce-admin-token', t);
+  }
+  return t;
+}
+
 async function api(path, opts = {}) {
+  const token = adminToken();
+  opts.headers = { ...(opts.headers || {}), ...(token ? { 'x-admin-token': token } : {}) };
   const res = await fetch(path, opts);
   if (!res.ok) {
     const data = await res.json().catch(() => ({}));

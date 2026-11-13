@@ -233,13 +233,6 @@
   "sport",
   "tennis"
  ],
- "vetements-chaussures-sport-asics": [
-  "baskets",
-  "chaussure",
-  "running",
-  "sport",
-  "tennis"
- ],
  "vetements-chaussures-et-sport-mizuno": [
   "baskets",
   "running",
@@ -265,18 +258,6 @@
   "veste",
   "vélo"
  ],
- "vetements-chaussures-sport-decathlon": [
-  "baskets",
-  "camping",
-  "chaussure",
-  "fitness",
-  "natation",
-  "randonnée",
-  "sac à dos",
-  "sport",
-  "tente",
-  "vélo"
- ],
  "vetements-chaussures-et-sport-adidas": [
   "baskets",
   "football",
@@ -286,22 +267,7 @@
   "survêtement",
   "t-shirt"
  ],
- "vetements-chaussures-sport-adidas": [
-  "baskets",
-  "football",
-  "running",
-  "sneakers",
-  "sport",
-  "survêtement"
- ],
  "vetements-chaussures-et-sport-puma": [
-  "baskets",
-  "football",
-  "running",
-  "sneakers",
-  "sport"
- ],
- "vetements-chaussures-sport-puma": [
   "baskets",
   "football",
   "running",
@@ -391,12 +357,6 @@
   "sac à dos",
   "trekking",
   "veste"
- ],
- "voyage-et-plein-air-hanwag": [
-  "botte",
-  "chaussure",
-  "cuir",
-  "randonnée"
  ],
  "voyage-et-plein-air-meindl": [
   "botte",
@@ -511,12 +471,6 @@
   "sac de couchage",
   "tente"
  ],
- "voyage-et-plein-air-belkin": [
-  "chargeur",
-  "câble",
-  "multiprise",
-  "protection"
- ],
  "voyage-et-plein-air-anker-innovations": [
   "batterie externe",
   "chargeur",
@@ -627,13 +581,6 @@
   "nintendo",
   "switch",
   "zelda"
- ],
- "jouets-jeux-video-nintendo": [
-  "console",
-  "jeu vidéo",
-  "mario",
-  "nintendo",
-  "switch"
  ],
  "jouets-et-jeux-video-sony-interactive-entertainment": [
   "console",
@@ -2329,13 +2276,6 @@
   "cb",
   "paiement"
  ],
- "distribution-et-paiement-action": [
-  "action",
-  "courses",
-  "hard discount",
-  "non alimentaire",
-  "pas cher"
- ],
  "telecoms-numerique-et-energie-bouygues-telecom": [
   "b&you",
   "bouygues",
@@ -2465,14 +2405,6 @@
   "compte",
   "la banque postale",
   "épargne"
- ],
- "banque-assurance-et-epargne-axa": [
-  "assurance",
-  "auto",
-  "axa",
-  "habitation",
-  "santé",
-  "vie"
  ],
  "banque-assurance-et-epargne-allianz": [
   "allianz",
@@ -2804,15 +2736,6 @@
   "séries",
   "vod"
  ],
- "medias-streaming-et-culture-disney": [
-  "abonnement",
-  "disney+",
-  "films",
-  "marvel",
-  "pixar",
-  "streaming",
-  "séries"
- ],
  "medias-streaming-culture-spotify": [
   "abonnement",
   "musique",
@@ -2985,11 +2908,6 @@
  ],
  "logiciels-capgemini": [
   "capgemini"
- ],
- "logiciels-google": [
-  "android",
-  "google workspace",
-  "youtube"
  ],
  "logiciels-adobe": [
   "acrobat",
@@ -3449,14 +3367,6 @@
   "cbs",
   "paramount+"
  ],
- "motos-et-scooters-honda": [
-  "2-roues",
-  "africa twin",
-  "gold wing",
-  "honda",
-  "moto",
-  "scooter"
- ],
  "informatique-et-telephonie-google-pixel": [
   "android",
   "chromebook",
@@ -3464,30 +3374,6 @@
   "pixel",
   "smartphone",
   "téléphone"
- ],
- "informatique-et-telephonie-xiaomi": [
-  "android",
-  "montre connectée",
-  "pas cher",
-  "poco",
-  "redmi",
-  "smartphone",
-  "xiaomi"
- ],
- "informatique-et-telephonie-huawei": [
-  "5g",
-  "huawei",
-  "mate",
-  "smartphone",
-  "téléphone"
- ],
- "informatique-et-telephonie-dell": [
-  "alienware",
-  "dell",
-  "ordinateur",
-  "pc",
-  "portable",
-  "xps"
  ],
  "informatique-et-telephonie-hp": [
   "hp",
@@ -3497,42 +3383,6 @@
   "pc",
   "portable",
   "spectre"
- ],
- "informatique-et-telephonie-asus": [
-  "asus",
-  "carte graphique",
-  "gaming",
-  "ordinateur",
-  "portable",
-  "rog",
-  "zenbook"
- ],
- "alimentation-et-boissons-heineken": [
-  "amstel",
-  "bière",
-  "blonde",
-  "boisson",
-  "heineken",
-  "pression",
-  "sans alcool"
- ],
- "alimentation-et-boissons-carlsberg": [
-  "1664",
-  "bière",
-  "kronenbourg",
-  "pression",
-  "sans alcool",
-  "tuborg"
- ],
- "hygiene-sante-johnson-johnson": [
-  "band-aid",
-  "coton",
-  "crème",
-  "crème solaire",
-  "pansement",
-  "santé",
-  "savon",
-  "soin bébé"
  ],
  "vetements-chaussures-et-sport-shein": [
   "en ligne",
@@ -3544,17 +3394,6 @@
   "t-shirt",
   "tendance",
   "vêtement"
- ],
- "distribution-et-paiement-fnac-darty": [
-  "billetterie",
-  "darty",
-  "fnac",
-  "high-tech",
-  "livre",
-  "musique",
-  "ordinateur",
-  "tv",
-  "électroménager"
  ],
  "telecoms-numerique-et-energie-ovhcloud": [
   "cloud",
@@ -3594,32 +3433,6 @@
   "voyage",
   "westin"
  ],
- "jouets-et-jeux-video-hasbro": [
-  "cartes",
-  "hasbro",
-  "jeu de société",
-  "jouet",
-  "monopoly",
-  "nerf",
-  "play-doh",
-  "poupée"
- ],
- "medias-streaming-et-culture-youtube": [
-  "créateur",
-  "musique",
-  "replay",
-  "streaming",
-  "vidéo",
-  "youtube"
- ],
- "restauration-et-livraison-quick": [
-  "burger",
-  "fast-food",
-  "frites",
-  "quick",
-  "restaurant",
-  "sandwich"
- ],
  "restauration-et-livraison-too-good-to-go": [
   "anti-gaspi",
   "appli",
@@ -3648,18 +3461,12 @@
  "motos-honda-motor": [
   "honda"
  ],
- "motos-royal-enfield": [
-  "royal enfield"
- ],
  "motos-bajaj": [
   "bajaj",
   "pulsar"
  ],
  "motos-indian": [
   "indian"
- ],
- "motos-swm": [
-  "swm"
  ],
  "motos-bultaco": [
   "bultaco"
@@ -4031,10 +3838,6 @@
   "fifa",
   "the sims"
  ],
- "jeux-paradox": [
-  "cities skylines",
-  "paradox"
- ],
  "jeux-gameloft": [
   "gameloft"
  ],
@@ -4199,10 +4002,6 @@
  ],
  "logiciels-harfanglab": [
   "harfanglab"
- ],
- "logiciels-mistral": [
-  "le chat",
-  "mistral"
  ],
  "logiciels-huggingface": [
   "hugging face"

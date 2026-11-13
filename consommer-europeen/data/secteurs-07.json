@@ -492,22 +492,6 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-yandex",
-    "groupe": "Yandex",
-    "marques": [
-     "Yandex Browser"
-    ],
-    "siege": "Russie",
-    "siege_pays": "RU",
-    "statut": "hors_zones",
-    "sous_categorie": "Navigateurs web",
-    "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-opera-limited",
     "groupe": "Opera Limited",
     "marques": [
@@ -603,22 +587,6 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-naver",
-    "groupe": "Naver",
-    "marques": [
-     "Naver Search Corée du Sud"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Moteurs de recherche",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-startpage",
     "groupe": "Startpage",
     "marques": [
@@ -687,23 +655,6 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-infomaniak",
-    "groupe": "Infomaniak",
-    "marques": [
-     "kSuite",
-     "Swiss Backup"
-    ],
-    "siege": "Suisse",
-    "siege_pays": "CH",
-    "statut": "rang1",
-    "sous_categorie": "Courrier, stockage et bureautique",
-    "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-nextcloud",
     "groupe": "Nextcloud",
     "marques": [
@@ -762,23 +713,6 @@
     "statut": "rang2",
     "sous_categorie": "Courrier, stockage et bureautique",
     "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-naver",
-    "groupe": "Naver",
-    "marques": [
-     "Naver Mail",
-     "Naver Cloud Corée du Sud"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Courrier, stockage et bureautique",
-    "commentaire": "",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -882,22 +816,6 @@
     "produits": []
    },
    {
-    "id": "logiciels-et-applications-samsung",
-    "groupe": "Samsung",
-    "marques": [
-     "One UI (sur Android) Corée du Sud"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Systèmes d'exploitation",
-    "commentaire": "Surcouche reposant sur Android, donc dépendance à Google.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-et-applications-grapheneos",
     "groupe": "GrapheneOS",
     "marques": [
@@ -926,23 +844,6 @@
     "statut": "hors_zones",
     "sous_categorie": "Systèmes d'exploitation",
     "commentaire": "Hors de vos zones.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-proton",
-    "groupe": "Proton",
-    "marques": [
-     "Proton VPN",
-     "Proton Pass"
-    ],
-    "siege": "Suisse",
-    "siege_pays": "CH",
-    "statut": "rang1",
-    "sous_categorie": "VPN, mots de passe et sécurité",
-    "commentaire": "Voir la ligne Proton de la sous-catégorie précédente.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -1007,24 +908,6 @@
     "statut": "rang1",
     "sous_categorie": "Réseaux sociaux et plateformes",
     "commentaire": "Association allemande à but non lucratif. Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-meta",
-    "groupe": "Meta",
-    "marques": [
-     "Facebook",
-     "Instagram",
-     "Threads États-Unis"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "hors_zones",
-    "sous_categorie": "Réseaux sociaux et plateformes",
-    "commentaire": "Hors de vos zones.",
     "sources": [],
     "lieux_production": [],
     "certifications": [],
@@ -1114,22 +997,6 @@
      89,
      90
     ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-et-applications-naver",
-    "groupe": "Naver",
-    "marques": [
-     "HyperCLOVA X Corée du Sud"
-    ],
-    "siege": "",
-    "siege_pays": "??",
-    "statut": "rang2",
-    "sous_categorie": "Assistants d'intelligence artificielle",
-    "commentaire": "Non revérifié.",
-    "sources": [],
     "lieux_production": [],
     "certifications": [],
     "produits": []

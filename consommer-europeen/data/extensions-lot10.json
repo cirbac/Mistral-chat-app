@@ -11,7 +11,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Tentes",
+    "sous_categorie": "",
     "commentaire": "Tentes familiales. [327, 330]",
     "sources": [
      327,
@@ -33,7 +33,7 @@
     "siege": "Nouvelle-Zélande",
     "siege_pays": "NZ",
     "statut": "hors_zones",
-    "sous_categorie": "Mérinos",
+    "sous_categorie": "",
     "commentaire": "Mérinos (VF Corp). [327, 330]",
     "sources": [
      327,
@@ -55,7 +55,7 @@
     "siege": "Royaume-Uni (Alfreton)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Doudounes",
+    "sous_categorie": "",
     "commentaire": "Doudounes techniques. [327, 330]",
     "sources": [
      327,
@@ -69,27 +69,6 @@
     "produits": []
    },
    {
-    "id": "outdoor-mammut-lot10? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [327, 330]",
-    "sources": [
-     327,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "couteau-leatherman",
     "groupe": "Leatherman",
     "marques": [
@@ -98,7 +77,7 @@
     "siege": "USA (Portland)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Multi-outils",
+    "sous_categorie": "",
     "commentaire": "Multi-outils. [327, 330]",
     "sources": [
      327,
@@ -112,27 +91,6 @@
     "produits": []
    },
    {
-    "id": "lampe-petzl-lot10? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [327, 330]",
-    "sources": [
-     327,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "lampe-frontale-blackdiamond",
     "groupe": "Black Diamond",
     "marques": [
@@ -141,7 +99,7 @@
     "siege": "USA (Salt Lake City)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Escalade",
+    "sous_categorie": "",
     "commentaire": "Équipement escalade. [327, 330]",
     "sources": [
      327,
@@ -168,7 +126,7 @@
     "siege": "France (Saint-Denis)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vente privée",
+    "sous_categorie": "",
     "commentaire": "Pionnier vente privée en ligne. [327, 330]",
     "sources": [
      327,
@@ -190,7 +148,7 @@
     "siege": "France (Roubaix)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "E-commerce mode/maison",
+    "sous_categorie": "",
     "commentaire": "VPC historique. [327, 330]",
     "sources": [
      327,
@@ -212,7 +170,7 @@
     "siege": "France/USA",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Entretien auto",
+    "sous_categorie": "",
     "commentaire": "Centres (Michelin). [327, 330]",
     "sources": [
      327,
@@ -234,7 +192,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Entretien auto rapide",
+    "sous_categorie": "",
     "commentaire": "Rapide. [327, 330]",
     "sources": [
      327,
@@ -245,74 +203,11 @@
     ],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "distribution-normandie? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [327, 330]",
-    "sources": [
-     327,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-carrefour-lot10? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [327, 330]",
-    "sources": [
-     327,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
    }
   ]
  },
  "20": {
   "groupes": [
-   {
-    "id": "radio-rtl-lot10? exists",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [327, 330]",
-    "sources": [
-     327,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
    {
     "id": "radio-nrj",
     "groupe": "NRJ (radio)",
@@ -325,7 +220,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Radio privée",
+    "sous_categorie": "",
     "commentaire": "Radios du groupe NRJ. [327, 330]",
     "sources": [
      327,
@@ -349,7 +244,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Radio talk/info",
+    "sous_categorie": "",
     "commentaire": "Talk radio (Altice). [327, 330]",
     "sources": [
      327,
@@ -372,7 +267,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "TV TNT",
+    "sous_categorie": "",
     "commentaire": "Chaînes TNT gratuites (Canal+). [327, 330]",
     "sources": [
      327,
@@ -393,7 +288,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "TV jeunesse",
+    "sous_categorie": "",
     "commentaire": "Jeunesse (M6). [327, 330]",
     "sources": [
      327,
@@ -414,7 +309,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "TV jeunesse",
+    "sous_categorie": "",
     "commentaire": "Jeunesse (France TV). [327, 330]",
     "sources": [
      327,
@@ -422,27 +317,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "tv-gulli? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [327, 330]",
-    "sources": [
-     327,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -456,7 +330,7 @@
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Streaming UK",
+    "sous_categorie": "",
     "commentaire": "Streaming britannique (BBC/ITV). [327, 330]",
     "sources": [
      327,
@@ -478,7 +352,7 @@
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Streaming UK",
+    "sous_categorie": "",
     "commentaire": "NOW (Sky). [327, 330]",
     "sources": [
      327,
@@ -499,7 +373,7 @@
     "siege": "USA (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Streaming docu",
+    "sous_categorie": "",
     "commentaire": "Documentaires (Warner Bros. Discovery). [327, 330]",
     "sources": [
      327,

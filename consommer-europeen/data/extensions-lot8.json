@@ -11,7 +11,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Coopérative laitière",
+    "sous_categorie": "",
     "commentaire": "Coopérative (Yoplait, Candia). [323, 330]",
     "sources": [
      323,
@@ -32,7 +32,7 @@
     "siege": "Pays-Bas",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Fromage",
+    "sous_categorie": "",
     "commentaire": "Pâte dure (Bel). [323, 330]",
     "sources": [
      323,
@@ -53,7 +53,7 @@
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Chocolat",
+    "sous_categorie": "",
     "commentaire": "Tablettes suisses (Nestlé). [323, 330]",
     "sources": [
      323,
@@ -75,7 +75,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Jus",
+    "sous_categorie": "",
     "commentaire": "Jus (Danone). [323, 330]",
     "sources": [
      323,
@@ -97,7 +97,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Eau minérale",
+    "sous_categorie": "",
     "commentaire": "Eaux médicinales (Nestlé Waters). [323, 330]",
     "sources": [
      323,
@@ -118,7 +118,7 @@
     "siege": "France (Margaux)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vin 1er cru",
+    "sous_categorie": "",
     "commentaire": "1er cru classé (AXA). [323, 330]",
     "sources": [
      323,
@@ -139,7 +139,7 @@
     "siege": "France (Pauillac)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vin 1er cru",
+    "sous_categorie": "",
     "commentaire": "1er cru (Artemis). [323, 330]",
     "sources": [
      323,
@@ -160,7 +160,7 @@
     "siege": "France (Pauillac)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vin 1er cru",
+    "sous_categorie": "",
     "commentaire": "1er cru (LVMH). [323, 330]",
     "sources": [
      323,
@@ -183,7 +183,7 @@
     "siege": "Écosse",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Whisky",
+    "sous_categorie": "",
     "commentaire": "Distillerie familiale. [323, 330]",
     "sources": [
      323,
@@ -192,27 +192,6 @@
     "lieux_production": [
      "Écosse",
      "Inde"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "spiritueux-campari-lot8? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [323, 330]",
-    "sources": [
-     323,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -227,7 +206,7 @@
     "siege": "France (Bordeaux)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bière / vin",
+    "sous_categorie": "",
     "commentaire": "Brassier et viticulteur français. [323, 330]",
     "sources": [
      323,
@@ -242,90 +221,6 @@
     "produits": []
    },
    {
-    "id": "biere-kronenbourg-lot8? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [323, 330]",
-    "sources": [
-     323,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "soda-mayotte? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [323, 330]",
-    "sources": [
-     323,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "eau-chateau? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [323, 330]",
-    "sources": [
-     323,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "confiture-bonne-maman-lot8? exists",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [323, 330]",
-    "sources": [
-     323,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "miel-luneau",
     "groupe": "Miel Luneau",
     "marques": [
@@ -334,7 +229,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Miel",
+    "sous_categorie": "",
     "commentaire": "Miel français. [323, 330]",
     "sources": [
      323,
@@ -356,7 +251,7 @@
     "siege": "France (Nantes)",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Biscuits",
+    "sous_categorie": "",
     "commentaire": "Galettes bretonnes (groupe familial). [323, 330]",
     "sources": [
      323,
@@ -377,7 +272,7 @@
     "siege": "France (Nantes)",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Biscuits",
+    "sous_categorie": "",
     "commentaire": "Biscuits BN (groupe? — vérifier). [323, 330]",
     "sources": [
      323,
@@ -385,27 +280,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "cafe-maison? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [323, 330]",
-    "sources": [
-     323,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -419,7 +293,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Thé",
+    "sous_categorie": "",
     "commentaire": "Thés en sachet. [323, 330]",
     "sources": [
      323,
@@ -440,7 +314,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Thé",
+    "sous_categorie": "",
     "commentaire": "Thés parfumés. [323, 330]",
     "sources": [
      323,
@@ -462,7 +336,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Thé",
+    "sous_categorie": "",
     "commentaire": "Thés bio. [323, 330]",
     "sources": [
      323,
@@ -483,7 +357,7 @@
     "siege": "France (Grasse)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Café",
+    "sous_categorie": "",
     "commentaire": "Cafés de spécialité torréfiés en France. [323, 330]",
     "sources": [
      323,

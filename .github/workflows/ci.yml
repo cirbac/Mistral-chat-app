@@ -19,6 +19,7 @@ jobs:
         working-directory: consommer-europeen
         run: |
           npm ci
+          npm run check:data
           npm run build
       - name: Install + build de l'app racine (chat Mistral)
         if: hashFiles('package.json') != ''

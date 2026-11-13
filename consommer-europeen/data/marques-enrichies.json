@@ -255,14 +255,6 @@
   "domaine": "clarks.com",
   "histoire": "Maison anglaise fondée en 1825 à Street (Somerset) par les frères Cyrus et James Clark, spécialiste de la chaussure en cuir confort (Desert Boot, 1950)."
  },
- "vetements-chaussures-sport-decathlon": {
-  "domaine": "decathlon.com",
-  "histoire": "Fondé en 1976 à Lille par Michel Leclercq, Decathlon est le leader mondial du sport, concevant ses propres marques (Quechua, Kipsta, Domyos, Tribord, Wedze) à prix accessibles."
- },
- "vetements-chaussures-sport-adidas": {
-  "domaine": "adidas.com",
-  "histoire": "Fondée en 1949 en Allemagne par Adolf « Adi » Dassler (séparation avec son frère Puma), Adidas est le n°2 mondial du sport (trois bandes, Ultraboost, Stade de France)."
- },
  "vetements-chaussures-sport-nike": {
   "domaine": "nike.com",
   "histoire": "Fondée en 1964 sous le nom Blue Ribbon Sports par Phil Knight et Bill Bowerman, Nike (d'après la déesse grecque de la victoire) est le n°1 mondial du sport (swoosh, Air Jordan, Air Max)."
@@ -479,9 +471,6 @@
   "domaine": "global.honda",
   "histoire": "Fondé en 1948 par Soichiro Honda, Honda Motor est le n°1 mondial de la moto (CBR, Gold Wing, PCX). Le groupe produit aussi autos, avions, robots."
  },
- "motos-royal-enfield": {
-  "domaine": "royalenfield.com"
- },
  "pneumatiques-bridgestone": {
   "domaine": "bridgestone.com"
  },
@@ -523,10 +512,6 @@
  },
  "logiciels-thales": {
   "domaine": "thalesgroup.com"
- },
- "logiciels-mistral": {
-  "domaine": "mistral.ai",
-  "histoire": "Fondé en 2023 à Paris par des chercheurs de Meta et Google DeepMind, Mistral AI est le champion européen de l'IA générative (modèles Mistral, Le Chat, contrat avec l'UE)."
  },
  "logiciels-huggingface": {
   "domaine": "huggingface.co",

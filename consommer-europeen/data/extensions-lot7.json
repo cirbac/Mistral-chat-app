@@ -10,7 +10,7 @@
     "siege": "France (Dieppe)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Sport",
+    "sous_categorie": "",
     "commentaire": "Marque sport de Renault (A110). [321, 330]",
     "sources": [
      321,
@@ -31,7 +31,7 @@
     "siege": "Roumanie (Pitești)",
     "siege_pays": "RO",
     "statut": "rang1",
-    "sous_categorie": "Low-cost",
+    "sous_categorie": "",
     "commentaire": "Filiale Renault low-cost (Sandero, Duster). [321, 330]",
     "sources": [
      321,
@@ -54,7 +54,7 @@
     "siege": "Chine (Hangzhou)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Électrique premium",
+    "sous_categorie": "",
     "commentaire": "Marque VE premium de Geely. [321, 330]",
     "sources": [
      321,
@@ -75,7 +75,7 @@
     "siege": "Chine",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Électrique",
+    "sous_categorie": "",
     "commentaire": "VE chinois abordables. [321, 330]",
     "sources": [
      321,
@@ -83,31 +83,6 @@
     ],
     "lieux_production": [
      "Chine"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "02": {
-  "groupes": [
-   {
-    "id": "moto-vespa-lot7? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [321, 330]",
-    "sources": [
-     321,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -125,7 +100,7 @@
     "siege": "Allemagne/USA",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Pneu 4x4",
+    "sous_categorie": "",
     "commentaire": "Marque 4x4 (Continental). [321, 330]",
     "sources": [
      321,
@@ -148,7 +123,7 @@
     "siege": "USA",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Pneu 4x4",
+    "sous_categorie": "",
     "commentaire": "Tout-terrain (Michelin). [321, 330]",
     "sources": [
      321,
@@ -172,7 +147,7 @@
     "siege": "Pologne",
     "siege_pays": "PL",
     "statut": "rang1",
-    "sous_categorie": "Pneu budget",
+    "sous_categorie": "",
     "commentaire": "Marques budget (Goodyear). [321, 330]",
     "sources": [
      321,
@@ -181,56 +156,6 @@
     "lieux_production": [
      "Pologne",
      "Turquie"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "04": {
-  "groupes": [
-   {
-    "id": "electromenager-bosch-lot7? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [321, 330]",
-    "sources": [
-     321,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   }
-  ]
- },
- "06": {
-  "groupes": [
-   {
-    "id": "nas? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [321, 330]",
-    "sources": [
-     321,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -248,7 +173,7 @@
     "siege": "Allemagne (Munich)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Fournitures pro",
+    "sous_categorie": "",
     "commentaire": "Distributeur pro outillage. [321, 330]",
     "sources": [
      321,
@@ -262,48 +187,6 @@
     "produits": []
    },
    {
-    "id": "jardin-lemaitre? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [321, 330]",
-    "sources": [
-     321,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "outillage-orev? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [321, 330]",
-    "sources": [
-     321,
-     330
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "outillage-wago",
     "groupe": "Wago",
     "marques": [
@@ -312,7 +195,7 @@
     "siege": "Allemagne (Minden)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Connexion électrique",
+    "sous_categorie": "",
     "commentaire": "Bornes de connexion. [321, 330]",
     "sources": [
      321,
@@ -334,7 +217,7 @@
     "siege": "Suisse (Zurich)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Électrique industriel",
+    "sous_categorie": "",
     "commentaire": "Équipements électriques industriels. [321, 330]",
     "sources": [
      321,
@@ -356,7 +239,7 @@
     "siege": "France (Cluses)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Motorisation / alarme",
+    "sous_categorie": "",
     "commentaire": "Volets, portails, alarmes. [321, 330]",
     "sources": [
      321,
@@ -379,7 +262,7 @@
     "siege": "Suède (Stockholm)",
     "siege_pays": "SE",
     "statut": "rang1",
-    "sous_categorie": "Alarme",
+    "sous_categorie": "",
     "commentaire": "Télésurveillance (Securitas Direct). [321, 330]",
     "sources": [
      321,
@@ -401,7 +284,7 @@
     "siege": "Ukraine (Kiev)",
     "siege_pays": "UA",
     "statut": "hors_zones",
-    "sous_categorie": "Alarme sans fil",
+    "sous_categorie": "",
     "commentaire": "Systèmes d'alarme sans fil. [321, 330]",
     "sources": [
      321,
