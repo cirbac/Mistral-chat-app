@@ -455,10 +455,6 @@
   "domaine": "societegenerale.com",
   "histoire": "Fondée en 1864 par des industriels, la Société Générale est une banque universelle française historique (réseau France, Boursorama en ligne, banque d'investissement)."
  },
- "banque-assurance-et-epargne-axa": {
-  "domaine": "axa.com",
-  "histoire": "Fondée en 1816 à Rouen, AXA est le n°1 mondial de l'assurance (dommages, vie, santé), présent dans plus de 50 pays."
- },
  "automobile-porsche": {
   "domaine": "porsche.com",
   "histoire": "Fondée en 1931 à Stuttgart, Porsche est la marque de sport allemande du groupe Volkswagen, célèbre pour la 911. Positionnée sur le premium sportif, elle a lancé l'électrique avec la Taycan."
@@ -524,9 +520,6 @@
  },
  "photo-leica": {
   "domaine": "leica.com"
- },
- "photo-leica-camera": {
-  "domaine": "leica-camera.com"
  },
  "logiciels-thales": {
   "domaine": "thalesgroup.com"
