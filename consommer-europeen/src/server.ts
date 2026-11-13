@@ -128,6 +128,23 @@ if (existsSync(enrichPath)) {
   }
 }
 
+function avatarDataUri(nom: string, couleur: string): string {
+  const initial = (nom.trim()[0] ?? '?').toUpperCase();
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96"><rect width="96" height="96" rx="20" fill="${couleur}"/><text x="48" y="64" font-family="system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">${initial}</text></svg>`;
+  return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg);
+}
+
+const PALETTE = ['#1e3a8a', '#1a7f37', '#0969da', '#9a6700', '#cf222e', '#8250df', '#0c7a6b', '#b42318', '#5b21b6', '#166534'];
+for (const s of secteurs) {
+  for (const g of s.groupes) {
+    if (!g.logo) {
+      let h = 0;
+      for (const c of g.groupe) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+      g.logo = avatarDataUri(g.groupe, PALETTE[h % PALETTE.length]);
+    }
+  }
+}
+
 const motsClesPath = path.join(dataDir, 'mots-cles-marques.json');
 const motsClesGlobal: Record<string, string[]> = existsSync(motsClesPath)
   ? (JSON.parse(readFileSync(motsClesPath, 'utf8')) as Record<string, string[]>)

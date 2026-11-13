@@ -458,5 +458,205 @@
  "banque-assurance-et-epargne-axa": {
   "domaine": "axa.com",
   "histoire": "Fondée en 1816 à Rouen, AXA est le n°1 mondial de l'assurance (dommages, vie, santé), présent dans plus de 50 pays."
+ },
+ "automobile-porsche": {
+  "domaine": "porsche.com",
+  "histoire": "Fondée en 1931 à Stuttgart, Porsche est la marque de sport allemande du groupe Volkswagen, célèbre pour la 911. Positionnée sur le premium sportif, elle a lancé l'électrique avec la Taycan."
+ },
+ "automobile-ferrari": {
+  "domaine": "ferrari.com",
+  "histoire": "Fondée en 1939 à Maranello par Enzo Ferrari, Ferrari est la marque de supercars la plus connue au monde (Testarossa, F40). Propriété d'Exor (famille Agnelli)."
+ },
+ "automobile-maserati": {
+  "domaine": "maserati.com"
+ },
+ "automobile-alfa-romeo": {
+  "domaine": "alfaromeo.com"
+ },
+ "automobile-mitsubishi": {
+  "domaine": "mitsubishi-motors.com"
+ },
+ "motos-sherco": {
+  "domaine": "sherco.fr"
+ },
+ "motos-honda-motor": {
+  "domaine": "global.honda",
+  "histoire": "Fondé en 1948 par Soichiro Honda, Honda Motor est le n°1 mondial de la moto (CBR, Gold Wing, PCX). Le groupe produit aussi autos, avions, robots."
+ },
+ "motos-royal-enfield": {
+  "domaine": "royalenfield.com"
+ },
+ "pneumatiques-bridgestone": {
+  "domaine": "bridgestone.com"
+ },
+ "pneumatiques-goodyear": {
+  "domaine": "goodyear.com"
+ },
+ "electromenager-whirlpool": {
+  "domaine": "whirlpool.com"
+ },
+ "electromenager-daikin": {
+  "domaine": "daikin.com"
+ },
+ "electromenager-teka": {
+  "domaine": "teka.com"
+ },
+ "televiseurs-bang-olufsen": {
+  "domaine": "bang-olufsen.com"
+ },
+ "informatique-dell": {
+  "domaine": "dell.com"
+ },
+ "informatique-hp": {
+  "domaine": "hp.com"
+ },
+ "informatique-asus": {
+  "domaine": "asus.com"
+ },
+ "informatique-logitech": {
+  "domaine": "logitech.com"
+ },
+ "informatique-bose": {
+  "domaine": "bose.com"
+ },
+ "audio-sonos": {
+  "domaine": "sonos.com"
+ },
+ "photo-leica": {
+  "domaine": "leica.com"
+ },
+ "photo-leica-camera": {
+  "domaine": "leica-camera.com"
+ },
+ "logiciels-thales": {
+  "domaine": "thalesgroup.com"
+ },
+ "logiciels-mistral": {
+  "domaine": "mistral.ai",
+  "histoire": "Fondé en 2023 à Paris par des chercheurs de Meta et Google DeepMind, Mistral AI est le champion européen de l'IA générative (modèles Mistral, Le Chat, contrat avec l'UE)."
+ },
+ "logiciels-huggingface": {
+  "domaine": "huggingface.co",
+  "histoire": "Co-fondée en 2016 à Paris/New York, Hugging Face est la plateforme de référence des modèles open source (Transformers, datasets, Spaces)."
+ },
+ "logiciels-aleph": {
+  "domaine": "aleph-alpha.com"
+ },
+ "alimentation-mars": {
+  "domaine": "mars.com"
+ },
+ "alimentation-ferrero-lot4": {
+  "domaine": "ferrero.com"
+ },
+ "alimentation-picard": {
+  "domaine": "picard.fr"
+ },
+ "alimentation-biocoop": {
+  "domaine": "biocoop.fr"
+ },
+ "boissons-innocent": {
+  "domaine": "innocentdrinks.com"
+ },
+ "boissons-oasis": {
+  "domaine": "oasis.eu"
+ },
+ "cafe-starbucks": {
+  "domaine": "starbucks.com",
+  "histoire": "Fondée en 1971 à Seattle, Starbucks est la plus grande chaîne de café au monde (Frappuccino, Pumpkin Spice)."
+ },
+ "cafe-nerpresso": {
+  "domaine": "nespresso.com",
+  "histoire": "Lancée en 1986 par Nestlé, Nespresso a inventé le café en capsules (Vertuo, Original) avec recyclage des capsules."
+ },
+ "pharma-ipsen": {
+  "domaine": "ipsen.com",
+  "histoire": "Groupe pharmaceutique français fondé en 1929 (Boulogne), spécialisé oncologie et maladies rares."
+ },
+ "pharma-boehringer": {
+  "domaine": "boehringer-ingelheim.com"
+ },
+ "beaute-lancome": {
+  "domaine": "lancome.fr",
+  "histoire": "Fondée en 1935 à Paris, Lancôme est la marque de maquillage et soins de luxe du groupe L'Oréal (Teint Idole, La Vie est Belle)."
+ },
+ "beaute-ysl-beaute": {
+  "domaine": "yslbeauty.fr"
+ },
+ "beaute-dior-beaute": {
+  "domaine": "dior.com"
+ },
+ "beaute-occitane": {
+  "domaine": "occitane.com"
+ },
+ "beaute-guerlain": {
+  "domaine": "guerlain.com"
+ },
+ "fashion-mcqueen": {
+  "domaine": "alexandermcqueen.com"
+ },
+ "fashion-stella": {
+  "domaine": "stellamccartney.com",
+  "histoire": "Fondée en 2001 à Londres par Stella McCartney, marque de mode éco-responsable (pas de cuir ni fourrure)."
+ },
+ "fashion-balenciaga": {
+  "domaine": "balenciaga.com"
+ },
+ "fashion-givenchy": {
+  "domaine": "givenchy.com"
+ },
+ "fashion-kenzo": {
+  "domaine": "kenzo.com"
+ },
+ "fashion-sunspel": {
+  "domaine": "sunspel.com"
+ },
+ "voyage-delvaux": {
+  "domaine": "delvaux.com",
+  "histoire": "Fondée en 1829 à Bruxelles, Delvaux est la plus vieille maroquinerie de luxe du monde (Brillant, Tempête)."
+ },
+ "voyage-goyard": {
+  "domaine": "goyard.com",
+  "histoire": "Fondée en 1853 à Paris, Goyard est la plus ancienne maison de malles de luxe (toile Goyardine, sac Saint-Louis)."
+ },
+ "voyage-louis-vuitton-voyage": {
+  "domaine": "louisvuitton.com"
+ },
+ "transport-thalys": {
+  "domaine": "thalys.com"
+ },
+ "transport-ouigo": {
+  "domaine": "ouigo.com",
+  "histoire": "Lancé en 2013 par la SNCF, Ouigo est le TGV low-cost français (jusqu'à -70%)."
+ },
+ "hotellerie-centerparcs": {
+  "domaine": "centerparcs.fr",
+  "histoire": "Groupe franco-néerlandais de villages nature en forêt (Center Parcs), propriété de Pierre & Vacances."
+ },
+ "jouets-fisher": {
+  "domaine": "fisher-price.com"
+ },
+ "maison-rosenthal": {
+  "domaine": "rosenthal.de",
+  "histoire": "Fondée en 1879 à Selb (Bavière), Rosenthal est une porcelaine allemande de renom (design Studio Line)."
+ },
+ "jardin-gardena": {
+  "domaine": "gardena.com",
+  "histoire": "Fondée en 1961 à Ulm, Gardena est la référence de l'arrosage et des outils de jardin (groupe Husqvarna)."
+ },
+ "montres-omega": {
+  "domaine": "omegawatches.com",
+  "histoire": "Maison suisse fondée en 1848 à La Chaux-de-Fonds, célèbre pour la Speedmaster « Moonwatch » (missions Apollo). Groupe Swatch."
+ },
+ "montres-longines": {
+  "domaine": "longines.com"
+ },
+ "montres-tissot": {
+  "domaine": "tissotwatches.com"
+ },
+ "medias-europe1": {
+  "domaine": "europe1.fr"
+ },
+ "medias-bfmtv": {
+  "domaine": "bfmtv.com"
  }
 }
