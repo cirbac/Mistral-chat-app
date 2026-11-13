@@ -1,0 +1,419 @@
+{
+ "01": {
+  "groupes": [
+   {
+    "id": "auto-alpine",
+    "groupe": "Alpine (Renault)",
+    "marques": [
+     "Alpine"
+    ],
+    "siege": "France (Dieppe)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Sport",
+    "commentaire": "Marque sport de Renault (A110). [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "auto-dacia",
+    "groupe": "Dacia (Renault)",
+    "marques": [
+     "Dacia"
+    ],
+    "siege": "Roumanie (Pitești)",
+    "siege_pays": "RO",
+    "statut": "rang1",
+    "sous_categorie": "Low-cost",
+    "commentaire": "Filiale Renault low-cost (Sandero, Duster). [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Roumanie",
+     "Maroc",
+     "Algérie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "auto-zeekr",
+    "groupe": "Zeekr (Geely)",
+    "marques": [
+     "Zeekr"
+    ],
+    "siege": "Chine (Hangzhou)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Électrique premium",
+    "commentaire": "Marque VE premium de Geely. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "auto-neta",
+    "groupe": "Neta (Hozone)",
+    "marques": [
+     "Neta"
+    ],
+    "siege": "Chine",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Électrique",
+    "commentaire": "VE chinois abordables. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "02": {
+  "groupes": [
+   {
+    "id": "moto-vespa-lot7? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "03": {
+  "groupes": [
+   {
+    "id": "pneus-general-tire",
+    "groupe": "General Tire (Continental)",
+    "marques": [
+     "General Tire"
+    ],
+    "siege": "Allemagne/USA",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Pneu 4x4",
+    "commentaire": "Marque 4x4 (Continental). [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "USA",
+     "Maroc"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneus-bfg",
+    "groupe": "BFGoodrich (Michelin)",
+    "marques": [
+     "BFGoodrich"
+    ],
+    "siege": "USA",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Pneu 4x4",
+    "commentaire": "Tout-terrain (Michelin). [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "Mexique"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneus-debica",
+    "groupe": "Debica/Sava/Fulda (Goodyear)",
+    "marques": [
+     "Debica",
+     "Sava",
+     "Fulda"
+    ],
+    "siege": "Pologne",
+    "siege_pays": "PL",
+    "statut": "rang1",
+    "sous_categorie": "Pneu budget",
+    "commentaire": "Marques budget (Goodyear). [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Pologne",
+     "Turquie"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "04": {
+  "groupes": [
+   {
+    "id": "electromenager-bosch-lot7? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "06": {
+  "groupes": [
+   {
+    "id": "nas? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "18": {
+  "groupes": [
+   {
+    "id": "fourniture-hoffmann",
+    "groupe": "Hoffmann Group",
+    "marques": [
+     "Hoffmann"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Fournitures pro",
+    "commentaire": "Distributeur pro outillage. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jardin-lemaitre? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outillage-orev? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outillage-wago",
+    "groupe": "Wago",
+    "marques": [
+     "Wago"
+    ],
+    "siege": "Allemagne (Minden)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Connexion électrique",
+    "commentaire": "Bornes de connexion. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outillage-abb",
+    "groupe": "ABB (division)",
+    "marques": [
+     "ABB"
+    ],
+    "siege": "Suisse (Zurich)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Électrique industriel",
+    "commentaire": "Équipements électriques industriels. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Suisse",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "securite-somfy",
+    "groupe": "Somfy",
+    "marques": [
+     "Somfy"
+    ],
+    "siege": "France (Cluses)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Motorisation / alarme",
+    "commentaire": "Volets, portails, alarmes. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Europe",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "securite-verisure",
+    "groupe": "Verisure (Securitas)",
+    "marques": [
+     "Verisure"
+    ],
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Alarme",
+    "commentaire": "Télésurveillance (Securitas Direct). [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Suède",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "securite-ajax",
+    "groupe": "Ajax Systems",
+    "marques": [
+     "Ajax"
+    ],
+    "siege": "Ukraine (Kiev)",
+    "siege_pays": "UA",
+    "statut": "hors_zones",
+    "sous_categorie": "Alarme sans fil",
+    "commentaire": "Systèmes d'alarme sans fil. [321, 330]",
+    "sources": [
+     321,
+     330
+    ],
+    "lieux_production": [
+     "Ukraine",
+     "Pologne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

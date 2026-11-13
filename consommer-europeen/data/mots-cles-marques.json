@@ -5048,5 +5048,362 @@
  "pizza-dominos": [
   "domino's",
   "pizza hut"
+ ],
+ "auto-alpine": [
+  "alpine"
+ ],
+ "auto-dacia": [
+  "dacia"
+ ],
+ "auto-zeekr": [
+  "zeekr"
+ ],
+ "auto-neta": [
+  "neta"
+ ],
+ "moto-vespa-lot7? no": [
+  "x"
+ ],
+ "pneus-general-tire": [
+  "general tire"
+ ],
+ "pneus-bfg": [
+  "bfgoodrich"
+ ],
+ "pneus-debica": [
+  "debica",
+  "fulda",
+  "sava"
+ ],
+ "electromenager-bosch-lot7? no": [
+  "x"
+ ],
+ "nas? no": [
+  "x"
+ ],
+ "fourniture-hoffmann": [
+  "hoffmann"
+ ],
+ "jardin-lemaitre? no": [
+  "x"
+ ],
+ "outillage-orev? no": [
+  "x"
+ ],
+ "outillage-wago": [
+  "wago"
+ ],
+ "outillage-abb": [
+  "abb"
+ ],
+ "securite-somfy": [
+  "somfy"
+ ],
+ "securite-verisure": [
+  "verisure"
+ ],
+ "securite-ajax": [
+  "ajax"
+ ],
+ "lait-sodiaal": [
+  "candia",
+  "sodiaal"
+ ],
+ "fromage-leerdammer": [
+  "leerdammer"
+ ],
+ "choco-cailler": [
+  "cailler"
+ ],
+ "jus-joker": [
+  "joker",
+  "pampryl"
+ ],
+ "eau-hepar": [
+  "hépar",
+  "vichy célestins"
+ ],
+ "vin-margaux": [
+  "château margaux"
+ ],
+ "vin-latour": [
+  "château latour"
+ ],
+ "vin-mouton": [
+  "mouton"
+ ],
+ "spiritueux-williamgrant": [
+  "balvenie",
+  "glenfiddich",
+  "hendrick's"
+ ],
+ "spiritueux-campari-lot8? no": [
+  "x"
+ ],
+ "biere-castel": [
+  "castel",
+  "kronenbourg? non"
+ ],
+ "biere-kronenbourg-lot8? no": [
+  "x"
+ ],
+ "soda-mayotte? no": [
+  "x"
+ ],
+ "eau-chateau? no": [
+  "x"
+ ],
+ "confiture-bonne-maman-lot8? exists": [
+  "x"
+ ],
+ "miel-luneau": [
+  "luneau"
+ ],
+ "biscuits-saint-michel": [
+  "lu? non",
+  "saint-michel"
+ ],
+ "biscuits-bn": [
+  "bn"
+ ],
+ "cafe-maison? no": [
+  "x"
+ ],
+ "the-dammann": [
+  "dammann"
+ ],
+ "the-kusmi": [
+  "kusmi"
+ ],
+ "the-palais": [
+  "le palais des thés"
+ ],
+ "cafe-malongo": [
+  "malongo"
+ ],
+ "beaute-aesop": [
+  "aesop"
+ ],
+ "beaute-grown": [
+  "grown alchemist"
+ ],
+ "beaute-sturm": [
+  "dr. barbara sturm"
+ ],
+ "beaute-tata": [
+  "tata harper"
+ ],
+ "beaute-tilbury": [
+  "charlotte tilbury"
+ ],
+ "beaute-huda": [
+  "huda beauty"
+ ],
+ "parfum-tomford": [
+  "tom ford"
+ ],
+ "parfum-jomalone": [
+  "jo malone"
+ ],
+ "parfum-malle": [
+  "frédéric malle"
+ ],
+ "parfum-byredo-lot9? exists": [
+  "x"
+ ],
+ "beaute-rare": [
+  "rare beauty"
+ ],
+ "beaute-fenty": [
+  "fenty"
+ ],
+ "beaute-haus": [
+  "haus labs"
+ ],
+ "pharma-stada": [
+  "stada"
+ ],
+ "pharma-krka": [
+  "krka"
+ ],
+ "pharma-teva": [
+  "teva"
+ ],
+ "pharma-eg": [
+  "eg"
+ ],
+ "pharma-biogaran": [
+  "biogaran"
+ ],
+ "pharma-mip? no": [
+  "x"
+ ],
+ "sante-hartmann": [
+  "hartmann"
+ ],
+ "sante-urgo": [
+  "urgo"
+ ],
+ "sante-elastoplast": [
+  "elastoplast"
+ ],
+ "camping-trigano": [
+  "cabanon",
+  "trigano"
+ ],
+ "outdoor-icebreaker": [
+  "icebreaker"
+ ],
+ "outdoor-rab": [
+  "rab"
+ ],
+ "outdoor-mammut-lot10? no": [
+  "x"
+ ],
+ "couteau-leatherman": [
+  "leatherman"
+ ],
+ "lampe-petzl-lot10? no": [
+  "x"
+ ],
+ "lampe-frontale-blackdiamond": [
+  "black diamond"
+ ],
+ "ecommerce-veepee": [
+  "veepee",
+  "vente-privee.com"
+ ],
+ "ecommerce-laredoute": [
+  "la redoute"
+ ],
+ "auto-midas": [
+  "midas"
+ ],
+ "auto-speedy": [
+  "speedy"
+ ],
+ "distribution-normandie? no": [
+  "x"
+ ],
+ "distribution-carrefour-lot10? no": [
+  "x"
+ ],
+ "radio-rtl-lot10? exists": [
+  "x"
+ ],
+ "radio-nrj": [
+  "cherie fm",
+  "nostalgie",
+  "nrj",
+  "rire et chansons"
+ ],
+ "radio-rmc": [
+  "bfm business? non",
+  "rmc",
+  "rmc découverte",
+  "rmc sport"
+ ],
+ "tv-c8": [
+  "c8",
+  "cnews",
+  "cstar"
+ ],
+ "tv-gulli": [
+  "gulli"
+ ],
+ "tv-tiji": [
+  "tiji"
+ ],
+ "tv-gulli? no": [
+  "x"
+ ],
+ "streaming-britbox": [
+  "britbox"
+ ],
+ "streaming-nowtv": [
+  "now"
+ ],
+ "streaming-discovery-plus": [
+  "discovery+"
+ ],
+ "banque-creditcooperatif": [
+  "crédit coopératif"
+ ],
+ "banque-nef": [
+  "la nef"
+ ],
+ "assurance-luko": [
+  "luko"
+ ],
+ "assurance-lemonade": [
+  "lemonade"
+ ],
+ "crypto-kraken": [
+  "kraken"
+ ],
+ "hosting-hetzner": [
+  "hetzner"
+ ],
+ "hosting-ionos": [
+  "1&1",
+  "ionos"
+ ],
+ "energie-ekwateur": [
+  "ekwateur"
+ ],
+ "energie-enercoop-lot11? no": [
+  "x"
+ ],
+ "hotellerie-odalys-lot11? no": [
+  "x"
+ ],
+ "hotellerie-bb-lot11? no": [
+  "x"
+ ],
+ "jouets-goliath-lot11? no": [
+  "x"
+ ],
+ "jouets-mb": [
+  "mb"
+ ],
+ "jouets-sentospheres": [
+  "asmodée? non",
+  "sentosphère"
+ ],
+ "jouets-orb? no": [
+  "x"
+ ],
+ "cuisine-rosetta? no": [
+  "x"
+ ],
+ "ustensiles-tarrer? no": [
+  "x"
+ ],
+ "deco-maisondelacreme? no": [
+  "x"
+ ],
+ "montres-seiko-lot11? no": [
+  "x"
+ ],
+ "optique-lunettes? no": [
+  "x"
+ ],
+ "transport-blablacar-lot11? no": [
+  "x"
+ ],
+ "croisiere-cunard": [
+  "cunard"
+ ],
+ "resto-brasserie? no": [
+  "x"
+ ],
+ "resto-leon": [
+  "léon"
+ ],
+ "resto-flunch-lot11? no": [
+  "x"
+ ],
+ "resto-pataterie": [
+  "la pataterie"
  ]
 }

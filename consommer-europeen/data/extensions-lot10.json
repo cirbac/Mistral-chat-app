@@ -1,0 +1,517 @@
+{
+ "11": {
+  "groupes": [
+   {
+    "id": "camping-trigano",
+    "groupe": "Trigano",
+    "marques": [
+     "Trigano",
+     "Cabanon"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Tentes",
+    "commentaire": "Tentes familiales. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outdoor-icebreaker",
+    "groupe": "Icebreaker (VF)",
+    "marques": [
+     "Icebreaker"
+    ],
+    "siege": "Nouvelle-Zélande",
+    "siege_pays": "NZ",
+    "statut": "hors_zones",
+    "sous_categorie": "Mérinos",
+    "commentaire": "Mérinos (VF Corp). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "Nouvelle-Zélande",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outdoor-rab",
+    "groupe": "Rab",
+    "marques": [
+     "Rab"
+    ],
+    "siege": "Royaume-Uni (Alfreton)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Doudounes",
+    "commentaire": "Doudounes techniques. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "UK",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "outdoor-mammut-lot10? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "couteau-leatherman",
+    "groupe": "Leatherman",
+    "marques": [
+     "Leatherman"
+    ],
+    "siege": "USA (Portland)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Multi-outils",
+    "commentaire": "Multi-outils. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "lampe-petzl-lot10? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "lampe-frontale-blackdiamond",
+    "groupe": "Black Diamond",
+    "marques": [
+     "Black Diamond"
+    ],
+    "siege": "USA (Salt Lake City)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Escalade",
+    "commentaire": "Équipement escalade. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "12": {
+  "groupes": [
+   {
+    "id": "ecommerce-veepee",
+    "groupe": "Veepee (Vente-privee)",
+    "marques": [
+     "Vente-privee.com",
+     "Veepee"
+    ],
+    "siege": "France (Saint-Denis)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Vente privée",
+    "commentaire": "Pionnier vente privée en ligne. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ecommerce-laredoute",
+    "groupe": "La Redoute",
+    "marques": [
+     "La Redoute"
+    ],
+    "siege": "France (Roubaix)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "E-commerce mode/maison",
+    "commentaire": "VPC historique. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Asie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "auto-midas",
+    "groupe": "Midas (Michelin)",
+    "marques": [
+     "Midas"
+    ],
+    "siege": "France/USA",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Entretien auto",
+    "commentaire": "Centres (Michelin). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "auto-speedy",
+    "groupe": "Speedy",
+    "marques": [
+     "Speedy"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Entretien auto rapide",
+    "commentaire": "Rapide. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-normandie? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-carrefour-lot10? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "radio-rtl-lot10? exists",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "radio-nrj",
+    "groupe": "NRJ (radio)",
+    "marques": [
+     "NRJ",
+     "Cherie FM",
+     "Rire et Chansons",
+     "Nostalgie"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Radio privée",
+    "commentaire": "Radios du groupe NRJ. [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "radio-rmc",
+    "groupe": "RMC (Altice)",
+    "marques": [
+     "RMC",
+     "RMC Découverte",
+     "RMC Sport",
+     "BFM Business? non"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Radio talk/info",
+    "commentaire": "Talk radio (Altice). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "tv-c8",
+    "groupe": "C8 (Canal+)",
+    "marques": [
+     "C8",
+     "CStar",
+     "CNews"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "TV TNT",
+    "commentaire": "Chaînes TNT gratuites (Canal+). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "tv-gulli",
+    "groupe": "Gulli (M6)",
+    "marques": [
+     "Gulli"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "TV jeunesse",
+    "commentaire": "Jeunesse (M6). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "tv-tiji",
+    "groupe": "Tiji (France TV)",
+    "marques": [
+     "Tiji"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "TV jeunesse",
+    "commentaire": "Jeunesse (France TV). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "tv-gulli? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "streaming-britbox",
+    "groupe": "BritBox (BBC/ITV)",
+    "marques": [
+     "BritBox"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Streaming UK",
+    "commentaire": "Streaming britannique (BBC/ITV). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "UK",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "streaming-nowtv",
+    "groupe": "NOW (Sky)",
+    "marques": [
+     "NOW"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Streaming UK",
+    "commentaire": "NOW (Sky). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "UK"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "streaming-discovery-plus",
+    "groupe": "discovery+",
+    "marques": [
+     "discovery+"
+    ],
+    "siege": "USA (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Streaming docu",
+    "commentaire": "Documentaires (Warner Bros. Discovery). [327, 330]",
+    "sources": [
+     327,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

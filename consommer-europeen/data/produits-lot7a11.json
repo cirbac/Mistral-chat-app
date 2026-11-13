@@ -1,0 +1,152 @@
+{
+ "auto-alpine": [
+  {
+   "id": "auto-alpine-alpine-a110",
+   "nom": "Alpine A110",
+   "assemblage": "France (Dieppe)",
+   "origine_pieces": "Moteur Renault",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "auto-dacia": [
+  {
+   "id": "auto-dacia-dacia-sandero",
+   "nom": "Dacia Sandero",
+   "assemblage": "Roumanie (Pitești)",
+   "origine_pieces": "Moteur Roumanie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "pneus-bfg": [
+  {
+   "id": "pneus-bfg-bfgoodrich-all-terrain",
+   "nom": "BFGoodrich All-Terrain",
+   "assemblage": "USA",
+   "origine_pieces": "Gomme USA",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jus-joker": [
+  {
+   "id": "jus-joker-joker-orange",
+   "nom": "Joker Orange",
+   "assemblage": "France",
+   "origine_pieces": "Jus UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "vin-margaux": [
+  {
+   "id": "vin-margaux-ch-teau-margaux-2015",
+   "nom": "Château Margaux 2015",
+   "assemblage": "France (Margaux)",
+   "origine_pieces": "Raisin France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "choco-cailler": [
+  {
+   "id": "choco-cailler-cailler-lait",
+   "nom": "Cailler Lait",
+   "assemblage": "Suisse",
+   "origine_pieces": "Lait Suisse, cacao",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "the-kusmi": [
+  {
+   "id": "the-kusmi-kusmi-anastasia",
+   "nom": "Kusmi Anastasia",
+   "assemblage": "France",
+   "origine_pieces": "Thé Chine/UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beaute-tilbury": [
+  {
+   "id": "beaute-tilbury-charlotte-tilbury-pillow-talk",
+   "nom": "Charlotte Tilbury Pillow Talk",
+   "assemblage": "Italie/UK",
+   "origine_pieces": "Maquillage UK",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "pharma-teva": [
+  {
+   "id": "pharma-teva-g-n-riques-teva",
+   "nom": "Génériques Teva",
+   "assemblage": "Europe/USA",
+   "origine_pieces": "Principes actifs monde",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "camping-trigano": [
+  {
+   "id": "camping-trigano-trigano-tente-x",
+   "nom": "Trigano tente X",
+   "assemblage": "France",
+   "origine_pieces": "Toile France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "ecommerce-veepee": [
+  {
+   "id": "ecommerce-veepee-vente-priv-e-veepee",
+   "nom": "Vente privée Veepee",
+   "assemblage": "France",
+   "origine_pieces": "Service France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "banque-nef": [
+  {
+   "id": "banque-nef-compte-nef",
+   "nom": "Compte Nef",
+   "assemblage": "France",
+   "origine_pieces": "Service France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hosting-hetzner": [
+  {
+   "id": "hosting-hetzner-serveur-d-di-hetzner",
+   "nom": "Serveur dédié Hetzner",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Hardware Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-mb": [
+  {
+   "id": "jouets-mb-jeu-de-tarot-mb",
+   "nom": "Jeu de tarot MB",
+   "assemblage": "France",
+   "origine_pieces": "Carton France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "resto-leon": [
+  {
+   "id": "resto-leon-l-on-moules-frites",
+   "nom": "Léon moules-frites",
+   "assemblage": "France",
+   "origine_pieces": "Moules Belgique/France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ]
+}
