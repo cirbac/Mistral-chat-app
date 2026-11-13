@@ -477,8 +477,8 @@
      "Mirae Asset",
      "Global X Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
     "commentaire": "Non revérifié. BlackRock,",
@@ -493,8 +493,8 @@
     "marques": [
      "Trezor République tchèque"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "République tchèque (Prague)",
+    "siege_pays": "CZ",
     "statut": "rang1",
     "sous_categorie": "Prestataires de services sur crypto-actifs",
     "commentaire": "Portefeuilles matériels. Non revérifié.",
@@ -509,8 +509,8 @@
     "marques": [
      "Binance Je ne sais pas"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Malte (La Valette)",
+    "siege_pays": "MT",
     "statut": "vigilance",
     "sous_categorie": "Prestataires de services sur crypto-actifs",
     "commentaire": "Je ne sais pas où se situe le siège ni qui contrôle le capital. À vérifier dans le registre de l'AMF et auprès de l'entité concernée.",

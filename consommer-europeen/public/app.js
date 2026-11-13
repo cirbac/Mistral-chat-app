@@ -99,6 +99,7 @@ function openDetail() {
 }
 
 function closeDetail() {
+  if (location.hash.startsWith('#/marque/') || location.hash.startsWith('#/produit/')) history.back();
   el.detailModal.classList.add('hidden');
   document.body.style.overflow = '';
   el.contenu.classList.remove('avec-detail');
@@ -185,6 +186,7 @@ function renderHome() {
 function carteGroupe(g) {
   const carte = document.createElement('div');
   carte.className = 'carte';
+  carte.style.borderLeft = `6px solid ${g.statutCouleur || '#888'}`;
   if (g.logo) {
     const img = document.createElement('img');
     img.className = 'carte-logo';
@@ -210,11 +212,13 @@ function carteGroupe(g) {
   }
   const meta = document.createElement('div');
   meta.className = 'meta-ligne';
-  meta.appendChild(badge(g.statutLabel, g.statutCouleur));
+  const st = badge(g.statutLabel, g.statutCouleur);
+  st.classList.add('badge-statut');
+  meta.appendChild(st);
   const siege = document.createElement('span');
-  siege.textContent = `Siège : ${g.siege}`;
+  siege.textContent = `Contrôlé depuis ${g.siege}`;
   meta.appendChild(siege);
-  if (g.recommande) {
+  if (g.recommande && state.pref === 'all') {
     const tag = document.createElement('span');
     tag.className = 'tag-recommande';
     tag.textContent = '✓ recommandé';
@@ -237,6 +241,7 @@ function carteGroupe(g) {
 async function showSecteur(id) {
   const s = await api(`/api/secteurs/${id}?pref=${state.pref}`);
   state.secteurId = id;
+  if (location.hash !== '#/secteur/' + encodeURIComponent(id)) location.hash = '#/secteur/' + encodeURIComponent(id);
   state.precedent = { type: 'sector', id };
   show('sector');
   el.chips.textContent = '';
@@ -427,17 +432,9 @@ function listeSources(container, sourcesResolues) {
 
 async function showGroupe(id) {
   const g = await api(`/api/groupes/${id}?pref=${state.pref}`);
+  if (location.hash !== '#/marque/' + encodeURIComponent(id)) location.hash = '#/marque/' + encodeURIComponent(id);
   openDetail();
   el.detail.innerHTML = '';
-
-  const retour = document.createElement('button');
-  retour.className = 'retour';
-  retour.type = 'button';
-  retour.textContent = '← Fermer la fiche';
-  retour.addEventListener('click', () => {
-    closeDetail();
-  });
-  el.detail.appendChild(retour);
 
   const head = document.createElement('div');
   head.className = 'fiche-head';
@@ -454,6 +451,14 @@ async function showGroupe(id) {
   h.textContent = g.groupe;
   head.appendChild(h);
   el.detail.appendChild(head);
+
+  const enBref = document.createElement('div');
+  enBref.className = 'en-bref';
+  enBref.appendChild(badge(g.statutLabel, g.statutCouleur));
+  const ebTxt = document.createElement('span');
+  ebTxt.textContent = `Contrôlé depuis ${g.siege} · ${g.lieux_production.length} lieu(x) de production · ${g.sources.length} source(s)`;
+  enBref.appendChild(ebTxt);
+  el.detail.appendChild(enBref);
 
   const badges = document.createElement('div');
   badges.style.display = 'flex';
@@ -774,6 +779,7 @@ async function runSearch(fromEnter) {
   let data = searchClientCache.get(key);
   if (!data) {
     data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+    if (location.hash !== '#/recherche?q=' + encodeURIComponent(q)) location.hash = '#/recherche?q=' + encodeURIComponent(q);
     if (seq !== searchSeq) return;
     if (searchClientCache.size > 100) searchClientCache.clear();
     searchClientCache.set(key, data);
@@ -873,7 +879,37 @@ el.pref.addEventListener('change', () => {
 });
 
 
-el.logoHome.addEventListener('click', () => renderHome());
+el.logoHome.addEventListener('click', (e) => {
+  e.preventDefault();
+  location.hash = '#/';
+  routeFromHash();
+});
+
+function routeFromHash() {
+  const h = location.hash || '#/';
+  const m = h.match(/^#\/marque\/(.+)$/);
+  if (m) {
+    showGroupe(decodeURIComponent(m[1]));
+    return;
+  }
+  const ms = h.match(/^#\/secteur\/(.+)$/);
+  if (ms) {
+    showSecteur(decodeURIComponent(ms[1]));
+    return;
+  }
+  const mq = h.match(/^#\/recherche\?q=(.*)$/);
+  if (mq) {
+    el.search.value = decodeURIComponent(mq[1]);
+    runSearch();
+    return;
+  }
+  if (h === '#/catalogue') {
+    showCatalogue(true);
+    return;
+  }
+  routeFromHash();
+}
+window.addEventListener('hashchange', routeFromHash);
 
 el.btnCatalogue.addEventListener('click', () => showCatalogue(true));
 el.catalogueRetour.addEventListener('click', () => renderHome());
@@ -998,7 +1034,7 @@ async function init() {
     const mc = await api('/api/mots-cles?all=1');
     state.vocab = mc.mots || [];
   } catch {}
-  renderHome();
+  routeFromHash();
 }
 
 init();

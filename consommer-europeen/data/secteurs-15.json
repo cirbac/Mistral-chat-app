@@ -119,8 +119,8 @@
     "marques": [
      "Norwegian Norvège"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Norvège (Oslo)",
+    "siege_pays": "NO",
     "statut": "rang1",
     "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "Non revérifié.",
@@ -184,8 +184,8 @@
     "marques": [
      "Korean Air Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
@@ -200,8 +200,8 @@
     "marques": [
      "EVA Air Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "",
@@ -216,8 +216,8 @@
     "marques": [
      "China Airlines Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Compagnies aériennes européennes",
     "commentaire": "Compagnie taïwanaise. Ne pas confondre avec Air China.",
@@ -377,8 +377,8 @@
     "marques": [
      "Voi Suède"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
     "statut": "rang1",
     "sous_categorie": "Rail, autocar et location",
     "commentaire": "Trottinettes en libre-service. Non revérifié.",
@@ -508,8 +508,8 @@
      "Giant",
      "Liv Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Taichung)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Cycles et mobilité douce",
     "commentaire": "",
@@ -524,8 +524,8 @@
     "marques": [
      "Merida Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Yuanlin)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Cycles et mobilité douce",
     "commentaire": "",

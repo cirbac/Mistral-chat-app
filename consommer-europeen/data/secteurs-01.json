@@ -203,8 +203,8 @@
      "Kia",
      "Genesis Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Constructeurs japonais et sud-coréens",
     "commentaire": "Usines européennes : Nošovice (Tchéquie) pour Hyundai, Žilina (Slovaquie) pour Kia.",
@@ -239,8 +239,8 @@
     "marques": [
      "Volvo Suède (siège)"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Göteborg)",
+    "siege_pays": "SE",
     "statut": "a_ecarter",
     "sous_categorie": "Marques sous contrôle chinois",
     "commentaire": "Actionnaire majoritaire : Geely (Chine). Plusieurs modèles électriques produits en Chine, dont l'EX30 [1] .",

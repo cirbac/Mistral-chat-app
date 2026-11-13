@@ -1,7 +1,7 @@
 import express, { Request, Response } from 'express';
 import compression from 'compression';
 import path from 'node:path';
-import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
 const rootDir = path.join(__dirname, '..');
 const envPath = path.join(rootDir, '.env');
@@ -136,9 +136,28 @@ function avatarDataUri(nom: string, couleur: string): string {
   return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg);
 }
 
-const PALETTE = ['#1e3a8a', '#1a7f37', '#0969da', '#9a6700', '#cf222e', '#8250df', '#0c7a6b', '#b42318', '#5b21b6', '#166534'];
+const PALETTE = ['#1e3a8a', '#274b8f', '#16336e', '#2c5aa8', '#1b2f5c', '#35609f', '#12264d', '#3a6ab5'];
+const logosDir = path.join(rootDir, 'public', 'assets', 'logos');
+if (!existsSync(logosDir)) mkdirSync(logosDir, { recursive: true });
 for (const s of secteurs) {
   for (const g of s.groupes) {
+    if (g.site && g.logo && g.logo.includes('google.com/s2/favicons')) {
+      const m = g.logo.match(/domain=([^&]+)/);
+      if (m) {
+        const file = path.join(logosDir, g.id + '.png');
+        if (!existsSync(file)) {
+          fetch(`https://www.google.com/s2/favicons?domain=${m[1]}&sz=128`, { headers: { 'User-Agent': 'CirbaConsult/1.0' } })
+            .then(async (r) => {
+              if (r.ok) {
+                const buf = Buffer.from(await r.arrayBuffer());
+                if (buf.length > 200) writeFileSync(file, buf);
+              }
+            })
+            .catch(() => {});
+        }
+        g.logo = `assets/logos/${g.id}.png`;
+      }
+    }
     if (!g.logo) {
       let h = 0;
       for (const c of g.groupe) h = (h * 31 + c.charCodeAt(0)) >>> 0;
@@ -166,8 +185,50 @@ if (existsSync(motsClesPath)) {
 
 const ajoutsPath = path.join(dataDir, 'ajouts.json');
 let ajouts: { num: string; groupe: Groupe }[] = [];
+
+async function githubSaveAjouts() {
+  const token = process.env.GITHUB_TOKEN;
+  const repo = process.env.GITHUB_REPO;
+  if (!token || !repo) return;
+  try {
+    const p = 'consommer-europeen/data/ajouts.json';
+    const h = { Authorization: `Bearer ${token}`, 'User-Agent': 'CirbaConsult/1.0', 'Content-Type': 'application/json' };
+    const g = await fetch(`https://api.github.com/repos/${repo}/contents/${p}`, { headers: h });
+    const sha = g.ok ? ((await g.json()) as { sha?: string }).sha : undefined;
+    await fetch(`https://api.github.com/repos/${repo}/contents/${p}`, {
+      method: 'PUT',
+      headers: h,
+      body: JSON.stringify({ message: 'chore: propositions utilisateurs (admin)', content: Buffer.from(JSON.stringify(ajouts, null, 1) + '\n').toString('base64'), ...(sha ? { sha } : {}) }),
+    });
+  } catch (e) {
+    console.error('githubSaveAjouts:', e);
+  }
+}
+
+async function githubLoadAjouts() {
+  const token = process.env.GITHUB_TOKEN;
+  const repo = process.env.GITHUB_REPO;
+  if (!token || !repo) return;
+  try {
+    const r = await fetch(`https://api.github.com/repos/${repo}/contents/consommer-europeen/data/ajouts.json`, { headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'CirbaConsult/1.0' } });
+    if (!r.ok) return;
+    const j = (await r.json()) as { content?: string };
+    ajouts = JSON.parse(Buffer.from(j.content ?? '', 'base64').toString('utf8')) as { num: string; groupe: Groupe }[];
+    try { writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    void githubSaveAjouts(); } catch {}
+  } catch {}
+}
 if (existsSync(ajoutsPath)) {
   ajouts = JSON.parse(readFileSync(ajoutsPath, 'utf8')) as { num: string; groupe: Groupe }[];
+} else {
+  githubLoadAjouts().then(() => {
+    for (const a of ajouts) {
+      const secteur = secteurs.find((x) => x.num === a.num);
+      if (secteur) secteur.groupes.push(a.groupe);
+    }
+    buildIndex();
+    searchCache.clear();
+  });
 }
 for (const a of ajouts) {
   const secteur = secteurs.find((s) => s.num === a.num);
@@ -440,7 +501,9 @@ for (const s of secteurs) {
 dedupGroupes();
 
 interface GIdx { g: Groupe; s: Secteur; hayN: string; hayC: string; hayS: string; hayP: string[]; }
-const groupeIndex: GIdx[] = secteurs.flatMap((s) =>
+let groupeIndex: GIdx[] = [];
+function buildIndex() {
+  groupeIndex = secteurs.flatMap((s) =>
   s.groupes.map((g) => ({
     g,
     s,
@@ -450,6 +513,7 @@ const groupeIndex: GIdx[] = secteurs.flatMap((s) =>
     hayP: g.produits.map((pr) => norm([pr.nom, pr.note ?? ''].join(' '))),
   })),
 );
+}
 const searchCache = new Map<string, unknown>();
 
 function dedupGroupes() {
@@ -480,6 +544,8 @@ function dedupGroupes() {
     s.groupes = out;
   }
 }
+buildIndex();
+
 const vocabMotsCles = new Set<string>();
 for (const s of secteurs) {
   vocabMotsCles.add(norm(s.nom));
@@ -749,6 +815,7 @@ app.post('/api/produits', (req, res) => {
   secteur.groupes.push(groupe);
   try {
     writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    void githubSaveAjouts();
   } catch (err) {
     console.error(err);
   }
@@ -792,6 +859,7 @@ app.post('/api/admin/ajouts/:id/valider', (req, res) => {
   (a.groupe as { valide?: boolean }).valide = true;
   try {
     writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    void githubSaveAjouts();
   } catch (err) {
     console.error(err);
   }
@@ -811,6 +879,7 @@ app.delete('/api/admin/ajouts/:id', (req, res) => {
   if (secteur) secteur.groupes = secteur.groupes.filter((g) => g.id !== a.groupe.id);
   try {
     writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    void githubSaveAjouts();
   } catch (err) {
     console.error(err);
   }

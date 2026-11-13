@@ -29,8 +29,8 @@
     "marques": [
      "Galaxy Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Suwon)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Smartphones",
     "commentaire": "",
@@ -62,8 +62,8 @@
      "Acer",
      "Predator Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Nouveau Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Ordinateurs",
     "commentaire": "",
@@ -78,8 +78,8 @@
     "marques": [
      "MSI Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Nouveau Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Ordinateurs",
     "commentaire": "",
@@ -95,8 +95,8 @@
      "Gigabyte",
      "Aorus Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Nouveau Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Ordinateurs",
     "commentaire": "",
@@ -111,8 +111,8 @@
     "marques": [
      "LG gram Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Ordinateurs",
     "commentaire": "",
@@ -178,8 +178,8 @@
     "marques": [
      "Kindle États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Liseuses",
     "commentaire": "Hors de vos zones.",
@@ -276,8 +276,8 @@
     "marques": [
      "Marshall Suède"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
     "statut": "rang1",
     "sous_categorie": "Audio, photo et impression",
     "commentaire": "Non revérifié.",
@@ -311,8 +311,8 @@
      "Harman Kardon",
      "AKG États-Unis (siège)"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Stamford)",
+    "siege_pays": "US",
     "statut": "rang2",
     "sous_categorie": "Audio, photo et impression",
     "commentaire": "Harman appartient à Samsung Electronics (Corée du Sud) selon mes informations. Non revérifié.",
@@ -423,8 +423,8 @@
     "marques": [
      "Lexmark États-Unis (siège)"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Lexington)",
+    "siege_pays": "US",
     "statut": "a_ecarter",
     "sous_categorie": "Audio, photo et impression",
     "commentaire": "Rachat par un consortium chinois selon mes informations. Non revérifié.",
@@ -439,8 +439,8 @@
     "marques": [
      "Hasselblad Suède (marque)"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Göteborg)",
+    "siege_pays": "SE",
     "statut": "a_ecarter",
     "sous_categorie": "Audio, photo et impression",
     "commentaire": "Marque détenue par DJI (Chine) selon mes informations. Non revérifié.",

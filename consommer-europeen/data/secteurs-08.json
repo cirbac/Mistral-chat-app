@@ -372,8 +372,8 @@
      "Nongshim",
      "Shin Ramyun Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
@@ -392,8 +392,8 @@
      "Bibigo",
      "CJ Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
@@ -411,8 +411,8 @@
     "marques": [
      "Lotte Corée du Sud / Japon"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "Non revérifié.",
@@ -430,8 +430,8 @@
     "marques": [
      "Uni-President Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Tainan)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Produits alimentaires, suite",
     "commentaire": "",
@@ -668,8 +668,8 @@
      "Kenco",
      "Peet's États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Burlington)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Keurig Dr Pepper a finalisé le 1er avril 2026 le rachat de JDE Peet's [144] [145] . Marques citées par [146] . Ancienne société néerlandaise.",
@@ -729,8 +729,8 @@
     "marques": [
      "Monster États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Corona)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Boissons et café, suite",
     "commentaire": "Hors de vos zones.",

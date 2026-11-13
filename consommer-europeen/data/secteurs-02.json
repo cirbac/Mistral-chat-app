@@ -223,8 +223,8 @@
      "Harley-Davidson",
      "X350RA États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Milwaukee)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Marques hors zones",
     "commentaire": "Le X350RA figure dans la fiche fabricant de Qianjiang, groupe chinois [48] . Hors de vos zones pour la maison mère.",
@@ -298,8 +298,8 @@
     "marques": [
      "Kymco Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Kaohsiung)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
     "commentaire": "",
@@ -314,8 +314,8 @@
     "marques": [
      "SYM Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Nouveau Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
     "commentaire": "",

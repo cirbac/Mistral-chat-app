@@ -190,8 +190,8 @@
     "marques": [
      "Eider Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Eider, marque française de montagne, cédée par Calida au sud-coréen K2 [111] .",
@@ -227,8 +227,8 @@
     "marques": [
      "Helly Hansen Norvège (marque)"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Norvège (Oslo)",
+    "siege_pays": "NO",
     "statut": "hors_zones",
     "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Cédée par Canadian Tire à Kontoor Brands (États-Unis, propriétaire de Wrangler et Lee), clôture le 2 juin 2025 [101] .",
@@ -245,8 +245,8 @@
     "marques": [
      "Osprey États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Marietta)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Sacs à dos et vêtements de montagne",
     "commentaire": "Vendue à Helen of Troy (El Paso, Texas) pour 414 millions de dollars [102] .",
@@ -367,8 +367,8 @@
     "marques": [
      "Hoka États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Goleta)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Chaussures de randonnée",
     "commentaire": "Hors de vos zones.",
@@ -383,8 +383,8 @@
     "marques": [
      "Primus Suède"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Råby)",
+    "siege_pays": "SE",
     "statut": "rang1",
     "sous_categorie": "Tentes, couchage et cuisine de camp",
     "commentaire": "Primus a été cédée par Fenix Outdoor à Silva Sweden au quatrième trimestre 2022 [105] .",
@@ -401,8 +401,8 @@
     "marques": [
      "Trangia Suède"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Trångsund)",
+    "siege_pays": "SE",
     "statut": "rang1",
     "sous_categorie": "Tentes, couchage et cuisine de camp",
     "commentaire": "Non revérifié.",
@@ -417,8 +417,8 @@
     "marques": [
      "Coleman États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Atlanta)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Tentes, couchage et cuisine de camp",
     "commentaire": "Hors de vos zones.",
@@ -433,8 +433,8 @@
     "marques": [
      "Belkin Taïwan"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Taïwan (Nouveau Taipei)",
+    "siege_pays": "TW",
     "statut": "rang2",
     "sous_categorie": "Accessoires électroniques de voyage",
     "commentaire": "Belkin appartient à Foxconn selon mes informations. Non revérifié.",
@@ -449,8 +449,8 @@
     "marques": [
      "GoPro États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (San Mateo)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Accessoires électroniques de voyage",
     "commentaire": "Hors de vos zones.",
