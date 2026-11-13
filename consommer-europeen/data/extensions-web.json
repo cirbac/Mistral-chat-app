@@ -24,98 +24,6 @@
     "produits": []
    },
    {
-    "id": "vetements-chaussures-sport-adidas",
-    "groupe": "Adidas",
-    "marques": [
-     "Adidas",
-     "Adidas Originals"
-    ],
-    "siege": "Allemagne (Herzogenaurach)",
-    "siege_pays": "DE",
-    "statut": "rang1",
-    "sous_categorie": "Sport",
-    "commentaire": "Équipementier allemand, n°2 mondial [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "Allemagne",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-puma",
-    "groupe": "Puma",
-    "marques": [
-     "Puma"
-    ],
-    "siege": "Allemagne (Herzogenaurach)",
-    "siege_pays": "DE",
-    "statut": "vigilance",
-    "sous_categorie": "Sport",
-    "commentaire": "Anta Sports (Chine) est devenu premier actionnaire avec 29,06 % en janvier 2026 [162][163].",
-    "sources": [
-     162,
-     163
-    ],
-    "lieux_production": [
-     "Chine",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-decathlon",
-    "groupe": "Decathlon",
-    "marques": [
-     "Decathlon",
-     "Quechua",
-     "Domyos",
-     "Kipsta",
-     "B'Twin"
-    ],
-    "siege": "France (Lille)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Sport",
-    "commentaire": "Groupe familial français, n°3 mondial du sport [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "France",
-     "Chine",
-     "Inde"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "vetements-chaussures-sport-asics",
-    "groupe": "Asics",
-    "marques": [
-     "Asics",
-     "Onitsuka Tiger"
-    ],
-    "siege": "Japon (Kobe)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Sport",
-    "commentaire": "Équipementier japonais [164].",
-    "sources": [
-     164
-    ],
-    "lieux_production": [
-     "Chine",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "vetements-chaussures-sport-lacoste",
     "groupe": "Lacoste",
     "marques": [
@@ -195,7 +103,7 @@
     "siege": "Pays-Bas (Amsterdam)",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "sous_categorie": "",
     "commentaire": "Plateforme néerlandaise (Booking Holdings, cotée US mais siège Amsterdam) [181].",
     "sources": [
      181
@@ -213,7 +121,7 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Hébergement entre particuliers et réservation",
+    "sous_categorie": "",
     "commentaire": "Plateforme américaine [182]. Hors de vos zones.",
     "sources": [
      182
@@ -290,31 +198,6 @@
     "produits": []
    },
    {
-    "id": "distribution-paiement-amazon",
-    "groupe": "Amazon",
-    "marques": [
-     "Amazon",
-     "Amazon Prime",
-     "AWS"
-    ],
-    "aliases": [
-     "amazon",
-     "prime",
-     "aws"
-    ],
-    "siege": "États-Unis (Seattle)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Équipement, maison et commerce en ligne",
-    "commentaire": "Groupe américain [189]. Hors de vos zones.",
-    "sources": [
-     189
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "distribution-paiement-action",
     "groupe": "Action",
     "marques": [
@@ -334,25 +217,6 @@
      "Pays-Bas",
      "Allemagne"
     ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-et-paiement-fnac-darty",
-    "groupe": "Fnac Darty",
-    "marques": [
-     "Fnac",
-     "Darty"
-    ],
-    "siege": "France (Ivry-sur-Seine)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Équipement, maison et commerce en ligne",
-    "commentaire": "Distributeur français coté à Paris (Ivry-sur-Seine) : enseignes Fnac (culture, high-tech) et Darty (électroménager) [249].",
-    "sources": [
-     249
-    ],
-    "lieux_production": [],
     "certifications": [],
     "produits": []
    }
@@ -685,29 +549,6 @@
     "lieux_production": [],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "transport-mobilite-transavia",
-    "groupe": "Transavia (Air France-KLM)",
-    "marques": [
-     "Transavia",
-     "Transavia France"
-    ],
-    "aliases": [
-     "transavia"
-    ],
-    "siege": "Pays-Bas / France (Orly)",
-    "siege_pays": "NL",
-    "statut": "rang1",
-    "sous_categorie": "Compagnies aériennes européennes",
-    "commentaire": "Filiale à 100 % d'Air France-KLM (holding franco-néerlandaise) depuis 2004 [205][206].",
-    "sources": [
-     205,
-     206
-    ],
-    "lieux_production": [],
-    "certifications": [],
-    "produits": []
    }
   ]
  },
@@ -860,28 +701,6 @@
     "produits": []
    },
    {
-    "id": "jouets-jeux-video-nintendo",
-    "groupe": "Nintendo",
-    "marques": [
-     "Nintendo",
-     "Switch"
-    ],
-    "siege": "Japon (Kyoto)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Consoles, plateformes et éditeurs",
-    "commentaire": "Éditeur/constructeur japonais [170].",
-    "sources": [
-     170
-    ],
-    "lieux_production": [
-     "Chine",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "jouets-jeux-video-ravensburger",
     "groupe": "Ravensburger",
     "marques": [
@@ -953,41 +772,6 @@
       "origine_pieces": null,
       "certifications": [],
       "note": "Production déplacée hors d'Allemagne mais reste en Europe [204]."
-     }
-    ]
-   },
-   {
-    "id": "jouets-et-jeux-video-hasbro",
-    "groupe": "Hasbro",
-    "marques": [
-     "Hasbro",
-     "Nerf",
-     "Monopoly",
-     "Play-Doh",
-     "Transformers"
-    ],
-    "siege": "États-Unis (Pawtucket, Rhode Island)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Jouets et jeux de société",
-    "commentaire": "Fabricant américain de jouets (Pawtucket, Rhode Island) : Nerf, Monopoly, Play-Doh, Transformers, Magic: l'Assemblée [254]. Hors de vos zones.",
-    "sources": [
-     254
-    ],
-    "lieux_production": [
-     "Chine",
-     "États-Unis",
-     "Mexique"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "jouets-et-jeux-video-hasbro-monopoly",
-      "nom": "Monopoly (jeu de société)",
-      "assemblage": "États-Unis",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Jeu de société édité par Hasbro."
      }
     ]
    }
@@ -1104,27 +888,6 @@
     ],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "montres-bijoux-optique-garmin",
-    "groupe": "Garmin",
-    "marques": [
-     "Garmin"
-    ],
-    "siege": "États-Unis (Olathe) / Suisse",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Montres et objets connectés",
-    "commentaire": "Objets connectés américains [173]. Hors de vos zones.",
-    "sources": [
-     173
-    ],
-    "lieux_production": [
-     "Chine",
-     "Taïwan"
-    ],
-    "certifications": [],
-    "produits": []
    }
   ]
  },
@@ -1220,46 +983,6 @@
     "produits": []
    },
    {
-    "id": "medias-qobuz",
-    "groupe": "Qobuz",
-    "marques": [
-     "Qobuz"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Musique, livres audio et radio",
-    "commentaire": "Plateforme française de streaming et téléchargement musical haute résolution (Hi-Res 24-bit) fondée en 2007 ; détenue par Xandrie SA (France, Denis Thebaud).",
-    "sources": [
-     219
-    ],
-    "lieux_production": [
-     "France (Paris)"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-dailymotion",
-    "groupe": "Dailymotion",
-    "marques": [
-     "Dailymotion"
-    ],
-    "siege": "France (Paris 17e)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Plateforme française de vidéo fondée en 2005 à Paris ; filiale d'Orange (2011-2015), de Vivendi (2015), puis transférée au groupe Canal+ fin 2024.",
-    "sources": [
-     220
-    ],
-    "lieux_production": [
-     "France (Paris)"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "medias-groupe-madrigall",
     "groupe": "Groupe Madrigall (Gallimard)",
     "marques": [
@@ -1283,26 +1006,6 @@
     "lieux_production": [
      "France (Paris)"
     ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-streaming-et-culture-youtube",
-    "groupe": "YouTube (Google)",
-    "marques": [
-     "YouTube",
-     "YouTube Music",
-     "YouTube Premium"
-    ],
-    "siege": "États-Unis (San Bruno, Californie)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Télévision et vidéo en ligne",
-    "commentaire": "Plateforme vidéo américaine (San Bruno, Californie), filiale de Google/Alphabet [255]. Hors de vos zones.",
-    "sources": [
-     255
-    ],
-    "lieux_production": [],
     "certifications": [],
     "produits": []
    }
@@ -1377,43 +1080,6 @@
     "certifications": [],
     "produits": [],
     "openfoodfacts": "https://fr.openfoodfacts.org/marque/sodexo"
-   },
-   {
-    "id": "restauration-livraison-mcdonalds",
-    "groupe": "McDonald's",
-    "marques": [
-     "McDonald's"
-    ],
-    "aliases": [
-     "mcdonald",
-     "big mac",
-     "mcdonalds"
-    ],
-    "siege": "États-Unis (Chicago)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Chaîne américaine [186]. Produit phare : Big Mac (viande UE en France).",
-    "sources": [
-     186,
-     210
-    ],
-    "lieux_production": [
-     "France (fournisseurs UE)"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "restauration-livraison-mcdonalds-big-mac",
-      "nom": "Big Mac",
-      "assemblage": "France (préparé en restaurant)",
-      "origine_pieces": "Union européenne (viande)",
-      "certifications": [],
-      "note": "Produit phare [186].",
-      "openfoodfacts": "https://fr.openfoodfacts.org/produit/2000000002603/big-mac-mcdonald-s"
-     }
-    ],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mcdonald-s"
    },
    {
     "id": "restauration-livraison-starbucks",
@@ -1557,39 +1223,6 @@
     ],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "restauration-et-livraison-quick",
-    "groupe": "Quick (Groupe Bertrand)",
-    "marques": [
-     "Quick"
-    ],
-    "siege": "France (Mérignac)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "Restauration rapide et cafés",
-    "commentaire": "Chaîne de restauration rapide française du groupe Bertrand (Mérignac), n°2 du burger en France derrière McDonald's [256].",
-    "sources": [
-     256
-    ],
-    "lieux_production": [
-     "France",
-     "Belgique",
-     "Luxembourg",
-     "Suisse",
-     "Maroc"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "restauration-et-livraison-quick-giant",
-      "nom": "Burger « Giant »",
-      "assemblage": "France",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Produit phare de l'enseigne, préparé en France."
-     }
-    ]
    },
    {
     "id": "restauration-et-livraison-too-good-to-go",
@@ -2110,81 +1743,6 @@
     "openfoodfacts": "https://fr.openfoodfacts.org/marque/pepsi"
    },
    {
-    "id": "alimentation-boissons-suntory",
-    "groupe": "Suntory",
-    "marques": [
-     "Suntory",
-     "Orangina",
-     "Schweppes",
-     "Ribena"
-    ],
-    "siege": "Japon (Osaka)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Boissons",
-    "commentaire": "Groupe japonais (Orangina Schweppes Europe).",
-    "sources": [
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/suntory"
-   },
-   {
-    "id": "alimentation-et-boissons-ferrero",
-    "groupe": "Ferrero",
-    "marques": [
-     "Nutella",
-     "Kinder",
-     "Ferrero Rocher",
-     "Kinder Bueno",
-     "Raffaello",
-     "Tic Tac",
-     "Kinder Pingui"
-    ],
-    "aliases": [
-     "nutella",
-     "kinder",
-     "ferrero rocher",
-     "rocher",
-     "raffaello",
-     "tic tac"
-    ],
-    "siege": "Italie (Alba)",
-    "siege_pays": "IT",
-    "statut": "rang1",
-    "sous_categorie": "Produits alimentaires",
-    "commentaire": "Groupe familial italien, n°1 mondial de la confiserie chocolatée (Nutella) [183].",
-    "sources": [
-     183,
-     210
-    ],
-    "lieux_production": [
-     "Italie",
-     "France",
-     "Allemagne",
-     "Pologne",
-     "Brésil",
-     "Chine"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "alimentation-et-boissons-ferrero-nutella",
-      "nom": "Nutella",
-      "assemblage": "France (Villeneuve-d'Ascq) et autres sites UE",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Produit en France (site de Villeneuve-d'Ascq) et dans plusieurs usines européennes [183].",
-      "openfoodfacts": "https://fr.openfoodfacts.org/produit/3017620422003/nutella"
-     }
-    ],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/nutella"
-   },
-   {
     "id": "alimentation-boissons-mondelez",
     "groupe": "Mondelez International",
     "marques": [
@@ -2221,40 +1779,6 @@
     "certifications": [],
     "produits": [],
     "openfoodfacts": "https://fr.openfoodfacts.org/marque/oreo"
-   },
-   {
-    "id": "alimentation-boissons-mars",
-    "groupe": "Mars",
-    "marques": [
-     "Mars",
-     "Snickers",
-     "Twix",
-     "M&M's",
-     "Uncle Ben's",
-     "Pedigree",
-     "Whiskas"
-    ],
-    "aliases": [
-     "mars",
-     "snickers",
-     "twix",
-     "mms"
-    ],
-    "siege": "États-Unis (McLean, Virginie)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Produits alimentaires",
-    "commentaire": "Groupe familial américain [194]. Hors de vos zones.",
-    "sources": [
-     194,
-     210
-    ],
-    "lieux_production": [
-     "France"
-    ],
-    "certifications": [],
-    "produits": [],
-    "openfoodfacts": "https://fr.openfoodfacts.org/marque/mars"
    },
    {
     "id": "alimentation-boissons-herta",
@@ -2309,76 +1833,6 @@
     ],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "alimentation-et-boissons-heineken",
-    "groupe": "Heineken",
-    "marques": [
-     "Heineken",
-     "Amstel",
-     "Desperados"
-    ],
-    "siege": "Pays-Bas (Amsterdam)",
-    "siege_pays": "NL",
-    "statut": "rang1",
-    "sous_categorie": "Boissons",
-    "commentaire": "Brasseur néerlandais (Amsterdam) : Heineken, Amstel, Desperados ; brasseries en France (Marseille, Mons-en-Barœul) [245].",
-    "sources": [
-     245
-    ],
-    "lieux_production": [
-     "Pays-Bas",
-     "France (Marseille, Mons-en-Barœul)",
-     "Mexique",
-     "Vietnam",
-     "Brésil",
-     "Nigeria"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "alimentation-et-boissons-heineken-33cl",
-      "nom": "Heineken (bouteille 33 cl)",
-      "assemblage": "France (Marseille, Mons-en-Barœul)",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Bière blonde brassée en France."
-     }
-    ]
-   },
-   {
-    "id": "alimentation-et-boissons-carlsberg",
-    "groupe": "Carlsberg",
-    "marques": [
-     "Carlsberg",
-     "Tuborg",
-     "Kronenbourg 1664"
-    ],
-    "siege": "Danemark (Copenhague)",
-    "siege_pays": "DK",
-    "statut": "rang1",
-    "sous_categorie": "Boissons",
-    "commentaire": "Brasseur danois (Copenhague) : Carlsberg, Tuborg ; Kronenbourg 1664 brassée à Strasbourg [246].",
-    "sources": [
-     246
-    ],
-    "lieux_production": [
-     "Danemark",
-     "France (Strasbourg)",
-     "Chine",
-     "Royaume-Uni"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "alimentation-et-boissons-carlsberg-kronenbourg",
-      "nom": "Kronenbourg 1664",
-      "assemblage": "France (Strasbourg)",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Bière blonde brassée en Alsace."
-     }
-    ]
    }
   ]
  },
@@ -2393,7 +1847,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Beauté, hygiène et entretien",
+    "sous_categorie": "",
     "commentaire": "Maison française privée (famille Wertheimer) [179].",
     "sources": [
      179
@@ -2413,7 +1867,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Luxe et mode haut de gamme",
+    "sous_categorie": "",
     "commentaire": "Maison française familiale [180].",
     "sources": [
      180
@@ -2531,33 +1985,6 @@
     ],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "hygiene-sante-johnson-johnson",
-    "groupe": "Johnson & Johnson",
-    "marques": [
-     "Johnson & Johnson",
-     "Band-Aid",
-     "Neutrogena",
-     "Listerine"
-    ],
-    "siege": "États-Unis (New Brunswick, New Jersey)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Santé grand public",
-    "commentaire": "Groupe américain de santé grand public (New Brunswick, NJ) : pansements Band-Aid, soins Neutrogena, bains de bouche Listerine [247]. Hors de vos zones.",
-    "sources": [
-     247
-    ],
-    "lieux_production": [
-     "États-Unis",
-     "Inde",
-     "Chine",
-     "Thaïlande",
-     "Brésil"
-    ],
-    "certifications": [],
-    "produits": []
    }
   ]
  },
@@ -2651,85 +2078,6 @@
     ],
     "certifications": [],
     "produits": []
-   },
-   {
-    "id": "pneumatiques-bridgestone",
-    "groupe": "Bridgestone",
-    "marques": [
-     "Bridgestone",
-     "Firestone",
-     "Lassa"
-    ],
-    "siege": "Japon (Tokyo)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Manufacturiers japonais et sud-coréens",
-    "commentaire": "Manufacturier japonais n°2 mondial du pneu (Bridgestone, Firestone, Lassa) [236].",
-    "sources": [
-     236
-    ],
-    "lieux_production": [
-     "Japon",
-     "Chine",
-     "Thaïlande",
-     "Pologne",
-     "Mexique",
-     "États-Unis"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "pneumatiques-bridgestone-turanza",
-      "nom": "Turanza (pneu été)",
-      "assemblage": "Pologne (Poznań) pour l'Europe",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Gamme routière produite en Pologne pour le marché européen."
-     },
-     {
-      "id": "pneumatiques-bridgestone-blizzak",
-      "nom": "Blizzak (pneu hiver)",
-      "assemblage": "Japon",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Gamme hiver, produite notamment au Japon."
-     }
-    ]
-   },
-   {
-    "id": "pneumatiques-goodyear",
-    "groupe": "Goodyear",
-    "marques": [
-     "Goodyear",
-     "Dunlop"
-    ],
-    "siege": "États-Unis (Akron, Ohio)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "",
-    "commentaire": "Manufacturier américain (Akron, Ohio), n°2 mondial du pneu ; détient la marque Dunlop [237]. Hors de vos zones.",
-    "sources": [
-     237
-    ],
-    "lieux_production": [
-     "États-Unis",
-     "Chine",
-     "Brésil",
-     "Mexique",
-     "Thaïlande",
-     "France (Montluçon)"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "pneumatiques-goodyear-efficientgrip",
-      "nom": "EfficientGrip Performance 2 (pneu été)",
-      "assemblage": "France (Montluçon, Allier)",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Usine française du groupe à Montluçon."
-     }
-    ]
    }
   ]
  },
@@ -2810,102 +2158,6 @@
     ]
    },
    {
-    "id": "informatique-et-telephonie-xiaomi",
-    "groupe": "Xiaomi",
-    "marques": [
-     "Xiaomi",
-     "Redmi",
-     "POCO"
-    ],
-    "siege": "Chine (Pékin)",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Smartphones",
-    "commentaire": "Fabricant chinois (Pékin, fondé en 2010) : smartphones Xiaomi/Redmi/POCO, montres et objets connectés [240]. À écarter (contrôle chinois).",
-    "sources": [
-     240
-    ],
-    "lieux_production": [
-     "Chine",
-     "Inde",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "informatique-et-telephonie-xiaomi-redmi-note",
-      "nom": "Redmi Note 13",
-      "assemblage": "Inde",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Smartphone d'entrée/milieu de gamme assemblé en Inde."
-     }
-    ]
-   },
-   {
-    "id": "informatique-et-telephonie-huawei",
-    "groupe": "Huawei",
-    "marques": [
-     "Huawei"
-    ],
-    "siege": "Chine (Shenzhen)",
-    "siege_pays": "CN",
-    "statut": "a_ecarter",
-    "sous_categorie": "Smartphones",
-    "commentaire": "Groupe chinois de Shenzhen : smartphones Mate/P, ordinateurs, équipements télécoms [241]. À écarter (contrôle chinois).",
-    "sources": [
-     241
-    ],
-    "lieux_production": [
-     "Chine"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "informatique-et-telephonie-huawei-mate-60",
-      "nom": "Mate 60 Pro",
-      "assemblage": "Chine",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Smartphone haut de gamme produit en Chine."
-     }
-    ]
-   },
-   {
-    "id": "informatique-et-telephonie-dell",
-    "groupe": "Dell",
-    "marques": [
-     "Dell",
-     "Alienware"
-    ],
-    "siege": "États-Unis (Round Rock, Texas)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Ordinateurs",
-    "commentaire": "Fabricant américain d'ordinateurs (Round Rock, Texas) : gammes XPS, Latitude, Precision et Alienware (gaming) [242]. Hors de vos zones.",
-    "sources": [
-     242
-    ],
-    "lieux_production": [
-     "États-Unis",
-     "Chine",
-     "Malaisie",
-     "Brésil",
-     "Irlande"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "informatique-et-telephonie-dell-xps-15",
-      "nom": "XPS 15",
-      "assemblage": "Malaisie",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "PC portable haut de gamme assemblé en Malaisie."
-     }
-    ]
-   },
-   {
     "id": "informatique-et-telephonie-hp",
     "groupe": "HP (Hewlett-Packard)",
     "marques": [
@@ -2936,126 +2188,6 @@
       "origine_pieces": null,
       "certifications": [],
       "note": "PC portable convertible 2-en-1 assemblé en Chine."
-     }
-    ]
-   },
-   {
-    "id": "informatique-et-telephonie-asus",
-    "groupe": "Asus",
-    "marques": [
-     "Asus",
-     "ROG"
-    ],
-    "siege": "Taïwan (Taipei)",
-    "siege_pays": "TW",
-    "statut": "rang2",
-    "sous_categorie": "Ordinateurs",
-    "commentaire": "Fabricant taïwanais (Taipei) : PC portables Zenbook/Vivobook, gamme gaming ROG, cartes mères et cartes graphiques [244].",
-    "sources": [
-     244
-    ],
-    "lieux_production": [
-     "Taïwan",
-     "Chine",
-     "Vietnam"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "informatique-et-telephonie-asus-zenbook-14",
-      "nom": "Zenbook 14",
-      "assemblage": "Chine",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Ultraportable assemblé en Chine."
-     }
-    ]
-   }
-  ]
- },
- "02": {
-  "groupes": [
-   {
-    "id": "motos-et-scooters-honda",
-    "groupe": "Honda Motor",
-    "marques": [
-     "Honda"
-    ],
-    "siege": "Japon (Tokyo)",
-    "siege_pays": "JP",
-    "statut": "rang2",
-    "sous_categorie": "Marques japonaises, taïwanaises et canadiennes",
-    "commentaire": "Constructeur japonais, n°1 mondial des motos (Gold Wing, Africa Twin, CB) et fabricant de scooters [258].",
-    "sources": [
-     258
-    ],
-    "lieux_production": [
-     "Japon",
-     "Inde",
-     "Vietnam",
-     "Thaïlande",
-     "Brésil"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "motos-et-scooters-honda-gold-wing",
-      "nom": "Gold Wing",
-      "assemblage": "Japon (Kumamoto)",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Moto GT haut de gamme produite au Japon."
-     }
-    ]
-   }
-  ]
- },
- "04": {
-  "groupes": [
-   {
-    "id": "electromenager-whirlpool",
-    "groupe": "Whirlpool",
-    "marques": [
-     "Whirlpool",
-     "KitchenAid",
-     "Maytag",
-     "Indesit",
-     "Hotpoint"
-    ],
-    "siege": "États-Unis (Benton Harbor, Michigan)",
-    "siege_pays": "US",
-    "statut": "hors_zones",
-    "sous_categorie": "Gros électroménager",
-    "commentaire": "Fabricant américain n°1 mondial de l'électroménager (Whirlpool, KitchenAid, Maytag, Indesit, Hotpoint) [238]. Hors de vos zones.",
-    "sources": [
-     238
-    ],
-    "lieux_production": [
-     "États-Unis",
-     "Mexique",
-     "Brésil",
-     "Pologne",
-     "Italie",
-     "Chine",
-     "Inde"
-    ],
-    "certifications": [],
-    "produits": [
-     {
-      "id": "electromenager-whirlpool-lave-linge",
-      "nom": "Lave-linge frontal Whirlpool",
-      "assemblage": "Pologne",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Gamme produite en Europe notamment en Pologne."
-     },
-     {
-      "id": "electromenager-whirlpool-refrigerateur",
-      "nom": "Réfrigérateur américain",
-      "assemblage": "États-Unis / Mexique",
-      "origine_pieces": null,
-      "certifications": [],
-      "note": "Gamme réfrigérateurs produite en Amérique du Nord."
      }
     ]
    }

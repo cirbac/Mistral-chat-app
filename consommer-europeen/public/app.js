@@ -130,6 +130,7 @@ function esc(text) {
 function show(view) {
   state.view = view;
   hideSuggestions();
+  if (view !== 'results') el.search.value = '';
   document.body.classList.toggle('hero-compact', view !== 'home');
   el.home.classList.toggle('hidden', view !== 'home');
   el.results.classList.toggle('hidden', view === 'home' || view === 'catalogue');
@@ -368,7 +369,7 @@ function renderResults(data, q) {
     const p = document.createElement('p');
     p.className = 'vide';
     if (data.masquees > 0) {
-      p.textContent = `${data.masquees} marque${data.masquees > 1 ? 's' : ''} correspond${data.masquees > 1 ? 'nent' : ''} mais ${data.masquees > 1 ? 'sont' : 'est'} hors de votre préférence.`;
+      p.textContent = `${data.masquees} marque${data.masquees > 1 ? 's' : ''} correspond${data.masquees > 1 ? 'ent' : ''} mais ${data.masquees > 1 ? 'sont' : 'est'} hors de votre préférence.`;
       el.results.appendChild(p);
       const voir = document.createElement('button');
       voir.type = 'button';
@@ -879,7 +880,7 @@ el.catalogueRetour.addEventListener('click', () => renderHome());
 
 function renderFiltresCatalogue() {
   el.catFiltresStatuts.textContent = '';
-  const statuts = [{ id: '', label: 'Tous statuts' }, ...state.meta.statuts];
+  const statuts = [{ id: '', label: 'Tous statuts' }, ...state.meta.statuts.filter((st) => st.id !== 'propose')];
   for (const st of statuts) {
     const b = document.createElement('button');
     b.type = 'button';
@@ -992,7 +993,7 @@ async function init() {
     opt.textContent = `${s.num} · ${s.nom}`;
     el.addSecteur.appendChild(opt);
   }
-  el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbProduits} produits · ${state.meta.nbSources} sources`;
+  el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbSources} sources`;
   try {
     const mc = await api('/api/mots-cles?all=1');
     state.vocab = mc.mots || [];

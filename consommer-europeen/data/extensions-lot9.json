@@ -10,7 +10,7 @@
     "siege": "Australie (Melbourne)",
     "siege_pays": "AU",
     "statut": "hors_zones",
-    "sous_categorie": "Soin luxe",
+    "sous_categorie": "",
     "commentaire": "Cosmétique australienne (L'Oréal). [325, 330]",
     "sources": [
      325,
@@ -32,7 +32,7 @@
     "siege": "Australie",
     "siege_pays": "AU",
     "statut": "hors_zones",
-    "sous_categorie": "Clean beauty",
+    "sous_categorie": "",
     "commentaire": "Clean beauty australienne. [325, 330]",
     "sources": [
      325,
@@ -53,7 +53,7 @@
     "siege": "Allemagne (Düsseldorf)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Dermocosmétique",
+    "sous_categorie": "",
     "commentaire": "Anti-inflammatoire. [325, 330]",
     "sources": [
      325,
@@ -74,7 +74,7 @@
     "siege": "USA (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Cosmétique naturelle",
+    "sous_categorie": "",
     "commentaire": "Marque naturelle US. [325, 330]",
     "sources": [
      325,
@@ -95,7 +95,7 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Maquillage",
+    "sous_categorie": "",
     "commentaire": "Pillow Talk. [325, 330]",
     "sources": [
      325,
@@ -118,7 +118,7 @@
     "siege": "EAU (Dubaï)",
     "siege_pays": "AE",
     "statut": "hors_zones",
-    "sous_categorie": "Maquillage",
+    "sous_categorie": "",
     "commentaire": "Faux cils. [325, 330]",
     "sources": [
      325,
@@ -141,7 +141,7 @@
     "siege": "USA (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Parfum luxe",
+    "sous_categorie": "",
     "commentaire": "Black Orchid. [325, 330]",
     "sources": [
      325,
@@ -163,7 +163,7 @@
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Parfum niche",
+    "sous_categorie": "",
     "commentaire": "Lime Basil. [325, 330]",
     "sources": [
      325,
@@ -185,7 +185,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Parfum niche",
+    "sous_categorie": "",
     "commentaire": "Carnal Flower. [325, 330]",
     "sources": [
      325,
@@ -193,27 +193,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "parfum-byredo-lot9? exists",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [325, 330]",
-    "sources": [
-     325,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -227,7 +206,7 @@
     "siege": "USA",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Maquillage clean",
+    "sous_categorie": "",
     "commentaire": "Maquillage inclusif. [325, 330]",
     "sources": [
      325,
@@ -249,7 +228,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Maquillage inclusif",
+    "sous_categorie": "",
     "commentaire": "Rihanna (LVMH). [325, 330]",
     "sources": [
      325,
@@ -272,7 +251,7 @@
     "siege": "USA",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Maquillage",
+    "sous_categorie": "",
     "commentaire": "Clean beauty. [325, 330]",
     "sources": [
      325,
@@ -297,7 +276,7 @@
     "siege": "Allemagne (Bad Vilbel)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Génériques",
+    "sous_categorie": "",
     "commentaire": "Géant européen des génériques. [325, 330]",
     "sources": [
      325,
@@ -319,7 +298,7 @@
     "siege": "Slovénie",
     "siege_pays": "SI",
     "statut": "rang1",
-    "sous_categorie": "Génériques",
+    "sous_categorie": "",
     "commentaire": "Génériques slovènes. [325, 330]",
     "sources": [
      325,
@@ -341,7 +320,7 @@
     "siege": "Israël",
     "siege_pays": "IL",
     "statut": "hors_zones",
-    "sous_categorie": "Génériques",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial des génériques. [325, 330]",
     "sources": [
      325,
@@ -364,7 +343,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Génériques",
+    "sous_categorie": "",
     "commentaire": "Génériques français. [325, 330]",
     "sources": [
      325,
@@ -385,7 +364,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Génériques",
+    "sous_categorie": "",
     "commentaire": "Génériques (Servier). [325, 330]",
     "sources": [
      325,
@@ -393,27 +372,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "pharma-mip? no",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [325, 330]",
-    "sources": [
-     325,
-     330
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -427,7 +385,7 @@
     "siege": "Allemagne (Heidenheim)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Pansements / soins",
+    "sous_categorie": "",
     "commentaire": "Pansements, compression. [325, 330]",
     "sources": [
      325,
@@ -449,7 +407,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Pansements",
+    "sous_categorie": "",
     "commentaire": "Pansements Urgo. [325, 330]",
     "sources": [
      325,
@@ -471,7 +429,7 @@
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Pansements",
+    "sous_categorie": "",
     "commentaire": "Pansements (Beiersdorf). [325, 330]",
     "sources": [
      325,

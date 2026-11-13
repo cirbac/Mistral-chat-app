@@ -12,7 +12,7 @@
     "siege": "Italie (Turin)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Généraliste",
+    "sous_categorie": "",
     "commentaire": "Filiale Stellantis (Fiat, Abarth, Lancia). Panda, 500. [279]",
     "sources": [
      279
@@ -35,7 +35,7 @@
     "siege": "Espagne (Martorell)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Sport",
+    "sous_categorie": "",
     "commentaire": "Marque sport de Seat (groupe VW). Formentor, Born électrique. [279]",
     "sources": [
      279
@@ -55,7 +55,7 @@
     "siege": "Tchéquie (Mladá Boleslav)",
     "siege_pays": "CZ",
     "statut": "rang1",
-    "sous_categorie": "Généraliste",
+    "sous_categorie": "",
     "commentaire": "Filiale VW tchèque (Octavia, Fabia). [279]",
     "sources": [
      279
@@ -77,7 +77,7 @@
     "siege": "Espagne (Martorell)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Généraliste",
+    "sous_categorie": "",
     "commentaire": "Filiale VW espagnole (Ibiza, Leon). [279]",
     "sources": [
      279
@@ -99,7 +99,7 @@
     "siege": "Allemagne (Ingolstadt)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Premium",
+    "sous_categorie": "",
     "commentaire": "Filiale VW premium (A4, Q5, e-tron). [279]",
     "sources": [
      279
@@ -126,7 +126,7 @@
     "siege": "Espagne (Gerona)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Trial / enduro",
+    "sous_categorie": "",
     "commentaire": "Filiale KTM (motos trial/enduro). [280]",
     "sources": [
      280
@@ -147,7 +147,7 @@
     "siege": "Espagne (Martorell)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "50 cm / scooter",
+    "sous_categorie": "",
     "commentaire": "Filiale Piaggio (Senda). [280]",
     "sources": [
      280
@@ -169,7 +169,7 @@
     "siege": "Inde (Chennai)",
     "siege_pays": "IN",
     "statut": "hors_zones",
-    "sous_categorie": "Moto / scooter",
+    "sous_categorie": "",
     "commentaire": "N°3 indien, propriétaire de Norton (UK). [280]",
     "sources": [
      280
@@ -191,7 +191,7 @@
     "siege": "Inde (Delhi)",
     "siege_pays": "IN",
     "statut": "hors_zones",
-    "sous_categorie": "Moto / scooter",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial en volume (Splendor). [280]",
     "sources": [
      280
@@ -215,7 +215,7 @@
     "siege": "Inde (Mumbai)",
     "siege_pays": "IN",
     "statut": "hors_zones",
-    "sous_categorie": "Pneumatique",
+    "sous_categorie": "",
     "commentaire": "Fabricant indien. [281]",
     "sources": [
      281
@@ -239,7 +239,7 @@
     "siege": "Turquie (Istanbul)",
     "siege_pays": "TR",
     "statut": "hors_zones",
-    "sous_categorie": "Électroménager",
+    "sous_categorie": "",
     "commentaire": "Marque allemande historique, groupe turc Arcelik. [282]",
     "sources": [
      282
@@ -259,7 +259,7 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "vigilance",
-    "sous_categorie": "Électroménager",
+    "sous_categorie": "",
     "commentaire": "Licence/marque (Midea pour l'électroménager). [282]",
     "sources": [
      282
@@ -284,7 +284,7 @@
     "siege": "Allemagne (Hildesheim)",
     "siege_pays": "DE",
     "statut": "vigilance",
-    "sous_categorie": "TV / audio",
+    "sous_categorie": "",
     "commentaire": "Marque allemande historique (licence). [283]",
     "sources": [
      283
@@ -308,7 +308,7 @@
     "siege": "Chine (Shenzhen)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Smartphone",
+    "sous_categorie": "",
     "commentaire": "Ex-filiale Huawei, smartphones (Magic). [284]",
     "sources": [
      284
@@ -328,7 +328,7 @@
     "siege": "Chine (Shenzhen)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Smartphone",
+    "sous_categorie": "",
     "commentaire": "Marque jeune du groupe BBK. [284]",
     "sources": [
      284
@@ -349,7 +349,7 @@
     "siege": "États-Unis (Los Angeles)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Enceintes / casques",
+    "sous_categorie": "",
     "commentaire": "Enceintes nomades (Flip, Charge) — Harman/Samsung. [284]",
     "sources": [
      284
@@ -370,7 +370,7 @@
     "siege": "Danemark (Copenhague)",
     "siege_pays": "DK",
     "statut": "rang1",
-    "sous_categorie": "Gaming audio",
+    "sous_categorie": "",
     "commentaire": "Casques gaming (Arctis) — racheté par GN Store Nord. [284]",
     "sources": [
      284
@@ -391,7 +391,7 @@
     "siege": "États-Unis (Fremont)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "PC gaming / périphériques",
+    "sous_categorie": "",
     "commentaire": "Composants PC gaming (claviers, RAM). [284]",
     "sources": [
      284
@@ -413,7 +413,7 @@
     "siege": "Singapour/USA",
     "siege_pays": "SG",
     "statut": "hors_zones",
-    "sous_categorie": "Gaming",
+    "sous_categorie": "",
     "commentaire": "Périphériques gaming (souris, claviers). [284]",
     "sources": [
      284
@@ -434,7 +434,7 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Appareil photo",
+    "sous_categorie": "",
     "commentaire": "Reflex APS-C (K-3) — Ricoh Imaging. [284]",
     "sources": [
      284
@@ -459,7 +459,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Cybersécurité",
+    "sous_categorie": "",
     "commentaire": "Cybersécurité du groupe Orange. [284]",
     "sources": [
      284
@@ -479,35 +479,13 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Cybersécurité EDR",
+    "sous_categorie": "",
     "commentaire": "EDR français souverain. [284]",
     "sources": [
      284
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "logiciels-mistral",
-    "groupe": "Mistral AI",
-    "marques": [
-     "Mistral",
-     "Le Chat"
-    ],
-    "siege": "France (Paris)",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "IA générative",
-    "commentaire": "Modèles Mistral, Le Chat — champion européen de l'IA. [284]",
-    "sources": [
-     284
-    ],
-    "lieux_production": [
-     "France",
-     "USA"
     ],
     "certifications": [],
     "produits": []
@@ -521,7 +499,7 @@
     "siege": "États-Unis/France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "IA open source",
+    "sous_categorie": "",
     "commentaire": "Plateforme de modèles open source (co-fondateur français, siège Paris/USA). [284]",
     "sources": [
      284
@@ -542,7 +520,7 @@
     "siege": "Allemagne (Heidelberg)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "IA souveraine",
+    "sous_categorie": "",
     "commentaire": "Modèles IA européens (luminous). [284]",
     "sources": [
      284
@@ -567,7 +545,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Épicerie urbaine",
+    "sous_categorie": "",
     "commentaire": "Enseigne alimentaire urbaine (Casino). [285, 300]",
     "sources": [
      285,
@@ -588,7 +566,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Proximité",
+    "sous_categorie": "",
     "commentaire": "Proximité urbaine (Casino). [285, 300]",
     "sources": [
      285,
@@ -609,7 +587,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Surgelé",
+    "sous_categorie": "",
     "commentaire": "N°1 français du surgelé. [285, 300]",
     "sources": [
      285,
@@ -631,7 +609,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Caviste",
+    "sous_categorie": "",
     "commentaire": "Caviste français (vin en bouteille). [285, 300]",
     "sources": [
      285,
@@ -652,7 +630,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bio",
+    "sous_categorie": "",
     "commentaire": "Coopérative de magasins bio. [285, 300]",
     "sources": [
      285,
@@ -673,7 +651,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bio",
+    "sous_categorie": "",
     "commentaire": "Chaîne de magasins bio historique. [285, 300]",
     "sources": [
      285,
@@ -694,7 +672,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Bio",
+    "sous_categorie": "",
     "commentaire": "Pionnier du bio en France. [285, 300]",
     "sources": [
      285,
@@ -715,7 +693,7 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Jus / smoothies",
+    "sous_categorie": "",
     "commentaire": "Jus innocent (racheté par Coca-Cola). [285, 300]",
     "sources": [
      285,
@@ -736,7 +714,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Jus",
+    "sous_categorie": "",
     "commentaire": "Jus Oasis (Suntory). [285, 300]",
     "sources": [
      285,
@@ -757,7 +735,7 @@
     "siege": "Royaume-Uni (Loughton)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Café",
+    "sous_categorie": "",
     "commentaire": "N°2 européen du café (Whitbread). [285, 300]",
     "sources": [
      285,
@@ -779,7 +757,7 @@
     "siege": "Suisse (Vevey)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Café capsules",
+    "sous_categorie": "",
     "commentaire": "Machines et capsules Nespresso (Nestlé). [285, 300]",
     "sources": [
      285,
@@ -804,7 +782,7 @@
     "siege": "Italie (Milan)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Pharmacie",
+    "sous_categorie": "",
     "commentaire": "Groupe pharmaceutique italien familial. [286]",
     "sources": [
      286
@@ -824,7 +802,7 @@
     "siege": "Italie (Florence)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Pharmacie",
+    "sous_categorie": "",
     "commentaire": "Groupe familial italien. [286]",
     "sources": [
      286
@@ -844,7 +822,7 @@
     "siege": "Allemagne (Aix-la-Chapelle)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Pharmacie douleur",
+    "sous_categorie": "",
     "commentaire": "Familial allemand (antalgiques). [286]",
     "sources": [
      286
@@ -868,7 +846,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Maquillage / soins",
+    "sous_categorie": "",
     "commentaire": "Maquillage et soins de luxe (L'Oréal). [286]",
     "sources": [
      286
@@ -888,7 +866,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Maquillage luxe",
+    "sous_categorie": "",
     "commentaire": "Rouge à lèvres Rouge Pur Couture (LVMH). [286]",
     "sources": [
      286
@@ -908,7 +886,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Parfum / maquillage",
+    "sous_categorie": "",
     "commentaire": "Parfums et maquillage Dior (LVMH). [286]",
     "sources": [
      286
@@ -928,7 +906,7 @@
     "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Parfum niche",
+    "sous_categorie": "",
     "commentaire": "Parfums sur mesure (Estée Lauder). [286]",
     "sources": [
      286
@@ -952,7 +930,7 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison britannique (Kering). [287, 300]",
     "sources": [
      287,
@@ -974,7 +952,7 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Mode éco-responsable",
+    "sous_categorie": "",
     "commentaire": "Marque éco-responsable britannique. [287, 300]",
     "sources": [
      287,
@@ -997,7 +975,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison parisienne (Kering). [287, 300]",
     "sources": [
      287,
@@ -1019,7 +997,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison parisienne (LVMH). [287, 300]",
     "sources": [
      287,
@@ -1041,7 +1019,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Maison japonaise-parisienne (LVMH). [287, 300]",
     "sources": [
      287,
@@ -1064,7 +1042,7 @@
     "siege": "Belgique (Anvers)",
     "siege_pays": "BE",
     "statut": "rang1",
-    "sous_categorie": "Luxe",
+    "sous_categorie": "",
     "commentaire": "Créateur belge (groupe Puig). [287, 300]",
     "sources": [
      287,
@@ -1086,7 +1064,7 @@
     "siege": "Royaume-Uni (Long Melford)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Basiques premium",
+    "sous_categorie": "",
     "commentaire": "T-shirts et mailles premium anglais. [287, 300]",
     "sources": [
      287,
@@ -1109,7 +1087,7 @@
     "siege": "Suède (Stockholm)",
     "siege_pays": "SE",
     "statut": "rang1",
-    "sous_categorie": "Mode femme",
+    "sous_categorie": "",
     "commentaire": "Marques du groupe H&M. [287, 300]",
     "sources": [
      287,
@@ -1132,7 +1110,7 @@
     "siege": "Suède (Stockholm)",
     "siege_pays": "SE",
     "statut": "rang1",
-    "sous_categorie": "Minimaliste",
+    "sous_categorie": "",
     "commentaire": "Ligne minimaliste premium de H&M. [287, 300]",
     "sources": [
      287,
@@ -1155,7 +1133,7 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Pantalons",
+    "sous_categorie": "",
     "commentaire": "Pantalons khaki (Levi's). [287, 300]",
     "sources": [
      287,
@@ -1177,7 +1155,7 @@
     "siege": "États-Unis (Burlington)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Bottes hiver",
+    "sous_categorie": "",
     "commentaire": "Bottes hiver (groupe Columbia). [287, 300]",
     "sources": [
      287,
@@ -1200,7 +1178,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Lingerie luxe",
+    "sous_categorie": "",
     "commentaire": "Lingerie haut de gamme française. [287, 300]",
     "sources": [
      287,
@@ -1226,7 +1204,7 @@
     "siege": "Belgique (Bruxelles)",
     "siege_pays": "BE",
     "statut": "rang1",
-    "sous_categorie": "Maroquinerie luxe",
+    "sous_categorie": "",
     "commentaire": "Plus vieille maroquinerie de luxe (1829). [288]",
     "sources": [
      288
@@ -1247,7 +1225,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Maroquinerie luxe",
+    "sous_categorie": "",
     "commentaire": "Malles et sacs luxe (1853). [288]",
     "sources": [
      288
@@ -1267,7 +1245,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Maroquinerie / valises",
+    "sous_categorie": "",
     "commentaire": "Valises et sacs de voyage (LVMH). [288]",
     "sources": [
      288
@@ -1289,7 +1267,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Épicerie fine / voyage",
+    "sous_categorie": "",
     "commentaire": "Épicerie fine et paniers (1886). [288]",
     "sources": [
      288
@@ -1309,7 +1287,7 @@
     "siege": "États-Unis (Seattle)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Camping",
+    "sous_categorie": "",
     "commentaire": "Matelas autogonflants. [288]",
     "sources": [
      288
@@ -1331,7 +1309,7 @@
     "siege": "Royaume-Uni (Worcester)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Camping",
+    "sous_categorie": "",
     "commentaire": "Tentes familiales. [288]",
     "sources": [
      288
@@ -1356,7 +1334,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Hard discount",
+    "sous_categorie": "",
     "commentaire": "Hard discount du groupe Les Mousquetaires. [289]",
     "sources": [
      289
@@ -1376,7 +1354,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Proximité",
+    "sous_categorie": "",
     "commentaire": "Proximité urbaine (Système U). [289]",
     "sources": [
      289
@@ -1396,7 +1374,7 @@
     "siege": "France (Saint-Ouen)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vente privée en ligne",
+    "sous_categorie": "",
     "commentaire": "Vente privée de marques (déstockage). [289]",
     "sources": [
      289
@@ -1417,7 +1395,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vente privée en ligne",
+    "sous_categorie": "",
     "commentaire": "Vente privée en ligne française. [289]",
     "sources": [
      289
@@ -1441,7 +1419,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Forfait sans engagement",
+    "sous_categorie": "",
     "commentaire": "Marque low-cost d'Orange. [290]",
     "sources": [
      290
@@ -1461,7 +1439,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Forfait sans engagement",
+    "sous_categorie": "",
     "commentaire": "Marque low-cost de SFR. [290]",
     "sources": [
      290
@@ -1481,7 +1459,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Forfait ajustable",
+    "sous_categorie": "",
     "commentaire": "Forfaits ajustables (SFR). [290]",
     "sources": [
      290
@@ -1501,7 +1479,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Gaz bouteille",
+    "sous_categorie": "",
     "commentaire": "Gaz en bouteille (groupe? — vérifier). [290]",
     "sources": [
      290
@@ -1521,7 +1499,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Électricité/gaz",
+    "sous_categorie": "",
     "commentaire": "Offre du groupe TotalEnergies. [290]",
     "sources": [
      290
@@ -1546,7 +1524,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque en ligne",
+    "sous_categorie": "",
     "commentaire": "Banque en ligne de la Société Générale. [291]",
     "sources": [
      291
@@ -1566,7 +1544,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque en ligne",
+    "sous_categorie": "",
     "commentaire": "Banque mobile de BNP Paribas. [291]",
     "sources": [
      291
@@ -1586,7 +1564,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque en ligne",
+    "sous_categorie": "",
     "commentaire": "Banque en ligne du Crédit Agricole. [291]",
     "sources": [
      291
@@ -1606,7 +1584,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Banque",
+    "sous_categorie": "",
     "commentaire": "Réseau bancaire du Crédit Agricole. [291]",
     "sources": [
      291
@@ -1690,7 +1668,7 @@
     "siege": "France/Belgique",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Train",
+    "sous_categorie": "",
     "commentaire": "Paris-Amsterdam/Bruxelles (intégré à Eurostar). [292]",
     "sources": [
      292
@@ -1711,7 +1689,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Train low-cost",
+    "sous_categorie": "",
     "commentaire": "TGV low-cost de la SNCF. [292]",
     "sources": [
      292
@@ -1731,7 +1709,7 @@
     "siege": "France/Pays-Bas",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Vol low-cost",
+    "sous_categorie": "",
     "commentaire": "Low-cost du groupe Air France-KLM. [292]",
     "sources": [
      292
@@ -1753,7 +1731,7 @@
     "siege": "Espagne (Barcelone)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Vol low-cost",
+    "sous_categorie": "",
     "commentaire": "Low-cost espagnole (IAG). [292]",
     "sources": [
      292
@@ -1774,7 +1752,7 @@
     "siege": "Espagne (Madrid)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Compagnie aérienne",
+    "sous_categorie": "",
     "commentaire": "Majeure espagnole (IAG). [292]",
     "sources": [
      292
@@ -1795,7 +1773,7 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Compagnie aérienne",
+    "sous_categorie": "",
     "commentaire": "Majeure britannique (IAG). [292]",
     "sources": [
      292
@@ -1816,7 +1794,7 @@
     "siege": "États-Unis (Wilton)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Vélo",
+    "sous_categorie": "",
     "commentaire": "Vélos US (groupe Dorel). [292]",
     "sources": [
      292
@@ -1841,7 +1819,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Villages nature",
+    "sous_categorie": "",
     "commentaire": "Villages nature (Pierre & Vacances). [293]",
     "sources": [
      293
@@ -1864,7 +1842,7 @@
     "siege": "Belgique",
     "siege_pays": "BE",
     "statut": "rang1",
-    "sous_categorie": "Villages vacances",
+    "sous_categorie": "",
     "commentaire": "Villages (Pierre & Vacances). [293]",
     "sources": [
      293
@@ -1886,7 +1864,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Résidences",
+    "sous_categorie": "",
     "commentaire": "Résidences de tourisme. [293]",
     "sources": [
      293
@@ -1910,7 +1888,7 @@
     "siege": "États-Unis",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Jouets bébé",
+    "sous_categorie": "",
     "commentaire": "Jouets petite enfance (Mattel). [294]",
     "sources": [
      294
@@ -1931,7 +1909,7 @@
     "siege": "Italie (Milan)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Jeux vidéo",
+    "sous_categorie": "",
     "commentaire": "Éditeur italien (Control, Assetto). [294]",
     "sources": [
      294
@@ -1953,7 +1931,7 @@
     "siege": "Allemagne (Mönchengladbach)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Jeux simulation",
+    "sous_categorie": "",
     "commentaire": "Simulateurs (Farming Simulator). [294]",
     "sources": [
      294
@@ -1977,7 +1955,7 @@
     "siege": "Allemagne (Selb)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Art de la table",
+    "sous_categorie": "",
     "commentaire": "Porcelaine allemande. [295]",
     "sources": [
      295
@@ -1997,7 +1975,7 @@
     "siege": "Hongrie (Herend)",
     "siege_pays": "HU",
     "statut": "rang1",
-    "sous_categorie": "Porcelaine",
+    "sous_categorie": "",
     "commentaire": "Porcelaine hongroise. [295]",
     "sources": [
      295
@@ -2018,7 +1996,7 @@
     "siege": "Danemark (Copenhague)",
     "siege_pays": "DK",
     "statut": "rang1",
-    "sous_categorie": "Porcelaine",
+    "sous_categorie": "",
     "commentaire": "Porcelaine danoise (Fiskars). [295]",
     "sources": [
      295
@@ -2039,7 +2017,7 @@
     "siege": "États-Unis (Towson)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Outillage pro",
+    "sous_categorie": "",
     "commentaire": "Outillage électroportatif pro (Stanley Black&Decker). [295]",
     "sources": [
      295
@@ -2061,7 +2039,7 @@
     "siege": "Japon (Hiroshima)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Outillage",
+    "sous_categorie": "",
     "commentaire": "Outillage Ryobi One+ (TTI). [295]",
     "sources": [
      295
@@ -2083,7 +2061,7 @@
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Outillage",
+    "sous_categorie": "",
     "commentaire": "Marque allemande (Electrolux pro). [295]",
     "sources": [
      295
@@ -2104,7 +2082,7 @@
     "siege": "Allemagne (Ulm)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Jardin",
+    "sous_categorie": "",
     "commentaire": "Arrosage et outils de jardin (Husqvarna). [295]",
     "sources": [
      295
@@ -2125,7 +2103,7 @@
     "siege": "Allemagne (Betzdorf)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Jardin",
+    "sous_categorie": "",
     "commentaire": "Outils de jardin allemands. [295]",
     "sources": [
      295
@@ -2151,7 +2129,7 @@
     "siege": "Suisse (Bienne)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Haute horlogerie",
+    "sous_categorie": "",
     "commentaire": "Speedmaster (Swatch Group). [296]",
     "sources": [
      296
@@ -2261,7 +2239,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Radio locale",
+    "sous_categorie": "",
     "commentaire": "Radios locales de Radio France. [297]",
     "sources": [
      297
@@ -2281,7 +2259,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Radio",
+    "sous_categorie": "",
     "commentaire": "Radio classique/contemporaine. [297]",
     "sources": [
      297
@@ -2301,7 +2279,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Info en continu",
+    "sous_categorie": "",
     "commentaire": "Chaîne info (Canal+). [297]",
     "sources": [
      297
@@ -2323,7 +2301,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Info en continu",
+    "sous_categorie": "",
     "commentaire": "Chaîne info (Altice). [297]",
     "sources": [
      297
@@ -2343,7 +2321,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Radio",
+    "sous_categorie": "",
     "commentaire": "Radio généraliste privée. [297]",
     "sources": [
      297
@@ -2365,7 +2343,7 @@
     "siege": "France/Luxembourg",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Radio",
+    "sous_categorie": "",
     "commentaire": "Radios du groupe luxembourgeois Bertelsmann. [297]",
     "sources": [
      297
@@ -2386,7 +2364,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Replay",
+    "sous_categorie": "",
     "commentaire": "Replay du groupe M6. [297]",
     "sources": [
      297
@@ -2406,7 +2384,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Replay",
+    "sous_categorie": "",
     "commentaire": "Replay du groupe TF1. [297]",
     "sources": [
      297
@@ -2426,7 +2404,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Replay",
+    "sous_categorie": "",
     "commentaire": "Replay de France Télévisions. [297]",
     "sources": [
      297

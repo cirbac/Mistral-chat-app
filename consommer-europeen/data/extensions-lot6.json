@@ -10,10 +10,10 @@
     "siege": "Royaume-Uni/USA",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Pneumatique",
-    "commentaire": "Marque britannique historique (groupe Goodyear). [303]",
+    "sous_categorie": "",
+    "commentaire": "Marque britannique historique (groupe Goodyear). [355]",
     "sources": [
-     303
+     355
     ],
     "lieux_production": [
      "UK",
@@ -32,10 +32,10 @@
     "siege": "Slovaquie/France",
     "siege_pays": "SK",
     "statut": "rang1",
-    "sous_categorie": "Pneumatique",
-    "commentaire": "Marque du groupe Continental. [303]",
+    "sous_categorie": "",
+    "commentaire": "Marque du groupe Continental. [355]",
     "sources": [
-     303
+     355
     ],
     "lieux_production": [
      "Slovaquie",
@@ -53,10 +53,10 @@
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Pneumatique",
-    "commentaire": "Marque pluie (groupe Continental). [303]",
+    "sous_categorie": "",
+    "commentaire": "Marque pluie (groupe Continental). [355]",
     "sources": [
-     303
+     355
     ],
     "lieux_production": [
      "Allemagne",
@@ -75,10 +75,10 @@
     "siege": "Pologne",
     "siege_pays": "PL",
     "statut": "rang1",
-    "sous_categorie": "Pneumatique",
-    "commentaire": "Marques du groupe Michelin. [303]",
+    "sous_categorie": "",
+    "commentaire": "Marques du groupe Michelin. [355]",
     "sources": [
-     303
+     355
     ],
     "lieux_production": [
      "Pologne",
@@ -100,10 +100,10 @@
     "siege": "Allemagne (Munich)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Électroménager",
-    "commentaire": "Gamme premium du groupe BSH. [304]",
+    "sous_categorie": "",
+    "commentaire": "Gamme premium du groupe BSH. [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "Allemagne",
@@ -121,10 +121,10 @@
     "siege": "Allemagne (Munich)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Électroménager encastrable",
-    "commentaire": "Hottes et fours design (BSH). [304]",
+    "sous_categorie": "",
+    "commentaire": "Hottes et fours design (BSH). [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "Allemagne"
@@ -141,10 +141,10 @@
     "siege": "Allemagne (Munich)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Haut de gamme",
-    "commentaire": "Très haut de gamme (BSH). [304]",
+    "sous_categorie": "",
+    "commentaire": "Très haut de gamme (BSH). [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "Allemagne",
@@ -162,10 +162,10 @@
     "siege": "États-Unis (Syracuse)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Climatisation",
-    "commentaire": "Inventeur de la climatisation (1902). [304]",
+    "sous_categorie": "",
+    "commentaire": "Inventeur de la climatisation (1902). [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "USA",
@@ -183,10 +183,10 @@
     "siege": "Irlande/USA",
     "siege_pays": "IE",
     "statut": "rang1",
-    "sous_categorie": "Climatisation",
-    "commentaire": "Climatisation commerciale (Ingersoll Rand). [304]",
+    "sous_categorie": "",
+    "commentaire": "Climatisation commerciale (Ingersoll Rand). [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "Irlande",
@@ -206,10 +206,10 @@
     "siege": "France (La Roche-sur-Yon)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Chauffage / eau chaude",
-    "commentaire": "Radiateurs et chauffe-eau électriques. [304]",
+    "sous_categorie": "",
+    "commentaire": "Radiateurs et chauffe-eau électriques. [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "France",
@@ -227,10 +227,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Radiateurs",
-    "commentaire": "Radiateurs électriques inertie. [304]",
+    "sous_categorie": "",
+    "commentaire": "Radiateurs électriques inertie. [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "France"
@@ -247,10 +247,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Sèche-serviettes",
-    "commentaire": "Sèche-serviettes design. [304]",
+    "sous_categorie": "",
+    "commentaire": "Sèche-serviettes design. [356]",
     "sources": [
-     304
+     356
     ],
     "lieux_production": [
      "France"
@@ -271,10 +271,10 @@
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "vigilance",
-    "sous_categorie": "TV",
-    "commentaire": "Marque japonaise historique (licence TV). [305]",
+    "sous_categorie": "",
+    "commentaire": "Marque japonaise historique (licence TV). [357]",
     "sources": [
-     305
+     357
     ],
     "lieux_production": [
      "Japon"
@@ -291,10 +291,10 @@
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "vigilance",
-    "sous_categorie": "TV",
-    "commentaire": "Marque allemande historique (licence). [305]",
+    "sous_categorie": "",
+    "commentaire": "Marque allemande historique (licence). [357]",
     "sources": [
-     305
+     357
     ],
     "lieux_production": [
      "Allemagne"
@@ -315,10 +315,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "PC modulaire",
-    "commentaire": "PC portable modulaire et réparable. [306]",
+    "sous_categorie": "",
+    "commentaire": "PC portable modulaire et réparable. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "USA",
@@ -337,10 +337,10 @@
     "siege": "France (Saint-Étienne)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Hi-fi / enceintes",
-    "commentaire": "Enceintes hi-fi françaises (Utopia) + Naim. [306]",
+    "sous_categorie": "",
+    "commentaire": "Enceintes hi-fi françaises (Utopia) + Naim. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "France",
@@ -358,10 +358,10 @@
     "siege": "France (Ploufragan)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Hi-fi",
-    "commentaire": "Enceintes hi-fi bretonnes (La Sphère). [306]",
+    "sous_categorie": "",
+    "commentaire": "Enceintes hi-fi bretonnes (La Sphère). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "France"
@@ -378,10 +378,10 @@
     "siege": "France (Soissons)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Enceintes",
-    "commentaire": "Enceintes françaises. [306]",
+    "sous_categorie": "",
+    "commentaire": "Enceintes françaises. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "France",
@@ -399,10 +399,10 @@
     "siege": "Royaume-Uni (Maidstone)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Enceintes",
-    "commentaire": "Enceintes coaxiales (LS50). [306]",
+    "sous_categorie": "",
+    "commentaire": "Enceintes coaxiales (LS50). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Royaume-Uni",
@@ -420,10 +420,10 @@
     "siege": "Canada",
     "siege_pays": "CA",
     "statut": "rang2",
-    "sous_categorie": "Streaming hi-fi",
-    "commentaire": "Streaming multiroom. [306]",
+    "sous_categorie": "",
+    "commentaire": "Streaming multiroom. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Canada",
@@ -441,10 +441,10 @@
     "siege": "États-Unis (San José)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réseau",
-    "commentaire": "Routeurs et wifi (Orbi). [306]",
+    "sous_categorie": "",
+    "commentaire": "Routeurs et wifi (Orbi). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "USA",
@@ -462,10 +462,10 @@
     "siege": "États-Unis",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réseau",
-    "commentaire": "Routeurs wifi (Belkin). [306]",
+    "sous_categorie": "",
+    "commentaire": "Routeurs wifi (Belkin). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "USA",
@@ -483,10 +483,10 @@
     "siege": "Taïwan (Taipei)",
     "siege_pays": "TW",
     "statut": "rang2",
-    "sous_categorie": "NAS",
-    "commentaire": "NAS et stockage réseau. [306]",
+    "sous_categorie": "",
+    "commentaire": "NAS et stockage réseau. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Taïwan",
@@ -504,10 +504,10 @@
     "siege": "Taïwan (Taipei)",
     "siege_pays": "TW",
     "statut": "rang2",
-    "sous_categorie": "NAS",
-    "commentaire": "NAS et vidéosurveillance. [306]",
+    "sous_categorie": "",
+    "commentaire": "NAS et vidéosurveillance. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Taïwan"
@@ -524,10 +524,10 @@
     "siege": "Taïwan (Taipei)",
     "siege_pays": "TW",
     "statut": "rang2",
-    "sous_categorie": "Écrans",
-    "commentaire": "Écrans gaming et pro. [306]",
+    "sous_categorie": "",
+    "commentaire": "Écrans gaming et pro. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Taïwan",
@@ -545,10 +545,10 @@
     "siege": "Japon (Ishikawa)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Écrans pro",
-    "commentaire": "Écrans professionnels (photo/vidéo). [306]",
+    "sous_categorie": "",
+    "commentaire": "Écrans professionnels (photo/vidéo). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Japon"
@@ -565,10 +565,10 @@
     "siege": "Allemagne (Auerbach)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Claviers",
-    "commentaire": "Claviers mécaniques MX. [306]",
+    "sous_categorie": "",
+    "commentaire": "Claviers mécaniques MX. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Allemagne",
@@ -586,10 +586,10 @@
     "siege": "Allemagne (Heidelberg)",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Stylos",
-    "commentaire": "Stylos-plumes design allemands. [306]",
+    "sous_categorie": "",
+    "commentaire": "Stylos-plumes design allemands. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Allemagne"
@@ -607,10 +607,10 @@
     "siege": "États-Unis (Newell)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Stylos",
-    "commentaire": "Stylos plumes (Newell Brands). [306]",
+    "sous_categorie": "",
+    "commentaire": "Stylos plumes (Newell Brands). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "USA",
@@ -629,10 +629,10 @@
     "siege": "Japon (Tokyo)",
     "siege_pays": "JP",
     "statut": "rang2",
-    "sous_categorie": "Stylos",
-    "commentaire": "Stylos FriXion effaçables. [306]",
+    "sous_categorie": "",
+    "commentaire": "Stylos FriXion effaçables. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Japon"
@@ -649,10 +649,10 @@
     "siege": "Chine (Zepp Health)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Montre connectée",
-    "commentaire": "Montres connectées abordables. [306]",
+    "sous_categorie": "",
+    "commentaire": "Montres connectées abordables. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Chine"
@@ -669,10 +669,10 @@
     "siege": "États-Unis/Chine",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Montre sport GPS",
-    "commentaire": "GPS sport (trail, vélo). [306]",
+    "sous_categorie": "",
+    "commentaire": "GPS sport (trail, vélo). [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "USA",
@@ -690,10 +690,10 @@
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Liseuse",
-    "commentaire": "Liseuse du consortium allemand. [306]",
+    "sous_categorie": "",
+    "commentaire": "Liseuse du consortium allemand. [358]",
     "sources": [
-     306
+     358
     ],
     "lieux_production": [
      "Allemagne",
@@ -715,10 +715,10 @@
     "siege": "Autriche (Vienne)",
     "siege_pays": "AT",
     "statut": "rang1",
-    "sous_categorie": "Virtualisation open source",
-    "commentaire": "Virtualisation KVM/LXC open source. [307]",
+    "sous_categorie": "",
+    "commentaire": "Virtualisation KVM/LXC open source. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "Autriche"
@@ -738,10 +738,10 @@
     "siege": "Australie (Sydney)",
     "siege_pays": "AU",
     "statut": "hors_zones",
-    "sous_categorie": "Collaboration / dev",
-    "commentaire": "Suite dev/collaboration australienne. [307]",
+    "sous_categorie": "",
+    "commentaire": "Suite dev/collaboration australienne. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "Australie",
@@ -759,10 +759,10 @@
     "siege": "États-Unis (remote, fondateurs NL/UA)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "DevOps",
-    "commentaire": "Forge DevOps. [307]",
+    "sous_categorie": "",
+    "commentaire": "Forge DevOps. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA",
@@ -780,10 +780,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Conteneurs",
-    "commentaire": "Conteneurs (Docker Hub). [307]",
+    "sous_categorie": "",
+    "commentaire": "Conteneurs (Docker Hub). [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA"
@@ -800,10 +800,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Productivité",
-    "commentaire": "Workspace tout-en-un. [307]",
+    "sous_categorie": "",
+    "commentaire": "Workspace tout-en-un. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA"
@@ -820,10 +820,10 @@
     "siege": "États-Unis (San José)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Visioconférence",
-    "commentaire": "Visioconférence. [307]",
+    "sous_categorie": "",
+    "commentaire": "Visioconférence. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA",
@@ -842,10 +842,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "IA générative",
-    "commentaire": "Modèles Claude. [307]",
+    "sous_categorie": "",
+    "commentaire": "Modèles Claude. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA"
@@ -863,10 +863,10 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "IA générative",
-    "commentaire": "GPT, DALL-E, Sora. [307]",
+    "sous_categorie": "",
+    "commentaire": "GPT, DALL-E, Sora. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA"
@@ -884,10 +884,10 @@
     "siege": "États-Unis",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "IA générative",
-    "commentaire": "Modèles Gemini. [307]",
+    "sous_categorie": "",
+    "commentaire": "Modèles Gemini. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA"
@@ -905,10 +905,10 @@
     "siege": "États-Unis",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "IA générative",
-    "commentaire": "Modèle Grok. [307]",
+    "sous_categorie": "",
+    "commentaire": "Modèle Grok. [359]",
     "sources": [
-     307
+     359
     ],
     "lieux_production": [
      "USA"
@@ -929,10 +929,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Yaourt",
-    "commentaire": "Coopérative Sodiaal (Yoplait). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Coopérative Sodiaal (Yoplait). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -950,35 +950,14 @@
     "siege": "France (Normandie)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Beurre / crème",
-    "commentaire": "Coopérative laitière normande. [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Coopérative laitière normande. [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "fromage-bel-lot6? skip",
-    "groupe": "x",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [308, 320]",
-    "sources": [
-     308,
-     320
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -995,10 +974,10 @@
     "siege": "France/USA",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Fromage frais",
-    "commentaire": "Fromages frais (Mondelez). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Fromages frais (Mondelez). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1019,10 +998,10 @@
     "siege": "Belgique (Bruxelles)",
     "siege_pays": "BE",
     "statut": "rang1",
-    "sous_categorie": "Chocolat belge",
-    "commentaire": "Pralinés belges (1913). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Pralinés belges (1913). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1043,10 +1022,10 @@
     "siege": "Suisse (Kilchberg)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Chocolat suisse",
-    "commentaire": "Chocolaterie suisse (Frey, Villars). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Chocolaterie suisse (Frey, Villars). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1064,10 +1043,10 @@
     "siege": "Belgique (Bruxelles)",
     "siege_pays": "BE",
     "statut": "vigilance",
-    "sous_categorie": "Chocolat luxe",
-    "commentaire": "Maison belge (groupe turc Ülker). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Maison belge (groupe turc Ülker). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1088,10 +1067,10 @@
     "siege": "Pays-Bas/UK",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Glaces",
-    "commentaire": "Esquimaux glacés (Unilever). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Esquimaux glacés (Unilever). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1112,10 +1091,10 @@
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Céréales",
-    "commentaire": "Céréales britanniques (Quaker = Pepsi). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Céréales britanniques (Quaker = Pepsi). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1134,10 +1113,10 @@
     "siege": "France (Bretagne)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Chips",
-    "commentaire": "Chips bretonnes artisanales. [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Chips bretonnes artisanales. [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1156,10 +1135,10 @@
     "siege": "Royaume-Uni",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Chips",
-    "commentaire": "Chips britanniques (Pepsi). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Chips britanniques (Pepsi). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1178,10 +1157,10 @@
     "siege": "France (Nancy)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Surgelé artisanal",
-    "commentaire": "Pâtissier/surgelé français. [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Pâtissier/surgelé français. [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1200,10 +1179,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Boulangerie",
-    "commentaire": "Chaîne de boulangerie (1889). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Chaîne de boulangerie (1889). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1223,10 +1202,10 @@
     "siege": "France (Les Cerqueux)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Viennoiserie",
-    "commentaire": "Brioches industrielles françaises. [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Brioches industrielles françaises. [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1246,10 +1225,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Moutarde / condiments",
-    "commentaire": "Moutarde de Dijon, sel La Baleine. [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Moutarde de Dijon, sel La Baleine. [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1267,10 +1246,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Épices",
-    "commentaire": "Épices (groupe américain McCormick). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Épices (groupe américain McCormick). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1290,10 +1269,10 @@
     "siege": "France (Aimargues)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Croquettes",
-    "commentaire": "Nutrition animale (Mars Petcare, France). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Nutrition animale (Mars Petcare, France). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1315,10 +1294,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Alimentation infantile",
-    "commentaire": "Blédina (Danone), Hipp (DE), Babybio (FR). [308, 320]",
+    "sous_categorie": "",
+    "commentaire": "Blédina (Danone), Hipp (DE), Babybio (FR). [360, 320]",
     "sources": [
-     308,
+     360,
      320
     ],
     "lieux_production": [
@@ -1341,10 +1320,10 @@
     "siege": "Espagne (Barcelone)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Sang / plasma",
-    "commentaire": "Leader mondial du plasma sanguin. [309]",
+    "sous_categorie": "",
+    "commentaire": "Leader mondial du plasma sanguin. [361]",
     "sources": [
-     309
+     361
     ],
     "lieux_production": [
      "Espagne",
@@ -1362,10 +1341,10 @@
     "siege": "Suisse (Lachen)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Sang / protéines",
-    "commentaire": "Protéines plasmatiques. [309]",
+    "sous_categorie": "",
+    "commentaire": "Protéines plasmatiques. [361]",
     "sources": [
-     309
+     361
     ],
     "lieux_production": [
      "Suisse",
@@ -1383,10 +1362,10 @@
     "siege": "France (Clichy)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Rasoirs / stylos",
-    "commentaire": "Rasoirs jetables et stylos bille. [309]",
+    "sous_categorie": "",
+    "commentaire": "Rasoirs jetables et stylos bille. [361]",
     "sources": [
-     309
+     361
     ],
     "lieux_production": [
      "France",
@@ -1410,10 +1389,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Soin luxe",
-    "commentaire": "Soins visage haut de gamme. [309]",
+    "sous_categorie": "",
+    "commentaire": "Soins visage haut de gamme. [361]",
     "sources": [
-     309
+     361
     ],
     "lieux_production": [
      "France"
@@ -1430,10 +1409,10 @@
     "siege": "Suisse (Montreux)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Soin luxe suisse",
-    "commentaire": "Crèmes de luxe suisses. [309]",
+    "sous_categorie": "",
+    "commentaire": "Crèmes de luxe suisses. [361]",
     "sources": [
-     309
+     361
     ],
     "lieux_production": [
      "Suisse"
@@ -1454,10 +1433,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Capillaire / maquillage",
-    "commentaire": "Marques du groupe L'Oréal. [309]",
+    "sous_categorie": "",
+    "commentaire": "Marques du groupe L'Oréal. [361]",
     "sources": [
-     309
+     361
     ],
     "lieux_production": [
      "France",
@@ -1480,10 +1459,10 @@
     "siege": "Royaume-Uni (Northumberland)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Barbour wax",
-    "commentaire": "Vestes cirées anglaises (1894). [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Vestes cirées anglaises (1894). [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1503,10 +1482,10 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Moto / luxe",
-    "commentaire": "Vestes moto luxe (groupe italien). [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Vestes moto luxe (groupe italien). [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1526,10 +1505,10 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Golf / mode",
-    "commentaire": "Prêt-à-porter britannique. [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Prêt-à-porter britannique. [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1548,10 +1527,10 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Polo laurel",
-    "commentaire": "Polo à laurier (tennis). [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Polo à laurier (tennis). [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1573,10 +1552,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mode femme",
-    "commentaire": "Créatrice parisienne (Ami, Étoile). [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Créatrice parisienne (Ami, Étoile). [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1596,10 +1575,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mode",
-    "commentaire": "Créateur marseillais (Le Chiquito). [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Créateur marseillais (Le Chiquito). [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1620,10 +1599,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Haute couture",
-    "commentaire": "Maison d'Azzedine Alaïa (Richemont). [310, 320]",
+    "sous_categorie": "",
+    "commentaire": "Maison d'Azzedine Alaïa (Richemont). [362, 320]",
     "sources": [
-     310,
+     362,
      320
     ],
     "lieux_production": [
@@ -1646,10 +1625,10 @@
     "siege": "Pays-Bas (Amsterdam)",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Poussettes",
-    "commentaire": "Poussettes design néerlandaises. [311]",
+    "sous_categorie": "",
+    "commentaire": "Poussettes design néerlandaises. [363]",
     "sources": [
-     311
+     363
     ],
     "lieux_production": [
      "Pays-Bas",
@@ -1667,10 +1646,10 @@
     "siege": "Norvège (Ålesund)",
     "siege_pays": "NO",
     "statut": "rang1",
-    "sous_categorie": "Poussettes / transats",
-    "commentaire": "Tripp Trapp, poussettes scandinaves. [311]",
+    "sous_categorie": "",
+    "commentaire": "Tripp Trapp, poussettes scandinaves. [363]",
     "sources": [
-     311
+     363
     ],
     "lieux_production": [
      "Norvège",
@@ -1691,10 +1670,10 @@
     "siege": "Pays-Bas/France",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Sièges auto",
-    "commentaire": "Sièges auto (Dorel Juvenile). [311]",
+    "sous_categorie": "",
+    "commentaire": "Sièges auto (Dorel Juvenile). [363]",
     "sources": [
-     311
+     363
     ],
     "lieux_production": [
      "Pays-Bas",
@@ -1714,10 +1693,10 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Maroquinerie",
-    "commentaire": "Maroquinerie parisienne (1876). [311]",
+    "sous_categorie": "",
+    "commentaire": "Maroquinerie parisienne (1876). [363]",
     "sources": [
-     311
+     363
     ],
     "lieux_production": [
      "France",
@@ -1743,10 +1722,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Mode enfant",
-    "commentaire": "Mode enfant française. [312]",
+    "sous_categorie": "",
+    "commentaire": "Mode enfant française. [364]",
     "sources": [
-     312
+     364
     ],
     "lieux_production": [
      "France",
@@ -1765,10 +1744,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Mode discount",
-    "commentaire": "Enseignes du groupe (actionnariat à vérifier). [312]",
+    "sous_categorie": "",
+    "commentaire": "Enseignes du groupe (actionnariat à vérifier). [364]",
     "sources": [
-     312
+     364
     ],
     "lieux_production": [
      "France",
@@ -1789,10 +1768,10 @@
     "siege": "France (Clermont)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Pneus / entretien auto",
-    "commentaire": "Réseau de centres pneus (Michelin). [312]",
+    "sous_categorie": "",
+    "commentaire": "Réseau de centres pneus (Michelin). [364]",
     "sources": [
-     312
+     364
     ],
     "lieux_production": [
      "France",
@@ -1815,10 +1794,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Gaz bouteille",
-    "commentaire": "Gaz en bouteille (groupe américain? vérifier). [313]",
+    "sous_categorie": "",
+    "commentaire": "Gaz en bouteille (groupe américain? vérifier). [365]",
     "sources": [
-     313
+     365
     ],
     "lieux_production": [
      "France"
@@ -1840,10 +1819,10 @@
     "siege": "Royaume-Uni (Londres)",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Banque",
-    "commentaire": "Ex-CCF, filiale du groupe britannique HSBC. [314]",
+    "sous_categorie": "",
+    "commentaire": "Ex-CCF, filiale du groupe britannique HSBC. [366]",
     "sources": [
-     314
+     366
     ],
     "lieux_production": [
      "France",
@@ -1861,10 +1840,10 @@
     "siege": "Israël (Tel Aviv)",
     "siege_pays": "IL",
     "statut": "hors_zones",
-    "sous_categorie": "Trading social",
-    "commentaire": "Plateforme de trading social. [314]",
+    "sous_categorie": "",
+    "commentaire": "Plateforme de trading social. [366]",
     "sources": [
-     314
+     366
     ],
     "lieux_production": [
      "Israël",
@@ -1887,10 +1866,10 @@
     "siege": "Royaume-Uni/Italie",
     "siege_pays": "GB",
     "statut": "rang1",
-    "sous_categorie": "Croisière",
-    "commentaire": "Croisières européennes (Carnival). [315]",
+    "sous_categorie": "",
+    "commentaire": "Croisières européennes (Carnival). [367]",
     "sources": [
-     315
+     367
     ],
     "lieux_production": [
      "Italie",
@@ -1910,10 +1889,10 @@
     "siege": "États-Unis (Santa Clarita)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Croisière",
-    "commentaire": "Croisières premium (Carnival Corp). [315]",
+    "sous_categorie": "",
+    "commentaire": "Croisières premium (Carnival Corp). [367]",
     "sources": [
-     315
+     367
     ],
     "lieux_production": [
      "USA",
@@ -1931,10 +1910,10 @@
     "siege": "Allemagne",
     "siege_pays": "DE",
     "statut": "rang1",
-    "sous_categorie": "Vélo électrique",
-    "commentaire": "VAE (groupe Derby Cycle). [315]",
+    "sous_categorie": "",
+    "commentaire": "VAE (groupe Derby Cycle). [367]",
     "sources": [
-     315
+     367
     ],
     "lieux_production": [
      "Allemagne",
@@ -1956,10 +1935,10 @@
     "siege": "Espagne (Palma)",
     "siege_pays": "ES",
     "statut": "rang1",
-    "sous_categorie": "Hôtellerie",
-    "commentaire": "Groupe hôtelier espagnol familial. [316]",
+    "sous_categorie": "",
+    "commentaire": "Groupe hôtelier espagnol familial. [368]",
     "sources": [
-     316
+     368
     ],
     "lieux_production": [
      "Espagne",
@@ -1979,10 +1958,10 @@
     "siege": "États-Unis (Seattle)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réservation voyage",
-    "commentaire": "OTA américaine. [316]",
+    "sous_categorie": "",
+    "commentaire": "OTA américaine. [368]",
     "sources": [
-     316
+     368
     ],
     "lieux_production": [
      "USA",
@@ -2004,10 +1983,10 @@
     "siege": "Singapour/France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Palaces",
-    "commentaire": "Palaces asiatiques (Accor pour Raffles). [316]",
+    "sous_categorie": "",
+    "commentaire": "Palaces asiatiques (Accor pour Raffles). [368]",
     "sources": [
-     316
+     368
     ],
     "lieux_production": [
      "Singapour",
@@ -2027,10 +2006,10 @@
     "siege": "États-Unis",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Hôtellerie",
-    "commentaire": "Groupes hôteliers américains. [316]",
+    "sous_categorie": "",
+    "commentaire": "Groupes hôteliers américains. [368]",
     "sources": [
-     316
+     368
     ],
     "lieux_production": [
      "USA",
@@ -2054,10 +2033,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Jeux de société",
-    "commentaire": "Time's Up!, 1000 Bornes (Dujardin), Nathan. [317]",
+    "sous_categorie": "",
+    "commentaire": "Time's Up!, 1000 Bornes (Dujardin), Nathan. [369]",
     "sources": [
-     317
+     369
     ],
     "lieux_production": [
      "France",
@@ -2082,10 +2061,10 @@
     "siege": "Pays-Bas (Breda)",
     "siege_pays": "NL",
     "statut": "rang1",
-    "sous_categorie": "Ustensiles cuisine",
-    "commentaire": "Boîtes de conservation (1960). [318]",
+    "sous_categorie": "",
+    "commentaire": "Boîtes de conservation (1960). [370]",
     "sources": [
-     318
+     370
     ],
     "lieux_production": [
      "Pays-Bas",
@@ -2105,10 +2084,10 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Décoration discount",
-    "commentaire": "Décoration (groupe Kingfisher? non — indépendant). [318]",
+    "sous_categorie": "",
+    "commentaire": "Décoration (groupe Kingfisher? non — indépendant). [370]",
     "sources": [
-     318
+     370
     ],
     "lieux_production": [
      "France",
@@ -2130,10 +2109,10 @@
     "siege": "Suisse (Genève)",
     "siege_pays": "CH",
     "statut": "rang1",
-    "sous_categorie": "Haute horlogerie / joaillerie",
-    "commentaire": "Montres ultra-plates (Richemont). [319]",
+    "sous_categorie": "",
+    "commentaire": "Montres ultra-plates (Richemont). [371]",
     "sources": [
-     319
+     371
     ],
     "lieux_production": [
      "Suisse"
@@ -2150,10 +2129,10 @@
     "siege": "États-Unis (New York)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Joaillerie luxe",
-    "commentaire": "Joaillier américain (LVMH depuis 2021). [319]",
+    "sous_categorie": "",
+    "commentaire": "Joaillier américain (LVMH depuis 2021). [371]",
     "sources": [
-     319
+     371
     ],
     "lieux_production": [
      "USA"
@@ -2171,10 +2150,10 @@
     "siege": "Italie (Rome)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Haute joaillerie",
-    "commentaire": "Joaillier romain (LVMH). [319]",
+    "sous_categorie": "",
+    "commentaire": "Joaillier romain (LVMH). [371]",
     "sources": [
-     319
+     371
     ],
     "lieux_production": [
      "Italie",
@@ -2194,10 +2173,10 @@
     "siege": "Italie (Longarone)",
     "siege_pays": "IT",
     "statut": "rang1",
-    "sous_categorie": "Lunettes",
-    "commentaire": "Lunettes italiennes (Tom Ford, Dolce). [319]",
+    "sous_categorie": "",
+    "commentaire": "Lunettes italiennes (Tom Ford, Dolce). [371]",
     "sources": [
-     319
+     371
     ],
     "lieux_production": [
      "Italie",
@@ -2220,7 +2199,7 @@
     "siege": "Chine (Pékin)",
     "siege_pays": "CN",
     "statut": "a_ecarter",
-    "sous_categorie": "Réseau social vidéo",
+    "sous_categorie": "",
     "commentaire": "Short vidéos (ByteDance). [320]",
     "sources": [
      320
@@ -2242,7 +2221,7 @@
     "siege": "États-Unis",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réseau social",
+    "sous_categorie": "",
     "commentaire": "Microblogging (Elon Musk). [320]",
     "sources": [
      320
@@ -2262,7 +2241,7 @@
     "siege": "États-Unis (Santa Monica)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réseau social",
+    "sous_categorie": "",
     "commentaire": "Messages éphémères, AR. [320]",
     "sources": [
      320
@@ -2284,7 +2263,7 @@
     "siege": "États-Unis (Menlo Park)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réseaux sociaux",
+    "sous_categorie": "",
     "commentaire": "Facebook, Instagram, WhatsApp, Threads. [320]",
     "sources": [
      320
@@ -2305,7 +2284,7 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Réseau social visuel",
+    "sous_categorie": "",
     "commentaire": "Inspiration visuelle. [320]",
     "sources": [
      320
@@ -2325,7 +2304,7 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Forum",
+    "sous_categorie": "",
     "commentaire": "Forums thématiques. [320]",
     "sources": [
      320
@@ -2345,7 +2324,7 @@
     "siege": "États-Unis (San Francisco)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Messagerie gaming",
+    "sous_categorie": "",
     "commentaire": "Chat communautés gaming. [320]",
     "sources": [
      320
@@ -2369,7 +2348,7 @@
     "siege": "États-Unis (Chicago)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Fast-food",
+    "sous_categorie": "",
     "commentaire": "N°1 mondial du burger (Big Mac). [320]",
     "sources": [
      320
@@ -2390,7 +2369,7 @@
     "siege": "États-Unis (Louisville)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Poulet frit",
+    "sous_categorie": "",
     "commentaire": "Poulet frit (Yum! Brands). [320]",
     "sources": [
      320
@@ -2411,7 +2390,7 @@
     "siege": "France (Paris)",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Fast-food",
+    "sous_categorie": "",
     "commentaire": "Chaîne française (1980, groupe Bertrand). [320]",
     "sources": [
      320
@@ -2433,7 +2412,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Cafétéria",
+    "sous_categorie": "",
     "commentaire": "Cafétéria du groupe Auchan/Mulliez. [320]",
     "sources": [
      320
@@ -2456,7 +2435,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "rang1",
-    "sous_categorie": "Restauration grill",
+    "sous_categorie": "",
     "commentaire": "Enseignes du Groupe Flo. [320]",
     "sources": [
      320
@@ -2478,7 +2457,7 @@
     "siege": "France",
     "siege_pays": "FR",
     "statut": "vigilance",
-    "sous_categorie": "Grill",
+    "sous_categorie": "",
     "commentaire": "Grill (actionnariat étranger). [320]",
     "sources": [
      320
@@ -2498,7 +2477,7 @@
     "siege": "États-Unis (Denver)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Mexicain fast-casual",
+    "sous_categorie": "",
     "commentaire": "Mexicain frais. [320]",
     "sources": [
      320
@@ -2519,7 +2498,7 @@
     "siege": "États-Unis (Milford)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Sandwiches",
+    "sous_categorie": "",
     "commentaire": "Sandwiches sur mesure. [320]",
     "sources": [
      320
@@ -2541,7 +2520,7 @@
     "siege": "États-Unis (Ann Arbor)",
     "siege_pays": "US",
     "statut": "hors_zones",
-    "sous_categorie": "Pizza",
+    "sous_categorie": "",
     "commentaire": "Livraison de pizza (Yum! pour Pizza Hut). [320]",
     "sources": [
      320
