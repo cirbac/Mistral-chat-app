@@ -1513,3 +1513,21 @@ body.hero-compact .chips {
   font-size: 0.85rem;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
 }
+
+.badge-statut {
+  font-size: 0.8rem;
+  padding: 4px 10px;
+}
+
+.en-bref {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 6px 0 12px;
+  padding: 10px 14px;
+  border: 1px solid var(--glass-border);
+  border-radius: 12px;
+  background: var(--glass);
+  font-size: 0.88rem;
+}

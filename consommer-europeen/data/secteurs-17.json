@@ -47,8 +47,8 @@
      "Dobble",
      "Ticket to Ride Suède (siège)"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
     "statut": "rang1",
     "sous_categorie": "Jouets et jeux de société",
     "commentaire": "Ancienne filiale d'Embracer. Non revérifié.",
@@ -180,8 +180,8 @@
     "marques": [
      "Crusader Kings Suède"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
     "statut": "rang1",
     "sous_categorie": "Consoles, plateformes et éditeurs",
     "commentaire": "Non revérifié.",
@@ -213,8 +213,8 @@
     "marques": [
      "Embracer Suède"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Suède (Stockholm)",
+    "siege_pays": "SE",
     "statut": "rang1",
     "sous_categorie": "Consoles, plateformes et éditeurs",
     "commentaire": "Non revérifié. Pullup",
@@ -364,8 +364,8 @@
      "Lineage",
      "Guild Wars Corée du Sud"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "Corée du Sud (Seongnam)",
+    "siege_pays": "KR",
     "statut": "rang2",
     "sous_categorie": "Consoles, plateformes et éditeurs",
     "commentaire": "Non revérifié.",
@@ -403,8 +403,8 @@
      "Fortnite",
      "Epic Games Store États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (Cary)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Consoles, plateformes et éditeurs",
     "commentaire": "Tencent (Chine) serait actionnaire minoritaire important selon mes informations. Non revérifié.",
@@ -420,8 +420,8 @@
      "Rockstar",
      "2K États-Unis"
     ],
-    "siege": "",
-    "siege_pays": "??",
+    "siege": "États-Unis (New York)",
+    "siege_pays": "US",
     "statut": "hors_zones",
     "sous_categorie": "Consoles, plateformes et éditeurs",
     "commentaire": "Hors de vos zones.",
