@@ -7,7 +7,8 @@
  "scripts": {
   "build": "tsc",
   "start": "node dist/server.js",
-  "check:data": "node tools/check-data.mjs"
+  "check:data": "node tools/check-data.mjs",
+  "test:search": "node tools/test-recherche.mjs --strict"
  },
  "dependencies": {
   "compression": "^1.8.2",
