@@ -2,14 +2,28 @@
   --cirba-noir: #040405;
   --cirba-anthracite: #282828;
   --cirba-gris: #e5e5e5;
-  --cirba-gris-clair: #11204c;
-  --cirba-blanc: #ffffff;
+  --fond: #081630;
+  --surface: #14244d;
+  --surface-elevee: #182e5e;
+  --bordure: #22335e;
   --texte: #eef2f7;
-  --texte-doux: #aeb9d4;
-  --bordure: rgba(255, 255, 255, 0.14);
-  --carte-bg: #1d2f5e;
-  --glass: rgba(255, 255, 255, 0.07);
-  --glass-border: rgba(255, 255, 255, 0.16);
+  --texte-doux: #8b98b8;
+  --accent: #ffd200;
+  --carte-bg: #14244d;
+  --glass: rgba(255, 255, 255, 0.06);
+  --glass-border: #22335e;
+  --fs-12: 0.75rem;
+  --fs-14: 0.875rem;
+  --fs-16: 1rem;
+  --fs-20: 1.25rem;
+  --fs-24: 1.5rem;
+  --fs-32: 2rem;
+  --fs-40: 2.5rem;
+  --r-petit: 8px;
+  --r-carte: 14px;
+  --r-pilule: 999px;
+  --cirba-gris-clair: #081630;
+  --cirba-blanc: #ffffff;
   --accent: #282828;
 }
 
@@ -20,7 +34,7 @@
 body {
   margin: 0;
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-  background: #11204c;
+  background: var(--fond);
   color: var(--texte);
   line-height: 1.55;
 }
@@ -152,7 +166,7 @@ h1, h2, h3 {
 }
 
 .hero {
-  background-color: #1e3a8a;
+  background-color: #0a1c44;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
     url('assets/eu-stars-pixel.png'),
@@ -721,8 +735,8 @@ button:hover {
   align-items: center;
   gap: 16px;
   padding: 52px 24px;
-  background: #11204c;
-  border-top: 4px solid #ffd200;
+  background: var(--fond);
+  border-top: 4px solid var(--accent);
 }
 
 .footer-admin {
@@ -1136,12 +1150,12 @@ button:hover {
 }
 
 [data-theme='dark'] body {
-  background: #11204c;
+  background: var(--fond);
   color: #f2f2f2;
 }
 
 [data-theme='dark'] .page {
-  background: #0c1834;
+  background: var(--fond);
 }
 
 [data-theme='dark'] .cat-img {
@@ -1530,4 +1544,36 @@ body.hero-compact .chips {
   border-radius: 12px;
   background: var(--glass);
   font-size: 0.88rem;
+}
+
+.badge .picto {
+  margin-right: 5px;
+}
+
+.sug-hors {
+  border-top: 1px solid var(--bordure);
+  margin-top: 4px;
+  padding-top: 6px;
+}
+
+.sug-hors-label {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--texte-doux);
+  padding: 2px 6px;
+}
+
+.sug-item.hors {
+  opacity: 0.55;
+}
+
+.alt-section {
+  margin-top: 18px;
+}
+
+.alt-list {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
 }
