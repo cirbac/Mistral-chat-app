@@ -1,0 +1,591 @@
+{
+ "14": {
+  "groupes": [
+   {
+    "id": "banque-creditcooperatif",
+    "groupe": "Crédit Coopératif (BPCE)",
+    "marques": [
+     "Crédit Coopératif"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banque ESS",
+    "commentaire": "Banque de l'ESS (BPCE). [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "banque-nef",
+    "groupe": "La Nef",
+    "marques": [
+     "La Nef"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banque éthique",
+    "commentaire": "Coopérative éthique. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "assurance-luko",
+    "groupe": "Luko",
+    "marques": [
+     "Luko"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Assurance en ligne",
+    "commentaire": "100% en ligne. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "assurance-lemonade",
+    "groupe": "Lemonade",
+    "marques": [
+     "Lemonade"
+    ],
+    "siege": "USA (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Assurance IA",
+    "commentaire": "IA. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "crypto-kraken",
+    "groupe": "Kraken",
+    "marques": [
+     "Kraken"
+    ],
+    "siege": "USA (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Crypto exchange",
+    "commentaire": "Exchange. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "UK"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "13": {
+  "groupes": [
+   {
+    "id": "hosting-hetzner",
+    "groupe": "Hetzner",
+    "marques": [
+     "Hetzner"
+    ],
+    "siege": "Allemagne (Falkenstein)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Hébergement",
+    "commentaire": "Hébergeur DE low-cost. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Finlande",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hosting-ionos",
+    "groupe": "IONOS (United Internet)",
+    "marques": [
+     "IONOS",
+     "1&1"
+    ],
+    "siege": "Allemagne (Montabaur)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Hébergement",
+    "commentaire": "Hébergeur européen. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Europe",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "energie-ekwateur",
+    "groupe": "ekWateur",
+    "marques": [
+     "ekWateur"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie verte",
+    "commentaire": "Fournisseur vert. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "energie-enercoop-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "16": {
+  "groupes": [
+   {
+    "id": "hotellerie-odalys-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-bb-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "17": {
+  "groupes": [
+   {
+    "id": "jouets-goliath-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-mb",
+    "groupe": "MB (jeux de cartes)",
+    "marques": [
+     "MB"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jeux de cartes",
+    "commentaire": "Tarot, belote (depuis 1810). [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-sentospheres",
+    "groupe": "Sentosphère",
+    "marques": [
+     "Sentosphère",
+     "Asmodée? non"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jeux sensoriels",
+    "commentaire": "Jeux éveil (Pâte à modeler). [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jouets-orb? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "18": {
+  "groupes": [
+   {
+    "id": "cuisine-rosetta? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ustensiles-tarrer? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "deco-maisondelacreme? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "19": {
+  "groupes": [
+   {
+    "id": "montres-seiko-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "optique-lunettes? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "15": {
+  "groupes": [
+   {
+    "id": "transport-blablacar-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "croisiere-cunard",
+    "groupe": "Cunard (Carnival)",
+    "marques": [
+     "Cunard"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Croisière luxe",
+    "commentaire": " paquebots transatlantiques. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "UK",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "21": {
+  "groupes": [
+   {
+    "id": "resto-brasserie? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-leon",
+    "groupe": "Léon (Groupe Flo)",
+    "marques": [
+     "Léon"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Moules-frites",
+    "commentaire": "Enseigne (Groupe Flo). [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Belgique"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-flunch-lot11? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-pataterie",
+    "groupe": "La Pataterie",
+    "marques": [
+     "La Pataterie"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Frites",
+    "commentaire": "Friterie. [329, 330]",
+    "sources": [
+     329,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Belgique"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

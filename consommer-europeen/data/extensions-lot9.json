@@ -1,0 +1,488 @@
+{
+ "09b": {
+  "groupes": [
+   {
+    "id": "beaute-aesop",
+    "groupe": "Aesop (L'Oréal)",
+    "marques": [
+     "Aesop"
+    ],
+    "siege": "Australie (Melbourne)",
+    "siege_pays": "AU",
+    "statut": "hors_zones",
+    "sous_categorie": "Soin luxe",
+    "commentaire": "Cosmétique australienne (L'Oréal). [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Australie",
+     "UK"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-grown",
+    "groupe": "Grown Alchemist",
+    "marques": [
+     "Grown Alchemist"
+    ],
+    "siege": "Australie",
+    "siege_pays": "AU",
+    "statut": "hors_zones",
+    "sous_categorie": "Clean beauty",
+    "commentaire": "Clean beauty australienne. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Australie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-sturm",
+    "groupe": "Dr. Barbara Sturm",
+    "marques": [
+     "Dr. Barbara Sturm"
+    ],
+    "siege": "Allemagne (Düsseldorf)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Dermocosmétique",
+    "commentaire": "Anti-inflammatoire. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-tata",
+    "groupe": "Tata Harper",
+    "marques": [
+     "Tata Harper"
+    ],
+    "siege": "USA (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Cosmétique naturelle",
+    "commentaire": "Marque naturelle US. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-tilbury",
+    "groupe": "Charlotte Tilbury",
+    "marques": [
+     "Charlotte Tilbury"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Maquillage",
+    "commentaire": "Pillow Talk. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Italie",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-huda",
+    "groupe": "Huda Beauty",
+    "marques": [
+     "Huda Beauty"
+    ],
+    "siege": "EAU (Dubaï)",
+    "siege_pays": "AE",
+    "statut": "hors_zones",
+    "sous_categorie": "Maquillage",
+    "commentaire": "Faux cils. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Dubaï",
+     "Chine",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "parfum-tomford",
+    "groupe": "Tom Ford Beauty (Estée Lauder)",
+    "marques": [
+     "Tom Ford"
+    ],
+    "siege": "USA (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Parfum luxe",
+    "commentaire": "Black Orchid. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "parfum-jomalone",
+    "groupe": "Jo Malone (Estée Lauder)",
+    "marques": [
+     "Jo Malone"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Parfum niche",
+    "commentaire": "Lime Basil. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "UK",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "parfum-malle",
+    "groupe": "Frédéric Malle (Estée Lauder)",
+    "marques": [
+     "Frédéric Malle"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Parfum niche",
+    "commentaire": "Carnal Flower. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "parfum-byredo-lot9? exists",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-rare",
+    "groupe": "Rare Beauty (Selena Gomez)",
+    "marques": [
+     "Rare Beauty"
+    ],
+    "siege": "USA",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Maquillage clean",
+    "commentaire": "Maquillage inclusif. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-fenty",
+    "groupe": "Fenty Beauty (LVMH)",
+    "marques": [
+     "Fenty"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Maquillage inclusif",
+    "commentaire": "Rihanna (LVMH). [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "USA",
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-haus",
+    "groupe": "Haus Laboratories (Lady Gaga)",
+    "marques": [
+     "Haus Labs"
+    ],
+    "siege": "USA",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Maquillage",
+    "commentaire": "Clean beauty. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09": {
+  "groupes": [
+   {
+    "id": "pharma-stada",
+    "groupe": "Stada",
+    "marques": [
+     "Stada"
+    ],
+    "siege": "Allemagne (Bad Vilbel)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Génériques",
+    "commentaire": "Géant européen des génériques. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-krka",
+    "groupe": "KRKA",
+    "marques": [
+     "KRKA"
+    ],
+    "siege": "Slovénie",
+    "siege_pays": "SI",
+    "statut": "rang1",
+    "sous_categorie": "Génériques",
+    "commentaire": "Génériques slovènes. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Slovénie",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-teva",
+    "groupe": "Teva",
+    "marques": [
+     "Teva"
+    ],
+    "siege": "Israël",
+    "siege_pays": "IL",
+    "statut": "hors_zones",
+    "sous_categorie": "Génériques",
+    "commentaire": "N°1 mondial des génériques. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Israël",
+     "Europe",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-eg",
+    "groupe": "EG Laboratoire",
+    "marques": [
+     "EG"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Génériques",
+    "commentaire": "Génériques français. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-biogaran",
+    "groupe": "Biogaran (Servier)",
+    "marques": [
+     "Biogaran"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Génériques",
+    "commentaire": "Génériques (Servier). [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-mip? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "sante-hartmann",
+    "groupe": "Hartmann (Paul Hartmann)",
+    "marques": [
+     "Hartmann"
+    ],
+    "siege": "Allemagne (Heidenheim)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Pansements / soins",
+    "commentaire": "Pansements, compression. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "sante-urgo",
+    "groupe": "Urgo (Laboratoires Urgo)",
+    "marques": [
+     "Urgo"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Pansements",
+    "commentaire": "Pansements Urgo. [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "sante-elastoplast",
+    "groupe": "Elastoplast (Beiersdorf)",
+    "marques": [
+     "Elastoplast"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Pansements",
+    "commentaire": "Pansements (Beiersdorf). [325, 330]",
+    "sources": [
+     325,
+     330
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

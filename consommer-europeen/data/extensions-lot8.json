@@ -1,0 +1,500 @@
+{
+ "08": {
+  "groupes": [
+   {
+    "id": "lait-sodiaal",
+    "groupe": "Sodiaal",
+    "marques": [
+     "Sodiaal",
+     "Candia"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Coopérative laitière",
+    "commentaire": "Coopérative (Yoplait, Candia). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fromage-leerdammer",
+    "groupe": "Leerdammer (Bel)",
+    "marques": [
+     "Leerdammer"
+    ],
+    "siege": "Pays-Bas",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Fromage",
+    "commentaire": "Pâte dure (Bel). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "Pays-Bas"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "choco-cailler",
+    "groupe": "Cailler (Nestlé)",
+    "marques": [
+     "Cailler"
+    ],
+    "siege": "Suisse",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Chocolat",
+    "commentaire": "Tablettes suisses (Nestlé). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "jus-joker",
+    "groupe": "Joker (Danone)",
+    "marques": [
+     "Joker",
+     "Pampryl"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jus",
+    "commentaire": "Jus (Danone). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "eau-hepar",
+    "groupe": "Hépar / Vichy Célestins (Nestlé)",
+    "marques": [
+     "Hépar",
+     "Vichy Célestins"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Eau minérale",
+    "commentaire": "Eaux médicinales (Nestlé Waters). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vin-margaux",
+    "groupe": "Château Margaux (AXA Millésimes)",
+    "marques": [
+     "Château Margaux"
+    ],
+    "siege": "France (Margaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Vin 1er cru",
+    "commentaire": "1er cru classé (AXA). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vin-latour",
+    "groupe": "Château Latour (Kering)",
+    "marques": [
+     "Château Latour"
+    ],
+    "siege": "France (Pauillac)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Vin 1er cru",
+    "commentaire": "1er cru (Artemis). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vin-mouton",
+    "groupe": "Château Mouton Rothschild (LVMH)",
+    "marques": [
+     "Mouton"
+    ],
+    "siege": "France (Pauillac)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Vin 1er cru",
+    "commentaire": "1er cru (LVMH). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "spiritueux-williamgrant",
+    "groupe": "William Grant & Sons",
+    "marques": [
+     "Glenfiddich",
+     "Balvenie",
+     "Hendrick's"
+    ],
+    "siege": "Écosse",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Whisky",
+    "commentaire": "Distillerie familiale. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "Écosse",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "spiritueux-campari-lot8? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "biere-castel",
+    "groupe": "Groupe Castel",
+    "marques": [
+     "Castel",
+     "Kronenbourg? non"
+    ],
+    "siege": "France (Bordeaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Bière / vin",
+    "commentaire": "Brassier et viticulteur français. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Afrique",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "biere-kronenbourg-lot8? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "soda-mayotte? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "eau-chateau? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "confiture-bonne-maman-lot8? exists",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "miel-luneau",
+    "groupe": "Miel Luneau",
+    "marques": [
+     "Luneau"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Miel",
+    "commentaire": "Miel français. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "biscuits-saint-michel",
+    "groupe": "Saint-Michel (Eckes? non — groupe)",
+    "marques": [
+     "Saint-Michel",
+     "LU? non"
+    ],
+    "siege": "France (Nantes)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Biscuits",
+    "commentaire": "Galettes bretonnes (groupe familial). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "biscuits-bn",
+    "groupe": "BN (Nestlé? non — Biscuiterie de Nantes)",
+    "marques": [
+     "BN"
+    ],
+    "siege": "France (Nantes)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Biscuits",
+    "commentaire": "Biscuits BN (groupe? — vérifier). [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cafe-maison? no",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "the-dammann",
+    "groupe": "Dammann Frères",
+    "marques": [
+     "Dammann"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Thé",
+    "commentaire": "Thés en sachet. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "the-kusmi",
+    "groupe": "Kusmi Tea",
+    "marques": [
+     "Kusmi"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Thé",
+    "commentaire": "Thés parfumés. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France",
+     "Russie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "the-palais",
+    "groupe": "Palais des Thés",
+    "marques": [
+     "Le Palais des Thés"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Thé",
+    "commentaire": "Thés bio. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cafe-malongo",
+    "groupe": "Malongo",
+    "marques": [
+     "Malongo"
+    ],
+    "siege": "France (Grasse)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Café",
+    "commentaire": "Cafés de spécialité torréfiés en France. [323, 330]",
+    "sources": [
+     323,
+     330
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}
