@@ -423,7 +423,7 @@ const COMMON = new Set(['the','and','for','with','les','des','une','un','est','s
 const SYNONYMES: Record<string, string[]> = {
   the: ['thé', 'tea'], 'thé': ['the', 'tea'], tea: ['thé', 'the'],
   cafe: ['café', 'coffee'], 'café': ['cafe', 'coffee'], coffee: ['café', 'cafe'],
-  voiture: ['auto', 'automobile', 'car', 'vehicule'], auto: ['voiture', 'automobile', 'car'], automobile: ['voiture', 'auto', 'car'], car: ['voiture', 'auto', 'automobile'], vehicule: ['voiture', 'auto'],
+  voiture: ['automobile', 'vehicule'], auto: ['voiture', 'automobile'], automobile: ['voiture', 'vehicule'], car: ['voiture', 'automobile'], vehicule: ['voiture', 'automobile'],
   pneu: ['pneumatique', 'tire', 'tyre'], pneumatique: ['pneu', 'tire', 'tyre'], tire: ['pneu', 'pneumatique'],
   shampoing: ['shampoo'], shampoo: ['shampoing'],
   dentifrice: ['toothpaste'], toothpaste: ['dentifrice'],
