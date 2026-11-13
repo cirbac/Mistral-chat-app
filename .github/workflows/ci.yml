@@ -21,6 +21,13 @@ jobs:
           npm ci
           npm run check:data
           npm run build
+      - name: Tests de pertinence de la recherche (consommer-europeen)
+        if: hashFiles('consommer-europeen/package.json') != ''
+        working-directory: consommer-europeen
+        run: |
+          PORT=3999 RL_LIMIT=100000 node dist/server.js > /tmp/serveur.log 2>&1 &
+          for i in $(seq 1 30); do curl -sf http://localhost:3999/healthz > /dev/null && break; sleep 1; done
+          node tools/test-recherche.mjs http://localhost:3999 --strict
       - name: Install + build de l'app racine (chat Mistral)
         if: hashFiles('package.json') != ''
         run: |

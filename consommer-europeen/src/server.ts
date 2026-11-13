@@ -1,5 +1,6 @@
 import express, { Request, Response } from 'express';
 import compression from 'compression';
+import { MoteurRecherche } from './recherche';
 import path from 'node:path';
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
@@ -267,10 +268,6 @@ function norm(s: string): string {
   return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\u2019'&]/g, '');
 }
 
-function stem(w: string): string {
-  return w.length > 3 ? w.replace(/(s|x)$/, '') : w;
-}
-
 function withStatut(g: Groupe, pref: string, secteur?: Secteur) {
   const st = statutsById.get(g.statut);
   return {
@@ -419,7 +416,6 @@ app.get('/api/accueil', (req, res) => {
   res.json({ phares: phares.slice(0, 24), nouveaux });
 });
 
-const COMMON = new Set(['the','and','for','with','les','des','une','un','est','sur','aux','par','pas','plus','mais','dont','avec','que','qui','son','ses','de','du','la','le','en','au','a','et','ou','ce','cet','cette','se','ne','y','il','elle','on','nous','vous','ils','elles','leur','leurs','mon','ma','mes','ton','ta','tes']);
 const SYNONYMES: Record<string, string[]> = {
   the: ['thé', 'tea'], 'thé': ['the', 'tea'], tea: ['thé', 'the'],
   cafe: ['café', 'coffee'], 'café': ['cafe', 'coffee'], coffee: ['café', 'cafe'],
@@ -500,19 +496,9 @@ for (const s of secteurs) {
 }
 dedupGroupes();
 
-interface GIdx { g: Groupe; s: Secteur; hayN: string; hayC: string; hayS: string; hayP: string[]; }
-let groupeIndex: GIdx[] = [];
+const moteur = new MoteurRecherche<Groupe, Secteur>(SYNONYMES);
 function buildIndex() {
-  groupeIndex = secteurs.flatMap((s) =>
-  s.groupes.map((g) => ({
-    g,
-    s,
-    hayN: norm([g.groupe, ...g.marques].join(' ')),
-    hayC: norm([g.groupe, ...g.marques, ...(g.aliases ?? []), g.commentaire, g.siege].join(' ')),
-    hayS: norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' ')),
-    hayP: g.produits.map((pr) => norm([pr.nom, pr.note ?? ''].join(' '))),
-  })),
-);
+  moteur.indexer(secteurs);
 }
 const searchCache = new Map<string, unknown>();
 
@@ -603,129 +589,31 @@ app.get('/api/mots-cles', (req, res) => {
 });
 
 app.get('/api/search', (req, res) => {
-  let q = norm(String(req.query.q ?? '').trim()).slice(0, 80);
+  const brutQ = String(req.query.q ?? '').trim().slice(0, 80);
   const pref = getPref(req);
-  if (q.length < 2) {
-    res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: motsProches(q, 5) });
+  const qNorm = norm(brutQ);
+  if (qNorm.length < 2) {
+    res.json({ q: qNorm, corrige: null, pref, secteurs: [], groupes: [], masquees: 0, horsPref: [], mots: motsProches(qNorm, 5) });
     return;
   }
-  const cacheKey = `${pref}|${q}`;
+  // La clé garde les accents : « thé » et « the » ne sont pas la même recherche.
+  const cacheKey = `${pref}|${brutQ.toLowerCase()}`;
   const cached = searchCache.get(cacheKey);
   if (cached) {
     res.json(cached);
     return;
   }
-  const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe', 'cuir', 'daim', 'nubuck', 'suede', 'synthetique', 'coton', 'laine', 'maille', 'plastique', 'caoutchouc', 'bois', 'metal', 'aluminium', 'verre', 'goretex', 'acier', 'inox']);
-  const motsQ0 = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 2);
-  const motsForts = motsQ0.filter((w) => !MOUS.has(w));
-  if (motsForts.length > 0 && motsForts.length < motsQ0.length) q = motsForts.join(' ');
-  if (motsForts.length === 0) {
-    const syn = SYNONYMES[motsQ0[0]]?.[0];
-    if (syn) q = norm(syn);
-    else {
-      res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: [] });
-      return;
-    }
-  }
-  let motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 2 && !COMMON.has(w));
-  if (motsQ.length === 0) {
-    const syn = (SYNONYMES[motsQ0[0]] ?? []).map(norm).find((v) => !COMMON.has(v));
-    if (!syn) {
-      res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: [] });
-      return;
-    }
-    q = norm(syn);
-    motsQ = [q];
-  }
-  const variants = [q, ...(SYNONYMES[motsQ[0]] ?? []).map((v) => norm(v))];
-
-  const wordMatch = (hay: string, w: string) => {
-    const sw = stem(w);
-    return hay.split(/[^a-z0-9]+/).some((x) => x === w || stem(x) === sw);
-  };
-  const matchNom = (hayN: string, hayC: string, w: string) =>
-    wordMatch(hayN, w) || (w.length >= 3 && wordMatch(hayC, w)) || (w.length >= 4 && hayN.includes(w));
-  const matchAnyL = (hayN: string, hayC: string, variantsL: string[]) =>
-    (!COMMON.has(q) && q.length >= 4 && hayN.includes(q)) ||
-    motsQ.some((m) => matchNom(hayN, hayC, m)) ||
-    variantsL.slice(1).filter((v) => !COMMON.has(v)).some((v) => v.length >= 3 && wordMatch(hayC, v));
-  const matchTousMots = (hayN: string, hayC: string) =>
-    motsQ.length > 1 && motsQ.every((m) => matchNom(hayN, hayC, m) || (SYNONYMES[m] ?? []).some((v) => wordMatch(hayC, norm(v))));
-
-  function scoreOf(g: { groupe: string; marques: string[]; aliases?: string[] }, hayN: string, hayC: string, matchProduit: boolean, variantsL: string[], sec?: Secteur): number {
-    let sc = 0;
-    const ql = q;
-    for (const name of [g.groupe, ...g.marques]) {
-      const n = norm(name);
-      if (n === ql) sc = Math.max(sc, 100);
-      else if (n.startsWith(ql)) sc = Math.max(sc, 80);
-    }
-    if (motsQ.some((m) => (g.aliases ?? []).some((a) => norm(a) === m))) sc = Math.max(sc, 60);
-    if (matchTousMots(hayN, hayC)) sc = Math.max(sc, 70);
-    else if (matchAnyL(hayN, hayC, variantsL)) sc = Math.max(sc, 50);
-    else if (q.length >= 3 && wordMatch(hayC, q)) sc = 30;
-    if (sec && (matchNom(norm(sec.nom), norm(sec.nom), q) || (sec.keywords ?? []).some((k) => wordMatch(norm(k), q)))) sc += 15;
-    if (matchProduit) sc = Math.max(sc, 10);
-    return sc;
-  }
-
-  const secteursMatch = secteurs.filter(
-    (s) =>
-      matchNom(norm(s.nom), norm(s.nom), motsQ[0]) ||
-      motsQ.some((m) => (s.keywords ?? []).some((k) => matchNom(norm(k), norm(k), m))) ||
-      (s.aliases ?? []).some((a) => motsQ.some((m) => matchNom(norm(a), norm(a), m))),
-  );
-
-  function runMatch(variantsL: string[]) {
-    const groupesMatch: (ReturnType<typeof withStatut> & { score: number; et: boolean })[] = [];
-    const horsPref: ReturnType<typeof withStatut>[] = [];
-    let masquees = 0;
-    for (const idx2 of groupeIndex) {
-      const { g, s: sec, hayN, hayC, hayP } = idx2;
-      const item = withStatut(g, pref, sec);
-      const matchProduit = hayP.some((h) => motsQ.some((m) => wordMatch(h, m)));
-      const matchC = matchAnyL(hayN, hayC, variantsL) || matchTousMots(hayN, hayC);
-      if (!matchC && !matchProduit) continue;
-      if (item.recommande) {
-        groupesMatch.push({ ...item, score: scoreOf(g, hayN, hayC, matchProduit, variantsL, sec), et: motsQ.length > 1 && matchTousMots(hayN, hayC) });
-      } else {
-        masquees++;
-        if (horsPref.length < 5) horsPref.push(item);
-      }
-    }
-    return { groupesMatch, masquees, horsPref };
-  }
-  const r1 = runMatch([q]);
-  let groupesMatch = r1.groupesMatch;
-  let masquees = r1.masquees;
-  const horsPref = r1.horsPref;
-  if ((SYNONYMES[motsQ[0]] ?? []).length > 0 && r1.groupesMatch.length < 10) {
-    const r2 = runMatch(variants);
-    const byId = new Map(groupesMatch.map((g) => [g.id, g]));
-    for (const g of r2.groupesMatch) {
-      const ex = byId.get(g.id);
-      if (ex) ex.score = Math.max(ex.score, g.score - 5);
-      else byId.set(g.id, g);
-    }
-    groupesMatch = [...byId.values()];
-    masquees = Math.max(masquees, r2.masquees);
-  }
-  const { masquees: masqueesFin } = { masquees };
-  let gm = groupesMatch;
-  const nbEt = gm.filter((g) => g.et).length;
-  if (motsQ.length > 1 && nbEt >= 3) gm = gm.filter((g) => g.et);
-  const groupes = gm
-    .sort((a, b) => b.score - a.score || (STATUT_ORDRE.indexOf(a.statut) - STATUT_ORDRE.indexOf(b.statut)) || a.groupe.localeCompare(b.groupe))
-    .slice(0, 100)
-    .map(lightGroupe);
+  const r = moteur.rechercher(brutQ, (g) => recommande(g.statut, g.siege_pays, pref));
+  const carte = (x: { g: Groupe; s: Secteur; score: number }) => lightGroupe({ ...withStatut(x.g, pref, x.s), score: x.score });
   const out = {
-    q,
+    q: r.q || qNorm,
+    corrige: r.corrige,
     pref,
-    secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
-    groupes,
-    masquees,
-    horsPref: horsPref.map(lightGroupe),
-    mots: motsProches(q, 5),
+    secteurs: r.secteurs.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
+    groupes: r.recommandes.map(carte),
+    masquees: r.masques.length,
+    horsPref: r.masques.slice(0, 8).map(carte),
+    mots: motsProches(norm(r.corrige ?? brutQ), 5),
   };
   if (searchCache.size > 100) searchCache.clear();
   searchCache.set(cacheKey, out);
