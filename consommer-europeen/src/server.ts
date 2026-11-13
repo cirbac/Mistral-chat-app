@@ -1,4 +1,5 @@
 import express, { Request, Response } from 'express';
+import compression from 'compression';
 import path from 'node:path';
 import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 
@@ -35,6 +36,7 @@ interface Groupe {
   lieux_production: string[];
   certifications: string[];
   produits: Produit[];
+  sous_categorie?: string;
   logo?: string;
   site?: string;
   histoire?: string;
@@ -193,7 +195,7 @@ const STATUT_ORDRE = ['rang1', 'rang2', 'vigilance', 'hors_zones', 'a_ecarter'];
 const statutsById = new Map(grille.statuts.map((s) => [s.id, s]));
 
 function recommande(statut: string, siegePays: string, pref: string): boolean {
-  if (statut === 'propose') return true; // acceptation temporaire : visible dans toutes les préférences, badge « Proposé »
+  if (statut === 'propose') return pref === 'all'; // proposition : visible uniquement en « Tout afficher »
   if (pref === 'fr') return (statut === 'rang1' || statut === 'vigilance') && siegePays === 'FR';
   if (pref === 'ue') return statut === 'rang1' || statut === 'vigilance';
   if (pref === 'hautes_democraties') return ['rang1', 'rang2', 'vigilance'].includes(statut);
@@ -201,7 +203,11 @@ function recommande(statut: string, siegePays: string, pref: string): boolean {
 }
 
 function norm(s: string): string {
-  return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\u2019']/g, '');
+}
+
+function stem(w: string): string {
+  return w.length > 3 ? w.replace(/(s|x)$/, '') : w;
 }
 
 function withStatut(g: Groupe, pref: string, secteur?: Secteur) {
@@ -230,6 +236,30 @@ function sortGroupes<T extends { statut: string; groupe: string; recommande: boo
 
 const app = express();
 app.use(express.json({ limit: '64kb' }));
+app.use(compression());
+app.disable('x-powered-by');
+app.use((_req, res, next) => {
+  res.setHeader('X-Frame-Options', 'DENY');
+  res.setHeader('Referrer-Policy', 'no-referrer');
+  res.setHeader('Content-Security-Policy', "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self'");
+  next();
+});
+
+const rlHits = new Map<string, number[]>();
+app.use('/api/', (req, res, next) => {
+  const now = Date.now();
+  const key = req.ip ?? 'x';
+  const arr = (rlHits.get(key) ?? []).filter((t) => now - t < 60000);
+  if (arr.length > 120) {
+    res.status(429).json({ error: 'Trop de requêtes, réessayez dans une minute.' });
+    return;
+  }
+  arr.push(now);
+  rlHits.set(key, arr);
+  next();
+});
+
+app.get('/healthz', (_req, res) => res.json({ ok: true, groupes: secteurs.reduce((a, x) => a + x.groupes.length, 0) }));
 
 app.use(
   express.static(path.join(rootDir, 'public'), {
@@ -368,13 +398,26 @@ app.get('/api/catalogue', (req, res) => {
   });
 });
 
+for (const s of secteurs) {
+  const known = new Set(s.sous_categories ?? []);
+  for (const g of s.groupes) {
+    if (g.sous_categorie && !known.has(g.sous_categorie)) g.sous_categorie = '';
+    const seenP = new Set<string>();
+    g.produits = g.produits.filter((pr) => {
+      if (!pr.id || seenP.has(pr.id) || (pr.nom ?? '').trim().length < 3) return false;
+      seenP.add(pr.id);
+      return true;
+    });
+  }
+}
 dedupGroupes();
 
-interface GIdx { g: Groupe; s: Secteur; hayC: string; hayS: string; hayP: string[]; }
+interface GIdx { g: Groupe; s: Secteur; hayN: string; hayC: string; hayS: string; hayP: string[]; }
 const groupeIndex: GIdx[] = secteurs.flatMap((s) =>
   s.groupes.map((g) => ({
     g,
     s,
+    hayN: norm([g.groupe, ...g.marques].join(' ')),
     hayC: norm([g.groupe, ...g.marques, ...(g.aliases ?? []), g.commentaire, g.siege].join(' ')),
     hayS: norm([s.nom, ...(s.keywords ?? []), ...(s.aliases ?? [])].join(' ')),
     hayP: g.produits.map((pr) => norm([pr.nom, pr.note ?? ''].join(' '))),
@@ -388,6 +431,7 @@ function dedupGroupes() {
     const out: Groupe[] = [];
     for (const g of s.groupes) {
       const key = norm(g.groupe);
+      if (g.statut === 'propose') { out.push(g); continue; }
       const ex = seen.get(key);
       if (ex) {
         ex.marques = [...new Set([...ex.marques, ...g.marques])];
@@ -399,7 +443,8 @@ function dedupGroupes() {
         if (!ex.commentaire && g.commentaire) ex.commentaire = g.commentaire;
         if (!ex.site && g.site) { ex.site = g.site; ex.logo = g.logo; }
         if (!ex.histoire && g.histoire) ex.histoire = g.histoire;
-        if (STATUT_ORDRE.indexOf(g.statut) < STATUT_ORDRE.indexOf(ex.statut)) ex.statut = g.statut;
+        const PRUDENCE: Record<string, number> = { a_ecarter: 0, hors_zones: 1, vigilance: 2, rang2: 3, rang1: 4, propose: 5 };
+        if (g.statut !== 'propose' && ex.statut !== 'propose' && PRUDENCE[g.statut] < PRUDENCE[ex.statut]) ex.statut = g.statut;
       } else {
         seen.set(key, g);
         out.push(g);
@@ -413,6 +458,8 @@ for (const s of secteurs) {
   vocabMotsCles.add(norm(s.nom));
   for (const k of [...(s.keywords ?? []), ...(s.aliases ?? [])]) vocabMotsCles.add(norm(k));
   for (const g of s.groupes) {
+    vocabMotsCles.add(norm(g.groupe));
+    for (const m of g.marques) vocabMotsCles.add(norm(m));
     for (const a of g.aliases ?? []) vocabMotsCles.add(norm(a));
   }
 }
@@ -431,15 +478,17 @@ function lev(a: string, b: string): number {
   return d[m][n];
 }
 
-function motsProches(q: string, max = 5): string[] {
+function motsProches(qRaw: string, max = 5): string[] {
+  const q = qRaw.slice(0, 30);
   const exact = [...vocabMotsCles]
     .filter((m) => m.includes(q))
     .sort((a, b) => (a.startsWith(q) ? 0 : 1) - (b.startsWith(q) ? 0 : 1) || a.length - b.length || a.localeCompare(b))
     .slice(0, max);
   if (exact.length > 0) return exact;
-  if (q.length < 3) return [];
+  if (q.length < 3 || q.length > 30) return [];
   const maxD = Math.max(2, Math.floor(q.length / 2));
   return [...vocabMotsCles]
+    .filter((m) => Math.abs(m.length - q.length) <= 2)
     .map((m) => ({ m, d: lev(q, m) }))
     .filter((x) => x.d <= maxD)
     .sort((a, b) => a.d - b.d || a.m.length - b.m.length)
@@ -461,10 +510,10 @@ app.get('/api/mots-cles', (req, res) => {
 });
 
 app.get('/api/search', (req, res) => {
-  let q = norm(String(req.query.q ?? '').trim());
+  let q = norm(String(req.query.q ?? '').trim()).slice(0, 80);
   const pref = getPref(req);
-  if (!q) {
-    res.json({ q: '', pref, secteurs: [], groupes: [], produits: [], masquees: 0, mots: [] });
+  if (q.length < 2) {
+    res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: motsProches(q, 5) });
     return;
   }
   const cacheKey = `${pref}|${q}`;
@@ -473,72 +522,97 @@ app.get('/api/search', (req, res) => {
     res.json(cached);
     return;
   }
-  const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe', 'cuir', 'daim', 'nubuck', 'suede', 'synthetique', 'coton', 'laine', 'maille', 'plastique', 'caoutchouc', 'bois', 'metal', 'aluminium', 'verre', 'cuoio', 'goretex', 'gore-tex', 'acier', 'inox']);
+  const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe', 'cuir', 'daim', 'nubuck', 'suede', 'synthetique', 'coton', 'laine', 'maille', 'plastique', 'caoutchouc', 'bois', 'metal', 'aluminium', 'verre', 'goretex', 'acier', 'inox']);
   const motsQ0 = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
-  if (motsQ0.length > 0 && motsQ0.some((w) => MOUS.has(w))) q = motsQ0.filter((w) => !MOUS.has(w)).join('-');
-  const variants = [q, ...(SYNONYMES[q] ?? []).map((v) => norm(v))];
-  const matchAny = (hay: string) =>
-    hay.includes(q) || variants.slice(1).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
-  const motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3 && !MOUS.has(w));
-  const matchTousMots = (hay: string) =>
-    motsQ.length > 1 &&
-    motsQ.every(
-      (m) => hay.includes(m) || (SYNONYMES[m] ?? []).some((v) => hay.split(/[^a-z0-9]+/).includes(norm(v))),
-    );
-  const matchGroupe = (hay: string) => matchAny(hay) || matchTousMots(hay);
+  const motsForts = motsQ0.filter((w) => !MOUS.has(w));
+  if (motsForts.length > 0 && motsForts.length < motsQ0.length) q = motsForts.join(' ');
+  if (motsForts.length === 0) {
+    res.json({ q, pref, secteurs: [], groupes: [], masquees: 0, mots: [] });
+    return;
+  }
+  const motsQ = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
+  const variants = [q, ...(SYNONYMES[motsQ[0]] ?? []).map((v) => norm(v))];
+
+  const wordMatch = (hay: string, w: string) => {
+    const sw = stem(w);
+    return hay.split(/[^a-z0-9]+/).some((x) => x === w || stem(x) === sw);
+  };
+  const matchNom = (hayN: string, hayC: string, w: string) => wordMatch(hayN, w) || wordMatch(hayC, w) || (w.length >= 4 && hayN.includes(w));
+  const matchAnyL = (hayN: string, hayC: string, variantsL: string[]) =>
+    (!COMMON.has(q) && q.length >= 4 && hayN.includes(q)) ||
+    motsQ.some((m) => matchNom(hayN, hayC, m)) ||
+    variantsL.slice(1).filter((v) => !COMMON.has(v)).some((v) => v.length >= 3 && wordMatch(hayC, v));
+  const matchTousMots = (hayN: string, hayC: string) =>
+    motsQ.length > 1 && motsQ.every((m) => matchNom(hayN, hayC, m) || (SYNONYMES[m] ?? []).some((v) => wordMatch(hayC, norm(v))));
+
+  function scoreOf(g: { groupe: string; marques: string[]; aliases?: string[] }, hayN: string, hayC: string, matchProduit: boolean, variantsL: string[]): number {
+    let sc = 0;
+    const ql = q;
+    for (const name of [g.groupe, ...g.marques]) {
+      const n = norm(name);
+      if (n === ql) sc = Math.max(sc, 100);
+      else if (n.startsWith(ql)) sc = Math.max(sc, 80);
+    }
+    if (motsQ.some((m) => (g.aliases ?? []).some((a) => norm(a) === m))) sc = Math.max(sc, 60);
+    if (sc === 0 && matchAnyL(hayN, hayC, variantsL)) sc = 60;
+    if (sc === 0 && matchTousMots(hayN, hayC)) sc = 50;
+    if (sc === 0 && wordMatch(hayC, q)) sc = 30;
+    if (matchProduit) sc = Math.max(sc, 10);
+    return sc;
+  }
+
   const secteursMatch = secteurs.filter(
     (s) =>
-      matchGroupe(norm(s.nom)) ||
-      (s.keywords ?? []).some((k) => matchGroupe(norm(k))) ||
-      (s.aliases ?? []).some((a) => matchGroupe(norm(a))),
+      matchNom(norm(s.nom), norm(s.nom), motsQ[0]) ||
+      motsQ.some((m) => (s.keywords ?? []).some((k) => matchNom(norm(k), norm(k), m))) ||
+      (s.aliases ?? []).some((a) => motsQ.some((m) => matchNom(norm(a), norm(a), m))),
   );
+
   function runMatch(variantsL: string[]) {
-    const matchAnyL = (hay: string) =>
-      (!COMMON.has(q) && hay.includes(q)) || variantsL.slice(1).filter((v) => !COMMON.has(v)).some((v) => v.length >= 3 && hay.split(/[^a-z0-9]+/).includes(v));
-    const matchGroupeL = (hay: string) => matchAnyL(hay) || matchTousMots(hay);
-    const groupesMatch: ReturnType<typeof withStatut>[] = [];
-    const forts = new Set<string>();
-    const produitsMatch: { produit: Produit; groupe: ReturnType<typeof lightGroupe>; secteur: { id: string; num: string; nom: string } }[] = [];
+    const groupesMatch: (ReturnType<typeof withStatut> & { score: number })[] = [];
     let masquees = 0;
     for (const idx2 of groupeIndex) {
-      const { g, s: sec, hayC, hayP } = idx2;
+      const { g, s: sec, hayN, hayC, hayP } = idx2;
       const item = withStatut(g, pref, sec);
-      const matchContexte = matchGroupeL(hayC);
-      const matchProduit = hayP.some((h) => matchGroupeL(h));
-      if (!matchContexte && !matchProduit) continue;
+      const matchProduit = hayP.some((h) => motsQ.some((m) => wordMatch(h, m)));
+      const matchC = matchAnyL(hayN, hayC, variantsL) || matchTousMots(hayN, hayC);
+      if (!matchC && !matchProduit) continue;
       if (item.recommande) {
-        if (matchContexte || matchProduit) forts.add(g.id);
-        groupesMatch.push(item);
-        for (let k = 0; k < g.produits.length; k++) {
-          if (matchContexte || matchGroupeL(hayP[k])) {
-            produitsMatch.push({ produit: g.produits[k], groupe: lightGroupe(item), secteur: { id: sec.id, num: sec.num, nom: sec.nom } });
-          }
-        }
+        groupesMatch.push({ ...item, score: scoreOf(g, hayN, hayC, matchProduit, variantsL) });
       } else {
         masquees++;
       }
     }
-    return { groupesMatch, forts, produitsMatch, masquees };
+    return { groupesMatch, masquees };
   }
-  let r1 = runMatch([q]);
-  if (r1.groupesMatch.length === 0 && r1.produitsMatch.length === 0 && (SYNONYMES[q] ?? []).length > 0) {
-    r1 = runMatch(variants);
+  const r1 = runMatch([q]);
+  let groupesMatch = r1.groupesMatch;
+  let masquees = r1.masquees;
+  if ((SYNONYMES[motsQ[0]] ?? []).length > 0 && r1.groupesMatch.length < 10) {
+    const r2 = runMatch(variants);
+    const byId = new Map(groupesMatch.map((g) => [g.id, g]));
+    for (const g of r2.groupesMatch) {
+      const ex = byId.get(g.id);
+      if (ex) ex.score = Math.max(ex.score, g.score - 5);
+      else byId.set(g.id, g);
+    }
+    groupesMatch = [...byId.values()];
+    masquees = Math.max(masquees, r2.masquees);
   }
-  const { groupesMatch, forts, produitsMatch, masquees } = r1;
-  const motsSug = motsProches(q, 5);
+  const { masquees: masqueesFin } = { masquees };
+  const groupes = groupesMatch
+    .sort((a, b) => b.score - a.score || (STATUT_ORDRE.indexOf(a.statut) - STATUT_ORDRE.indexOf(b.statut)) || a.groupe.localeCompare(b.groupe))
+    .slice(0, 100)
+    .map(lightGroupe);
   const out = {
     q,
     pref,
     secteurs: secteursMatch.map((s) => ({ id: s.id, num: s.num, nom: s.nom, nbGroupes: s.groupes.length })),
-    groupes: (() => {
-      const trie = sortGroupes(groupesMatch);
-      return [...trie.filter((g) => forts.has(g.id)), ...trie.filter((g) => !forts.has(g.id))].map(lightGroupe);
-    })(),
-    produits: produitsMatch,
+    groupes,
     masquees,
-    mots: motsSug,
+    mots: motsProches(q, 5),
   };
-  if (searchCache.size > 300) searchCache.clear();
+  if (searchCache.size > 100) searchCache.clear();
   searchCache.set(cacheKey, out);
   res.json(out);
 });
@@ -581,7 +655,21 @@ app.get('/api/groupes/:id', (req, res) => {
   res.status(404).json({ error: 'Groupe introuvable.' });
 });
 
+function requireAdmin(req: Request, res: Response): boolean {
+  const token = process.env.ADMIN_TOKEN;
+  if (!token) {
+    res.status(403).json({ error: 'Écriture désactivée (ADMIN_TOKEN non défini).' });
+    return false;
+  }
+  if (req.headers['x-admin-token'] !== token) {
+    res.status(403).json({ error: 'Non autorisé.' });
+    return false;
+  }
+  return true;
+}
+
 app.post('/api/produits', (req, res) => {
+  if (!requireAdmin(req, res)) return;
   const { q, num, marque, note } = req.body ?? {};
   if (typeof q !== 'string' || q.trim().length < 2 || q.trim().length > 80) {
     res.status(400).json({ error: 'Champ "q" requis (2 à 80 caractères).' });
@@ -619,14 +707,17 @@ app.post('/api/produits', (req, res) => {
   } catch (err) {
     console.error(err);
   }
-  res.status(201).json({ ok: true, groupe: withStatut(groupe, getPref(req), secteur) });
+  searchCache.clear();
+    res.status(201).json({ ok: true, groupe: withStatut(groupe, getPref(req), secteur) });
 });
 
 app.get('/admin', (req, res) => {
+  if (!requireAdmin(req, res)) return;
   res.sendFile(path.join(rootDir, 'public', 'admin.html'));
 });
 
-app.get('/api/admin/ajouts', (_req, res) => {
+app.get('/api/admin/ajouts', (req, res) => {
+  if (!requireAdmin(req, res)) return;
   res.json({
     ajouts: ajouts
       .filter((a) => !(a.groupe as { valide?: boolean }).valide)
@@ -639,6 +730,7 @@ app.get('/api/admin/ajouts', (_req, res) => {
 });
 
 app.post('/api/admin/ajouts/:id/valider', (req, res) => {
+  if (!requireAdmin(req, res)) return;
   const a = ajouts.find((x) => x.groupe.id === req.params.id);
   if (!a) {
     res.status(404).json({ error: 'Ajout introuvable.' });
@@ -664,6 +756,7 @@ app.post('/api/admin/ajouts/:id/valider', (req, res) => {
 });
 
 app.delete('/api/admin/ajouts/:id', (req, res) => {
+  if (!requireAdmin(req, res)) return;
   const idx = ajouts.findIndex((x) => x.groupe.id === req.params.id);
   if (idx === -1) {
     res.status(404).json({ error: 'Ajout introuvable.' });

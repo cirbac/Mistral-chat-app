@@ -3282,70 +3282,40 @@
   "nickel"
  ],
  "transport-deutsche-bahn": [
-  "caraïbes",
   "db",
-  "ice",
-  "mediterranee",
-  "méditerranée"
+  "ice"
  ],
  "transport-oebb": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "railjet",
   "öbb"
  ],
  "transport-sbb": [
-  "caraïbes",
   "cff",
   "ffs",
-  "mediterranee",
-  "méditerranée",
   "sbb"
  ],
  "transport-trenitalia": [
-  "caraïbes",
   "frecciarossa",
-  "mediterranee",
-  "méditerranée",
   "trenitalia"
  ],
  "transport-specialized": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "specialized"
  ],
  "transport-trek": [
   "bontrager",
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "trek"
  ],
  "transport-scott": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "scott"
  ],
  "transport-bmc": [
-  "bmc",
-  "caraïbes",
-  "mediterranee",
-  "méditerranée"
+  "bmc"
  ],
  "transport-bianchi": [
-  "bianchi",
-  "caraïbes",
-  "mediterranee",
-  "méditerranée"
+  "bianchi"
  ],
  "transport-look": [
-  "caraïbes",
-  "look",
-  "mediterranee",
-  "méditerranée"
+  "look"
  ],
  "hotellerie-marriott": [
   "courtyard",
@@ -3376,8 +3346,7 @@
   "robinson club"
  ],
  "hotellerie-abritel": [
-  "abritel",
-  "homair? no"
+  "abritel"
  ],
  "hotellerie-homair": [
   "homair",
@@ -4010,51 +3979,27 @@
   "méditerranée"
  ],
  "transport-ponant": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "ponant"
  ],
  "transport-royalcaribbean": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "royal caribbean"
  ],
  "transport-hurtigruten": [
-  "caraïbes",
-  "hurtigruten",
-  "mediterranee",
-  "méditerranée"
+  "hurtigruten"
  ],
  "velo-pinarello": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "pinarello"
  ],
  "velo-colnago": [
-  "caraïbes",
-  "colnago",
-  "mediterranee",
-  "méditerranée"
+  "colnago"
  ],
  "velo-cervelo": [
-  "caraïbes",
-  "cervelo",
-  "mediterranee",
-  "méditerranée"
+  "cervelo"
  ],
  "velo-kalkhoff": [
-  "caraïbes",
-  "kalkhoff",
-  "mediterranee",
-  "méditerranée"
+  "kalkhoff"
  ],
  "velo-stromer": [
-  "caraïbes",
-  "mediterranee",
-  "méditerranée",
   "stromer"
  ],
  "hotellerie-hyatt": [
@@ -4219,17 +4164,11 @@
  "pneumatiques-ceat": [
   "ceat"
  ],
- "electromenager-beko-lot5? no skip": [
-  "skip"
- ],
  "electromenager-grundig": [
   "grundig"
  ],
  "electromenager-toshiba": [
   "toshiba"
- ],
- "televiseurs-ve ci? skip": [
-  "x"
  ],
  "televiseurs-blaupunkt": [
   "blaupunkt"
@@ -4261,9 +4200,6 @@
  "logiciels-harfanglab": [
   "harfanglab"
  ],
- "logiciels-gsoft? skip": [
-  "x"
- ],
  "logiciels-mistral": [
   "le chat",
   "mistral"
@@ -4280,9 +4216,6 @@
  ],
  "alimentation-franprix": [
   "franprix"
- ],
- "alimentation-lidl-foods? skip": [
-  "x"
  ],
  "alimentation-picard": [
   "picard"
@@ -4329,9 +4262,6 @@
  "beaute-dior-beaute": [
   "dior"
  ],
- "beaute-clarins-lot5? no": [
-  "x"
- ],
  "beaute-labo": [
   "le labo"
  ],
@@ -4363,17 +4293,11 @@
  "fashion-cos": [
   "cos"
  ],
- "fashion-levis-lot5? exists": [
-  "x"
- ],
  "fashion-dockers": [
   "dockers"
  ],
  "fashion-sorel": [
   "sorel"
- ],
- "fashion-samsonite? no": [
-  "x"
  ],
  "lingerie-simone-perele": [
   "simone pérèle"
@@ -4396,35 +4320,17 @@
  "camping-outwell": [
   "outwell"
  ],
- "distribution-lidl-lot5? exists": [
-  "x"
- ],
- "distribution-action-lot5? exists": [
-  "x"
- ],
  "distribution-netto": [
   "netto"
  ],
- "distribution-intermarche-lot5? exists": [
-  "x"
- ],
  "distribution-u-express": [
   "u express"
- ],
- "distribution-primeurs? skip": [
-  "x"
- ],
- "ecommerce-cdiscount-lot5? exists": [
-  "x"
  ],
  "ecommerce-showroomprive": [
   "showroomprivé"
  ],
  "ecommerce-vente-unique": [
   "vente-unique"
- ],
- "telecoms-bouygues-lot5? exists": [
-  "x"
  ],
  "telecoms-sosh": [
   "sosh"
@@ -4448,17 +4354,11 @@
  "banque-hello-bank": [
   "hello bank!"
  ],
- "banque-fortuneo-lot5? exists": [
-  "x"
- ],
  "banque-bforbank": [
   "bforbank"
  ],
  "banque-lcl": [
   "lcl"
- ],
- "banque-societe-generale-lot5? exists": [
-  "x"
  ],
  "assurance-maaf": [
   "maaf"
@@ -4487,23 +4387,8 @@
  "transport-british-airways": [
   "british airways"
  ],
- "transport-iberia? done": [
-  "x"
- ],
- "velo-canyon-lot5? exists": [
-  "x"
- ],
- "velo-giant-lot5? exists": [
-  "x"
- ],
  "velo-cannondale": [
   "cannondale"
- ],
- "hotellerie-clubmed-lot5? exists": [
-  "x"
- ],
- "hotellerie-pierre-vacances-lot5? exists": [
-  "x"
  ],
  "hotellerie-centerparcs": [
   "center parcs"
@@ -4517,32 +4402,11 @@
  "jouets-fisher": [
   "fisher-price"
  ],
- "jouets-vtech-lot5? exists": [
-  "x"
- ],
- "jouets-lgo? no": [
-  "x"
- ],
  "jeux-505": [
   "505 games"
  ],
- "jeux-focus-lot5? exists": [
-  "x"
- ],
  "jeux-astragon": [
   "astragon"
- ],
- "maison-tefal-lot5? exists": [
-  "x"
- ],
- "maison-lagostina-lot5? exists": [
-  "x"
- ],
- "maison-illalex? skip": [
-  "x"
- ],
- "maison-villeroy-lot5? exists": [
-  "x"
  ],
  "maison-rosenthal": [
   "rosenthal"
@@ -4553,9 +4417,6 @@
  "maison-royal-copenhagen": [
   "bing & grøndahl",
   "royal copenhagen"
- ],
- "outillage-milwaukee-lot5? exists": [
-  "x"
  ],
  "outillage-dewalt": [
   "dewalt"
@@ -4588,14 +4449,8 @@
  "montres-frederique": [
   "frédérique constant"
  ],
- "montres-tissot-lot5? skip": [
-  "x"
- ],
  "optique-optical-center": [
   "optical center"
- ],
- "optique-lunetterie-pour-tous? skip": [
-  "x"
  ],
  "medias-france-bleu": [
   "france bleu"
@@ -4618,9 +4473,6 @@
   "fun radio",
   "rtl",
   "rtl2"
- ],
- "medias-m6-lot5? exists": [
-  "x"
  ],
  "medias-6play": [
   "6play"
@@ -4777,9 +4629,6 @@
  ],
  "beurre-elle-vire": [
   "elle & vire"
- ],
- "fromage-bel-lot6? skip": [
-  "x"
  ],
  "fromage-philadelphia": [
   "leerdammer",
@@ -4999,9 +4848,6 @@
  "social-tiktok": [
   "tiktok"
  ],
- "social-x": [
-  "x"
- ],
  "social-snapchat": [
   "snapchat"
  ],
@@ -5061,9 +4907,6 @@
  "auto-neta": [
   "neta"
  ],
- "moto-vespa-lot7? no": [
-  "x"
- ],
  "pneus-general-tire": [
   "general tire"
  ],
@@ -5075,20 +4918,8 @@
   "fulda",
   "sava"
  ],
- "electromenager-bosch-lot7? no": [
-  "x"
- ],
- "nas? no": [
-  "x"
- ],
  "fourniture-hoffmann": [
   "hoffmann"
- ],
- "jardin-lemaitre? no": [
-  "x"
- ],
- "outillage-orev? no": [
-  "x"
  ],
  "outillage-wago": [
   "wago"
@@ -5137,37 +4968,17 @@
   "glenfiddich",
   "hendrick's"
  ],
- "spiritueux-campari-lot8? no": [
-  "x"
- ],
  "biere-castel": [
-  "castel",
-  "kronenbourg? non"
- ],
- "biere-kronenbourg-lot8? no": [
-  "x"
- ],
- "soda-mayotte? no": [
-  "x"
- ],
- "eau-chateau? no": [
-  "x"
- ],
- "confiture-bonne-maman-lot8? exists": [
-  "x"
+  "castel"
  ],
  "miel-luneau": [
   "luneau"
  ],
  "biscuits-saint-michel": [
-  "lu? non",
   "saint-michel"
  ],
  "biscuits-bn": [
   "bn"
- ],
- "cafe-maison? no": [
-  "x"
  ],
  "the-dammann": [
   "dammann"
@@ -5208,9 +5019,6 @@
  "parfum-malle": [
   "frédéric malle"
  ],
- "parfum-byredo-lot9? exists": [
-  "x"
- ],
  "beaute-rare": [
   "rare beauty"
  ],
@@ -5235,9 +5043,6 @@
  "pharma-biogaran": [
   "biogaran"
  ],
- "pharma-mip? no": [
-  "x"
- ],
  "sante-hartmann": [
   "hartmann"
  ],
@@ -5257,14 +5062,8 @@
  "outdoor-rab": [
   "rab"
  ],
- "outdoor-mammut-lot10? no": [
-  "x"
- ],
  "couteau-leatherman": [
   "leatherman"
- ],
- "lampe-petzl-lot10? no": [
-  "x"
  ],
  "lampe-frontale-blackdiamond": [
   "black diamond"
@@ -5282,15 +5081,6 @@
  "auto-speedy": [
   "speedy"
  ],
- "distribution-normandie? no": [
-  "x"
- ],
- "distribution-carrefour-lot10? no": [
-  "x"
- ],
- "radio-rtl-lot10? exists": [
-  "x"
- ],
  "radio-nrj": [
   "cherie fm",
   "nostalgie",
@@ -5298,7 +5088,6 @@
   "rire et chansons"
  ],
  "radio-rmc": [
-  "bfm business? non",
   "rmc",
   "rmc découverte",
   "rmc sport"
@@ -5313,9 +5102,6 @@
  ],
  "tv-tiji": [
   "tiji"
- ],
- "tv-gulli? no": [
-  "x"
  ],
  "streaming-britbox": [
   "britbox"
@@ -5351,57 +5137,17 @@
  "energie-ekwateur": [
   "ekwateur"
  ],
- "energie-enercoop-lot11? no": [
-  "x"
- ],
- "hotellerie-odalys-lot11? no": [
-  "x"
- ],
- "hotellerie-bb-lot11? no": [
-  "x"
- ],
- "jouets-goliath-lot11? no": [
-  "x"
- ],
  "jouets-mb": [
   "mb"
  ],
  "jouets-sentospheres": [
-  "asmodée? non",
   "sentosphère"
- ],
- "jouets-orb? no": [
-  "x"
- ],
- "cuisine-rosetta? no": [
-  "x"
- ],
- "ustensiles-tarrer? no": [
-  "x"
- ],
- "deco-maisondelacreme? no": [
-  "x"
- ],
- "montres-seiko-lot11? no": [
-  "x"
- ],
- "optique-lunettes? no": [
-  "x"
- ],
- "transport-blablacar-lot11? no": [
-  "x"
  ],
  "croisiere-cunard": [
   "cunard"
  ],
- "resto-brasserie? no": [
-  "x"
- ],
  "resto-leon": [
   "léon"
- ],
- "resto-flunch-lot11? no": [
-  "x"
  ],
  "resto-pataterie": [
   "la pataterie"

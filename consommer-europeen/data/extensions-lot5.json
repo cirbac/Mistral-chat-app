@@ -231,26 +231,6 @@
  "04": {
   "groupes": [
    {
-    "id": "electromenager-beko-lot5? no skip",
-    "groupe": "skip",
-    "marques": [
-     "skip"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [282]",
-    "sources": [
-     282
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "electromenager-grundig",
     "groupe": "Grundig (Arcelik)",
     "marques": [
@@ -295,26 +275,6 @@
  },
  "05": {
   "groupes": [
-   {
-    "id": "televiseurs-ve ci? skip",
-    "groupe": "skip2",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [283]",
-    "sources": [
-     283
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
    {
     "id": "televiseurs-blaupunkt",
     "groupe": "Blaupunkt",
@@ -531,26 +491,6 @@
     "produits": []
    },
    {
-    "id": "logiciels-gsoft? skip",
-    "groupe": "skip3",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [284]",
-    "sources": [
-     284
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "logiciels-mistral",
     "groupe": "Mistral AI",
     "marques": [
@@ -656,27 +596,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "alimentation-lidl-foods? skip",
-    "groupe": "skip4",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [285, 300]",
-    "sources": [
-     285,
-     300
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -1001,26 +920,6 @@
     "produits": []
    },
    {
-    "id": "beaute-clarins-lot5? no",
-    "groupe": "skip5",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [286]",
-    "sources": [
-     286
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "beaute-labo",
     "groupe": "Le Labo (Estée Lauder)",
     "marques": [
@@ -1248,27 +1147,6 @@
     "produits": []
    },
    {
-    "id": "fashion-levis-lot5? exists",
-    "groupe": "skip6",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [287, 300]",
-    "sources": [
-     287,
-     300
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "fashion-dockers",
     "groupe": "Dockers (Levi's)",
     "marques": [
@@ -1309,27 +1187,6 @@
      "USA",
      "Chine",
      "Vietnam"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "fashion-samsonite? no",
-    "groupe": "skip7",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [287, 300]",
-    "sources": [
-     287,
-     300
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -1491,46 +1348,6 @@
  "12": {
   "groupes": [
    {
-    "id": "distribution-lidl-lot5? exists",
-    "groupe": "skip8",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [289]",
-    "sources": [
-     289
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-action-lot5? exists",
-    "groupe": "skip9",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [289]",
-    "sources": [
-     289
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "distribution-netto",
     "groupe": "Netto (Mousquetaires)",
     "marques": [
@@ -1551,26 +1368,6 @@
     "produits": []
    },
    {
-    "id": "distribution-intermarche-lot5? exists",
-    "groupe": "skip10",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [289]",
-    "sources": [
-     289
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "distribution-u-express",
     "groupe": "U Express (Coop U)",
     "marques": [
@@ -1586,46 +1383,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "distribution-primeurs? skip",
-    "groupe": "skip11",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [289]",
-    "sources": [
-     289
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "ecommerce-cdiscount-lot5? exists",
-    "groupe": "skip12",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [289]",
-    "sources": [
-     289
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -1675,26 +1432,6 @@
  },
  "13": {
   "groupes": [
-   {
-    "id": "telecoms-bouygues-lot5? exists",
-    "groupe": "skip13",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [290]",
-    "sources": [
-     290
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
    {
     "id": "telecoms-sosh",
     "groupe": "Sosh (Orange)",
@@ -1841,26 +1578,6 @@
     "produits": []
    },
    {
-    "id": "banque-fortuneo-lot5? exists",
-    "groupe": "skip14",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [291]",
-    "sources": [
-     291
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "banque-bforbank",
     "groupe": "BforBank (CA)",
     "marques": [
@@ -1896,26 +1613,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "banque-societe-generale-lot5? exists",
-    "groupe": "skip15",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [291]",
-    "sources": [
-     291
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -2111,66 +1808,6 @@
     "produits": []
    },
    {
-    "id": "transport-iberia? done",
-    "groupe": "skip16",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [292]",
-    "sources": [
-     292
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "velo-canyon-lot5? exists",
-    "groupe": "skip17",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [292]",
-    "sources": [
-     292
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "velo-giant-lot5? exists",
-    "groupe": "skip18",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [292]",
-    "sources": [
-     292
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "velo-cannondale",
     "groupe": "Cannondale",
     "marques": [
@@ -2195,46 +1832,6 @@
  },
  "16": {
   "groupes": [
-   {
-    "id": "hotellerie-clubmed-lot5? exists",
-    "groupe": "skip19",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [293]",
-    "sources": [
-     293
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "hotellerie-pierre-vacances-lot5? exists",
-    "groupe": "skip20",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [293]",
-    "sources": [
-     293
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
    {
     "id": "hotellerie-centerparcs",
     "groupe": "Center Parcs (P&V)",
@@ -2326,46 +1923,6 @@
     "produits": []
    },
    {
-    "id": "jouets-vtech-lot5? exists",
-    "groupe": "skip21",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [294]",
-    "sources": [
-     294
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "jouets-lgo? no",
-    "groupe": "skip22",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [294]",
-    "sources": [
-     294
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "jeux-505",
     "groupe": "505 Games",
     "marques": [
@@ -2383,26 +1940,6 @@
      "Italie",
      "USA",
      "Chine"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "jeux-focus-lot5? exists",
-    "groupe": "skip23",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [294]",
-    "sources": [
-     294
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -2431,86 +1968,6 @@
  },
  "18": {
   "groupes": [
-   {
-    "id": "maison-tefal-lot5? exists",
-    "groupe": "skip24",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [295]",
-    "sources": [
-     295
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "maison-lagostina-lot5? exists",
-    "groupe": "skip25",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [295]",
-    "sources": [
-     295
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "maison-illalex? skip",
-    "groupe": "skip26",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [295]",
-    "sources": [
-     295
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "maison-villeroy-lot5? exists",
-    "groupe": "skip27",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [295]",
-    "sources": [
-     295
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
    {
     "id": "maison-rosenthal",
     "groupe": "Rosenthal",
@@ -2569,26 +2026,6 @@
     "lieux_production": [
      "Danemark",
      "Thaïlande"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "outillage-milwaukee-lot5? exists",
-    "groupe": "skip28",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [295]",
-    "sources": [
-     295
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -2792,26 +2229,6 @@
     "produits": []
    },
    {
-    "id": "montres-tissot-lot5? skip",
-    "groupe": "skip29",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [296]",
-    "sources": [
-     296
-    ],
-    "lieux_production": [
-     "x"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
     "id": "optique-optical-center",
     "groupe": "Optical Center",
     "marques": [
@@ -2827,26 +2244,6 @@
     ],
     "lieux_production": [
      "France"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "optique-lunetterie-pour-tous? skip",
-    "groupe": "skip30",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [296]",
-    "sources": [
-     296
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []
@@ -2976,26 +2373,6 @@
     "lieux_production": [
      "France",
      "Luxembourg"
-    ],
-    "certifications": [],
-    "produits": []
-   },
-   {
-    "id": "medias-m6-lot5? exists",
-    "groupe": "skip31",
-    "marques": [
-     "x"
-    ],
-    "siege": "x",
-    "siege_pays": "FR",
-    "statut": "rang1",
-    "sous_categorie": "x",
-    "commentaire": "x [297]",
-    "sources": [
-     297
-    ],
-    "lieux_production": [
-     "x"
     ],
     "certifications": [],
     "produits": []

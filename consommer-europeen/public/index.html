@@ -11,10 +11,11 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+  <div id="net-banner" class="net-banner hidden" role="alert"></div>
     <header class="topbar">
-      <div class="topbar-left">
+      <a class="topbar-left" href="/" id="logo-home" aria-label="Accueil">
         <img id="logo-home" class="logo" src="assets/logo-white.png" alt="Cirba Consult — accueil" title="Retour à l'accueil" />
-      </div>
+      </a>
       <div class="topbar-spacer"></div>
       <div class="controls">
         <label class="topbar-pref" for="pref" aria-label="Préférence d'achat">
@@ -58,7 +59,7 @@
         <div id="catalogue-results" class="results"></div>
         <button id="catalogue-plus" class="chip" type="button" hidden>Charger plus</button>
       </section>
-      <div id="detail-modal" class="modal hidden">
+      <div id="detail-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detail-titre">
         <div class="modal-card detail-card">
           <button id="detail-close" class="detail-close" type="button" aria-label="Fermer">✕</button>
           <div id="detail" class="detail"></div>

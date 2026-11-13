@@ -1499,3 +1499,17 @@ body.hero-compact .chips {
   height: 22px;
   image-rendering: pixelated;
 }
+
+.net-banner {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  background: #cf222e;
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 0 0 12px 12px;
+  font-size: 0.85rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+}

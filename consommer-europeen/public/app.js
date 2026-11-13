@@ -66,24 +66,43 @@ const el = {
   addMsg: document.getElementById('add-msg'),
 };
 
-async function api(path) {
-  const res = await fetch(path);
-  if (!res.ok) {
-    const data = await res.json().catch(() => ({}));
-    throw new Error(data.error || `Erreur ${res.status}`);
-  }
-  return res.json();
+let netBannerTimer;
+function showNetBanner(msg) {
+  const b = document.getElementById('net-banner');
+  if (!b) return;
+  b.textContent = msg;
+  b.classList.remove('hidden');
+  clearTimeout(netBannerTimer);
+  netBannerTimer = setTimeout(() => b.classList.add('hidden'), 8000);
 }
 
+async function api(path) {
+  try {
+    const res = await fetch(path);
+    if (!res.ok) {
+      const data = await res.json().catch(() => ({}));
+      throw new Error(data.error || `Erreur ${res.status}`);
+    }
+    return await res.json();
+  } catch (e) {
+    showNetBanner('Le service démarre ou est indisponible — nouvelle tentative…');
+    throw e;
+  }
+}
+
+let detailLastFocus = null;
 function openDetail() {
+  detailLastFocus = document.activeElement;
   el.detailModal.classList.remove('hidden');
   document.body.style.overflow = 'hidden';
+  el.detailClose.focus();
 }
 
 function closeDetail() {
   el.detailModal.classList.add('hidden');
   document.body.style.overflow = '';
   el.contenu.classList.remove('avec-detail');
+  if (detailLastFocus && detailLastFocus.focus) detailLastFocus.focus();
 }
 
 el.detailClose.addEventListener('click', closeDetail);
@@ -110,6 +129,7 @@ function esc(text) {
 
 function show(view) {
   state.view = view;
+  hideSuggestions();
   document.body.classList.toggle('hero-compact', view !== 'home');
   el.home.classList.toggle('hidden', view !== 'home');
   el.results.classList.toggle('hidden', view === 'home' || view === 'catalogue');
@@ -201,7 +221,15 @@ function carteGroupe(g) {
   }
   corps.appendChild(meta);
   carte.appendChild(corps);
+  carte.setAttribute('role', 'button');
+  carte.tabIndex = 0;
   carte.addEventListener('click', () => showGroupe(g.id));
+  carte.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      showGroupe(g.id);
+    }
+  });
   return carte;
 }
 
@@ -339,16 +367,26 @@ function renderResults(data, q) {
   if (data.groupes.length === 0) {
     const p = document.createElement('p');
     p.className = 'vide';
-    p.textContent = `Aucun résultat pour « ${q} ».`;
-    el.results.appendChild(p);
-    const btn = document.createElement('button');
-    btn.type = 'button';
-    btn.className = 'chip chip-active';
-    btn.id = 'btn-ajouter';
-    btn.textContent = `＋ Proposer l'ajout de « ${q} »`;
-    btn.addEventListener('click', () => ouvrirAjout(q));
-    el.results.appendChild(btn);
+    if (data.masquees > 0) {
+      p.textContent = `${data.masquees} marque${data.masquees > 1 ? 's' : ''} correspond${data.masquees > 1 ? 'nent' : ''} mais ${data.masquees > 1 ? 'sont' : 'est'} hors de votre préférence.`;
+      el.results.appendChild(p);
+      const voir = document.createElement('button');
+      voir.type = 'button';
+      voir.className = 'chip chip-active';
+      voir.textContent = 'Les afficher (Tout afficher)';
+      voir.addEventListener('click', () => {
+        state.pref = 'all';
+        try { localStorage.setItem('ce-pref', 'all'); } catch {}
+        renderPrefSelect();
+        runSearch(true);
+      });
+      el.results.appendChild(voir);
+    } else {
+      p.textContent = `Aucun résultat pour « ${q} ».`;
+      el.results.appendChild(p);
+    }
   }
+
   for (const g of data.groupes) el.results.appendChild(carteGroupe(g));
   if (data.masquees > 0) {
     const p = document.createElement('p');
@@ -722,6 +760,7 @@ el.search.addEventListener('focus', () => {
 el.search.addEventListener('blur', () => setTimeout(hideSuggestions, 150));
 
 const searchClientCache = new Map();
+let searchSeq = 0;
 async function runSearch(fromEnter) {
   const q = el.search.value.trim();
   if (!q) {
@@ -729,13 +768,16 @@ async function runSearch(fromEnter) {
     renderHome();
     return;
   }
+  const seq = ++searchSeq;
   const key = `${state.pref}|${q}`;
   let data = searchClientCache.get(key);
   if (!data) {
     data = await api(`/api/search?q=${encodeURIComponent(q)}&pref=${state.pref}`);
+    if (seq !== searchSeq) return;
     if (searchClientCache.size > 100) searchClientCache.clear();
     searchClientCache.set(key, data);
   }
+  if (seq !== searchSeq) return;
   if (!fromEnter) renderSuggestions(data, q);
   renderResults(data, q);
 }
