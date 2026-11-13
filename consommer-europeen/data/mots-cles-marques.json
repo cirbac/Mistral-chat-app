@@ -4183,5 +4183,452 @@
  ],
  "medias-pluto": [
   "pluto tv"
+ ],
+ "automobile-fiat": [
+  "abarth",
+  "fiat",
+  "lancia"
+ ],
+ "automobile-cupra": [
+  "cupra"
+ ],
+ "automobile-skoda": [
+  "škoda"
+ ],
+ "automobile-seat": [
+  "seat"
+ ],
+ "automobile-audi": [
+  "audi",
+  "audi sport"
+ ],
+ "motos-gasgas": [
+  "gasgas"
+ ],
+ "motos-derbi": [
+  "derbi"
+ ],
+ "motos-tvs": [
+  "norton",
+  "tvs"
+ ],
+ "motos-hero": [
+  "hero",
+  "splendor"
+ ],
+ "pneumatiques-ceat": [
+  "ceat"
+ ],
+ "electromenager-beko-lot5? no skip": [
+  "skip"
+ ],
+ "electromenager-grundig": [
+  "grundig"
+ ],
+ "electromenager-toshiba": [
+  "toshiba"
+ ],
+ "televiseurs-ve ci? skip": [
+  "x"
+ ],
+ "televiseurs-blaupunkt": [
+  "blaupunkt"
+ ],
+ "informatique-honor": [
+  "honor"
+ ],
+ "informatique-realme": [
+  "realme"
+ ],
+ "audio-jbl-harman": [
+  "jbl"
+ ],
+ "audio-steelseries": [
+  "steelseries"
+ ],
+ "audio-corsair": [
+  "corsair"
+ ],
+ "gaming-razer": [
+  "razer"
+ ],
+ "photo-pentax": [
+  "pentax"
+ ],
+ "logiciels-orange-cyber": [
+  "orange cyberdefense"
+ ],
+ "logiciels-harfanglab": [
+  "harfanglab"
+ ],
+ "logiciels-gsoft? skip": [
+  "x"
+ ],
+ "logiciels-mistral": [
+  "le chat",
+  "mistral"
+ ],
+ "logiciels-huggingface": [
+  "hugging face"
+ ],
+ "logiciels-aleph": [
+  "aleph alpha"
+ ],
+ "alimentation-monoprix": [
+  "monoprix",
+  "monoprix gourmet"
+ ],
+ "alimentation-franprix": [
+  "franprix"
+ ],
+ "alimentation-lidl-foods? skip": [
+  "x"
+ ],
+ "alimentation-picard": [
+  "picard"
+ ],
+ "alimentation-nicolas": [
+  "nicolas"
+ ],
+ "alimentation-biocoop": [
+  "biocoop"
+ ],
+ "alimentation-naturalia": [
+  "naturalia"
+ ],
+ "alimentation-la-vie-claire": [
+  "la vie claire"
+ ],
+ "boissons-innocent": [
+  "innocent"
+ ],
+ "boissons-oasis": [
+  "oasis"
+ ],
+ "cafe-costacoffee": [
+  "costa"
+ ],
+ "cafe-nerpresso": [
+  "nespresso"
+ ],
+ "pharma-recordati": [
+  "recordati"
+ ],
+ "pharma-menarini": [
+  "menarini"
+ ],
+ "pharma-grunenthal": [
+  "grünenthal"
+ ],
+ "beaute-lancome": [
+  "lancôme"
+ ],
+ "beaute-ysl-beaute": [
+  "yves saint laurent beauté"
+ ],
+ "beaute-dior-beaute": [
+  "dior"
+ ],
+ "beaute-clarins-lot5? no": [
+  "x"
+ ],
+ "beaute-labo": [
+  "le labo"
+ ],
+ "fashion-mcqueen": [
+  "alexander mcqueen"
+ ],
+ "fashion-stella": [
+  "stella mccartney"
+ ],
+ "fashion-balenciaga": [
+  "balenciaga"
+ ],
+ "fashion-givenchy": [
+  "givenchy"
+ ],
+ "fashion-kenzo": [
+  "kenzo"
+ ],
+ "fashion-dries": [
+  "dries van noten"
+ ],
+ "fashion-sunspel": [
+  "sunspel"
+ ],
+ "fashion-arket": [
+  "& other stories",
+  "arket"
+ ],
+ "fashion-cos": [
+  "cos"
+ ],
+ "fashion-levis-lot5? exists": [
+  "x"
+ ],
+ "fashion-dockers": [
+  "dockers"
+ ],
+ "fashion-sorel": [
+  "sorel"
+ ],
+ "fashion-samsonite? no": [
+  "x"
+ ],
+ "lingerie-simone-perele": [
+  "simone pérèle"
+ ],
+ "voyage-delvaux": [
+  "delvaux"
+ ],
+ "voyage-goyard": [
+  "goyard"
+ ],
+ "voyage-louis-vuitton-voyage": [
+  "louis vuitton"
+ ],
+ "voyage-fauchon": [
+  "fauchon"
+ ],
+ "camping-thermarest": [
+  "therm-a-rest"
+ ],
+ "camping-outwell": [
+  "outwell"
+ ],
+ "distribution-lidl-lot5? exists": [
+  "x"
+ ],
+ "distribution-action-lot5? exists": [
+  "x"
+ ],
+ "distribution-netto": [
+  "netto"
+ ],
+ "distribution-intermarche-lot5? exists": [
+  "x"
+ ],
+ "distribution-u-express": [
+  "u express"
+ ],
+ "distribution-primeurs? skip": [
+  "x"
+ ],
+ "ecommerce-cdiscount-lot5? exists": [
+  "x"
+ ],
+ "ecommerce-showroomprive": [
+  "showroomprivé"
+ ],
+ "ecommerce-vente-unique": [
+  "vente-unique"
+ ],
+ "telecoms-bouygues-lot5? exists": [
+  "x"
+ ],
+ "telecoms-sosh": [
+  "sosh"
+ ],
+ "telecoms-red": [
+  "red"
+ ],
+ "telecoms-prixtel": [
+  "prixtel"
+ ],
+ "energie-butagaz": [
+  "butagaz"
+ ],
+ "energie-total-direct": [
+  "total direct énergie"
+ ],
+ "banque-boursorama": [
+  "boursobank",
+  "boursorama"
+ ],
+ "banque-hello-bank": [
+  "hello bank!"
+ ],
+ "banque-fortuneo-lot5? exists": [
+  "x"
+ ],
+ "banque-bforbank": [
+  "bforbank"
+ ],
+ "banque-lcl": [
+  "lcl"
+ ],
+ "banque-societe-generale-lot5? exists": [
+  "x"
+ ],
+ "assurance-maaf": [
+  "maaf"
+ ],
+ "assurance-gmf": [
+  "gmf"
+ ],
+ "assurance-mma": [
+  "mma"
+ ],
+ "transport-thalys": [
+  "thalys"
+ ],
+ "transport-ouigo": [
+  "ouigo"
+ ],
+ "transport-transavia": [
+  "transavia"
+ ],
+ "transport-vueling": [
+  "vueling"
+ ],
+ "transport-iberia": [
+  "iberia"
+ ],
+ "transport-british-airways": [
+  "british airways"
+ ],
+ "transport-iberia? done": [
+  "x"
+ ],
+ "velo-canyon-lot5? exists": [
+  "x"
+ ],
+ "velo-giant-lot5? exists": [
+  "x"
+ ],
+ "velo-cannondale": [
+  "cannondale"
+ ],
+ "hotellerie-clubmed-lot5? exists": [
+  "x"
+ ],
+ "hotellerie-pierre-vacances-lot5? exists": [
+  "x"
+ ],
+ "hotellerie-centerparcs": [
+  "center parcs"
+ ],
+ "hotellerie-sunparks": [
+  "sunparks"
+ ],
+ "hotellerie-odalys": [
+  "odalys"
+ ],
+ "jouets-fisher": [
+  "fisher-price"
+ ],
+ "jouets-vtech-lot5? exists": [
+  "x"
+ ],
+ "jouets-lgo? no": [
+  "x"
+ ],
+ "jeux-505": [
+  "505 games"
+ ],
+ "jeux-focus-lot5? exists": [
+  "x"
+ ],
+ "jeux-astragon": [
+  "astragon"
+ ],
+ "maison-tefal-lot5? exists": [
+  "x"
+ ],
+ "maison-lagostina-lot5? exists": [
+  "x"
+ ],
+ "maison-illalex? skip": [
+  "x"
+ ],
+ "maison-villeroy-lot5? exists": [
+  "x"
+ ],
+ "maison-rosenthal": [
+  "rosenthal"
+ ],
+ "maison-herend": [
+  "herend"
+ ],
+ "maison-royal-copenhagen": [
+  "bing & grøndahl",
+  "royal copenhagen"
+ ],
+ "outillage-milwaukee-lot5? exists": [
+  "x"
+ ],
+ "outillage-dewalt": [
+  "dewalt"
+ ],
+ "outillage-ryobi": [
+  "ryobi"
+ ],
+ "outillage-aeg": [
+  "aeg"
+ ],
+ "jardin-gardena": [
+  "gardena"
+ ],
+ "jardin-wolf": [
+  "wolf"
+ ],
+ "montres-omega": [
+  "omega"
+ ],
+ "montres-longines": [
+  "longines"
+ ],
+ "montres-tissot": [
+  "certina",
+  "hamilton",
+  "mido",
+  "rado",
+  "tissot"
+ ],
+ "montres-frederique": [
+  "frédérique constant"
+ ],
+ "montres-tissot-lot5? skip": [
+  "x"
+ ],
+ "optique-optical-center": [
+  "optical center"
+ ],
+ "optique-lunetterie-pour-tous? skip": [
+  "x"
+ ],
+ "medias-france-bleu": [
+  "france bleu"
+ ],
+ "medias-france-musique": [
+  "france musique"
+ ],
+ "medias-cnews": [
+  "cnews"
+ ],
+ "medias-bfmtv": [
+  "bfm business",
+  "bfm tv",
+  "rmc"
+ ],
+ "medias-europe1": [
+  "europe 1"
+ ],
+ "medias-rtl": [
+  "fun radio",
+  "rtl",
+  "rtl2"
+ ],
+ "medias-m6-lot5? exists": [
+  "x"
+ ],
+ "medias-6play": [
+  "6play"
+ ],
+ "medias-tf1plus": [
+  "tf1+"
+ ],
+ "medias-france.tv": [
+  "france.tv"
  ]
 }
