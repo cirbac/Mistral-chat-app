@@ -473,7 +473,7 @@ app.get('/api/search', (req, res) => {
     res.json(cached);
     return;
   }
-  const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe']);
+  const MOUS = new Set(['femme', 'homme', 'enfant', 'bebe', 'ado', 'adulte', 'unisexe', 'cuir', 'daim', 'nubuck', 'suede', 'synthetique', 'coton', 'laine', 'maille', 'plastique', 'caoutchouc', 'bois', 'metal', 'aluminium', 'verre', 'cuoio', 'goretex', 'gore-tex', 'acier', 'inox']);
   const motsQ0 = q.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
   if (motsQ0.length > 0 && motsQ0.some((w) => MOUS.has(w))) q = motsQ0.filter((w) => !MOUS.has(w)).join('-');
   const variants = [q, ...(SYNONYMES[q] ?? []).map((v) => norm(v))];
