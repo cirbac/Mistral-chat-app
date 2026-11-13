@@ -114,7 +114,10 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && !el.detailModal.classList.contains('hidden')) closeDetail();
 });
 
-function badge(statutLabel, couleur) {
+const PAYS = { FR: 'France', DE: 'Allemagne', IT: 'Italie', ES: 'Espagne', SE: 'Suède', NL: 'Pays-Bas', BE: 'Belgique', CH: 'Suisse', GB: 'Royaume-Uni', DK: 'Danemark', FI: 'Finlande', NO: 'Norvège', PL: 'Pologne', CZ: 'Tchéquie', PT: 'Portugal', AT: 'Autriche', IE: 'Irlande', US: 'États-Unis', CN: 'Chine', JP: 'Japon', KR: 'Corée du Sud', TW: 'Taïwan', CA: 'Canada', IN: 'Inde', TR: 'Turquie', AU: 'Australie', AE: 'Émirats arabes unis', SG: 'Singapour', IL: 'Israël', MT: 'Malte', LT: 'Lituanie', RO: 'Roumanie', SK: 'Slovaquie', HU: 'Hongrie', SI: 'Slovénie', BG: 'Bulgarie', GR: 'Grèce', LU: 'Luxembourg', EE: 'Estonie', LV: 'Lettonie' };
+
+function badge(statutLabel, couleur, pays) {
+  const label = (pays && PAYS[pays]) ? PAYS[pays] : statutLabel;
   const s = document.createElement('span');
   s.className = 'badge';
   s.style.background = couleur;
@@ -125,7 +128,7 @@ function badge(statutLabel, couleur) {
     p.textContent = st.pictogramme;
     s.appendChild(p);
   }
-  s.appendChild(document.createTextNode(statutLabel));
+  s.appendChild(document.createTextNode(label));
   return s;
 }
 
@@ -219,7 +222,7 @@ function carteGroupe(g) {
   }
   const meta = document.createElement('div');
   meta.className = 'meta-ligne';
-  const st = badge(g.statutLabel, g.statutCouleur);
+  const st = badge(g.statutLabel, g.statutCouleur, g.siege_pays);
   st.classList.add('badge-statut');
   meta.appendChild(st);
   const siege = document.createElement('span');
@@ -372,10 +375,30 @@ function renderResults(data, q) {
   titre.textContent = `Résultats pour « ${q} »`;
   el.results.appendChild(titre);
   if (data.groupes.length > 0) {
-    const tg = document.createElement('h3');
-    tg.className = 'cat-sous-titre';
-    tg.textContent = `Marques (${data.groupes.length})`;
-    el.results.appendChild(tg);
+    const parSous = new Map();
+    for (const g of data.groupes) {
+      const sc = g.sous_categorie || 'Autres';
+      if (!parSous.has(sc)) parSous.set(sc, []);
+      parSous.get(sc).push(g);
+    }
+    for (const [sc, liste] of parSous) {
+      const tg = document.createElement('h3');
+      tg.className = 'cat-sous-titre';
+      tg.textContent = `${sc} (${liste.length})`;
+      el.results.appendChild(tg);
+      for (const g of liste) el.results.appendChild(carteGroupe(g));
+    }
+  }
+  if (data.horsPref && data.horsPref.length > 0) {
+    const th = document.createElement('h3');
+    th.className = 'cat-sous-titre hors-titre';
+    th.textContent = `Hors de votre préférence (${data.masquees}) — affichées pour information`;
+    el.results.appendChild(th);
+    for (const h of data.horsPref) {
+      const c = carteGroupe(h);
+      c.classList.add('carte-grisee');
+      el.results.appendChild(c);
+    }
   }
   if (data.groupes.length === 0) {
     const p = document.createElement('p');
@@ -400,13 +423,6 @@ function renderResults(data, q) {
     }
   }
 
-  for (const g of data.groupes) el.results.appendChild(carteGroupe(g));
-  if (data.masquees > 0) {
-    const p = document.createElement('p');
-    p.className = 'vide';
-    p.textContent = `${data.masquees} ligne(s) hors de votre périmètre masquée(s) — choisissez « Tout afficher » pour les voir.`;
-    el.results.appendChild(p);
-  }
 }
 
 function ligneDtDd(dl, dtText, ddNode) {
@@ -431,7 +447,20 @@ function listeSources(container, sourcesResolues) {
     num.className = 'num';
     num.textContent = `[${s.num}] `;
     li.appendChild(num);
-    li.appendChild(document.createTextNode(s.texte ?? 'voir document source (section Sources du PDF v4)'));
+    const texte = s.texte ?? 'voir document source (section Sources du PDF v4)';
+    const m = texte.match(/(https?:\/\/[^\s]+)/);
+    if (m) {
+      const before = document.createTextNode(texte.slice(0, m.index));
+      const a = document.createElement('a');
+      a.href = m[1];
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = m[1];
+      const after = document.createTextNode(texte.slice(m.index + m[1].length));
+      li.append(before, a, after);
+    } else {
+      li.appendChild(document.createTextNode(texte));
+    }
     ul.appendChild(li);
   }
   container.appendChild(ul);
@@ -459,11 +488,24 @@ async function showGroupe(id) {
   head.appendChild(h);
   el.detail.appendChild(head);
 
+  if (!g.recommande) {
+    const stDef = (state.meta?.statuts ?? []).find((x) => x.label === g.statutLabel);
+    const alert = document.createElement('div');
+    alert.className = 'fiche-alert';
+    alert.style.borderColor = g.statutCouleur;
+    const picto = document.createElement('span');
+    picto.textContent = stDef?.pictogramme ?? '✖';
+    const txt = document.createElement('span');
+    txt.innerHTML = `<b>${esc(g.statutLabel)}</b> — ${esc(stDef?.description ?? '')}`;
+    alert.append(picto, txt);
+    el.detail.appendChild(alert);
+  }
   const enBref = document.createElement('div');
   enBref.className = 'en-bref';
-  enBref.appendChild(badge(g.statutLabel, g.statutCouleur));
+  enBref.appendChild(badge(g.statutLabel, g.statutCouleur, g.siege_pays));
   const ebTxt = document.createElement('span');
-  ebTxt.textContent = `Contrôlé depuis ${g.siege} · ${g.lieux_production.length} lieu(x) de production · ${g.sources.length} source(s)`;
+  const dateTxt = state.meta?.dateDonnees ? ` · vérifié le ${state.meta.dateDonnees} (${state.meta.versionDonnees ?? ''})` : '';
+  ebTxt.textContent = `Contrôlé par ${g.groupe} · ${g.siege} · ${g.lieux_production.length} lieu(x) de production · ${g.sources.length} source(s)${dateTxt}`;
   enBref.appendChild(ebTxt);
   el.detail.appendChild(enBref);
 
