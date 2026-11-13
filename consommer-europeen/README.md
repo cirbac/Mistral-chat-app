@@ -4,7 +4,7 @@ Mini-app web pour acheter en connaissance de cause : **origine du capital, déte
 
 Les données viennent de la **grille sectorielle v4 du 11/10/2026** (`consommer_europeen_grille_sectorielle_v4_2026_10_11.pdf`, Google Drive du projet) :
 
-- 21 secteurs, 615 lignes, statuts **France / UE** (capital européen : UE, UK, Suisse, Norvège, France comprise), **Hautes démocraties** (JP, KR, TW, CA), **Vigilance**, **Hors zones**, **À écarter** (contrôle chinois)
+- 21 secteurs, 615 lignes, statuts **Europe** (capital européen : UE, UK, Suisse, Norvège, France comprise), **Hautes démocraties** (JP, KR, TW, CA), **Vigilance**, **Hors zones**, **À écarter** (contrôle chinois)
 - chaque groupe : marques, siège, statut, commentaire (détention / actionnaires), lieux de production, produits/modèles avec pays d'assemblage, sources numérotées
 
 ## Lancer en local
@@ -79,6 +79,20 @@ Identité visuelle depuis les fichiers officiels du Drive, servis dans `public/a
 - `assets/cats/*.jpg` — **illustrations des 21 catégories**, photos [Unsplash](https://unsplash.com) (licence Unsplash, usage gratuit) téléchargées en local (640 px) ; sources exactes dans `assets/cats/SOURCES.json`
 
 Palette extraite du logo : **noir `#040405`**, **anthracite `#282828`**, gris clair `#e5e5e5` / `#f1f1f1`, blanc — variables CSS `--cirba-*` dans `public/style.css`.
+
+### Design v2 (statuts et cartes)
+
+Le bloc « Design v2 » en fin de `public/style.css` définit les jetons de l'interface : fond `#0B1630`, surfaces `#14244D` / `#1B2E5E`, bordure `#22335E`, texte `#EEF2F7` / `#A9B6D3`, or `#FFD200`, et une couleur + un fond de tuile par statut (`--st-rang1`, `--st-rang1-fond`, …). Chaque carte porte la classe `st-<statut>` ; le pictogramme SVG vient de `PICTOS` dans `public/app.js`.
+
+### Vérifier le rendu sans navigateur
+
+```bash
+npm i --no-save playwright@1.63.0 && npx playwright install chromium
+npm run build && PORT=3000 npm start &
+npm run apercu -- http://localhost:3000 apercu
+```
+
+Le script écrit des captures (bureau 1280 px, mobile 390 px) et `apercu/rapport.md` : une ligne OK / ÉCHEC par règle de la maquette (couleurs de statut, 2 colonnes, bloc « Hors de votre préférence », fiche, contraste, débordement mobile, erreurs JavaScript). Le workflow `.github/workflows/apercu.yml` fait la même chose sur GitHub et publie le rapport dans le résumé de l'exécution.
 
 ## Extensions web (sources trouvées en ligne)
 

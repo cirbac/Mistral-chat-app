@@ -1,0 +1,54 @@
+# Aperçu du design sans navigateur local : à chaque push ou PR qui touche le front,
+# le serveur démarre, tools/apercu.mjs prend des captures (bureau + mobile) et vérifie
+# les règles de la maquette. Résultat lisible en texte dans le résumé de l'exécution,
+# captures téléchargeables dans l'artefact « apercu-design ».
+name: Aperçu design
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'consommer-europeen/public/**'
+      - 'consommer-europeen/data/grille.json'
+      - 'consommer-europeen/tools/apercu.mjs'
+  push:
+    branches: [main]
+    paths:
+      - 'consommer-europeen/public/**'
+      - 'consommer-europeen/data/grille.json'
+      - 'consommer-europeen/tools/apercu.mjs'
+
+jobs:
+  apercu:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: consommer-europeen
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm run build
+      - name: Installer Playwright (Chromium)
+        run: |
+          npm i --no-save playwright@1.63.0
+          npx playwright install --with-deps chromium
+      - name: Démarrer le serveur
+        run: |
+          PORT=3999 RL_LIMIT=100000 node dist/server.js > serveur.log 2>&1 &
+          for i in $(seq 1 60); do curl -sf http://localhost:3999/healthz && break; sleep 1; done
+      - name: Captures et vérifications
+        run: node tools/apercu.mjs http://localhost:3999 apercu
+      - name: Résumé
+        if: always()
+        run: cat apercu/rapport.md >> "$GITHUB_STEP_SUMMARY" || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: apercu-design
+          path: |
+            consommer-europeen/apercu/
+            consommer-europeen/serveur.log
+          retention-days: 14

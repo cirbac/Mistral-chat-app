@@ -114,6 +114,55 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && !el.detailModal.classList.contains('hidden')) closeDetail();
 });
 
+// --- Design v2 : statuts, pictogrammes, préférences -------------------------
+const PICTOS = {
+  rang1: '<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/>',
+  rang2: '<path d="M12 3l7 3v5c0 4.5-3 8.2-7 10-4-1.8-7-5.5-7-10V6z"/>',
+  vigilance: '<path d="M12 3.5l9.5 16.5h-19z"/><path d="M12 10v4.5M12 17.5v.01"/>',
+  hors_zones: '<circle cx="12" cy="12" r="9"/><path d="M8 12h8"/>',
+  a_ecarter: '<path d="M8.3 3h7.4L21 8.3v7.4L15.7 21H8.3L3 15.7V8.3z"/><path d="M9 9l6 6M15 9l-6 6"/>',
+  propose: '<circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/>',
+};
+
+/** Pictogramme SVG d'un statut (chaînes constantes : aucune donnée utilisateur dans innerHTML). */
+function picto(statut, taille = 24) {
+  const span = document.createElement('span');
+  span.className = 'picto-svg';
+  span.setAttribute('aria-hidden', 'true');
+  span.innerHTML = `<svg width="${taille}" height="${taille}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">${PICTOS[statut] || PICTOS.hors_zones}</svg>`;
+  return span;
+}
+
+function statutMeta(id) {
+  return (state.meta?.statuts ?? []).find((x) => x.id === id) || { id, label: id, description: '' };
+}
+
+/** Libellés courts du sélecteur de préférence (les descriptions restent celles de grille.json). */
+const PREF_COURT = { fr: 'France', ue: 'Europe', hautes_democraties: 'Europe + démocraties alliées', all: 'Tout' };
+
+/** Mots significatifs d'un texte, sans accents ni pluriel simple (« Smartphones » → « smartphone »). */
+function motsDe(t) {
+  return (t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .split(/[^a-z0-9]+/).filter((m) => m.length >= 4).map((m) => m.replace(/[sx]$/, ''));
+}
+
+/** Sous-catégories visées par une fiche : la sienne, sinon celles dont le nom apparaît dans sa description. */
+function sousCatsVisees(g, sousCats) {
+  if (g.sous_categorie) return new Set([g.sous_categorie]);
+  const texte = new Set(motsDe([g.commentaire, g.histoire, ...(g.aliases || [])].join(' ')));
+  return new Set(sousCats.filter((sc) => motsDe(sc).some((m) => texte.has(m))));
+}
+
+function changerPref(id) {
+  if (!state.meta.preferences.some((p) => p.id === id) || id === state.pref) return;
+  state.pref = id;
+  try { localStorage.setItem('ce-pref', state.pref); } catch {}
+  renderPrefSelect();
+  if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
+  else if (state.view === 'catalogue') showCatalogue(true);
+  else runSearch();
+}
+
 const PAYS = { FR: 'France', DE: 'Allemagne', IT: 'Italie', ES: 'Espagne', SE: 'Suède', NL: 'Pays-Bas', BE: 'Belgique', CH: 'Suisse', GB: 'Royaume-Uni', DK: 'Danemark', FI: 'Finlande', NO: 'Norvège', PL: 'Pologne', CZ: 'Tchéquie', PT: 'Portugal', AT: 'Autriche', IE: 'Irlande', US: 'États-Unis', CN: 'Chine', JP: 'Japon', KR: 'Corée du Sud', TW: 'Taïwan', CA: 'Canada', IN: 'Inde', TR: 'Turquie', AU: 'Australie', AE: 'Émirats arabes unis', SG: 'Singapour', IL: 'Israël', MT: 'Malte', LT: 'Lituanie', RO: 'Roumanie', SK: 'Slovaquie', HU: 'Hongrie', SI: 'Slovénie', BG: 'Bulgarie', GR: 'Grèce', LU: 'Luxembourg', EE: 'Estonie', LV: 'Lettonie' };
 
 function badge(statutLabel, couleur, pays) {
@@ -155,10 +204,23 @@ function renderPrefSelect() {
   for (const p of state.meta.preferences) {
     const opt = document.createElement('option');
     opt.value = p.id;
-    opt.textContent = p.label;
+    opt.textContent = PREF_COURT[p.id] || p.label;
     opt.title = p.description;
     if (p.id === state.pref) opt.selected = true;
     el.pref.appendChild(opt);
+  }
+  // Sélecteur segmenté (écrans larges) : mêmes valeurs que la liste déroulante (mobile)
+  const seg = document.getElementById('pref-seg');
+  if (!seg) return;
+  seg.querySelectorAll('button').forEach((b) => b.remove());
+  for (const p of state.meta.preferences) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = PREF_COURT[p.id] || p.label;
+    b.title = p.description;
+    b.setAttribute('aria-pressed', String(p.id === state.pref));
+    b.addEventListener('click', () => changerPref(p.id));
+    seg.appendChild(b);
   }
 }
 
@@ -195,49 +257,49 @@ function renderHome() {
 
 function carteGroupe(g) {
   const carte = document.createElement('div');
-  carte.className = 'carte';
-  carte.style.borderLeft = `6px solid ${g.statutCouleur || '#888'}`;
-  if (g.logo) {
-    const img = document.createElement('img');
-    img.className = 'carte-logo';
-    img.src = g.logo;
-    img.alt = '';
-    img.loading = 'lazy';
-    img.onerror = () => img.remove();
-    carte.appendChild(img);
-  }
+  carte.className = `carte carte-v2 st-${g.statut}`;
+  const tuile = document.createElement('span');
+  tuile.className = 'carte-tuile';
+  tuile.appendChild(picto(g.statut, 24));
+  carte.appendChild(tuile);
   const corps = document.createElement('div');
   corps.className = 'carte-corps';
+  const lib = document.createElement('span');
+  lib.className = 'carte-statut';
+  lib.textContent = g.statutLabel;
   const h = document.createElement('h3');
   h.textContent = g.groupe;
+  const ctrl = document.createElement('p');
+  ctrl.className = 'carte-controle';
+  ctrl.textContent = `Contrôle : ${g.siege}`;
   const marques = document.createElement('p');
-  marques.className = 'marques';
-  marques.textContent = g.marques.join(', ');
-  corps.append(h, marques);
-  if (g.histoire) {
-    const hist = document.createElement('p');
-    hist.className = 'carte-histoire';
-    hist.textContent = g.histoire.split(/(?<=[.!?])\s+/)[0];
-    corps.appendChild(hist);
-  }
-  const meta = document.createElement('div');
-  meta.className = 'meta-ligne';
-  const st = badge(g.statutLabel, g.statutCouleur, g.siege_pays);
-  st.classList.add('badge-statut');
-  meta.appendChild(st);
-  const siege = document.createElement('span');
-  siege.textContent = `Contrôlé depuis ${g.siege}`;
-  meta.appendChild(siege);
+  marques.className = 'carte-marques';
+  marques.textContent = g.marques.join(' · ');
+  corps.append(lib, h, ctrl, marques);
   if (g.recommande && state.pref === 'all') {
     const tag = document.createElement('span');
     tag.className = 'tag-recommande';
     tag.textContent = '✓ recommandé';
-    meta.appendChild(tag);
+    corps.appendChild(tag);
   }
-  corps.appendChild(meta);
   carte.appendChild(corps);
+  const logo = document.createElement('span');
+  logo.className = 'carte-avatar';
+  logo.textContent = (g.groupe || '?').trim().charAt(0).toUpperCase();
+  if (g.logo && !g.logo.startsWith('data:')) {
+    const img = document.createElement('img');
+    img.src = g.logo;
+    img.alt = '';
+    img.loading = 'lazy';
+    // Logo absent (404) : on revient à l'initiale
+    img.onerror = () => { logo.textContent = (g.groupe || '?').trim().charAt(0).toUpperCase(); };
+    logo.textContent = '';
+    logo.appendChild(img);
+  }
+  carte.appendChild(logo);
   carte.setAttribute('role', 'button');
   carte.tabIndex = 0;
+  carte.setAttribute('aria-label', `${g.groupe}, ${g.statutLabel}`);
   carte.addEventListener('click', () => showGroupe(g.id));
   carte.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' || e.key === ' ') {
@@ -370,59 +432,97 @@ function renderResults(data, q) {
     chip.addEventListener('click', () => showSecteur(s.id));
     el.chips.appendChild(chip);
   }
+  const entete = document.createElement('div');
+  entete.className = 'res-entete';
   const titre = document.createElement('h2');
   titre.className = 'home-titre';
-  titre.textContent = `Résultats pour « ${q} »`;
-  el.results.appendChild(titre);
-  if (data.groupes.length > 0) {
-    const parSous = new Map();
-    for (const g of data.groupes) {
-      const sc = g.sous_categorie || 'Autres';
-      if (!parSous.has(sc)) parSous.set(sc, []);
-      parSous.get(sc).push(g);
-    }
-    for (const [sc, liste] of parSous) {
-      const tg = document.createElement('h3');
-      tg.className = 'cat-sous-titre';
-      tg.textContent = `${sc} (${liste.length})`;
-      el.results.appendChild(tg);
-      for (const g of liste) el.results.appendChild(carteGroupe(g));
-    }
+  titre.textContent = `Résultats pour « ${data.corrige || q} »`;
+  const resume = document.createElement('p');
+  resume.className = 'res-resume';
+  const n = data.groupes.length;
+  resume.textContent = `${n} marque${n > 1 ? 's' : ''} correspond${n > 1 ? 'ent' : ''} à votre préférence` +
+    (data.masquees > 0 ? ` · ${data.masquees} hors préférence, listée${data.masquees > 1 ? 's' : ''} plus bas` : '');
+  entete.append(titre, resume);
+  if (data.corrige) {
+    const c = document.createElement('p');
+    c.className = 'res-corrige';
+    c.textContent = `Aucun résultat pour « ${q} » : nous avons cherché « ${data.corrige} ».`;
+    entete.appendChild(c);
   }
-  if (data.horsPref && data.horsPref.length > 0) {
-    const th = document.createElement('h3');
-    th.className = 'cat-sous-titre hors-titre';
-    th.textContent = `Hors de votre préférence (${data.masquees}) — affichées pour information`;
-    el.results.appendChild(th);
-    for (const h of data.horsPref) {
-      const c = carteGroupe(h);
-      c.classList.add('carte-grisee');
-      el.results.appendChild(c);
-    }
-  }
-  if (data.groupes.length === 0) {
+  el.results.appendChild(entete);
+
+  if (n === 0 && data.masquees === 0) {
     const p = document.createElement('p');
     p.className = 'vide';
-    if (data.masquees > 0) {
-      p.textContent = `${data.masquees} marque${data.masquees > 1 ? 's' : ''} correspond${data.masquees > 1 ? 'ent' : ''} mais ${data.masquees > 1 ? 'sont' : 'est'} hors de votre préférence.`;
-      el.results.appendChild(p);
-      const voir = document.createElement('button');
-      voir.type = 'button';
-      voir.className = 'chip chip-active';
-      voir.textContent = 'Les afficher (Tout afficher)';
-      voir.addEventListener('click', () => {
-        state.pref = 'all';
-        try { localStorage.setItem('ce-pref', 'all'); } catch {}
-        renderPrefSelect();
-        runSearch(true);
-      });
-      el.results.appendChild(voir);
-    } else {
-      p.textContent = `Aucun résultat pour « ${q} ».`;
-      el.results.appendChild(p);
-    }
+    p.textContent = `Aucun résultat pour « ${q} ».`;
+    el.results.appendChild(p);
   }
 
+  // Regroupement par secteur quand les résultats en couvrent plusieurs (« smartphone » : fabricants, opérateurs…)
+  const groupes = new Map();
+  for (const g of data.groupes) {
+    const cle = g.secteurNom || '';
+    if (!groupes.has(cle)) groupes.set(cle, []);
+    groupes.get(cle).push(g);
+  }
+  const titrer = groupes.size > 1 && n >= 4;
+  for (const [secteurNom, liste] of groupes) {
+    if (titrer) {
+      const h = document.createElement('h3');
+      h.className = 'res-groupe-titre';
+      h.textContent = secteurNom;
+      el.results.appendChild(h);
+    }
+    const grille = document.createElement('div');
+    grille.className = 'grille-cartes';
+    for (const g of liste) grille.appendChild(carteGroupe(g));
+    el.results.appendChild(grille);
+  }
+
+  if (data.masquees > 0) el.results.appendChild(blocHorsPref(data));
+}
+
+/** Les marques qui correspondent mais sortent de la préférence : affichées pour information, sans changer de préférence. */
+function blocHorsPref(data) {
+  const sec = document.createElement('section');
+  sec.className = 'hors-pref';
+  sec.setAttribute('aria-labelledby', 'hors-pref-titre');
+  const tete = document.createElement('div');
+  tete.className = 'hors-pref-tete';
+  const h = document.createElement('h2');
+  h.id = 'hors-pref-titre';
+  h.textContent = `Hors de votre préférence (${data.masquees})`;
+  const note = document.createElement('span');
+  note.textContent = 'Affichées pour information, sans changer votre préférence';
+  tete.append(h, note);
+  sec.appendChild(tete);
+  const liste = document.createElement('div');
+  liste.className = 'hors-pref-liste';
+  for (const g of data.horsPref || []) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = `hors-pref-item st-${g.statut}`;
+    b.appendChild(picto(g.statut, 20));
+    const nom = document.createElement('span');
+    nom.className = 'hors-pref-nom';
+    nom.textContent = g.groupe;
+    const st = document.createElement('span');
+    st.className = 'hors-pref-statut';
+    st.textContent = g.siege_pays && g.siege_pays !== '??' ? `${g.statutLabel} · ${g.siege_pays}` : g.statutLabel;
+    b.append(nom, st);
+    b.addEventListener('click', () => showGroupe(g.id));
+    liste.appendChild(b);
+  }
+  sec.appendChild(liste);
+  if ((data.horsPref || []).length < data.masquees) {
+    const tout = document.createElement('button');
+    tout.type = 'button';
+    tout.className = 'chip';
+    tout.textContent = `Voir les ${data.masquees} avec « Tout »`;
+    tout.addEventListener('click', () => changerPref('all'));
+    sec.appendChild(tout);
+  }
+  return sec;
 }
 
 function ligneDtDd(dl, dtText, ddNode) {
@@ -439,10 +539,11 @@ function listeSources(container, sourcesResolues) {
   const h = document.createElement('h3');
   h.textContent = 'Sources';
   container.appendChild(h);
-  const ul = document.createElement('ul');
-  ul.className = 'sources';
+  const ol = document.createElement('ol');
+  ol.className = 'sources';
   for (const s of sourcesResolues) {
     const li = document.createElement('li');
+    li.id = `src-${s.num}`;
     const num = document.createElement('span');
     num.className = 'num';
     num.textContent = `[${s.num}] `;
@@ -450,20 +551,18 @@ function listeSources(container, sourcesResolues) {
     const texte = s.texte ?? 'voir document source (section Sources du PDF v4)';
     const m = texte.match(/(https?:\/\/[^\s]+)/);
     if (m) {
-      const before = document.createTextNode(texte.slice(0, m.index));
       const a = document.createElement('a');
       a.href = m[1];
       a.target = '_blank';
       a.rel = 'noopener noreferrer';
       a.textContent = m[1];
-      const after = document.createTextNode(texte.slice(m.index + m[1].length));
-      li.append(before, a, after);
+      li.append(document.createTextNode(texte.slice(0, m.index)), a, document.createTextNode(texte.slice(m.index + m[1].length)));
     } else {
       li.appendChild(document.createTextNode(texte));
     }
-    ul.appendChild(li);
+    ol.appendChild(li);
   }
-  container.appendChild(ul);
+  container.appendChild(ol);
 }
 
 async function showGroupe(id) {
@@ -472,145 +571,176 @@ async function showGroupe(id) {
   openDetail();
   el.detail.innerHTML = '';
 
+  // En-tête : logo ou initiale, nom, secteur
   const head = document.createElement('div');
   head.className = 'fiche-head';
-  if (g.logo) {
+  const av = document.createElement('span');
+  av.className = 'carte-avatar fiche-avatar';
+  av.textContent = (g.groupe || '?').trim().charAt(0).toUpperCase();
+  if (g.logo && !g.logo.startsWith('data:')) {
     const img = document.createElement('img');
-    img.className = 'fiche-logo';
     img.src = g.logo;
     img.alt = `Logo ${g.groupe}`;
-    img.loading = 'lazy';
-    img.onerror = () => img.remove();
-    head.appendChild(img);
+    img.onerror = () => { av.textContent = (g.groupe || '?').trim().charAt(0).toUpperCase(); };
+    av.textContent = '';
+    av.appendChild(img);
   }
+  const titres = document.createElement('div');
   const h = document.createElement('h2');
+  h.id = 'detail-titre';
   h.textContent = g.groupe;
-  head.appendChild(h);
+  const sous = document.createElement('p');
+  sous.className = 'fiche-sous';
+  sous.textContent = g.secteur.nom;
+  titres.append(h, sous);
+  head.append(av, titres);
   el.detail.appendChild(head);
 
-  if (!g.recommande) {
-    const stDef = (state.meta?.statuts ?? []).find((x) => x.label === g.statutLabel);
-    const alert = document.createElement('div');
-    alert.className = 'fiche-alert';
-    alert.style.borderColor = g.statutCouleur;
-    const picto = document.createElement('span');
-    picto.textContent = stDef?.pictogramme ?? '✖';
-    const txt = document.createElement('span');
-    txt.innerHTML = `<b>${esc(g.statutLabel)}</b> — ${esc(stDef?.description ?? '')}`;
-    alert.append(picto, txt);
-    el.detail.appendChild(alert);
-  }
-  const enBref = document.createElement('div');
-  enBref.className = 'en-bref';
-  enBref.appendChild(badge(g.statutLabel, g.statutCouleur, g.siege_pays));
-  const ebTxt = document.createElement('span');
-  const dateTxt = state.meta?.dateDonnees ? ` · vérifié le ${state.meta.dateDonnees} (${state.meta.versionDonnees ?? ''})` : '';
-  ebTxt.textContent = `Contrôlé par ${g.groupe} · ${g.siege} · ${g.lieux_production.length} lieu(x) de production · ${g.sources.length} source(s)${dateTxt}`;
-  enBref.appendChild(ebTxt);
-  el.detail.appendChild(enBref);
+  // Bandeau de statut : pictogramme, libellé, explication tirée de grille.json
+  const st = statutMeta(g.statut);
+  const bandeau = document.createElement('div');
+  bandeau.className = `fiche-statut st-${g.statut}`;
+  bandeau.appendChild(picto(g.statut, 32));
+  const bt = document.createElement('div');
+  const bl = document.createElement('p');
+  bl.className = 'fiche-statut-libelle';
+  bl.textContent = g.statutLabel;
+  const bd = document.createElement('p');
+  bd.className = 'fiche-statut-desc';
+  bd.textContent = st.description || '';
+  bt.append(bl, bd);
+  bandeau.appendChild(bt);
+  el.detail.appendChild(bandeau);
 
-  const badges = document.createElement('div');
-  badges.style.display = 'flex';
-  badges.style.gap = '8px';
-  badges.style.alignItems = 'center';
-  badges.appendChild(badge(g.statutLabel, g.statutCouleur));
-  if (g.recommande) {
-    const tag = document.createElement('span');
-    tag.className = 'tag-recommande';
-    tag.textContent = '✓ recommandé avec votre préférence';
-    badges.appendChild(tag);
-  }
-  el.detail.appendChild(badges);
+  // En bref
+  const hb = document.createElement('h3');
+  hb.textContent = 'En bref';
+  const dl = document.createElement('dl');
+  dl.className = 'en-bref-v2';
+  ligneDtDd(dl, 'Contrôle', g.siege);
+  ligneDtDd(dl, 'Production connue', g.lieux_production.length ? g.lieux_production.join(', ') : 'Non renseignée');
+  ligneDtDd(dl, 'Marques', g.marques.join(', '));
+  ligneDtDd(dl, 'Sources', g.sources.length ? `${g.sources.length} source${g.sources.length > 1 ? 's' : ''} (en bas de fiche)` : 'Aucune source pour l’instant');
+  const md = state.meta?.meta;
+  if (md?.dateDonnees) ligneDtDd(dl, 'Données', `${md.versionDonnees ? md.versionDonnees + ' du ' : ''}${md.dateDonnees}`);
+  el.detail.append(hb, dl);
 
-  const histoire = g.histoire || (g.commentaire || '').split(/(?<=[.!?])\s+/).slice(0, 2).join(' ');
-  if (histoire) {
+  // Alternatives européennes, pour une marque hors préférence
+  if (!g.recommande && g.secteur?.id) {
+    try {
+      const sec = await api(`/api/secteurs/${g.secteur.id}?pref=${state.pref}`);
+      const proches = new Set((g.aliases || []).map((a) => a.toLowerCase()));
+      const visees = sousCatsVisees(g, sec.sous_categories || []);
+      const alts = (sec.groupes ?? [])
+        .filter((x) => x.recommande && x.id !== g.id)
+        .map((x) => ({
+          x,
+          score: (x.aliases || []).filter((a) => proches.has(a.toLowerCase())).length + ([...sousCatsVisees(x, sec.sous_categories || [])].some((v) => visees.has(v)) ? 3 : 0),
+        }))
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 4);
+      if (alts.length > 0 && alts[0].score > 0) {
+        const ha = document.createElement('h3');
+        ha.textContent = 'Alternatives européennes';
+        const list = document.createElement('div');
+        list.className = 'alt-grille';
+        for (const { x, score } of alts) {
+          if (score === 0) continue;
+          const b = document.createElement('button');
+          b.type = 'button';
+          b.className = `alt-carte st-${x.statut}`;
+          const t = document.createElement('span');
+          t.className = 'carte-tuile petite';
+          t.appendChild(picto(x.statut, 20));
+          const txt = document.createElement('span');
+          txt.className = 'alt-texte';
+          const nm = document.createElement('strong');
+          nm.textContent = x.groupe;
+          const sb = document.createElement('span');
+          sb.textContent = `${x.statutLabel} · contrôle ${x.siege}`;
+          txt.append(nm, sb);
+          b.append(t, txt);
+          b.addEventListener('click', () => showGroupe(x.id));
+          list.appendChild(b);
+        }
+        const note = document.createElement('p');
+        note.className = 'alt-note';
+        note.textContent = 'Marques recommandées avec votre préférence, dans la même catégorie de produits.';
+        el.detail.append(ha, list, note);
+      }
+    } catch {}
+  }
+
+  // Histoire (seulement si elle n'est pas un doublon du commentaire)
+  if (g.histoire) {
     const hh = document.createElement('h3');
-    hh.textContent = 'Histoire & positionnement';
+    hh.textContent = 'Histoire et positionnement';
     const p = document.createElement('p');
     p.className = 'fiche-histoire';
-    p.textContent = histoire;
+    p.textContent = g.histoire;
     el.detail.append(hh, p);
   }
 
+  // Détention : les renvois [12] deviennent des liens vers la liste des sources
+  if (g.commentaire) {
+    const hc = document.createElement('h3');
+    hc.textContent = 'Détention et contrôle';
+    const p = document.createElement('p');
+    p.className = 'fiche-texte';
+    const morceaux = g.commentaire.split(/\s*\[(\d+(?:\s*,\s*\d+)*)\]/);
+    morceaux.forEach((m, i) => {
+      if (i % 2 === 0) {
+        if (m) p.appendChild(document.createTextNode(m));
+      } else {
+        for (const num of m.split(',').map((x) => x.trim()).filter(Boolean)) {
+          const sup = document.createElement('sup');
+          const a = document.createElement('a');
+          a.href = `#src-${num}`;
+          a.textContent = num;
+          a.addEventListener('click', (e) => {
+            e.preventDefault();
+            el.detail.querySelector(`#src-${CSS.escape(num)}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          });
+          sup.appendChild(a);
+          p.appendChild(sup);
+        }
+      }
+    });
+    el.detail.append(hc, p);
+  }
+
+  const liens = document.createElement('div');
+  liens.className = 'fiche-liens';
   if (g.site) {
     const a = document.createElement('a');
     a.className = 'lien-externe';
     a.href = g.site;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
-    a.textContent = `Site officiel ↗ (${g.site.replace(/^https?:\/\/(www\.)?/, '')})`;
-    el.detail.appendChild(a);
+    a.textContent = `Site officiel (${g.site.replace(/^https?:\/\/(www\.)?/, '')})`;
+    liens.appendChild(a);
   }
-
-  const dl = document.createElement('dl');
-  ligneDtDd(dl, 'Secteur', `${g.secteur.num} · ${g.secteur.nom}`);
-  ligneDtDd(dl, 'Siège', g.siege);
-  ligneDtDd(dl, 'Marques', g.marques.join(', '));
-  el.detail.appendChild(dl);
-
   if (g.openfoodfacts) {
     const a = document.createElement('a');
     a.className = 'lien-externe';
     a.href = g.openfoodfacts;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
-    a.textContent = 'Voir la marque sur Open Food Facts ↗';
-    el.detail.appendChild(a);
+    a.textContent = 'Voir sur Open Food Facts';
+    liens.appendChild(a);
   }
-
-  if (g.commentaire) {
-    const h = document.createElement('h3');
-    h.textContent = 'Détention, contrôle et commentaires';
-    const p = document.createElement('p');
-    p.style.fontSize = '0.9rem';
-    p.textContent = g.commentaire;
-    el.detail.append(h, p);
-  }
-
-  if (g.lieux_production.length > 0) {
-    const h = document.createElement('h3');
-    h.textContent = 'Lieux de production connus';
-    const ul = document.createElement('ul');
-    for (const l of g.lieux_production) {
-      const li = document.createElement('li');
-      li.textContent = l;
-      ul.appendChild(li);
-    }
-    el.detail.append(h, ul);
-  }
+  if (liens.childNodes.length) el.detail.appendChild(liens);
 
   if (g.certifications.length > 0) {
-    const h = document.createElement('h3');
-    h.textContent = 'Certifications';
+    const hc = document.createElement('h3');
+    hc.textContent = 'Certifications';
     const ul = document.createElement('ul');
     for (const c of g.certifications) {
       const li = document.createElement('li');
       li.textContent = c;
       ul.appendChild(li);
     }
-    el.detail.append(h, ul);
-  }
-
-  if (!g.recommande && g.secteur?.id) {
-    try {
-      const sec = await api(`/api/secteurs/${g.secteur.id}?pref=${state.pref}`);
-      const alts = (sec.groupes ?? []).filter((x) => x.recommande && x.id !== g.id).slice(0, 4);
-      if (alts.length > 0) {
-        const h = document.createElement('h3');
-        h.textContent = 'Alternatives européennes';
-        const list = document.createElement('div');
-        list.className = 'alt-list';
-        for (const a of alts) {
-          const b = document.createElement('button');
-          b.type = 'button';
-          b.className = 'chip';
-          b.textContent = a.groupe;
-          b.addEventListener('click', () => showGroupe(a.id));
-          list.appendChild(b);
-        }
-        el.detail.append(h, list);
-      }
-    } catch {}
+    el.detail.append(hc, ul);
   }
 
   listeSources(el.detail, g.sourcesResolues);
@@ -964,13 +1094,7 @@ function renderSuggestions(data, q) {
   el.suggestions.classList.remove('hidden');
 }
 
-el.pref.addEventListener('change', () => {
-  state.pref = el.pref.value;
-  try { localStorage.setItem('ce-pref', state.pref); } catch {}
-  if (state.view === 'sector' && state.secteurId) showSecteur(state.secteurId);
-  else if (state.view === 'catalogue') showCatalogue(true);
-  else runSearch();
-});
+el.pref.addEventListener('change', () => changerPref(el.pref.value));
 
 
 el.logoHome.addEventListener('click', (e) => {

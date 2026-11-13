@@ -67,7 +67,7 @@
  "statuts": [
   {
    "id": "rang1",
-   "label": "France / UE",
+   "label": "Europe",
    "couleur": "#4CC38A",
    "description": "Capital et contrôle européens, France comprise (UE, Royaume-Uni, Suisse, Norvège). Le lieu de production peut varier selon le produit.",
    "pictogramme": "●"
@@ -82,7 +82,7 @@
   {
    "id": "vigilance",
    "label": "Vigilance",
-   "couleur": "#F2884B",
+   "couleur": "#F2B84B",
    "description": "Groupe éligible mais avec un actionnaire chinois significatif, un transfert d'activité en cours, une production délocalisée ou un changement de contrôle récent.",
    "pictogramme": "▲"
   },
@@ -112,17 +112,17 @@
   {
    "id": "fr",
    "label": "France",
-   "description": "Groupes contrôlés en France (siège en France, statut « France / UE » ou Vigilance)."
+   "description": "Groupes contrôlés en France (siège en France, statut « Europe » ou Vigilance)."
   },
   {
    "id": "ue",
    "label": "Union européenne",
-   "description": "Capital et contrôle européens : UE, Royaume-Uni, Suisse, Norvège (« France / UE » + Vigilance)."
+   "description": "Capital et contrôle européens : UE, Royaume-Uni, Suisse, Norvège (« Europe » + Vigilance)."
   },
   {
    "id": "hautes_democraties",
    "label": "Hautes démocraties (annexe)",
-   "description": "Préférence UE + Japon, Corée du Sud, Taïwan, Canada (« France / UE » + « Hautes démocraties » + Vigilance)."
+   "description": "Préférence UE + Japon, Corée du Sud, Taïwan, Canada (« Europe » + « Hautes démocraties » + Vigilance)."
   },
   {
    "id": "all",

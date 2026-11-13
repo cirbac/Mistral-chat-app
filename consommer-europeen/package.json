@@ -8,7 +8,8 @@
   "build": "tsc",
   "start": "node dist/server.js",
   "check:data": "node tools/check-data.mjs",
-  "test:search": "node tools/test-recherche.mjs --strict"
+  "test:search": "node tools/test-recherche.mjs --strict",
+  "apercu": "node tools/apercu.mjs"
  },
  "dependencies": {
   "compression": "^1.8.2",

@@ -1609,3 +1609,278 @@ body.hero-compact .chips {
   color: var(--accent);
   word-break: break-all;
 }
+
+/* ==========================================================================
+   Design v2 (maquette « Consommer européen ») : statuts, cartes, préférence,
+   résultats, fiche. Bloc ajouté en fin de fichier : il surcharge les règles
+   précédentes sans les supprimer.
+   ========================================================================== */
+:root {
+  --fond: #0b1630;
+  --surface: #14244d;
+  --surface-elevee: #1b2e5e;
+  --bordure: #22335e;
+  --texte: #eef2f7;
+  --texte-doux: #a9b6d3;
+  --or: #ffd200;
+  --st-rang1: #4cc38a;
+  --st-rang1-fond: #1d3d57;
+  --st-rang2: #6cb4ff;
+  --st-rang2-fond: #223b69;
+  --st-vigilance: #f2b84b;
+  --st-vigilance-fond: #383c4d;
+  --st-hors_zones: #a3adc2;
+  --st-hors_zones-fond: #2b3a60;
+  --st-a_ecarter: #ff8080;
+  --st-a_ecarter-fond: #3a3355;
+  --st-propose: #b79cff;
+  --st-propose-fond: #2f2f5e;
+}
+
+/* Couleur d'accent et fond de tuile par statut (classe st-<id>) */
+.st-rang1 { --st: var(--st-rang1); --st-fond: var(--st-rang1-fond); }
+.st-rang2 { --st: var(--st-rang2); --st-fond: var(--st-rang2-fond); }
+.st-vigilance { --st: var(--st-vigilance); --st-fond: var(--st-vigilance-fond); }
+.st-hors_zones { --st: var(--st-hors_zones); --st-fond: var(--st-hors_zones-fond); }
+.st-a_ecarter { --st: var(--st-a_ecarter); --st-fond: var(--st-a_ecarter-fond); }
+.st-propose { --st: var(--st-propose); --st-fond: var(--st-propose-fond); }
+
+.picto-svg { display: inline-flex; line-height: 0; }
+
+/* Badges restants (suggestions, produits) : texte foncé sur fond pastel, contraste AA */
+.badge { color: #0b1630; font-weight: 600; }
+
+/* --- Cartes ------------------------------------------------------------- */
+.carte.carte-v2 {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) 48px;
+  align-items: start;
+  gap: 16px;
+  background: var(--surface);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border: 1px solid var(--bordure);
+  border-left: 1px solid var(--bordure);
+  border-radius: var(--r-carte);
+  padding: 18px 20px;
+  transition: border-color 0.15s, background 0.15s;
+}
+.carte.carte-v2:hover,
+.carte.carte-v2:focus-visible {
+  background: var(--surface-elevee);
+  border-color: var(--st);
+  border-left-color: var(--st);
+}
+.carte.carte-v2:focus-visible { outline: 2px solid var(--or); outline-offset: 2px; }
+.carte-tuile {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  background: var(--st-fond);
+  color: var(--st);
+}
+.carte-tuile.petite { width: 40px; height: 40px; border-radius: 10px; }
+.carte-statut {
+  display: block;
+  font-size: var(--fs-12);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--st);
+  margin-bottom: 2px;
+}
+.carte.carte-v2 h3 { margin: 0 0 4px; font-size: var(--fs-20); line-height: 1.25; }
+.carte-controle { margin: 0 0 6px; font-size: var(--fs-14); color: var(--texte-doux); }
+.carte-marques {
+  margin: 0;
+  font-size: var(--fs-14);
+  color: var(--texte);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.carte-v2 .tag-recommande { display: inline-block; margin-top: 8px; }
+.carte-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  background: var(--surface-elevee);
+  border: 1px solid var(--bordure);
+  color: var(--texte-doux);
+  font-weight: 700;
+  font-size: var(--fs-20);
+  overflow: hidden;
+}
+.carte-avatar img { width: 100%; height: 100%; object-fit: contain; background: #fff; padding: 5px; }
+.carte-grisee.carte-v2 { opacity: 0.55; filter: none; }
+
+/* --- Préférence : sélecteur segmenté (écran large) / liste (mobile) ----- */
+.pref-seg {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  border-radius: var(--r-pilule);
+  background: var(--surface);
+  border: 1px solid var(--bordure);
+}
+.pref-seg-titre { font-size: var(--fs-12); color: var(--texte-doux); padding: 0 8px 0 10px; }
+.pref-seg button {
+  border: 0;
+  background: transparent;
+  color: var(--texte-doux);
+  font: inherit;
+  font-size: var(--fs-14);
+  padding: 6px 12px;
+  min-height: 32px;
+  border-radius: var(--r-pilule);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.pref-seg button:hover { color: var(--texte); }
+.pref-seg button[aria-pressed='true'] { background: var(--or); color: #0b1630; font-weight: 700; }
+.pref-seg button:focus-visible { outline: 2px solid var(--or); outline-offset: 2px; }
+.topbar-pref { display: none; }
+@media (max-width: 1100px) {
+  .pref-seg { display: none; }
+  .topbar-pref { display: flex; }
+}
+
+/* --- Résultats ---------------------------------------------------------- */
+.res-entete { margin-bottom: 4px; }
+.res-entete .home-titre { margin: 8px 0 4px; font-size: var(--fs-24); }
+.res-resume { margin: 0; color: var(--texte-doux); font-size: var(--fs-14); }
+.res-corrige {
+  margin: 10px 0 0;
+  padding: 8px 12px;
+  border-radius: var(--r-petit);
+  background: var(--surface);
+  border: 1px solid var(--bordure);
+  font-size: var(--fs-14);
+}
+.res-groupe-titre {
+  margin: 18px 0 2px;
+  font-size: var(--fs-14);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--texte-doux);
+}
+.grille-cartes { display: grid; grid-template-columns: 1fr; gap: 12px; }
+@media (min-width: 1024px) {
+  .grille-cartes { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+.hors-pref {
+  margin-top: 28px;
+  padding: 18px 20px;
+  border-radius: var(--r-carte);
+  border: 1px dashed var(--bordure);
+  background: rgba(20, 36, 77, 0.5);
+}
+.hors-pref-tete { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; margin-bottom: 12px; }
+.hors-pref-tete h2 { margin: 0; font-size: var(--fs-16); }
+.hors-pref-tete span { font-size: var(--fs-14); color: var(--texte-doux); }
+.hors-pref-liste { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.hors-pref-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  padding: 6px 14px 6px 10px;
+  border-radius: var(--r-pilule);
+  border: 1px solid var(--bordure);
+  background: var(--surface);
+  color: var(--texte);
+  font: inherit;
+  font-size: var(--fs-14);
+  cursor: pointer;
+}
+.hors-pref-item .picto-svg { color: var(--st); }
+.hors-pref-item:hover { border-color: var(--st); }
+.hors-pref-nom { font-weight: 600; }
+.hors-pref-statut { color: var(--texte-doux); font-size: var(--fs-12); }
+
+/* --- Fiche marque ------------------------------------------------------- */
+.fiche-avatar { width: 56px; height: 56px; }
+.fiche-head h2 { margin: 0; font-size: var(--fs-32); }
+.fiche-sous { margin: 2px 0 0; color: var(--texte-doux); font-size: var(--fs-14); }
+.fiche-statut {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin: 16px 0 6px;
+  padding: 14px 16px;
+  border-radius: var(--r-carte);
+  background: var(--st-fond);
+  border: 1px solid var(--st);
+}
+.fiche-statut .picto-svg { color: var(--st); flex: 0 0 auto; }
+.fiche-statut-libelle {
+  margin: 0 0 2px;
+  font-weight: 700;
+  font-size: var(--fs-16);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--st);
+}
+.fiche-statut-desc { margin: 0; font-size: var(--fs-14); color: var(--texte); }
+.detail dl.en-bref-v2 { grid-template-columns: 170px 1fr; gap: 8px 16px; font-size: var(--fs-16); }
+.en-bref-v2 dt { color: var(--texte-doux); }
+.en-bref-v2 dd { margin: 0; }
+.alt-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr)); gap: 10px; }
+.alt-carte {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: var(--r-carte);
+  border: 1px solid var(--bordure);
+  background: var(--surface);
+  color: var(--texte);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.alt-carte:hover { border-color: var(--st); background: var(--surface-elevee); }
+.alt-texte { display: flex; flex-direction: column; min-width: 0; }
+.alt-texte span { font-size: var(--fs-12); color: var(--texte-doux); }
+.alt-note { margin: 8px 0 0; font-size: var(--fs-12); color: var(--texte-doux); }
+.fiche-texte { margin: 0; font-size: var(--fs-16); line-height: 1.6; }
+.fiche-texte sup a { color: var(--or); text-decoration: none; font-weight: 700; padding: 0 1px; }
+.fiche-texte sup a:hover { text-decoration: underline; }
+.fiche-liens { display: flex; flex-wrap: wrap; gap: 8px; }
+.sources li:target, .sources li:focus-within { background: var(--surface-elevee); }
+
+/* --- Mobile -------------------------------------------------------------- */
+@media (max-width: 600px) {
+  /* Les étoiles du drapeau recouvraient le titre : on ne garde que le fond */
+  .hero { background-size: cover, 0 0, cover; }
+  .carte.carte-v2 { grid-template-columns: 40px minmax(0, 1fr); padding: 14px 16px; gap: 12px; }
+  .carte.carte-v2 .carte-avatar { display: none; }
+  .carte-tuile { width: 40px; height: 40px; }
+  .carte.carte-v2 h3 { font-size: var(--fs-16); }
+  .fiche-head h2 { font-size: var(--fs-24); }
+  .detail dl.en-bref-v2 { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+  /* Cibles tactiles d'au moins 40 px (puces de secteurs, préférences) */
+  .chip { min-height: 40px; display: inline-flex; align-items: center; }
+}
+.hors-pref-item { text-align: left; flex-wrap: wrap; row-gap: 0; }
+.hors-pref-statut { white-space: nowrap; }
+/* Page secteur et catalogue : même grille que les résultats */
+@media (min-width: 1024px) {
+  #results > .results,
+  #catalogue-results {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+}
+/* Liens des sources : --accent vaut #282828 (redéfini en fin de :root), illisible sur fond sombre */
+.sources a { color: var(--or); }

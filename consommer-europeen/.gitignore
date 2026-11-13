@@ -3,3 +3,5 @@ dist/
 .env
 ajouts.json
 public/assets/logos/
+apercu/
+serveur.log
