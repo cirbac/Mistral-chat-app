@@ -934,7 +934,7 @@ el.pref.addEventListener('change', () => {
 el.logoHome.addEventListener('click', (e) => {
   e.preventDefault();
   location.hash = '#/';
-  routeFromHash();
+  renderHome();
 });
 
 function routeFromHash() {
@@ -959,7 +959,7 @@ function routeFromHash() {
     showCatalogue(true);
     return;
   }
-  routeFromHash();
+  renderHome();
 }
 window.addEventListener('hashchange', routeFromHash);
 
