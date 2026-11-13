@@ -1,0 +1,2558 @@
+{
+ "03": {
+  "groupes": [
+   {
+    "id": "pneus-dunlop",
+    "groupe": "Dunlop (Goodyear)",
+    "marques": [
+     "Dunlop"
+    ],
+    "siege": "Royaume-Uni/USA",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "Marque britannique historique (groupe Goodyear). [303]",
+    "sources": [
+     303
+    ],
+    "lieux_production": [
+     "UK",
+     "France",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneus-matador",
+    "groupe": "Matador (Continental)",
+    "marques": [
+     "Matador"
+    ],
+    "siege": "Slovaquie/France",
+    "siege_pays": "SK",
+    "statut": "rang1",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "Marque du groupe Continental. [303]",
+    "sources": [
+     303
+    ],
+    "lieux_production": [
+     "Slovaquie",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneus-uniroyal",
+    "groupe": "Uniroyal (Continental)",
+    "marques": [
+     "Uniroyal"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "Marque pluie (groupe Continental). [303]",
+    "sources": [
+     303
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneus-kormoran",
+    "groupe": "Kormoran (Michelin)",
+    "marques": [
+     "Kormoran",
+     "Tigar"
+    ],
+    "siege": "Pologne",
+    "siege_pays": "PL",
+    "statut": "rang1",
+    "sous_categorie": "Pneumatique",
+    "commentaire": "Marques du groupe Michelin. [303]",
+    "sources": [
+     303
+    ],
+    "lieux_production": [
+     "Pologne",
+     "Serbie"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "04": {
+  "groupes": [
+   {
+    "id": "electromenager-siemens",
+    "groupe": "Siemens (BSH)",
+    "marques": [
+     "Siemens"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Électroménager",
+    "commentaire": "Gamme premium du groupe BSH. [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Turquie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-neff",
+    "groupe": "Neff (BSH)",
+    "marques": [
+     "Neff"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Électroménager encastrable",
+    "commentaire": "Hottes et fours design (BSH). [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "electromenager-gaggenau",
+    "groupe": "Gaggenau (BSH)",
+    "marques": [
+     "Gaggenau"
+    ],
+    "siege": "Allemagne (Munich)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Haut de gamme",
+    "commentaire": "Très haut de gamme (BSH). [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "clim-carrier",
+    "groupe": "Carrier",
+    "marques": [
+     "Carrier"
+    ],
+    "siege": "États-Unis (Syracuse)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Climatisation",
+    "commentaire": "Inventeur de la climatisation (1902). [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "clim-trane",
+    "groupe": "Trane (IR)",
+    "marques": [
+     "Trane"
+    ],
+    "siege": "Irlande/USA",
+    "siege_pays": "IE",
+    "statut": "rang1",
+    "sous_categorie": "Climatisation",
+    "commentaire": "Climatisation commerciale (Ingersoll Rand). [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "Irlande",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "chauffage-atlantic",
+    "groupe": "Atlantic",
+    "marques": [
+     "Atlantic",
+     "Thermor",
+     "Sauter"
+    ],
+    "siege": "France (La Roche-sur-Yon)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Chauffage / eau chaude",
+    "commentaire": "Radiateurs et chauffe-eau électriques. [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "chauffage-noirot",
+    "groupe": "Noirot",
+    "marques": [
+     "Noirot"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Radiateurs",
+    "commentaire": "Radiateurs électriques inertie. [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "chauffage-acova",
+    "groupe": "Acova",
+    "marques": [
+     "Acova"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Sèche-serviettes",
+    "commentaire": "Sèche-serviettes design. [304]",
+    "sources": [
+     304
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "05": {
+  "groupes": [
+   {
+    "id": "tv-jvc",
+    "groupe": "JVC (licence)",
+    "marques": [
+     "JVC"
+    ],
+    "siege": "Japon",
+    "siege_pays": "JP",
+    "statut": "vigilance",
+    "sous_categorie": "TV",
+    "commentaire": "Marque japonaise historique (licence TV). [305]",
+    "sources": [
+     305
+    ],
+    "lieux_production": [
+     "Japon"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "tv-telefunken",
+    "groupe": "Telefunken (licence)",
+    "marques": [
+     "Telefunken"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "vigilance",
+    "sous_categorie": "TV",
+    "commentaire": "Marque allemande historique (licence). [305]",
+    "sources": [
+     305
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "06": {
+  "groupes": [
+   {
+    "id": "pc-framework",
+    "groupe": "Framework",
+    "marques": [
+     "Framework"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "PC modulaire",
+    "commentaire": "PC portable modulaire et réparable. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "USA",
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-focal",
+    "groupe": "Focal",
+    "marques": [
+     "Focal",
+     "Naim"
+    ],
+    "siege": "France (Saint-Étienne)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Hi-fi / enceintes",
+    "commentaire": "Enceintes hi-fi françaises (Utopia) + Naim. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-cabasse",
+    "groupe": "Cabasse",
+    "marques": [
+     "Cabasse"
+    ],
+    "siege": "France (Ploufragan)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Hi-fi",
+    "commentaire": "Enceintes hi-fi bretonnes (La Sphère). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-triangle",
+    "groupe": "Triangle",
+    "marques": [
+     "Triangle"
+    ],
+    "siege": "France (Soissons)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Enceintes",
+    "commentaire": "Enceintes françaises. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-kef",
+    "groupe": "KEF",
+    "marques": [
+     "KEF"
+    ],
+    "siege": "Royaume-Uni (Maidstone)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Enceintes",
+    "commentaire": "Enceintes coaxiales (LS50). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "audio-bluesound",
+    "groupe": "Bluesound (Lenbrook)",
+    "marques": [
+     "Bluesound"
+    ],
+    "siege": "Canada",
+    "siege_pays": "CA",
+    "statut": "rang2",
+    "sous_categorie": "Streaming hi-fi",
+    "commentaire": "Streaming multiroom. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Canada",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "reseau-netgear",
+    "groupe": "Netgear",
+    "marques": [
+     "Netgear"
+    ],
+    "siege": "États-Unis (San José)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réseau",
+    "commentaire": "Routeurs et wifi (Orbi). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "reseau-linksys",
+    "groupe": "Linksys (Belkin)",
+    "marques": [
+     "Linksys"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réseau",
+    "commentaire": "Routeurs wifi (Belkin). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "nas-synology",
+    "groupe": "Synology",
+    "marques": [
+     "Synology"
+    ],
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "NAS",
+    "commentaire": "NAS et stockage réseau. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Taïwan",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "nas-qnap",
+    "groupe": "QNAP",
+    "marques": [
+     "QNAP"
+    ],
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "NAS",
+    "commentaire": "NAS et vidéosurveillance. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ecran-benq",
+    "groupe": "BenQ",
+    "marques": [
+     "BenQ"
+    ],
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "Écrans",
+    "commentaire": "Écrans gaming et pro. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Taïwan",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ecran-eizo",
+    "groupe": "Eizo",
+    "marques": [
+     "Eizo"
+    ],
+    "siege": "Japon (Ishikawa)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Écrans pro",
+    "commentaire": "Écrans professionnels (photo/vidéo). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Japon"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "clavier-cherry",
+    "groupe": "Cherry",
+    "marques": [
+     "Cherry"
+    ],
+    "siege": "Allemagne (Auerbach)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Claviers",
+    "commentaire": "Claviers mécaniques MX. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "clavier-lamy",
+    "groupe": "Lamy",
+    "marques": [
+     "Lamy"
+    ],
+    "siege": "Allemagne (Heidelberg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Stylos",
+    "commentaire": "Stylos-plumes design allemands. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "stylo-parker",
+    "groupe": "Parker (Newell)",
+    "marques": [
+     "Parker",
+     "Waterman"
+    ],
+    "siege": "États-Unis (Newell)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Stylos",
+    "commentaire": "Stylos plumes (Newell Brands). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "USA",
+     "France",
+     "UK"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "stylo-pilot",
+    "groupe": "Pilot",
+    "marques": [
+     "Pilot"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Stylos",
+    "commentaire": "Stylos FriXion effaçables. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Japon"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montre-amazfit",
+    "groupe": "Amazfit (Zepp)",
+    "marques": [
+     "Amazfit"
+    ],
+    "siege": "Chine (Zepp Health)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Montre connectée",
+    "commentaire": "Montres connectées abordables. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montre-coros",
+    "groupe": "Coros",
+    "marques": [
+     "Coros"
+    ],
+    "siege": "États-Unis/Chine",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Montre sport GPS",
+    "commentaire": "GPS sport (trail, vélo). [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "liseuse-tolino",
+    "groupe": "Tolino (Deutsche Telekom)",
+    "marques": [
+     "Tolino"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Liseuse",
+    "commentaire": "Liseuse du consortium allemand. [306]",
+    "sources": [
+     306
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "07": {
+  "groupes": [
+   {
+    "id": "logiciels-proxmox",
+    "groupe": "Proxmox (Proxmox VE)",
+    "marques": [
+     "Proxmox"
+    ],
+    "siege": "Autriche (Vienne)",
+    "siege_pays": "AT",
+    "statut": "rang1",
+    "sous_categorie": "Virtualisation open source",
+    "commentaire": "Virtualisation KVM/LXC open source. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "Autriche"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-atlassian",
+    "groupe": "Atlassian (Jira, Trello, Confluence)",
+    "marques": [
+     "Atlassian",
+     "Jira",
+     "Trello",
+     "Confluence"
+    ],
+    "siege": "Australie (Sydney)",
+    "siege_pays": "AU",
+    "statut": "hors_zones",
+    "sous_categorie": "Collaboration / dev",
+    "commentaire": "Suite dev/collaboration australienne. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "Australie",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-gitlab",
+    "groupe": "GitLab",
+    "marques": [
+     "GitLab"
+    ],
+    "siege": "États-Unis (remote, fondateurs NL/UA)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "DevOps",
+    "commentaire": "Forge DevOps. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-docker",
+    "groupe": "Docker",
+    "marques": [
+     "Docker"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Conteneurs",
+    "commentaire": "Conteneurs (Docker Hub). [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-notion",
+    "groupe": "Notion",
+    "marques": [
+     "Notion"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Productivité",
+    "commentaire": "Workspace tout-en-un. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "logiciels-zoom",
+    "groupe": "Zoom",
+    "marques": [
+     "Zoom"
+    ],
+    "siege": "États-Unis (San José)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Visioconférence",
+    "commentaire": "Visioconférence. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ia-anthropic",
+    "groupe": "Anthropic (Claude)",
+    "marques": [
+     "Anthropic",
+     "Claude"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "IA générative",
+    "commentaire": "Modèles Claude. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ia-openai",
+    "groupe": "OpenAI (ChatGPT)",
+    "marques": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "IA générative",
+    "commentaire": "GPT, DALL-E, Sora. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ia-google-gemini",
+    "groupe": "Google (Gemini)",
+    "marques": [
+     "Gemini",
+     "Google AI"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "IA générative",
+    "commentaire": "Modèles Gemini. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ia-xai",
+    "groupe": "xAI (Grok)",
+    "marques": [
+     "xAI",
+     "Grok"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "IA générative",
+    "commentaire": "Modèle Grok. [307]",
+    "sources": [
+     307
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "08": {
+  "groupes": [
+   {
+    "id": "lait-yoplait",
+    "groupe": "Yoplait (Sodiaal)",
+    "marques": [
+     "Yoplait"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Yaourt",
+    "commentaire": "Coopérative Sodiaal (Yoplait). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beurre-elle-vire",
+    "groupe": "Elle & Vire (Isigny)",
+    "marques": [
+     "Elle & Vire"
+    ],
+    "siege": "France (Normandie)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Beurre / crème",
+    "commentaire": "Coopérative laitière normande. [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fromage-bel-lot6? skip",
+    "groupe": "x",
+    "marques": [
+     "x"
+    ],
+    "siege": "x",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "x",
+    "commentaire": "x [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "x"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fromage-philadelphia",
+    "groupe": "Philadelphia (Mondelez)",
+    "marques": [
+     "Philadelphia",
+     "Saint Môret",
+     "Tartare",
+     "Leerdammer"
+    ],
+    "siege": "France/USA",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Fromage frais",
+    "commentaire": "Fromages frais (Mondelez). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "choco-leonidas",
+    "groupe": "Leonidas",
+    "marques": [
+     "Leonidas",
+     "Neuhaus",
+     "Guylian"
+    ],
+    "siege": "Belgique (Bruxelles)",
+    "siege_pays": "BE",
+    "statut": "rang1",
+    "sous_categorie": "Chocolat belge",
+    "commentaire": "Pralinés belges (1913). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "Belgique",
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "choco-laderach",
+    "groupe": "Läderach",
+    "marques": [
+     "Läderach",
+     "Frey",
+     "Villars"
+    ],
+    "siege": "Suisse (Kilchberg)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Chocolat suisse",
+    "commentaire": "Chocolaterie suisse (Frey, Villars). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "choco-godiva",
+    "groupe": "Godiva",
+    "marques": [
+     "Godiva"
+    ],
+    "siege": "Belgique (Bruxelles)",
+    "siege_pays": "BE",
+    "statut": "vigilance",
+    "sous_categorie": "Chocolat luxe",
+    "commentaire": "Maison belge (groupe turc Ülker). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "Belgique",
+     "Turquie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "glace-magnum",
+    "groupe": "Magnum (Unilever)",
+    "marques": [
+     "Magnum",
+     "Carte d'Or",
+     "Cornetto"
+    ],
+    "siege": "Pays-Bas/UK",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Glaces",
+    "commentaire": "Esquimaux glacés (Unilever). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "cereales-weetabix",
+    "groupe": "Weetabix (Premier Foods)",
+    "marques": [
+     "Weetabix",
+     "Alpen",
+     "Jordans",
+     "Quaker"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Céréales",
+    "commentaire": "Céréales britanniques (Quaker = Pepsi). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "snacks-brets",
+    "groupe": "Bret's",
+    "marques": [
+     "Bret's"
+    ],
+    "siege": "France (Bretagne)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Chips",
+    "commentaire": "Chips bretonnes artisanales. [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "snacks-walkers",
+    "groupe": "Walkers (PepsiCo)",
+    "marques": [
+     "Walkers",
+     "Tyrrells"
+    ],
+    "siege": "Royaume-Uni",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Chips",
+    "commentaire": "Chips britanniques (Pepsi). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "surgeles-thiriet",
+    "groupe": "Thiriet",
+    "marques": [
+     "Thiriet",
+     "Toupnot"
+    ],
+    "siege": "France (Nancy)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Surgelé artisanal",
+    "commentaire": "Pâtissier/surgelé français. [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "boulangerie-paul",
+    "groupe": "Paul",
+    "marques": [
+     "Paul",
+     "Kayser"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Boulangerie",
+    "commentaire": "Chaîne de boulangerie (1889). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "boulangerie-pasquier",
+    "groupe": "Brioche Pasquier",
+    "marques": [
+     "Brioche Pasquier",
+     "La Mie Câline"
+    ],
+    "siege": "France (Les Cerqueux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Viennoiserie",
+    "commentaire": "Brioches industrielles françaises. [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "sauce-amora",
+    "groupe": "Amora",
+    "marques": [
+     "Amora",
+     "Maille",
+     "La Baleine"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Moutarde / condiments",
+    "commentaire": "Moutarde de Dijon, sel La Baleine. [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "epices-ducros",
+    "groupe": "Ducros",
+    "marques": [
+     "Ducros"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Épices",
+    "commentaire": "Épices (groupe américain McCormick). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "petfood-royalcanin",
+    "groupe": "Royal Canin (Mars)",
+    "marques": [
+     "Royal Canin",
+     "Friskies"
+    ],
+    "siege": "France (Aimargues)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Croquettes",
+    "commentaire": "Nutrition animale (Mars Petcare, France). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bebe-bladina",
+    "groupe": "Blédina (Danone)",
+    "marques": [
+     "Blédina",
+     "Hipp",
+     "Babybio"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Alimentation infantile",
+    "commentaire": "Blédina (Danone), Hipp (DE), Babybio (FR). [308, 320]",
+    "sources": [
+     308,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09": {
+  "groupes": [
+   {
+    "id": "pharma-grifols",
+    "groupe": "Grifols",
+    "marques": [
+     "Grifols"
+    ],
+    "siege": "Espagne (Barcelone)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Sang / plasma",
+    "commentaire": "Leader mondial du plasma sanguin. [309]",
+    "sources": [
+     309
+    ],
+    "lieux_production": [
+     "Espagne",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pharma-octapharma",
+    "groupe": "Octapharma",
+    "marques": [
+     "Octapharma"
+    ],
+    "siege": "Suisse (Lachen)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Sang / protéines",
+    "commentaire": "Protéines plasmatiques. [309]",
+    "sources": [
+     309
+    ],
+    "lieux_production": [
+     "Suisse",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "rasage-bic",
+    "groupe": "BIC",
+    "marques": [
+     "BIC"
+    ],
+    "siege": "France (Clichy)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rasoirs / stylos",
+    "commentaire": "Rasoirs jetables et stylos bille. [309]",
+    "sources": [
+     309
+    ],
+    "lieux_production": [
+     "France",
+     "Mexique",
+     "Grèce"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09b": {
+  "groupes": [
+   {
+    "id": "beaute-sisley",
+    "groupe": "Sisley Paris",
+    "marques": [
+     "Sisley",
+     "Carita"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Soin luxe",
+    "commentaire": "Soins visage haut de gamme. [309]",
+    "sources": [
+     309
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-la-prairie",
+    "groupe": "La Prairie",
+    "marques": [
+     "La Prairie"
+    ],
+    "siege": "Suisse (Montreux)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Soin luxe suisse",
+    "commentaire": "Crèmes de luxe suisses. [309]",
+    "sources": [
+     309
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "beaute-kerastase",
+    "groupe": "Kérastase (L'Oréal)",
+    "marques": [
+     "Kérastase",
+     "Biotherm",
+     "Redken",
+     "Maybelline",
+     "Matrix"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Capillaire / maquillage",
+    "commentaire": "Marques du groupe L'Oréal. [309]",
+    "sources": [
+     309
+    ],
+    "lieux_production": [
+     "France",
+     "USA",
+     "Japon"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "10": {
+  "groupes": [
+   {
+    "id": "fashion-barbour",
+    "groupe": "Barbour",
+    "marques": [
+     "Barbour"
+    ],
+    "siege": "Royaume-Uni (Northumberland)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Barbour wax",
+    "commentaire": "Vestes cirées anglaises (1894). [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Chine",
+     "Moldavie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-belstaff",
+    "groupe": "Belstaff",
+    "marques": [
+     "Belstaff"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Moto / luxe",
+    "commentaire": "Vestes moto luxe (groupe italien). [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-hackett",
+    "groupe": "Hackett",
+    "marques": [
+     "Hackett"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Golf / mode",
+    "commentaire": "Prêt-à-porter britannique. [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-fredperry",
+    "groupe": "Fred Perry",
+    "marques": [
+     "Fred Perry"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Polo laurel",
+    "commentaire": "Polo à laurier (tennis). [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Japon",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-isabelmarant",
+    "groupe": "Isabel Marant",
+    "marques": [
+     "Isabel Marant",
+     "Ami",
+     "Étoile"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Mode femme",
+    "commentaire": "Créatrice parisienne (Ami, Étoile). [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-jacquemus",
+    "groupe": "Jacquemus",
+    "marques": [
+     "Jacquemus"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Mode",
+    "commentaire": "Créateur marseillais (Le Chiquito). [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Italie",
+     "Portugal"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "fashion-alaia",
+    "groupe": "Alaïa (Richemont)",
+    "marques": [
+     "Alaïa",
+     "Jil Sander (OTB), Miu Miu"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Haute couture",
+    "commentaire": "Maison d'Azzedine Alaïa (Richemont). [310, 320]",
+    "sources": [
+     310,
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "11": {
+  "groupes": [
+   {
+    "id": "poussette-bugaboo",
+    "groupe": "Bugaboo",
+    "marques": [
+     "Bugaboo"
+    ],
+    "siege": "Pays-Bas (Amsterdam)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Poussettes",
+    "commentaire": "Poussettes design néerlandaises. [311]",
+    "sources": [
+     311
+    ],
+    "lieux_production": [
+     "Pays-Bas",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "poussette-stokke",
+    "groupe": "Stokke",
+    "marques": [
+     "Stokke"
+    ],
+    "siege": "Norvège (Ålesund)",
+    "siege_pays": "NO",
+    "statut": "rang1",
+    "sous_categorie": "Poussettes / transats",
+    "commentaire": "Tripp Trapp, poussettes scandinaves. [311]",
+    "sources": [
+     311
+    ],
+    "lieux_production": [
+     "Norvège",
+     "Pays-Bas",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "siege-maxicosi",
+    "groupe": "Maxi-Cosi / Bébé Confort",
+    "marques": [
+     "Maxi-Cosi",
+     "Bébé Confort",
+     "Dorel"
+    ],
+    "siege": "Pays-Bas/France",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Sièges auto",
+    "commentaire": "Sièges auto (Dorel Juvenile). [311]",
+    "sources": [
+     311
+    ],
+    "lieux_production": [
+     "Pays-Bas",
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maroquinerie-lancel",
+    "groupe": "Lancel",
+    "marques": [
+     "Lancel",
+     "Lipault"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Maroquinerie",
+    "commentaire": "Maroquinerie parisienne (1876). [311]",
+    "sources": [
+     311
+    ],
+    "lieux_production": [
+     "France",
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "12": {
+  "groupes": [
+   {
+    "id": "mode-enfant-orchestra",
+    "groupe": "Orchestra (Kiabi? non — groupe)",
+    "marques": [
+     "Orchestra",
+     "Sergent Major",
+     "Cyrillus",
+     "Tape à l'œil"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Mode enfant",
+    "commentaire": "Mode enfant française. [312]",
+    "sources": [
+     312
+    ],
+    "lieux_production": [
+     "France",
+     "Asie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "mode-enfant-gemo",
+    "groupe": "Gémo / La Halle",
+    "marques": [
+     "Gémo",
+     "La Halle"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Mode discount",
+    "commentaire": "Enseignes du groupe (actionnariat à vérifier). [312]",
+    "sources": [
+     312
+    ],
+    "lieux_production": [
+     "France",
+     "Asie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "auto-euromaster",
+    "groupe": "Euromaster (Michelin)",
+    "marques": [
+     "Euromaster",
+     "Point S",
+     "Speedy",
+     "Vulco"
+    ],
+    "siege": "France (Clermont)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Pneus / entretien auto",
+    "commentaire": "Réseau de centres pneus (Michelin). [312]",
+    "sources": [
+     312
+    ],
+    "lieux_production": [
+     "France",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "13": {
+  "groupes": [
+   {
+    "id": "gaz-antargaz",
+    "groupe": "Antargaz / Primagaz",
+    "marques": [
+     "Antargaz",
+     "Primagaz"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Gaz bouteille",
+    "commentaire": "Gaz en bouteille (groupe américain? vérifier). [313]",
+    "sources": [
+     313
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "14": {
+  "groupes": [
+   {
+    "id": "banque-hsbc-fr",
+    "groupe": "HSBC France (CCF)",
+    "marques": [
+     "HSBC France",
+     "CCF"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Banque",
+    "commentaire": "Ex-CCF, filiale du groupe britannique HSBC. [314]",
+    "sources": [
+     314
+    ],
+    "lieux_production": [
+     "France",
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bourse-etoro",
+    "groupe": "eToro",
+    "marques": [
+     "eToro"
+    ],
+    "siege": "Israël (Tel Aviv)",
+    "siege_pays": "IL",
+    "statut": "hors_zones",
+    "sous_categorie": "Trading social",
+    "commentaire": "Plateforme de trading social. [314]",
+    "sources": [
+     314
+    ],
+    "lieux_production": [
+     "Israël",
+     "UK"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "15": {
+  "groupes": [
+   {
+    "id": "croisiere-costa",
+    "groupe": "Costa (Carnival)",
+    "marques": [
+     "Costa",
+     "Cunard"
+    ],
+    "siege": "Royaume-Uni/Italie",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Croisière",
+    "commentaire": "Croisières européennes (Carnival). [315]",
+    "sources": [
+     315
+    ],
+    "lieux_production": [
+     "Italie",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "croisiere-princess",
+    "groupe": "Princess Cruises",
+    "marques": [
+     "Princess",
+     "Celebrity",
+     "Norwegian Cruise Line"
+    ],
+    "siege": "États-Unis (Santa Clarita)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Croisière",
+    "commentaire": "Croisières premium (Carnival Corp). [315]",
+    "sources": [
+     315
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "velo-winora",
+    "groupe": "Winora (Derby Cycle)",
+    "marques": [
+     "Winora"
+    ],
+    "siege": "Allemagne",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Vélo électrique",
+    "commentaire": "VAE (groupe Derby Cycle). [315]",
+    "sources": [
+     315
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Taïwan"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "16": {
+  "groupes": [
+   {
+    "id": "hotellerie-barcelo",
+    "groupe": "Barceló Hotels",
+    "marques": [
+     "Barceló"
+    ],
+    "siege": "Espagne (Palma)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Hôtellerie",
+    "commentaire": "Groupe hôtelier espagnol familial. [316]",
+    "sources": [
+     316
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "ota-expedia",
+    "groupe": "Expedia (Vrbo, Hotels.com)",
+    "marques": [
+     "Expedia",
+     "Vrbo",
+     "Hotels.com"
+    ],
+    "siege": "États-Unis (Seattle)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réservation voyage",
+    "commentaire": "OTA américaine. [316]",
+    "sources": [
+     316
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "palace-raffles",
+    "groupe": "Raffles (Accor)",
+    "marques": [
+     "Raffles",
+     "Peninsula",
+     "Shangri-La",
+     "Rosewood",
+     "One&Only"
+    ],
+    "siege": "Singapour/France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Palaces",
+    "commentaire": "Palaces asiatiques (Accor pour Raffles). [316]",
+    "sources": [
+     316
+    ],
+    "lieux_production": [
+     "Singapour",
+     "France",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hotellerie-wyndham",
+    "groupe": "Wyndham (Choice)",
+    "marques": [
+     "Wyndham",
+     "Choice Hotels"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Hôtellerie",
+    "commentaire": "Groupes hôteliers américains. [316]",
+    "sources": [
+     316
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "17": {
+  "groupes": [
+   {
+    "id": "jeux-goliath",
+    "groupe": "Goliath (Time's Up)",
+    "marques": [
+     "Goliath",
+     "Dujardin",
+     "Nathan"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Jeux de société",
+    "commentaire": "Time's Up!, 1000 Bornes (Dujardin), Nathan. [317]",
+    "sources": [
+     317
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "18": {
+  "groupes": [
+   {
+    "id": "ustensiles-brrabantia",
+    "groupe": "Brabantia",
+    "marques": [
+     "Brabantia",
+     "OXO",
+     "Joseph Joseph",
+     "Russell Hobbs"
+    ],
+    "siege": "Pays-Bas (Breda)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Ustensiles cuisine",
+    "commentaire": "Boîtes de conservation (1960). [318]",
+    "sources": [
+     318
+    ],
+    "lieux_production": [
+     "Pays-Bas",
+     "Chine",
+     "UK",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "deco-centrakor",
+    "groupe": "Centrakor",
+    "marques": [
+     "Centrakor"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Décoration discount",
+    "commentaire": "Décoration (groupe Kingfisher? non — indépendant). [318]",
+    "sources": [
+     318
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "19": {
+  "groupes": [
+   {
+    "id": "montres-piaget",
+    "groupe": "Piaget (Richemont)",
+    "marques": [
+     "Piaget"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Haute horlogerie / joaillerie",
+    "commentaire": "Montres ultra-plates (Richemont). [319]",
+    "sources": [
+     319
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bijoux-tiffany",
+    "groupe": "Tiffany & Co. (LVMH)",
+    "marques": [
+     "Tiffany"
+    ],
+    "siege": "États-Unis (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Joaillerie luxe",
+    "commentaire": "Joaillier américain (LVMH depuis 2021). [319]",
+    "sources": [
+     319
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "bijoux-bulgari",
+    "groupe": "Bulgari (LVMH)",
+    "marques": [
+     "Bulgari",
+     "Buccellati"
+    ],
+    "siege": "Italie (Rome)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Haute joaillerie",
+    "commentaire": "Joaillier romain (LVMH). [319]",
+    "sources": [
+     319
+    ],
+    "lieux_production": [
+     "Italie",
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "optique-marcolin",
+    "groupe": "Marcolin",
+    "marques": [
+     "Marcolin",
+     "Persol (EL)",
+     "Maui Jim"
+    ],
+    "siege": "Italie (Longarone)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Lunettes",
+    "commentaire": "Lunettes italiennes (Tom Ford, Dolce). [319]",
+    "sources": [
+     319
+    ],
+    "lieux_production": [
+     "Italie",
+     "Chine",
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "social-tiktok",
+    "groupe": "TikTok (ByteDance)",
+    "marques": [
+     "TikTok"
+    ],
+    "siege": "Chine (Pékin)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "Réseau social vidéo",
+    "commentaire": "Short vidéos (ByteDance). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "Chine",
+     "USA",
+     "Singapour"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "social-x",
+    "groupe": "X (Twitter)",
+    "marques": [
+     "X"
+    ],
+    "siege": "États-Unis",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réseau social",
+    "commentaire": "Microblogging (Elon Musk). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "social-snapchat",
+    "groupe": "Snapchat (Snap Inc.)",
+    "marques": [
+     "Snapchat"
+    ],
+    "siege": "États-Unis (Santa Monica)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réseau social",
+    "commentaire": "Messages éphémères, AR. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "social-meta",
+    "groupe": "Meta (Facebook, Instagram, WhatsApp)",
+    "marques": [
+     "Meta",
+     "Facebook",
+     "Instagram"
+    ],
+    "siege": "États-Unis (Menlo Park)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réseaux sociaux",
+    "commentaire": "Facebook, Instagram, WhatsApp, Threads. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA",
+     "Irlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "social-pinterest",
+    "groupe": "Pinterest",
+    "marques": [
+     "Pinterest"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Réseau social visuel",
+    "commentaire": "Inspiration visuelle. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "social-reddit",
+    "groupe": "Reddit",
+    "marques": [
+     "Reddit"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Forum",
+    "commentaire": "Forums thématiques. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "social-discord",
+    "groupe": "Discord",
+    "marques": [
+     "Discord"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Messagerie gaming",
+    "commentaire": "Chat communautés gaming. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "21": {
+  "groupes": [
+   {
+    "id": "resto-mcdonalds",
+    "groupe": "McDonald's",
+    "marques": [
+     "McDonald's"
+    ],
+    "siege": "États-Unis (Chicago)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Fast-food",
+    "commentaire": "N°1 mondial du burger (Big Mac). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-kfc",
+    "groupe": "KFC (Yum!)",
+    "marques": [
+     "KFC"
+    ],
+    "siege": "États-Unis (Louisville)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Poulet frit",
+    "commentaire": "Poulet frit (Yum! Brands). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-quick",
+    "groupe": "Quick (Groupe Bertrand)",
+    "marques": [
+     "Quick"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Fast-food",
+    "commentaire": "Chaîne française (1980, groupe Bertrand). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Belgique",
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-flunch",
+    "groupe": "Flunch (Auchan)",
+    "marques": [
+     "Flunch"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cafétéria",
+    "commentaire": "Cafétéria du groupe Auchan/Mulliez. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Italie",
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-hippopotamus",
+    "groupe": "Hippopotamus (Groupe Flo)",
+    "marques": [
+     "Hippopotamus",
+     "Léon"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration grill",
+    "commentaire": "Enseignes du Groupe Flo. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "France",
+     "Belgique"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-buffalogrill",
+    "groupe": "Buffalo Grill",
+    "marques": [
+     "Buffalo Grill",
+     "La Pataterie"
+    ],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Grill",
+    "commentaire": "Grill (actionnariat étranger). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-chipotle",
+    "groupe": "Chipotle",
+    "marques": [
+     "Chipotle"
+    ],
+    "siege": "États-Unis (Denver)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Mexicain fast-casual",
+    "commentaire": "Mexicain frais. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "resto-subway",
+    "groupe": "Subway",
+    "marques": [
+     "Subway"
+    ],
+    "siege": "États-Unis (Milford)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Sandwiches",
+    "commentaire": "Sandwiches sur mesure. [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pizza-dominos",
+    "groupe": "Domino's Pizza",
+    "marques": [
+     "Domino's",
+     "Pizza Hut"
+    ],
+    "siege": "États-Unis (Ann Arbor)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Pizza",
+    "commentaire": "Livraison de pizza (Yum! pour Pizza Hut). [320]",
+    "sources": [
+     320
+    ],
+    "lieux_production": [
+     "USA",
+     "Monde"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

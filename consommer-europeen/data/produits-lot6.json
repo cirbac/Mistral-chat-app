@@ -1,0 +1,252 @@
+{
+ "pneus-dunlop": [
+  {
+   "id": "pneus-dunlop-dunlop-sport-maxx",
+   "nom": "Dunlop Sport Maxx",
+   "assemblage": "France/UK",
+   "origine_pieces": "Gomme UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-siemens": [
+  {
+   "id": "electromenager-siemens-siemens-iq700-lave-linge",
+   "nom": "Siemens iQ700 lave-linge",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Tambour Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "chauffage-noirot": [
+  {
+   "id": "chauffage-noirot-noirot-radiateur-inertie",
+   "nom": "Noirot radiateur inertie",
+   "assemblage": "France",
+   "origine_pieces": "Résistance France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "audio-focal": [
+  {
+   "id": "audio-focal-focal-aria-926",
+   "nom": "Focal Aria 926",
+   "assemblage": "France",
+   "origine_pieces": "HP France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "clavier-lamy": [
+  {
+   "id": "clavier-lamy-lamy-safari-stylo-plume",
+   "nom": "Lamy Safari stylo-plume",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Plastique Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "nas-synology": [
+  {
+   "id": "nas-synology-synology-ds224",
+   "nom": "Synology DS224+",
+   "assemblage": "Taïwan",
+   "origine_pieces": "Électronique Taïwan",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "lait-yoplait": [
+  {
+   "id": "lait-yoplait-yoplait-nature",
+   "nom": "Yoplait Nature",
+   "assemblage": "France",
+   "origine_pieces": "Lait France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beurre-elle-vire": [
+  {
+   "id": "beurre-elle-vire-elle-vire-beurre-demi-sel",
+   "nom": "Elle & Vire beurre demi-sel",
+   "assemblage": "France (Isigny)",
+   "origine_pieces": "Crème Normandie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "choco-leonidas": [
+  {
+   "id": "choco-leonidas-leonidas-pralin-s",
+   "nom": "Leonidas pralinés",
+   "assemblage": "Belgique",
+   "origine_pieces": "Cacao/nuts UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "glace-magnum": [
+  {
+   "id": "glace-magnum-magnum-classic",
+   "nom": "Magnum Classic",
+   "assemblage": "Belgique/UK",
+   "origine_pieces": "Chocolat UE, glace UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "surgeles-thiriet": [
+  {
+   "id": "surgeles-thiriet-thiriet-tarte-aux-pommes",
+   "nom": "Thiriet tarte aux pommes",
+   "assemblage": "France",
+   "origine_pieces": "Pommes France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "boulangerie-paul": [
+  {
+   "id": "boulangerie-paul-paul-baguette-tradition",
+   "nom": "Paul baguette tradition",
+   "assemblage": "France",
+   "origine_pieces": "Farine France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "rasage-bic": [
+  {
+   "id": "rasage-bic-bic-flex-5",
+   "nom": "BIC Flex 5",
+   "assemblage": "France (Clichy)/Mexique",
+   "origine_pieces": "Lames acier",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beaute-sisley": [
+  {
+   "id": "beaute-sisley-sisley-cr-me-velout-e",
+   "nom": "Sisley Crème veloutée",
+   "assemblage": "France",
+   "origine_pieces": "Soin France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-barbour": [
+  {
+   "id": "fashion-barbour-barbour-bedale-wax",
+   "nom": "Barbour Bedale wax",
+   "assemblage": "Royaume-Uni",
+   "origine_pieces": "Coton ciré UK",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-jacquemus": [
+  {
+   "id": "fashion-jacquemus-jacquemus-le-chiquito",
+   "nom": "Jacquemus Le Chiquito",
+   "assemblage": "Italie",
+   "origine_pieces": "Cuir/simili",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "poussette-bugaboo": [
+  {
+   "id": "poussette-bugaboo-bugaboo-fox",
+   "nom": "Bugaboo Fox",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": "Châssis aluminium NL",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "siege-maxicosi": [
+  {
+   "id": "siege-maxicosi-maxi-cosi-pearl",
+   "nom": "Maxi-Cosi Pearl",
+   "assemblage": "Pays-Bas",
+   "origine_pieces": "Coque NL",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "auto-euromaster": [
+  {
+   "id": "auto-euromaster-euromaster-pneu-michelin",
+   "nom": "Euromaster pneu Michelin",
+   "assemblage": "France",
+   "origine_pieces": "Service France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "croisiere-costa": [
+  {
+   "id": "croisiere-costa-costa-croisi-re-m-diterran-e",
+   "nom": "Costa croisière Méditerranée",
+   "assemblage": "Italie",
+   "origine_pieces": "Bateau Italie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jeux-goliath": [
+  {
+   "id": "jeux-goliath-time-s-up",
+   "nom": "Time's Up!",
+   "assemblage": "France",
+   "origine_pieces": "Jeu France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "montres-piaget": [
+  {
+   "id": "montres-piaget-piaget-polo",
+   "nom": "Piaget Polo",
+   "assemblage": "Suisse",
+   "origine_pieces": "Or Suisse",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "social-tiktok": [
+  {
+   "id": "social-tiktok-tiktok-app",
+   "nom": "TikTok (app)",
+   "assemblage": "Chine/USA",
+   "origine_pieces": "Développement Chine/USA",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "resto-mcdonalds": [
+  {
+   "id": "resto-mcdonalds-mcdo-big-mac",
+   "nom": "McDo Big Mac",
+   "assemblage": "France",
+   "origine_pieces": "Bœuf UE, pain France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "resto-quick": [
+  {
+   "id": "resto-quick-quick-king-bacon",
+   "nom": "Quick King Bacon",
+   "assemblage": "France",
+   "origine_pieces": "Bœuf UE, pain France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ]
+}
