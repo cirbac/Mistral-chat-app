@@ -250,7 +250,7 @@ app.use('/api/', (req, res, next) => {
   const now = Date.now();
   const key = req.ip ?? 'x';
   const arr = (rlHits.get(key) ?? []).filter((t) => now - t < 60000);
-  if (arr.length > 120) {
+  if (arr.length > Number(process.env.RL_LIMIT ?? 120)) {
     res.status(429).json({ error: 'Trop de requêtes, réessayez dans une minute.' });
     return;
   }
