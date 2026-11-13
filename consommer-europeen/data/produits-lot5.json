@@ -1,0 +1,252 @@
+{
+ "automobile-fiat": [
+  {
+   "id": "automobile-fiat-fiat-500",
+   "nom": "Fiat 500",
+   "assemblage": "Italie (Tychy/Pologne)",
+   "origine_pieces": "Moteur Pologne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-skoda": [
+  {
+   "id": "automobile-skoda-koda-octavia",
+   "nom": "Škoda Octavia",
+   "assemblage": "Tchéquie (Kvasiny)",
+   "origine_pieces": "Moteur Tchéquie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "automobile-audi": [
+  {
+   "id": "automobile-audi-audi-a4",
+   "nom": "Audi A4",
+   "assemblage": "Allemagne (Ingolstadt)",
+   "origine_pieces": "Moteur Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "motos-gasgas": [
+  {
+   "id": "motos-gasgas-gasgas-mc-250",
+   "nom": "GasGas MC 250",
+   "assemblage": "Espagne",
+   "origine_pieces": "Moteur 2T",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "electromenager-grundig": [
+  {
+   "id": "electromenager-grundig-grundig-r-frig-rateur",
+   "nom": "Grundig réfrigérateur",
+   "assemblage": "Turquie",
+   "origine_pieces": "Compresseur UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "informatique-honor": [
+  {
+   "id": "informatique-honor-honor-magic6",
+   "nom": "Honor Magic6",
+   "assemblage": "Chine",
+   "origine_pieces": "Composants Asie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "audio-jbl-harman": [
+  {
+   "id": "audio-jbl-harman-jbl-flip-6",
+   "nom": "JBL Flip 6",
+   "assemblage": "Chine",
+   "origine_pieces": "Plastique/batterie",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "logiciels-mistral": [
+  {
+   "id": "logiciels-mistral-le-chat-mistral",
+   "nom": "Le Chat (Mistral)",
+   "assemblage": "France (API)",
+   "origine_pieces": "Modèle Mistral entraîné en France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-picard": [
+  {
+   "id": "alimentation-picard-picard-lasagnes",
+   "nom": "Picard lasagnes",
+   "assemblage": "France",
+   "origine_pieces": "Viande UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "alimentation-nicolas": [
+  {
+   "id": "alimentation-nicolas-nicolas-bordeaux-75cl",
+   "nom": "Nicolas bordeaux 75cl",
+   "assemblage": "France",
+   "origine_pieces": "Raisin France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "boissons-oasis": [
+  {
+   "id": "boissons-oasis-oasis-tropical",
+   "nom": "Oasis Tropical",
+   "assemblage": "France",
+   "origine_pieces": "Jus UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "cafe-nerpresso": [
+  {
+   "id": "cafe-nerpresso-nespresso-vertuo",
+   "nom": "Nespresso Vertuo",
+   "assemblage": "Suisse",
+   "origine_pieces": "Machine Suisse",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "beaute-lancome": [
+  {
+   "id": "beaute-lancome-lanc-me-teint-idole",
+   "nom": "Lancôme Teint Idole",
+   "assemblage": "France",
+   "origine_pieces": "Pigments UE",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-stella": [
+  {
+   "id": "fashion-stella-stella-mccartney-falabella",
+   "nom": "Stella McCartney Falabella",
+   "assemblage": "Italie/Portugal",
+   "origine_pieces": "Simili cuir",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "fashion-sunspel": [
+  {
+   "id": "fashion-sunspel-sunspel-t-shirt-coton",
+   "nom": "Sunspel T-shirt coton",
+   "assemblage": "Royaume-Uni/Portugal",
+   "origine_pieces": "Coton Pérou/Égypte",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "voyage-delvaux": [
+  {
+   "id": "voyage-delvaux-delvaux-brillant",
+   "nom": "Delvaux Brillant",
+   "assemblage": "Belgique",
+   "origine_pieces": "Cuir veau Belgique/France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "voyage-goyard": [
+  {
+   "id": "voyage-goyard-goyard-saint-louis",
+   "nom": "Goyard Saint-Louis",
+   "assemblage": "France",
+   "origine_pieces": "Toile enduite France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "transport-thalys": [
+  {
+   "id": "transport-thalys-thalys-paris-amsterdam",
+   "nom": "Thalys Paris-Amsterdam",
+   "assemblage": "France/Pays-Bas",
+   "origine_pieces": "Rame TGV",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "transport-ouigo": [
+  {
+   "id": "transport-ouigo-ouigo-paris-marseille",
+   "nom": "Ouigo Paris-Marseille",
+   "assemblage": "France",
+   "origine_pieces": "Rame TGV Duplex",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "hotellerie-centerparcs": [
+  {
+   "id": "hotellerie-centerparcs-center-parcs-domaine-des-trois-for-ts",
+   "nom": "Center Parcs Domaine des Trois Forêts",
+   "assemblage": "France (Moselle)",
+   "origine_pieces": "Hébergement France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jouets-fisher": [
+  {
+   "id": "jouets-fisher-fisher-price-imaginext",
+   "nom": "Fisher-Price Imaginext",
+   "assemblage": "USA/Mexique",
+   "origine_pieces": "Plastique",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "maison-rosenthal": [
+  {
+   "id": "maison-rosenthal-rosenthal-assiette",
+   "nom": "Rosenthal assiette",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Porcelaine Allemagne",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "jardin-gardena": [
+  {
+   "id": "jardin-gardena-gardena-tuyau-classique",
+   "nom": "Gardena tuyau classique",
+   "assemblage": "Allemagne",
+   "origine_pieces": "PVC",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "montres-omega": [
+  {
+   "id": "montres-omega-omega-speedmaster",
+   "nom": "Omega Speedmaster",
+   "assemblage": "Suisse",
+   "origine_pieces": "Mouvement Suisse",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ],
+ "medias-europe1": [
+  {
+   "id": "medias-europe1-europe-1-radio",
+   "nom": "Europe 1 (radio)",
+   "assemblage": "France",
+   "origine_pieces": "Contenu France",
+   "certifications": [],
+   "note": "Produit phare de la marque."
+  }
+ ]
+}
