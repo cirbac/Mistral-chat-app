@@ -4630,5 +4630,423 @@
  ],
  "medias-france.tv": [
   "france.tv"
+ ],
+ "pneus-dunlop": [
+  "dunlop"
+ ],
+ "pneus-matador": [
+  "matador"
+ ],
+ "pneus-uniroyal": [
+  "uniroyal"
+ ],
+ "pneus-kormoran": [
+  "kormoran",
+  "tigar"
+ ],
+ "electromenager-siemens": [
+  "siemens"
+ ],
+ "electromenager-neff": [
+  "neff"
+ ],
+ "electromenager-gaggenau": [
+  "gaggenau"
+ ],
+ "clim-carrier": [
+  "carrier"
+ ],
+ "clim-trane": [
+  "trane"
+ ],
+ "chauffage-atlantic": [
+  "atlantic",
+  "sauter",
+  "thermor"
+ ],
+ "chauffage-noirot": [
+  "noirot"
+ ],
+ "chauffage-acova": [
+  "acova"
+ ],
+ "tv-jvc": [
+  "jvc"
+ ],
+ "tv-telefunken": [
+  "telefunken"
+ ],
+ "pc-framework": [
+  "framework"
+ ],
+ "audio-focal": [
+  "focal",
+  "naim"
+ ],
+ "audio-cabasse": [
+  "cabasse"
+ ],
+ "audio-triangle": [
+  "triangle"
+ ],
+ "audio-kef": [
+  "kef"
+ ],
+ "audio-bluesound": [
+  "bluesound"
+ ],
+ "reseau-netgear": [
+  "netgear"
+ ],
+ "reseau-linksys": [
+  "linksys"
+ ],
+ "nas-synology": [
+  "synology"
+ ],
+ "nas-qnap": [
+  "qnap"
+ ],
+ "ecran-benq": [
+  "benq"
+ ],
+ "ecran-eizo": [
+  "eizo"
+ ],
+ "clavier-cherry": [
+  "cherry"
+ ],
+ "clavier-lamy": [
+  "lamy"
+ ],
+ "stylo-parker": [
+  "parker",
+  "waterman"
+ ],
+ "stylo-pilot": [
+  "pilot"
+ ],
+ "montre-amazfit": [
+  "amazfit"
+ ],
+ "montre-coros": [
+  "coros"
+ ],
+ "liseuse-tolino": [
+  "tolino"
+ ],
+ "logiciels-proxmox": [
+  "proxmox"
+ ],
+ "logiciels-atlassian": [
+  "atlassian",
+  "confluence",
+  "jira",
+  "trello"
+ ],
+ "logiciels-gitlab": [
+  "gitlab"
+ ],
+ "logiciels-docker": [
+  "docker"
+ ],
+ "logiciels-notion": [
+  "notion"
+ ],
+ "logiciels-zoom": [
+  "zoom"
+ ],
+ "ia-anthropic": [
+  "anthropic",
+  "claude"
+ ],
+ "ia-openai": [
+  "chatgpt",
+  "openai"
+ ],
+ "ia-google-gemini": [
+  "gemini",
+  "google ai"
+ ],
+ "ia-xai": [
+  "grok",
+  "xai"
+ ],
+ "lait-yoplait": [
+  "yoplait"
+ ],
+ "beurre-elle-vire": [
+  "elle & vire"
+ ],
+ "fromage-bel-lot6? skip": [
+  "x"
+ ],
+ "fromage-philadelphia": [
+  "leerdammer",
+  "philadelphia",
+  "saint môret",
+  "tartare"
+ ],
+ "choco-leonidas": [
+  "guylian",
+  "leonidas",
+  "neuhaus"
+ ],
+ "choco-laderach": [
+  "frey",
+  "läderach",
+  "villars"
+ ],
+ "choco-godiva": [
+  "godiva"
+ ],
+ "glace-magnum": [
+  "carte d'or",
+  "cornetto",
+  "magnum"
+ ],
+ "cereales-weetabix": [
+  "alpen",
+  "jordans",
+  "quaker",
+  "weetabix"
+ ],
+ "snacks-brets": [
+  "bret's"
+ ],
+ "snacks-walkers": [
+  "tyrrells",
+  "walkers"
+ ],
+ "surgeles-thiriet": [
+  "thiriet",
+  "toupnot"
+ ],
+ "boulangerie-paul": [
+  "kayser",
+  "paul"
+ ],
+ "boulangerie-pasquier": [
+  "brioche pasquier",
+  "la mie câline"
+ ],
+ "sauce-amora": [
+  "amora",
+  "la baleine",
+  "maille"
+ ],
+ "epices-ducros": [
+  "ducros"
+ ],
+ "petfood-royalcanin": [
+  "friskies",
+  "royal canin"
+ ],
+ "bebe-bladina": [
+  "babybio",
+  "blédina",
+  "hipp"
+ ],
+ "pharma-grifols": [
+  "grifols"
+ ],
+ "pharma-octapharma": [
+  "octapharma"
+ ],
+ "rasage-bic": [
+  "bic"
+ ],
+ "beaute-sisley": [
+  "carita",
+  "sisley"
+ ],
+ "beaute-la-prairie": [
+  "la prairie"
+ ],
+ "beaute-kerastase": [
+  "biotherm",
+  "kérastase",
+  "matrix",
+  "maybelline",
+  "redken"
+ ],
+ "fashion-barbour": [
+  "barbour"
+ ],
+ "fashion-belstaff": [
+  "belstaff"
+ ],
+ "fashion-hackett": [
+  "hackett"
+ ],
+ "fashion-fredperry": [
+  "fred perry"
+ ],
+ "fashion-isabelmarant": [
+  "ami",
+  "isabel marant",
+  "étoile"
+ ],
+ "fashion-jacquemus": [
+  "jacquemus"
+ ],
+ "fashion-alaia": [
+  "alaïa",
+  "jil sander (otb), miu miu"
+ ],
+ "poussette-bugaboo": [
+  "bugaboo"
+ ],
+ "poussette-stokke": [
+  "stokke"
+ ],
+ "siege-maxicosi": [
+  "bébé confort",
+  "dorel",
+  "maxi-cosi"
+ ],
+ "maroquinerie-lancel": [
+  "lancel",
+  "lipault"
+ ],
+ "mode-enfant-orchestra": [
+  "cyrillus",
+  "orchestra",
+  "sergent major",
+  "tape à l'œil"
+ ],
+ "mode-enfant-gemo": [
+  "gémo",
+  "la halle"
+ ],
+ "auto-euromaster": [
+  "euromaster",
+  "point s",
+  "speedy",
+  "vulco"
+ ],
+ "gaz-antargaz": [
+  "antargaz",
+  "primagaz"
+ ],
+ "banque-hsbc-fr": [
+  "ccf",
+  "hsbc france"
+ ],
+ "bourse-etoro": [
+  "etoro"
+ ],
+ "croisiere-costa": [
+  "costa",
+  "cunard"
+ ],
+ "croisiere-princess": [
+  "celebrity",
+  "norwegian cruise line",
+  "princess"
+ ],
+ "velo-winora": [
+  "winora"
+ ],
+ "hotellerie-barcelo": [
+  "barceló"
+ ],
+ "ota-expedia": [
+  "expedia",
+  "hotels.com",
+  "vrbo"
+ ],
+ "palace-raffles": [
+  "one&only",
+  "peninsula",
+  "raffles",
+  "rosewood",
+  "shangri-la"
+ ],
+ "hotellerie-wyndham": [
+  "choice hotels",
+  "wyndham"
+ ],
+ "jeux-goliath": [
+  "dujardin",
+  "goliath",
+  "nathan"
+ ],
+ "ustensiles-brrabantia": [
+  "brabantia",
+  "joseph joseph",
+  "oxo",
+  "russell hobbs"
+ ],
+ "deco-centrakor": [
+  "centrakor"
+ ],
+ "montres-piaget": [
+  "piaget"
+ ],
+ "bijoux-tiffany": [
+  "tiffany"
+ ],
+ "bijoux-bulgari": [
+  "buccellati",
+  "bulgari"
+ ],
+ "optique-marcolin": [
+  "marcolin",
+  "maui jim",
+  "persol (el)"
+ ],
+ "social-tiktok": [
+  "tiktok"
+ ],
+ "social-x": [
+  "x"
+ ],
+ "social-snapchat": [
+  "snapchat"
+ ],
+ "social-meta": [
+  "facebook",
+  "instagram",
+  "meta"
+ ],
+ "social-pinterest": [
+  "pinterest"
+ ],
+ "social-reddit": [
+  "reddit"
+ ],
+ "social-discord": [
+  "discord"
+ ],
+ "resto-mcdonalds": [
+  "mcdonald's"
+ ],
+ "resto-kfc": [
+  "kfc"
+ ],
+ "resto-quick": [
+  "quick"
+ ],
+ "resto-flunch": [
+  "flunch"
+ ],
+ "resto-hippopotamus": [
+  "hippopotamus",
+  "léon"
+ ],
+ "resto-buffalogrill": [
+  "buffalo grill",
+  "la pataterie"
+ ],
+ "resto-chipotle": [
+  "chipotle"
+ ],
+ "resto-subway": [
+  "subway"
+ ],
+ "pizza-dominos": [
+  "domino's",
+  "pizza hut"
  ]
 }
