@@ -4949,5 +4949,138 @@
  ],
  "resto-pataterie": [
   "la pataterie"
+ ],
+ "auto-opel": [
+  "opel",
+  "vauxhall",
+  "corsa",
+  "astra",
+  "insignia",
+  "voiture allemande"
+ ],
+ "moto-vespa": [
+  "vespa",
+  "scooter",
+  "primavera",
+  "gts",
+  "italien",
+  "trois-roues"
+ ],
+ "boissons-evian": [
+  "evian",
+  "eau minérale",
+  "bouteille d'eau",
+  "eau plate",
+  "danone",
+  "source"
+ ],
+ "labo-astrazeneca": [
+  "médicament",
+  "vaccin",
+  "laboratoire",
+  "pharmaceutique",
+  "astrazeneca",
+  "oncologie"
+ ],
+ "labo-pfizer": [
+  "médicament",
+  "vaccin",
+  "laboratoire",
+  "pharmaceutique",
+  "pfizer",
+  "comirnaty"
+ ],
+ "beaute-garnier": [
+  "shampoing",
+  "soin cheveux",
+  "fructis",
+  "garnier",
+  "crème solaire",
+  "ambre solaire",
+  "coloration"
+ ],
+ "beaute-maybelline": [
+  "maquillage",
+  "mascara",
+  "sky high",
+  "rouge à lèvres",
+  "fond de teint",
+  "maybelline",
+  "vernis"
+ ],
+ "fashion-desigual": [
+  "vêtement",
+  "t-shirt",
+  "desigual",
+  "espagnol",
+  "coloré",
+  "patch",
+  "imprimé"
+ ],
+ "fashion-petit-bateau": [
+  "body bébé",
+  "sous-vêtement",
+  "layette",
+  "enfant",
+  "bébé",
+  "petit bateau",
+  "troyes",
+  "tricot"
+ ],
+ "bagage-rimowa": [
+  "valise",
+  "bagage",
+  "rimowa",
+  "cabine",
+  "aluminium",
+  "voyage",
+  "allemagne"
+ ],
+ "sac-osprey": [
+  "sac à dos",
+  "randonnée",
+  "trekking",
+  "osprey",
+  "atmos",
+  "sac de voyage",
+  "camping"
+ ],
+ "distri-sephora": [
+  "parfumerie",
+  "maquillage",
+  "beauté",
+  "sephora",
+  "cosmétique",
+  "parfum",
+  "magasin"
+ ],
+ "banque-arkea": [
+  "banque",
+  "crédit mutuel arkéa",
+  "arkéa",
+  "compte bancaire",
+  "bretagne",
+  "coopérative",
+  "assurance"
+ ],
+ "transport-keolis": [
+  "transport en commun",
+  "bus",
+  "tramway",
+  "métro",
+  "car",
+  "keolis",
+  "sncf",
+  "mobilité"
+ ],
+ "jouets-mga": [
+  "jouet",
+  "poupée",
+  "l.o.l.",
+  "bratz",
+  "little tikes",
+  "mga",
+  "surprise",
+  "poupée surprise"
  ]
 }
