@@ -1,0 +1,466 @@
+{
+ "01": {
+  "groupes": [
+   {
+    "id": "auto-opel",
+    "groupe": "Opel (Stellantis)",
+    "marques": [
+     "Opel",
+     "Vauxhall"
+    ],
+    "siege": "Allemagne (Rüsselsheim)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Constructeurs européens",
+    "commentaire": "Marque allemande du groupe Stellantis ; Corsa produite à Figueruelas (Zaragoza, Espagne) [372].",
+    "sources": [
+     372
+    ],
+    "lieux_production": [
+     "Espagne (Figueruelas)",
+     "Allemagne (Rüsselsheim, Eisenach)",
+     "Pologne (Gliwice)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "auto-opel-corsa",
+      "nom": "Opel Corsa",
+      "assemblage": "Espagne (Figueruelas, Zaragoza)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Citadine produite en Espagne ; version électrique assemblée en Espagne."
+     }
+    ]
+   }
+  ]
+ },
+ "02": {
+  "groupes": [
+   {
+    "id": "moto-vespa",
+    "groupe": "Vespa (Piaggio Group)",
+    "marques": [
+     "Vespa"
+    ],
+    "siege": "Italie (Pontedera, Toscane)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Marque italienne de scooters du groupe Piaggio ; produite à Pontedera (Italie) [373].",
+    "sources": [
+     373
+    ],
+    "lieux_production": [
+     "Italie (Pontedera)",
+     "Vietnam",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "moto-vespa-primavera",
+      "nom": "Vespa Primavera",
+      "assemblage": "Italie (Pontedera)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Scooter iconique produit sur le site historique de Pontedera."
+     }
+    ]
+   }
+  ]
+ },
+ "08": {
+  "groupes": [
+   {
+    "id": "boissons-evian",
+    "groupe": "Evian (Danone)",
+    "marques": [
+     "Evian"
+    ],
+    "siege": "France (Évian-les-Bains, Haute-Savoie)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "",
+    "commentaire": "Eau minérale naturelle de la source Cachat à Évian-les-Bains, embouteillée sur place ; marque du groupe Danone [374].",
+    "sources": [
+     374
+    ],
+    "lieux_production": [
+     "France (Évian-les-Bains)"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "boissons-evian-1l",
+      "nom": "Bouteille Evian 1 L",
+      "assemblage": "France (Évian-les-Bains)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Eau minérale embouteillée à la source."
+     }
+    ]
+   }
+  ]
+ },
+ "09": {
+  "groupes": [
+   {
+    "id": "labo-astrazeneca",
+    "groupe": "AstraZeneca",
+    "marques": [
+     "AstraZeneca"
+    ],
+    "siege": "Royaume-Uni (Cambridge)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "Laboratoire pharmaceutique anglo-suédois (Cambridge, UK) : oncologie, vaccins, médicaments cardiovasculaires [375].",
+    "sources": [
+     375
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Suède",
+     "États-Unis"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "labo-pfizer",
+    "groupe": "Pfizer",
+    "marques": [
+     "Pfizer"
+    ],
+    "siege": "États-Unis (New York)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "Laboratoire pharmaceutique américain (New York) : vaccins, médicaments (Comirnaty avec BioNTech) [376]. Hors de vos zones.",
+    "sources": [
+     376
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Belgique (Puurs)",
+     "Allemagne",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09b": {
+  "groupes": [
+   {
+    "id": "beaute-garnier",
+    "groupe": "Garnier (L'Oréal)",
+    "marques": [
+     "Garnier",
+     "Fructis",
+     "Ambre Solaire"
+    ],
+    "siege": "France (Clichy)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Soins peau et cheveux",
+    "commentaire": "Marque française de soins capillaires et solaires (Fructis, Ambre Solaire), détenue par L'Oréal [377].",
+    "sources": [
+     377
+    ],
+    "lieux_production": [
+     "France",
+     "Pologne",
+     "Chine",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "beaute-garnier-fructis",
+      "nom": "Shampoing Fructis",
+      "assemblage": "France",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Gamme capillaire Garnier, produite en France et en Europe."
+     }
+    ]
+   },
+   {
+    "id": "beaute-maybelline",
+    "groupe": "Maybelline (L'Oréal)",
+    "marques": [
+     "Maybelline",
+     "Maybelline New York"
+    ],
+    "siege": "France (Clichy, via L'Oréal)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Cosmétiques et maquillage",
+    "commentaire": "Marque de maquillage fondée à New York en 1915, détenue par L'Oréal (France) depuis 1996 [378].",
+    "sources": [
+     378
+    ],
+    "lieux_production": [
+     "France",
+     "États-Unis",
+     "Chine",
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "beaute-maybelline-skyhigh",
+      "nom": "Mascara Sky High",
+      "assemblage": "France",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Mascara iconique de la marque, produit en France."
+     }
+    ]
+   }
+  ]
+ },
+ "10": {
+  "groupes": [
+   {
+    "id": "fashion-desigual",
+    "groupe": "Desigual",
+    "marques": [
+     "Desigual"
+    ],
+    "siege": "Espagne (Barcelone)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Marque espagnole de prêt-à-porter coloré (patchs, imprimés), fondée à Barcelone en 1984 par Thomas Meyer [379].",
+    "sources": [
+     379
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Chine",
+     "Inde",
+     "Portugal"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "fashion-desigual-tshirt",
+      "nom": "T-shirt Desigual",
+      "assemblage": "Chine / Espagne selon les collections",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Pièce iconique à imprimés colorés."
+     }
+    ]
+   },
+   {
+    "id": "fashion-petit-bateau",
+    "groupe": "Petit Bateau",
+    "marques": [
+     "Petit Bateau"
+    ],
+    "siege": "France (Troyes, Aube)",
+    "siege_pays": "FR",
+    "statut": "vigilance",
+    "sous_categorie": "Prêt-à-porter grand public",
+    "commentaire": "Marque française fondée à Troyes en 1893 ; cédée en septembre 2025 au fonds américain Regent (ex-groupe Rocher). Usine historique à Troyes (tricotage), confection aussi au Maroc et en Tunisie [380]. Vigilance : rachat par un fonds américain.",
+    "sources": [
+     380
+    ],
+    "lieux_production": [
+     "France (Troyes)",
+     "Maroc (Marrakech)",
+     "Tunisie"
+    ],
+    "certifications": [
+     "Entreprise du Patrimoine Vivant"
+    ],
+    "produits": [
+     {
+      "id": "fashion-petit-bateau-body",
+      "nom": "Body bébé Petit Bateau",
+      "assemblage": "France (Troyes) pour le tricotage ; confection France/Maroc/Tunisie",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Sous-vêtement bébé iconique de la marque."
+     }
+    ]
+   }
+  ]
+ },
+ "11": {
+  "groupes": [
+   {
+    "id": "bagage-rimowa",
+    "groupe": "Rimowa (LVMH)",
+    "marques": [
+     "Rimowa"
+    ],
+    "siege": "Allemagne (Cologne)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Valises et bagagerie",
+    "commentaire": "Bagagerie allemande fondée à Cologne en 1898 (valises aluminium « grooved »), détenue par LVMH depuis 2016 [381].",
+    "sources": [
+     381
+    ],
+    "lieux_production": [
+     "Allemagne (Cologne)",
+     "République tchèque"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "bagage-rimowa-cabine",
+      "nom": "Valise cabine Essential (aluminium)",
+      "assemblage": "Allemagne (Cologne)",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Valise rigide aluminium produite en Allemagne."
+     }
+    ]
+   },
+   {
+    "id": "sac-osprey",
+    "groupe": "Osprey",
+    "marques": [
+     "Osprey"
+    ],
+    "siege": "États-Unis (Cortez, Colorado)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Sacs à dos et vêtements de montagne",
+    "commentaire": "Fabricant américain de sacs à dos techniques (randonnée, trekking) fondé en 1974 à Cortez (Colorado) [382]. Hors de vos zones.",
+    "sources": [
+     382
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Vietnam",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "sac-osprey-atmos",
+      "nom": "Sac à dos Atmos AG",
+      "assemblage": "Vietnam",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Sac de randonnée avec harnais anti-gravité, produit au Vietnam."
+     }
+    ]
+   }
+  ]
+ },
+ "12": {
+  "groupes": [
+   {
+    "id": "distri-sephora",
+    "groupe": "Sephora (LVMH)",
+    "marques": [
+     "Sephora"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Enseigne de parfumerie et beauté fondée à Paris en 1970, détenue par LVMH depuis 1997 [383].",
+    "sources": [
+     383
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "14": {
+  "groupes": [
+   {
+    "id": "banque-arkea",
+    "groupe": "Crédit Mutuel Arkéa",
+    "marques": [
+     "Crédit Mutuel Arkéa",
+     "Arkéa Banque Privée",
+     "Suravenir"
+    ],
+    "siege": "France (Le Relecq-Kerhuon, près de Brest)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Banques, banques en ligne et courtiers",
+    "commentaire": "Coopérative bancaire française indépendante (Crédit Mutuel Arkéa, Bretagne) : banque en ligne et réseau de agences [384].",
+    "sources": [
+     384
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "15": {
+  "groupes": [
+   {
+    "id": "transport-keolis",
+    "groupe": "Keolis (SNCF)",
+    "marques": [
+     "Keolis"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Opérateur de transport en commun (bus, tram, métro, cars) présent dans une vingtaine de pays, filiale de la SNCF [385].",
+    "sources": [
+     385
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "17": {
+  "groupes": [
+   {
+    "id": "jouets-mga",
+    "groupe": "MGA Entertainment",
+    "marques": [
+     "MGA",
+     "L.O.L. Surprise!",
+     "Bratz",
+     "Little Tikes"
+    ],
+    "siege": "États-Unis (Los Angeles, Californie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Jouets et jeux de société",
+    "commentaire": "Fabricant américain de jouets (L.O.L. Surprise!, Bratz, Little Tikes), Los Angeles [386]. Hors de vos zones.",
+    "sources": [
+     386
+    ],
+    "lieux_production": [
+     "Chine",
+     "États-Unis",
+     "Mexique"
+    ],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "jouets-mga-lol",
+      "nom": "Poupée L.O.L. Surprise!",
+      "assemblage": "Chine",
+      "origine_pieces": null,
+      "certifications": [],
+      "note": "Poupée surprise à collectionner, produite en Chine."
+     }
+    ]
+   }
+  ]
+ }
+}
