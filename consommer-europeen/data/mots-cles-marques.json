@@ -4949,5 +4949,1185 @@
  ],
  "resto-pataterie": [
   "la pataterie"
+ ],
+ "motos-et-scooters-mv-agusta": [
+  "mv agusta",
+  "mv",
+  "moto",
+  "motos",
+  "sportive",
+  "italie",
+  "roadster",
+  "brutale",
+  "superveloce"
+ ],
+ "motos-et-scooters-energica": [
+  "energica",
+  "moto electrique",
+  "electrique",
+  "italie",
+  "superbike electrique"
+ ],
+ "motos-et-scooters-kymco": [
+  "kymco",
+  "taiwan",
+  "scooter",
+  "moto",
+  "125",
+  "xciting",
+  "downtown"
+ ],
+ "motos-et-scooters-sym": [
+  "sym",
+  "taiwan",
+  "scooter",
+  "125",
+  "jet",
+  "orbit",
+  "gts"
+ ],
+ "motos-et-scooters-benelli": [
+  "benelli",
+  "italie",
+  "moto",
+  "roadster",
+  "leoncino",
+  "trk",
+  "tnt"
+ ],
+ "motos-et-scooters-qianjiang-qjmotor-keeway": [
+  "qjmotor",
+  "keeway",
+  "qianjiang",
+  "moto",
+  "scooter",
+  "chine",
+  "benelli"
+ ],
+ "motos-et-scooters-moto-morini": [
+  "moto morini",
+  "morini",
+  "italie",
+  "moto",
+  "roadster",
+  "scrambler",
+  "x-cape"
+ ],
+ "motos-et-scooters-swm": [
+  "swm",
+  "moto",
+  "italie",
+  "superleggera",
+  "rs 650",
+  "scrambler"
+ ],
+ "logiciels-et-applications-magic-lane": [
+  "magic lane",
+  "magic earth",
+  "carte",
+  "navigation",
+  "gps",
+  "app"
+ ],
+ "logiciels-et-applications-komoot": [
+  "komoot",
+  "randonnee",
+  "velo",
+  "vtt",
+  "gps",
+  "itineraire",
+  "rando",
+  "bike"
+ ],
+ "logiciels-et-applications-yandex": [
+  "yandex",
+  "yandex maps",
+  "moteur de recherche",
+  "russe",
+  "navigation"
+ ],
+ "logiciels-et-applications-rakuten": [
+  "rakuten",
+  "viber",
+  "messagerie",
+  "app",
+  "japon"
+ ],
+ "logiciels-et-applications-ly-corporation": [
+  "line",
+  "ly corporation",
+  "messagerie",
+  "app",
+  "japon",
+  "coree"
+ ],
+ "logiciels-et-applications-kakao": [
+  "kakaotalk",
+  "kakao",
+  "messagerie",
+  "coree du sud",
+  "app"
+ ],
+ "logiciels-et-applications-signal-foundation": [
+  "signal",
+  "messagerie",
+  "chiffree",
+  "app",
+  "usa"
+ ],
+ "logiciels-et-applications-meta": [
+  "whatsapp",
+  "messenger",
+  "facebook",
+  "instagram",
+  "meta",
+  "messagerie"
+ ],
+ "logiciels-et-applications-telegram": [
+  "telegram",
+  "messagerie",
+  "app",
+  "emirats arabes unis"
+ ],
+ "logiciels-et-applications-tencent": [
+  "wechat",
+  "qq",
+  "tencent",
+  "messagerie",
+  "chine"
+ ],
+ "logiciels-et-applications-tixeo": [
+  "tixeo",
+  "visioconference",
+  "app",
+  "securisee",
+  "france"
+ ],
+ "logiciels-et-applications-samsung": [
+  "samsung internet",
+  "navigateur",
+  "app",
+  "coree"
+ ],
+ "logiciels-et-applications-naver": [
+  "naver",
+  "whale",
+  "navigateur",
+  "coree"
+ ],
+ "logiciels-et-applications-brave-software": [
+  "brave",
+  "navigateur",
+  "bloqueur de pub",
+  "app",
+  "usa"
+ ],
+ "logiciels-et-applications-opera-limited": [
+  "opera",
+  "opera gx",
+  "navigateur",
+  "norvege",
+  "vpn"
+ ],
+ "logiciels-et-applications-alibaba": [
+  "uc browser",
+  "alibaba",
+  "navigateur",
+  "chine"
+ ],
+ "logiciels-et-applications-european-search-perspective": [
+  "european search perspective",
+  "index staan",
+  "moteur de recherche",
+  "europeen"
+ ],
+ "logiciels-et-applications-startpage": [
+  "startpage",
+  "moteur de recherche",
+  "prive",
+  "anonyme"
+ ],
+ "logiciels-et-applications-hancom": [
+  "hancom",
+  "hancom office",
+  "bureautique",
+  "coree"
+ ],
+ "logiciels-et-applications-dropbox": [
+  "dropbox",
+  "cloud",
+  "stockage",
+  "fichiers",
+  "usa"
+ ],
+ "logiciels-et-applications-kingsoft": [
+  "wps office",
+  "kingsoft",
+  "bureautique",
+  "chine"
+ ],
+ "logiciels-et-applications-murena": [
+  "murena",
+  "/e/os",
+  "eos",
+  "smartphone",
+  "os",
+  "android degooglise",
+  "france"
+ ],
+ "logiciels-et-applications-jolla": [
+  "jolla",
+  "sailfish",
+  "sailfish os",
+  "os",
+  "finlande",
+  "smartphone"
+ ],
+ "logiciels-et-applications-canonical": [
+  "canonical",
+  "ubuntu",
+  "linux",
+  "os",
+  "distribution"
+ ],
+ "logiciels-et-applications-suse": [
+  "suse",
+  "opensuse",
+  "linux",
+  "os",
+  "allemagne"
+ ],
+ "logiciels-et-applications-grapheneos": [
+  "grapheneos",
+  "android",
+  "securise",
+  "os",
+  "smartphone"
+ ],
+ "logiciels-et-applications-google": [
+  "google",
+  "android",
+  "chrome",
+  "play store",
+  "usa",
+  "recherche"
+ ],
+ "logiciels-et-applications-passbolt": [
+  "passbolt",
+  "gestionnaire de mots de passe",
+  "password",
+  "open source",
+  "france"
+ ],
+ "logiciels-et-applications-1password": [
+  "1password",
+  "gestionnaire de mots de passe",
+  "password",
+  "canada"
+ ],
+ "logiciels-et-applications-bitwarden": [
+  "bitwarden",
+  "gestionnaire de mots de passe",
+  "password",
+  "usa",
+  "open source"
+ ],
+ "logiciels-et-applications-mastodon-ggmbh": [
+  "mastodon",
+  "reseau social",
+  "federe",
+  "open source",
+  "allemagne"
+ ],
+ "logiciels-et-applications-x-corp": [
+  "x",
+  "twitter",
+  "reseau social",
+  "usa"
+ ],
+ "logiciels-et-applications-bluesky": [
+  "bluesky",
+  "reseau social",
+  "usa",
+  "at protocol"
+ ],
+ "logiciels-et-applications-bytedance": [
+  "tiktok",
+  "douyin",
+  "capcut",
+  "bytedance",
+  "chine",
+  "reseau social",
+  "montage video"
+ ],
+ "logiciels-et-applications-xiaohongshu": [
+  "rednote",
+  "xiaohongshu",
+  "reseau social",
+  "chine"
+ ],
+ "logiciels-et-applications-mistral-ai": [
+  "mistral",
+  "mistral ai",
+  "le chat",
+  "ia",
+  "intelligence artificielle",
+  "francais",
+  "llm"
+ ],
+ "logiciels-et-applications-trainline": [
+  "trainline",
+  "train",
+  "billet",
+  "voyage",
+  "app",
+  "europeen"
+ ],
+ "logiciels-et-applications-omio": [
+  "omio",
+  "bus",
+  "train",
+  "voyage",
+  "billet",
+  "app"
+ ],
+ "logiciels-et-applications-bolt": [
+  "bolt",
+  "vtc",
+  "taxi",
+  "app",
+  "estonie"
+ ],
+ "logiciels-et-applications-edreams-odigeo": [
+  "edreams",
+  "opodo",
+  "go voyages",
+  "voyage",
+  "vol",
+  "hotel",
+  "app"
+ ],
+ "logiciels-et-applications-booking-holdings": [
+  "booking.com",
+  "kayak",
+  "reservation",
+  "hotel",
+  "vol",
+  "usa"
+ ],
+ "logiciels-et-applications-airbnb": [
+  "airbnb",
+  "logement",
+  "location",
+  "voyage",
+  "usa"
+ ],
+ "logiciels-et-applications-uber": [
+  "uber",
+  "vtc",
+  "taxi",
+  "livraison",
+  "usa",
+  "app"
+ ],
+ "alimentation-et-boissons-remy-cointreau": [
+  "remy martin",
+  "cointreau",
+  "remy cointreau",
+  "cognac",
+  "liqueur",
+  "spiritueux"
+ ],
+ "alimentation-et-boissons-cemoi": [
+  "cemois",
+  "cemoji",
+  "chocolat",
+  "chocolaterie",
+  "ile de la reunion"
+ ],
+ "alimentation-et-boissons-ajinomoto": [
+  "ajinomoto",
+  "japon",
+  "assaisonnement",
+  "glutamate",
+  "sauce"
+ ],
+ "alimentation-et-boissons-nongshim": [
+  "nongshim",
+  "shin ramyun",
+  "ramen",
+  "nouilles",
+  "coree du sud"
+ ],
+ "alimentation-et-boissons-cj-cheiljedang": [
+  "cj",
+  "bibigo",
+  "coree du sud",
+  "mandu",
+  "plats coreens"
+ ],
+ "alimentation-et-boissons-lotte": [
+  "lotte",
+  "coree",
+  "japon",
+  "conglomerat",
+  "snacks",
+  "chocolat"
+ ],
+ "alimentation-et-boissons-uni-president": [
+  "uni-president",
+  "taiwan",
+  "agroalimentaire",
+  "jus de fruit",
+  "conglomerat"
+ ],
+ "alimentation-et-boissons-saputo": [
+  "saputo",
+  "canada",
+  "fromage",
+  "lait",
+  "produits laitiers"
+ ],
+ "alimentation-et-boissons-brown-forman": [
+  "brown-forman",
+  "jack daniel's",
+  "whisky",
+  "bourbon",
+  "usa",
+  "bacardi"
+ ],
+ "alimentation-et-boissons-monster-beverage": [
+  "monster",
+  "energy drink",
+  "boisson energisante",
+  "usa",
+  "canette"
+ ],
+ "alimentation-boissons-mondelez": [
+  "mondelez",
+  "oreo",
+  "cadbury",
+  "lu",
+  "milka",
+  "toblerone",
+  "cote d'or",
+  "biscuit",
+  "chocolat",
+  "usa"
+ ],
+ "alimentation-boissons-herta": [
+  "herta",
+  "patisserie industrielle",
+  "jambon",
+  "traiteur",
+  "casa tarradellas"
+ ],
+ "alimentation-et-boissons-kelloggs": [
+  "kellogg's",
+  "kellanova",
+  "pringles",
+  "pop-tarts",
+  "corn flakes",
+  "cereales",
+  "usa"
+ ],
+ "hygiene-beaute-sante-chanel": [
+  "chanel",
+  "parfum",
+  "maquillage",
+  "haute couture",
+  "luxe",
+  "france"
+ ],
+ "hygiene-beaute-sante-hermes": [
+  "hermes",
+  "maroquinerie",
+  "parfum",
+  "soie",
+  "luxe",
+  "france"
+ ],
+ "hygiene-beaute-et-sante-amorepacific": [
+  "amorepacific",
+  "laneige",
+  "sulwhasoo",
+  "cosmetique",
+  "coree du sud",
+  "soin"
+ ],
+ "hygiene-beaute-et-sante-opella": [
+  "opella",
+  "doliprane",
+  "dulcolax",
+  "novanuit",
+  "medicament",
+  "sanofi"
+ ],
+ "hygiene-beaute-et-sante-kose": [
+  "kose",
+  "sekkisei",
+  "cosmetique",
+  "japon",
+  "soin"
+ ],
+ "hygiene-beaute-et-sante-pola-orbis": [
+  "pola",
+  "orbis",
+  "cosmetique",
+  "japon",
+  "soin"
+ ],
+ "hygiene-beaute-et-sante-lg-h-h": [
+  "lg h&h",
+  "the history of whoo",
+  "belif",
+  "coree du sud",
+  "cosmetique",
+  "soin"
+ ],
+ "voyage-et-plein-air-k2-group": [
+  "k2",
+  "eider",
+  "coree du sud",
+  "vetement",
+  "ski",
+  "outdoor"
+ ],
+ "voyage-et-plein-air-amer-sports": [
+  "amer sports",
+  "salomon",
+  "arc'teryx",
+  "atomic",
+  "wilson",
+  "ski",
+  "velo",
+  "running"
+ ],
+ "voyage-et-plein-air-anta-sports": [
+  "anta",
+  "jack wolfskin",
+  "chine",
+  "sport",
+  "equipementier"
+ ],
+ "voyage-et-plein-air-asics": [
+  "asics",
+  "japon",
+  "running",
+  "trail",
+  "chaussure",
+  "sport"
+ ],
+ "voyage-et-plein-air-foxconn": [
+  "foxconn",
+  "belkin",
+  "taiwan",
+  "electronique",
+  "accessoire"
+ ],
+ "voyage-plein-air-booking": [
+  "booking",
+  "booking.com",
+  "hotel",
+  "reservation",
+  "voyage"
+ ],
+ "voyage-plein-air-airbnb": [
+  "airbnb",
+  "location",
+  "logement",
+  "voyage",
+  "usa"
+ ],
+ "distribution-paiement-action": [
+  "action",
+  "magasin",
+  "hard discount",
+  "prix bas",
+  "hollande"
+ ],
+ "telecoms-numerique-et-energie-scaleway-groupe-iliad": [
+  "scaleway",
+  "hebergement",
+  "cloud",
+  "iliad",
+  "france",
+  "serveur"
+ ],
+ "telecoms-energie-octopus-energy": [
+  "octopus energy",
+  "plum",
+  "energie",
+  "fournisseur",
+  "royaume-uni"
+ ],
+ "banque-assurance-et-epargne-saxo-bank": [
+  "saxo",
+  "saxo bank",
+  "trading",
+  "bourse",
+  "banque en ligne",
+  "danemark"
+ ],
+ "banque-assurance-et-epargne-lydia": [
+  "lydia",
+  "paiement mobile",
+  "app",
+  "france",
+  "carte"
+ ],
+ "banque-assurance-et-epargne-ccf-my-money-group": [
+  "ccf",
+  "my money group",
+  "banque",
+  "france",
+  "hsbc"
+ ],
+ "banque-assurance-et-epargne-zurich": [
+  "zurich",
+  "assurance",
+  "suisse",
+  "banque"
+ ],
+ "banque-assurance-et-epargne-swiss-life": [
+  "swiss life",
+  "assurance",
+  "suisse"
+ ],
+ "banque-assurance-et-epargne-aviva": [
+  "aviva",
+  "assurance",
+  "royaume-uni"
+ ],
+ "banque-assurance-et-epargne-ping-an": [
+  "ping an",
+  "assurance",
+  "banque",
+  "chine"
+ ],
+ "banque-assurance-et-epargne-dws": [
+  "dws",
+  "xtrackers",
+  "etf",
+  "allemagne",
+  "asset management"
+ ],
+ "banque-assurance-et-epargne-nomura-asset-management": [
+  "nomura",
+  "etf",
+  "bnp paribas easy",
+  "japon"
+ ],
+ "banque-assurance-et-epargne-ubs-etf": [
+  "ubs",
+  "etf",
+  "banque",
+  "suisse"
+ ],
+ "banque-assurance-et-epargne-nomura": [
+  "nomura",
+  "banque",
+  "japon"
+ ],
+ "banque-assurance-et-epargne-mirae-asset": [
+  "mirae asset",
+  "global x",
+  "etf",
+  "coree du sud"
+ ],
+ "banque-assurance-et-epargne-satoshilabs": [
+  "satoshi labs",
+  "trezor",
+  "hardware wallet",
+  "crypto",
+  "republique tcheque"
+ ],
+ "banque-assurance-et-epargne-binance": [
+  "binance",
+  "crypto",
+  "exchange",
+  "vigilance"
+ ],
+ "banque-assurance-epargne-axa": [
+  "axa",
+  "assurance",
+  "france"
+ ],
+ "transport-et-mobilite-iag": [
+  "iag",
+  "british airways",
+  "iberia",
+  "vueling",
+  "aer lingus",
+  "compagnie aerienne"
+ ],
+ "transport-et-mobilite-finnair": [
+  "finnair",
+  "compagnie aerienne",
+  "finlande",
+  "vol"
+ ],
+ "transport-et-mobilite-norwegian": [
+  "norwegian",
+  "compagnie aerienne",
+  "norvege",
+  "low cost",
+  "vol"
+ ],
+ "transport-et-mobilite-groupe-dubreuil": [
+  "dubreuil",
+  "air caraibes",
+  "french bee",
+  "compagnie aerienne",
+  "france"
+ ],
+ "transport-et-mobilite-volotea": [
+  "volotea",
+  "compagnie aerienne",
+  "low cost",
+  "espagne",
+  "vol"
+ ],
+ "transport-et-mobilite-japan-airlines": [
+  "jal",
+  "japan airlines",
+  "compagnie aerienne",
+  "japon",
+  "vol"
+ ],
+ "transport-et-mobilite-korean-air": [
+  "korean air",
+  "compagnie aerienne",
+  "coree du sud",
+  "vol"
+ ],
+ "transport-et-mobilite-eva-air": [
+  "eva air",
+  "compagnie aerienne",
+  "taiwan",
+  "vol"
+ ],
+ "transport-et-mobilite-china-airlines": [
+  "china airlines",
+  "compagnie aerienne",
+  "taiwan",
+  "vol"
+ ],
+ "transport-et-mobilite-air-canada": [
+  "air canada",
+  "compagnie aerienne",
+  "canada",
+  "vol"
+ ],
+ "transport-et-mobilite-transat-a-t": [
+  "air transat",
+  "transat",
+  "compagnie aerienne",
+  "canada",
+  "vol"
+ ],
+ "transport-et-mobilite-qatar-airways": [
+  "qatar airways",
+  "compagnie aerienne",
+  "qatar",
+  "vol"
+ ],
+ "transport-et-mobilite-turkish-airlines": [
+  "turkish airlines",
+  "compagnie aerienne",
+  "turquie",
+  "vol"
+ ],
+ "transport-et-mobilite-singapore-airlines": [
+  "singapore airlines",
+  "compagnie aerienne",
+  "singapour",
+  "vol"
+ ],
+ "transport-et-mobilite-ada": [
+  "ada",
+  "vtc",
+  "mobilite",
+  "france"
+ ],
+ "transport-mobilite-flix": [
+  "flixbus",
+  "flix",
+  "flix train",
+  "bus",
+  "train",
+  "allemagne",
+  "transport"
+ ],
+ "hotellerie-et-hebergement-barriere": [
+  "barriere",
+  "hotel",
+  "casino",
+  "luxe",
+  "france"
+ ],
+ "jouets-et-jeux-video-paradox-interactive": [
+  "paradox interactive",
+  "crusader kings",
+  "cities skylines",
+  "editeur jeux video",
+  "strategie",
+  "suede"
+ ],
+ "jouets-et-jeux-video-remedy": [
+  "remedy",
+  "alan wake",
+  "control",
+  "finlande",
+  "editeur jeux video"
+ ],
+ "jouets-et-jeux-video-embracer-group": [
+  "embracer",
+  "editeur jeux video",
+  "holding",
+  "suede"
+ ],
+ "jouets-et-jeux-video-entertainment": [
+  "focus entertainment",
+  "dotemu",
+  "editeur jeux video",
+  "france"
+ ],
+ "jouets-et-jeux-video-larian-studios": [
+  "larian",
+  "baldurs gate 3",
+  "divinity",
+  "editeur jeux video",
+  "belgique"
+ ],
+ "jouets-et-jeux-video-nexon": [
+  "nexon",
+  "maplestory",
+  "coree du sud",
+  "editeur jeux video",
+  "mmorpg"
+ ],
+ "jouets-et-jeux-video-ncsoft": [
+  "ncsoft",
+  "lineage",
+  "guild wars",
+  "coree du sud",
+  "editeur jeux video",
+  "mmorpg"
+ ],
+ "jouets-et-jeux-video-tencent": [
+  "tencent",
+  "riot games",
+  "supercell",
+  "sumo digital",
+  "chine",
+  "editeur jeux video"
+ ],
+ "jouets-et-jeux-video-mihoyo-hoyoverse": [
+  "mihoyo",
+  "hoyoverse",
+  "genshin impact",
+  "chine",
+  "editeur jeux video",
+  "gacha"
+ ],
+ "jouets-et-jeux-video-netease": [
+  "netease",
+  "chine",
+  "editeur jeux video"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-charmant": [
+  "charmant",
+  "montre",
+  "japon"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-suunto": [
+  "suunto",
+  "montre sport",
+  "gps",
+  "finlande",
+  "randonnee"
+ ],
+ "montres-bijoux-optique-richemont": [
+  "richemont",
+  "cartier",
+  "van cleef",
+  "iwc",
+  "piaget",
+  "montblanc",
+  "baume mercier",
+  "luxe",
+  "montre",
+  "bijou",
+  "suisse"
+ ],
+ "medias-streaming-et-culture-sony-crunchyroll": [
+  "crunchyroll",
+  "sony",
+  "anime",
+  "streaming",
+  "japon"
+ ],
+ "medias-streaming-et-culture-tencent-music": [
+  "tencent music",
+  "qq music",
+  "kugou",
+  "musique",
+  "chine",
+  "streaming"
+ ],
+ "social-x": [
+  "x",
+  "twitter",
+  "reseau social",
+  "usa"
+ ],
+ "medias-streaming-culture-disney": [
+  "disney",
+  "disney+",
+  "pixar",
+  "marvel",
+  "lucasfilm",
+  "usa",
+  "streaming",
+  "cinema"
+ ],
+ "medias-groupe-madrigall": [
+  "madrigall",
+  "gallimard",
+  "flammarion",
+  "casterman",
+  "p.o.l",
+  "folio",
+  "j'ai lu",
+  "denoel",
+  "minuit",
+  "edition",
+  "livre",
+  "france"
+ ],
+ "restauration-et-livraison-de-repas-groupe-le-duff": [
+  "le duff",
+  "brioche doree",
+  "del arte",
+  "bridor",
+  "boulangerie",
+  "pizza"
+ ],
+ "restauration-et-livraison-de-repas-groupe-holder": [
+  "holder",
+  "paul",
+  "boulangerie",
+  "cafe"
+ ],
+ "restauration-et-livraison-de-repas-restaurant-brands-international": [
+  "restaurant brands international",
+  "burger king",
+  "tim hortons",
+  "popeyes",
+  "canada",
+  "fast food"
+ ],
+ "restauration-et-livraison-de-repas-doordash": [
+  "doordash",
+  "livraison de repas",
+  "usa"
+ ],
+ "restauration-livraison-paul": [
+  "paul",
+  "boulangerie",
+  "cafe",
+  "sandwich",
+  "france"
+ ],
+ "restauration-livraison-brioche-doree": [
+  "brioche doree",
+  "boulangerie",
+  "viennoiserie",
+  "france"
+ ],
+ "restauration-livraison-sodexo": [
+  "sodexo",
+  "restauration collective",
+  "pluxee",
+  "france",
+  "repas"
+ ],
+ "restauration-livraison-starbucks": [
+  "starbucks",
+  "cafe",
+  "usa",
+  "coffee shop"
+ ],
+ "restauration-livraison-yum": [
+  "yum",
+  "kfc",
+  "pizza hut",
+  "taco bell",
+  "usa",
+  "fast food"
+ ],
+ "restauration-livraison-rbi": [
+  "burger king",
+  "tim hortons",
+  "popeyes",
+  "rbi",
+  "canada",
+  "fast food",
+  "whopper"
+ ],
+ "restauration-flunch-agapes": [
+  "flunch",
+  "pizza pai",
+  "3 brasseurs",
+  "amarine",
+  "salad and co",
+  "agapes",
+  "restauration"
+ ],
+ "restauration-deliveroo": [
+  "deliveroo",
+  "livraison",
+  "repas",
+  "royaume-uni",
+  "app"
+ ],
+ "pneumatiques-cooper-tire": [
+  "cooper tire",
+  "pneu",
+  "pneumatique",
+  "usa",
+  "goodyear"
+ ],
+ "pneumatiques-sailun": [
+  "sailun",
+  "goodride",
+  "pneu",
+  "pneumatique",
+  "chine"
+ ],
+ "pneumatiques-federal": [
+  "federal",
+  "pneu",
+  "pneumatique",
+  "taiwan"
+ ],
+ "pneumatiques-nankang": [
+  "nankang",
+  "pneu",
+  "pneumatique",
+  "taiwan"
+ ],
+ "televiseurs-vestel": [
+  "vestel",
+  "regal",
+  "finlux",
+  "televiseur",
+  "tv",
+  "turquie"
+ ],
+ "televiseurs-sharp": [
+  "sharp",
+  "aquos",
+  "televiseur",
+  "tv",
+  "japon"
+ ],
+ "televiseurs-vizio": [
+  "vizio",
+  "televiseur",
+  "tv",
+  "usa",
+  "smart tv"
+ ],
+ "televiseurs-medion": [
+  "medion",
+  "televiseur",
+  "tv",
+  "lenovo",
+  "allemagne",
+  "pc"
+ ],
+ "hygiene-sante-pierre-fabre": [
+  "pierre fabre",
+  "avene",
+  "ducray",
+  "klorane",
+  "laboratoire",
+  "dermocosmetique",
+  "france"
+ ],
+ "hygiene-sante-expanscience-mustela": [
+  "expanscience",
+  "mustela",
+  "bebe",
+  "soin",
+  "maternite",
+  "france"
+ ],
+ "hygiene-sante-weleda": [
+  "weleda",
+  "suisse",
+  "soin",
+  "naturel",
+  "bebe"
+ ],
+ "medias-streaming-culture-deezer": [
+  "deezer",
+  "musique",
+  "streaming",
+  "hifi",
+  "france",
+  "app"
+ ],
+ "medias-streaming-culture-podcast-addict": [
+  "podcast addict",
+  "podcast",
+  "app",
+  "france",
+  "audio"
+ ],
+ "medias-streaming-culture-sybel": [
+  "sybel",
+  "podcast",
+  "francais",
+  "app",
+  "audio"
+ ],
+ "restauration-et-livraison-de-repas-la-mie-caline": [
+  "la mie caline",
+  "mie caline",
+  "sandwich",
+  "boulangerie",
+  "baguette",
+  "france"
+ ],
+ "restauration-et-livraison-de-repas-mezzo-di-pasta": [
+  "mezzo di pasta",
+  "pates",
+  "pasta",
+  "italien",
+  "france",
+  "restaurant"
+ ],
+ "restauration-et-livraison-de-repas-speed-rabbit-pizza": [
+  "speed rabbit pizza",
+  "pizza",
+  "restauration rapide",
+  "france"
+ ],
+ "restauration-et-livraison-de-repas-uber-eats": [
+  "uber eats",
+  "livraison",
+  "repas",
+  "usa",
+  "app"
+ ],
+ "restauration-et-livraison-de-repas-just-eat-takeaway": [
+  "just eat",
+  "livraison",
+  "repas",
+  "pays-bas",
+  "app"
  ]
 }

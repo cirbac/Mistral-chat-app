@@ -1,0 +1,288 @@
+{
+ "03": {
+  "groupes": [
+   {
+    "id": "pneumatiques-cooper-tire",
+    "groupe": "Cooper Tire (Goodyear)",
+    "marques": ["Cooper Tire"],
+    "siege": "États-Unis (Findlay, Ohio)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Fabricant américain de pneus, filiale de Goodyear. Hors de vos zones. [381]",
+    "sources": [381],
+    "lieux_production": ["États-Unis", "Chine", "Mexique"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-sailun",
+    "groupe": "Sailun",
+    "marques": ["Sailun", "Goodride"],
+    "siege": "Chine (Qingdao)",
+    "siege_pays": "CN",
+    "statut": "a_ecarter",
+    "sous_categorie": "",
+    "commentaire": "Fabricant chinois de pneus (marques Sailun, Goodride). Contrôle chinois. [382]",
+    "sources": [382],
+    "lieux_production": ["Chine", "Thaïlande", "Vietnam"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-federal",
+    "groupe": "Federal",
+    "marques": ["Federal"],
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "",
+    "commentaire": "Fabricant taïwanais de pneus (haute démocratie). [383]",
+    "sources": [383],
+    "lieux_production": ["Taïwan", "Chine", "Thaïlande"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "pneumatiques-nankang",
+    "groupe": "Nankang",
+    "marques": ["Nankang"],
+    "siege": "Taïwan (Taipei)",
+    "siege_pays": "TW",
+    "statut": "rang2",
+    "sous_categorie": "",
+    "commentaire": "Fabricant taïwanais de pneus (haute démocratie). [384]",
+    "sources": [384],
+    "lieux_production": ["Taïwan", "Chine"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "05": {
+  "groupes": [
+   {
+    "id": "televiseurs-vestel",
+    "groupe": "Vestel",
+    "marques": ["Vestel", "Regal", "Finlux"],
+    "siege": "Turquie (Istanbul)",
+    "siege_pays": "TR",
+    "statut": "hors_zones",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Fabricant turc, l'un des plus gros producteurs mondiaux de TV (marques Vestel, Regal, Finlux). Turquie hors zones. [372]",
+    "sources": [372],
+    "lieux_production": ["Turquie"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-sharp",
+    "groupe": "Sharp",
+    "marques": ["Sharp", "Aquos"],
+    "siege": "Japon (Osaka)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Fabricant japonais historique de TV (marque Aquos). Haute démocratie. [373]",
+    "sources": [373],
+    "lieux_production": ["Japon", "Chine", "Mexique"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-vizio",
+    "groupe": "Vizio",
+    "marques": ["Vizio"],
+    "siege": "États-Unis (Irvine, Californie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Fabricant américain de téléviseurs connectés. Hors de vos zones. [374]",
+    "sources": [374],
+    "lieux_production": ["Mexique", "Chine", "Thaïlande"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "televiseurs-medion",
+    "groupe": "Medion (Lenovo)",
+    "marques": ["Medion"],
+    "siege": "Allemagne (Essen)",
+    "siege_pays": "DE",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "Marque allemande d'électronique rachetée par le chinois Lenovo en 2011. Contrôle chinois. [375]",
+    "sources": [375],
+    "lieux_production": ["Chine"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "09": {
+  "groupes": [
+   {
+    "id": "hygiene-sante-pierre-fabre",
+    "groupe": "Laboratoires Pierre Fabre",
+    "marques": ["Avène", "Ducray", "Klorane", "Pierre Fabre"],
+    "siege": "France (Castres)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "Laboratoires pharmaceutiques et dermocosmétiques français (Avène, Ducray, Klorane). [385]",
+    "sources": [385],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-sante-expanscience-mustela",
+    "groupe": "Laboratoires Expanscience (Mustela)",
+    "marques": ["Mustela", "Expanscience"],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "Laboratoires français spécialisés dans la dermocosmétique et la petite enfance (Mustela). [387]",
+    "sources": [387],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "hygiene-sante-weleda",
+    "groupe": "Weleda",
+    "marques": ["Weleda"],
+    "siege": "Suisse (Arlesheim)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Laboratoires et santé grand public, suite",
+    "commentaire": "Laboratoires suisses de cosmétiques et médicaments naturels (anthroposophie). UE. [386]",
+    "sources": [386],
+    "lieux_production": ["Suisse", "Allemagne", "France"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "medias-streaming-culture-deezer",
+    "groupe": "Deezer",
+    "marques": ["Deezer"],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Plateforme française de streaming musical (qualité FLAC, fonction Flow). [388]",
+    "sources": [388],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-podcast-addict",
+    "groupe": "Podcast Addict",
+    "marques": ["Podcast Addict"],
+    "siege": "France",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Application française de gestion et d'écoute de podcasts. [389]",
+    "sources": [389],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "medias-streaming-culture-sybel",
+    "groupe": "Sybel",
+    "marques": ["Sybel"],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Musique, livres audio et radio",
+    "commentaire": "Application française de podcasts natifs et exclusifs. [390]",
+    "sources": [390],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "21": {
+  "groupes": [
+   {
+    "id": "restauration-et-livraison-de-repas-la-mie-caline",
+    "groupe": "La Mie Câline",
+    "marques": ["La Mie Câline"],
+    "siege": "France (Les Herbiers)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne française de boulangerie-sandwicherie (baguettes et sandwichs). [376]",
+    "sources": [376],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-mezzo-di-pasta",
+    "groupe": "Mezzo di Pasta",
+    "marques": ["Mezzo di Pasta"],
+    "siege": "France (Nantes)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne française spécialisée dans les pâtes fraîches et les sauces. [377]",
+    "sources": [377],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-speed-rabbit-pizza",
+    "groupe": "Speed Rabbit Pizza",
+    "marques": ["Speed Rabbit Pizza"],
+    "siege": "France (Montreuil)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne française de restauration rapide spécialisée pizza. [378]",
+    "sources": [378],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-uber-eats",
+    "groupe": "Uber Eats",
+    "marques": ["Uber Eats"],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Livraison de repas et anti-gaspillage",
+    "commentaire": "Plateforme américaine de livraison de repas (filiale d'Uber). Hors de vos zones. [379]",
+    "sources": [379],
+    "lieux_production": ["États-Unis"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-just-eat-takeaway",
+    "groupe": "Just Eat Takeaway",
+    "marques": ["Just Eat"],
+    "siege": "Pays-Bas (Amsterdam)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Livraison de repas et anti-gaspillage",
+    "commentaire": "Plateforme anglo-néerlandaise de livraison de repas, siège à Amsterdam (UE). [380]",
+    "sources": [380],
+    "lieux_production": ["Pays-Bas", "Royaume-Uni"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}
