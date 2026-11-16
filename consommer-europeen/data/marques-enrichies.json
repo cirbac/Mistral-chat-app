@@ -636,5 +636,81 @@
  },
  "medias-bfmtv": {
   "domaine": "bfmtv.com"
+ },
+ "pneumatiques-cooper-tire": {
+  "domaine": "coopertire.com",
+  "histoire": "Fabricant américain de pneus fondé en 1914 à Findlay (Ohio), racheté par Goodyear en 2021. Spécialiste des pneus 4x4 et SUV."
+ },
+ "pneumatiques-sailun": {
+  "domaine": "sailun-tyre.com",
+  "histoire": "Groupe chinois fondé en 1994 à Qingdao, parmi les 20 premiers fabricants mondiaux de pneus (marques Sailun et Goodride), présent dans plus de 150 pays."
+ },
+ "pneumatiques-federal": {
+  "domaine": "federaltire.com",
+  "histoire": "Fabricant taïwanais de pneus fondé en 1954 à Taipei, connu pour ses pneus sportifs (Formoza, Couragia) et 4x4."
+ },
+ "pneumatiques-nankang": {
+  "domaine": "nankang.com.tw",
+  "histoire": "Fabricant taïwanais de pneus fondé en 1959 à Taipei, présent dans le monde entier, notamment en Europe."
+ },
+ "televiseurs-vestel": {
+  "domaine": "vestel.com.tr",
+  "histoire": "Géant turc de l'électronique fondé en 1983 à Manisa ; l'un des plus gros fabricants mondiaux de téléviseurs, propriétaire des marques Regal et Finlux."
+ },
+ "televiseurs-sharp": {
+  "domaine": "sharp.com",
+  "histoire": "Fabricant japonais historique fondé en 1912 à Osaka, inventeur des téléviseurs LCD Aquos et pionnier des dalles LCD (Sharp, puis licence sous d'autres marques)."
+ },
+ "televiseurs-vizio": {
+  "domaine": "vizio.com",
+  "histoire": "Fabricant américain de téléviseurs connectés fondé en 2002 en Californie, connu pour ses TV SmartCast abordables aux États-Unis."
+ },
+ "televiseurs-medion": {
+  "domaine": "medion.com",
+  "histoire": "Marque allemande d'électronique grand public fondée en 1983 à Essen, rachetée par le groupe chinois Lenovo en 2011 ; très répandue en Europe pour ses PC et TV d'entrée de gamme."
+ },
+ "hygiene-sante-pierre-fabre": {
+  "domaine": "pierre-fabre.com",
+  "histoire": "Laboratoires pharmaceutiques et dermocosmétiques français fondés en 1951 à Castres (Tarn) par Pierre Fabre ; propriétaires des marques Avène (eau thermale), Ducray et Klorane, avec des sites de production en France."
+ },
+ "hygiene-sante-expanscience-mustela": {
+  "domaine": "mustela.com",
+  "histoire": "Laboratoires Expanscience fondés en 1950 à Paris, spécialisés dans la dermocosmétique et la petite enfance ; la marque Mustela est une référence mondiale des soins pour bébés, fabriqués en France."
+ },
+ "hygiene-sante-weleda": {
+  "domaine": "weleda.com",
+  "histoire": "Laboratoires suisses fondés en 1921 à Arlesheim selon les principes de l'anthroposophie de Rudolf Steiner ; cosmétiques et médicaments naturels fabriqués en Suisse, Allemagne et France."
+ },
+ "medias-streaming-culture-deezer": {
+  "domaine": "deezer.com",
+  "histoire": "Plateforme française de streaming musical lancée en 2007 à Paris, pionnière du streaming en haute fidélité (FLAC) avec la fonction Flow personnalisée."
+ },
+ "medias-streaming-culture-podcast-addict": {
+  "domaine": "podcastaddict.com",
+  "histoire": "Application française de podcasts lancée en 2012, très populaire en France pour la gestion et le téléchargement de podcasts (iOS et Android)."
+ },
+ "medias-streaming-culture-sybel": {
+  "domaine": "sybel.co",
+  "histoire": "Application française de podcasts lancée à Paris, proposant des podcasts natifs, exclusifs et des recommandations personnalisées, majoritairement en français."
+ },
+ "restauration-et-livraison-de-repas-la-mie-caline": {
+  "domaine": "lamiecaline.com",
+  "histoire": "Chaîne française de boulangerie-sandwicherie créée en 1985 aux Herbiers (Vendée), spécialisée dans les baguettes sandwichs et les viennoiseries, avec plus de 200 points de vente en France."
+ },
+ "restauration-et-livraison-de-repas-mezzo-di-pasta": {
+  "domaine": "mezzodipasta.com",
+  "histoire": "Chaîne française créée à Nantes en 1998, spécialisée dans les pâtes fraîches, lasagnes et plats italiens à emporter ou à consommer sur place."
+ },
+ "restauration-et-livraison-de-repas-speed-rabbit-pizza": {
+  "domaine": "speedrabbitpizza.com",
+  "histoire": "Chaîne française de restauration rapide pizza créée en 1991 à Montreuil, connue pour ses pizzas sur mesure et ses formules express."
+ },
+ "restauration-et-livraison-de-repas-uber-eats": {
+  "domaine": "ubereats.com",
+  "histoire": "Plateforme de livraison de repas lancée en 2015 à San Francisco comme filiale d'Uber ; leader mondial de la livraison de repas avec des millions de restaurants référencés."
+ },
+ "restauration-et-livraison-de-repas-just-eat-takeaway": {
+  "domaine": "justeattakeaway.com",
+  "histoire": "Groupe anglo-néerlandais de livraison de repas, siège à Amsterdam, issu de la fusion de Just Eat (Londres) et Takeaway.com (Berlin) en 2020 ; présent dans une vingtaine de pays."
  }
 }
