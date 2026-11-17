@@ -31,13 +31,19 @@
      "Sofitel",
      "Fairmont"
     ],
-    "siege": "Royaume-Uni",
-    "siege_pays": "GB",
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
     "statut": "rang1",
     "sous_categorie": "Groupes hôteliers",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
+    "commentaire": "Groupe hôtelier français, leader mondial (Ibis, Novotel, Mercure, Sofitel, Fairmont, Raffles...), siège à Issy-les-Moulineaux. [411]",
+    "sources": [
+     411
+    ],
+    "lieux_production": [
+     "France",
+     "Europe",
+     "Monde"
+    ],
     "certifications": [],
     "produits": []
    },
