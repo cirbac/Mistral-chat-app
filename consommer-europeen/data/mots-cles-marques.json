@@ -6303,5 +6303,149 @@
   "camping",
   "pays-bas",
   "reservation"
+ ],
+ "motos-et-scooters-italjet": [
+  "italjet",
+  "dragster",
+  "scooter",
+  "moto",
+  "italie",
+  "125",
+  "300"
+ ],
+ "motos-et-scooters-malaguti": [
+  "malaguti",
+  "scooter",
+  "moto",
+  "50cc",
+  "125",
+  "italie",
+  "fifty"
+ ],
+ "motos-et-scooters-fantic-motor": [
+  "fantic",
+  "caballero",
+  "moto",
+  "scooter",
+  "velo electrique",
+  "italie",
+  "enduro",
+  "scrambler"
+ ],
+ "motos-et-scooters-silence": [
+  "silence",
+  "scooter electrique",
+  "electrique",
+  "espagne",
+  "s04",
+  "batterie amovible"
+ ],
+ "motos-et-scooters-askoll": [
+  "askoll",
+  "scooter electrique",
+  "velo electrique",
+  "italie",
+  "eb1",
+  "eb5"
+ ],
+ "motos-et-scooters-mash": [
+  "mash",
+  "moto 125",
+  "france",
+  "chine",
+  "roadster",
+  "cafe racer",
+  "seventy five"
+ ],
+ "motos-et-scooters-brixton": [
+  "brixton",
+  "moto",
+  "autriche",
+  "retro",
+  "saxon",
+  "cromwell",
+  "125"
+ ],
+ "telecoms-numerique-et-energie-vodafone": [
+  "vodafone",
+  "operateur mobile",
+  "4g",
+  "5g",
+  "forfait",
+  "royaume-uni",
+  "europe"
+ ],
+ "telecoms-numerique-et-energie-telefonica": [
+  "telefonica",
+  "movistar",
+  "o2",
+  "operateur mobile",
+  "espagne",
+  "4g",
+  "5g",
+  "forfait"
+ ],
+ "telecoms-numerique-et-energie-deutsche-telekom": [
+  "deutsche telekom",
+  "t-mobile",
+  "telekom",
+  "operateur mobile",
+  "allemagne",
+  "4g",
+  "5g",
+  "forfait"
+ ],
+ "telecoms-numerique-et-energie-tim": [
+  "tim",
+  "telecom italia",
+  "operateur mobile",
+  "italie",
+  "4g",
+  "5g",
+  "forfait"
+ ],
+ "telecoms-numerique-et-energie-infomaniak": [
+  "infomaniak",
+  "hebergement",
+  "cloud",
+  "mail",
+  "suisse",
+  "renouvelable",
+  "site web"
+ ],
+ "telecoms-numerique-et-energie-exoscale": [
+  "exoscale",
+  "cloud",
+  "serveur",
+  "hebergement",
+  "suisse",
+  "vps"
+ ],
+ "telecoms-numerique-et-energie-netcup": [
+  "netcup",
+  "hebergement",
+  "domaine",
+  "serveur",
+  "vps",
+  "allemagne",
+  "pas cher"
+ ],
+ "telecoms-numerique-et-energie-ilek": [
+  "ilek",
+  "electricite",
+  "renouvelable",
+  "forfait mobile",
+  "france",
+  "eolien",
+  "solaire"
+ ],
+ "telecoms-numerique-et-energie-plenitude-eni": [
+  "plenitude",
+  "eni",
+  "electricite",
+  "gaz",
+  "carburant",
+  "italie",
+  "europe"
  ]
 }

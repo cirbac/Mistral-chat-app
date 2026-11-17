@@ -792,5 +792,69 @@
  "hotellerie-et-hebergement-belvilla": {
   "domaine": "belvilla.com",
   "histoire": "Plateforme néerlandaise de location de vacances fondée en 1980 à Leyde, leader européen des chalets, villas et campings avec plus de 500 000 hébergements dans 27 pays."
+ },
+ "motos-et-scooters-italjet": {
+  "domaine": "italjet.com",
+  "histoire": "Fabricant italien fondé en 1959 à Bologne, célèbre dans les années 1980-1990 pour son scooter Dragster au design futuriste, relancé dans les années 2010 avec de nouveaux modèles 125 et 300 cm3."
+ },
+ "motos-et-scooters-malaguti": {
+  "domaine": "malaguti.com",
+  "histoire": "Fabricant italien fondé en 1930 à Bologne par la famille Malaguti, pionnier du cyclomoteur et du scooter 50 cm3 en Europe (Fifty, Madison), avec une partie de la production en Chine."
+ },
+ "motos-et-scooters-fantic-motor": {
+  "domaine": "fanticmotor.com",
+  "histoire": "Fabricant italien fondé en 1968, relancé dans les années 2010, connu pour ses motos rétro Caballero (scrambler 125/500) et ses vélos électriques, produits en Italie."
+ },
+ "motos-et-scooters-silence": {
+  "domaine": "silence.eco",
+  "histoire": "Fabricant espagnol de scooters 100 % électriques fondé à Barcelone, célèbre pour le S04 avec batterie amovible, leader européen du scooter électrique urbain."
+ },
+ "motos-et-scooters-askoll": {
+  "domaine": "askoll.com",
+  "histoire": "Fabricant italien fondé en 1978 près de Vicence, spécialiste des scooters et vélos électriques (eB1, eB5) et des trottinettes, distribués dans toute l'Europe."
+ },
+ "motos-et-scooters-mash": {
+  "domaine": "mashmoto.fr",
+  "histoire": "Marque française de motos 125 cm3 (Seventy Five, Cafe Racer, X-Ride) créée dans les années 2000, rachetée par le groupe chinois Zhongneng ; motos produites en Chine."
+ },
+ "motos-et-scooters-brixton": {
+  "domaine": "brixtonmotorcycles.com",
+  "histoire": "Marque autrichienne de motos rétro (Saxon, Cromwell, Felsberg) lancée en 2015 à Vienne, avec une participation étrangère majoritaire et une production en Chine."
+ },
+ "telecoms-numerique-et-energie-vodafone": {
+  "domaine": "vodafone.com",
+  "histoire": "Opérateur télécoms britannique fondé en 1984, présent dans une vingtaine de pays en Europe et en Afrique, connu pour le roaming international."
+ },
+ "telecoms-numerique-et-energie-telefonica": {
+  "domaine": "telefonica.com",
+  "histoire": "Opérateur espagnol fondé en 1924 à Madrid, maison mère de Movistar (Espagne, Amérique latine) et d'O2 (Allemagne, Royaume-Uni, Brésil, Irlande)."
+ },
+ "telecoms-numerique-et-energie-deutsche-telekom": {
+  "domaine": "telekom.com",
+  "histoire": "Opérateur allemand, ancien monopole d'État (Deutsche Bundespost) privatisé en 1995, maison mère de T-Mobile présent aux États-Unis et en Europe centrale, actionnaire de BT."
+ },
+ "telecoms-numerique-et-energie-tim": {
+  "domaine": "gruppotim.it",
+  "histoire": "Telecom Italia (TIM), principal opérateur italien issu de la privatisation des années 1990, également présent au Brésil avec TIM Brasil."
+ },
+ "telecoms-numerique-et-energie-infomaniak": {
+  "domaine": "infomaniak.com",
+  "histoire": "Hébergeur suisse indépendant fondé en 1994 à Genève, connu pour son hébergement web, ses e-mails, son cloud et son service de streaming vidéo, alimenté à 100 % en énergie renouvelable."
+ },
+ "telecoms-numerique-et-energie-exoscale": {
+  "domaine": "exoscale.com",
+  "histoire": "Fournisseur de cloud public suisse fondé en 2011 à Genève, proposant des serveurs virtuels en Suisse, Allemagne et Autriche ; acquis en 2017 par A1 Digital (Autriche)."
+ },
+ "telecoms-numerique-et-energie-netcup": {
+  "domaine": "netcup.eu",
+  "histoire": "Hébergeur allemand fondé en 2008 à Nuremberg, spécialisé dans les domaines, l'hébergement web mutualisé et les serveurs virtuels à bas prix, très populaire en Allemagne."
+ },
+ "telecoms-numerique-et-energie-ilek": {
+  "domaine": "ilek.fr",
+  "histoire": "Fournisseur français fondé à Bordeaux, proposant de l'électricité 100 % renouvelable (éolien, solaire, hydraulique) et des forfaits mobiles en tant qu'opérateur virtuel."
+ },
+ "telecoms-numerique-et-energie-plenitude-eni": {
+  "domaine": "plenitude.com",
+  "histoire": "Marque du groupe pétrolier italien Eni (fondé en 1953, participation de l'État italien) pour ses offres d'électricité, de gaz naturel et de carburants en Italie, France, Espagne et Europe centrale."
  }
 }
