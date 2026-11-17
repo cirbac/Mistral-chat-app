@@ -1,0 +1,70 @@
+{
+ "pneumatiques-cooper-tire": [
+  {"id": "pneumatiques-cooper-tire-discoverer-at3-4s", "nom": "Cooper Discoverer AT3 4S", "assemblage": "États-Unis", "origine_pieces": "Chine", "certifications": ["3PMSF"], "note": "Pneu 4x4 toutes saisons, produit phare de la marque."},
+  {"id": "pneumatiques-cooper-tire-evolution-tour", "nom": "Cooper Evolution Tour", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Pneu tourisme économe en carburant."}
+ ],
+ "pneumatiques-sailun": [
+  {"id": "pneumatiques-sailun-atrezzo-4seasons", "nom": "Sailun Atrezzo 4Seasons", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Pneu toutes saisons d'entrée de gamme."},
+  {"id": "pneumatiques-sailun-goodride-solmax", "nom": "Goodride Solmax", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Pneu été sous-marque Goodride."}
+ ],
+ "pneumatiques-federal": [
+  {"id": "pneumatiques-federal-couragia-mt", "nom": "Federal Couragia M/T", "assemblage": "Thaïlande", "origine_pieces": "Taïwan", "certifications": [], "note": "Pneu 4x4 tout-terrain."},
+  {"id": "pneumatiques-federal-formoza-az01", "nom": "Federal Formoza AZ01", "assemblage": "Chine", "origine_pieces": "Taïwan", "certifications": [], "note": "Pneu tourisme sportif."}
+ ],
+ "pneumatiques-nankang": [
+  {"id": "pneumatiques-nankang-ar-1", "nom": "Nankang AR-1", "assemblage": "Taïwan", "origine_pieces": "Taïwan", "certifications": [], "note": "Pneu tourisme très répandu en Europe."},
+  {"id": "pneumatiques-nankang-ns-2r", "nom": "Nankang NS-2R", "assemblage": "Chine", "origine_pieces": "Taïwan", "certifications": [], "note": "Pneu sportif semi-slick."}
+ ],
+ "televiseurs-vestel": [
+  {"id": "televiseurs-vestel-43-4k-uled", "nom": "Vestel 43 pouces 4K UHD", "assemblage": "Turquie", "origine_pieces": "Turquie, Chine", "certifications": [], "note": "Téléviseur 4K fabriqué dans les usines Vestel de Manisa."},
+  {"id": "televiseurs-vestel-regal-32-hd", "nom": "Regal 32 pouces HD (Vestel)", "assemblage": "Turquie", "origine_pieces": "Turquie", "certifications": [], "note": "Téléviseur sous marque Regal du groupe Vestel."}
+ ],
+ "televiseurs-sharp": [
+  {"id": "televiseurs-sharp-aquos-4k", "nom": "Sharp Aquos 4K UHD", "assemblage": "Japon", "origine_pieces": "Japon, Chine", "certifications": [], "note": "Gamme Aquos, historique de Sharp en dalles LCD."}
+ ],
+ "televiseurs-vizio": [
+  {"id": "televiseurs-vizio-m-series-4k", "nom": "Vizio M-Series 4K UHD", "assemblage": "Mexique", "origine_pieces": "Chine", "certifications": [], "note": "Gamme phare de Vizio aux États-Unis (SmartCast)."}
+ ],
+ "televiseurs-medion": [
+  {"id": "televiseurs-medion-akoya-tv", "nom": "Medion Akoya TV 4K", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Téléviseur d'entrée de gamme de la marque allemande Medion (Lenovo)."}
+ ],
+ "hygiene-sante-pierre-fabre": [
+  {"id": "hygiene-sante-pierre-fabre-avene-eau-thermale", "nom": "Eau thermale Avène spray", "assemblage": "France (Avène-les-Bains)", "origine_pieces": "France", "certifications": [], "note": "Produit phare de la marque, issue de la source Avène."},
+  {"id": "hygiene-sante-pierre-fabre-ducray-kelual", "nom": "Shampoing Kélual DS (Ducray)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Shampoing traitant antipelliculaire de la gamme Ducray."},
+  {"id": "hygiene-sante-pierre-fabre-klorane-quinine", "nom": "Shampoing à la quinine (Klorane)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Gamme capillaire historique de Klorane."}
+ ],
+ "hygiene-sante-expanscience-mustela": [
+  {"id": "hygiene-sante-expanscience-mustela-stelatopia", "nom": "Crème lavante Stelatopia (Mustela)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Produit phare bébé de Mustela pour peaux à tendance atopique."},
+  {"id": "hygiene-sante-expanscience-mustela-huile-massage", "nom": "Huile de massage Mustela", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Huile de massage pour bébé, fabriquée en France."}
+ ],
+ "hygiene-sante-weleda": [
+  {"id": "hygiene-sante-weleda-skin-food", "nom": "Skin Food (Weleda)", "assemblage": "Suisse", "origine_pieces": "Suisse", "certifications": [], "note": "Soin nourrissant iconique de Weleda, fabriqué en Suisse."},
+  {"id": "hygiene-sante-weleda-calendula-bebe", "nom": "Crème au calendula bébé (Weleda)", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Soin protecteur au calendula pour les peaux sensibles de bébé."}
+ ],
+ "medias-streaming-culture-deezer": [
+  {"id": "medias-streaming-culture-deezer-premium", "nom": "Abonnement Deezer Premium", "assemblage": "France (service numérique)", "origine_pieces": "France", "certifications": [], "note": "Streaming musical français avec catalogue HiFi et FLAC."},
+  {"id": "medias-streaming-culture-deezer-hifi", "nom": "Abonnement Deezer HiFi", "assemblage": "France (service numérique)", "origine_pieces": "France", "certifications": [], "note": "Offre lossless FLAC avec fonction Flow personnalisée."}
+ ],
+ "medias-streaming-culture-podcast-addict": [
+  {"id": "medias-streaming-culture-podcast-addict-premium", "nom": "Podcast Addict Premium", "assemblage": "France (application)", "origine_pieces": "France", "certifications": [], "note": "Application française de podcasts avec téléchargement et écoute hors ligne."}
+ ],
+ "medias-streaming-culture-sybel": [
+  {"id": "medias-streaming-culture-sybel-premium", "nom": "Abonnement Sybel Premium", "assemblage": "France (application)", "origine_pieces": "France", "certifications": [], "note": "Application française de podcasts natifs et exclusifs."}
+ ],
+ "restauration-et-livraison-de-repas-la-mie-caline": [
+  {"id": "restauration-et-livraison-de-repas-la-mie-caline-sandwich", "nom": "Sandwich baguette (formule midi)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Produit phare de la chaîne : baguette sandwich sur place ou à emporter."},
+  {"id": "restauration-et-livraison-de-repas-la-mie-caline-viennoiserie", "nom": "Viennoiseries du matin", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Croissants et pains au chocolat cuits sur place."}
+ ],
+ "restauration-et-livraison-de-repas-mezzo-di-pasta": [
+  {"id": "restauration-et-livraison-de-repas-mezzo-di-pasta-bol-pates", "nom": "Bol de pâtes fraîches sauce du jour", "assemblage": "France", "origine_pieces": "France, Italie", "certifications": [], "note": "Produit phare : pâtes fraîches avec choix de sauces."}
+ ],
+ "restauration-et-livraison-de-repas-speed-rabbit-pizza": [
+  {"id": "restauration-et-livraison-de-repas-speed-rabbit-pizza-sur-mesure", "nom": "Pizza sur mesure", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Pizza préparée devant le client, à emporter ou sur place."}
+ ],
+ "restauration-et-livraison-de-repas-uber-eats": [
+  {"id": "restauration-et-livraison-de-repas-uber-eats-livraison", "nom": "Livraison de repas (service Uber Eats)", "assemblage": "États-Unis (service numérique)", "origine_pieces": "États-Unis", "certifications": [], "note": "Plateforme de livraison de repas de restaurants locaux."}
+ ],
+ "restauration-et-livraison-de-repas-just-eat-takeaway": [
+  {"id": "restauration-et-livraison-de-repas-just-eat-takeaway-livraison", "nom": "Livraison de repas (service Just Eat)", "assemblage": "Pays-Bas (service numérique)", "origine_pieces": "Pays-Bas", "certifications": [], "note": "Plateforme de livraison de repas présente dans une vingtaine de pays."}
+ ]
+}

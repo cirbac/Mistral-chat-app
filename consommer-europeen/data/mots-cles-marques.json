@@ -6129,5 +6129,179 @@
   "repas",
   "pays-bas",
   "app"
+ ],
+ "distribution-paiement-colruyt": [
+  "colruyt",
+  "bio-planet",
+  "dats 24",
+  "supermarche",
+  "belgique",
+  "hard discount",
+  "alimentation"
+ ],
+ "distribution-paiement-ahold-delhaize": [
+  "albert heijn",
+  "delhaize",
+  "ahold delhaize",
+  "supermarche",
+  "pays-bas",
+  "belgique",
+  "alimentation"
+ ],
+ "distribution-paiement-kingfisher": [
+  "kingfisher",
+  "castorama",
+  "brico depot",
+  "bricolage",
+  "amenagement",
+  "jardinage",
+  "maison"
+ ],
+ "distribution-paiement-asos": [
+  "asos",
+  "mode",
+  "vetement",
+  "e-commerce",
+  "en ligne",
+  "royaume-uni",
+  "livraison"
+ ],
+ "distribution-paiement-boozt": [
+  "boozt",
+  "booztlet",
+  "mode",
+  "e-commerce",
+  "en ligne",
+  "suede",
+  "livraison"
+ ],
+ "distribution-paiement-aliexpress": [
+  "aliexpress",
+  "alibaba",
+  "marketplace",
+  "chine",
+  "en ligne",
+  "livraison",
+  "pas cher"
+ ],
+ "distribution-paiement-payplug": [
+  "payplug",
+  "paiement en ligne",
+  "cb",
+  "tpe",
+  "pme",
+  "bpce",
+  "france"
+ ],
+ "distribution-paiement-worldline": [
+  "worldline",
+  "paiement",
+  "terminal",
+  "tpe",
+  "france",
+  "e-commerce"
+ ],
+ "distribution-paiement-qonto": [
+  "qonto",
+  "banque pro",
+  "compte pro",
+  "independant",
+  "pme",
+  "france",
+  "carte bancaire"
+ ],
+ "distribution-paiement-adyen": [
+  "adyen",
+  "paiement en ligne",
+  "plateforme",
+  "pays-bas",
+  "entreprise",
+  "cb"
+ ],
+ "distribution-paiement-mollie": [
+  "mollie",
+  "paiement en ligne",
+  "pme",
+  "pays-bas",
+  "ideal",
+  "cb"
+ ],
+ "distribution-paiement-stripe": [
+  "stripe",
+  "paiement en ligne",
+  "usa",
+  "entreprise",
+  "api",
+  "abonnement"
+ ],
+ "distribution-paiement-samsung-pay": [
+  "samsung pay",
+  "paiement mobile",
+  "sans contact",
+  "coree du sud",
+  "smartphone"
+ ],
+ "hotellerie-et-hebergement-motel-one": [
+  "motel one",
+  "hotel",
+  "nuit",
+  "allemagne",
+  "design",
+  "pas cher",
+  "centre-ville"
+ ],
+ "hotellerie-et-hebergement-25hours-accor": [
+  "25hours",
+  "25 hours",
+  "hotel",
+  "allemagne",
+  "accor",
+  "design",
+  "boutique hotel"
+ ],
+ "hotellerie-et-hebergement-ao-hostels": [
+  "a&o",
+  "a&o hostels",
+  "auberge de jeunesse",
+  "hotel pas cher",
+  "allemagne",
+  "dortoir",
+  "backpacker"
+ ],
+ "hotellerie-et-hebergement-falkensteiner": [
+  "falkensteiner",
+  "hotel",
+  "autriche",
+  "alpes",
+  "spa",
+  "famille",
+  "vacances"
+ ],
+ "hotellerie-et-hebergement-nh-hotel-group": [
+  "nh hotels",
+  "nhow",
+  "hotel",
+  "espagne",
+  "minor hotels",
+  "centre-ville"
+ ],
+ "hotellerie-et-hebergement-gites-de-france": [
+  "gites de france",
+  "chambre d hote",
+  "gite",
+  "hebergement",
+  "rural",
+  "france",
+  "vacances",
+  "label"
+ ],
+ "hotellerie-et-hebergement-belvilla": [
+  "belvilla",
+  "location vacances",
+  "chalet",
+  "villa",
+  "camping",
+  "pays-bas",
+  "reservation"
  ]
 }
