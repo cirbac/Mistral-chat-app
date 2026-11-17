@@ -712,5 +712,85 @@
  "restauration-et-livraison-de-repas-just-eat-takeaway": {
   "domaine": "justeattakeaway.com",
   "histoire": "Groupe anglo-néerlandais de livraison de repas, siège à Amsterdam, issu de la fusion de Just Eat (Londres) et Takeaway.com (Berlin) en 2020 ; présent dans une vingtaine de pays."
+ },
+ "distribution-paiement-colruyt": {
+  "domaine": "colruyt.be",
+  "histoire": "Groupe belge de grande distribution fondé en 1928 à Lembeek par Franz Colruyt ; exploite les enseignes Colruyt, Bio-Planet et les stations Dats 24, réputé pour ses prix bas en Belgique."
+ },
+ "distribution-paiement-ahold-delhaize": {
+  "domaine": "aholddelhaize.com",
+  "histoire": "Groupe néerlandais né en 2016 de la fusion d'Ahold (Pays-Bas) et Delhaize (Belgique), présent dans 11 pays dont Albert Heijn aux Pays-Bas et Delhaize en Belgique."
+ },
+ "distribution-paiement-kingfisher": {
+  "domaine": "kingfisher.com",
+  "histoire": "Groupe britannique de bricolage et d'aménagement fondé en 1969, propriétaire de Castorama et Brico Dépôt en France, présent dans une dizaine de pays européens."
+ },
+ "distribution-paiement-asos": {
+  "domaine": "asos.com",
+  "histoire": "E-commerçant britannique de mode fondé en 2000 à Londres, leader européen de la vente en ligne de vêtements et accessoires, expédié vers le monde entier."
+ },
+ "distribution-paiement-boozt": {
+  "domaine": "boozt.com",
+  "histoire": "E-commerçant suédois de mode fondé en 2007 à Malmö, coté en bourse, présent dans toute l'Europe du Nord et centrale avec les marques Boozt et Booztlet."
+ },
+ "distribution-paiement-aliexpress": {
+  "domaine": "aliexpress.com",
+  "histoire": "Marketplace chinoise lancée en 2010 par le groupe Alibaba, proposant des millions de produits expédiés depuis la Chine vers le monde entier."
+ },
+ "distribution-paiement-payplug": {
+  "domaine": "payplug.com",
+  "histoire": "Solution de paiement en ligne française créée en 2012 à Paris, rachetée par BPCE en 2017, dédiée aux TPE/PME avec paiement en une page."
+ },
+ "distribution-paiement-worldline": {
+  "domaine": "worldline.com",
+  "histoire": "Acteur français des paiements et services transactionnels, issu de la scission d'Atos en 2019, coté à Euronext Paris, présent dans une trentaine de pays."
+ },
+ "distribution-paiement-qonto": {
+  "domaine": "qonto.com",
+  "histoire": "Banque en ligne française lancée en 2017 à Paris, spécialisée dans les comptes professionnels pour indépendants, PME et associations, avec carte bancaire et virements."
+ },
+ "distribution-paiement-adyen": {
+  "domaine": "adyen.com",
+  "histoire": "Plateforme de paiement néerlandaise fondée en 2006 à Amsterdam, cotée à Euronext, utilisée par de grandes entreprises mondiales (Uber, Netflix, Spotify)."
+ },
+ "distribution-paiement-mollie": {
+  "domaine": "mollie.com",
+  "histoire": "Prestataire de paiement néerlandais fondé en 2004 à Amsterdam, spécialisé dans les paiements en ligne pour PME européennes (iDEAL, CB, virement)."
+ },
+ "distribution-paiement-stripe": {
+  "domaine": "stripe.com",
+  "histoire": "Plateforme de paiement américaine fondée en 2010 à San Francisco, référence mondiale pour les paiements en ligne des entreprises et des marketplaces."
+ },
+ "distribution-paiement-samsung-pay": {
+  "domaine": "samsung.com/samsung-pay",
+  "histoire": "Service de paiement mobile sans contact de Samsung lancé en 2015 en Corée du Sud, intégré aux smartphones Galaxy."
+ },
+ "hotellerie-et-hebergement-motel-one": {
+  "domaine": "motel-one.com",
+  "histoire": "Chaîne hôtelière allemande fondée en 2001 à Munich, concept d'hôtels design à prix maîtrisé dans les grandes villes européennes (Allemagne, France, UK, Autriche...)."
+ },
+ "hotellerie-et-hebergement-25hours-accor": {
+  "domaine": "25hours-hotels.com",
+  "histoire": "Chaîne hôtelière lifestyle allemande fondée en 2003 à Francfort, chaque hôtel étant conçu avec un artiste local ; rachetée majoritairement par Accor en 2019."
+ },
+ "hotellerie-et-hebergement-ao-hostels": {
+  "domaine": "aohostels.com",
+  "histoire": "Chaîne allemande d'auberges de jeunesse et hôtels budget fondée en 1994 à Berlin, connue pour ses dortoirs et chambres privées à prix cassés dans les capitales européennes."
+ },
+ "hotellerie-et-hebergement-falkensteiner": {
+  "domaine": "falkensteiner.com",
+  "histoire": "Groupe hôtelier autrichien familial fondé en 1960 dans le Tyrol, spécialisé dans les hôtels 4 étoiles, spas et résidences de vacances en Autriche, Italie, Croatie et Tchéquie."
+ },
+ "hotellerie-et-hebergement-nh-hotel-group": {
+  "domaine": "nh-hotels.com",
+  "histoire": "Chaîne espagnole NH Hotels fondée en 1978 à Madrid, rachetée en 2014 par le groupe thaïlandais Minor Hotels (également propriétaire d'Anantara et Avani)."
+ },
+ "hotellerie-et-hebergement-gites-de-france": {
+  "domaine": "gites-de-france.com",
+  "histoire": "Fédération française créée en 1968, regroupant plus de 40 000 gîtes ruraux et chambres d'hôtes labellisés partout en France, avec classement en épis."
+ },
+ "hotellerie-et-hebergement-belvilla": {
+  "domaine": "belvilla.com",
+  "histoire": "Plateforme néerlandaise de location de vacances fondée en 1980 à Leyde, leader européen des chalets, villas et campings avec plus de 500 000 hébergements dans 27 pays."
  }
 }
