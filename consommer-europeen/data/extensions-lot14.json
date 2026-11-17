@@ -1,0 +1,345 @@
+{
+ "13": {
+  "groupes": [
+   {
+    "id": "telecoms-numerique-et-energie-vodafone",
+    "groupe": "Vodafone",
+    "marques": [
+     "Vodafone"
+    ],
+    "siege": "Royaume-Uni (Newbury)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Opérateur britannique présent dans une vingtaine de pays européens et africains. [419]",
+    "sources": [
+     419
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-telefonica",
+    "groupe": "Telefónica",
+    "marques": [
+     "Movistar",
+     "O2"
+    ],
+    "siege": "Espagne (Madrid)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Opérateur espagnol (Movistar en Espagne et Amérique latine, O2 en Allemagne, Royaume-Uni, Brésil). UE. [420]",
+    "sources": [
+     420
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Allemagne",
+     "Royaume-Uni"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-deutsche-telekom",
+    "groupe": "Deutsche Telekom",
+    "marques": [
+     "T-Mobile",
+     "Telekom"
+    ],
+    "siege": "Allemagne (Bonn)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Opérateur allemand, maison mère de T-Mobile (présent aux États-Unis et en Europe centrale). UE. [421]",
+    "sources": [
+     421
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Europe centrale"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-tim",
+    "groupe": "TIM (Telecom Italia)",
+    "marques": [
+     "TIM"
+    ],
+    "siege": "Italie (Rome)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Opérateurs télécoms",
+    "commentaire": "Principal opérateur italien (TIM), également présent au Brésil via TIM Brasil. UE. [422]",
+    "sources": [
+     422
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-infomaniak",
+    "groupe": "Infomaniak",
+    "marques": [
+     "Infomaniak"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Cloud et streaming",
+    "commentaire": "Hébergeur suisse indépendant (hébergement web, cloud, e-mail, streaming), 100 % énergie renouvelable. [423]",
+    "sources": [
+     423
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-exoscale",
+    "groupe": "Exoscale",
+    "marques": [
+     "Exoscale"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Cloud et streaming",
+    "commentaire": "Fournisseur de cloud public suisse (acquis par A1 Digital). [424]",
+    "sources": [
+     424
+    ],
+    "lieux_production": [
+     "Suisse",
+     "Allemagne",
+     "Autriche"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-netcup",
+    "groupe": "netcup",
+    "marques": [
+     "netcup"
+    ],
+    "siege": "Allemagne (Nuremberg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Cloud et streaming",
+    "commentaire": "Hébergeur allemand low-cost (domaines, hébergement web, serveurs virtuels). UE. [425]",
+    "sources": [
+     425
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-ilek",
+    "groupe": "Ilek",
+    "marques": [
+     "Ilek"
+    ],
+    "siege": "France (Bordeaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Fournisseur français d'électricité 100 % renouvelable et d'offres mobiles (opérateur virtuel). [426]",
+    "sources": [
+     426
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "telecoms-numerique-et-energie-plenitude-eni",
+    "groupe": "Plenitude (Eni)",
+    "marques": [
+     "Plenitude"
+    ],
+    "siege": "Italie (Milan)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Énergie",
+    "commentaire": "Marque du groupe italien Eni pour l'électricité, le gaz et les carburants renouvelables en Europe. UE. [427]",
+    "sources": [
+     427
+    ],
+    "lieux_production": [
+     "Italie",
+     "France",
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "02": {
+  "groupes": [
+   {
+    "id": "motos-et-scooters-italjet",
+    "groupe": "Italjet",
+    "marques": [
+     "Italjet",
+     "Dragster"
+    ],
+    "siege": "Italie (Castel Guelfo di Bologna)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Fabricant italien célèbre pour son scooter Dragster au design radical. UE. [412]",
+    "sources": [
+     412
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-malaguti",
+    "groupe": "Malaguti",
+    "marques": [
+     "Malaguti"
+    ],
+    "siege": "Italie (Bologna)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Fabricant italien historique (fondé en 1930), spécialiste des scooters et motos 50 cm3. UE. [413]",
+    "sources": [
+     413
+    ],
+    "lieux_production": [
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-fantic-motor",
+    "groupe": "Fantic Motor",
+    "marques": [
+     "Fantic"
+    ],
+    "siege": "Italie (Santa Maria di Sala, Vénétie)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Fabricant italien de motos, scooters et vélos électriques (gamme Caballero, XE). UE. [414]",
+    "sources": [
+     414
+    ],
+    "lieux_production": [
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-silence",
+    "groupe": "Silence",
+    "marques": [
+     "Silence",
+     "S04"
+    ],
+    "siege": "Espagne (Barcelone)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Scooters électriques",
+    "commentaire": "Fabricant espagnol de scooters 100 % électriques (S01, S02, S04) avec batterie amovible. UE. [415]",
+    "sources": [
+     415
+    ],
+    "lieux_production": [
+     "Espagne",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-askoll",
+    "groupe": "Askoll",
+    "marques": [
+     "Askoll"
+    ],
+    "siege": "Italie (Vicence)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Scooters électriques",
+    "commentaire": "Fabricant italien de scooters et vélos électriques (gamme eB1, eB5). UE. [416]",
+    "sources": [
+     416
+    ],
+    "lieux_production": [
+     "Italie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-mash",
+    "groupe": "Mash (Zhongneng)",
+    "marques": [
+     "Mash"
+    ],
+    "siege": "France (marque historique)",
+    "siege_pays": "FR",
+    "statut": "a_ecarter",
+    "sous_categorie": "Marques chinoises ou sous contrôle chinois",
+    "commentaire": "Marque française de motos 125 cm3 rachetée par le chinois Zhongneng. Contrôle chinois. [417]",
+    "sources": [
+     417
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "motos-et-scooters-brixton",
+    "groupe": "Brixton Motorcycles",
+    "marques": [
+     "Brixton"
+    ],
+    "siege": "Autriche (Vienne)",
+    "siege_pays": "AT",
+    "statut": "vigilance",
+    "sous_categorie": "Marques européennes",
+    "commentaire": "Marque autrichienne de motos rétro (Saxon, Cromwell), participation étrangère majoritaire. Vigilance. [418]",
+    "sources": [
+     418
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}
