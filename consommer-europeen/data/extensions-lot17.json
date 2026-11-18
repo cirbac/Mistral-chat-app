@@ -1,0 +1,367 @@
+{
+ "18": {
+  "groupes": [
+   {
+    "id": "maison-bricolage-et-jardin-metabo",
+    "groupe": "Metabo",
+    "marques": [
+     "Metabo"
+    ],
+    "siege": "Allemagne (Nürtingen)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Fabricant allemand d'outillage électroportatif et de machines stationnaires fondé en 1924. UE. [460]",
+    "sources": [
+     460
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-mafell",
+    "groupe": "Mafell",
+    "marques": [
+     "Mafell"
+    ],
+    "siege": "Allemagne (Oberndorf am Neckar)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Fabricant allemand de machines à bois professionnelles (scies, défonceuses) fondé en 1926. UE. [461]",
+    "sources": [
+     461
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-hikoki",
+    "groupe": "HiKOKI",
+    "marques": [
+     "HiKOKI"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Marque japonaise d'outillage électroportatif (ex-Hitachi Power Tools, batteries MultiVolt). Haute démocratie. [462]",
+    "sources": [
+     462
+    ],
+    "lieux_production": [
+     "Japon",
+     "Chine",
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-parkside",
+    "groupe": "Parkside (Lidl)",
+    "marques": [
+     "Parkside"
+    ],
+    "siege": "Allemagne (via Schwarz Gruppe / Lidl)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Marque d'outillage et jardin d'entrée de gamme distribuée par Lidl (groupe Schwarz, Allemagne). UE. [463]",
+    "sources": [
+     463
+    ],
+    "lieux_production": [
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-stiga",
+    "groupe": "Stiga",
+    "marques": [
+     "Stiga"
+    ],
+    "siege": "Suède (Tranås)",
+    "siege_pays": "SE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Fabricant suédois de tondeuses, robots tondeuses et débroussailleuses fondé en 1938. UE. [464]",
+    "sources": [
+     464
+    ],
+    "lieux_production": [
+     "Suède",
+     "Chine",
+     "Italie"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-al-ko",
+    "groupe": "AL-KO",
+    "marques": [
+     "AL-KO"
+    ],
+    "siege": "Allemagne (Kötz)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Outillage, jardin et entretien",
+    "commentaire": "Fabricant allemand de tondeuses, remorques et équipements de jardin fondé en 1931. UE. [465]",
+    "sources": [
+     465
+    ],
+    "lieux_production": [
+     "Allemagne",
+     "Autriche",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-camif",
+    "groupe": "Camif",
+    "marques": [
+     "Camif"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Mobilier et décoration",
+    "commentaire": "Coopérative française de mobilier, literie et aménagement durable (fabrication française privilégiée). [466]",
+    "sources": [
+     466
+    ],
+    "lieux_production": [
+     "France",
+     "Europe"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "maison-bricolage-et-jardin-degrenne",
+    "groupe": "Degrenne",
+    "marques": [
+     "Degrenne"
+    ],
+    "siege": "France (Vire, Normandie)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Art de la table et cuisine",
+    "commentaire": "Coutellerie et arts de la table française fondée en 1948 à Vire (couverts, plats, inox). [467]",
+    "sources": [
+     467
+    ],
+    "lieux_production": [
+     "France",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ },
+ "19": {
+  "groupes": [
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-oris",
+    "groupe": "Oris",
+    "marques": [
+     "Oris"
+    ],
+    "siege": "Suisse (Hölstein)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Horloger suisse indépendant fondé en 1904, spécialiste des montres mécaniques accessibles (Aquis, Divers). UE. [468]",
+    "sources": [
+     468
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-junghans",
+    "groupe": "Junghans",
+    "marques": [
+     "Junghans"
+    ],
+    "siege": "Allemagne (Schramberg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Horloger allemand fondé en 1861, pionnier de la montre radio-pilotée et du design Bauhaus (Max Bill). UE. [469]",
+    "sources": [
+     469
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-orient",
+    "groupe": "Orient",
+    "marques": [
+     "Orient",
+     "Orient Star"
+    ],
+    "siege": "Japon (Tokyo)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Horloger japonais fondé en 1901, filiale de Seiko Epson, connu pour ses montres automatiques abordables. Haute démocratie. [470]",
+    "sources": [
+     470
+    ],
+    "lieux_production": [
+     "Japon",
+     "Thaïlande",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-baume-mercier",
+    "groupe": "Baume & Mercier (Richemont)",
+    "marques": [
+     "Baume & Mercier"
+    ],
+    "siege": "Suisse (Genève)",
+    "siege_pays": "CH",
+    "statut": "rang1",
+    "sous_categorie": "Horlogerie",
+    "commentaire": "Maison horlogère suisse fondée en 1830, membre du groupe Richemont (Clifton, Hampton). UE. [471]",
+    "sources": [
+     471
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-pandora",
+    "groupe": "Pandora",
+    "marques": [
+     "Pandora"
+    ],
+    "siege": "Danemark (Copenhague)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Bijouterie",
+    "commentaire": "Joaillier danois fondé en 1982, créateur du bracelet à breloques, présent dans plus de 100 pays. UE. [472]",
+    "sources": [
+     472
+    ],
+    "lieux_production": [
+     "Thaïlande"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-jimmy-fairly",
+    "groupe": "Jimmy Fairly",
+    "marques": [
+     "Jimmy Fairly"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Optique",
+    "commentaire": "Opticien français en ligne fondé en 2010, lunettes et solaires à prix fixe avec verres inclus. [473]",
+    "sources": [
+     473
+    ],
+    "lieux_production": [
+     "France"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-withings",
+    "groupe": "Withings",
+    "marques": [
+     "Withings"
+    ],
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Montres et objets connectés",
+    "commentaire": "Fabricant français d'objets connectés santé (montres ScanWatch, balances Body+, tensiomètres). [474]",
+    "sources": [
+     474
+    ],
+    "lieux_production": [
+     "France",
+     "Chine",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-apple-watch",
+    "groupe": "Apple Watch",
+    "marques": [
+     "Apple Watch"
+    ],
+    "siege": "États-Unis (Cupertino)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Montres et objets connectés",
+    "commentaire": "Montre connectée d'Apple (santé, sport, notifications). Hors de vos zones. [475]",
+    "sources": [
+     475
+    ],
+    "lieux_production": [
+     "États-Unis",
+     "Vietnam",
+     "Inde"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "montres-bijoux-optique-et-objets-connectes-galaxy-watch",
+    "groupe": "Samsung Galaxy Watch",
+    "marques": [
+     "Galaxy Watch"
+    ],
+    "siege": "Corée du Sud (Séoul)",
+    "siege_pays": "KR",
+    "statut": "rang2",
+    "sous_categorie": "Montres et objets connectés",
+    "commentaire": "Montre connectée de Samsung (santé, sport, paiements Samsung Pay). Haute démocratie. [476]",
+    "sources": [
+     476
+    ],
+    "lieux_production": [
+     "Corée du Sud",
+     "Vietnam"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}
