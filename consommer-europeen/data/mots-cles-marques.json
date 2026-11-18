@@ -6585,5 +6585,151 @@
   "allemagne",
   "ecologique",
   "bebe"
+ ],
+ "alimentation-et-boissons-giovanni-rana": [
+  "giovanni rana",
+  "rana",
+  "pates fraiches",
+  "ravioli",
+  "tortellini",
+  "italie",
+  "frais"
+ ],
+ "alimentation-et-boissons-krombacher": [
+  "krombacher",
+  "biere",
+  "pils",
+  "allemagne",
+  "brasserie",
+  "pression"
+ ],
+ "alimentation-et-boissons-emmi": [
+  "emmi",
+  "fromage",
+  "emmental",
+  "suisse",
+  "lait",
+  "kaltbach"
+ ],
+ "alimentation-et-boissons-jacquet": [
+  "jacquet",
+  "pain de mie",
+  "brioché? non",
+  "boulangerie",
+  "toast",
+  "france",
+  "vitamine"
+ ],
+ "alimentation-et-boissons-mariage-freres": [
+  "mariage freres",
+  "the",
+  "the noir",
+  "the vert",
+  "parfume",
+  "luxe",
+  "france",
+  "infusion"
+ ],
+ "alimentation-et-boissons-poulain-mondelez": [
+  "poulain",
+  "chocolat",
+  "chocolat au lait",
+  "barre chocolat",
+  "france",
+  "mondelez"
+ ],
+ "alimentation-et-boissons-yeo-valley": [
+  "yeo valley",
+  "yaourt bio",
+  "lait bio",
+  "beurre",
+  "royaume-uni",
+  "bio",
+  "fermier"
+ ],
+ "alimentation-et-boissons-rians": [
+  "rians",
+  "chevre frais",
+  "tomme",
+  "fromage",
+  "charente",
+  "france",
+  "chèvre"
+ ],
+ "beaute-cosmetiques-naos-bioderma": [
+  "bioderma",
+  "naos",
+  "eau micellaire",
+  "sensibio",
+  "institut esthederm",
+  "peau sensible",
+  "dermatologie",
+  "france"
+ ],
+ "beaute-cosmetiques-nuxe": [
+  "nuxe",
+  "huile prodigieuse",
+  "soin visage",
+  "anti age",
+  "paris",
+  "france",
+  "hygiene"
+ ],
+ "beaute-cosmetiques-caudalie": [
+  "caudalie",
+  "vinotherapie",
+  "serum",
+  "bordeaux",
+  "peau",
+  "anti age",
+  "france"
+ ],
+ "beaute-cosmetiques-svr": [
+  "svr",
+  "sebionex",
+  "dermo cosmetique",
+  "peau sensible",
+  "taches",
+  "lyon",
+  "france",
+  "creme"
+ ],
+ "beaute-cosmetiques-typology": [
+  "typology",
+  "cosmetique clean",
+  "minimaliste",
+  "serum",
+  "paris",
+  "en ligne",
+  "pharmacie",
+  "france"
+ ],
+ "beaute-cosmetiques-topicrem-mayoly": [
+  "topicrem",
+  "mayoly spindler",
+  "peau atopique",
+  "bebe",
+  "creme hydratante",
+  "eczema",
+  "france"
+ ],
+ "beaute-cosmetiques-leonor-greyl": [
+  "leonor greyl",
+  "shampoing",
+  "huile cheveux",
+  "cheveux",
+  "luxe",
+  "paris",
+  "soin capillaire"
+ ],
+ "beaute-cosmetiques-bourjois-chanel": [
+  "bourjois",
+  "maquillage",
+  "rouge a levres",
+  "mascara",
+  "blush",
+  "chanel",
+  "paris",
+  "healthy glow"
  ]
 }
