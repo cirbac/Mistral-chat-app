@@ -6447,5 +6447,143 @@
   "carburant",
   "italie",
   "europe"
+ ],
+ "voyage-et-plein-air-hartmann": [
+  "hartmann",
+  "valise",
+  "bagage",
+  "maroquinerie",
+  "allemagne",
+  "polycarbonate",
+  "trolley"
+ ],
+ "voyage-et-plein-air-klattermusen": [
+  "klattermusen",
+  "sac a dos",
+  "vetement montagne",
+  "outdoor",
+  "suede",
+  "durable",
+  "doudoune"
+ ],
+ "voyage-et-plein-air-bergans": [
+  "bergans",
+  "sac a dos",
+  "tente",
+  "vetement montagne",
+  "norvege",
+  "outdoor",
+  "expedition"
+ ],
+ "voyage-et-plein-air-lowa": [
+  "lowa",
+  "chaussure randonnee",
+  "baskets rando",
+  "allemagne",
+  "renegade",
+  "zephyr",
+  "trekking"
+ ],
+ "voyage-et-plein-air-robens": [
+  "robens",
+  "tente",
+  "sac de couchage",
+  "camping",
+  "royaume-uni",
+  "randonnee"
+ ],
+ "voyage-et-plein-air-polar": [
+  "polar",
+  "montre sport",
+  "gps",
+  "cardio",
+  "finlande",
+  "vantage",
+  "grit",
+  "capteur cardiaque"
+ ],
+ "voyage-et-plein-air-sea-to-summit": [
+  "sea to summit",
+  "tente",
+  "sac de couchage",
+  "rechaud",
+  "camping",
+  "australie",
+  "ultraleger"
+ ],
+ "jouets-et-jeux-video-nacon": [
+  "nacon",
+  "kt racing",
+  "bigben",
+  "editeur jeux video",
+  "manette",
+  "casque gaming",
+  "france",
+  "accessoire console"
+ ],
+ "jouets-et-jeux-video-microids": [
+  "microids",
+  "syberia",
+  "xiii",
+  "editeur jeux video",
+  "aventure",
+  "france"
+ ],
+ "jouets-et-jeux-video-kylotonn": [
+  "kylotonn",
+  "kt racing",
+  "jeu de course",
+  "arcade",
+  "studio francais",
+  "nacon"
+ ],
+ "jouets-et-jeux-video-cd-projekt": [
+  "cd projekt",
+  "witcher",
+  "cyberpunk 2077",
+  "gog",
+  "editeur jeux video",
+  "pologne",
+  "rpg"
+ ],
+ "jouets-et-jeux-video-11bit-studios": [
+  "11 bit studios",
+  "frostpunk",
+  "this war of mine",
+  "studio polonais",
+  "jeu de gestion"
+ ],
+ "jouets-et-jeux-video-team17": [
+  "team17",
+  "overcooked",
+  "the escapists",
+  "worms",
+  "editeur britannique",
+  "jeu independant"
+ ],
+ "jouets-et-jeux-video-raw-fury": [
+  "raw fury",
+  "kingdom",
+  "descenders",
+  "editeur suedois",
+  "jeu independant"
+ ],
+ "jouets-et-jeux-video-valve-steam": [
+  "valve",
+  "steam",
+  "steam deck",
+  "plateforme jeux",
+  "usa",
+  "pc",
+  "distribution numerique"
+ ],
+ "jouets-et-jeux-video-grimms": [
+  "grimms",
+  "jouet en bois",
+  "arc en ciel",
+  "billes",
+  "allemagne",
+  "ecologique",
+  "bebe"
  ]
 }
