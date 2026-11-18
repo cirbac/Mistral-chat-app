@@ -6731,5 +6731,165 @@
   "chanel",
   "paris",
   "healthy glow"
+ ],
+ "maison-bricolage-et-jardin-metabo": [
+  "metabo",
+  "perceuse",
+  "visseuse",
+  "meuleuse",
+  "outillage",
+  "allemagne",
+  "pro",
+  "scie"
+ ],
+ "maison-bricolage-et-jardin-mafell": [
+  "mafell",
+  "scie plongeante",
+  "defonceuse",
+  "machine a bois",
+  "allemagne",
+  "menuiserie",
+  "pro"
+ ],
+ "maison-bricolage-et-jardin-hikoki": [
+  "hikoki",
+  "perceuse",
+  "visseuse",
+  "meuleuse",
+  "outillage sans fil",
+  "japon",
+  "multivolt",
+  "batterie"
+ ],
+ "maison-bricolage-et-jardin-parkside": [
+  "parkside",
+  "lidl",
+  "perceuse",
+  "outillage",
+  "pas cher",
+  "bricolage",
+  "jardin"
+ ],
+ "maison-bricolage-et-jardin-stiga": [
+  "stiga",
+  "tondeuse",
+  "robot tondeuse",
+  "debroussailleuse",
+  "suede",
+  "jardin",
+  "batterie"
+ ],
+ "maison-bricolage-et-jardin-al-ko": [
+  "al-ko",
+  "tondeuse",
+  "remorque",
+  "jardin",
+  "allemagne",
+  "autoportee"
+ ],
+ "maison-bricolage-et-jardin-camif": [
+  "camif",
+  "matelas",
+  "literie",
+  "mobilier",
+  "cooperative",
+  "france",
+  "durable",
+  "sommet"
+ ],
+ "maison-bricolage-et-jardin-degrenne": [
+  "degrenne",
+  "couvert",
+  "couteau",
+  "plat",
+  "inox",
+  "art de la table",
+  "normandie",
+  "france"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-oris": [
+  "oris",
+  "montre",
+  "suisse",
+  "aquis",
+  "divers",
+  "automatique",
+  "plongee"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-junghans": [
+  "junghans",
+  "montre",
+  "allemagne",
+  "max bill",
+  "radio-pilotee",
+  "bauhaus",
+  "chrono"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-orient": [
+  "orient",
+  "montre automatique",
+  "japon",
+  "bambino",
+  "kamasu",
+  "mako",
+  "abordable"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-baume-mercier": [
+  "baume mercier",
+  "montre",
+  "suisse",
+  "clifton",
+  "hampton",
+  "richemont",
+  "luxe"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-pandora": [
+  "pandora",
+  "bijou",
+  "bracelet",
+  "breloque",
+  "bague",
+  "boucles d'oreilles",
+  "danemark",
+  "charms"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-jimmy-fairly": [
+  "jimmy fairly",
+  "lunettes",
+  "lunettes de soleil",
+  "opticien",
+  "en ligne",
+  "verres inclus",
+  "france",
+  "prix fixe"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-withings": [
+  "withings",
+  "montre connectee",
+  "sante",
+  "scanwatch",
+  "balance",
+  "tensiometre",
+  "sommeil",
+  "france",
+  "hybride"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-apple-watch": [
+  "apple watch",
+  "montre connectee",
+  "apple",
+  "sport",
+  "ecg",
+  "usa",
+  "sante"
+ ],
+ "montres-bijoux-optique-et-objets-connectes-galaxy-watch": [
+  "galaxy watch",
+  "samsung",
+  "montre connectee",
+  "sport",
+  "coree du sud",
+  "sante",
+  "ecg"
  ]
 }

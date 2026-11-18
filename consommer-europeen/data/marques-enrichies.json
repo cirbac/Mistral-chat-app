@@ -984,5 +984,73 @@
  "beaute-cosmetiques-bourjois-chanel": {
   "domaine": "bourjois.com",
   "histoire": "Marque de maquillage parisienne fondée en 1863 par Alexander Napoléon Bourjois, célèbre pour son Rouge Velvet et sa poudre Healthy Mix, filiale de Chanel depuis 1972."
+ },
+ "maison-bricolage-et-jardin-metabo": {
+  "domaine": "metabo.com",
+  "histoire": "Fabricant allemand d'outillage électroportatif fondé en 1924 à Nürtingen par Albrecht Schnizler, référence des professionnels (perceuses, meuleuses, scies)."
+ },
+ "maison-bricolage-et-jardin-mafell": {
+  "domaine": "mafell.de",
+  "histoire": "Fabricant allemand de machines à bois professionnelles fondé en 1926 à Oberndorf, célèbre pour ses scies plongeantes et défonceuses de précision."
+ },
+ "maison-bricolage-et-jardin-hikoki": {
+  "domaine": "hikoki-powertools.com",
+  "histoire": "Marque japonaise d'outillage sans fil née de Hitachi Power Tools (devenu Koki Holdings), réputée pour ses batteries MultiVolt 18/36 V."
+ },
+ "maison-bricolage-et-jardin-parkside": {
+  "domaine": "lidl.fr",
+  "histoire": "Marque d'outillage, jardin et atelier distribuée exclusivement par Lidl (groupe Schwarz, Allemagne), connue pour ses prix très bas et sa garantie 3 ans."
+ },
+ "maison-bricolage-et-jardin-stiga": {
+  "domaine": "stiga.com",
+  "histoire": "Fabricant suédois fondé en 1938 à Tranås, leader européen des tondeuses et pionnier des robots tondeuses sans câble périphérique."
+ },
+ "maison-bricolage-et-jardin-al-ko": {
+  "domaine": "al-ko.com",
+  "histoire": "Fabricant allemand fondé en 1931 à Kötz (Bavière), spécialiste des tondeuses autoportées, remorques et équipements de jardin."
+ },
+ "maison-bricolage-et-jardin-camif": {
+  "domaine": "camif.fr",
+  "histoire": "Coopérative française d'ameublement et literie fondée en 1947, engagée pour le « fabriqué en France » et la durabilité, avec plus de 80 magasins en France."
+ },
+ "maison-bricolage-et-jardin-degrenne": {
+  "domaine": "degrenne.com",
+  "histoire": "Maison française d'arts de la table fondée en 1948 à Vire (Normandie), spécialiste des couverts, couteaux et plats en inox, propriété du groupe Sabatier."
+ },
+ "montres-bijoux-optique-et-objets-connectes-oris": {
+  "domaine": "oris.ch",
+  "histoire": "Horloger suisse indépendant fondé en 1904 à Hölstein par Paul Cattin et Georges Christian, connu pour ses montres de plongée Aquis et ses cadrans colorés."
+ },
+ "montres-bijoux-optique-et-objets-connectes-junghans": {
+  "domaine": "junghans.de",
+  "histoire": "Maison horlogère allemande fondée en 1861 à Schramberg (Forêt-Noire), pionnière de la montre radio-pilotée et célèbre pour la Max Bill dessinée par Max Bill en 1961."
+ },
+ "montres-bijoux-optique-et-objets-connectes-orient": {
+  "domaine": "orientwatch.com",
+  "histoire": "Horloger japonais fondé en 1901 à Tokyo, filiale de Seiko Epson depuis 2009, réputé pour ses montres automatiques abordables (Bambino, Kamasu, Mako)."
+ },
+ "montres-bijoux-optique-et-objets-connectes-baume-mercier": {
+  "domaine": "baume-et-mercier.com",
+  "histoire": "Maison horlogère suisse fondée en 1830 à Bois-Genoud, membre du groupe Richemont depuis 2018, connue pour les collections Clifton et Hampton."
+ },
+ "montres-bijoux-optique-et-objets-connectes-pandora": {
+  "domaine": "pandora.net",
+  "histoire": "Joaillier danois fondé en 1982 à Copenhague par Per Enevoldsen, créateur du bracelet à breloques modulable, présent dans plus de 100 pays avec des bijoux en argent recyclé."
+ },
+ "montres-bijoux-optique-et-objets-connectes-jimmy-fairly": {
+  "domaine": "jimmyfairly.com",
+  "histoire": "Opticien français en ligne fondé en 2010 à Paris, modèle de prix fixe unique avec verres inclus, plus de 200 boutiques en France et en Europe."
+ },
+ "montres-bijoux-optique-et-objets-connectes-withings": {
+  "domaine": "withings.com",
+  "histoire": "Fabricant français d'objets connectés santé fondé en 2008 à Issy-les-Moulineaux : montres hybrides ScanWatch, balances Body+, tensiomètres connectés, suivi du sommeil."
+ },
+ "montres-bijoux-optique-et-objets-connectes-apple-watch": {
+  "domaine": "apple.com/apple-watch",
+  "histoire": "Montre connectée d'Apple lancée en 2015, leader mondial du secteur avec suivi cardiaque (ECG), détection de chute et écosystème iPhone."
+ },
+ "montres-bijoux-optique-et-objets-connectes-galaxy-watch": {
+  "domaine": "samsung.com/galaxy-watch",
+  "histoire": "Gamme de montres connectées de Samsung lancée en 2018, fonctionnant avec Samsung Pay, suivi sportif avancé et mesure de la composition corporelle."
  }
 }
