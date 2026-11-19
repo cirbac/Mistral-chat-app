@@ -1,0 +1,36 @@
+{
+ "banque-assurance-et-epargne-wise": [
+  {"id": "banque-assurance-et-epargne-wise-compte-multidevise", "nom": "Compte multi-devises Wise (carte de débit)", "assemblage": "Royaume-Uni (service)", "origine_pieces": "Royaume-Uni", "certifications": [], "note": "Compte avec IBAN local dans 10+ devises et transferts internationaux à taux réel."},
+  {"id": "banque-assurance-et-epargne-wise-transfert", "nom": "Virement international Wise", "assemblage": "Royaume-Uni (service)", "origine_pieces": "Royaume-Uni", "certifications": [], "note": "Transfert de devises à bas frais vers 160 pays."}
+ ],
+ "banque-assurance-et-epargne-bunq": [
+  {"id": "banque-assurance-et-epargne-bunq-compte", "nom": "Compte courant bunq + carte", "assemblage": "Pays-Bas (service)", "origine_pieces": "Pays-Bas", "certifications": [], "note": "Néobanque mobile avec sous-comptes, épargne auto et arbre planté par paiement."}
+ ],
+ "banque-assurance-et-epargne-tomorrow": [
+  {"id": "banque-assurance-et-epargne-tomorrow-compte-eco", "nom": "Compte courant durable Tomorrow (carte en bois)", "assemblage": "Allemagne (service)", "origine_pieces": "Allemagne", "certifications": ["B Corp"], "note": "Banque à impact : chaque paiement finance des projets écologiques."}
+ ],
+ "banque-assurance-et-epargne-ma-french-bank": [
+  {"id": "banque-assurance-et-epargne-ma-french-bank-compte", "nom": "Compte Ma French Bank (carte Visa gratuite)", "assemblage": "France (service)", "origine_pieces": "France", "certifications": [], "note": "Compte 100 % mobile de La Banque Postale, sans conditions de revenus."}
+ ],
+ "banque-assurance-et-epargne-assurancevie-com": [
+  {"id": "banque-assurance-et-epargne-assurancevie-com-contrat", "nom": "Contrat d'assurance vie en ligne Assurancevie.com", "assemblage": "France (service)", "origine_pieces": "France", "certifications": [], "note": "Courtier en ligne : contrats d'assurance vie et épargne retraite à frais réduits."}
+ ],
+ "banque-assurance-et-epargne-april": [
+  {"id": "banque-assurance-et-epargne-april-assurance-voyage", "nom": "Assurance voyage April", "assemblage": "France (service)", "origine_pieces": "France", "certifications": [], "note": "Assurance voyage, santé internationale et dommages du groupe April."}
+ ],
+ "banque-assurance-et-epargne-lolivier": [
+  {"id": "banque-assurance-et-epargne-lolivier-auto", "nom": "Assurance auto en ligne L'Olivier", "assemblage": "France (service)", "origine_pieces": "France", "certifications": [], "note": "Devis d'assurance auto 100 % en ligne, en quelques minutes."}
+ ],
+ "banque-assurance-et-epargne-ishares-blackrock": [
+  {"id": "banque-assurance-et-epargne-ishares-msci-world", "nom": "ETF iShares MSCI World (CW8)", "assemblage": "États-Unis / Irlande (service financier)", "origine_pieces": "États-Unis", "certifications": [], "note": "ETF monde de BlackRock, le plus gros gestionnaire d'actifs mondial (US)."}
+ ],
+ "banque-assurance-et-epargne-vanguard": [
+  {"id": "banque-assurance-et-epargne-vanguard-vwce", "nom": "ETF Vanguard FTSE All-World (VWCE)", "assemblage": "États-Unis / Irlande (service financier)", "origine_pieces": "États-Unis", "certifications": [], "note": "ETF monde à bas frais du pionnier américain Vanguard (US)."}
+ ],
+ "banque-assurance-et-epargne-coinhouse": [
+  {"id": "banque-assurance-et-epargne-coinhouse-achat-crypto", "nom": "Achat de cryptos (Bitcoin, Ethereum) sur Coinhouse", "assemblage": "France (service)", "origine_pieces": "France", "certifications": ["PSAN AMF"], "note": "Plateforme française enregistrée PSAN AMF pour acheter/vendre des cryptos en euros."}
+ ],
+ "banque-assurance-et-epargne-bitpanda": [
+  {"id": "banque-assurance-et-epargne-bitpanda-invest", "nom": "Investissement Bitpanda (actions fractionnaires, ETF, cryptos)", "assemblage": "Autriche (service)", "origine_pieces": "Autriche", "certifications": [], "note": "Plateforme autrichienne d'investissement multi-actifs à partir de 1 €."}
+ ]
+}

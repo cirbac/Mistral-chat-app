@@ -1076,5 +1076,49 @@
  "transport-et-mobilite-google-flights": {
   "domaine": "google.com/travel/flights",
   "histoire": "Service de recherche de vols lancé par Google en 2011, avec suivi de prix, graphe d'exploration des destinations et alertes de baisse."
+ },
+ "banque-assurance-et-epargne-wise": {
+  "domaine": "wise.com",
+  "histoire": "Fintech britannique fondée en 2011 à Londres par deux Estoniens (Kristo Käärmann et Taavet Hinrikus, ex-Skype), d'abord appelée TransferWise, spécialisée dans les virements internationaux à taux réel, cotée à Londres."
+ },
+ "banque-assurance-et-epargne-bunq": {
+  "domaine": "bunq.com",
+  "histoire": "Néobanque néerlandaise fondée en 2012 à Amsterdam par Ali Niknam, première banque mobile à obtenir une licence bancaire complète aux Pays-Bas, connue pour ses sous-comptes et son programme écologique."
+ },
+ "banque-assurance-et-epargne-tomorrow": {
+  "domaine": "tomorrow.one",
+  "histoire": "Banque allemande fondée en 2018 à Hambourg par Inas Nureddin, Michael Schweikart et Jakob Berndt, certifiée B Corp : chaque paiement par carte finance la protection du climat."
+ },
+ "banque-assurance-et-epargne-ma-french-bank": {
+  "domaine": "mafrenchbank.fr",
+  "histoire": "Néobanque 100 % mobile lancée en 2019 par La Banque Postale, avec compte gratuit, carte Visa et paiement mobile, ciblant notamment les jeunes adultes."
+ },
+ "banque-assurance-et-epargne-assurancevie-com": {
+  "domaine": "assurancevie.com",
+  "histoire": "Courtier en ligne français fondé en 1999, pionnier de la distribution 100 % en ligne d'assurance vie et d'épargne retraite à frais réduits, basé à Paris."
+ },
+ "banque-assurance-et-epargne-april": {
+  "domaine": "april.com",
+  "histoire": "Groupe d'assurance français fondé en 1988 à Lyon par Bruno Rousset, spécialiste de l'assurance santé internationale, dommages, voyage et prévoyance, présent dans une dizaine de pays."
+ },
+ "banque-assurance-et-epargne-lolivier": {
+  "domaine": "lolivier.fr",
+  "histoire": "Assureur 100 % en ligne fondé en 2006 à Paris, connu pour ses devis d'assurance auto en quelques minutes et ses tarifs compétitifs (groupe Thélem Assurances)."
+ },
+ "banque-assurance-et-epargne-ishares-blackrock": {
+  "domaine": "blackrock.com",
+  "histoire": "BlackRock, fondé en 1988 à New York par Larry Fink, est le plus grand gestionnaire d'actifs mondial (plus de 10 000 Md$ d'actifs) ; sa gamme iShares est la référence mondiale des ETF."
+ },
+ "banque-assurance-et-epargne-vanguard": {
+  "domaine": "vanguard.com",
+  "histoire": "Vanguard Group, fondé en 1975 à Malvern (Pennsylvanie) par John Bogle, pionnier de la gestion indicielle à bas frais (ETF VTI, VOO, VWCE), détenu par ses propres fonds."
+ },
+ "banque-assurance-et-epargne-coinhouse": {
+  "domaine": "coinhouse.com",
+  "histoire": "Plateforme française d'achat et vente de cryptomonnaies fondée en 2014 à Paris, enregistrée PSAN (prestataire de services sur actifs numériques) auprès de l'AMF depuis 2019."
+ },
+ "banque-assurance-et-epargne-bitpanda": {
+  "domaine": "bitpanda.com",
+  "histoire": "Plateforme d'investissement autrichienne fondée en 2014 à Vienne par Eric Demuth, Paul Klanschek et Christian Trummer, permettant d'investir en actions fractionnaires, ETF, cryptos et métaux précieux dès 1 €."
  }
 }
