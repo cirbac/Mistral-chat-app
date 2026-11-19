@@ -445,28 +445,40 @@
    {
     "id": "banque-assurance-et-epargne-ubs-etf",
     "groupe": "UBS ETF",
-    "marques": [],
+    "marques": [
+     "UBS"
+    ],
     "siege": "Suisse",
     "siege_pays": "CH",
     "statut": "rang1",
     "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
-    "commentaire": "",
-    "sources": [],
-    "lieux_production": [],
+    "commentaire": "Banque suisse ; gamme d’ETF UBS. [494]",
+    "sources": [
+     494
+    ],
+    "lieux_production": [
+     "Suisse"
+    ],
     "certifications": [],
     "produits": []
    },
    {
     "id": "banque-assurance-et-epargne-nomura",
     "groupe": "Nomura",
-    "marques": [],
+    "marques": [
+     "Nomura"
+    ],
     "siege": "Japon",
     "siege_pays": "JP",
     "statut": "rang2",
     "sous_categorie": "Gestion d'actifs et fonds indiciels (ETF)",
-    "commentaire": "Non revérifié.",
-    "sources": [],
-    "lieux_production": [],
+    "commentaire": "Groupe financier japonais (Nomura Holdings), gestionnaire d’actifs et banque d’investissement. Haute démocratie. [495]",
+    "sources": [
+     495
+    ],
+    "lieux_production": [
+     "Japon"
+    ],
     "certifications": [],
     "produits": []
    },
