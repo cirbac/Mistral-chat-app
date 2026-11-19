@@ -1,0 +1,32 @@
+{
+ "informatique-et-telephonie-shift": [
+  {"id": "informatique-et-telephonie-shift-shift6mq", "nom": "Shiftphone 6mq (smartphone modulaire)", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Chine", "certifications": ["réparable"], "note": "Smartphone modulaire réparable fabriqué en Allemagne, produit phare de Shift."}
+ ],
+ "informatique-et-telephonie-murena": [
+  {"id": "informatique-et-telephonie-murena-murena-one", "nom": "Murena One (smartphone /e/OS)", "assemblage": "France (conception), Chine (assemblage)", "origine_pieces": "Chine", "certifications": [], "note": "Smartphone français dégooglisé avec /e/OS, sans services Google."}
+ ],
+ "informatique-et-telephonie-volla": [
+  {"id": "informatique-et-telephonie-volla-phone", "nom": "Volla Phone (Volla OS)", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Chine", "certifications": [], "note": "Smartphone allemand open source avec interface Volla OS simplifiée."}
+ ],
+ "informatique-et-telephonie-tuxedo": [
+  {"id": "informatique-et-telephonie-tuxedo-infinitybook", "nom": "Tuxedo InfinityBook (portable Linux)", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Taïwan", "certifications": [], "note": "PC portable assemblé en Allemagne avec Tuxedo OS (Linux)."}
+ ],
+ "informatique-et-telephonie-slimbook": [
+  {"id": "informatique-et-telephonie-slimbook-prox", "nom": "Slimbook Pro X (ultrabook)", "assemblage": "Espagne", "origine_pieces": "Espagne, Chine", "certifications": [], "note": "Ultrabook fabriqué et assemblé à Valence, Espagne."}
+ ],
+ "informatique-et-telephonie-star-labs": [
+  {"id": "informatique-et-telephonie-star-labs-starbook", "nom": "StarBook Mk VI (portable open source)", "assemblage": "Royaume-Uni", "origine_pieces": "Chine (châssis)", "certifications": ["Coreboot"], "note": "Portable britannique avec firmware Coreboot/UEFI libre."}
+ ],
+ "informatique-et-telephonie-system76": [
+  {"id": "informatique-et-telephonie-system76-lemp9", "nom": "System76 Lemur Pro (portable Pop!_OS)", "assemblage": "États-Unis", "origine_pieces": "États-Unis, Chine", "certifications": [], "note": "PC portable américain livré avec Pop!_OS (Linux). Hors zones."}
+ ],
+ "informatique-et-telephonie-beyerdynamic": [
+  {"id": "informatique-et-telephonie-beyerdynamic-dt770", "nom": "Casque DT 770 Pro", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Casque fermé professionnel culte, fabriqué à Heilbronn."}
+ ],
+ "informatique-et-telephonie-mikrotik": [
+  {"id": "informatique-et-telephonie-mikrotik-routerboard", "nom": "Routeur RouterBOARD (RouterOS)", "assemblage": "Lettonie", "origine_pieces": "Lettonie, Chine", "certifications": [], "note": "Routeur professionnel letton avec RouterOS, très répandu chez les FAI européens."}
+ ],
+ "informatique-et-telephonie-wacom": [
+  {"id": "informatique-et-telephonie-wacom-cintiq", "nom": "Tablette graphique Cintiq", "assemblage": "Japon", "origine_pieces": "Japon, Chine", "certifications": [], "note": "Écran-stylet professionnel pour le dessin numérique, fabriqué par le Japonais Wacom."}
+ ]
+}
