@@ -1,0 +1,212 @@
+{
+ "06": {
+  "groupes": [
+   {
+    "id": "informatique-et-telephonie-shift",
+    "groupe": "Shift (Shiftphones)",
+    "marques": [
+     "Shiftphone"
+    ],
+    "siege": "Allemagne (Falkenberg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Fabricant allemand de smartphones modulaires et réparables (Shift6mq), fabriqués en Allemagne. UE. [497]",
+    "sources": [
+     497
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [
+     "réparable"
+    ],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-murena",
+    "groupe": "Murena (/e/OS)",
+    "marques": [
+     "Murena"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Smartphones français avec /e/OS, un Android sans services Google, développés par la fondation e. [498]",
+    "sources": [
+     498
+    ],
+    "lieux_production": [
+     "France",
+     "Chine (assemblage)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-volla",
+    "groupe": "Volla Phone",
+    "marques": [
+     "Volla Phone"
+    ],
+    "siege": "Allemagne (Remchingen)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Smartphones",
+    "commentaire": "Smartphones allemands open source avec Volla OS (alternative simple à Android), fabriqués en Allemagne. UE. [499]",
+    "sources": [
+     499
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-tuxedo",
+    "groupe": "Tuxedo Computers",
+    "marques": [
+     "Tuxedo"
+    ],
+    "siege": "Allemagne (Königsbrunn)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant allemand de PC portables et fixes livrés avec Linux (Tuxedo OS), assemblés en Allemagne. UE. [500]",
+    "sources": [
+     500
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-slimbook",
+    "groupe": "Slimbook",
+    "marques": [
+     "Slimbook"
+    ],
+    "siege": "Espagne (Valence)",
+    "siege_pays": "ES",
+    "statut": "rang1",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant espagnol de PC portables ultrabooks fabriqués et assemblés en Espagne. UE. [501]",
+    "sources": [
+     501
+    ],
+    "lieux_production": [
+     "Espagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-star-labs",
+    "groupe": "Star Labs (StarBook)",
+    "marques": [
+     "StarBook"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant britannique de portables StarBook open source (Coreboot/UEFI libre). [502]",
+    "sources": [
+     502
+    ],
+    "lieux_production": [
+     "Royaume-Uni",
+     "Chine (assemblage)"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-system76",
+    "groupe": "System76",
+    "marques": [
+     "System76"
+    ],
+    "siege": "États-Unis (Denver, Colorado)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Ordinateurs",
+    "commentaire": "Fabricant américain de PC avec Pop!_OS (Linux). Hors de vos zones. [503]",
+    "sources": [
+     503
+    ],
+    "lieux_production": [
+     "États-Unis"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-beyerdynamic",
+    "groupe": "Beyerdynamic",
+    "marques": [
+     "Beyerdynamic"
+    ],
+    "siege": "Allemagne (Heilbronn)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Audio, photo et impression",
+    "commentaire": "Fabricant allemand de casques, micros et écouteurs professionnels fondé en 1924 (DT 770, DT 1990). UE. [504]",
+    "sources": [
+     504
+    ],
+    "lieux_production": [
+     "Allemagne"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-mikrotik",
+    "groupe": "MikroTik",
+    "marques": [
+     "MikroTik"
+    ],
+    "siege": "Lettonie (Riga)",
+    "siege_pays": "LV",
+    "statut": "rang1",
+    "sous_categorie": "Réseau et stockage",
+    "commentaire": "Fabricant letton de routeurs, switchs et équipements réseau (RouterBOARD, RouterOS). UE. [505]",
+    "sources": [
+     505
+    ],
+    "lieux_production": [
+     "Lettonie",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "informatique-et-telephonie-wacom",
+    "groupe": "Wacom",
+    "marques": [
+     "Wacom"
+    ],
+    "siege": "Japon (Saitama)",
+    "siege_pays": "JP",
+    "statut": "rang2",
+    "sous_categorie": "Audio, photo et impression",
+    "commentaire": "Fabricant japonais de tablettes graphiques et stylets (Cintiq, Intuos), référence des créatifs. Haute démocratie. [506]",
+    "sources": [
+     506
+    ],
+    "lieux_production": [
+     "Japon",
+     "Chine"
+    ],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

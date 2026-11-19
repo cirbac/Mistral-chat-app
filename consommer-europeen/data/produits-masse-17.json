@@ -3326,17 +3326,6 @@
    "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071433277"
   },
   {
-   "id": "distribution-paiement-carrefour-3560071455279",
-   "nom": "Biscuits avoine chocolat",
-   "assemblage": null,
-   "origine_pieces": null,
-   "certifications": [
-    "Agriculture biologique (AB)"
-   ],
-   "note": "Nutri-Score C · Green-Score C · 130 g (3 x 43,3 g)",
-   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071455279"
-  },
-  {
    "id": "distribution-paiement-carrefour-3270190128717",
    "nom": "SOJA Sans sucres ajoutés",
    "assemblage": "France",
@@ -3813,17 +3802,6 @@
    ],
    "note": "Nutri-Score E · Green-Score B · 125g",
    "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560071266769"
-  },
-  {
-   "id": "distribution-paiement-carrefour-3560070393619",
-   "nom": "Riz Basmati",
-   "assemblage": "GEOVITA SRL",
-   "origine_pieces": null,
-   "certifications": [
-    "Agriculture biologique (AB)"
-   ],
-   "note": "Nutri-Score B · Green-Score C · 500 g",
-   "openfoodfacts": "https://fr.openfoodfacts.org/produit/3560070393619"
   },
   {
    "id": "distribution-paiement-carrefour-3560070409976",

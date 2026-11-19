@@ -1120,5 +1120,45 @@
  "banque-assurance-et-epargne-bitpanda": {
   "domaine": "bitpanda.com",
   "histoire": "Plateforme d'investissement autrichienne fondée en 2014 à Vienne par Eric Demuth, Paul Klanschek et Christian Trummer, permettant d'investir en actions fractionnaires, ETF, cryptos et métaux précieux dès 1 €."
+ },
+ "informatique-et-telephonie-shift": {
+  "domaine": "shift.eco",
+  "histoire": "Fabricant allemand fondé en 2014 à Falkenberg, créateur du Shiftphone, smartphone modulaire conçu pour être réparable et durable, assemblé en Allemagne."
+ },
+ "informatique-et-telephonie-murena": {
+  "domaine": "murena.com",
+  "histoire": "Marque française de la fondation /e/, lancée en 2018 à Paris : smartphones avec /e/OS, un Android open source sans les services Google, pour la vie privée."
+ },
+ "informatique-et-telephonie-volla": {
+  "domaine": "volla.online",
+  "histoire": "Fabricant allemand fondé en 2017 à Remchingen, créateur du Volla Phone avec Volla OS, une interface Android simplifiée et open source, fabriqué en Allemagne."
+ },
+ "informatique-et-telephonie-tuxedo": {
+  "domaine": "tuxedo.de",
+  "histoire": "Fabricant allemand fondé en 2004 près d'Augsbourg, spécialiste des PC portables et fixes livrés avec Tuxedo OS (basé sur Linux), assemblés en Allemagne."
+ },
+ "informatique-et-telephonie-slimbook": {
+  "domaine": "slimbook.es",
+  "histoire": "Fabricant espagnol fondé en 2014 à Valence, produisant des ultrabooks Slimbook assemblés en Espagne, souvent proposés avec Linux préinstallé."
+ },
+ "informatique-et-telephonie-star-labs": {
+  "domaine": "starlabs.systems",
+  "histoire": "Fabricant britannique fondé en 2014 à Londres, créateur des portables StarBook avec firmware Coreboot/UEFI open source et Linux préinstallé."
+ },
+ "informatique-et-telephonie-system76": {
+  "domaine": "system76.com",
+  "histoire": "Fabricant américain fondé en 2005 à Denver (Colorado), connu pour ses PC livrés avec Pop!_OS, sa distribution Linux optimisée pour la productivité et le jeu."
+ },
+ "informatique-et-telephonie-beyerdynamic": {
+  "domaine": "beyerdynamic.com",
+  "histoire": "Fabricant allemand fondé en 1924 à Berlin (aujourd'hui Heilbronn) par Eugen Beyer, référence mondiale des casques et micros professionnels (DT 770, DT 1990, M 88)."
+ },
+ "informatique-et-telephonie-mikrotik": {
+  "domaine": "mikrotik.com",
+  "histoire": "Fabricant letton fondé en 1996 à Riga, créateur des routeurs RouterBOARD et du système RouterOS, très présent chez les fournisseurs d'accès européens."
+ },
+ "informatique-et-telephonie-wacom": {
+  "domaine": "wacom.com",
+  "histoire": "Fabricant japonais fondé en 1983, leader mondial des tablettes graphiques et stylets (Cintiq, Intuos), utilisés par les studios de design, d'animation et de retouche photo."
  }
 }

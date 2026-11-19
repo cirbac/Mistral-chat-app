@@ -7066,5 +7066,94 @@
   "autriche",
   "vienne",
   "1 euro"
+ ],
+ "informatique-et-telephonie-shift": [
+  "shift",
+  "shiftphone",
+  "smartphone modulaire",
+  "reparable",
+  "allemagne",
+  "ecologique",
+  "durable"
+ ],
+ "informatique-et-telephonie-murena": [
+  "murena",
+  "/e/os",
+  "eos",
+  "smartphone degooglise",
+  "android sans google",
+  "prive",
+  "france"
+ ],
+ "informatique-et-telephonie-volla": [
+  "volla",
+  "volla phone",
+  "volla os",
+  "smartphone open source",
+  "allemagne",
+  "simple"
+ ],
+ "informatique-et-telephonie-tuxedo": [
+  "tuxedo",
+  "pc portable",
+  "linux",
+  "ordinateur allemand",
+  "tuxedo os",
+  "assemble en allemagne"
+ ],
+ "informatique-et-telephonie-slimbook": [
+  "slimbook",
+  "ultrabook",
+  "pc portable",
+  "espagne",
+  "valencia? non",
+  "fabrique en espagne"
+ ],
+ "informatique-et-telephonie-star-labs": [
+  "star labs",
+  "starbook",
+  "portable open source",
+  "coreboot",
+  "royaume-uni",
+  "linux"
+ ],
+ "informatique-et-telephonie-system76": [
+  "system76",
+  "pop os",
+  "pc portable",
+  "linux",
+  "usa",
+  "denver"
+ ],
+ "informatique-et-telephonie-beyerdynamic": [
+  "beyerdynamic",
+  "casque",
+  "micro",
+  "dt 770",
+  "studio",
+  "hifi",
+  "allemagne",
+  "heilbronn"
+ ],
+ "informatique-et-telephonie-mikrotik": [
+  "mikrotik",
+  "routeur",
+  "routeurboard",
+  "routeros",
+  "switch",
+  "reseau",
+  "lettone",
+  "riga",
+  "wifi"
+ ],
+ "informatique-et-telephonie-wacom": [
+  "wacom",
+  "tablette graphique",
+  "stylet",
+  "cintiq",
+  "intuos",
+  "dessin numerique",
+  "japon",
+  "design"
  ]
 }
