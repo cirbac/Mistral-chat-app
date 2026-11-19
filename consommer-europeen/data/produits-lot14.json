@@ -1,0 +1,50 @@
+{
+ "motos-et-scooters-italjet": [
+  {"id": "motos-et-scooters-italjet-dragster-125", "nom": "Scooter Italjet Dragster 125", "assemblage": "Italie", "origine_pieces": "Italie", "certifications": [], "note": "Scooter au cadre ouvert emblématique, produit phare de la marque."}
+ ],
+ "motos-et-scooters-malaguti": [
+  {"id": "motos-et-scooters-malaguti-fifty-50", "nom": "Scooter Malaguti Fifty 50 cm3", "assemblage": "Italie", "origine_pieces": "Italie, Chine", "certifications": [], "note": "Cyclomoteur 50 cm3 historique de la marque."}
+ ],
+ "motos-et-scooters-fantic-motor": [
+  {"id": "motos-et-scooters-fantic-caballero-500", "nom": "Moto Fantic Caballero 500 (Flat Track)", "assemblage": "Italie", "origine_pieces": "Italie", "certifications": [], "note": "Moto rétro scrambler produite en Italie."}
+ ],
+ "motos-et-scooters-silence": [
+  {"id": "motos-et-scooters-silence-s04", "nom": "Scooter électrique Silence S04", "assemblage": "Espagne", "origine_pieces": "Espagne, Chine", "certifications": [], "note": "Scooter 100 % électrique avec batterie amovible, fabriqué à Barcelone."}
+ ],
+ "motos-et-scooters-askoll": [
+  {"id": "motos-et-scooters-askoll-eb5", "nom": "Scooter électrique Askoll eB5", "assemblage": "Italie", "origine_pieces": "Italie, Chine", "certifications": [], "note": "Scooter électrique urbain italien."}
+ ],
+ "motos-et-scooters-mash": [
+  {"id": "motos-et-scooters-mash-seventy-five-125", "nom": "Moto Mash 125 Seventy Five", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Moto 125 cm3 café racer de la marque française Mash (contrôle chinois)."}
+ ],
+ "motos-et-scooters-brixton": [
+  {"id": "motos-et-scooters-brixton-cromwell-125", "nom": "Moto Brixton Cromwell 125", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Moto rétro 125 de la marque autrichienne Brixton."}
+ ],
+ "telecoms-numerique-et-energie-vodafone": [
+  {"id": "telecoms-numerique-et-energie-vodafone-forfait", "nom": "Forfait mobile Vodafone 4G/5G", "assemblage": "Royaume-Uni (service)", "origine_pieces": "Royaume-Uni", "certifications": [], "note": "Forfait mobile européen avec roaming inclus."}
+ ],
+ "telecoms-numerique-et-energie-telefonica": [
+  {"id": "telecoms-numerique-et-energie-telefonica-forfait-movistar", "nom": "Forfait mobile Movistar / O2", "assemblage": "Espagne (service)", "origine_pieces": "Espagne", "certifications": [], "note": "Forfaits mobiles en Espagne (Movistar) et en Allemagne/UK (O2)."}
+ ],
+ "telecoms-numerique-et-energie-deutsche-telekom": [
+  {"id": "telecoms-numerique-et-energie-deutsche-telekom-forfait", "nom": "Forfait mobile Telekom / T-Mobile", "assemblage": "Allemagne (service)", "origine_pieces": "Allemagne", "certifications": [], "note": "Forfait 4G/5G de l'opérateur allemand, présent en Europe centrale."}
+ ],
+ "telecoms-numerique-et-energie-tim": [
+  {"id": "telecoms-numerique-et-energie-tim-forfait", "nom": "Forfait mobile TIM", "assemblage": "Italie (service)", "origine_pieces": "Italie", "certifications": [], "note": "Forfait mobile du principal opérateur italien."}
+ ],
+ "telecoms-numerique-et-energie-infomaniak": [
+  {"id": "telecoms-numerique-et-energie-infomaniak-hebergement", "nom": "Hébergement web + mail Infomaniak", "assemblage": "Suisse (service)", "origine_pieces": "Suisse", "certifications": ["100% renouvelable"], "note": "Hébergement suisse indépendant alimenté en énergie renouvelable."}
+ ],
+ "telecoms-numerique-et-energie-exoscale": [
+  {"id": "telecoms-numerique-et-energie-exoscale-vps", "nom": "Serveur cloud Exoscale (VPS)", "assemblage": "Suisse (service)", "origine_pieces": "Suisse", "certifications": [], "note": "Hébergement cloud public en Suisse, Allemagne et Autriche."}
+ ],
+ "telecoms-numerique-et-energie-netcup": [
+  {"id": "telecoms-numerique-et-energie-netcup-hebergement", "nom": "Hébergement web netcup", "assemblage": "Allemagne (service)", "origine_pieces": "Allemagne", "certifications": [], "note": "Hébergement et domaines à bas prix en Allemagne."}
+ ],
+ "telecoms-numerique-et-energie-ilek": [
+  {"id": "telecoms-numerique-et-energie-ilek-electricite", "nom": "Offre électricité 100% renouvelable Ilek", "assemblage": "France (service)", "origine_pieces": "France", "certifications": ["Énergie renouvelable"], "note": "Fournisseur français d'électricité éolienne/solaire + forfait mobile."}
+ ],
+ "telecoms-numerique-et-energie-plenitude-eni": [
+  {"id": "telecoms-numerique-et-energie-plenitude-eni-offre", "nom": "Offre électricité/gaz Plenitude (Eni)", "assemblage": "Italie (service)", "origine_pieces": "Italie", "certifications": [], "note": "Offres d'énergie du groupe italien Eni en Europe."}
+ ]
+}

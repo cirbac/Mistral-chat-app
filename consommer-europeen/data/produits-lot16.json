@@ -1,0 +1,50 @@
+{
+ "alimentation-et-boissons-giovanni-rana": [
+  {"id": "alimentation-et-boissons-giovanni-rana-ravioli", "nom": "Raviolis frais Giovanni Rana", "assemblage": "Italie / France", "origine_pieces": "Italie", "certifications": [], "note": "Pâtes fraîches farcies, produit phare du fabricant italien."}
+ ],
+ "alimentation-et-boissons-krombacher": [
+  {"id": "alimentation-et-boissons-krombacher-pils", "nom": "Bière Krombacher Pils", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Pils brassée dans la brasserie coopérative de Krombach."}
+ ],
+ "alimentation-et-boissons-emmi": [
+  {"id": "alimentation-et-boissons-emmi-emmental-aop", "nom": "Emmental AOP Emmi", "assemblage": "Suisse", "origine_pieces": "Suisse", "certifications": ["AOP"], "note": "Fromage suisse emblématique affiné en cave."}
+ ],
+ "alimentation-et-boissons-jacquet": [
+  {"id": "alimentation-et-boissons-jacquet-pain-de-mie", "nom": "Pain de mie Jacquet", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Pain de mie tranché produit dans les usines françaises du groupe."}
+ ],
+ "alimentation-et-boissons-mariage-freres": [
+  {"id": "alimentation-et-boissons-mariage-freres-marco-polo", "nom": "Thé Marco Polo (Mariage Frères)", "assemblage": "France", "origine_pieces": "Chine, France (parfumage)", "certifications": [], "note": "Thé noir parfumé iconique de la maison parisienne."}
+ ],
+ "alimentation-et-boissons-poulain-mondelez": [
+  {"id": "alimentation-et-boissons-poulain-tablette", "nom": "Tablette de chocolat au lait Poulain", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Chocolat au lait historique, produit en France (contrôle Mondelez/US)."}
+ ],
+ "alimentation-et-boissons-yeo-valley": [
+  {"id": "alimentation-et-boissons-yeo-valley-yaourt-bio", "nom": "Yaourt bio Yeo Valley", "assemblage": "Royaume-Uni", "origine_pieces": "Royaume-Uni", "certifications": ["Bio"], "note": "Yaourt bio de la ferme familiale britannique."}
+ ],
+ "alimentation-et-boissons-rians": [
+  {"id": "alimentation-et-boissons-rians-chevre-frais", "nom": "Fromage de chèvre frais Rians", "assemblage": "France (Charente-Maritime)", "origine_pieces": "France", "certifications": [], "note": "Chèvre frais et bûche de la fromagerie familiale."}
+ ],
+ "beaute-cosmetiques-naos-bioderma": [
+  {"id": "beaute-cosmetiques-naos-bioderma-sensibio", "nom": "Eau micellaire Bioderma Sensibio H2O", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Produit phare de Bioderma, créé en 1995 à Lyon."}
+ ],
+ "beaute-cosmetiques-nuxe": [
+  {"id": "beaute-cosmetiques-nuxe-huile-prodigieuse", "nom": "Huile Prodigieuse Nuxe", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Huile sèche multi-usages iconique de la marque parisienne."}
+ ],
+ "beaute-cosmetiques-caudalie": [
+  {"id": "beaute-cosmetiques-caudalie-vinoperfect", "nom": "Sérum Vinoperfect Caudalie", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Sérum éclat anti-taches à base de polyphénols de raisin."}
+ ],
+ "beaute-cosmetiques-svr": [
+  {"id": "beaute-cosmetiques-svr-sebionex", "nom": "Crème Sébionex SVR", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Soin dermo-cosmétique pour peaux sensibles et à imperfections."}
+ ],
+ "beaute-cosmetiques-typology": [
+  {"id": "beaute-cosmetiques-typology-serum", "nom": "Sérum Typology (formule courte)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Cosmétique clean à formule transparente, fabriqué en France."}
+ ],
+ "beaute-cosmetiques-topicrem-mayoly": [
+  {"id": "beaute-cosmetiques-topicrem-creme-atopique", "nom": "Crème hydratante Topicrem (peau atopique)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Soin émollient pour peaux sensibles et atopiques, des bébés aux adultes."}
+ ],
+ "beaute-cosmetiques-leonor-greyl": [
+  {"id": "beaute-cosmetiques-leonor-greyl-shampoing", "nom": "Shampoing aux huiles végétales Leonor Greyl", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Shampoing de luxe parisien, soin capillaire historique de la maison."}
+ ],
+ "beaute-cosmetiques-bourjois-chanel": [
+  {"id": "beaute-cosmetiques-bourjois-rouge-velvet", "nom": "Rouge à lèvres Rouge Velvet Bourjois", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Rouge à lèvres mat iconique de la marque parisienne (filiale de Chanel)."}
+ ]
+}

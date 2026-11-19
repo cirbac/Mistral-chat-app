@@ -1,0 +1,90 @@
+{
+ "15": {
+  "groupes": [
+   {
+    "id": "transport-et-mobilite-skyscanner",
+    "groupe": "Skyscanner",
+    "marques": ["Skyscanner"],
+    "siege": "Royaume-Uni (Édimbourg)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "",
+    "commentaire": "Comparateur de vols, hôtels et voitures fondé en 2003 à Édimbourg, présent dans 70+ pays. [477]",
+    "sources": [477],
+    "lieux_production": ["Royaume-Uni"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-kiwi-com",
+    "groupe": "Kiwi.com",
+    "marques": ["Kiwi.com"],
+    "siege": "République tchèque (Prague)",
+    "siege_pays": "CZ",
+    "statut": "rang1",
+    "sous_categorie": "",
+    "commentaire": "Comparateur de vols tchèque fondé en 2012 à Prague, spécialiste des billets low-cost combinés. UE. [478]",
+    "sources": [478],
+    "lieux_production": ["République tchèque"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-liligo",
+    "groupe": "Liligo",
+    "marques": ["Liligo"],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "",
+    "commentaire": "Comparateur de voyages français (vols, trains, hôtels, séjours) fondé en 2006. [479]",
+    "sources": [479],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-sncf-connect",
+    "groupe": "SNCF Connect",
+    "marques": ["SNCF Connect"],
+    "siege": "France (Saint-Denis)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Rail, autocar et location",
+    "commentaire": "Application officielle de la SNCF : billets TGV, TER, Ouigo, cars et covoiturage. [482]",
+    "sources": [482],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-kayak",
+    "groupe": "KAYAK (Booking Holdings)",
+    "marques": ["KAYAK"],
+    "siege": "États-Unis (Stamford, Connecticut)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Comparateur de voyages américain (vols, hôtels), filiale de Booking Holdings. Hors de vos zones. [480]",
+    "sources": [480],
+    "lieux_production": ["États-Unis"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "transport-et-mobilite-google-flights",
+    "groupe": "Google Flights",
+    "marques": ["Google Flights"],
+    "siege": "États-Unis (Mountain View)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "",
+    "commentaire": "Comparateur de vols de Google. Hors de vos zones. [481]",
+    "sources": [481],
+    "lieux_production": ["États-Unis"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}

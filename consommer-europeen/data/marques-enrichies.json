@@ -1052,5 +1052,29 @@
  "montres-bijoux-optique-et-objets-connectes-galaxy-watch": {
   "domaine": "samsung.com/galaxy-watch",
   "histoire": "Gamme de montres connectées de Samsung lancée en 2018, fonctionnant avec Samsung Pay, suivi sportif avancé et mesure de la composition corporelle."
+ },
+ "transport-et-mobilite-skyscanner": {
+  "domaine": "skyscanner.fr",
+  "histoire": "Comparateur de voyages fondé en 2003 à Édimbourg par trois amis lassés de chercher leurs vols, racheté en 2016 par le chinois Ctrip ; moteur de recherche de vols, hôtels et voitures dans plus de 70 pays."
+ },
+ "transport-et-mobilite-kiwi-com": {
+  "domaine": "kiwi.com",
+  "histoire": "Comparateur tchèque fondé en 2012 à Prague par Oliver Dlouhý, spécialiste des « self-transfers » (itinéraires combinés multi-compagnies low-cost) avec garantie de voyage."
+ },
+ "transport-et-mobilite-liligo": {
+  "domaine": "liligo.fr",
+  "histoire": "Comparateur de voyages français fondé en 2006 à Paris, agrégeant vols, trains, hôtels, locations de voitures et séjours, avec un service client basé en France."
+ },
+ "transport-et-mobilite-sncf-connect": {
+  "domaine": "sncf-connect.com",
+  "histoire": "Application officielle de la SNCF lancée en 2021 (ex-OUI.sncf), regroupant billets TGV/TER/Ouigo, cars, covoiturage et informations trafic en temps réel, éditée à Saint-Denis."
+ },
+ "transport-et-mobilite-kayak": {
+  "domaine": "kayak.com",
+  "histoire": "Moteur de recherche de voyages américain fondé en 2004 (Connecticut), racheté par Booking Holdings en 2013, couvrant vols, hôtels, voitures et forfaits."
+ },
+ "transport-et-mobilite-google-flights": {
+  "domaine": "google.com/travel/flights",
+  "histoire": "Service de recherche de vols lancé par Google en 2011, avec suivi de prix, graphe d'exploration des destinations et alertes de baisse."
  }
 }
