@@ -6955,5 +6955,116 @@
   "alerte prix",
   "usa",
   "google"
+ ],
+ "banque-assurance-et-epargne-wise": [
+  "wise",
+  "transferwise",
+  "compte multi devises",
+  "virement international",
+  "carte",
+  "taux reel",
+  "banque en ligne",
+  "royaume-uni"
+ ],
+ "banque-assurance-et-epargne-bunq": [
+  "bunq",
+  "neobanque",
+  "compte bancaire",
+  "app mobile",
+  "sous comptes",
+  "epargne auto",
+  "pays-bas",
+  "amsterdam"
+ ],
+ "banque-assurance-et-epargne-tomorrow": [
+  "tomorrow",
+  "banque durable",
+  "ecologie",
+  "b corp",
+  "compte courant",
+  "carte bois",
+  "allemagne",
+  "francfort"
+ ],
+ "banque-assurance-et-epargne-ma-french-bank": [
+  "ma french bank",
+  "banque postale",
+  "neobanque",
+  "compte gratuit",
+  "carte visa",
+  "app",
+  "france",
+  "jeune"
+ ],
+ "banque-assurance-et-epargne-assurancevie-com": [
+  "assurancevie.com",
+  "courtier",
+  "assurance vie",
+  "epargne retraite",
+  "placement",
+  "en ligne",
+  "france",
+  "frais reduits"
+ ],
+ "banque-assurance-et-epargne-april": [
+  "april",
+  "assurance voyage",
+  "assurance sante",
+  "dommages",
+  "lyon",
+  "france",
+  "devis"
+ ],
+ "banque-assurance-et-epargne-lolivier": [
+  "l'olivier assurance",
+  "assurance auto",
+  "devis en ligne",
+  "pas cher",
+  "voiture",
+  "france",
+  "paris"
+ ],
+ "banque-assurance-et-epargne-ishares-blackrock": [
+  "ishares",
+  "blackrock",
+  "etf",
+  "msci world",
+  "cw8",
+  "fonds indiciel",
+  "bourse",
+  "usa",
+  "pea"
+ ],
+ "banque-assurance-et-epargne-vanguard": [
+  "vanguard",
+  "etf",
+  "vwce",
+  "ftse all world",
+  "fonds indiciel",
+  "bas frais",
+  "usa",
+  "retraite"
+ ],
+ "banque-assurance-et-epargne-coinhouse": [
+  "coinhouse",
+  "crypto",
+  "bitcoin",
+  "ethereum",
+  "achat crypto",
+  "psan",
+  "amf",
+  "france",
+  "euros"
+ ],
+ "banque-assurance-et-epargne-bitpanda": [
+  "bitpanda",
+  "crypto",
+  "actions fractionnaires",
+  "etf",
+  "metaux",
+  "investissement",
+  "autriche",
+  "vienne",
+  "1 euro"
  ]
 }
