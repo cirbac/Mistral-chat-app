@@ -6891,5 +6891,69 @@
   "coree du sud",
   "sante",
   "ecg"
+ ],
+ "transport-et-mobilite-skyscanner": [
+  "skyscanner",
+  "comparateur",
+  "vol",
+  "avion",
+  "billet avion",
+  "pas cher",
+  "hotel",
+  "voiture",
+  "royaume-uni"
+ ],
+ "transport-et-mobilite-kiwi-com": [
+  "kiwi.com",
+  "kiwi",
+  "comparateur",
+  "vol low cost",
+  "billet avion",
+  "itineraire combine",
+  "tchequie",
+  "prague"
+ ],
+ "transport-et-mobilite-liligo": [
+  "liligo",
+  "comparateur",
+  "voyage",
+  "vol",
+  "train",
+  "hotel",
+  "sejour",
+  "france",
+  "pas cher"
+ ],
+ "transport-et-mobilite-sncf-connect": [
+  "sncf connect",
+  "sncf",
+  "tgv",
+  "train",
+  "billet",
+  "ter",
+  "ouigo",
+  "reservation",
+  "app",
+  "covoiturage",
+  "france"
+ ],
+ "transport-et-mobilite-kayak": [
+  "kayak",
+  "comparateur",
+  "vol",
+  "hotel",
+  "voyage",
+  "usa",
+  "booking"
+ ],
+ "transport-et-mobilite-google-flights": [
+  "google flights",
+  "vol",
+  "billet avion",
+  "comparateur",
+  "prix",
+  "alerte prix",
+  "usa",
+  "google"
  ]
 }

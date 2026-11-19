@@ -1,0 +1,52 @@
+{
+ "voyage-et-plein-air-hartmann": [
+  {"id": "voyage-et-plein-air-hartmann-valise-radius", "nom": "Valise cabine polycarbonate Hartmann Radius", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Chine", "certifications": [], "note": "Valise rigide en polycarbonate, gamme phare de la maroquinerie allemande."}
+ ],
+ "voyage-et-plein-air-klattermusen": [
+  {"id": "voyage-et-plein-air-klattermusen-sac-raidy", "nom": "Sac à dos Klättermusen Skalman", "assemblage": "Suède", "origine_pieces": "Suède, Asie", "certifications": [], "note": "Sac à dos technique en tissu recyclé, fabriqué en Suède."}
+ ],
+ "voyage-et-plein-air-bergans": [
+  {"id": "voyage-et-plein-air-bergans-sac-expedition", "nom": "Sac à dos d'expédition Bergans", "assemblage": "Norvège", "origine_pieces": "Norvège, Asie", "certifications": [], "note": "Sac à dos technique norvégien pour la randonnée longue distance."}
+ ],
+ "voyage-et-plein-air-lowa": [
+  {"id": "voyage-et-plein-air-lowa-renegade-gtx", "nom": "Chaussures de randonnée Lowa Renegade GTX", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Slovaquie", "certifications": [], "note": "Chaussure de randonnée culte de la marque allemande, produite en Europe."}
+ ],
+ "voyage-et-plein-air-robens": [
+  {"id": "voyage-et-plein-air-robens-tente", "nom": "Tente de camping Robens", "assemblage": "Royaume-Uni", "origine_pieces": "Chine", "certifications": [], "note": "Tente 2-4 places du fabricant britannique, très répandue en Europe."}
+ ],
+ "voyage-et-plein-air-polar": [
+  {"id": "voyage-et-plein-air-polar-vantage-v3", "nom": "Montre GPS multisport Polar Vantage V3", "assemblage": "Finlande", "origine_pieces": "Finlande, Asie", "certifications": [], "note": "Montre GPS avec capteur cardiaque optique, fabriquée par le Finlandais Polar."}
+ ],
+ "voyage-et-plein-air-sea-to-summit": [
+  {"id": "voyage-et-plein-air-sea-to-summit-tente-ulteralegere", "nom": "Tente ultra-légère Sea to Summit", "assemblage": "Australie", "origine_pieces": "Chine, Vietnam", "certifications": [], "note": "Tente de trekking ultra-légère du fabricant australien."}
+ ],
+ "jouets-et-jeux-video-nacon": [
+  {"id": "jouets-et-jeux-video-nacon-manette-revolution", "nom": "Manette gaming Nacon Revolution", "assemblage": "France (conception)", "origine_pieces": "Chine", "certifications": [], "note": "Manette pro pour PC/PS5 de l'éditeur français Nacon."}
+ ],
+ "jouets-et-jeux-video-microids": [
+  {"id": "jouets-et-jeux-video-microids-syberia", "nom": "Jeu Syberia (Microids)", "assemblage": "France (service numérique)", "origine_pieces": "France", "certifications": [], "note": "Jeu d'aventure français édité par Microids (filiale de Nacon)."}
+ ],
+ "jouets-et-jeux-video-kylotonn": [
+  {"id": "jouets-et-jeux-video-kylotonn-kt-racing", "nom": "Jeu de course KT Racing", "assemblage": "France (service numérique)", "origine_pieces": "France", "certifications": [], "note": "Jeu de course arcade développé par le studio français Kylotonn."}
+ ],
+ "jouets-et-jeux-video-cd-projekt": [
+  {"id": "jouets-et-jeux-video-cd-projekt-cyberpunk-2077", "nom": "Cyberpunk 2077", "assemblage": "Pologne (service numérique)", "origine_pieces": "Pologne", "certifications": [], "note": "RPG phare de CD Projekt Red, développé à Varsovie."},
+  {"id": "jouets-et-jeux-video-cd-projekt-witcher-3", "nom": "The Witcher 3: Wild Hunt", "assemblage": "Pologne (service numérique)", "origine_pieces": "Pologne", "certifications": [], "note": "RPG culte de CD Projekt Red, élu jeu de la décennie."}
+ ],
+ "jouets-et-jeux-video-11bit-studios": [
+  {"id": "jouets-et-jeux-video-11bit-frostpunk", "nom": "Frostpunk", "assemblage": "Pologne (service numérique)", "origine_pieces": "Pologne", "certifications": [], "note": "Jeu de gestion/survie créé par le studio polonais 11 bit studios."}
+ ],
+ "jouets-et-jeux-video-team17": [
+  {"id": "jouets-et-jeux-video-team17-overcooked", "nom": "Overcooked! (Team17)", "assemblage": "Royaume-Uni (service numérique)", "origine_pieces": "Royaume-Uni", "certifications": [], "note": "Jeu de cuisine coopératif édité par le britannique Team17."}
+ ],
+ "jouets-et-jeux-video-raw-fury": [
+  {"id": "jouets-et-jeux-video-raw-fury-kingdom", "nom": "Kingdom (Raw Fury)", "assemblage": "Suède (service numérique)", "origine_pieces": "Suède", "certifications": [], "note": "Jeu indépendant édité par l'éditeur suédois Raw Fury."}
+ ],
+ "jouets-et-jeux-video-valve-steam": [
+  {"id": "jouets-et-jeux-video-valve-steam-compte", "nom": "Compte + achat de jeux sur Steam", "assemblage": "États-Unis (service numérique)", "origine_pieces": "États-Unis", "certifications": [], "note": "Plateforme de distribution de jeux PC de Valve (États-Unis)."},
+  {"id": "jouets-et-jeux-video-valve-steam-deck", "nom": "Console portable Steam Deck", "assemblage": "États-Unis", "origine_pieces": "Chine", "certifications": [], "note": "Console portable PC de Valve."}
+ ],
+ "jouets-et-jeux-video-grimms": [
+  {"id": "jouets-et-jeux-video-grimms-arc-en-ciel", "nom": "Arc-en-ciel en bois Grimm's", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": ["Bois certifié"], "note": "Jouet iconique en bois peint à la main, fabriqué en Allemagne."}
+ ]
+}

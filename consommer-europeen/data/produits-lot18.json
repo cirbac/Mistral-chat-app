@@ -1,0 +1,20 @@
+{
+ "transport-et-mobilite-skyscanner": [
+  {"id": "transport-et-mobilite-skyscanner-comparaison-vols", "nom": "Comparaison et réservation de vols Skyscanner", "assemblage": "Royaume-Uni (service numérique)", "origine_pieces": "Royaume-Uni", "certifications": [], "note": "Moteur de recherche de billets d'avion, hôtels et voitures dans 70+ pays."}
+ ],
+ "transport-et-mobilite-kiwi-com": [
+  {"id": "transport-et-mobilite-kiwi-com-vols-combines", "nom": "Recherche de vols combinés Kiwi.com", "assemblage": "République tchèque (service numérique)", "origine_pieces": "République tchèque", "certifications": [], "note": "Comparateur tchèque spécialisé dans les itinéraires multi-compagnies low-cost."}
+ ],
+ "transport-et-mobilite-liligo": [
+  {"id": "transport-et-mobilite-liligo-comparaison", "nom": "Comparaison vols/trains/hôtels Liligo", "assemblage": "France (service numérique)", "origine_pieces": "France", "certifications": [], "note": "Comparateur de voyages français : vols, trains, hôtels, séjours."}
+ ],
+ "transport-et-mobilite-sncf-connect": [
+  {"id": "transport-et-mobilite-sncf-connect-billet-tgv", "nom": "Billet TGV/TER via SNCF Connect", "assemblage": "France (service numérique)", "origine_pieces": "France", "certifications": [], "note": "Application officielle SNCF : réservation de trains, cars et covoiturage."}
+ ],
+ "transport-et-mobilite-kayak": [
+  {"id": "transport-et-mobilite-kayak-comparaison", "nom": "Comparaison de voyages KAYAK", "assemblage": "États-Unis (service numérique)", "origine_pieces": "États-Unis", "certifications": [], "note": "Moteur de recherche de voyages américain (filiale Booking Holdings)."}
+ ],
+ "transport-et-mobilite-google-flights": [
+  {"id": "transport-et-mobilite-google-flights-recherche", "nom": "Recherche de vols Google Flights", "assemblage": "États-Unis (service numérique)", "origine_pieces": "États-Unis", "certifications": [], "note": "Outil de recherche et suivi de prix de billets d'avion de Google."}
+ ]
+}

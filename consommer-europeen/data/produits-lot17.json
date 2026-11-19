@@ -1,0 +1,53 @@
+{
+ "maison-bricolage-et-jardin-metabo": [
+  {"id": "maison-bricolage-et-jardin-metabo-sb-18", "nom": "Perceuse-visseuse Metabo SB 18", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Chine", "certifications": [], "note": "Perceuse-visseuse sans fil professionnelle de la marque allemande."}
+ ],
+ "maison-bricolage-et-jardin-mafell": [
+  {"id": "maison-bricolage-et-jardin-mafell-ehl", "nom": "Scie plongeante Mafell EHL 65", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Scie plongeante de précision pour menuiserie, fabriquée en Allemagne."}
+ ],
+ "maison-bricolage-et-jardin-hikoki": [
+  {"id": "maison-bricolage-et-jardin-hikoki-dv36da", "nom": "Perceuse-visseuse HiKOKI DV36DA (MultiVolt)", "assemblage": "Japon", "origine_pieces": "Japon, Chine", "certifications": [], "note": "Outillage sans fil japonais à batteries MultiVolt 36V."}
+ ],
+ "maison-bricolage-et-jardin-parkside": [
+  {"id": "maison-bricolage-et-jardin-parkside-perceuse", "nom": "Perceuse-visseuse Parkside (Lidl)", "assemblage": "Chine", "origine_pieces": "Chine", "certifications": [], "note": "Outillage d'entrée de gamme vendu chez Lidl, garantie 3 ans."}
+ ],
+ "maison-bricolage-et-jardin-stiga": [
+  {"id": "maison-bricolage-et-jardin-stiga-robot-tondeuse", "nom": "Robot tondeuse Stiga", "assemblage": "Suède", "origine_pieces": "Suède, Chine", "certifications": [], "note": "Robot tondeuse sans câble périphérique du fabricant suédois."}
+ ],
+ "maison-bricolage-et-jardin-al-ko": [
+  {"id": "maison-bricolage-et-jardin-al-ko-tondeuse", "nom": "Tondeuse autoportée AL-KO", "assemblage": "Allemagne", "origine_pieces": "Allemagne, Chine", "certifications": [], "note": "Tondeuse et matériel de jardin de la marque bavaroise."}
+ ],
+ "maison-bricolage-et-jardin-camif": [
+  {"id": "maison-bricolage-et-jardin-camif-matelas", "nom": "Matelas Camif (fabrication française)", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Literie de la coopérative française Camif, fabrication privilégiée en France."}
+ ],
+ "maison-bricolage-et-jardin-degrenne": [
+  {"id": "maison-bricolage-et-jardin-degrenne-couverts", "nom": "Set de couverts inox Degrenne", "assemblage": "France", "origine_pieces": "France, Chine", "certifications": [], "note": "Couverts et arts de la table en inox de la maison normande."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-oris": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-oris-aquis", "nom": "Montre Oris Aquis (plongée)", "assemblage": "Suisse", "origine_pieces": "Suisse", "certifications": [], "note": "Montre de plongée suisse étanche à 300 m, fabriquée en Suisse."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-junghans": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-junghans-maxbill", "nom": "Montre Junghans Max Bill Chronoscope", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Chronographe au design Bauhaus conçu par Max Bill en 1961."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-orient": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-orient-bambino", "nom": "Montre automatique Orient Bambino", "assemblage": "Japon", "origine_pieces": "Japon, Chine", "certifications": [], "note": "Montre automatique japonaise abordable, best-seller de la marque."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-baume-mercier": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-baume-mercier-hampton", "nom": "Montre Baume & Mercier Hampton", "assemblage": "Suisse", "origine_pieces": "Suisse", "certifications": [], "note": "Montre rectangulaire suisse du groupe Richemont."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-pandora": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-pandora-moments", "nom": "Bracelet à breloques Pandora Moments", "assemblage": "Thaïlande", "origine_pieces": "Thaïlande", "certifications": ["Argent recyclé"], "note": "Bracelet modulable en argent recyclé, produit phare du joaillier danois."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-jimmy-fairly": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-jimmy-fairly-lunettes", "nom": "Lunettes de vue/solaires Jimmy Fairly (verres inclus)", "assemblage": "France", "origine_pieces": "France, Italie", "certifications": [], "note": "Lunettes à prix fixe avec verres inclus, de l'opticien parisien en ligne."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-withings": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-withings-scanwatch", "nom": "Montre hybride Withings ScanWatch", "assemblage": "France", "origine_pieces": "France, Chine", "certifications": [], "note": "Montre hybride avec ECG et SpO2, fabriquée par le Français Withings."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-apple-watch": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-apple-watch-series", "nom": "Apple Watch (Series 10)", "assemblage": "États-Unis", "origine_pieces": "Vietnam, Inde, Chine", "certifications": [], "note": "Montre connectée d'Apple avec ECG et détection de chute (États-Unis)."}
+ ],
+ "montres-bijoux-optique-et-objets-connectes-galaxy-watch": [
+  {"id": "montres-bijoux-optique-et-objets-connectes-galaxy-watch-7", "nom": "Samsung Galaxy Watch 7", "assemblage": "Corée du Sud", "origine_pieces": "Corée du Sud, Vietnam", "certifications": [], "note": "Montre connectée Samsung avec mesure de la composition corporelle."}
+ ]
+}

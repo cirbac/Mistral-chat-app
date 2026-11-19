@@ -1,0 +1,62 @@
+{
+ "hotellerie-et-hebergement-motel-one": [
+  {"id": "hotellerie-et-hebergement-motel-one-chambre-design", "nom": "Chambre Motel One (design)", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Nuitée en hôtel design au cœur des grandes villes européennes."}
+ ],
+ "hotellerie-et-hebergement-25hours-accor": [
+  {"id": "hotellerie-et-hebergement-25hours-chambre-hambourg", "nom": "Chambre 25hours Hotel (Hambourg)", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Nuitée en boutique-hôtel 25hours, détenu par Accor."}
+ ],
+ "hotellerie-et-hebergement-ao-hostels": [
+  {"id": "hotellerie-et-hebergement-ao-hostels-nuit-berlin", "nom": "Nuit en auberge a&o (Berlin)", "assemblage": "Allemagne", "origine_pieces": "Allemagne", "certifications": [], "note": "Dortoir ou chambre privée à prix budget dans les capitales européennes."}
+ ],
+ "hotellerie-et-hebergement-falkensteiner": [
+  {"id": "hotellerie-et-hebergement-falkensteiner-sejour-alpes", "nom": "Séjour hôtel 4* Falkensteiner (Alpes)", "assemblage": "Autriche", "origine_pieces": "Autriche", "certifications": [], "note": "Nuitée en hôtel familial autrichien avec spa."}
+ ],
+ "hotellerie-et-hebergement-nh-hotel-group": [
+  {"id": "hotellerie-et-hebergement-nh-hotel-group-nuit-centre", "nom": "Nuit NH Hotels (centre-ville)", "assemblage": "Espagne", "origine_pieces": "Espagne", "certifications": [], "note": "Nuitée en hôtel urbain NH Hotels (groupe Minor Hotels)."}
+ ],
+ "hotellerie-et-hebergement-gites-de-france": [
+  {"id": "hotellerie-et-hebergement-gites-de-france-gite-epis", "nom": "Gîte labellisé Gîtes de France (épis)", "assemblage": "France", "origine_pieces": "France", "certifications": ["Gîtes de France"], "note": "Location de gîte rural ou chambre d'hôte labellisé en France."}
+ ],
+ "hotellerie-et-hebergement-belvilla": [
+  {"id": "hotellerie-et-hebergement-belvilla-chalet", "nom": "Location de chalet/villa Belvilla", "assemblage": "Pays-Bas (service)", "origine_pieces": "Pays-Bas", "certifications": [], "note": "Réservation de location de vacances en Europe (500 000+ hébergements)."}
+ ],
+ "distribution-paiement-colruyt": [
+  {"id": "distribution-paiement-colruyt-courses", "nom": "Courses en magasin Colruyt", "assemblage": "Belgique", "origine_pieces": "Belgique", "certifications": [], "note": "Courses alimentaires en hard discount belge (Bio-Planet pour le bio)."}
+ ],
+ "distribution-paiement-ahold-delhaize": [
+  {"id": "distribution-paiement-ahold-delhaize-courses", "nom": "Courses Albert Heijn / Delhaize", "assemblage": "Pays-Bas / Belgique", "origine_pieces": "Pays-Bas", "certifications": [], "note": "Courses alimentaires aux Pays-Bas (Albert Heijn) et en Belgique (Delhaize)."}
+ ],
+ "distribution-paiement-kingfisher": [
+  {"id": "distribution-paiement-kingfisher-perceuse-castorama", "nom": "Outillage en magasin Castorama / Brico Dépôt", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Achat de bricolage, matériaux et aménagement en grande surface française."}
+ ],
+ "distribution-paiement-asos": [
+  {"id": "distribution-paiement-asos-commande-mode", "nom": "Commande de vêtements ASOS en ligne", "assemblage": "Royaume-Uni (service)", "origine_pieces": "Royaume-Uni", "certifications": [], "note": "Achat de mode en ligne avec livraison en Europe."}
+ ],
+ "distribution-paiement-boozt": [
+  {"id": "distribution-paiement-boozt-commande-mode", "nom": "Commande de mode Boozt", "assemblage": "Suède (service)", "origine_pieces": "Suède", "certifications": [], "note": "E-commerce de mode suédois, livraison en Europe du Nord et centrale."}
+ ],
+ "distribution-paiement-aliexpress": [
+  {"id": "distribution-paiement-aliexpress-achat", "nom": "Achat sur marketplace AliExpress", "assemblage": "Chine (service)", "origine_pieces": "Chine", "certifications": [], "note": "Marketplace chinoise, livraison depuis la Chine."}
+ ],
+ "distribution-paiement-payplug": [
+  {"id": "distribution-paiement-payplug-paiement", "nom": "Paiement en ligne PayPlug (lien de paiement)", "assemblage": "France (service)", "origine_pieces": "France", "certifications": [], "note": "Solution de paiement CB pour TPE/PME françaises (groupe BPCE)."}
+ ],
+ "distribution-paiement-worldline": [
+  {"id": "distribution-paiement-worldline-terminal", "nom": "Terminal de paiement Worldline", "assemblage": "France", "origine_pieces": "France", "certifications": [], "note": "Terminal de paiement électronique pour commerçants."}
+ ],
+ "distribution-paiement-qonto": [
+  {"id": "distribution-paiement-qonto-compte-pro", "nom": "Compte pro + carte bancaire Qonto", "assemblage": "France (service)", "origine_pieces": "France", "certifications": [], "note": "Compte bancaire professionnel pour indépendants et PME."}
+ ],
+ "distribution-paiement-adyen": [
+  {"id": "distribution-paiement-adyen-paiement", "nom": "Paiement en ligne Adyen", "assemblage": "Pays-Bas (service)", "origine_pieces": "Pays-Bas", "certifications": [], "note": "Plateforme de paiement pour grandes entreprises européennes."}
+ ],
+ "distribution-paiement-mollie": [
+  {"id": "distribution-paiement-mollie-paiement", "nom": "Paiement en ligne Mollie (iDEAL, CB)", "assemblage": "Pays-Bas (service)", "origine_pieces": "Pays-Bas", "certifications": [], "note": "Paiements en ligne pour PME européennes."}
+ ],
+ "distribution-paiement-stripe": [
+  {"id": "distribution-paiement-stripe-paiement", "nom": "Paiement en ligne Stripe", "assemblage": "États-Unis (service)", "origine_pieces": "États-Unis", "certifications": [], "note": "Plateforme de paiement américaine pour e-commerce et abonnements."}
+ ],
+ "distribution-paiement-samsung-pay": [
+  {"id": "distribution-paiement-samsung-pay-paiement", "nom": "Paiement mobile sans contact Samsung Pay", "assemblage": "Corée du Sud (service)", "origine_pieces": "Corée du Sud", "certifications": [], "note": "Paiement NFC depuis un smartphone Samsung Galaxy."}
+ ]
+}
