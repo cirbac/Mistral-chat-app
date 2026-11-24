@@ -1,0 +1,90 @@
+{
+ "10": {
+  "groupes": [
+   {
+    "id": "vetements-chaussures-et-sport-maison-cleo",
+    "groupe": "Maison Cléo",
+    "marques": ["Maison Cléo"],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Accessoires et bijoux fantaisie",
+    "commentaire": "Barrettes, peignes et bijoux de cheveux haut de gamme fabriqués à Paris depuis 2017. [507]",
+    "sources": [507],
+    "lieux_production": ["France"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-atelier-paulin",
+    "groupe": "Atelier Paulin",
+    "marques": ["Atelier Paulin"],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Accessoires et bijoux fantaisie",
+    "commentaire": "Bandeaux, chouchous et foulards en soie imprimés et fabriqués en France depuis 2013. [508]",
+    "sources": [508],
+    "lieux_production": ["France", "Italie"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-bijou-brigitte",
+    "groupe": "Bijou Brigitte",
+    "marques": ["Bijou Brigitte"],
+    "siege": "Allemagne (Hambourg)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Accessoires et bijoux fantaisie",
+    "commentaire": "Grande chaîne allemande (900+ magasins en Europe) d'accessoires fantaisie : barrettes, chouchous, élastiques, bijoux. UE. [509]",
+    "sources": [509],
+    "lieux_production": ["Allemagne"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-parfois",
+    "groupe": "Parfois",
+    "marques": ["Parfois"],
+    "siege": "Portugal (Porto)",
+    "siege_pays": "PT",
+    "statut": "rang1",
+    "sous_categorie": "Accessoires et bijoux fantaisie",
+    "commentaire": "Marque portugaise d'accessoires mode et bijoux (barrettes, boucles d'oreilles, sacs) fondée en 1977. UE. [510]",
+    "sources": [510],
+    "lieux_production": ["Portugal"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-accessorize",
+    "groupe": "Accessorize",
+    "marques": ["Accessorize"],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Accessoires et bijoux fantaisie",
+    "commentaire": "Enseigne britannique leader des accessoires dont bijoux de cheveux (serre-têtes, pinces, bandeaux), présente dans 70+ pays. [511]",
+    "sources": [511],
+    "lieux_production": ["Royaume-Uni"],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "vetements-chaussures-et-sport-claires",
+    "groupe": "Claire's",
+    "marques": ["Claire's"],
+    "siege": "États-Unis (Pembroke Pines, Floride)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Accessoires et bijoux fantaisie",
+    "commentaire": "Enseigne américaine spécialisée dans les bijoux de cheveux et accessoires pas chers pour jeunes. Hors de vos zones. [512]",
+    "sources": [512],
+    "lieux_production": ["États-Unis", "Chine"],
+    "certifications": [],
+    "produits": []
+   }
+  ]
+ }
+}
