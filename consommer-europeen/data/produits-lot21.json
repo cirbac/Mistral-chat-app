@@ -1,0 +1,21 @@
+{
+ "vetements-chaussures-et-sport-maison-cleo": [
+  {"id": "vetements-chaussures-et-sport-maison-cleo-barrette-resine", "nom": "Barrette en résine acétate (Maison Cléo)", "assemblage": "France (Paris)", "origine_pieces": "France, Italie", "certifications": [], "note": "Barrette cheveux artisanale en acétate italien, fabriquée à Paris."}
+ ],
+ "vetements-chaussures-et-sport-atelier-paulin": [
+  {"id": "vetements-chaussures-et-sport-atelier-paulin-chouchou-soie", "nom": "Chouchou en soie (Atelier Paulin)", "assemblage": "France", "origine_pieces": "France, Italie", "certifications": [], "note": "Chouchou / scrunchie en twill de soie imprimé, cousu en France."},
+  {"id": "vetements-chaussures-et-sport-atelier-paulin-bandeau", "nom": "Bandeau noué en soie (Atelier Paulin)", "assemblage": "France", "origine_pieces": "France, Italie", "certifications": [], "note": "Bandeau / serre-tête en soie, noué à la main."}
+ ],
+ "vetements-chaussures-et-sport-bijou-brigitte": [
+  {"id": "vetements-chaussures-et-sport-bijou-brigitte-barrette", "nom": "Barrette ou pince à cheveux (Bijou Brigitte)", "assemblage": "Allemagne", "origine_pieces": "Chine", "certifications": [], "note": "Accessoire cheveux fantaisie pas cher de la chaîne allemande (900+ magasins)."}
+ ],
+ "vetements-chaussures-et-sport-parfois": [
+  {"id": "vetements-chaussures-et-sport-parfois-barrette", "nom": "Barrette ou serre-tête (Parfois)", "assemblage": "Portugal", "origine_pieces": "Portugal, Chine", "certifications": [], "note": "Accessoire cheveux de la marque portugaise Parfois."}
+ ],
+ "vetements-chaussures-et-sport-accessorize": [
+  {"id": "vetements-chaussures-et-sport-accessorize-bandeau", "nom": "Bandeau / serre-tête (Accessorize)", "assemblage": "Royaume-Uni", "origine_pieces": "Chine", "certifications": [], "note": "Bijou de cheveux de l'enseigne britannique Accessorize."}
+ ],
+ "vetements-chaussures-et-sport-claires": [
+  {"id": "vetements-chaussures-et-sport-claires-chouchou", "nom": "Chouchou / barrette fantaisie (Claire's)", "assemblage": "États-Unis", "origine_pieces": "Chine", "certifications": [], "note": "Accessoire cheveux pas cher de l'enseigne américaine Claire's. Hors zones."}
+ ]
+}
