@@ -90,7 +90,120 @@ async function load(meta) {
   }
 }
 
+function initForm(meta) {
+  const f = {
+    secteur: document.getElementById('f-secteur'),
+    statut: document.getElementById('f-statut'),
+    souscat: document.getElementById('f-souscategorie'),
+    nom: document.getElementById('f-nom'),
+    marques: document.getElementById('f-marques'),
+    siege: document.getElementById('f-siege'),
+    pays: document.getElementById('f-pays'),
+    commentaire: document.getElementById('f-commentaire'),
+    source: document.getElementById('f-source'),
+    motscles: document.getElementById('f-motscles'),
+    produits: document.getElementById('f-produits'),
+    msg: document.getElementById('form-msg'),
+    form: document.getElementById('form-groupe'),
+    import: document.getElementById('f-import'),
+    btnImport: document.getElementById('btn-import'),
+    importMsg: document.getElementById('import-msg'),
+  };
+  for (const s of meta.secteurs) {
+    const o = document.createElement('option');
+    o.value = s.num;
+    o.textContent = `${s.num} — ${s.nom}`;
+    f.secteur.appendChild(o);
+  }
+  for (const st of meta.statuts) {
+    const o = document.createElement('option');
+    o.value = st.id;
+    o.textContent = st.label;
+    f.statut.appendChild(o);
+  }
+  const fillSousCats = () => {
+    f.souscat.textContent = '';
+    const s = meta.secteurs.find((x) => x.num === f.secteur.value);
+    const vide = document.createElement('option');
+    vide.value = '';
+    vide.textContent = '(sans sous-cat)';
+    f.souscat.appendChild(vide);
+    for (const sc of s?.sous_categories ?? []) {
+      const o = document.createElement('option');
+      o.value = sc;
+      o.textContent = sc;
+      f.souscat.appendChild(o);
+    }
+  };
+  f.secteur.addEventListener('change', fillSousCats);
+  fillSousCats();
+
+  f.form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    f.msg.textContent = '';
+    const produits = f.produits.value
+      .split('\n')
+      .map((l) => l.trim())
+      .filter(Boolean)
+      .map((l) => {
+        const [nom, assemblage, origine] = l.split('|').map((x) => (x || '').trim());
+        return { nom, assemblage, origine_pieces: origine };
+      });
+    const payload = {
+      num: f.secteur.value,
+      groupe: {
+        groupe: f.nom.value.trim(),
+        marques: f.marques.value.split(',').map((x) => x.trim()).filter(Boolean),
+        siege: f.siege.value.trim(),
+        siege_pays: f.pays.value.trim().toUpperCase(),
+        statut: f.statut.value,
+        sous_categorie: f.souscat.value,
+        commentaire: f.commentaire.value.trim(),
+      },
+      produits,
+      motsCles: f.motscles.value.split(',').map((x) => x.trim()).filter(Boolean),
+      sourceTexte: f.source.value.trim(),
+    };
+    try {
+      const r = await api('/api/admin/groupe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      f.msg.textContent = `✓ ${r.groupe.groupe} ajouté (id ${r.groupe.id}${r.sourceId ? `, source #${r.sourceId}` : ''}). Rafraîchis la page d'accueil pour le voir.`;
+      f.form.reset();
+      fillSousCats();
+      load(meta);
+    } catch (err) {
+      f.msg.textContent = `✗ ${err.message}`;
+    }
+  });
+
+  f.btnImport.addEventListener('click', async () => {
+    f.importMsg.textContent = '';
+    let items;
+    try {
+      items = JSON.parse(f.import.value);
+    } catch {
+      f.importMsg.textContent = '✗ JSON invalide.';
+      return;
+    }
+    try {
+      const r = await api('/api/admin/import', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(items),
+      });
+      f.importMsg.textContent = `✓ ${r.ajoutes} marque(s) ajoutée(s)` + (r.erreurs.length ? ` — ${r.erreurs.length} erreur(s) : ${r.erreurs.join(' ; ')}` : '');
+      load(meta);
+    } catch (err) {
+      f.importMsg.textContent = `✗ ${err.message}`;
+    }
+  });
+}
+
 (async () => {
   const meta = await api('/api/meta');
+  initForm(meta);
   load(meta);
 })();
