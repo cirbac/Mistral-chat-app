@@ -395,6 +395,7 @@ app.get('/api/meta', (_req, res) => {
         sous_categories: s.sous_categories ?? [],
         nbGroupes: s.groupes.length,
       })),
+    propositionsActives: process.env.PROPOSITIONS_ACTIVE === '1',
     nbGroupes: secteurs.reduce((a, s) => a + s.groupes.length, 0),
     nbProduits: secteurs.reduce((a, s) => a + s.groupes.reduce((b, g) => b + g.produits.length, 0), 0),
     nbSources: Object.keys(sources).length,
@@ -706,6 +707,10 @@ function requireAdmin(req: Request, res: Response): boolean {
 }
 
 app.post('/api/produits', (req, res) => {
+  if (process.env.PROPOSITIONS_ACTIVE !== '1') {
+    res.status(404).json({ error: 'La fonction « proposer un ajout » est désactivée pour le moment.' });
+    return;
+  }
   if (!requireAdmin(req, res)) return;
   const { q, num, marque, note } = req.body ?? {};
   if (typeof q !== 'string' || q.trim().length < 2 || q.trim().length > 80) {
