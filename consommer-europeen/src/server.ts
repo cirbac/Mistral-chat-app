@@ -186,6 +186,42 @@ if (existsSync(motsClesPath)) {
 
 const ajoutsPath = path.join(dataDir, 'ajouts.json');
 let ajouts: { num: string; groupe: Groupe }[] = [];
+const ajoutsSources: Record<string, string> = {};
+const ajoutsMotsCles: Record<string, string[]> = {};
+
+function persistAjouts() {
+  writeFileSync(ajoutsPath, JSON.stringify({ groupes: ajouts, sources: ajoutsSources, motsCles: ajoutsMotsCles }, null, 1) + '\n', 'utf8');
+}
+
+function loadAjoutsRaw(raw: unknown) {
+  if (Array.isArray(raw)) {
+    ajouts = raw as { num: string; groupe: Groupe }[];
+    return;
+  }
+  if (raw && typeof raw === 'object') {
+    const o = raw as { groupes?: unknown; sources?: unknown; motsCles?: unknown };
+    ajouts = Array.isArray(o.groupes) ? (o.groupes as { num: string; groupe: Groupe }[]) : [];
+    if (o.sources && typeof o.sources === 'object') Object.assign(ajoutsSources, o.sources as Record<string, string>);
+    if (o.motsCles && typeof o.motsCles === 'object') Object.assign(ajoutsMotsCles, o.motsCles as Record<string, string[]>);
+  }
+}
+
+function applyAjoutsMotsCles() {
+  for (const s of secteurs) {
+    for (const g of s.groupes) {
+      const kws = ajoutsMotsCles[g.id];
+      if (kws && kws.length > 0) g.aliases = [...new Set([...(g.aliases ?? []), ...kws])];
+    }
+  }
+}
+
+function attachAjouts() {
+  for (const a of ajouts) {
+    const secteur = secteurs.find((s) => s.num === a.num);
+    if (secteur && !secteur.groupes.some((g) => g.id === a.groupe.id)) secteur.groupes.push(a.groupe);
+  }
+  applyAjoutsMotsCles();
+}
 
 async function githubSaveAjouts() {
   const token = process.env.GITHUB_TOKEN;
@@ -199,7 +235,7 @@ async function githubSaveAjouts() {
     await fetch(`https://api.github.com/repos/${repo}/contents/${p}`, {
       method: 'PUT',
       headers: h,
-      body: JSON.stringify({ message: 'chore: propositions utilisateurs (admin)', content: Buffer.from(JSON.stringify(ajouts, null, 1) + '\n').toString('base64'), ...(sha ? { sha } : {}) }),
+      body: JSON.stringify({ message: 'chore: ajouts admin (marques/produits/sources)', content: Buffer.from(JSON.stringify({ groupes: ajouts, sources: ajoutsSources, motsCles: ajoutsMotsCles }, null, 1) + '\n').toString('base64'), ...(sha ? { sha } : {}) }),
     });
   } catch (e) {
     console.error('githubSaveAjouts:', e);
@@ -214,27 +250,23 @@ async function githubLoadAjouts() {
     const r = await fetch(`https://api.github.com/repos/${repo}/contents/consommer-europeen/data/ajouts.json`, { headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'CirbaConsult/1.0' } });
     if (!r.ok) return;
     const j = (await r.json()) as { content?: string };
-    ajouts = JSON.parse(Buffer.from(j.content ?? '', 'base64').toString('utf8')) as { num: string; groupe: Groupe }[];
-    try { writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
-    void githubSaveAjouts(); } catch {}
+    loadAjoutsRaw(JSON.parse(Buffer.from(j.content ?? '', 'base64').toString('utf8')));
+    try {
+      persistAjouts();
+      void githubSaveAjouts();
+    } catch {}
   } catch {}
 }
 if (existsSync(ajoutsPath)) {
-  ajouts = JSON.parse(readFileSync(ajoutsPath, 'utf8')) as { num: string; groupe: Groupe }[];
+  loadAjoutsRaw(JSON.parse(readFileSync(ajoutsPath, 'utf8')));
 } else {
   githubLoadAjouts().then(() => {
-    for (const a of ajouts) {
-      const secteur = secteurs.find((x) => x.num === a.num);
-      if (secteur) secteur.groupes.push(a.groupe);
-    }
+    attachAjouts();
     buildIndex();
     searchCache.clear();
   });
 }
-for (const a of ajouts) {
-  const secteur = secteurs.find((s) => s.num === a.num);
-  if (secteur) secteur.groupes.push(a.groupe);
-}
+attachAjouts();
 
 function slugify(s: string): string {
   return s
@@ -252,6 +284,7 @@ const sources: Record<string, string> = Object.assign(
     .sort()
     .map((f) => JSON.parse(readFileSync(path.join(dataDir, f), 'utf8'))),
 );
+Object.assign(sources, ajoutsSources);
 
 const STATUT_ORDRE = ['rang1', 'rang2', 'vigilance', 'hors_zones', 'a_ecarter'];
 const statutsById = new Map(grille.statuts.map((s) => [s.id, s]));
@@ -359,6 +392,7 @@ app.get('/api/meta', (_req, res) => {
         num: s.num,
         nom: s.nom,
         keywords: s.keywords ?? [],
+        sous_categories: s.sous_categories ?? [],
         nbGroupes: s.groupes.length,
       })),
     nbGroupes: secteurs.reduce((a, s) => a + s.groupes.length, 0),
@@ -706,13 +740,128 @@ app.post('/api/produits', (req, res) => {
   ajouts.push({ num: secteur.num, groupe });
   secteur.groupes.push(groupe);
   try {
-    writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    persistAjouts();
     void githubSaveAjouts();
   } catch (err) {
     console.error(err);
   }
   searchCache.clear();
     res.status(201).json({ ok: true, groupe: withStatut(groupe, getPref(req), secteur) });
+});
+
+function nextSourceId(): number {
+  let max = 0;
+  for (const k of Object.keys(sources)) {
+    const n = parseInt(k, 10);
+    if (Number.isFinite(n) && n > max) max = n;
+  }
+  return max + 1;
+}
+
+function applyAjoutGroupe(payload: Record<string, unknown>): { ok: boolean; id?: string; sourceId?: number; error?: string } {
+  const num = String(payload.num ?? '');
+  const secteur = secteurs.find((s) => s.num === num);
+  if (!secteur) return { ok: false, error: `Secteur inconnu : ${num || '(vide)'}` };
+  const g = (payload.groupe ?? {}) as Record<string, unknown>;
+  const nom = typeof g.groupe === 'string' ? g.groupe.trim() : '';
+  if (nom.length < 2 || nom.length > 60) return { ok: false, error: 'groupe.groupe requis (2 à 60 caractères).' };
+  const statut = typeof g.statut === 'string' ? g.statut : 'propose';
+  if (!statutsById.has(statut)) return { ok: false, error: `Statut invalide : ${statut}` };
+  const sousCat = typeof g.sous_categorie === 'string' ? g.sous_categorie.trim() : '';
+  if (sousCat && !(secteur.sous_categories ?? []).includes(sousCat)) return { ok: false, error: `sous_categorie inconnue pour ce secteur : ${sousCat}` };
+  const id = typeof g.id === 'string' && g.id.trim() ? g.id.trim() : secteur.id + '-' + slugify(nom);
+  const existe = secteurs.some((s) => s.groupes.some((x) => x.id === id)) || ajouts.some((a) => a.groupe.id === id);
+  if (existe) return { ok: false, error: `id déjà utilisé : ${id}` };
+  const pays = typeof g.siege_pays === 'string' ? g.siege_pays.trim().toUpperCase().slice(0, 2) : '??';
+  const marques = Array.isArray(g.marques) ? g.marques.map((m) => String(m).trim()).filter(Boolean).slice(0, 12) : [];
+  if (!marques.length) marques.push(nom);
+  const srcIds: number[] = Array.isArray(g.sources) ? g.sources.map((n) => parseInt(String(n), 10)).filter((n) => Number.isFinite(n) && sources[String(n)]) : [];
+  let sourceId: number | undefined;
+  const sourceTexte = typeof payload.sourceTexte === 'string' ? payload.sourceTexte.trim().slice(0, 500) : '';
+  if (sourceTexte) {
+    sourceId = nextSourceId();
+    ajoutsSources[String(sourceId)] = sourceTexte;
+    sources[String(sourceId)] = sourceTexte;
+    srcIds.push(sourceId);
+  }
+  const groupe: Groupe = {
+    id,
+    groupe: nom,
+    marques,
+    siege: typeof g.siege === 'string' && g.siege.trim() ? g.siege.trim().slice(0, 80) : 'À vérifier',
+    siege_pays: pays,
+    statut,
+    sous_categorie: sousCat || undefined,
+    commentaire: typeof g.commentaire === 'string' ? g.commentaire.slice(0, 500) : '',
+    sources: srcIds,
+    lieux_production: Array.isArray(g.lieux_production) ? g.lieux_production.map((x) => String(x).slice(0, 60)).filter(Boolean).slice(0, 12) : [],
+    certifications: Array.isArray(g.certifications) ? g.certifications.map((x) => String(x).slice(0, 40)).filter(Boolean).slice(0, 8) : [],
+    produits: [],
+  };
+  const produits = Array.isArray(payload.produits) ? payload.produits : [];
+  for (const p of produits.slice(0, 50)) {
+    const pr = p as Record<string, unknown>;
+    const pn = typeof pr.nom === 'string' ? pr.nom.trim() : '';
+    if (pn.length < 2 || pn.length > 120) continue;
+    groupe.produits.push({
+      id: id + '-' + slugify(pn).slice(0, 60),
+      nom: pn,
+      assemblage: typeof pr.assemblage === 'string' && pr.assemblage.trim() ? pr.assemblage.trim().slice(0, 80) : null,
+      origine_pieces: typeof pr.origine_pieces === 'string' && pr.origine_pieces.trim() ? pr.origine_pieces.trim().slice(0, 80) : null,
+      certifications: Array.isArray(pr.certifications) ? pr.certifications.map((c) => String(c).slice(0, 40)).filter(Boolean).slice(0, 6) : [],
+      note: typeof pr.note === 'string' ? pr.note.slice(0, 300) : '',
+    });
+  }
+  const kws = Array.isArray(payload.motsCles) ? payload.motsCles.map((k) => String(k).trim().toLowerCase()).filter((k) => k.length >= 2 && k.length <= 40).slice(0, 20) : [];
+  if (kws.length) {
+    ajoutsMotsCles[id] = [...new Set([...(ajoutsMotsCles[id] ?? []), ...kws])];
+    groupe.aliases = [...new Set([...(groupe.aliases ?? []), ...kws])];
+  }
+  ajouts.push({ num, groupe });
+  secteur.groupes.push(groupe);
+  return { ok: true, id, sourceId };
+}
+
+function persistAndReindex() {
+  try {
+    persistAjouts();
+    void githubSaveAjouts();
+  } catch (e) {
+    console.error(e);
+  }
+  buildIndex();
+  searchCache.clear();
+}
+
+app.post('/api/admin/groupe', (req, res) => {
+  if (!requireAdmin(req, res)) return;
+  const r = applyAjoutGroupe(req.body ?? {});
+  if (!r.ok) {
+    res.status(400).json({ error: r.error });
+    return;
+  }
+  persistAndReindex();
+  const secteur = secteurs.find((s) => s.groupes.some((g) => g.id === r.id))!;
+  const g = secteur.groupes.find((x) => x.id === r.id)!;
+  res.status(201).json({ ok: true, sourceId: r.sourceId, groupe: withStatut(g, 'all', secteur) });
+});
+
+app.post('/api/admin/import', (req, res) => {
+  if (!requireAdmin(req, res)) return;
+  const body = req.body ?? {};
+  const items: unknown[] = Array.isArray(body) ? body : Array.isArray(body.items) ? body.items : [];
+  if (!items.length || items.length > 200) {
+    res.status(400).json({ error: 'Tableau attendu (1 à 200 entrées) : { items: [...] } ou [...].' });
+    return;
+  }
+  const results = items.map((it) => applyAjoutGroupe(it as Record<string, unknown>));
+  persistAndReindex();
+  res.status(201).json({
+    ok: true,
+    ajoutes: results.filter((r) => r.ok).length,
+    erreurs: results.filter((r) => !r.ok).map((r) => r.error),
+    details: results,
+  });
 });
 
 app.get('/admin', (req, res) => {
@@ -750,7 +899,7 @@ app.post('/api/admin/ajouts/:id/valider', (req, res) => {
   a.groupe.commentaire += ` Validé le ${new Date().toISOString().slice(0, 10)} (statut ${statut})${typeof source === 'string' && source.trim() ? ' — source : ' + source.trim().slice(0, 300) : ''}.`;
   (a.groupe as { valide?: boolean }).valide = true;
   try {
-    writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    persistAjouts();
     void githubSaveAjouts();
   } catch (err) {
     console.error(err);
@@ -770,7 +919,7 @@ app.delete('/api/admin/ajouts/:id', (req, res) => {
   const secteur = secteurs.find((s) => s.num === a.num);
   if (secteur) secteur.groupes = secteur.groupes.filter((g) => g.id !== a.groupe.id);
   try {
-    writeFileSync(ajoutsPath, JSON.stringify(ajouts, null, 1), 'utf8');
+    persistAjouts();
     void githubSaveAjouts();
   } catch (err) {
     console.error(err);
