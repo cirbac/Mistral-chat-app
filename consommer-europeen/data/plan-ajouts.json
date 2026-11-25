@@ -1,0 +1,2598 @@
+[
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "Loewe",
+   "marques": [
+    "Loewe"
+   ],
+   "siege": "Allemagne (Kronach)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "Fabricant allemand de TV OLED haut de gamme fondé en 1923. UE."
+  },
+  "source": "Wikipédia — Loewe — https://fr.wikipedia.org/wiki/Loewe",
+  "produits": [
+   {
+    "nom": "TV OLED Loewe Bild 55",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, Corée du Sud"
+   }
+  ],
+  "motsCles": [
+   "loewe",
+   "tv oled",
+   "television",
+   "allemagne",
+   "4k"
+  ],
+  "enrich": {
+   "domaine": "loewe.com",
+   "histoire": "Fabricant allemand fondé en 1923 à Kronach, spécialiste des téléviseurs OLED haut de gamme (gamme Bild), fabriqués en Allemagne."
+  },
+  "fait": false
+ },
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "Metz",
+   "marques": [
+    "Metz"
+   ],
+   "siege": "Allemagne (Zirndorf)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "Fabricant allemand de TV fondé en 1938, TV fabriquées en Allemagne. UE."
+  },
+  "source": "Wikipédia — Metz (entreprise) — https://fr.wikipedia.org/wiki/Metz_(entreprise)",
+  "produits": [
+   {
+    "nom": "TV Metz QLED",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "metz",
+   "tv",
+   "television",
+   "qled",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "metz-ce.com",
+   "histoire": "Marque allemande fondée en 1938 à Zirndorf (Bavière), produisant ses téléviseurs en Allemagne."
+  },
+  "fait": false
+ },
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "Philips (TV)",
+   "marques": [
+    "Philips"
+   ],
+   "siege": "Pays-Bas (Amsterdam)",
+   "siege_pays": "NL",
+   "statut": "rang1",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "TV Philips (TP Vision, licence Philips) — société néerlandaise. UE."
+  },
+  "source": "Wikipédia — Koninklijke Philips — https://fr.wikipedia.org/wiki/Koninklijke_Philips",
+  "produits": [
+   {
+    "nom": "TV Philips OLED Ambilight",
+    "assemblage": "Pologne",
+    "origine_pieces": "Pays-Bas, Corée du Sud"
+   }
+  ],
+  "motsCles": [
+   "philips",
+   "tv",
+   "television",
+   "oled",
+   "ambilight",
+   "pays-bas"
+  ],
+  "enrich": {
+   "domaine": "philips.com",
+   "histoire": "Koninklijke Philips, géant néerlandais fondé en 1891 à Eindhoven, dont les TV (OLED Ambilight) sont produites sous licence par TP Vision."
+  },
+  "fait": false
+ },
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "Grundig",
+   "marques": [
+    "Grundig"
+   ],
+   "siege": "Allemagne (Nuremberg)",
+   "siege_pays": "DE",
+   "statut": "vigilance",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "Marque allemande historique rachetée par le turc Arçelik (Beko). Vigilance."
+  },
+  "source": "Wikipédia — Grundig — https://fr.wikipedia.org/wiki/Grundig",
+  "produits": [
+   {
+    "nom": "TV Grundig",
+    "assemblage": "Turquie",
+    "origine_pieces": "Turquie"
+   }
+  ],
+  "motsCles": [
+   "grundig",
+   "tv",
+   "television",
+   "allemagne",
+   "turquie"
+  ],
+  "enrich": {
+   "domaine": "grundig.de",
+   "histoire": "Marque allemande fondée en 1930 à Nuremberg, aujourd'hui détenue par le groupe turc Arçelik."
+  },
+  "fait": false
+ },
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "Vestel",
+   "marques": [
+    "Vestel"
+   ],
+   "siege": "Turquie (Manisa)",
+   "siege_pays": "TR",
+   "statut": "hors_zones",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "Fabricant turc de TV (aussi propriétaire de marques distribuées en Europe). Hors zones."
+  },
+  "source": "Wikipédia — Vestel — https://fr.wikipedia.org/wiki/Vestel",
+  "produits": [
+   {
+    "nom": "TV Vestel",
+    "assemblage": "Turquie",
+    "origine_pieces": "Turquie, Chine"
+   }
+  ],
+  "motsCles": [
+   "vestel",
+   "tv",
+   "television",
+   "turquie"
+  ],
+  "enrich": {
+   "domaine": "vestel.com.tr",
+   "histoire": "Fabricant turc fondé en 1984, l'un des plus grands producteurs de TV au monde, basé à Manisa."
+  },
+  "fait": false
+ },
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "TCL",
+   "marques": [
+    "TCL"
+   ],
+   "siege": "Chine (Huizhou)",
+   "siege_pays": "CN",
+   "statut": "a_ecarter",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "Fabricant chinois de TV, n°2 mondial. À écarter."
+  },
+  "source": "Wikipédia — TCL Technology — https://fr.wikipedia.org/wiki/TCL_Technology",
+  "produits": [
+   {
+    "nom": "TV TCL QLED",
+    "assemblage": "Chine",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "tcl",
+   "tv",
+   "television",
+   "qled",
+   "chine"
+  ],
+  "enrich": {
+   "domaine": "tcl.com",
+   "histoire": "Fabricant chinois fondé en 1981, n°2 mondial des téléviseurs (QLED, Mini LED)."
+  },
+  "fait": false
+ },
+ {
+  "num": "05",
+  "groupe": {
+   "groupe": "Hisense",
+   "marques": [
+    "Hisense"
+   ],
+   "siege": "Chine (Qingdao)",
+   "siege_pays": "CN",
+   "statut": "a_ecarter",
+   "sous_categorie": "Marques de téléviseurs",
+   "commentaire": "Fabricant chinois de TV (Laser TV). À écarter."
+  },
+  "source": "Wikipédia — Hisense — https://fr.wikipedia.org/wiki/Hisense",
+  "produits": [
+   {
+    "nom": "TV Laser Hisense",
+    "assemblage": "Chine",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "hisense",
+   "tv",
+   "laser tv",
+   "chine"
+  ],
+  "enrich": {
+   "domaine": "hisense.com",
+   "histoire": "Fabricant chinois fondé en 1969 à Qingdao, connu pour ses TV laser et ses TV grand format."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Hippopotamus",
+   "marques": [
+    "Hippopotamus"
+   ],
+   "siege": "France (Rueil-Malmaison)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne de grillades française fondée en 1976. [source]"
+  },
+  "source": "Wikipédia — Hippopotamus (restaurants) — https://fr.wikipedia.org/wiki/Hippopotamus_(restaurants)",
+  "produits": [
+   {
+    "nom": "Côte de bœuf grillée Hippopotamus",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "hippopotamus",
+   "restaurant",
+   "grillade",
+   "boeuf",
+   "viande",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "hippopotamus.fr",
+   "histoire": "Chaîne de restaurants de grillades française fondée en 1976, spécialisée dans les viandes grillées à la plancha."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Flunch",
+   "marques": [
+    "Flunch"
+   ],
+   "siege": "France (Villeneuve-d'Ascq)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne de restauration rapide française (groupe Auchan)."
+  },
+  "source": "Wikipédia — Flunch — https://fr.wikipedia.org/wiki/Flunch",
+  "produits": [
+   {
+    "nom": "Menu Flunch",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "flunch",
+   "fast food",
+   "restaurant",
+   "france",
+   "self service"
+  ],
+  "enrich": {
+   "domaine": "flunch.fr",
+   "histoire": "Enseigne de restauration rapide française fondée en 1971, membre du groupe Auchan."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Courtepaille",
+   "marques": [
+    "Courtepaille"
+   ],
+   "siege": "France (Rueil-Malmaison)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne française de grillades fondée en 1986."
+  },
+  "source": "Wikipédia — Courtepaille — https://fr.wikipedia.org/wiki/Courtepaille",
+  "produits": [
+   {
+    "nom": "Buffet à volonté Courtepaille",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "courtepaille",
+   "restaurant",
+   "grillade",
+   "buffet",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "courtepaille.com",
+   "histoire": "Chaîne française de grillades fondée en 1986, concurrente d'Hippopotamus, avec buffet à volonté."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Big Mamma",
+   "marques": [
+    "Big Mamma"
+   ],
+   "siege": "Italie (Milan) / France (Paris)",
+   "siege_pays": "IT",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Groupe italien de trattorias fondé en 2015, très présent en France. UE."
+  },
+  "source": "Site officiel — Big Mamma — https://bigmamma.com/",
+  "produits": [
+   {
+    "nom": "Trattoria Big Mamma (Paris)",
+    "assemblage": "France",
+    "origine_pieces": "Italie, France"
+   }
+  ],
+  "motsCles": [
+   "big mamma",
+   "trattoria",
+   "italien",
+   "pates",
+   "pizza",
+   "paris"
+  ],
+  "enrich": {
+   "domaine": "bigmamma.com",
+   "histoire": "Groupe italien fondé en 2015 à Milan par Victor Lugli et Tigrane Seydoux, célèbre pour ses trattorias géantes à Paris et en Europe."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Léon de Bruxelles",
+   "marques": [
+    "Léon de Bruxelles"
+   ],
+   "siege": "Belgique (Bruxelles)",
+   "siege_pays": "BE",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne belge de fruits de mer et moules-frites fondée en 1893. UE."
+  },
+  "source": "Wikipédia — Léon de Bruxelles — https://fr.wikipedia.org/wiki/L%C3%A9on_de_Bruxelles",
+  "produits": [
+   {
+    "nom": "Moules-frites Léon de Bruxelles",
+    "assemblage": "Belgique",
+    "origine_pieces": "Belgique"
+   }
+  ],
+  "motsCles": [
+   "leon de bruxelles",
+   "moules frites",
+   "fruits de mer",
+   "belgique",
+   "restaurant"
+  ],
+  "enrich": {
+   "domaine": "leon-de-bruxelles.com",
+   "histoire": "Chaîne belge fondée en 1893 à Bruxelles, spécialisée dans les moules-frites et les fruits de mer."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Pret A Manger",
+   "marques": [
+    "Pret A Manger"
+   ],
+   "siege": "Royaume-Uni (Londres)",
+   "siege_pays": "GB",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne britannique de sandwichs frais (groupe JAB)."
+  },
+  "source": "Wikipédia — Pret A Manger — https://fr.wikipedia.org/wiki/Pret_A_Manger",
+  "produits": [
+   {
+    "nom": "Sandwich frais Pret A Manger",
+    "assemblage": "Royaume-Uni",
+    "origine_pieces": "Royaume-Uni"
+   }
+  ],
+  "motsCles": [
+   "pret a manger",
+   "sandwich",
+   "salade",
+   "snack",
+   "londres",
+   "royaume-uni"
+  ],
+  "enrich": {
+   "domaine": "pret.com",
+   "histoire": "Chaîne britannique fondée en 1986 à Londres, spécialisée dans les sandwichs et salades préparés frais, présente dans une dizaine de pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Greggs",
+   "marques": [
+    "Greggs"
+   ],
+   "siege": "Royaume-Uni (Newcastle)",
+   "siege_pays": "GB",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne britannique de boulangerie-snack fondée en 1939 (sausage rolls)."
+  },
+  "source": "Wikipémie — Greggs — https://fr.wikipedia.org/wiki/Greggs",
+  "produits": [
+   {
+    "nom": "Sausage roll Greggs",
+    "assemblage": "Royaume-Uni",
+    "origine_pieces": "Royaume-Uni"
+   }
+  ],
+  "motsCles": [
+   "greggs",
+   "sausage roll",
+   "boulangerie",
+   "snack",
+   "royaume-uni"
+  ],
+  "enrich": {
+   "domaine": "greggs.com",
+   "histoire": "Chaîne britannique fondée en 1939 à Newcastle, célèbre pour ses sausage rolls, avec plus de 2 000 magasins au Royaume-Uni."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Five Guys",
+   "marques": [
+    "Five Guys"
+   ],
+   "siege": "États-Unis (Alexandria, Virginie)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne américaine de burgers. Hors de vos zones."
+  },
+  "source": "Wikipédia — Five Guys — https://fr.wikipedia.org/wiki/Five_Guys",
+  "produits": [
+   {
+    "nom": "Burger Five Guys",
+    "assemblage": "États-Unis",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "five guys",
+   "burger",
+   "frites",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "five guys.com",
+   "histoire": "Chaîne américaine de burgers fondée en 1986 en Virginie, connue pour ses frites fraîches et ses sauces."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Chipotle",
+   "marques": [
+    "Chipotle"
+   ],
+   "siege": "États-Unis (Newport Beach)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Chaîne américaine de cuisine mexicaine. Hors de vos zones."
+  },
+  "source": "Wikipédia — Chipotle Mexican Grill — https://fr.wikipedia.org/wiki/Chipotle_Mexican_Grill",
+  "produits": [
+   {
+    "nom": "Burrito Chipotle",
+    "assemblage": "États-Unis",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "chipotle",
+   "burrito",
+   "mexicain",
+   "tacos",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "chipotle.com",
+   "histoire": "Chaîne américaine de fast-casual mexicain fondée en 1993 à Denver, pionnière du burrito frais."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Continental",
+   "marques": [
+    "Continental"
+   ],
+   "siege": "Allemagne (Hanovre)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Manufacturiers européens",
+   "commentaire": "Manufacturier allemand de pneus fondé en 1871 (Continental, Uniroyal, Semperit). UE."
+  },
+  "source": "Wikipédia — Continental AG — https://fr.wikipedia.org/wiki/Continental_AG",
+  "produits": [
+   {
+    "nom": "Pneu été Continental PremiumContact 7",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, Portugal, France"
+   }
+  ],
+  "motsCles": [
+   "continental",
+   "pneu",
+   "pneumatique",
+   "allemagne",
+   "premuimcontact",
+   "ete",
+   "hiver"
+  ],
+  "enrich": {
+   "domaine": "continental-pneus.fr",
+   "histoire": "Manufacturier allemand fondé en 1871 à Hanovre, l'un des leaders mondiaux du pneu (Continental, Uniroyal, Semperit), avec des usines en Europe."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Pirelli",
+   "marques": [
+    "Pirelli"
+   ],
+   "siege": "Italie (Milan)",
+   "siege_pays": "IT",
+   "statut": "a_ecarter",
+   "sous_categorie": "Manufacturiers européens",
+   "commentaire": "Manufacturier italien sous contrôle chinois (Sinochem) depuis 2015. À écarter."
+  },
+  "source": "Wikipédia — Pirelli — https://fr.wikipedia.org/wiki/Pirelli",
+  "produits": [
+   {
+    "nom": "Pneu Pirelli P Zero",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie, Chine"
+   }
+  ],
+  "motsCles": [
+   "pirelli",
+   "pneu",
+   "p zero",
+   "italie",
+   "chine"
+  ],
+  "enrich": {
+   "domaine": "pirelli.com",
+   "histoire": "Manufacturier italien fondé en 1872 à Milan, passé sous contrôle du chinois Sinochem en 2015."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Nokian Tyres",
+   "marques": [
+    "Nokian"
+   ],
+   "siege": "Finlande (Nokia)",
+   "siege_pays": "FI",
+   "statut": "rang1",
+   "sous_categorie": "Manufacturiers européens",
+   "commentaire": "Manufacturier finlandais de pneus hiver fondé en 1898. UE."
+  },
+  "source": "Wikipédia — Nokian Tyres — https://fr.wikipedia.org/wiki/Nokian_Tyres",
+  "produits": [
+   {
+    "nom": "Pneu hiver Nokian Hakkapeliitta",
+    "assemblage": "Finlande",
+    "origine_pieces": "Finlande"
+   }
+  ],
+  "motsCles": [
+   "nokian",
+   "pneu hiver",
+   "hakkapeliitta",
+   "finlande",
+   "neige"
+  ],
+  "enrich": {
+   "domaine": "nokiantyres.fr",
+   "histoire": "Manufacturier finlandais fondé en 1898, spécialiste des pneus hiver (Hakkapeliitta), fabriqués en Finlande et Roumanie."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Vredestein",
+   "marques": [
+    "Vredestein"
+   ],
+   "siege": "Pays-Bas (Enschede)",
+   "siege_pays": "NL",
+   "statut": "hors_zones",
+   "sous_categorie": "Manufacturiers européens",
+   "commentaire": "Marque néerlandaise rachetée par l'indien Apollo Tyres. Siège NL, contrôle indien."
+  },
+  "source": "Wikipédia — Vredestein — https://fr.wikipedia.org/wiki/Vredestein",
+  "produits": [
+   {
+    "nom": "Pneu été Vredestein Ultrac",
+    "assemblage": "Hongrie",
+    "origine_pieces": "Italie, Hongrie"
+   }
+  ],
+  "motsCles": [
+   "vredestein",
+   "pneu",
+   "ultrac",
+   "pays-bas",
+   "inde"
+  ],
+  "enrich": {
+   "domaine": "vredestein.fr",
+   "histoire": "Marque néerlandaise fondée en 1909 à Enschede, rachetée en 2009 par l'indien Apollo Tyres."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Falken",
+   "marques": [
+    "Falken"
+   ],
+   "siege": "Japon (Tokyo)",
+   "siege_pays": "JP",
+   "statut": "rang2",
+   "sous_categorie": "Manufacturiers japonais et sud-coréens",
+   "commentaire": "Manufacturier japonais filiale de Sumitomo Rubber. Haute démocratie."
+  },
+  "source": "Wikipémie — Falken Tire — https://en.wikipedia.org/wiki/Falken_Tire",
+  "produits": [
+   {
+    "nom": "Pneu Falken Ziex",
+    "assemblage": "Japon",
+    "origine_pieces": "Japon, Thaïlande"
+   }
+  ],
+  "motsCles": [
+   "falken",
+   "pneu",
+   "ziex",
+   "japon"
+  ],
+  "enrich": {
+   "domaine": "falken.eu",
+   "histoire": "Manufacturier japonais fondé en 1983, filiale de Sumitomo Rubber Industries."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Hankook",
+   "marques": [
+    "Hankook"
+   ],
+   "siege": "Corée du Sud (Séoul)",
+   "siege_pays": "KR",
+   "statut": "rang2",
+   "sous_categorie": "Manufacturiers japonais et sud-coréens",
+   "commentaire": "Manufacturier sud-coréen n°1 mondial en volume. Haute démocratie."
+  },
+  "source": "Wikipédie — Hankook — https://fr.wikipedia.org/wiki/Hankook",
+  "produits": [
+   {
+    "nom": "Pneu Hankook Ventus",
+    "assemblage": "Corée du Sud",
+    "origine_pieces": "Corée du Sud, Hongrie"
+   }
+  ],
+  "motsCles": [
+   "hankook",
+   "pneu",
+   "ventus",
+   "coree du sud"
+  ],
+  "enrich": {
+   "domaine": "hankooktire.com",
+   "histoire": "Manufacturier sud-coréen fondé en 1941, leader mondial du pneu en première monte."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Nexen Tire",
+   "marques": [
+    "Nexen"
+   ],
+   "siege": "Corée du Sud (Séoul)",
+   "siege_pays": "KR",
+   "statut": "rang2",
+   "sous_categorie": "Manufacturiers japonais et sud-coréens",
+   "commentaire": "Manufacturier sud-coréen. Haute démocratie."
+  },
+  "source": "Wikipémie — Nexen Tire — https://en.wikipedia.org/wiki/Nexen_Tire",
+  "produits": [
+   {
+    "nom": "Pneu Nexen N'Fera",
+    "assemblage": "Corée du Sud",
+    "origine_pieces": "Corée du Sud, Chine"
+   }
+  ],
+  "motsCles": [
+   "nexen",
+   "pneu",
+   "coree du sud"
+  ],
+  "enrich": {
+   "domaine": "nexentire.com",
+   "histoire": "Manufacturier sud-coréen fondé en 1942, connu pour ses pneus haute performance."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Maxxis",
+   "marques": [
+    "Maxxis"
+   ],
+   "siege": "Taïwan (Yuanlin)",
+   "siege_pays": "TW",
+   "statut": "rang2",
+   "sous_categorie": "Manufacturiers japonais et sud-coréens",
+   "commentaire": "Manufacturier taïwanais (groupe Cheng Shin). Haute démocratie."
+  },
+  "source": "Wikipémie — Maxxis — https://en.wikipedia.org/wiki/Maxis",
+  "produits": [
+   {
+    "nom": "Pneu Maxxis",
+    "assemblage": "Taïwan",
+    "origine_pieces": "Taïwan, Chine"
+   }
+  ],
+  "motsCles": [
+   "maxxis",
+   "pneu",
+   "taïwan"
+  ],
+  "enrich": {
+   "domaine": "maxxis.com",
+   "histoire": "Manufacturier taïwanais fondé en 1967, filiale du groupe Cheng Shin."
+  },
+  "fait": false
+ },
+ {
+  "num": "03",
+  "groupe": {
+   "groupe": "Giti Tire",
+   "marques": [
+    "Giti"
+   ],
+   "siege": "Chine (Shanghai)",
+   "siege_pays": "CN",
+   "statut": "a_ecarter",
+   "sous_categorie": "Manufacturiers japonais et sud-coréens",
+   "commentaire": "Manufacturier chinois. À écarter."
+  },
+  "source": "Wikipémie — Giti Tire — https://en.wikipedia.org/wiki/Giti_Tire",
+  "produits": [
+   {
+    "nom": "Pneu Giti",
+    "assemblage": "Chine",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "giti",
+   "pneu",
+   "chine"
+  ],
+  "enrich": {
+   "domaine": "giti.com",
+   "histoire": "Manufacturier chinois fondé en 1951 à Shanghai, présent dans 130 pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Miele",
+   "marques": [
+    "Miele"
+   ],
+   "siege": "Allemagne (Gütersloh)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Gros électroménager",
+   "commentaire": "Fabricant allemand d'électroménager premium fondé en 1899, fabriqué en Allemagne. UE."
+  },
+  "source": "Wikipédie — Miele — https://fr.wikipedia.org/wiki/Miele",
+  "produits": [
+   {
+    "nom": "Lave-linge Miele",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "miele",
+   "lave-linge",
+   "lave-vaisselle",
+   "four",
+   "electromenager",
+   "allemagne",
+   "premium"
+  ],
+  "enrich": {
+   "domaine": "miele.fr",
+   "histoire": "Fabricant familial allemand fondé en 1899 à Gütersloh, référence du gros électroménager haut de gamme fabriqué en Allemagne."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Liebherr",
+   "marques": [
+    "Liebherr"
+   ],
+   "siege": "Suisse (Bulle) / Allemagne",
+   "siege_pays": "CH",
+   "statut": "rang1",
+   "sous_categorie": "Gros électroménager",
+   "commentaire": "Fabricant suisse-allemand de réfrigérateurs et congélateurs fondé en 1949. UE."
+  },
+  "source": "Wikipémie — Liebherr — https://fr.wikipedia.org/wiki/Liebherr",
+  "produits": [
+   {
+    "nom": "Réfrigérateur Liebherr",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, Autriche, Bulgarie"
+   }
+  ],
+  "motsCles": [
+   "liebherr",
+   "refrigerateur",
+   "congelateur",
+   "electromenager",
+   "suisse",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "liebherr.com",
+   "histoire": "Groupe familial fondé en 1949 en Suisse par Hans Liebherr, leader européen du froid domestique."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Smeg",
+   "marques": [
+    "Smeg"
+   ],
+   "siege": "Italie (Guastalla)",
+   "siege_pays": "IT",
+   "statut": "rang1",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Fabricant italien d'électroménager design (style années 50) fondé en 1948. UE."
+  },
+  "source": "Wikipémie — Smeg — https://fr.wikipedia.org/wiki/Smeg",
+  "produits": [
+   {
+    "nom": "Bouilloire Smeg 50's Style",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie"
+   }
+  ],
+  "motsCles": [
+   "smeg",
+   "bouilloire",
+   "grille-pain",
+   "petit electromenager",
+   "design",
+   "italie"
+  ],
+  "enrich": {
+   "domaine": "smeg.com",
+   "histoire": "Fabricant italien fondé en 1948 à Guastalla, célèbre pour son électroménager au design rétro années 50."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "De'Longhi",
+   "marques": [
+    "De'Longhi",
+    "Kenwood"
+   ],
+   "siege": "Italie (Trévise)",
+   "siege_pays": "IT",
+   "statut": "rang1",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Groupe italien de petit électroménager (cafetieres, robots Kenwood) fondé en 1902. UE."
+  },
+  "source": "Wikipémie — De'Longhi — https://fr.wikipedia.org/wiki/De%27Longhi",
+  "produits": [
+   {
+    "nom": "Machine à café De'Longhi",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie, Chine"
+   }
+  ],
+  "motsCles": [
+   "delonghi",
+   "cafetiere",
+   "machine a cafe",
+   "kenwood",
+   "robot cuisine",
+   "italie"
+  ],
+  "enrich": {
+   "domaine": "delonghi.com",
+   "histoire": "Groupe italien fondé en 1902 à Trévise, leader des machines à café automatiques et des robots Kenwood."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Electrolux",
+   "marques": [
+    "Electrolux",
+    "AEG"
+   ],
+   "siege": "Suède (Stockholm)",
+   "siege_pays": "SE",
+   "statut": "rang1",
+   "sous_categorie": "Gros électroménager",
+   "commentaire": "Groupe suédois d'électroménager (Electrolux, AEG, Frigidaire) fondé en 1919. UE."
+  },
+  "source": "Wikipémie — Electrolux — https://fr.wikipedia.org/wiki/Electrolux",
+  "produits": [
+   {
+    "nom": "Lave-linge Electrolux",
+    "assemblage": "Suède",
+    "origine_pieces": "Suède, Pologne, Italie"
+   }
+  ],
+  "motsCles": [
+   "electrolux",
+   "aeg",
+   "lave-linge",
+   "electromenager",
+   "suede"
+  ],
+  "enrich": {
+   "domaine": "electrolux.fr",
+   "histoire": "Groupe suédois fondé en 1919 à Stockholm, propriétaire des marques Electrolux, AEG et Zanussi."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Gorenje",
+   "marques": [
+    "Gorenje"
+   ],
+   "siege": "Slovénie (Velenje)",
+   "siege_pays": "SI",
+   "statut": "a_ecarter",
+   "sous_categorie": "Gros électroménager",
+   "commentaire": "Fabricant slovène racheté par le chinois Hisense en 2018. À écarter."
+  },
+  "source": "Wikipémie — Gorenje — https://fr.wikipedia.org/wiki/Gorenje",
+  "produits": [
+   {
+    "nom": "Lave-linge Gorenje",
+    "assemblage": "Slovénie",
+    "origine_pieces": "Slovénie"
+   }
+  ],
+  "motsCles": [
+   "gorenje",
+   "electromenager",
+   "slovenie",
+   "chine",
+   "hisense"
+  ],
+  "enrich": {
+   "domaine": "gorenje.com",
+   "histoire": "Fabricant slovène fondé en 1950, racheté par le chinois Hisense en 2018."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Candy",
+   "marques": [
+    "Candy",
+    "Hoover"
+   ],
+   "siege": "Italie (Brugherio)",
+   "siege_pays": "IT",
+   "statut": "a_ecarter",
+   "sous_categorie": "Gros électroménager",
+   "commentaire": "Groupe italien racheté par le chinois Haier en 2018. À écarter."
+  },
+  "source": "Wikipémie — Candy (entreprise) — https://fr.wikipedia.org/wiki/Candy_(entreprise)",
+  "produits": [
+   {
+    "nom": "Lave-linge Candy",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie, Chine"
+   }
+  ],
+  "motsCles": [
+   "candy",
+   "hoover",
+   "lave-linge",
+   "italie",
+   "chine",
+   "haier"
+  ],
+  "enrich": {
+   "domaine": "candy-home.com",
+   "histoire": "Groupe italien fondé en 1945, racheté par le chinois Haier en 2018, propriétaire de Hoover."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Braun (P&G)",
+   "marques": [
+    "Braun"
+   ],
+   "siege": "Allemagne (Kronberg)",
+   "siege_pays": "DE",
+   "statut": "hors_zones",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Marque allemande d'épilateurs/rasoirs rachetée par Procter & Gamble (US). Siège DE, contrôle US."
+  },
+  "source": "Wikipémie — Braun (entreprise) — https://fr.wikipedia.org/wiki/Braun_(entreprise)",
+  "produits": [
+   {
+    "nom": "Épilateur Braun Silk-épil",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, Chine"
+   }
+  ],
+  "motsCles": [
+   "braun",
+   "epilateur",
+   "rasoir",
+   "silk-epil",
+   "allemagne",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "braun.com",
+   "histoire": "Marque allemande fondée en 1921, rachetée par Gillette puis Procter & Gamble (États-Unis) en 2005."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Shark Ninja",
+   "marques": [
+    "Shark"
+   ],
+   "siege": "États-Unis (Needham, Massachusetts)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Fabricant américain d'aspirateurs et appareils de cuisine (Shark). Hors de vos zones."
+  },
+  "source": "Wikipémie — SharkNinja — https://en.wikipedia.org/wiki/SharkNinja",
+  "produits": [
+   {
+    "nom": "Aspirateur sans fil Shark",
+    "assemblage": "Chine",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "shark",
+   "aspirateur",
+   "sans fil",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "sharkninja.com",
+   "histoire": "Entreprise américaine fondée en 1998, connue pour ses aspirateurs sans fil Shark et ses robots."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Servier",
+   "marques": [
+    "Servier"
+   ],
+   "siege": "France (Suresnes)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Laboratoire pharmaceutique français indépendant fondé en 1954, n°2 mondial en cardiologie."
+  },
+  "source": "Wikipémie — Laboratoires Servier — https://fr.wikipedia.org/wiki/Laboratoires_Servier",
+  "produits": [
+   {
+    "nom": "Médicaments Servier (cardiologie, diabète)",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "servier",
+   "laboratoire",
+   "medicament",
+   "cardiologie",
+   "diabete",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "servier.com",
+   "histoire": "Laboratoire français indépendant fondé en 1954 par Jacques Servier à Suresnes, présent dans 150 pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Ipsen",
+   "marques": [
+    "Ipsen"
+   ],
+   "siege": "France (Boulogne-Billancourt)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Laboratoire français spécialisé en oncologie et neurosciences fondé en 1929."
+  },
+  "source": "Wikipémie — Ipsen — https://fr.wikipedia.org/wiki/Ipsen",
+  "produits": [
+   {
+    "nom": "Médicaments Ipsen (oncologie)",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "ipsen",
+   "laboratoire",
+   "medicament",
+   "oncologie",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "ipsen.com",
+   "histoire": "Laboratoire français fondé en 1929, spécialiste mondial de l'oncologie et des maladies rares."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Boehringer Ingelheim",
+   "marques": [
+    "Boehringer Ingelheim"
+   ],
+   "siege": "Allemagne (Ingelheim)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Laboratoire allemand familial fondé en 1885, n°1 mondial en santé animale, fort en diabète. UE."
+  },
+  "source": "Wikipémie — Boehringer Ingelheim — https://fr.wikipedia.org/wiki/Boehringer_Ingelheim",
+  "produits": [
+   {
+    "nom": "Médicaments Boehringer (diabète)",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, France"
+   }
+  ],
+  "motsCles": [
+   "boehringer",
+   "laboratoire",
+   "medicament",
+   "diabete",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "boehringer-ingelheim.com",
+   "histoire": "Laboratoire familial allemand fondé en 1885 à Ingelheim, présent dans plus de 150 pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Bayer",
+   "marques": [
+    "Bayer"
+   ],
+   "siege": "Allemagne (Leverkusen)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Groupe pharmaceutique allemand fondé en 1863 (aspirine). UE."
+  },
+  "source": "Wikipémie — Bayer — https://fr.wikipedia.org/wiki/Bayer",
+  "produits": [
+   {
+    "nom": "Aspirine Bayer",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "bayer",
+   "aspirine",
+   "medicament",
+   "allemagne",
+   "pharmacie"
+  ],
+  "enrich": {
+   "domaine": "bayer.com",
+   "histoire": "Groupe allemand fondé en 1863 à Barmen (Leverkusen), inventeur de l'aspirine en 1897."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Merck KGaA",
+   "marques": [
+    "Merck"
+   ],
+   "siege": "Allemagne (Darmstadt)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Laboratoire allemand (Merck KGaA, distinct de Merck & Co américain) fondé en 1668. UE."
+  },
+  "source": "Wikipémie — Merck KGaA — https://fr.wikipedia.org/wiki/Merck_KGaA",
+  "produits": [
+   {
+    "nom": "Médicaments Merck KGaA",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "merck",
+   "laboratoire",
+   "medicament",
+   "allemagne",
+   "darmstadt"
+  ],
+  "enrich": {
+   "domaine": "merckgroup.com",
+   "histoire": "Entreprise pharmaceutique et chimique allemande fondée en 1668 à Darmstadt, la plus ancienne du monde."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Boiron",
+   "marques": [
+    "Boiron"
+   ],
+   "siege": "France (Messimy)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Santé grand public",
+   "commentaire": "Laboratoire français d'homéopathie fondé en 1932, leader mondial."
+  },
+  "source": "Wikipémie — Laboratoires Boiron — https://fr.wikipedia.org/wiki/Laboratoires_Boiron",
+  "produits": [
+   {
+    "nom": "Oscillococcinum Boiron",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "boiron",
+   "homeopathie",
+   "oscillococcinum",
+   "grippe",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "boiron.fr",
+   "histoire": "Laboratoire français fondé en 1932, leader mondial de l'homéopathie, basé près de Lyon."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Recordati",
+   "marques": [
+    "Recordati"
+   ],
+   "siege": "Italie (Milan)",
+   "siege_pays": "IT",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Laboratoire italien familial fondé en 1926. UE."
+  },
+  "source": "Wikipémie — Recordati — https://en.wikipedia.org/wiki/Recordati",
+  "produits": [
+   {
+    "nom": "Médicaments Recordati",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie"
+   }
+  ],
+  "motsCles": [
+   "recordati",
+   "laboratoire",
+   "medicament",
+   "italie"
+  ],
+  "enrich": {
+   "domaine": "recordati.com",
+   "histoire": "Laboratoire italien fondé en 1926 à Milan, présent dans une centaine de pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Grünenthal",
+   "marques": [
+    "Grünenthal"
+   ],
+   "siege": "Allemagne (Aix-la-Chapelle)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Laboratoires et santé grand public, suite",
+   "commentaire": "Laboratoire allemand familial fondé en 1908, spécialiste de la douleur. UE."
+  },
+  "source": "Site officiel — Grünenthal — https://www.grunenthal.com/",
+  "produits": [
+   {
+    "nom": "Antidouleurs Grünenthal",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "grunenthal",
+   "antalgique",
+   "douleur",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "grunenthal.com",
+   "histoire": "Laboratoire familial allemand fondé en 1908 à Aix-la-Chapelle, spécialiste de la gestion de la douleur."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Dacia",
+   "marques": [
+    "Dacia",
+    "Sandero",
+    "Duster"
+   ],
+   "siege": "Roumanie (Mioveni)",
+   "siege_pays": "RO",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Constructeur roumain (filiale de Renault) fondé en 1966, spécialiste des voitures abordables. UE."
+  },
+  "source": "Wikipémie — Dacia — https://fr.wikipedia.org/wiki/Dacia",
+  "produits": [
+   {
+    "nom": "Dacia Sandero",
+    "assemblage": "Roumanie",
+    "origine_pieces": "Roumanie, Maroc, Turquie"
+   }
+  ],
+  "motsCles": [
+   "dacia",
+   "sandero",
+   "duster",
+   "voiture",
+   "pas cher",
+   "roumanie",
+   "renault"
+  ],
+  "enrich": {
+   "domaine": "dacia.fr",
+   "histoire": "Constructeur roumain fondé en 1966, racheté par Renault en 1999, connu pour ses voitures low-cost (Sandero, Duster)."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Alpine",
+   "marques": [
+    "Alpine",
+    "A110"
+   ],
+   "siege": "France (Dieppe)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Marque sportive française du groupe Renault, usine historique de Dieppe."
+  },
+  "source": "Wikipémie — Alpine (automobile) — https://fr.wikipedia.org/wiki/Alpine_(automobile)",
+  "produits": [
+   {
+    "nom": "Alpine A110",
+    "assemblage": "France (Dieppe)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "alpine",
+   "a110",
+   "sportive",
+   "voiture",
+   "france",
+   "dieppe",
+   "renault"
+  ],
+  "enrich": {
+   "domaine": "alpinecars.fr",
+   "histoire": "Marque sportive française fondée en 1955 par Jean Rédélé, relancée par Renault avec l'A110 fabriquée à Dieppe."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Škoda",
+   "marques": [
+    "Škoda",
+    "Octavia",
+    "Kodiaq"
+   ],
+   "siege": "République tchèque (Mladá Boleslav)",
+   "siege_pays": "CZ",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Constructeur tchèque fondé en 1895, filiale de Volkswagen. UE."
+  },
+  "source": "Wikipémie — Škoda Auto — https://fr.wikipedia.org/wiki/%C5%A0koda_Auto",
+  "produits": [
+   {
+    "nom": "Škoda Octavia",
+    "assemblage": "République tchèque",
+    "origine_pieces": "République tchèque, Russie"
+   }
+  ],
+  "motsCles": [
+   "skoda",
+   "octavia",
+   "kodiaq",
+   "voiture",
+   "tchequie",
+   "volkswagen"
+  ],
+  "enrich": {
+   "domaine": "skoda.fr",
+   "histoire": "Constructeur tchèque fondé en 1895 à Mladá Boleslav, membre du groupe Volkswagen depuis 1991."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Cupra",
+   "marques": [
+    "Cupra",
+    "Formentor"
+   ],
+   "siege": "Espagne (Martorell)",
+   "siege_pays": "ES",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Marque sportive espagnole ex-SEAT, usine de Martorell (Barcelone). UE."
+  },
+  "source": "Wikipémie — Cupra — https://fr.wikipedia.org/wiki/Cupra",
+  "produits": [
+   {
+    "nom": "Cupra Formentor",
+    "assemblage": "Espagne (Martorell)",
+    "origine_pieces": "Espagne, Allemagne"
+   }
+  ],
+  "motsCles": [
+   "cupra",
+   "formentor",
+   "suv",
+   "sport",
+   "espagne",
+   "seat"
+  ],
+  "enrich": {
+   "domaine": "cupra.fr",
+   "histoire": "Marque sportive espagnole née de SEAT en 2018, produite à Martorell près de Barcelone."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Opel",
+   "marques": [
+    "Opel",
+    "Corsa",
+    "Astra"
+   ],
+   "siege": "Allemagne (Rüsselsheim)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Constructeur allemand fondé en 1862, membre de Stellantis. UE."
+  },
+  "source": "Wikipémie — Opel — https://fr.wikipedia.org/wiki/Opel",
+  "produits": [
+   {
+    "nom": "Opel Corsa",
+    "assemblage": "Espagne",
+    "origine_pieces": "Allemagne, Espagne, Pologne"
+   }
+  ],
+  "motsCles": [
+   "opel",
+   "corsa",
+   "astra",
+   "voiture",
+   "allemagne",
+   "stellantis"
+  ],
+  "enrich": {
+   "domaine": "opel.fr",
+   "histoire": "Constructeur allemand fondé en 1862 à Rüsselsheim, membre du groupe Stellantis depuis 2021."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Citroën",
+   "marques": [
+    "Citroën",
+    "C3",
+    "C4"
+   ],
+   "siege": "France (Saint-Ouen)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Constructeur français fondé en 1919, membre de Stellantis."
+  },
+  "source": "Wikipémie — Citroën — https://fr.wikipedia.org/wiki/Citro%C3%ABn",
+  "produits": [
+   {
+    "nom": "Citroën C3",
+    "assemblage": "Espagne",
+    "origine_pieces": "France, Espagne, Slovaquie"
+   }
+  ],
+  "motsCles": [
+   "citroen",
+   "c3",
+   "c4",
+   "voiture",
+   "france",
+   "stellantis"
+  ],
+  "enrich": {
+   "domaine": "citroen.fr",
+   "histoire": "Constructeur français fondé en 1919 par André Citroën, célèbre pour la Traction Avant et la 2 CV."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "DS Automobiles",
+   "marques": [
+    "DS"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Marque premium française du groupe Stellantis, produite en France et Chine."
+  },
+  "source": "Wikipémie — DS Automobiles — https://fr.wikipedia.org/wiki/DS_Automobiles",
+  "produits": [
+   {
+    "nom": "DS 7 Crossback",
+    "assemblage": "France",
+    "origine_pieces": "France, Chine"
+   }
+  ],
+  "motsCles": [
+   "ds",
+   "ds 7",
+   "premium",
+   "voiture",
+   "france",
+   "stellantis"
+  ],
+  "enrich": {
+   "domaine": "dsautomobiles.fr",
+   "histoire": "Marque premium française lancée en 2014 par Stellantis, descendant de la DS historique de 1955."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Volvo Cars",
+   "marques": [
+    "Volvo"
+   ],
+   "siege": "Suède (Göteborg)",
+   "siege_pays": "SE",
+   "statut": "a_ecarter",
+   "sous_categorie": "Marques sous contrôle chinois",
+   "commentaire": "Constructeur suédois racheté par le chinois Geely en 2010. À écarter."
+  },
+  "source": "Wikipémie — Volvo — https://fr.wikipedia.org/wiki/Volvo",
+  "produits": [
+   {
+    "nom": "Volvo XC60",
+    "assemblage": "Suède",
+    "origine_pieces": "Suède, Chine, Belgique"
+   }
+  ],
+  "motsCles": [
+   "volvo",
+   "xc60",
+   "suv",
+   "securite",
+   "suede",
+   "chine",
+   "geely"
+  ],
+  "enrich": {
+   "domaine": "volvocars.com",
+   "histoire": "Constructeur suédois fondé en 1927 à Göteborg, racheté par le chinois Geely en 2010."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "MG",
+   "marques": [
+    "MG"
+   ],
+   "siege": "Chine (Ningbo) — marque britannique historique",
+   "siege_pays": "CN",
+   "statut": "a_ecarter",
+   "sous_categorie": "Marques sous contrôle chinois",
+   "commentaire": "Marque britannique historique rachetée par le chinois SAIC. À écarter."
+  },
+  "source": "Wikipémie — MG (automobile) — https://fr.wikipedia.org/wiki/MG_(automobile)",
+  "produits": [
+   {
+    "nom": "MG 4 électrique",
+    "assemblage": "Chine",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "mg",
+   "mg4",
+   "electrique",
+   "voiture",
+   "chine",
+   "saic"
+  ],
+  "enrich": {
+   "domaine": "mgmotor.fr",
+   "histoire": "Marque britannique fondée en 1924, rachetée par le chinois SAIC en 2005, aujourd'hui 100 % électrique."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Tesla",
+   "marques": [
+    "Tesla",
+    "Model 3",
+    "Model Y"
+   ],
+   "siege": "États-Unis (Austin, Texas)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Constructeur américain de voitures électriques. Hors de vos zones."
+  },
+  "source": "Wikipémie — Tesla (entreprise) — https://fr.wikipedia.org/wiki/Tesla_(entreprise)",
+  "produits": [
+   {
+    "nom": "Tesla Model Y",
+    "assemblage": "États-Unis / Chine / Allemagne",
+    "origine_pieces": "Chine, États-Unis, Allemagne"
+   }
+  ],
+  "motsCles": [
+   "tesla",
+   "model y",
+   "model 3",
+   "electrique",
+   "voiture",
+   "usa",
+   "elon musk"
+  ],
+  "enrich": {
+   "domaine": "tesla.com",
+   "histoire": "Constructeur américain fondé en 2003, leader mondial de la voiture électrique (Model 3, Model Y)."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Mama Shelter",
+   "marques": [
+    "Mama Shelter"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Chaîne d'hôtels lifestyle française fondée en 2008."
+  },
+  "source": "Site officiel — Mama Shelter — https://www.mamashelter.com/",
+  "produits": [
+   {
+    "nom": "Nuit Mama Shelter Paris",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "mama shelter",
+   "hotel",
+   "paris",
+   "design",
+   "france",
+   "lifestyle"
+  ],
+  "enrich": {
+   "domaine": "mamashelter.com",
+   "histoire": "Chaîne française fondée en 2008 par les frères Trigano (Accor), présente dans une quinzaine de villes."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "HotelF1 (Accor)",
+   "marques": [
+    "Hotel F1"
+   ],
+   "siege": "France (Issy-les-Moulineaux)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Hôtels super-économiques de la gamme F1 d'Accor."
+  },
+  "source": "Wikipémie — Accor — https://fr.wikipedia.org/wiki/Accor",
+  "produits": [
+   {
+    "nom": "Nuit hôtel F1",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "hotel f1",
+   "f1",
+   "hotel pas cher",
+   "accor",
+   "france",
+   "budget"
+  ],
+  "enrich": {
+   "domaine": "hotel-f1.com",
+   "histoire": "Gamme super-économique du groupe Accor, lancée en 2006, avec plus de 200 hôtels en France."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Kyriad",
+   "marques": [
+    "Kyriad"
+   ],
+   "siege": "France (Montrouge)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Réseau hôtelier français du groupe Louvre Hotels Group."
+  },
+  "source": "Wikipémie — Kyriad — https://fr.wikipedia.org/wiki/Kyriad",
+  "produits": [
+   {
+    "nom": "Nuit hôtel Kyriad",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "kyriad",
+   "hotel",
+   "france",
+   "3 etoiles"
+  ],
+  "enrich": {
+   "domaine": "kyriad.com",
+   "histoire": "Réseau français de plus de 400 hôtels lancé en 1985, membre du Louvre Hotels Group."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Ruby Hotels",
+   "marques": [
+    "Ruby"
+   ],
+   "siege": "Allemagne (Düsseldorf)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Petite chaîne d'hôtels design allemande fondée en 2013. UE."
+  },
+  "source": "Site officiel — Ruby Hotels — https://www.ruby-hotels.com/",
+  "produits": [
+   {
+    "nom": "Nuit Ruby Hotel (Berlin, Hambourg…)",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "ruby",
+   "hotel",
+   "allemagne",
+   "design",
+   "berlin"
+  ],
+  "enrich": {
+   "domaine": "ruby-hotels.com",
+   "histoire": "Chaîne allemande fondée en 2013, une dizaine d'hôtels design dans les grandes villes allemandes."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Meininger",
+   "marques": [
+    "Meininger"
+   ],
+   "siege": "Allemagne (Berlin)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Chaîne d'hôtels hybrides/auberges urbaines allemande fondée en 1999. UE."
+  },
+  "source": "Wikipémie — Meininger Hotels — https://en.wikipedia.org/wiki/Meininger_Hotels",
+  "produits": [
+   {
+    "nom": "Nuit Meininger (auberge/hôtel hybride)",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "meininger",
+   "auberge",
+   "hotel",
+   "berlin",
+   "allemagne",
+   "jeunes"
+  ],
+  "enrich": {
+   "domaine": "meininger-hotels.com",
+   "histoire": "Chaîne allemande fondée en 1999 à Berlin, à mi-chemin entre auberge de jeunesse et hôtel design."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Arte",
+   "marques": [
+    "Arte"
+   ],
+   "siege": "France / Allemagne (Strasbourg / Baden-Baden)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Chaîne franco-allemande culturelle et replay arte.tv, service public. UE."
+  },
+  "source": "Wikipémie — Arte — https://fr.wikipedia.org/wiki/Arte",
+  "produits": [
+   {
+    "nom": "Replay arte.tv",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France, Allemagne"
+   }
+  ],
+  "motsCles": [
+   "arte",
+   "arte.tv",
+   "replay",
+   "documentaire",
+   "culture",
+   "france",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "arte.tv",
+   "histoire": "Chaîne culturelle franco-allemande fondée en 1991, avec une plateforme de replay riche en documentaires."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "France.tv",
+   "marques": [
+    "France.tv"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Plateforme de replay du service public français (France Télévisions)."
+  },
+  "source": "Wikipémie — France.tv — https://fr.wikipedia.org/wiki/France.tv",
+  "produits": [
+   {
+    "nom": "Replay France.tv",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "france.tv",
+   "replay",
+   "france televisions",
+   "tv",
+   "france",
+   "service public"
+  ],
+  "enrich": {
+   "domaine": "france.tv",
+   "histoire": "Plateforme de replay gratuite de France Télévisions, lancée en 2017, regroupant les programmes des chaînes publiques."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "6play (M6)",
+   "marques": [
+    "6play"
+   ],
+   "siege": "France (Neuilly-sur-Seine)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Plateforme de replay du groupe M6 (M6, W9, 6ter)."
+  },
+  "source": "Wikipémie — M6 (entreprise) — https://fr.wikipedia.org/wiki/M6_(entreprise)",
+  "produits": [
+   {
+    "nom": "Replay 6play",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "6play",
+   "m6",
+   "replay",
+   "tv",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "6play.fr",
+   "histoire": "Service de replay du groupe M6 lancé en 2008, gratuit avec publicité."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "myCANAL (Canal+)",
+   "marques": [
+    "myCANAL"
+   ],
+   "siege": "France (Issy-les-Moulineaux)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Plateforme de streaming du groupe Canal+ (Vivendi)."
+  },
+  "source": "Wikipémie — Canal+ — https://fr.wikipedia.org/wiki/Canal%2B",
+  "produits": [
+   {
+    "nom": "Abonnement myCANAL",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "mycanal",
+   "canal+",
+   "streaming",
+   "series",
+   "films",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "canalplus.com",
+   "histoire": "Groupe audiovisuel français fondé en 1984, sa plateforme myCANAL diffuse chaînes, films et séries en streaming."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Molotov",
+   "marques": [
+    "Molotov"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Agrégateur de TV en ligne français fondé en 2016 (TV live + replay + SVOD)."
+  },
+  "source": "Wikipémie — Molotov (entreprise) — https://fr.wikipedia.org/wiki/Molotov_(entreprise)",
+  "produits": [
+   {
+    "nom": "Application Molotov (TV live + replay)",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "molotov",
+   "tv en ligne",
+   "replay",
+   "tv live",
+   "france",
+   "gratuit"
+  ],
+  "enrich": {
+   "domaine": "molotov.tv",
+   "histoire": "Service français lancé en 2016, agrégateur de chaînes TV en direct et de replays, gratuit avec options payantes."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Dailymotion",
+   "marques": [
+    "Dailymotion"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Plateforme vidéo française (Vivendi) fondée en 2005."
+  },
+  "source": "Wikipémie — Dailymotion — https://fr.wikipedia.org/wiki/Dailymotion",
+  "produits": [
+   {
+    "nom": "Vidéos Dailymotion",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "dailymotion",
+   "video",
+   "streaming",
+   "france",
+   "vivendi"
+  ],
+  "enrich": {
+   "domaine": "dailymotion.com",
+   "histoire": "Plateforme vidéo française fondée en 2005 à Paris, propriété de Vivendi, concurrente de YouTube."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Rakuten TV",
+   "marques": [
+    "Rakuten TV"
+   ],
+   "siege": "France (Paris) — groupe japonais Rakuten",
+   "siege_pays": "FR",
+   "statut": "rang2",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Plateforme de VOD du groupe japonais Rakuten, siège Europe à Paris. Haute démocratie (groupe JP)."
+  },
+  "source": "Wikipémie — Rakuten — https://fr.wikipedia.org/wiki/Rakuten",
+  "produits": [
+   {
+    "nom": "VOD Rakuten TV",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "Japon, France"
+   }
+  ],
+  "motsCles": [
+   "rakuten",
+   "vod",
+   "films",
+   "streaming",
+   "japon",
+   "paris"
+  ],
+  "enrich": {
+   "domaine": "rakuten.tv",
+   "histoire": "Plateforme de vidéo à la demande du groupe japonais Rakuten, dont le siège européen est à Paris."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Disney+",
+   "marques": [
+    "Disney+"
+   ],
+   "siege": "États-Unis (Burbank)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Service de streaming de Disney (États-Unis). Hors de vos zones."
+  },
+  "source": "Wikipémie — Disney+ — https://fr.wikipedia.org/wiki/Disney%2B",
+  "produits": [
+   {
+    "nom": "Abonnement Disney+",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "disney+",
+   "streaming",
+   "disney",
+   "films",
+   "series",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "disneyplus.com",
+   "histoire": "Service de streaming lancé en 2019 par la Walt Disney Company, agrégant Disney, Pixar, Marvel, Star Wars."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Paramount+",
+   "marques": [
+    "Paramount+"
+   ],
+   "siege": "États-Unis (New York)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Service de streaming de Paramount Global (États-Unis). Hors de vos zones."
+  },
+  "source": "Wikipémie — Paramount+ — https://en.wikipedia.org/wiki/Paramount%2B",
+  "produits": [
+   {
+    "nom": "Abonnement Paramount+",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "paramount+",
+   "streaming",
+   "films",
+   "series",
+   "usa",
+   "cbs"
+  ],
+  "enrich": {
+   "domaine": "paramountplus.com",
+   "histoire": "Service de streaming américain de Paramount Global (CBS, Paramount Pictures), lancé en 2021."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Lidl",
+   "marques": [
+    "Lidl"
+   ],
+   "siege": "Allemagne (Neckarsulm)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Grande distribution alimentaire",
+   "commentaire": "Enseigne de hard discount allemande (groupe Schwarz), 12 000+ magasins en Europe. UE."
+  },
+  "source": "Wikipémie — Lidl — https://fr.wikipedia.org/wiki/Lidl",
+  "produits": [
+   {
+    "nom": "Courses Lidl",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, Europe"
+   }
+  ],
+  "motsCles": [
+   "lidl",
+   "supermarche",
+   "courses",
+   "discount",
+   "allemagne",
+   "pas cher"
+  ],
+  "enrich": {
+   "domaine": "lidl.fr",
+   "histoire": "Enseigne allemande fondée en 1930, membre du groupe Schwarz, l'un des leaders du hard discount en Europe."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Action",
+   "marques": [
+    "Action"
+   ],
+   "siege": "Pays-Bas (IJsselstein)",
+   "siege_pays": "NL",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Enseigne de magasins discount néerlandaise (3 000+ magasins en Europe). UE."
+  },
+  "source": "Wikipémie — Action (entreprise) — https://en.wikipedia.org/wiki/Action_(retailer)",
+  "produits": [
+   {
+    "nom": "Achats maison/déco Action",
+    "assemblage": "Pays-Bas",
+    "origine_pieces": "Chine, Europe"
+   }
+  ],
+  "motsCles": [
+   "action",
+   "magasin discount",
+   "deco",
+   "maison",
+   "pas cher",
+   "pays-bas"
+  ],
+  "enrich": {
+   "domaine": "action.com",
+   "histoire": "Chaîne néerlandaise fondée en 1993, plus de 3 000 magasins discount en Europe (maison, jouets, papeterie)."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Normal",
+   "marques": [
+    "Normal"
+   ],
+   "siege": "Danemark (Copenhague)",
+   "siege_pays": "DK",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Chaîne danoise de magasins discount (cosmétiques, maison) fondée en 2004. UE."
+  },
+  "source": "Wikipémie — Normal (magasins) — https://en.wikipedia.org/wiki/Normal_(retail_chain)",
+  "produits": [
+   {
+    "nom": "Achats Normal (cosmétiques, maison)",
+    "assemblage": "Danemark",
+    "origine_pieces": "Europe, Chine"
+   }
+  ],
+  "motsCles": [
+   "normal",
+   "magasin",
+   "discount",
+   "cosmetique",
+   "danemark"
+  ],
+  "enrich": {
+   "domaine": "normal.com",
+   "histoire": "Chaîne danoise fondée en 2004, spécialisée dans les cosmétiques et articles de maison à prix cassés."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Temu",
+   "marques": [
+    "Temu"
+   ],
+   "siege": "Chine (Boston, bureau US)",
+   "siege_pays": "CN",
+   "statut": "a_ecarter",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Marketplace chinoise de PDD Holdings. À écarter."
+  },
+  "source": "Wikipémie — Temu — https://en.wikipedia.org/wiki/Temu",
+  "produits": [
+   {
+    "nom": "Achat Temu (marketplace)",
+    "assemblage": "Chine (service numérique)",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "temu",
+   "marketplace",
+   "pas cher",
+   "chine",
+   "en ligne"
+  ],
+  "enrich": {
+   "domaine": "temu.com",
+   "histoire": "Marketplace chinois lancé en 2022 par PDD Holdings (propriétaire de Pinduoduo)."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Veepee",
+   "marques": [
+    "Veepee"
+   ],
+   "siege": "France (Saint-Denis)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Site de ventes flash français fondé en 2001 (ex Vente-privée.com)."
+  },
+  "source": "Wikipémie — Veepee — https://fr.wikipedia.org/wiki/Vente-priv%C3%A9e.com",
+  "produits": [
+   {
+    "nom": "Vente flash Veepee",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "veepee",
+   "vente privee",
+   "vente flash",
+   "promo",
+   "france",
+   "en ligne"
+  ],
+  "enrich": {
+   "domaine": "veepee.fr",
+   "histoire": "Site de ventes privées français fondé en 2001 sous le nom Vente-privée.com, devenu Veepee en 2019."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Zalando",
+   "marques": [
+    "Zalando"
+   ],
+   "siege": "Allemagne (Berlin)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "E-commerce européen de mode fondé en 2008 à Berlin. UE."
+  },
+  "source": "Wikipémie — Zalando — https://fr.wikipedia.org/wiki/Zalando",
+  "produits": [
+   {
+    "nom": "Commande mode Zalando",
+    "assemblage": "Allemagne (service numérique)",
+    "origine_pieces": "Allemagne, Europe"
+   }
+  ],
+  "motsCles": [
+   "zalando",
+   "mode",
+   "vetement",
+   "en ligne",
+   "allemagne",
+   "livraison gratuite"
+  ],
+  "enrich": {
+   "domaine": "zalando.fr",
+   "histoire": "E-commerce de mode européen fondé en 2008 à Berlin, leader européen de la vente de vêtements en ligne."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Sarenza",
+   "marques": [
+    "Sarenza"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "E-commerce français de chaussures fondé en 2006.",
+   "source": "Wikipémie — Sarenza — https://fr.wikipedia.org/wiki/Sarenza",
+   "produits": [
+    {
+     "nom": "Chaussures Sarenza en ligne",
+     "assemblage": "France (service numérique)",
+     "origine_pieces": "France"
+    }
+   ],
+   "motsCles": [
+    "sarenza",
+    "chaussures",
+    "en ligne",
+    "france",
+    "basket",
+    "ville"
+   ],
+   "enrich": {
+    "domaine": "sarenza.com",
+    "histoire": "Site français de vente de chaussures en ligne fondé en 2006 à Paris."
+   }
+  },
+  "fait": false,
+  "produits": []
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Cdiscount",
+   "marques": [
+    "Cdiscount"
+   ],
+   "siege": "France (Bordeaux)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Marketplace française du groupe Casino fondée en 1998."
+  },
+  "source": "Wikipémie — Cdiscount — https://fr.wikipedia.org/wiki/Cdiscount",
+  "produits": [
+   {
+    "nom": "Achat marketplace Cdiscount",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "cdiscount",
+   "marketplace",
+   "en ligne",
+   "france",
+   "casino",
+   "pas cher"
+  ],
+  "enrich": {
+   "domaine": "cdiscount.com",
+   "histoire": "Marketplace française fondée en 1998, membre du groupe Casino, l'un des leaders du e-commerce français."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Wish",
+   "marques": [
+    "Wish"
+   ],
+   "siege": "États-Unis (San Francisco)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Marketplace américain (ContextLogic). Hors de vos zones."
+  },
+  "source": "Wikipémie — Wish (entreprise) — https://en.wikipedia.org/wiki/Wish_(company)",
+  "produits": [
+   {
+    "nom": "Achat Wish (marketplace)",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "wish",
+   "marketplace",
+   "usa",
+   "pas cher",
+   "en ligne"
+  ],
+  "enrich": {
+   "domaine": "wish.com",
+   "histoire": "Marketplace américain fondé en 2010 à San Francisco, connu pour ses prix très bas."
+  },
+  "fait": false
+ }
+]
