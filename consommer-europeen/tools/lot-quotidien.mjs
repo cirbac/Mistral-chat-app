@@ -21,13 +21,6 @@ if (!existsSync(planPath)) {
   process.exit(0);
 }
 const plan = JSON.parse(readFileSync(planPath, 'utf8'));
-const dispo = plan.filter((e) => !e.fait);
-if (!dispo.length) {
-  console.log('Plan épuisé : toutes les entrées sont faites. Ajoute des entrées dans data/plan-ajouts.json.');
-  process.exit(0);
-}
-const lot = dispo.slice(0, N);
-console.log(`Lot du jour : ${lot.length} marque(s) sur ${dispo.length} restantes`);
 
 const secteurs = readdirSync(dataDir).filter((f) => /^secteurs-.*\.json$/.test(f)).sort()
   .flatMap((f) => JSON.parse(readFileSync(join(dataDir, f), 'utf8')));
@@ -45,6 +38,30 @@ const sources = Object.assign({}, ...readdirSync(dataDir).filter((f) => /^source
   .map((f) => JSON.parse(readFileSync(join(dataDir, f), 'utf8'))));
 let nextSource = 0;
 for (const k of Object.keys(sources)) { const v = parseInt(k, 10); if (Number.isFinite(v)) nextSource = Math.max(nextSource, v); }
+const normTxt0 = (t) => String(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+{
+  const nomsExistants0 = new Set();
+  const idsExistants0 = new Set();
+  const scan = (g) => { idsExistants0.add(g.id); nomsExistants0.add(normTxt0(g.groupe)); for (const m of g.marques ?? []) nomsExistants0.add(normTxt0(m)); };
+  for (const sx of secteurs) for (const g of sx.groupes) scan(g);
+  for (const f of readdirSync(dataDir).filter((f) => /^extensions-.*\.json$/.test(f))) {
+    for (const b of Object.values(JSON.parse(readFileSync(join(dataDir, f), 'utf8')))) for (const g of b.groupes ?? []) scan(g);
+  }
+  for (const e of plan) {
+    if (e.fait) continue;
+    const noms = [e.groupe?.groupe, ...(e.groupe?.marques ?? [])].map((x) => normTxt0(x)).filter(Boolean);
+    if (noms.some((n) => nomsExistants0.has(n))) { e.fait = true; e.ignore = 'deja-present'; }
+  }
+  writeFileSync(planPath, JSON.stringify(plan, null, 1) + '\n');
+}
+const dispo = plan.filter((e) => !e.fait);
+if (!dispo.length) {
+  console.log('Plan épuisé : toutes les entrées sont faites. Ajoute des entrées dans data/plan-ajouts.json.');
+  process.exit(0);
+}
+const lot = dispo.slice(0, N);
+console.log(`Lot du jour : ${lot.length} marque(s) sur ${dispo.length} restantes`);
+
 
 const ext = {};
 const src = {};
@@ -52,8 +69,19 @@ const prod = {};
 const mots = JSON.parse(readFileSync(join(dataDir, 'mots-cles-marques.json'), 'utf8'));
 const enr = JSON.parse(readFileSync(join(dataDir, 'marques-enrichies.json'), 'utf8'));
 const aujourdhui = new Date().toISOString().slice(0, 10);
+const normTxt = (t) => String(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
 const dejaVus = new Set();
-for (const s of secteurs) for (const g of s.groupes) dejaVus.add(g.id);
+const nomsExistants = new Set();
+const ajouterGroupeExistant = (g) => {
+  dejaVus.add(g.id);
+  nomsExistants.add(normTxt(g.groupe));
+  for (const m of g.marques ?? []) nomsExistants.add(normTxt(m));
+};
+for (const s of secteurs) for (const g of s.groupes) ajouterGroupeExistant(g);
+for (const f of readdirSync(dataDir).filter((f) => /^extensions-.*\.json$/.test(f))) {
+  const ext = JSON.parse(readFileSync(join(dataDir, f), 'utf8'));
+  for (const block of Object.values(ext)) for (const g of block.groupes ?? []) ajouterGroupeExistant(g);
+}
 
 for (const e of lot) {
   const s = secteurByNum.get(e.num);

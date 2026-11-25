@@ -2655,5 +2655,1430 @@
    "histoire": "Marketplace américain fondé en 2010 à San Francisco, connu pour ses prix très bas."
   },
   "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "BSH (Bosch Siemens)",
+   "marques": [
+    "Bosch",
+    "Siemens"
+   ],
+   "siege": "Allemagne (Munich)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Gros électroménager",
+   "commentaire": "Groupe allemand BSH (Bosch, Siemens, Gaggenau, Neff), leader européen de l'électroménager. UE."
+  },
+  "source": "Wikipédia — BSH Hausgeräte — https://fr.wikipedia.org/wiki/BSH_Hausger%C3%A4te",
+  "produits": [
+   {
+    "nom": "Lave-vaisselle Bosch",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Allemagne, Pologne, Turquie"
+   }
+  ],
+  "motsCles": [
+   "bosch",
+   "siemens",
+   "lave-vaisselle",
+   "four",
+   "lave-linge",
+   "electromenager",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "bsh-group.com",
+   "histoire": "Groupe allemand BSH fondée en 1967 (joint-venture Bosch-Siemens), leader européen du gros électroménager."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "SEB (Tefal, Rowenta, Moulinex)",
+   "marques": [
+    "Tefal",
+    "Rowenta",
+    "Moulinex"
+   ],
+   "siege": "France (Écully)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Groupe français SEB, n°1 mondial du petit électroménager (poêles Tefal, fers Rowenta)."
+  },
+  "source": "Wikipédie — Groupe SEB — https://fr.wikipedia.org/wiki/Groupe_SEB",
+  "produits": [
+   {
+    "nom": "Poêle Tefal",
+    "assemblage": "France",
+    "origine_pieces": "France, Chine"
+   }
+  ],
+  "motsCles": [
+   "tefal",
+   "rowenta",
+   "moulinex",
+   "poele",
+   "fer a repasser",
+   "petit electromenager",
+   "seb",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "groupeseb.com",
+   "histoire": "Groupe SEB fondé en 1857 à Selongey, leader mondial du petit électroménager avec Tefal, Rowenta, Moulinex, Krups et Lagostina."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Klarstein",
+   "marques": [
+    "Klarstein"
+   ],
+   "siege": "Allemagne (Berlin)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Marque allemande d'électroménager et cuisine design, vendue en ligne. UE."
+  },
+  "source": "Site officiel — Klarstein — https://www.klarstein.com/",
+  "produits": [
+   {
+    "nom": "Robot de cuisine Klarstein",
+    "assemblage": "Allemagne",
+    "origine_pieces": "Chine"
+   }
+  ],
+  "motsCles": [
+   "klarstein",
+   "robot cuisine",
+   "electromenager",
+   "design",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "klarstein.com",
+   "histoire": "Marque berlinoise fondée en 2005, spécialisée dans l'électroménager design vendu en ligne."
+  },
+  "fait": false
+ },
+ {
+  "num": "04",
+  "groupe": {
+   "groupe": "Philips Domestic Appliances",
+   "marques": [
+    "Philips"
+   ],
+   "siege": "Pays-Bas (Amsterdam)",
+   "siege_pays": "NL",
+   "statut": "rang1",
+   "sous_categorie": "Petit électroménager",
+   "commentaire": "Petit électroménager Philips (Philips Domestic Appliances, ex-Versuni). UE."
+  },
+  "source": "Wikipémie — Versuni — https://en.wikipedia.org/wiki/Versuni",
+  "produits": [
+   {
+    "nom": "Bouilloire Philips",
+    "assemblage": "Pologne",
+    "origine_pieces": "Pays-Bas, Chine"
+   }
+  ],
+  "motsCles": [
+   "philips",
+   "bouilloire",
+   "petit electromenager",
+   "pays-bas"
+  ],
+  "enrich": {
+   "domaine": "philips.com",
+   "histoire": "Activité petit électroménager de Philips, cédée en 2021 à Versuni (Pays-Bas)."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Generator Hostels",
+   "marques": [
+    "Generator"
+   ],
+   "siege": "Royaume-Uni (Londres)",
+   "siege_pays": "GB",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Chaîne d'hôtels/auberges urbaines design fondée à Londres en 2005."
+  },
+  "source": "Site officiel — Generator — https://generatorhostels.com/",
+  "produits": [
+   {
+    "nom": "Nuit Generator (auberge design)",
+    "assemblage": "Royaume-Uni",
+    "origine_pieces": "Royaume-Uni"
+   }
+  ],
+  "motsCles": [
+   "generator",
+   "auberge",
+   "hotel",
+   "londres",
+   "royaume-uni",
+   "design"
+  ],
+  "enrich": {
+   "domaine": "generatorhostels.com",
+   "histoire": "Chaîne fondée à Londres en 2005, une vingtaine d'adresses design en Europe et aux États-Unis."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Safestay",
+   "marques": [
+    "Safestay"
+   ],
+   "siege": "Royaume-Uni (Londres)",
+   "siege_pays": "GB",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Auberges urbaines britanniques Safestay (Londres, Paris…)."
+  },
+  "source": "Site officiel — Safestay — https://www.safestay.com/",
+  "produits": [
+   {
+    "nom": "Nuit Safestay (auberge)",
+    "assemblage": "Royaume-Uni",
+    "origine_pieces": "Royaume-Uni"
+   }
+  ],
+  "motsCles": [
+   "safestay",
+   "auberge",
+   "hotel",
+   "londres"
+  ],
+  "enrich": {
+   "domaine": "safestay.com",
+   "histoire": "Chaîne d'auberges urbaines fondée à Londres en 2011, présente dans plusieurs capitales européennes."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Stayokay",
+   "marques": [
+    "Stayokay"
+   ],
+   "siege": "Pays-Bas (Haarlem)",
+   "siege_pays": "NL",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Auberges de jeunesse néerlandaises Stayokay (Amsterdam, Haarlem). UE."
+  },
+  "source": "Site officiel — Stayokay — https://www.stayokay.com/",
+  "produits": [
+   {
+    "nom": "Nuit Stayokay Amsterdam",
+    "assemblage": "Pays-Bas",
+    "origine_pieces": "Pays-Bas"
+   }
+  ],
+  "motsCles": [
+   "stayokay",
+   "auberge de jeunesse",
+   "amsterdam",
+   "pays-bas"
+  ],
+  "enrich": {
+   "domaine": "stayokay.com",
+   "histoire": "Réseau d'auberges néerlandais fondé en 1929, très présent à Amsterdam."
+  },
+  "fait": false
+ },
+ {
+  "num": "16",
+  "groupe": {
+   "groupe": "Wombat's",
+   "marques": [
+    "Wombat's"
+   ],
+   "siege": "Autriche (Vienne)",
+   "siege_pays": "AT",
+   "statut": "rang1",
+   "sous_categorie": "Groupes hôteliers",
+   "commentaire": "Auberges urbaines autrichiennes Wombat's (Vienne, Berlin, Londres…). UE."
+  },
+  "source": "Site officiel — Wombat's — https://www.wombats.com/",
+  "produits": [
+   {
+    "nom": "Nuit Wombat's Vienne",
+    "assemblage": "Autriche",
+    "origine_pieces": "Autriche"
+   }
+  ],
+  "motsCles": [
+   "wombats",
+   "auberge",
+   "vienne",
+   "autriche"
+  ],
+  "enrich": {
+   "domaine": "wombats.com",
+   "histoire": "Chaîne d'auberges fondée à Vienne en 2004, présente dans 7 villes européennes."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Qobuz",
+   "marques": [
+    "Qobuz"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Musique, livres audio et radio",
+   "commentaire": "Service français de streaming musical haute fidélité et téléchargement (FLAC)."
+  },
+  "source": "Wikipémie — Qobuz — https://fr.wikipedia.org/wiki/Qobuz",
+  "produits": [
+   {
+    "nom": "Abonnement streaming Qobuz Hi-Fi",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "qobuz",
+   "musique",
+   "streaming",
+   "hifi",
+   "flac",
+   "hi-res",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "qobuz.com",
+   "histoire": "Service français fondé en 2007 à Paris, pionnier du streaming musical en qualité Hi-Res."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "SoundCloud",
+   "marques": [
+    "SoundCloud"
+   ],
+   "siege": "Allemagne (Berlin)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Musique, livres audio et radio",
+   "commentaire": "Plateforme allemande de partage musical fondée en 2007. UE."
+  },
+  "source": "Wikipémie — SoundCloud — https://fr.wikipedia.org/wiki/SoundCloud",
+  "produits": [
+   {
+    "nom": "Abonnement SoundCloud Go+",
+    "assemblage": "Allemagne (service numérique)",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "soundcloud",
+   "musique",
+   "streaming",
+   "artistes independants",
+   "allemagne"
+  ],
+  "enrich": {
+   "domaine": "soundcloud.com",
+   "histoire": "Plateforme berlinoise fondée en 2007, connue pour héberger les artistes indépendants."
+  },
+  "fait": false
+ },
+ {
+  "num": "20",
+  "groupe": {
+   "groupe": "Vimeo",
+   "marques": [
+    "Vimeo"
+   ],
+   "siege": "États-Unis (New York)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Télévision et vidéo en ligne",
+   "commentaire": "Plateforme vidéo américaine (créateurs). Hors de vos zones."
+  },
+  "source": "Wikipémie — Vimeo — https://fr.wikipedia.org/wiki/Vimeo",
+  "produits": [
+   {
+    "nom": "Abonnement Vimeo",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "vimeo",
+   "video",
+   "streaming",
+   "createurs",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "vimeo.com",
+   "histoire": "Plateforme vidéo américaine fondée en 2004, orientée créateurs et professionnels."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Go Sport",
+   "marques": [
+    "Go Sport"
+   ],
+   "siege": "France (Sassenage)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Enseigne française de sport (groupe Intersport? non — Euris/HPB)."
+  },
+  "source": "Wikipémie — Go Sport — https://fr.wikipedia.org/wiki/Go_Sport",
+  "produits": [
+   {
+    "nom": "Article de sport Go Sport",
+    "assemblage": "France",
+    "origine_pieces": "France, Europe"
+   }
+  ],
+  "motsCles": [
+   "go sport",
+   "sport",
+   "magasin",
+   "france",
+   "running",
+   "fitness"
+  ],
+  "enrich": {
+   "domaine": "go-sport.com",
+   "histoire": "Enseigne française de distribution sportive fondée en 1978, environ 150 magasins en France."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Intersport",
+   "marques": [
+    "Intersport"
+   ],
+   "siege": "France (Longvic)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Coopérative française de magasins de sport fondée en 1968."
+  },
+  "source": "Wikipémie — Intersport — https://fr.wikipedia.org/wiki/Intersport",
+  "produits": [
+   {
+    "nom": "Article de sport Intersport",
+    "assemblage": "France",
+    "origine_pieces": "France, Europe"
+   }
+  ],
+  "motsCles": [
+   "intersport",
+   "sport",
+   "magasin",
+   "france",
+   "coopérative"
+  ],
+  "enrich": {
+   "domaine": "intersport.fr",
+   "histoire": "Coopérative de commerçants sportifs fondée en 1968, plus de 600 magasins en France."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Cultura",
+   "marques": [
+    "Cultura"
+   ],
+   "siege": "France (Mérignac)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Enseigne française de loisirs créatifs (groupe Mulliez/Auchan)."
+  },
+  "source": "Wikipémie — Cultura — https://fr.wikipedia.org/wiki/Cultura",
+  "produits": [
+   {
+    "nom": "Fournitures loisirs créatifs Cultura",
+    "assemblage": "France",
+    "origine_pieces": "France, Chine"
+   }
+  ],
+  "motsCles": [
+   "cultura",
+   "loisirs creatifs",
+   "peinture",
+   "dessin",
+   "bricolage",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "cultura.com",
+   "histoire": "Enseigne française fondée en 1998, leader des loisirs créatifs (peinture, scrapbooking, déco)."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Micromania",
+   "marques": [
+    "Micromania"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Enseigne française de jeux vidéo et produits dérivés (GameStop Group)."
+  },
+  "source": "Wikipémie — Micromania — https://fr.wikipedia.org/wiki/Micromania",
+  "produits": [
+   {
+    "nom": "Jeu vidéo neuf Micromania",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "micromania",
+   "jeu video",
+   "magasin",
+   "france",
+   "gaming"
+  ],
+  "enrich": {
+   "domaine": "micromania.fr",
+   "histoire": "Enseigne française fondée en 1983, spécialisée dans les jeux vidéo neufs et d'occasion."
+  },
+  "fait": false
+ },
+ {
+  "num": "12",
+  "groupe": {
+   "groupe": "Nature & Découvertes",
+   "marques": [
+    "Nature & Découvertes"
+   ],
+   "siege": "France (Versailles)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Équipement, maison et commerce en ligne",
+   "commentaire": "Enseigne française de produits nature, bien-être et jouets écologiques (groupe Armonia)."
+  },
+  "source": "Site officiel — Nature & Découvertes — https://www.natureetdecouvertes.com/",
+  "produits": [
+   {
+    "nom": "Produit nature/écolo Nature & Découvertes",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "nature et decouvertes",
+   "ecolo",
+   "bio",
+   "jouet ecologique",
+   "bien-etre",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "natureetdecouvertes.com",
+   "histoire": "Enseigne française fondée en 1990 à Versailles, spécialisée dans les produits naturels et les cadeaux éco-responsables."
+  },
+  "fait": false
+ },
+ {
+  "num": "07",
+  "groupe": {
+   "groupe": "Tuta (ex-Tutanota)",
+   "marques": [
+    "Tuta"
+   ],
+   "siege": "Allemagne (Hanovre)",
+   "siege_pays": "DE",
+   "statut": "rang1",
+   "sous_categorie": "Courrier, stockage et bureautique",
+   "commentaire": "Messagerie chiffrée allemande (ex-Tutanota), rachetée... restée allemande. UE."
+  },
+  "source": "Wikipémie — Tuta — https://en.wikipedia.org/wiki/Tuta_(email_service)",
+  "produits": [
+   {
+    "nom": "Compte mail chiffré Tuta",
+    "assemblage": "Allemagne (service numérique)",
+    "origine_pieces": "Allemagne"
+   }
+  ],
+  "motsCles": [
+   "tuta",
+   "tutanota",
+   "mail chiffre",
+   "email securise",
+   "allemagne",
+   "prive"
+  ],
+  "enrich": {
+   "domaine": "tuta.com",
+   "histoire": "Service de messagerie chiffrée allemand fondé en 2011 sous le nom Tutanota, devenu Tuta en 2023."
+  },
+  "fait": false
+ },
+ {
+  "num": "07",
+  "groupe": {
+   "groupe": "Mailfence",
+   "marques": [
+    "Mailfence"
+   ],
+   "siege": "Belgique (Bruxelles)",
+   "siege_pays": "BE",
+   "statut": "rang1",
+   "sous_categorie": "Courrier, stockage et bureautique",
+   "commentaire": "Messagerie sécurisée belge avec chiffrement de bout en bout. UE."
+  },
+  "source": "Site officiel — Mailfence — https://mailfence.com/",
+  "produits": [
+   {
+    "nom": "Compte Mailfence (mail + cloud chiffré)",
+    "assemblage": "Belgique (service numérique)",
+    "origine_pieces": "Belgique"
+   }
+  ],
+  "motsCles": [
+   "mailfence",
+   "mail chiffre",
+   "email securise",
+   "belgique",
+   "cloud prive"
+  ],
+  "enrich": {
+   "domaine": "mailfence.com",
+   "histoire": "Service belge lancé en 2013, messagerie et suite bureautique chiffrée de bout en bout."
+  },
+  "fait": false
+ },
+ {
+  "num": "07",
+  "groupe": {
+   "groupe": "CryptPad",
+   "marques": [
+    "CryptPad"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Courrier, stockage et bureautique",
+   "commentaire": "Suite collaborative chiffrée française (XWiki)."
+  },
+  "source": "Site officiel — CryptPad — https://cryptpad.org/",
+  "produits": [
+   {
+    "nom": "Suite collaborative chiffrée CryptPad",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "cryptpad",
+   "documents chiffres",
+   "collaboratif",
+   "france",
+   "xwiki"
+  ],
+  "enrich": {
+   "domaine": "cryptpad.org",
+   "histoire": "Projet français lancé en 2016 par XWiki, suite bureautique entièrement chiffrée côté client."
+  },
+  "fait": false
+ },
+ {
+  "num": "07",
+  "groupe": {
+   "groupe": "DuckDuckGo",
+   "marques": [
+    "DuckDuckGo"
+   ],
+   "siege": "États-Unis (Paoli, Pennsylvanie)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Moteurs de recherche",
+   "commentaire": "Moteur de recherche américain privé. Hors de vos zones."
+  },
+  "source": "Wikipémie — DuckDuckGo — https://fr.wikipedia.org/wiki/DuckDuckGo",
+  "produits": [
+   {
+    "nom": "Recherche DuckDuckGo",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "duckduckgo",
+   "moteur recherche",
+   "prive",
+   "sans tracking",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "duckduckgo.com",
+   "histoire": "Moteur américain fondé en 2008, pionnier de la recherche sans tracking."
+  },
+  "fait": false
+ },
+ {
+  "num": "07",
+  "groupe": {
+   "groupe": "Brave",
+   "marques": [
+    "Brave"
+   ],
+   "siege": "États-Unis (San Francisco)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Navigateurs web",
+   "commentaire": "Navigateur américain privé (Chromium) avec Brave Rewards. Hors de vos zones."
+  },
+  "source": "Wikipémie — Brave (navigateur) — https://fr.wikipedia.org/wiki/Brave_(navigateur_web)",
+  "produits": [
+   {
+    "nom": "Navigateur Brave",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "brave",
+   "navigateur",
+   "prive",
+   "bloqueur pub",
+   "usa",
+   "chromium"
+  ],
+  "enrich": {
+   "domaine": "brave.com",
+   "histoire": "Navigateur lancé en 2016 par Brendan Eich (cofondateur de Mozilla), basé sur Chromium."
+  },
+  "fait": false
+ },
+ {
+  "num": "07",
+  "groupe": {
+   "groupe": "Tor Browser",
+   "marques": [
+    "Tor"
+   ],
+   "siege": "États-Unis (projet Tor, non lucratif)",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Navigateurs web",
+   "commentaire": "Navigateur anonyme du projet Tor (États-Unis). Hors de vos zones."
+  },
+  "source": "Wikipémie — Tor (réseau) — https://fr.wikipedia.org/wiki/Tor_(réseau)",
+  "produits": [
+   {
+    "nom": "Navigateur Tor",
+    "assemblage": "États-Unis (service numérique)",
+    "origine_pieces": "États-Unis"
+   }
+  ],
+  "motsCles": [
+   "tor",
+   "navigateur anonyme",
+   "vie privee",
+   "onion",
+   "usa"
+  ],
+  "enrich": {
+   "domaine": "torproject.org",
+   "histoire": "Navigateur basé sur Firefox développé par le projet Tor (ONG américaine) pour l'anonymat en ligne."
+  },
+  "fait": false
+ },
+ {
+  "num": "10",
+  "groupe": {
+   "groupe": "Etam",
+   "marques": [
+    "Etam"
+   ],
+   "siege": "France (Clichy)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Prêt-à-porter grand public",
+   "commentaire": "Groupe français de lingerie et prêt-à-porter fondé en 1916."
+  },
+  "source": "Wikipémie — Etam — https://fr.wikipedia.org/wiki/Etam",
+  "produits": [
+   {
+    "nom": "Lingerie Etam",
+    "assemblage": "France",
+    "origine_pieces": "France, Chine"
+   }
+  ],
+  "motsCles": [
+   "etam",
+   "lingerie",
+   "sous-vetements",
+   "pret a porter",
+   "france",
+   "clichy"
+  ],
+  "enrich": {
+   "domaine": "etam.com",
+   "histoire": "Groupe français fondé en 1916, leader européen de la lingerie, présent dans 50 pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "10",
+  "groupe": {
+   "groupe": "Princesse tam tam",
+   "marques": [
+    "Princesse tam tam"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Prêt-à-porter grand public",
+   "commentaire": "Marque parisienne de lingerie et maillots de bain fondée en 1985."
+  },
+  "source": "Wikipémie — Princesse tam tam — https://fr.wikipedia.org/wiki/Princesse_tam_tam",
+  "produits": [
+   {
+    "nom": "Maillot de bain Princesse tam tam",
+    "assemblage": "France",
+    "origine_pieces": "France, Chine"
+   }
+  ],
+  "motsCles": [
+   "princesse tam tam",
+   "lingerie",
+   "maillot de bain",
+   "france",
+   "paris"
+  ],
+  "enrich": {
+   "domaine": "princessetamtam.com",
+   "histoire": "Marque parisienne fondée en 1985, spécialiste de la lingerie et des maillots de bain colorés."
+  },
+  "fait": false
+ },
+ {
+  "num": "10",
+  "groupe": {
+   "groupe": "Undiz",
+   "marques": [
+    "Undiz"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Prêt-à-porter grand public",
+   "commentaire": "Marque de lingerie jeune du groupe Etam, fondée en 2007."
+  },
+  "source": "Site officiel — Undiz — https://www.undiz.com/",
+  "produits": [
+   {
+    "nom": "Lingerie Undiz",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "undiz",
+   "lingerie",
+   "jeune",
+   "etam",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "undiz.com",
+   "histoire": "Marque lancée en 2007 par le groupe Etam, lingerie jeune à prix accessibles."
+  },
+  "fait": false
+ },
+ {
+  "num": "10",
+  "groupe": {
+   "groupe": "Camaïeu",
+   "marques": [
+    "Camaïeu"
+   ],
+   "siege": "France (Roubaix)",
+   "siege_pays": "FR",
+   "statut": "vigilance",
+   "sous_categorie": "Prêt-à-porter grand public",
+   "commentaire": "Marque française de prêt-à-porter féminin fondée en 1975 (reprise par HPB/Foncière). Vigilance."
+  },
+  "source": "Wikipémie — Camaïeu — https://fr.wikipedia.org/wiki/Cama%C3%AFeu",
+  "produits": [
+   {
+    "nom": "Manteau Camaïeu",
+    "assemblage": "France",
+    "origine_pieces": "Chine, France"
+   }
+  ],
+  "motsCles": [
+   "camaieu",
+   "pret a porter",
+   "femme",
+   "manteau",
+   "france",
+   "roubaix"
+  ],
+  "enrich": {
+   "domaine": "camaieu.com",
+   "histoire": "Marque nordiste fondée en 1975 à Roubaix, connue pour ses basiques féminins."
+  },
+  "fait": false
+ },
+ {
+  "num": "10",
+  "groupe": {
+   "groupe": "Ysé",
+   "marques": [
+    "Ysé"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Prêt-à-porter grand public",
+   "commentaire": "Marque parisienne de prêt-à-porter féminin responsable fondée en 2013."
+  },
+  "source": "Site officiel — Ysé — https://www.yyse.com/",
+  "produits": [
+   {
+    "nom": "Robe Ysé",
+    "assemblage": "France",
+    "origine_pieces": "France, Portugal"
+   }
+  ],
+  "motsCles": [
+   "yse",
+   "robe",
+   "pret a porter feminin",
+   "responsable",
+   "paris",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "yyse.com",
+   "histoire": "Marque parisienne fondée en 2013 par Anna Rose, prêt-à-porter féminin à fabrication majoritairement européenne."
+  },
+  "fait": false
+ },
+ {
+  "num": "10",
+  "groupe": {
+   "groupe": "Desigual",
+   "marques": [
+    "Desigual"
+   ],
+   "siege": "Espagne (Barcelone)",
+   "siege_pays": "ES",
+   "statut": "rang1",
+   "sous_categorie": "Prêt-à-porter grand public",
+   "commentaire": "Marque espagnole de vêtements colorés fondée en 1984 (designs patchwork). UE."
+  },
+  "source": "Wikipémie — Desigual — https://fr.wikipedia.org/wiki/Desigual",
+  "produits": [
+   {
+    "nom": "Jean Desigual",
+    "assemblage": "Espagne",
+    "origine_pieces": "Chine, Espagne"
+   }
+  ],
+  "motsCles": [
+   "desigual",
+   "vetement colore",
+   "patchwork",
+   "espagne",
+   "barcelone"
+  ],
+  "enrich": {
+   "domaine": "desigual.com",
+   "histoire": "Marque barcelonaise fondée en 1984 par Thomas Meyer, célèbre pour ses motifs colorés."
+  },
+  "fait": false
+ },
+ {
+  "num": "19",
+  "groupe": {
+   "groupe": "Bucherer",
+   "marques": [
+    "Bucherer",
+    "Carl F. Bucherer"
+   ],
+   "siege": "Suisse (Lucerne)",
+   "siege_pays": "CH",
+   "statut": "rang1",
+   "sous_categorie": "Bijouterie",
+   "commentaire": "Joaillier-horloger suisse familial fondé en 1888 (Carl F. Bucherer, Rolex). UE."
+  },
+  "source": "Wikipémie — Bucherer — https://fr.wikipedia.org/wiki/Bucherer",
+  "produits": [
+   {
+    "nom": "Montre Carl F. Bucherer",
+    "assemblage": "Suisse",
+    "origine_pieces": "Suisse"
+   }
+  ],
+  "motsCles": [
+   "bucherer",
+   "carl f bucherer",
+   "montre",
+   "bijou",
+   "suisse",
+   "lucerne"
+  ],
+  "enrich": {
+   "domaine": "bucherer.com",
+   "histoire": "Maison suisse fondée en 1888 à Lucerne, joaillier et créateur de la marque horlogère Carl F. Bucherer."
+  },
+  "fait": false
+ },
+ {
+  "num": "15",
+  "groupe": {
+   "groupe": "BlaBlaBus",
+   "marques": [
+    "BlaBlaBus"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Rail, autocar et location",
+   "commentaire": "Service de bus longue distance de BlaBlaCar (ex-Ouibus)."
+  },
+  "source": "Site officiel — BlaBlaBus — https://www.blablabus.com/",
+  "produits": [
+   {
+    "nom": "Billet de bus BlaBlaBus",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "blablabus",
+   "bus",
+   "voyage",
+   "pas cher",
+   "france",
+   "ouibus"
+  ],
+  "enrich": {
+   "domaine": "blablabus.com",
+   "histoire": "Service de bus longue distance lancé par BlaBlaCar en 2019 (reprise d'Ouibus), présent dans une vingtaine de pays."
+  },
+  "fait": false
+ },
+ {
+  "num": "15",
+  "groupe": {
+   "groupe": "Karos",
+   "marques": [
+    "Karos"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Rail, autocar et location",
+   "commentaire": "Application française de covoiturage du quotidien (trajets domicile-travail)."
+  },
+  "source": "Site officiel — Karos — https://www.karos.fr/",
+  "produits": [
+   {
+    "nom": "Trajet covoiturage Karos",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "karos",
+   "covoiturage",
+   "quotidien",
+   "domicile travail",
+   "france",
+   "app"
+  ],
+  "enrich": {
+   "domaine": "karos.fr",
+   "histoire": "Startup française fondée en 2016, spécialisée dans le covoiturage du quotidien avec subventions employeur."
+  },
+  "fait": false
+ },
+ {
+  "num": "15",
+  "groupe": {
+   "groupe": "Klaxit",
+   "marques": [
+    "Klaxit"
+   ],
+   "siege": "France (Paris)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Rail, autocar et location",
+   "commentaire": "Application française de covoiturage domicile-travail (rachetée par Blablacar en 2024? non — par...)."
+  },
+  "source": "Site officiel — Klaxit — https://www.klaxit.com/",
+  "produits": [
+   {
+    "nom": "Trajet covoiturage Klaxit",
+    "assemblage": "France (service numérique)",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "klaxit",
+   "covoiturage",
+   "domicile travail",
+   "france",
+   "app"
+  ],
+  "enrich": {
+   "domaine": "klaxit.com",
+   "histoire": "Application française de covoiturage du quotidien fondée en 2017, partenaire des collectivités."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "La Boîte à Pizza",
+   "marques": [
+    "La Boîte à Pizza"
+   ],
+   "siege": "France (Nantes)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Livraison de repas et anti-gaspillage",
+   "commentaire": "Chaîne française de pizzas à emporter/livraison fondée en 1993."
+  },
+  "source": "Site officiel — La Boîte à Pizza — https://www.laboiteapizza.com/",
+  "produits": [
+   {
+    "nom": "Pizza à emporter La Boîte à Pizza",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "la boite a pizza",
+   "pizza",
+   "livraison",
+   "emporter",
+   "france",
+   "nantes"
+  ],
+  "enrich": {
+   "domaine": "laboiteapizza.com",
+   "histoire": "Chaîne française fondée en 1993 à Nantes, spécialisée dans la pizza à emporter et en livraison."
+  },
+  "fait": false
+ },
+ {
+  "num": "21",
+  "groupe": {
+   "groupe": "Nyssen",
+   "marques": [
+    "Nyssen"
+   ],
+   "siege": "France (Lyon)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Restauration rapide et cafés",
+   "commentaire": "Boulangerie-pâtisserie française fondée en 1930 à Lyon."
+  },
+  "source": "Site officiel — Nyssen — https://www.nyssen.fr/",
+  "produits": [
+   {
+    "nom": "Tarte Nyssen",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "nyssen",
+   "boulangerie",
+   "patisserie",
+   "tarte",
+   "lyon",
+   "france"
+  ],
+  "enrich": {
+   "domaine": "nyssen.fr",
+   "histoire": "Maison lyonnaise fondée en 1930, connue pour ses tartes et ses brioches."
+  },
+  "fait": false
+ },
+ {
+  "num": "08",
+  "groupe": {
+   "groupe": "E.Leclerc",
+   "marques": [
+    "E.Leclerc",
+    "Leclerc"
+   ],
+   "siege": "France (Ivry-sur-Seine)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Produits alimentaires",
+   "commentaire": "Coopérative française de grande distribution fondée en 1948 (hypermarchés E.Leclerc)."
+  },
+  "source": "Wikipémie — E.Leclerc — https://fr.wikipedia.org/wiki/E.Leclerc",
+  "produits": [
+   {
+    "nom": "Courses E.Leclerc",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "e.leclerc",
+   "leclerc",
+   "courses",
+   "supermarche",
+   "hypermarche",
+   "france",
+   "pas cher"
+  ],
+  "enrich": {
+   "domaine": "e-leclerc.com",
+   "histoire": "Coopérative de commerçants fondée en 1948 à Landerneau par Édouard Leclerc, aujourd'hui 2e distributeur français."
+  },
+  "fait": false
+ },
+ {
+  "num": "11",
+  "groupe": {
+   "groupe": "Simond",
+   "marques": [
+    "Simond"
+   ],
+   "siege": "France (Chamonix)",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Sacs à dos et vêtements de montagne",
+   "commentaire": "Fabricant chamoniard d'équipement d'alpinisme (cordes, piolets, crampons) fondé en 1860."
+  },
+  "source": "Wikipémie — Simond — https://fr.wikipedia.org/wiki/Simond",
+  "produits": [
+   {
+    "nom": "Piolet Simond",
+    "assemblage": "France",
+    "origine_pieces": "France, Italie"
+   }
+  ],
+  "motsCles": [
+   "simond",
+   "alpinisme",
+   "piolet",
+   "corde",
+   "crampon",
+   "chamonix",
+   "france",
+   "escalade"
+  ],
+  "enrich": {
+   "domaine": "simond.com",
+   "histoire": "Fabricant fondé en 1860 à Chamonix, référence mondiale de l'équipement d'alpinisme."
+  },
+  "fait": false
+ },
+ {
+  "num": "11",
+  "groupe": {
+   "groupe": "Alpinestars",
+   "marques": [
+    "Alpinestars"
+   ],
+   "siege": "Italie (Asolo)",
+   "siege_pays": "IT",
+   "statut": "rang1",
+   "sous_categorie": "Sacs à dos et vêtements de montagne",
+   "commentaire": "Équipementier italien de moto et VTT (casques, bottes, protections) fondé en 1999. UE."
+  },
+  "source": "Wikipémie — Alpinestars — https://en.wikipedia.org/wiki/Alpinestars",
+  "produits": [
+   {
+    "nom": "Casque Alpinestars",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie, Chine"
+   }
+  ],
+  "motsCles": [
+   "alpinestars",
+   "casque",
+   "moto",
+   "vtt",
+   "protection",
+   "italie"
+  ],
+  "enrich": {
+   "domaine": "alpinestars.com",
+   "histoire": "Équipementier italien fondé en 1999 à Asolo, leader des équipements de protection moto."
+  },
+  "fait": false
+ },
+ {
+  "num": "11",
+  "groupe": {
+   "groupe": "Dainese",
+   "marques": [
+    "Dainese"
+   ],
+   "siege": "Italie (Vicenza)",
+   "siege_pays": "IT",
+   "statut": "rang1",
+   "sous_categorie": "Sacs à dos et vêtements de montagne",
+   "commentaire": "Équipementier italien de moto et ski (blousons airbag, casques) fondé en 1972. UE."
+  },
+  "source": "Wikipémie — Dainese — https://en.wikipedia.org/wiki/Dainese",
+  "produits": [
+   {
+    "nom": "Blouson airbag Dainese",
+    "assemblage": "Italie",
+    "origine_pieces": "Italie, Roumanie"
+   }
+  ],
+  "motsCles": [
+   "dainese",
+   "blouson moto",
+   "airbag",
+   "casque",
+   "ski",
+   "italie"
+  ],
+  "enrich": {
+   "domaine": "dainese.com",
+   "histoire": "Marque italienne fondée en 1972 à Vicence, pionnière du blouson airbag moto."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Spasfon",
+   "marques": [
+    "Spasfon"
+   ],
+   "siege": "France",
+   "siege_pays": "FR",
+   "statut": "rang1",
+   "sous_categorie": "Santé grand public",
+   "commentaire": "Antispasmodique français (phloroglucinol)."
+  },
+  "source": "Wikipémie — Spasfon — https://fr.wikipedia.org/wiki/Spasfon",
+  "produits": [
+   {
+    "nom": "Spasfon (comprimés)",
+    "assemblage": "France",
+    "origine_pieces": "France"
+   }
+  ],
+  "motsCles": [
+   "spasfon",
+   "antispasmodique",
+   "ventre",
+   "douleur",
+   "france",
+   "pharmacie"
+  ],
+  "enrich": {
+   "domaine": "spasfon.fr",
+   "histoire": "Médicament antispasmodique français à base de phloroglucinol, très répandu en pharmacie."
+  },
+  "fait": false
+ },
+ {
+  "num": "09",
+  "groupe": {
+   "groupe": "Strepsils",
+   "marques": [
+    "Strepsils"
+   ],
+   "siege": "Royaume-Uni (Nottingham)",
+   "siege_pays": "GB",
+   "statut": "rang1",
+   "sous_categorie": "Santé grand public",
+   "commentaire": "Pastilles pour la gorge de Reckitt (GB)."
+  },
+  "source": "Wikipémie — Strepsils — https://en.wikipedia.org/wiki/Strepsils",
+  "produits": [
+   {
+    "nom": "Pastilles Strepsils miel-citron",
+    "assemblage": "Royaume-Uni",
+    "origine_pieces": "Royaume-Uni"
+   }
+  ],
+  "motsCles": [
+   "strepsils",
+   "pastille",
+   "gorge",
+   "mal de gorge",
+   "reckitt"
+  ],
+  "enrich": {
+   "domaine": "strepsils.fr",
+   "histoire": "Marque britannique de pastilles pour la gorge, propriété de Reckitt."
+  },
+  "fait": false
+ },
+ {
+  "num": "01",
+  "groupe": {
+   "groupe": "Jeep (Stellantis)",
+   "marques": [
+    "Jeep"
+   ],
+   "siege": "États-Unis (Détroit) — groupe Stellantis",
+   "siege_pays": "US",
+   "statut": "hors_zones",
+   "sous_categorie": "Constructeurs européens",
+   "commentaire": "Marque américaine de 4x4, membre du groupe Stellantis (siège US). Hors zones (siège/contrôle US)."
+  },
+  "source": "Wikipémie — Jeep — https://fr.wikipedia.org/wiki/Jeep",
+  "produits": [
+   {
+    "nom": "Jeep Wrangler",
+    "assemblage": "États-Unis",
+    "origine_pieces": "États-Unis, Mexique"
+   }
+  ],
+  "motsCles": [
+   "jeep",
+   "4x4",
+   "suv",
+   "wrangler",
+   "usa",
+   "stellantis"
+  ],
+  "enrich": {
+   "domaine": "jeep.com",
+   "histoire": "Marque américaine née en 1941 (Willys), membre de Stellantis depuis 2021."
+  },
+  "fait": false
  }
 ]
