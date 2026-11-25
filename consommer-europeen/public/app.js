@@ -56,14 +56,6 @@ const el = {
   contenu: document.querySelector('.contenu'),
   footer: document.getElementById('footer'),
   logoHome: document.getElementById('logo-home'),
-  addModal: document.getElementById('add-modal'),
-  addClose: document.getElementById('add-close'),
-  addForm: document.getElementById('add-form'),
-  addQ: document.getElementById('add-q'),
-  addSecteur: document.getElementById('add-secteur'),
-  addMarque: document.getElementById('add-marque'),
-  addNote: document.getElementById('add-note'),
-  addMsg: document.getElementById('add-msg'),
 };
 
 let netBannerTimer;
@@ -1197,56 +1189,10 @@ el.cataloguePlus.addEventListener('click', () => {
 
 
 
-function ouvrirAjout(q) {
-  el.addQ.value = q;
-  el.addMsg.hidden = true;
-  el.addModal.classList.remove('hidden');
-}
-
-el.addClose.addEventListener('click', () => el.addModal.classList.add('hidden'));
-el.addModal.addEventListener('click', (e) => {
-  if (e.target === el.addModal) el.addModal.classList.add('hidden');
-});
-
-el.addForm.addEventListener('submit', async (e) => {
-  e.preventDefault();
-  el.addMsg.hidden = true;
-  const res = await fetch('/api/produits', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      q: el.addQ.value.trim(),
-      num: el.addSecteur.value,
-      marque: el.addMarque.value.trim(),
-      note: el.addNote.value.trim(),
-    }),
-  });
-  const data = await res.json().catch(() => ({}));
-  el.addMsg.textContent = res.ok
-    ? `« ${el.addQ.value.trim()} » proposé (statut « Proposé », à vérifier). Il apparaît avec « Tout afficher ».`
-    : data.error || 'Erreur.';
-  el.addMsg.className = 'pw-msg ' + (res.ok ? 'ok' : 'ko');
-  el.addMsg.hidden = false;
-  if (res.ok) {
-    setTimeout(() => {
-      el.addModal.classList.add('hidden');
-      el.addForm.reset();
-      runSearch();
-    }, 900);
-  }
-});
-
 async function init() {
   state.meta = await api('/api/meta');
   if (!state.meta.preferences.some((p) => p.id === state.pref)) state.pref = 'ue';
   renderPrefSelect();
-  el.addSecteur.textContent = '';
-  for (const s of state.meta.secteurs) {
-    const opt = document.createElement('option');
-    opt.value = s.num;
-    opt.textContent = `${s.num} · ${s.nom}`;
-    el.addSecteur.appendChild(opt);
-  }
   el.heroStats.textContent = `${state.meta.secteurs.length} catégories · ${state.meta.nbGroupes} marques référencées · ${state.meta.nbSources} sources`;
   try {
     const mc = await api('/api/mots-cles?all=1');
