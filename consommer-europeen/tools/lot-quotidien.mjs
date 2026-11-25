@@ -35,7 +35,7 @@ const secteurByNum = new Map(secteurs.map((s) => [s.num, s]));
 
 let maxLot = 0;
 for (const f of readdirSync(dataDir)) {
-  const m = f.match(/^extensions-lot(\d+)\.json$/);
+  const m = f.match(/^(?:extensions|sources|produits)-lot(\d+)\.json$/);
   if (m) maxLot = Math.max(maxLot, parseInt(m[1], 10));
 }
 const lotNum = maxLot + 1;
