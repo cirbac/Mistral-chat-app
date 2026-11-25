@@ -1,0 +1,32 @@
+{
+ "televiseurs-philips-tv": [
+  {
+   "id": "televiseurs-philips-tv-tv-philips-oled-ambilight",
+   "nom": "TV Philips OLED Ambilight",
+   "assemblage": "Pologne",
+   "origine_pieces": "Pays-Bas, Corée du Sud",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "restauration-et-livraison-de-repas-courtepaille": [
+  {
+   "id": "restauration-et-livraison-de-repas-courtepaille-buffet-a-volonte-courtepaille",
+   "nom": "Buffet à volonté Courtepaille",
+   "assemblage": "France",
+   "origine_pieces": "France",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "restauration-et-livraison-de-repas-big-mamma": [
+  {
+   "id": "restauration-et-livraison-de-repas-big-mamma-trattoria-big-mamma-paris",
+   "nom": "Trattoria Big Mamma (Paris)",
+   "assemblage": "France",
+   "origine_pieces": "Italie, France",
+   "certifications": [],
+   "note": ""
+  }
+ ]
+}
