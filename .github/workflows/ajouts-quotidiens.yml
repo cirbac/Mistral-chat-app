@@ -1,0 +1,57 @@
+name: Ajouts quotidiens (lot auto)
+
+on:
+  schedule:
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+    inputs:
+      n:
+        description: 'Nombre de marques à ajouter (défaut 6)'
+        required: false
+        default: '6'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  lot-auto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install
+        working-directory: consommer-europeen
+        run: npm ci
+
+      - name: Générer le lot du jour + valider (check:data, tsc, tests 67/67)
+        working-directory: consommer-europeen
+        run: node tools/lot-quotidien.mjs --n "${{ inputs.n || '6' }}"
+
+      - name: Push la branche bot + PR + auto-merge si CI verte
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          BRANCH=$(git branch --show-current)
+          if [[ "$BRANCH" == "main" ]]; then
+            echo "Rien à pousser (plan épuisé ou aucune entrée) — arrêt."
+            exit 0
+          fi
+          git push -u origin "$BRANCH"
+          TITLE=$(cat /tmp/lot-titre.txt)
+          if gh pr create --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --title "$TITLE" --body-file /tmp/lot-body.md; then
+            PR_URL=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --json url --jq '.[0].url')
+            echo "PR créée : $PR_URL"
+            gh pr merge "$PR_URL" --auto --squash --delete-branch || echo "Auto-merge activé (merge quand la CI passe) ou à merger manuellement : $PR_URL"
+          else
+            echo "PR déjà existante ou erreur — on tente l'auto-merge sur la PR ouverte :"
+            PR_URL=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --json url --jq '.[0].url')
+            [ -n "$PR_URL" ] && gh pr merge "$PR_URL" --auto --squash --delete-branch || true
+          fi

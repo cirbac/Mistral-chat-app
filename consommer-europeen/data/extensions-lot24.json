@@ -1,0 +1,91 @@
+{
+ "21": {
+  "groupes": [
+   {
+    "id": "restauration-et-livraison-de-repas-courtepaille",
+    "groupe": "Courtepaille",
+    "marques": [
+     "Courtepaille"
+    ],
+    "siege": "France (Rueil-Malmaison)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne française de grillades fondée en 1986. [514]",
+    "sources": [
+     514
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-de-repas-courtepaille-buffet-a-volonte-courtepaille",
+      "nom": "Buffet à volonté Courtepaille",
+      "assemblage": "France",
+      "origine_pieces": "France",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-big-mamma",
+    "groupe": "Big Mamma",
+    "marques": [
+     "Big Mamma"
+    ],
+    "siege": "Italie (Milan) / France (Paris)",
+    "siege_pays": "IT",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Groupe italien de trattorias fondé en 2015, très présent en France. UE. [515]",
+    "sources": [
+     515
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-de-repas-big-mamma-trattoria-big-mamma-paris",
+      "nom": "Trattoria Big Mamma (Paris)",
+      "assemblage": "France",
+      "origine_pieces": "Italie, France",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ },
+ "05": {
+  "groupes": [
+   {
+    "id": "televiseurs-philips-tv",
+    "groupe": "Philips (TV)",
+    "marques": [
+     "Philips"
+    ],
+    "siege": "Pays-Bas (Amsterdam)",
+    "siege_pays": "NL",
+    "statut": "rang1",
+    "sous_categorie": "Marques de téléviseurs",
+    "commentaire": "TV Philips (TP Vision, licence Philips) — société néerlandaise. UE. [513]",
+    "sources": [
+     513
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "televiseurs-philips-tv-tv-philips-oled-ambilight",
+      "nom": "TV Philips OLED Ambilight",
+      "assemblage": "Pologne",
+      "origine_pieces": "Pays-Bas, Corée du Sud",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ }
+}
