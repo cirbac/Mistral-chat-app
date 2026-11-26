@@ -22,6 +22,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Identité git du bot
+        run: |
+          git config user.name "vibe-bot"
+          git config user.email "vibe-bot@mistral.ai"
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
