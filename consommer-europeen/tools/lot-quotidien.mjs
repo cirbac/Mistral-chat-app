@@ -167,6 +167,7 @@ Fichiers : \`extensions-lot${lotTag}.json\`, \`sources-lot${lotTag}.json\`, \`pr
 writeFileSync('/tmp/lot-titre.txt', titre + '\n');
 writeFileSync('/tmp/lot-body.md', body);
 
+execSync('git config user.name "vibe-bot" && git config user.email "vibe-bot@mistral.ai"', { cwd: join(root, '..'), stdio: 'inherit' });
 execSync(`git checkout -b ${branch}`, { cwd: join(root, '..'), stdio: 'inherit' });
 execSync('git add consommer-europeen/data && git commit -m ' + JSON.stringify(titre + `\n\nGénéré automatiquement par tools/lot-quotidien.mjs (plan-ajouts.json).\n\nCo-authored-by: vibe-bot <vibe@mistral.ai>`), { cwd: join(root, '..'), stdio: 'inherit' });
 console.log(`Branche prête : ${branch}`);
