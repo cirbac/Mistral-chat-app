@@ -1,0 +1,2002 @@
+[
+ {
+  "type": "source",
+  "gid": "automobile-stellantis",
+  "texte": "Wikipédie — Stellantis — https://fr.wikipedia.org/wiki/Stellantis",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-volkswagen-group",
+  "texte": "Wikipédie — Volkswagen Group — https://fr.wikipedia.org/wiki/Volkswagen_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-mercedes-benz-group",
+  "texte": "Wikipédie — Mercedes-Benz Group — https://fr.wikipedia.org/wiki/Mercedes-Benz_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-nissan",
+  "texte": "Wikipédie — Nissan — https://fr.wikipedia.org/wiki/Nissan",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-mazda",
+  "texte": "Wikipédie — Mazda — https://fr.wikipedia.org/wiki/Mazda",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-suzuki",
+  "texte": "Wikipédie — Suzuki — https://fr.wikipedia.org/wiki/Suzuki",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-subaru",
+  "texte": "Wikipédie — Subaru — https://fr.wikipedia.org/wiki/Subaru",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-hyundai-motor-group",
+  "texte": "Wikipédie — Hyundai Motor Group — https://fr.wikipedia.org/wiki/Hyundai_Motor_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-mg",
+  "texte": "Wikipédie — MG — https://fr.wikipedia.org/wiki/MG",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-ford",
+  "texte": "Wikipédie — Ford — https://fr.wikipedia.org/wiki/Ford",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "automobile-gm",
+  "texte": "Wikipédie — General Motors — https://fr.wikipedia.org/wiki/General_Motors",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-bmw-motorrad",
+  "texte": "Wikipédie — BMW Motorrad — https://fr.wikipedia.org/wiki/BMW_Motorrad",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-yamaha",
+  "texte": "Wikipédie — Yamaha — https://fr.wikipedia.org/wiki/Yamaha",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-kawasaki",
+  "texte": "Wikipédie — Kawasaki — https://fr.wikipedia.org/wiki/Kawasaki",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-suzuki",
+  "texte": "Wikipédie — Suzuki — https://fr.wikipedia.org/wiki/Suzuki",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-kymco",
+  "texte": "Wikipédie — Kymco — https://fr.wikipedia.org/wiki/Kymco",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-sym",
+  "texte": "Wikipédie — SYM — https://fr.wikipedia.org/wiki/SYM",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "motos-et-scooters-brp",
+  "texte": "Wikipédie — BRP — https://fr.wikipedia.org/wiki/BRP",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "pneumatiques-continental",
+  "texte": "Wikipédie — Continental — https://fr.wikipedia.org/wiki/Continental",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "pneumatiques-nokian-tyres",
+  "texte": "Wikipédie — Nokian Tyres — https://fr.wikipedia.org/wiki/Nokian_Tyres",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "pneumatiques-yokohama",
+  "texte": "Wikipédie — Yokohama — https://fr.wikipedia.org/wiki/Yokohama",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "pneumatiques-toyo-tires",
+  "texte": "Wikipédie — Toyo Tires — https://fr.wikipedia.org/wiki/Toyo_Tires",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "pneumatiques-hankook",
+  "texte": "Wikipédie — Hankook — https://fr.wikipedia.org/wiki/Hankook",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "pneumatiques-nexen-tire",
+  "texte": "Wikipédie — Nexen Tire — https://fr.wikipedia.org/wiki/Nexen_Tire",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-bsh-groupe-bosch",
+  "texte": "Wikipédie — BSH (groupe Bosch) — https://fr.wikipedia.org/wiki/BSH_(groupe_Bosch)",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-miele",
+  "texte": "Wikipédie — Miele — https://fr.wikipedia.org/wiki/Miele",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-liebherr",
+  "texte": "Wikipédie — Liebherr — https://fr.wikipedia.org/wiki/Liebherr",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-electrolux",
+  "texte": "Wikipédie — Electrolux — https://fr.wikipedia.org/wiki/Electrolux",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-smeg",
+  "texte": "Wikipédie — Smeg — https://fr.wikipedia.org/wiki/Smeg",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-amica",
+  "texte": "Wikipédie — Amica — https://fr.wikipedia.org/wiki/Amica",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-lg-electronics",
+  "texte": "Wikipédie — LG Electronics — https://fr.wikipedia.org/wiki/LG_Electronics",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-groupe-seb",
+  "texte": "Wikipédie — Groupe SEB — https://fr.wikipedia.org/wiki/Groupe_SEB",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-de-longhi",
+  "texte": "Wikipédie — De'Longhi — https://fr.wikipedia.org/wiki/De%2527Longhi",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "electromenager-panasonic",
+  "texte": "Wikipédie — Panasonic — https://fr.wikipedia.org/wiki/Panasonic",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "televiseurs-lg-electronics",
+  "texte": "Wikipédie — LG Electronics — https://fr.wikipedia.org/wiki/LG_Electronics",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "televiseurs-samsung",
+  "texte": "Wikipédie — Samsung — https://fr.wikipedia.org/wiki/Samsung",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-samsung",
+  "texte": "Wikipédie — Samsung — https://fr.wikipedia.org/wiki/Samsung",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-sony",
+  "texte": "Wikipédie — Sony — https://fr.wikipedia.org/wiki/Sony",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-acer",
+  "texte": "Wikipédie — Acer — https://fr.wikipedia.org/wiki/Acer",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-msi",
+  "texte": "Wikipédie — MSI — https://fr.wikipedia.org/wiki/MSI",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-gigabyte",
+  "texte": "Wikipédie — Gigabyte — https://fr.wikipedia.org/wiki/Gigabyte",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-lg-electronics",
+  "texte": "Wikipédie — LG Electronics — https://fr.wikipedia.org/wiki/LG_Electronics",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-lenovo",
+  "texte": "Wikipédie — Lenovo — https://fr.wikipedia.org/wiki/Lenovo",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-kobo",
+  "texte": "Wikipédie — Kobo — https://fr.wikipedia.org/wiki/Kobo",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-amazon",
+  "texte": "Wikipédie — Amazon — https://fr.wikipedia.org/wiki/Amazon",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-onyx-international",
+  "texte": "Wikipédie — Onyx International — https://fr.wikipedia.org/wiki/Onyx_International",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-sennheiser-sonova",
+  "texte": "Wikipédie — Sennheiser / Sonova — https://fr.wikipedia.org/wiki/Sennheiser_%2F_Sonova",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-gn-store-nord",
+  "texte": "Wikipédie — GN Store Nord — https://fr.wikipedia.org/wiki/GN_Store_Nord",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-bang-olufsen",
+  "texte": "Wikipédie — Bang & Olufsen — https://fr.wikipedia.org/wiki/Bang_%26_Olufsen",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-devialet",
+  "texte": "Wikipédie — Devialet — https://fr.wikipedia.org/wiki/Devialet",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-marshall-group",
+  "texte": "Wikipédie — Marshall Group — https://fr.wikipedia.org/wiki/Marshall_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-sony-audio-photo",
+  "texte": "Wikipédie — Sony (audio, photo) — https://fr.wikipedia.org/wiki/Sony_(audio%2C_photo)",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-audio-technica",
+  "texte": "Wikipédie — Audio-Technica — https://fr.wikipedia.org/wiki/Audio-Technica",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-canon",
+  "texte": "Wikipédie — Canon — https://fr.wikipedia.org/wiki/Canon",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-nikon",
+  "texte": "Wikipédie — Nikon — https://fr.wikipedia.org/wiki/Nikon",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-fujifilm",
+  "texte": "Wikipédie — Fujifilm — https://fr.wikipedia.org/wiki/Fujifilm",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-brother",
+  "texte": "Wikipédie — Brother — https://fr.wikipedia.org/wiki/Brother",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-epson",
+  "texte": "Wikipédie — Epson — https://fr.wikipedia.org/wiki/Epson",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-lexmark",
+  "texte": "Wikipédie — Lexmark — https://fr.wikipedia.org/wiki/Lexmark",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-hasselblad-dji",
+  "texte": "Wikipédie — Hasselblad (DJI) — https://fr.wikipedia.org/wiki/Hasselblad_(DJI)",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-avm",
+  "texte": "Wikipédie — AVM — https://fr.wikipedia.org/wiki/AVM",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "informatique-et-telephonie-tp-link",
+  "texte": "Wikipédie — TP-Link — https://fr.wikipedia.org/wiki/TP-Link",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-tomtom",
+  "texte": "Wikipédie — TomTom — https://fr.wikipedia.org/wiki/TomTom",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-yandex",
+  "texte": "Wikipédie — Yandex — https://fr.wikipedia.org/wiki/Yandex",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-rakuten",
+  "texte": "Wikipédie — Rakuten — https://fr.wikipedia.org/wiki/Rakuten",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-signal-foundation",
+  "texte": "Wikipédie — Signal Foundation — https://fr.wikipedia.org/wiki/Signal_Foundation",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-meta",
+  "texte": "Wikipédie — Meta — https://fr.wikipedia.org/wiki/Meta",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-telegram",
+  "texte": "Wikipédie — Telegram — https://fr.wikipedia.org/wiki/Telegram",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-tencent",
+  "texte": "Wikipédie — Tencent — https://fr.wikipedia.org/wiki/Tencent",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-tixeo",
+  "texte": "Wikipédie — Tixeo — https://fr.wikipedia.org/wiki/Tixeo",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-infomaniak",
+  "texte": "Wikipédie — Infomaniak — https://fr.wikipedia.org/wiki/Infomaniak",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-8x8",
+  "texte": "Wikipédie — 8x8 — https://fr.wikipedia.org/wiki/8x8",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-mullvad",
+  "texte": "Wikipédie — Mullvad — https://fr.wikipedia.org/wiki/Mullvad",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-samsung",
+  "texte": "Wikipédie — Samsung — https://fr.wikipedia.org/wiki/Samsung",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-naver",
+  "texte": "Wikipédie — Naver — https://fr.wikipedia.org/wiki/Naver",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-mozilla",
+  "texte": "Wikipédie — Mozilla — https://fr.wikipedia.org/wiki/Mozilla",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-brave-software",
+  "texte": "Wikipédie — Brave Software — https://fr.wikipedia.org/wiki/Brave_Software",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-alibaba",
+  "texte": "Wikipédie — Alibaba — https://fr.wikipedia.org/wiki/Alibaba",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-startpage",
+  "texte": "Wikipédie — Startpage — https://fr.wikipedia.org/wiki/Startpage",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-tuta",
+  "texte": "Wikipédie — Tuta — https://fr.wikipedia.org/wiki/Tuta",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-mailo",
+  "texte": "Wikipédie — Mailo — https://fr.wikipedia.org/wiki/Mailo",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-nextcloud",
+  "texte": "Wikipédie — Nextcloud — https://fr.wikipedia.org/wiki/Nextcloud",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-the-document-foundation",
+  "texte": "Wikipédie — The Document Foundation — https://fr.wikipedia.org/wiki/The_Document_Foundation",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-collabora",
+  "texte": "Wikipédie — Collabora — https://fr.wikipedia.org/wiki/Collabora",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-hancom",
+  "texte": "Wikipédie — Hancom — https://fr.wikipedia.org/wiki/Hancom",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-dropbox",
+  "texte": "Wikipédie — Dropbox — https://fr.wikipedia.org/wiki/Dropbox",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-kingsoft",
+  "texte": "Wikipédie — Kingsoft — https://fr.wikipedia.org/wiki/Kingsoft",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-murena",
+  "texte": "Wikipédie — Murena — https://fr.wikipedia.org/wiki/Murena",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-jolla",
+  "texte": "Wikipédie — Jolla — https://fr.wikipedia.org/wiki/Jolla",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-canonical",
+  "texte": "Wikipédie — Canonical — https://fr.wikipedia.org/wiki/Canonical",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-suse",
+  "texte": "Wikipédie — SUSE — https://fr.wikipedia.org/wiki/SUSE",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-google",
+  "texte": "Wikipédie — Google — https://fr.wikipedia.org/wiki/Google",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-passbolt",
+  "texte": "Wikipédie — Passbolt — https://fr.wikipedia.org/wiki/Passbolt",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-1password",
+  "texte": "Wikipédie — 1Password — https://fr.wikipedia.org/wiki/1Password",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-bitwarden",
+  "texte": "Wikipédie — Bitwarden — https://fr.wikipedia.org/wiki/Bitwarden",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-mastodon-ggmbh",
+  "texte": "Wikipédie — Mastodon gGmbH — https://fr.wikipedia.org/wiki/Mastodon_gGmbH",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-x-corp",
+  "texte": "Wikipédie — X Corp. — https://fr.wikipedia.org/wiki/X_Corp.",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-bluesky",
+  "texte": "Wikipédie — Bluesky — https://fr.wikipedia.org/wiki/Bluesky",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-xiaohongshu",
+  "texte": "Wikipédie — Xiaohongshu — https://fr.wikipedia.org/wiki/Xiaohongshu",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-trainline",
+  "texte": "Wikipédie — Trainline — https://fr.wikipedia.org/wiki/Trainline",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-omio",
+  "texte": "Wikipédie — Omio — https://fr.wikipedia.org/wiki/Omio",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-bolt",
+  "texte": "Wikipédie — Bolt — https://fr.wikipedia.org/wiki/Bolt",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-edreams-odigeo",
+  "texte": "Wikipédie — eDreams ODIGEO — https://fr.wikipedia.org/wiki/eDreams_ODIGEO",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-booking-holdings",
+  "texte": "Wikipédie — Booking Holdings — https://fr.wikipedia.org/wiki/Booking_Holdings",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-airbnb",
+  "texte": "Wikipédie — Airbnb — https://fr.wikipedia.org/wiki/Airbnb",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "logiciels-et-applications-uber",
+  "texte": "Wikipédie — Uber — https://fr.wikipedia.org/wiki/Uber",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-servier",
+  "texte": "Wikipédie — Servier — https://fr.wikipedia.org/wiki/Servier",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-boiron",
+  "texte": "Wikipédie — Boiron — https://fr.wikipedia.org/wiki/Boiron",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-bayer",
+  "texte": "Wikipédie — Bayer — https://fr.wikipedia.org/wiki/Bayer",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-novartis",
+  "texte": "Wikipédie — Novartis — https://fr.wikipedia.org/wiki/Novartis",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-roche",
+  "texte": "Wikipédie — Roche — https://fr.wikipedia.org/wiki/Roche",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-novo-nordisk",
+  "texte": "Wikipédie — Novo Nordisk — https://fr.wikipedia.org/wiki/Novo_Nordisk",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-gsk",
+  "texte": "Wikipédie — GSK — https://fr.wikipedia.org/wiki/GSK",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-haleon",
+  "texte": "Wikipédie — Haleon — https://fr.wikipedia.org/wiki/Haleon",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-takeda",
+  "texte": "Wikipédie — Takeda — https://fr.wikipedia.org/wiki/Takeda",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-l-oreal",
+  "texte": "Wikipédie — L'Oréal — https://fr.wikipedia.org/wiki/L%2527Or%C3%A9al",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-pierre-fabre",
+  "texte": "Wikipédie — Pierre Fabre — https://fr.wikipedia.org/wiki/Pierre_Fabre",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-clarins",
+  "texte": "Wikipédie — Clarins — https://fr.wikipedia.org/wiki/Clarins",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-groupe-rocher",
+  "texte": "Wikipédie — Groupe Rocher — https://fr.wikipedia.org/wiki/Groupe_Rocher",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-beiersdorf",
+  "texte": "Wikipédie — Beiersdorf — https://fr.wikipedia.org/wiki/Beiersdorf",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-henkel",
+  "texte": "Wikipédie — Henkel — https://fr.wikipedia.org/wiki/Henkel",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-unilever",
+  "texte": "Wikipédie — Unilever — https://fr.wikipedia.org/wiki/Unilever",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-reckitt",
+  "texte": "Wikipédie — Reckitt — https://fr.wikipedia.org/wiki/Reckitt",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-essity",
+  "texte": "Wikipédie — Essity — https://fr.wikipedia.org/wiki/Essity",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-shiseido",
+  "texte": "Wikipédie — Shiseido — https://fr.wikipedia.org/wiki/Shiseido",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-kao",
+  "texte": "Wikipédie — Kao — https://fr.wikipedia.org/wiki/Kao",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-amorepacific",
+  "texte": "Wikipédie — Amorepacific — https://fr.wikipedia.org/wiki/Amorepacific",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-royal-philips",
+  "texte": "Wikipédie — Royal Philips — https://fr.wikipedia.org/wiki/Royal_Philips",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-kose",
+  "texte": "Wikipédie — Kosé — https://fr.wikipedia.org/wiki/Kos%C3%A9",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-pola-orbis",
+  "texte": "Wikipédie — Pola Orbis — https://fr.wikipedia.org/wiki/Pola_Orbis",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "hygiene-beaute-et-sante-lg-h-h",
+  "texte": "Wikipédie — LG H&H — https://fr.wikipedia.org/wiki/LG_H%26H",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-inditex",
+  "texte": "Wikipédie — Inditex — https://fr.wikipedia.org/wiki/Inditex",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-h-m-group",
+  "texte": "Wikipédie — H&M Group — https://fr.wikipedia.org/wiki/H%26M_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-kiabi",
+  "texte": "Wikipédie — Kiabi — https://fr.wikipedia.org/wiki/Kiabi",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-mango",
+  "texte": "Wikipédie — Mango — https://fr.wikipedia.org/wiki/Mango",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-c-a",
+  "texte": "Wikipédie — C&A — https://fr.wikipedia.org/wiki/C%26A",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-associated-british-foods",
+  "texte": "Wikipédie — Associated British Foods — https://fr.wikipedia.org/wiki/Associated_British_Foods",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-armor-lux",
+  "texte": "Wikipédie — Armor Lux — https://fr.wikipedia.org/wiki/Armor_Lux",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-saint-james",
+  "texte": "Wikipédie — Saint James — https://fr.wikipedia.org/wiki/Saint_James",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-maus-freres",
+  "texte": "Wikipédie — Maus Frères — https://fr.wikipedia.org/wiki/Maus_Fr%C3%A8res",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-hugo-boss",
+  "texte": "Wikipédie — Hugo Boss — https://fr.wikipedia.org/wiki/Hugo_Boss",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-otb",
+  "texte": "Wikipédie — OTB — https://fr.wikipedia.org/wiki/OTB",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-fast-retailing",
+  "texte": "Wikipédie — Fast Retailing — https://fr.wikipedia.org/wiki/Fast_Retailing",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-ryohin-keikaku",
+  "texte": "Wikipédie — Ryohin Keikaku — https://fr.wikipedia.org/wiki/Ryohin_Keikaku",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-levi-strauss-co",
+  "texte": "Wikipédie — Levi Strauss & Co. — https://fr.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-pvh",
+  "texte": "Wikipédie — PVH — https://fr.wikipedia.org/wiki/PVH",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-kering",
+  "texte": "Wikipédie — Kering — https://fr.wikipedia.org/wiki/Kering",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-hermes",
+  "texte": "Wikipédie — Hermès — https://fr.wikipedia.org/wiki/Herm%C3%A8s",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-chanel",
+  "texte": "Wikipédie — Chanel — https://fr.wikipedia.org/wiki/Chanel",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-richemont",
+  "texte": "Wikipédie — Richemont — https://fr.wikipedia.org/wiki/Richemont",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-moncler-group",
+  "texte": "Wikipédie — Moncler Group — https://fr.wikipedia.org/wiki/Moncler_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-prada-group",
+  "texte": "Wikipédie — Prada Group — https://fr.wikipedia.org/wiki/Prada_Group",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-camper",
+  "texte": "Wikipédie — Camper — https://fr.wikipedia.org/wiki/Camper",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-on-holding",
+  "texte": "Wikipédie — On Holding — https://fr.wikipedia.org/wiki/On_Holding",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-dr-martens",
+  "texte": "Wikipédie — Dr. Martens — https://fr.wikipedia.org/wiki/Dr._Martens",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-geox",
+  "texte": "Wikipédie — Geox — https://fr.wikipedia.org/wiki/Geox",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-asics",
+  "texte": "Wikipédie — Asics — https://fr.wikipedia.org/wiki/Asics",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-mizuno",
+  "texte": "Wikipédie — Mizuno — https://fr.wikipedia.org/wiki/Mizuno",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-decathlon",
+  "texte": "Wikipédie — Decathlon — https://fr.wikipedia.org/wiki/Decathlon",
+  "fait": false
+ },
+ {
+  "type": "source",
+  "gid": "vetements-chaussures-et-sport-adidas",
+  "texte": "Wikipédie — Adidas — https://fr.wikipedia.org/wiki/Adidas",
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-renault-group",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "berline"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-stellantis",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-volkswagen-group",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-bmw-group",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-mercedes-benz-group",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-nissan",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-mazda",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-suzuki",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-subaru",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-hyundai-motor-group",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-volvo-cars",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-mg",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-porsche",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-ferrari",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-lamborghini",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-maserati",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-alfa-romeo",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-nio",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-xpeng",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-geely",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-mitsubishi",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-rivian",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-lucid",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-gwm",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-chery",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-fiat",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-cupra",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-skoda",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-seat",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-audi",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "auto-alpine",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "auto-dacia",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "auto-zeekr",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "auto-neta",
+  "mots": [
+   "voiture",
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-toyota",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-honda",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-ford",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-gm",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "electrique"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-byd",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "motsCles",
+  "gid": "automobile-tesla",
+  "mots": [
+   "auto",
+   "automobile",
+   "vehicule",
+   "constructeur",
+   "voiture electrique",
+   "citadine"
+  ],
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-nissan",
+  "domaine": "nissan.com",
+  "histoire": "Nissan — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-mazda",
+  "domaine": "mazda.com",
+  "histoire": "Mazda — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-suzuki",
+  "domaine": "suzuki.com",
+  "histoire": "Suzuki — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-subaru",
+  "domaine": "subaru.com",
+  "histoire": "Subaru — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-mg",
+  "domaine": "mg.com",
+  "histoire": "MG — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Royaume-Uni (origine)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-lamborghini",
+  "domaine": "lamborghini.com",
+  "histoire": "Lamborghini — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Italie (Sant'Agata)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-nio",
+  "domaine": "nio.com",
+  "histoire": "NIO — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Shanghai)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-xpeng",
+  "domaine": "xpeng.com",
+  "histoire": "XPeng — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Guangzhou)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-geely",
+  "domaine": "geely.com",
+  "histoire": "Geely — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Hangzhou)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-rivian",
+  "domaine": "rivian.com",
+  "histoire": "Rivian — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : États-Unis (Irvine)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-lucid",
+  "domaine": "lucid.com",
+  "histoire": "Lucid — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : États-Unis (Newark)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-gwm",
+  "domaine": "greatwallmotor.com",
+  "histoire": "Great Wall Motor — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Baoding)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-chery",
+  "domaine": "chery.com",
+  "histoire": "Chery — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Wuhu)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-fiat",
+  "domaine": "fiatstellantis.com",
+  "histoire": "Fiat (Stellantis) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Italie (Turin)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-cupra",
+  "domaine": "cupraseatvw.com",
+  "histoire": "Cupra (Seat/VW) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Espagne (Martorell)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-skoda",
+  "domaine": "skodavw.com",
+  "histoire": "Škoda (VW) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Tchéquie (Mladá Boleslav)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-seat",
+  "domaine": "seatvw.com",
+  "histoire": "Seat (VW) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Espagne (Martorell)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-audi",
+  "domaine": "audivw.com",
+  "histoire": "Audi (VW) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Allemagne (Ingolstadt)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "auto-alpine",
+  "domaine": "alpinerenault.com",
+  "histoire": "Alpine (Renault) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : France (Dieppe)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "auto-dacia",
+  "domaine": "daciarenault.com",
+  "histoire": "Dacia (Renault) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Roumanie (Pitești)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "auto-zeekr",
+  "domaine": "zeekrgeely.com",
+  "histoire": "Zeekr (Geely) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Hangzhou)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "auto-neta",
+  "domaine": "netahozone.com",
+  "histoire": "Neta (Hozone) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-honda",
+  "domaine": "honda.com",
+  "histoire": "Honda — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon (Tokyo)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-ford",
+  "domaine": "ford.com",
+  "histoire": "Ford — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : États-Unis (Dearborn)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-gm",
+  "domaine": "generalmotors.com",
+  "histoire": "General Motors — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : États-Unis (Détroit)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "automobile-byd",
+  "domaine": "byd.com",
+  "histoire": "BYD — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Chine (Shenzhen)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-bmw-motorrad",
+  "domaine": "bmwmotorrad.com",
+  "histoire": "BMW Motorrad — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Allemagne).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-triumph",
+  "domaine": "triumph.com",
+  "histoire": "Triumph — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Royaume-Uni).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-peugeot-motocycles",
+  "domaine": "peugeotmotocycles.com",
+  "histoire": "Peugeot Motocycles — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : France).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-mv-agusta",
+  "domaine": "mvagusta.com",
+  "histoire": "MV Agusta — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Italie).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-energica",
+  "domaine": "energica.com",
+  "histoire": "Energica — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Italie).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-pierer-mobility-ktm-gasgas-husqvarna",
+  "domaine": "pierermobilityktmgasgash.com",
+  "histoire": "Pierer Mobility (KTM, GasGas, Husqvarna) — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Autriche).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-royal-enfield",
+  "domaine": "royalenfield.com",
+  "histoire": "Royal Enfield — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Inde).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-harley-davidson",
+  "domaine": "harleydavidson.com",
+  "histoire": "Harley-Davidson — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : États-Unis (Milwaukee)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-yamaha",
+  "domaine": "yamaha.com",
+  "histoire": "Yamaha — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-kawasaki",
+  "domaine": "kawasaki.com",
+  "histoire": "Kawasaki — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-suzuki",
+  "domaine": "suzuki.com",
+  "histoire": "Suzuki — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Japon).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-kymco",
+  "domaine": "kymco.com",
+  "histoire": "Kymco — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Taïwan (Kaohsiung)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-sym",
+  "domaine": "sym.com",
+  "histoire": "SYM — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Taïwan (Nouveau Taipei)).",
+  "fait": false
+ },
+ {
+  "type": "enrich",
+  "gid": "motos-et-scooters-brp",
+  "domaine": "brp.com",
+  "histoire": "BRP — groupe référencé dans la grille sectorielle v4 (11/10/2026). Détails à compléter (siège : Canada).",
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "automobile-stellantis",
+  "produits": [
+   {
+    "nom": "Peugeot 208",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Peugeot 3008",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Renault Clio",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Citroën C3",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Fiat 500",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Opel Corsa",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "automobile-volkswagen-group",
+  "produits": [
+   {
+    "nom": "VW Golf",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "VW Polo",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Audi A3",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Škoda Octavia",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Seat Ibiza",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "automobile-mercedes-benz-group",
+  "produits": [
+   {
+    "nom": "Mercedes Classe A",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Mercedes Classe C",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "automobile-bmw-group",
+  "produits": [
+   {
+    "nom": "BMW Série 1",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "BMW Série 3",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Mini Cooper",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "automobile-renault-group",
+  "produits": [
+   {
+    "nom": "Renault Clio",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Dacia Sandero",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Alpine A110",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "alimentation-et-boissons-nestle",
+  "produits": [
+   {
+    "nom": "Nescafé",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Nespresso (capsules)",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Kit Kat",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Perrier (eau)",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "alimentation-et-boissons-unilever",
+  "produits": [
+   {
+    "nom": "Dove (savon)",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Signal (dentifrice)",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Lipton (thé)",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "distribution-paiement-carrefour",
+  "produits": [
+   {
+    "nom": "Panier de courses Carrefour",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Carte bancaire Carrefour",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "informatique-et-telephonie-samsung",
+  "produits": [
+   {
+    "nom": "Galaxy S24",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Galaxy Z Flip",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "TV Samsung Crystal UHD",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "vetements-chaussures-et-sport-decathlon",
+  "produits": [
+   {
+    "nom": "Vélo BTWIN",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Tente Quechua 2 places",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Kalenji running shoes",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "vetements-chaussures-et-sport-adidas",
+  "produits": [
+   {
+    "nom": "Stan Smith",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Ultraboost",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Superstar",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ },
+ {
+  "type": "produits",
+  "gid": "hygiene-sante-sanofi",
+  "produits": [
+   {
+    "nom": "Doliprane 1000",
+    "note": "Produit phare."
+   },
+   {
+    "nom": "Maalox",
+    "note": "Produit phare."
+   }
+  ],
+  "fait": false
+ }
+]
