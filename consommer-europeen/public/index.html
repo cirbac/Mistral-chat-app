@@ -46,6 +46,7 @@
         <h2 class="home-titre">Catalogue</h2>
         <p class="vide">Consultez l'ensemble des marques référencées, classées par secteur et par statut, avec le détail de détention, de production et les sources pour chacune.</p>
         <button id="btn-catalogue" class="chip chip-active" type="button">Parcourir tout le catalogue →</button>
+        <button id="btn-verifier" class="chip" type="button">Vérifier une liste (copier-coller) →</button>
       </section>
       <section id="results" class="results hidden"></section>
       <section id="catalogue" class="hidden">
@@ -58,6 +59,20 @@
         <div class="sous-cats" id="cat-filtres-secteurs"></div>
         <div id="catalogue-results" class="results"></div>
         <button id="catalogue-plus" class="chip" type="button" hidden>Charger plus</button>
+      </section>
+      <section id="verifier" class="hidden">
+        <div class="cat-header">
+          <button class="retour" id="verifier-retour" type="button">← Accueil</button>
+          <h2>Vérifier une liste</h2>
+          <p class="cat-note" id="verifier-count"></p>
+        </div>
+        <p class="cat-note">Collez une liste de marques ou de produits (une par ligne, 200 max) : chaque ligne est vérifiée dans la base — statut, pays de contrôle, fiche détaillée.</p>
+        <form id="verifier-form" style="display:flex;flex-wrap:wrap;gap:8px;margin:12px 0">
+          <textarea id="verifier-texte" rows="8" style="width:100%" placeholder="ex.&#10;Danone&#10;Yaourt Danone nature&#10;L'Oréal&#10;Shampoing Elsève 6 huiles&#10;Marque inconnue XYZ"></textarea>
+          <button type="submit" class="chip chip-active">Vérifier la liste</button>
+          <span id="verifier-msg" class="cat-note"></span>
+        </form>
+        <div id="verifier-results"></div>
       </section>
       <div id="detail-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detail-titre">
         <div class="modal-card detail-card">

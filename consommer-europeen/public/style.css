@@ -1884,3 +1884,36 @@ body.hero-compact .chips {
 }
 /* Liens des sources : --accent vaut #282828 (redéfini en fin de :root), illisible sur fond sombre */
 .sources a { color: var(--or); }
+
+/* Vérifier une liste (copier-coller) */
+#verifier-form textarea {
+  background: var(--surface);
+  color: var(--texte);
+  border: 1px solid var(--bordure);
+  border-radius: var(--r-14);
+  padding: 12px;
+  font: inherit;
+  resize: vertical;
+}
+#verifier-form textarea:focus { outline: 2px solid var(--or); border-color: var(--or); }
+.verif-ligne {
+  border: 1px solid var(--bordure);
+  border-radius: var(--r-14);
+  padding: 10px 12px;
+  margin: 8px 0;
+  background: var(--surface);
+}
+.verif-ligne.verif-ko { opacity: 0.75; }
+.verif-head { margin-bottom: 6px; }
+.verif-hit {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 8px 10px;
+  border-radius: var(--r-8);
+  margin: 6px 0;
+  background: color-mix(in srgb, var(--st, var(--surface-elevee)) 14%, transparent);
+  border-left: 3px solid var(--st, var(--bordure));
+}
+.verif-nom { font-weight: 600; }
