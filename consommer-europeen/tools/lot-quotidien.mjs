@@ -9,6 +9,8 @@ const dataDir = join(root, 'data');
 const args = process.argv.slice(2);
 const nIdx = args.indexOf('--n');
 const N = nIdx !== -1 ? Math.max(1, parseInt(args[nIdx + 1] ?? '6', 10) || 6) : 6;
+const mIdx = args.indexOf('--m');
+const M = mIdx !== -1 ? Math.max(0, parseInt(args[mIdx + 1] ?? '8', 10) || 0) : 8;
 const DRY = args.includes('--dry');
 
 function slugify(s) {
@@ -130,6 +132,68 @@ for (const e of lot) {
   e.faitLe = aujourdhui;
 }
 
+// --- Améliorations du jour (plan-ameliorations.json) ---
+const amelPath = join(dataDir, 'plan-ameliorations.json');
+let amelFaites = 0;
+const amelResume = [];
+if (existsSync(amelPath)) {
+  const amel = JSON.parse(readFileSync(amelPath, 'utf8'));
+  const dispoAmel = amel.filter((t) => !t.fait);
+  const taches = dispoAmel.slice(0, M);
+  const fileOf = new Map();
+  for (const f of readdirSync(dataDir).filter((f) => /^(secteurs|extensions)-.*\.json$/.test(f)).sort()) {
+    const data = JSON.parse(readFileSync(join(dataDir, f), 'utf8'));
+    const blocks = Array.isArray(data) ? data : Object.values(data);
+    for (const b of blocks) for (const gg of b.groupes ?? []) fileOf.set(gg.id, { f, data, gg });
+  }
+  const dirty = new Map();
+  for (const t of taches) {
+    const loc = fileOf.get(t.gid);
+    const gg = loc ? loc.gg : null;
+    if (!gg) { t.fait = true; t.ignore = 'groupe-introuvable'; continue; }
+    if (t.type === 'source' && t.texte) {
+      nextSource += 1;
+      src[String(nextSource)] = String(t.texte).slice(0, 500);
+      gg.sources = [...(gg.sources ?? []), nextSource];
+      const tag = '[' + nextSource + ']';
+      if (!String(gg.commentaire ?? '').includes(tag)) gg.commentaire = (String(gg.commentaire ?? '') + ' ' + tag).trim();
+      amelResume.push('source #' + nextSource + ' → ' + gg.groupe);
+    } else if (t.type === 'motsCles' && Array.isArray(t.mots)) {
+      const add = t.mots.map((k) => String(k).trim().toLowerCase()).filter((k) => k.length >= 2 && k.length <= 40);
+      if (add.length) {
+        mots[t.gid] = [...new Set([...(mots[t.gid] ?? []), ...add])];
+        gg.aliases = [...new Set([...(gg.aliases ?? []), ...add])];
+        amelResume.push('mots-clés +' + add.length + ' → ' + gg.groupe);
+      }
+    } else if (t.type === 'enrich' && t.domaine) {
+      enr[t.gid] = { domaine: String(t.domaine).slice(0, 60), histoire: String(t.histoire ?? '').slice(0, 400) };
+      amelResume.push('enrich → ' + gg.groupe);
+    } else if (t.type === 'produits' && Array.isArray(t.produits)) {
+      gg.produits = gg.produits ?? [];
+      const deja = new Set(gg.produits.map((p2) => p2.id));
+      let n = 0;
+      for (const pr of t.produits) {
+        const pn = String(pr.nom ?? '').trim();
+        if (pn.length < 2 || pn.length > 120) continue;
+        const pid = t.gid + '-' + slugify(pn).slice(0, 60);
+        if (deja.has(pid)) continue;
+        deja.add(pid);
+        gg.produits.push({ id: pid, nom: pn, assemblage: pr.assemblage ? String(pr.assemblage).slice(0, 80) : null, origine_pieces: pr.origine_pieces ? String(pr.origine_pieces).slice(0, 80) : null, certifications: Array.isArray(pr.certifications) ? pr.certifications : [], note: pr.note ? String(pr.note).slice(0, 300) : '' });
+        n++;
+      }
+      if (n) amelResume.push('+' + n + ' produit(s) → ' + gg.groupe);
+    }
+    t.fait = true;
+    t.faitLe = aujourdhui;
+    if (loc) dirty.set(loc.f, loc.data);
+    amelFaites++;
+  }
+  for (const [f, data] of dirty) writeFileSync(join(dataDir, f), JSON.stringify(data, null, 1) + '\n');
+  writeFileSync(amelPath, JSON.stringify(amel, null, 1) + '\n');
+  console.log('Améliorations appliquées : ' + amelFaites + ' (restantes: ' + (dispoAmel.length - taches.length) + ')');
+  for (const r of amelResume.slice(0, 20)) console.log('  - ' + r);
+}
+
 writeFileSync(join(dataDir, `extensions-lot${lotTag}.json`), JSON.stringify(ext, null, 1) + '\n');
 writeFileSync(join(dataDir, `sources-lot${lotTag}.json`), JSON.stringify(src, null, 1) + '\n');
 if (Object.keys(prod).length) writeFileSync(join(dataDir, `produits-lot${lotTag}.json`), JSON.stringify(prod, null, 1) + '\n');
@@ -159,7 +223,7 @@ ${lot.length} marque(s) piochées dans \`data/plan-ajouts.json\` (${dispo.length
 
 ${lot.map((e) => `- **${e.groupe.groupe}** (${e.num}${e.groupe.siege_pays ? ', ' + e.groupe.siege_pays : ''}, ${e.groupe.statut})${(e.produits ?? []).length ? ` — ${(e.produits ?? []).length} produit(s)` : ''}`).join('\n')}
 
-Fichiers : \`extensions-lot${lotTag}.json\`, \`sources-lot${lotTag}.json\`, \`produits-lot${lotTag}.json\` + mots-clés + enrichissements + plan marqué fait.
+Fichiers : \`extensions-lot${lotTag}.json\`, \`sources-lot${lotTag}.json\`, \`produits-lot${lotTag}.json\` + améliorations (sources/mots-clés/enrich/produits) depuis \`plan-ameliorations.json\`, \`sources-lot${lotTag}.json\`, \`produits-lot${lotTag}.json\` + mots-clés + enrichissements + plan marqué fait.
 
 ## Vérification (CI)
 - check:data, build tsc, tests recherche 67/67 (lancés aussi en local avant commit)
