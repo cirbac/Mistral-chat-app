@@ -151,7 +151,7 @@ if (DRY) {
 }
 
 const dateTag = new Date().toISOString().slice(0, 10).replace(/-/g, '');
-const branch = `bot/lot-auto-${dateTag}`;
+let branch = `bot/lot-auto-${dateTag}`;
 const titre = `Lot auto ${new Date().toISOString().slice(0, 10)} : ${lot.length} marques depuis le plan (${[...new Set(lot.map((e) => e.num))].join(', ')})`;
 const body = `## Lot automatique du ${aujourdhui}
 
@@ -168,7 +168,12 @@ writeFileSync('/tmp/lot-titre.txt', titre + '\n');
 writeFileSync('/tmp/lot-body.md', body);
 
 execSync('git config user.name "vibe-bot" && git config user.email "vibe-bot@mistral.ai"', { cwd: join(root, '..'), stdio: 'inherit' });
-execSync(`git checkout -b ${branch}`, { cwd: join(root, '..'), stdio: 'inherit' });
+if (process.env.LOT_DIRECT_MAIN === '1') {
+  branch = 'main';
+  console.log('Mode direct-main : commit sur la branche courante (main)');
+} else {
+  execSync(`git checkout -b ${branch}`, { cwd: join(root, '..'), stdio: 'inherit' });
+}
 execSync('git add consommer-europeen/data && git commit -m ' + JSON.stringify(titre + `\n\nGénéré automatiquement par tools/lot-quotidien.mjs (plan-ajouts.json).\n\nCo-authored-by: vibe-bot <vibe@mistral.ai>`), { cwd: join(root, '..'), stdio: 'inherit' });
 console.log(`Branche prête : ${branch}`);
 console.log(JSON.stringify({ branch, lot: lotTag, n: lot.length, restant: dispo.length - lot.length }));
