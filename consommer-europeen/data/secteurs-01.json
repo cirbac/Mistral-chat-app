@@ -50,8 +50,10 @@
     "siege_pays": "NL",
     "statut": "rang1",
     "sous_categorie": "Constructeurs européens",
-    "commentaire": "Contrôle européen. Site d'assemblage à vérifier modèle par modèle.",
-    "sources": [],
+    "commentaire": "Contrôle européen. Site d'assemblage à vérifier modèle par modèle. [529]",
+    "sources": [
+     529
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []
@@ -71,8 +73,10 @@
     "siege_pays": "DE",
     "statut": "rang1",
     "sous_categorie": "Constructeurs européens",
-    "commentaire": "Contrôle européen.",
-    "sources": [],
+    "commentaire": "Contrôle européen. [530]",
+    "sources": [
+     530
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []
@@ -125,8 +129,10 @@
     "siege_pays": "DE",
     "statut": "vigilance",
     "sous_categorie": "Constructeurs européens",
-    "commentaire": "BAIC (constructeur public chinois) détient 9,98 % et Li Shufu (fondateur de Geely) environ 9,7 %",
-    "sources": [],
+    "commentaire": "BAIC (constructeur public chinois) détient 9,98 % et Li Shufu (fondateur de Geely) environ 9,7 % [531]",
+    "sources": [
+     531
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []
@@ -141,8 +147,10 @@
     "siege_pays": "JP",
     "statut": "rang2",
     "sous_categorie": "Constructeurs japonais et sud-coréens",
-    "commentaire": "Partenaire de Renault au sein de l'Alliance.",
-    "sources": [],
+    "commentaire": "Partenaire de Renault au sein de l'Alliance. [532]",
+    "sources": [
+     532
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []
@@ -157,8 +165,10 @@
     "siege_pays": "JP",
     "statut": "rang2",
     "sous_categorie": "Constructeurs japonais et sud-coréens",
-    "commentaire": "",
-    "sources": [],
+    "commentaire": "[533]",
+    "sources": [
+     533
+    ],
     "lieux_production": [],
     "certifications": [],
     "produits": []

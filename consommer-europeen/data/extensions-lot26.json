@@ -1,0 +1,49 @@
+{
+ "12": {
+  "groupes": [
+   {
+    "id": "distribution-et-paiement-sarenza",
+    "groupe": "Sarenza",
+    "marques": [
+     "Sarenza"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "E-commerce français de chaussures fondé en 2006.",
+    "sources": [],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": []
+   },
+   {
+    "id": "distribution-et-paiement-wish",
+    "groupe": "Wish",
+    "marques": [
+     "Wish"
+    ],
+    "siege": "États-Unis (San Francisco)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Marketplace américain (ContextLogic). Hors de vos zones. [528]",
+    "sources": [
+     528
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "distribution-et-paiement-wish-achat-wish-marketplace",
+      "nom": "Achat Wish (marketplace)",
+      "assemblage": "États-Unis (service numérique)",
+      "origine_pieces": "Chine",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ }
+}

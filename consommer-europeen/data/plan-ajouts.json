@@ -2595,8 +2595,9 @@
     "histoire": "Site français de vente de chaussures en ligne fondé en 2006 à Paris."
    }
   },
-  "fait": false,
-  "produits": []
+  "fait": true,
+  "produits": [],
+  "faitLe": "2026-11-28"
  },
  {
   "num": "12",
@@ -2666,7 +2667,8 @@
    "domaine": "wish.com",
    "histoire": "Marketplace américain fondé en 2010 à San Francisco, connu pour ses prix très bas."
   },
-  "fait": false
+  "fait": true,
+  "faitLe": "2026-11-28"
  },
  {
   "num": "04",

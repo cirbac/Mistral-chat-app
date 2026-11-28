@@ -3,31 +3,36 @@
   "type": "source",
   "gid": "automobile-stellantis",
   "texte": "Wikipédie — Stellantis — https://fr.wikipedia.org/wiki/Stellantis",
-  "fait": false
+  "fait": true,
+  "faitLe": "2026-11-28"
  },
  {
   "type": "source",
   "gid": "automobile-volkswagen-group",
   "texte": "Wikipédie — Volkswagen Group — https://fr.wikipedia.org/wiki/Volkswagen_Group",
-  "fait": false
+  "fait": true,
+  "faitLe": "2026-11-28"
  },
  {
   "type": "source",
   "gid": "automobile-mercedes-benz-group",
   "texte": "Wikipédie — Mercedes-Benz Group — https://fr.wikipedia.org/wiki/Mercedes-Benz_Group",
-  "fait": false
+  "fait": true,
+  "faitLe": "2026-11-28"
  },
  {
   "type": "source",
   "gid": "automobile-nissan",
   "texte": "Wikipédie — Nissan — https://fr.wikipedia.org/wiki/Nissan",
-  "fait": false
+  "fait": true,
+  "faitLe": "2026-11-28"
  },
  {
   "type": "source",
   "gid": "automobile-mazda",
   "texte": "Wikipédie — Mazda — https://fr.wikipedia.org/wiki/Mazda",
-  "fait": false
+  "fait": true,
+  "faitLe": "2026-11-28"
  },
  {
   "type": "source",

@@ -1244,5 +1244,9 @@
  "distribution-et-paiement-normal": {
   "domaine": "normal.com",
   "histoire": "Chaîne danoise fondée en 2004, spécialisée dans les cosmétiques et articles de maison à prix cassés."
+ },
+ "distribution-et-paiement-wish": {
+  "domaine": "wish.com",
+  "histoire": "Marketplace américain fondé en 2010 à San Francisco, connu pour ses prix très bas."
  }
 }
