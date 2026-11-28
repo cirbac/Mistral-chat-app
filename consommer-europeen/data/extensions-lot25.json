@@ -1,0 +1,346 @@
+{
+ "12": {
+  "groupes": [
+   {
+    "id": "distribution-et-paiement-normal",
+    "groupe": "Normal",
+    "marques": [
+     "Normal"
+    ],
+    "siege": "Danemark (Copenhague)",
+    "siege_pays": "DK",
+    "statut": "rang1",
+    "sous_categorie": "Équipement, maison et commerce en ligne",
+    "commentaire": "Chaîne danoise de magasins discount (cosmétiques, maison) fondée en 2004. UE. [527]",
+    "sources": [
+     527
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "distribution-et-paiement-normal-achats-normal-cosmetiques-maison",
+      "nom": "Achats Normal (cosmétiques, maison)",
+      "assemblage": "Danemark",
+      "origine_pieces": "Europe, Chine",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ },
+ "16": {
+  "groupes": [
+   {
+    "id": "hotellerie-et-hebergement-mama-shelter",
+    "groupe": "Mama Shelter",
+    "marques": [
+     "Mama Shelter"
+    ],
+    "siege": "France (Paris)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Chaîne d'hôtels lifestyle française fondée en 2008. [522]",
+    "sources": [
+     522
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hotellerie-et-hebergement-mama-shelter-nuit-mama-shelter-paris",
+      "nom": "Nuit Mama Shelter Paris",
+      "assemblage": "France",
+      "origine_pieces": "France",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "hotellerie-et-hebergement-hotelf1-accor",
+    "groupe": "HotelF1 (Accor)",
+    "marques": [
+     "Hotel F1"
+    ],
+    "siege": "France (Issy-les-Moulineaux)",
+    "siege_pays": "FR",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Hôtels super-économiques de la gamme F1 d'Accor. [523]",
+    "sources": [
+     523
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hotellerie-et-hebergement-hotelf1-accor-nuit-hotel-f1",
+      "nom": "Nuit hôtel F1",
+      "assemblage": "France",
+      "origine_pieces": "France",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "hotellerie-et-hebergement-ruby-hotels",
+    "groupe": "Ruby Hotels",
+    "marques": [
+     "Ruby"
+    ],
+    "siege": "Allemagne (Düsseldorf)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Petite chaîne d'hôtels design allemande fondée en 2013. UE. [524]",
+    "sources": [
+     524
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hotellerie-et-hebergement-ruby-hotels-nuit-ruby-hotel-berlin-hambourg",
+      "nom": "Nuit Ruby Hotel (Berlin, Hambourg…)",
+      "assemblage": "Allemagne",
+      "origine_pieces": "Allemagne",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "hotellerie-et-hebergement-meininger",
+    "groupe": "Meininger",
+    "marques": [
+     "Meininger"
+    ],
+    "siege": "Allemagne (Berlin)",
+    "siege_pays": "DE",
+    "statut": "rang1",
+    "sous_categorie": "Groupes hôteliers",
+    "commentaire": "Chaîne d'hôtels hybrides/auberges urbaines allemande fondée en 1999. UE. [525]",
+    "sources": [
+     525
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "hotellerie-et-hebergement-meininger-nuit-meininger-auberge-hotel-hybride",
+      "nom": "Nuit Meininger (auberge/hôtel hybride)",
+      "assemblage": "Allemagne",
+      "origine_pieces": "Allemagne",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ },
+ "20": {
+  "groupes": [
+   {
+    "id": "medias-streaming-et-culture-rakuten-tv",
+    "groupe": "Rakuten TV",
+    "marques": [
+     "Rakuten TV"
+    ],
+    "siege": "France (Paris) — groupe japonais Rakuten",
+    "siege_pays": "FR",
+    "statut": "rang2",
+    "sous_categorie": "Télévision et vidéo en ligne",
+    "commentaire": "Plateforme de VOD du groupe japonais Rakuten, siège Europe à Paris. Haute démocratie (groupe JP). [526]",
+    "sources": [
+     526
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "medias-streaming-et-culture-rakuten-tv-vod-rakuten-tv",
+      "nom": "VOD Rakuten TV",
+      "assemblage": "France (service numérique)",
+      "origine_pieces": "Japon, France",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ },
+ "21": {
+  "groupes": [
+   {
+    "id": "restauration-et-livraison-de-repas-leon-de-bruxelles",
+    "groupe": "Léon de Bruxelles",
+    "marques": [
+     "Léon de Bruxelles"
+    ],
+    "siege": "Belgique (Bruxelles)",
+    "siege_pays": "BE",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne belge de fruits de mer et moules-frites fondée en 1893. UE. [516]",
+    "sources": [
+     516
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-de-repas-leon-de-bruxelles-moules-frites-leon-de-bruxelles",
+      "nom": "Moules-frites Léon de Bruxelles",
+      "assemblage": "Belgique",
+      "origine_pieces": "Belgique",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-pret-a-manger",
+    "groupe": "Pret A Manger",
+    "marques": [
+     "Pret A Manger"
+    ],
+    "siege": "Royaume-Uni (Londres)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne britannique de sandwichs frais (groupe JAB). [517]",
+    "sources": [
+     517
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-de-repas-pret-a-manger-sandwich-frais-pret-a-manger",
+      "nom": "Sandwich frais Pret A Manger",
+      "assemblage": "Royaume-Uni",
+      "origine_pieces": "Royaume-Uni",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-greggs",
+    "groupe": "Greggs",
+    "marques": [
+     "Greggs"
+    ],
+    "siege": "Royaume-Uni (Newcastle)",
+    "siege_pays": "GB",
+    "statut": "rang1",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne britannique de boulangerie-snack fondée en 1939 (sausage rolls). [518]",
+    "sources": [
+     518
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-de-repas-greggs-sausage-roll-greggs",
+      "nom": "Sausage roll Greggs",
+      "assemblage": "Royaume-Uni",
+      "origine_pieces": "Royaume-Uni",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "restauration-et-livraison-de-repas-five-guys",
+    "groupe": "Five Guys",
+    "marques": [
+     "Five Guys"
+    ],
+    "siege": "États-Unis (Alexandria, Virginie)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Restauration rapide et cafés",
+    "commentaire": "Chaîne américaine de burgers. Hors de vos zones. [519]",
+    "sources": [
+     519
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "restauration-et-livraison-de-repas-five-guys-burger-five-guys",
+      "nom": "Burger Five Guys",
+      "assemblage": "États-Unis",
+      "origine_pieces": "États-Unis",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ },
+ "04": {
+  "groupes": [
+   {
+    "id": "electromenager-braun-p-g",
+    "groupe": "Braun (P&G)",
+    "marques": [
+     "Braun"
+    ],
+    "siege": "Allemagne (Kronberg)",
+    "siege_pays": "DE",
+    "statut": "hors_zones",
+    "sous_categorie": "Petit électroménager",
+    "commentaire": "Marque allemande d'épilateurs/rasoirs rachetée par Procter & Gamble (US). Siège DE, contrôle US. [520]",
+    "sources": [
+     520
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "electromenager-braun-p-g-epilateur-braun-silk-epil",
+      "nom": "Épilateur Braun Silk-épil",
+      "assemblage": "Allemagne",
+      "origine_pieces": "Allemagne, Chine",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   },
+   {
+    "id": "electromenager-shark-ninja",
+    "groupe": "Shark Ninja",
+    "marques": [
+     "Shark"
+    ],
+    "siege": "États-Unis (Needham, Massachusetts)",
+    "siege_pays": "US",
+    "statut": "hors_zones",
+    "sous_categorie": "Petit électroménager",
+    "commentaire": "Fabricant américain d'aspirateurs et appareils de cuisine (Shark). Hors de vos zones. [521]",
+    "sources": [
+     521
+    ],
+    "lieux_production": [],
+    "certifications": [],
+    "produits": [
+     {
+      "id": "electromenager-shark-ninja-aspirateur-sans-fil-shark",
+      "nom": "Aspirateur sans fil Shark",
+      "assemblage": "Chine",
+      "origine_pieces": "Chine",
+      "certifications": [],
+      "note": ""
+     }
+    ]
+   }
+  ]
+ }
+}
