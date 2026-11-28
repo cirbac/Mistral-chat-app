@@ -1196,5 +1196,53 @@
  "restauration-et-livraison-de-repas-big-mamma": {
   "domaine": "bigmamma.com",
   "histoire": "Groupe italien fondé en 2015 à Milan par Victor Lugli et Tigrane Seydoux, célèbre pour ses trattorias géantes à Paris et en Europe."
+ },
+ "restauration-et-livraison-de-repas-leon-de-bruxelles": {
+  "domaine": "leon-de-bruxelles.com",
+  "histoire": "Chaîne belge fondée en 1893 à Bruxelles, spécialisée dans les moules-frites et les fruits de mer."
+ },
+ "restauration-et-livraison-de-repas-pret-a-manger": {
+  "domaine": "pret.com",
+  "histoire": "Chaîne britannique fondée en 1986 à Londres, spécialisée dans les sandwichs et salades préparés frais, présente dans une dizaine de pays."
+ },
+ "restauration-et-livraison-de-repas-greggs": {
+  "domaine": "greggs.com",
+  "histoire": "Chaîne britannique fondée en 1939 à Newcastle, célèbre pour ses sausage rolls, avec plus de 2 000 magasins au Royaume-Uni."
+ },
+ "restauration-et-livraison-de-repas-five-guys": {
+  "domaine": "five guys.com",
+  "histoire": "Chaîne américaine de burgers fondée en 1986 en Virginie, connue pour ses frites fraîches et ses sauces."
+ },
+ "electromenager-braun-p-g": {
+  "domaine": "braun.com",
+  "histoire": "Marque allemande fondée en 1921, rachetée par Gillette puis Procter & Gamble (États-Unis) en 2005."
+ },
+ "electromenager-shark-ninja": {
+  "domaine": "sharkninja.com",
+  "histoire": "Entreprise américaine fondée en 1998, connue pour ses aspirateurs sans fil Shark et ses robots."
+ },
+ "hotellerie-et-hebergement-mama-shelter": {
+  "domaine": "mamashelter.com",
+  "histoire": "Chaîne française fondée en 2008 par les frères Trigano (Accor), présente dans une quinzaine de villes."
+ },
+ "hotellerie-et-hebergement-hotelf1-accor": {
+  "domaine": "hotel-f1.com",
+  "histoire": "Gamme super-économique du groupe Accor, lancée en 2006, avec plus de 200 hôtels en France."
+ },
+ "hotellerie-et-hebergement-ruby-hotels": {
+  "domaine": "ruby-hotels.com",
+  "histoire": "Chaîne allemande fondée en 2013, une dizaine d'hôtels design dans les grandes villes allemandes."
+ },
+ "hotellerie-et-hebergement-meininger": {
+  "domaine": "meininger-hotels.com",
+  "histoire": "Chaîne allemande fondée en 1999 à Berlin, à mi-chemin entre auberge de jeunesse et hôtel design."
+ },
+ "medias-streaming-et-culture-rakuten-tv": {
+  "domaine": "rakuten.tv",
+  "histoire": "Plateforme de vidéo à la demande du groupe japonais Rakuten, dont le siège européen est à Paris."
+ },
+ "distribution-et-paiement-normal": {
+  "domaine": "normal.com",
+  "histoire": "Chaîne danoise fondée en 2004, spécialisée dans les cosmétiques et articles de maison à prix cassés."
  }
 }

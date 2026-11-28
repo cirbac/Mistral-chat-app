@@ -1,0 +1,122 @@
+{
+ "restauration-et-livraison-de-repas-leon-de-bruxelles": [
+  {
+   "id": "restauration-et-livraison-de-repas-leon-de-bruxelles-moules-frites-leon-de-bruxelles",
+   "nom": "Moules-frites Léon de Bruxelles",
+   "assemblage": "Belgique",
+   "origine_pieces": "Belgique",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "restauration-et-livraison-de-repas-pret-a-manger": [
+  {
+   "id": "restauration-et-livraison-de-repas-pret-a-manger-sandwich-frais-pret-a-manger",
+   "nom": "Sandwich frais Pret A Manger",
+   "assemblage": "Royaume-Uni",
+   "origine_pieces": "Royaume-Uni",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "restauration-et-livraison-de-repas-greggs": [
+  {
+   "id": "restauration-et-livraison-de-repas-greggs-sausage-roll-greggs",
+   "nom": "Sausage roll Greggs",
+   "assemblage": "Royaume-Uni",
+   "origine_pieces": "Royaume-Uni",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "restauration-et-livraison-de-repas-five-guys": [
+  {
+   "id": "restauration-et-livraison-de-repas-five-guys-burger-five-guys",
+   "nom": "Burger Five Guys",
+   "assemblage": "États-Unis",
+   "origine_pieces": "États-Unis",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "electromenager-braun-p-g": [
+  {
+   "id": "electromenager-braun-p-g-epilateur-braun-silk-epil",
+   "nom": "Épilateur Braun Silk-épil",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Allemagne, Chine",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "electromenager-shark-ninja": [
+  {
+   "id": "electromenager-shark-ninja-aspirateur-sans-fil-shark",
+   "nom": "Aspirateur sans fil Shark",
+   "assemblage": "Chine",
+   "origine_pieces": "Chine",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "hotellerie-et-hebergement-mama-shelter": [
+  {
+   "id": "hotellerie-et-hebergement-mama-shelter-nuit-mama-shelter-paris",
+   "nom": "Nuit Mama Shelter Paris",
+   "assemblage": "France",
+   "origine_pieces": "France",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "hotellerie-et-hebergement-hotelf1-accor": [
+  {
+   "id": "hotellerie-et-hebergement-hotelf1-accor-nuit-hotel-f1",
+   "nom": "Nuit hôtel F1",
+   "assemblage": "France",
+   "origine_pieces": "France",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "hotellerie-et-hebergement-ruby-hotels": [
+  {
+   "id": "hotellerie-et-hebergement-ruby-hotels-nuit-ruby-hotel-berlin-hambourg",
+   "nom": "Nuit Ruby Hotel (Berlin, Hambourg…)",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Allemagne",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "hotellerie-et-hebergement-meininger": [
+  {
+   "id": "hotellerie-et-hebergement-meininger-nuit-meininger-auberge-hotel-hybride",
+   "nom": "Nuit Meininger (auberge/hôtel hybride)",
+   "assemblage": "Allemagne",
+   "origine_pieces": "Allemagne",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "medias-streaming-et-culture-rakuten-tv": [
+  {
+   "id": "medias-streaming-et-culture-rakuten-tv-vod-rakuten-tv",
+   "nom": "VOD Rakuten TV",
+   "assemblage": "France (service numérique)",
+   "origine_pieces": "Japon, France",
+   "certifications": [],
+   "note": ""
+  }
+ ],
+ "distribution-et-paiement-normal": [
+  {
+   "id": "distribution-et-paiement-normal-achats-normal-cosmetiques-maison",
+   "nom": "Achats Normal (cosmétiques, maison)",
+   "assemblage": "Danemark",
+   "origine_pieces": "Europe, Chine",
+   "certifications": [],
+   "note": ""
+  }
+ ]
+}

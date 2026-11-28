@@ -7236,5 +7236,93 @@
   "pates",
   "pizza",
   "paris"
+ ],
+ "restauration-et-livraison-de-repas-leon-de-bruxelles": [
+  "leon de bruxelles",
+  "moules frites",
+  "fruits de mer",
+  "belgique",
+  "restaurant"
+ ],
+ "restauration-et-livraison-de-repas-pret-a-manger": [
+  "pret a manger",
+  "sandwich",
+  "salade",
+  "snack",
+  "londres",
+  "royaume-uni"
+ ],
+ "restauration-et-livraison-de-repas-greggs": [
+  "greggs",
+  "sausage roll",
+  "boulangerie",
+  "snack",
+  "royaume-uni"
+ ],
+ "restauration-et-livraison-de-repas-five-guys": [
+  "five guys",
+  "burger",
+  "frites",
+  "usa"
+ ],
+ "electromenager-braun-p-g": [
+  "braun",
+  "epilateur",
+  "rasoir",
+  "silk-epil",
+  "allemagne",
+  "usa"
+ ],
+ "electromenager-shark-ninja": [
+  "shark",
+  "aspirateur",
+  "sans fil",
+  "usa"
+ ],
+ "hotellerie-et-hebergement-mama-shelter": [
+  "mama shelter",
+  "hotel",
+  "paris",
+  "design",
+  "france",
+  "lifestyle"
+ ],
+ "hotellerie-et-hebergement-hotelf1-accor": [
+  "hotel f1",
+  "f1",
+  "hotel pas cher",
+  "accor",
+  "france",
+  "budget"
+ ],
+ "hotellerie-et-hebergement-ruby-hotels": [
+  "ruby",
+  "hotel",
+  "allemagne",
+  "design",
+  "berlin"
+ ],
+ "hotellerie-et-hebergement-meininger": [
+  "meininger",
+  "auberge",
+  "hotel",
+  "berlin",
+  "allemagne",
+  "jeunes"
+ ],
+ "medias-streaming-et-culture-rakuten-tv": [
+  "rakuten",
+  "vod",
+  "films",
+  "streaming",
+  "japon",
+  "paris"
+ ],
+ "distribution-et-paiement-normal": [
+  "normal",
+  "magasin",
+  "discount",
+  "cosmetique",
+  "danemark"
  ]
 }

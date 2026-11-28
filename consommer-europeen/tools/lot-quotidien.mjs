@@ -172,8 +172,8 @@ if (process.env.LOT_DIRECT_MAIN === '1') {
   branch = 'main';
   console.log('Mode direct-main : commit sur la branche courante (main)');
 } else {
-  execSync(`git checkout -b ${branch}`, { cwd: join(root, '..'), stdio: 'inherit' });
+  execSync(`git checkout -B ${branch}`, { cwd: join(root, '..'), stdio: 'inherit' });
 }
-execSync('git add consommer-europeen/data && git commit -m ' + JSON.stringify(titre + `\n\nGénéré automatiquement par tools/lot-quotidien.mjs (plan-ajouts.json).\n\nCo-authored-by: vibe-bot <vibe@mistral.ai>`), { cwd: join(root, '..'), stdio: 'inherit' });
+execSync('git add consommer-europeen/data && git commit --no-gpg-sign -m ' + JSON.stringify(titre + `\n\nGénéré automatiquement par tools/lot-quotidien.mjs (plan-ajouts.json).\n\nCo-authored-by: vibe-bot <vibe@mistral.ai>`), { cwd: join(root, '..'), stdio: 'inherit' });
 console.log(`Branche prête : ${branch}`);
 console.log(JSON.stringify({ branch, lot: lotTag, n: lot.length, restant: dispo.length - lot.length }));
