@@ -48,6 +48,14 @@ const el = {
   catalogueResults: document.getElementById('catalogue-results'),
   cataloguePlus: document.getElementById('catalogue-plus'),
   btnCatalogue: document.getElementById('btn-catalogue'),
+  btnVerifier: document.getElementById('btn-verifier'),
+  verifier: document.getElementById('verifier'),
+  verifierRetour: document.getElementById('verifier-retour'),
+  verifierForm: document.getElementById('verifier-form'),
+  verifierTexte: document.getElementById('verifier-texte'),
+  verifierMsg: document.getElementById('verifier-msg'),
+  verifierCount: document.getElementById('verifier-count'),
+  verifierResults: document.getElementById('verifier-results'),
   heroStats: document.getElementById('hero-stats'),
   results: document.getElementById('results'),
   detail: document.getElementById('detail'),
@@ -187,6 +195,7 @@ function show(view) {
   el.home.classList.toggle('hidden', view !== 'home');
   el.results.classList.toggle('hidden', view === 'home' || view === 'catalogue');
   el.catalogue.classList.toggle('hidden', view !== 'catalogue');
+  el.verifier.classList.toggle('hidden', view !== 'verifier');
   closeDetail();
   if (view === 'home') el.search.value = '';
 }
@@ -1117,12 +1126,108 @@ function routeFromHash() {
     showCatalogue(true);
     return;
   }
+  if (h === '#/verifier') {
+    showVerifier();
+    return;
+  }
   renderHome();
 }
 window.addEventListener('hashchange', routeFromHash);
 
 el.btnCatalogue.addEventListener('click', () => showCatalogue(true));
 el.catalogueRetour.addEventListener('click', () => renderHome());
+el.btnVerifier.addEventListener('click', () => { location.hash = '#/verifier'; });
+el.verifierRetour.addEventListener('click', () => renderHome());
+
+function showVerifier() {
+  state.precedent = { type: 'home' };
+  show('verifier');
+  window.scrollTo({ top: 0 });
+}
+
+function ligneVerif(l) {
+  const row = document.createElement('div');
+  row.className = 'verif-ligne ' + (l.trouve ? 'verif-ok' : 'verif-ko');
+  const head = document.createElement('div');
+  head.className = 'verif-head';
+  const q = document.createElement('strong');
+  q.textContent = l.texte;
+  head.appendChild(q);
+  if (l.corrige && l.corrige !== l.texte.toLowerCase()) {
+    const c = document.createElement('span');
+    c.className = 'cat-note';
+    c.textContent = ` → « ${l.corrige} »`;
+    head.appendChild(c);
+  }
+  row.appendChild(head);
+  if (l.horsPrefUniquement) {
+    const p = document.createElement('p');
+    p.className = 'cat-note';
+    p.textContent = 'Présent dans la base, mais hors de votre préférence actuelle.';
+    row.appendChild(p);
+  }
+  if (l.trouve && l.top.length) {
+    for (const g of l.top) {
+      const hit = document.createElement('div');
+      hit.className = 'verif-hit st-' + g.statut;
+      hit.style.setProperty('--st', `var(--st-${g.statut})`);
+      const badge = document.createElement('span');
+      badge.className = 'badge st-' + g.statut;
+      badge.appendChild(picto(g.statut, 16));
+      const bl = document.createElement('span');
+      bl.textContent = g.statutLabel || statutMeta(g.statut).label;
+      badge.appendChild(bl);
+      const nom = document.createElement('span');
+      nom.className = 'verif-nom';
+      nom.textContent = g.groupe;
+      const ctrl = document.createElement('span');
+      ctrl.className = 'cat-note';
+      ctrl.textContent = `contrôlé depuis ${PAYS[g.siege_pays] || g.siege_pays}`;
+      const voir = document.createElement('button');
+      voir.type = 'button';
+      voir.className = 'chip';
+      voir.textContent = 'Voir la fiche →';
+      voir.addEventListener('click', () => { location.hash = '#/marque/' + encodeURIComponent(g.id); });
+      hit.append(badge, nom, ctrl, voir);
+      row.appendChild(hit);
+    }
+    if (l.alternatives.length) {
+      const alt = document.createElement('p');
+      alt.className = 'cat-note';
+      alt.textContent = 'Hors de votre préférence : ' + l.alternatives.map((g) => g.groupe).join(', ');
+      row.appendChild(alt);
+    }
+  } else {
+    const p = document.createElement('p');
+    p.className = 'cat-note';
+    p.textContent = 'Non référencé dans la base.';
+    row.appendChild(p);
+  }
+  return row;
+}
+
+el.verifierForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  el.verifierMsg.textContent = '';
+  el.verifierResults.textContent = '';
+  const texte = el.verifierTexte.value;
+  if (!texte.trim()) return;
+  el.verifierMsg.textContent = 'Vérification en cours…';
+  try {
+    const res = await fetch(`/api/verifier?pref=${state.pref}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ texte }),
+    });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(data.error || `Erreur ${res.status}`);
+    el.verifierCount.textContent = `${data.total} ligne${data.total > 1 ? 's' : ''} · ${data.trouves} trouvée${data.trouves > 1 ? 's' : ''} dans la base`;
+    for (const l of data.lignes) el.verifierResults.appendChild(ligneVerif(l));
+    el.verifierMsg.textContent = '';
+  } catch (err) {
+    el.verifierMsg.textContent = err.message;
+  }
+});
 
 function renderFiltresCatalogue() {
   el.catFiltresStatuts.textContent = '';

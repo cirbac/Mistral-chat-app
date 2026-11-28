@@ -655,6 +655,33 @@ app.get('/api/search', (req, res) => {
   res.json(out);
 });
 
+app.post('/api/verifier', (req, res) => {
+  const texte: string = typeof req.body?.texte === 'string' ? req.body.texte : '';
+  const lignes: string[] = texte
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter((l) => l.length >= 2 && l.length <= 120)
+    .slice(0, 200);
+  if (!lignes.length) {
+    res.status(400).json({ error: 'Aucune ligne exploitable (2 à 120 caractères par ligne, 200 lignes max).' });
+    return;
+  }
+  const pref = getPref(req);
+  const carte = (x: { g: Groupe; s: Secteur; score: number }) => lightGroupe({ ...withStatut(x.g, pref, x.s), score: x.score });
+  const lignesOut = lignes.map((l: string) => {
+    const r = moteur.rechercher(l, (g) => recommande(g.statut, g.siege_pays, pref));
+    return {
+      texte: l,
+      corrige: r.corrige,
+      trouve: r.recommandes.length > 0 || r.masques.length > 0,
+      horsPrefUniquement: r.recommandes.length === 0 && r.masques.length > 0,
+      top: (r.recommandes.length ? r.recommandes : r.masques).slice(0, 3).map(carte),
+      alternatives: (r.recommandes.length ? r.masques : r.recommandes).slice(0, 3).map(carte),
+    };
+  });
+  res.json({ pref, total: lignes.length, trouves: lignesOut.filter((x: { trouve: boolean }) => x.trouve).length, lignes: lignesOut });
+});
+
 app.get('/api/secteurs/:id', (req, res) => {
   const pref = getPref(req);
   const s = secteurs.find((x) => x.id === req.params.id);
